@@ -1,0 +1,96 @@
+body, .p {
+    background-color: black; !important
+    color: white; !important
+}
+
+div.document {
+    background-color: black; !important
+}
+
+/* Create two equal columns that floats next to each other */
+.two-column-container {
+    height: 500px;
+}
+
+.p {
+    color: white; !important
+}
+
+.image-column {
+    float: left;
+    width: 40%;
+    padding: 8px;
+}
+
+.text-column {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.article-body {
+    padding: 10px;
+}
+
+wy-body-for-nav {
+    color: white; !important
+}
+
+.wy-nav-shift {
+    background-color: darkblue; !important
+    padding: 10px; !important
+}
+
+.wy-nav-top {
+    background-color: black; !important
+}
+
+.wy-nav-content {
+    max-width: 1200px !important;
+    padding: 10px; !important
+}
+
+/* Custom CSS to change header styles */
+
+/* Change header background color */
+.rst-content .header {
+    background-color: black;
+}
+
+/* Change header font color */
+.rst-content .header .headertext {
+    color: lightblue; !important
+}
+
+/* Custom CSS to modify code block styles */
+
+/* Change code block background color */
+.rst-content pre.highlight {
+    background-color: black;
+}
+
+/* Change code block font color */
+.rst-content pre.highlight, .rst-content pre.code {
+    color: white;
+}
+
+
+/*Custom CSS to adjust heading styles */
+
+/* Increase font size for all headings */
+.rst-content h1, .rst-content h2, .rst-content h3, .rst-content h4, .rst-content h5, .rst-content h6 {
+    font-size: 30px;
+}
+
+/* Change font color for all headings */
+.rst-content h1, .rst-content h2, .rst-content h3, .rst-content h4, .rst-content h5, .rst-content h6, rst-content p {
+    color: white;
+}
+

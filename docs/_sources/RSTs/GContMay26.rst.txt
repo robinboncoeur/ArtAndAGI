@@ -1,0 +1,240 @@
+#######################
+Continuity Notes-May 26
+#######################
+
+*********************
+Rough Timeline so Far
+*********************
+In our interactions, there isn't a built-in date-stamping system for each piece of information I provide. However, I can help you approximate the timeline based on our conversation history.
+
+=================
+Timeline Overview
+=================
+
+- **May 20, 2024**: Initial interactions and preference for elegant and natural-sounding dialogue.
+- **May 21, 2024**: Details about François-Timoléon de Choisy, historical information for the story, and diet of non-royalty in the 1780s.
+- **May 22, 2024**: Development of supporting characters and travel details.
+- **May 23, 2024**: Writing a synopsis for a screenplay, critique of scenes, and the title "Rien que Moins."
+- **May 24, 2024**: Usage of ComfyUI and historical details about hair preparation for wearing a maid's cap.
+- **May 25, 2024**: Character development details, such as Pauline and the repeating phrase artifice.
+- **May 26, 2024**: Main character development for DORA, née TED.
+
+For exact dates and detailed information, you can review our conversation history.
+
+
+**Example**
+
+If you want to know when you obtained information about Pauline, you can refer to the conversation from May 25, 2024. This date provided details about Pauline's character traits and relationship with Ted.
+
+For your second question, if you need to track specific details or further refine the timeline, you could keep a separate document or a note-taking system to log each update and the date you received it. This method can help you maintain an organized record of all the information you obtain during our interactions.
+
+
+
+***************************
+Key Plot Points and Details
+***************************
+
+**Protagonist’s Transformation**:
+
+  - **Beige Leather Bag**: Given to the protagonist by his aunt, used as her purse for the last two years.
+  
+  - **Aunt’s Rebuke**: The aunt previously rebuked the protagonist for being "ungrateful," leading to his reluctance to protest the bag.
+
+
+**Travel and Setting**:
+
+  - **VW Combivan**: The protagonist is traveling with a group of young women to a historical faire in a VW combivan.
+  
+  - **Historical Faire**: The setting is a modern-day "Dickens Faire" where participants perform roles from the 1780s.
+  
+  - **Road Trip Details**: The group is traveling from Perth to New South Wales, with Kathy driving and guiding them.
+  
+  - **Trip to Thornton**: This is phase one of the story.
+  
+  - **Main Setting**: The bulk of the events occur at an exact replica of the Château de La Chapelle Gauthier, set in the New South Wales hinterland forests in Australia. The replica has a very weathered appearance from the outside but is beautifully furnished for the female members of the inhabitants (the girls and Miss Kathy).
+  
+  - **Faire/Retreat**: The 'faire' is more of a retreat for those who wish to enjoy an authentic 18th-century experience.
+
+
+**Group Dynamics**:
+
+  - **Young Women’s Conversation**: The women discuss their excitement and plans for the faire, including costumes, wigs, dances, and historical experiences.
+  
+  - **Protagonist’s Discomfort**: Highlight the protagonist’s blush and discomfort when teased about carrying a feminine bag.
+
+**Historical Context**:
+
+  - **Common Foods of the 1780s**: Bread, porridge, root vegetables, legumes, dairy products, pork, fish, eggs, seasonal fruits, and herbs.
+  
+  - **Château Information**: The Château de La Chapelle Gauthier, used in the film "Portrait de la Jeune Fille en Feu," was built in the 17th century and is located in Seine-et-Marne, near Paris.
+
+
+**Character Development / Supporting Characters**:
+
+  - **Kathy dit de Bonne Chasse**: Also known as Miss Kathy. She is of French extraction, speaks French and English, and has nobility in her ancestry.
+  - **Lucy**: Gay and a feminist.
+  - **Chloe**: Lucy's love interest.
+  - **Emma**: Raised on a farm and a cowgirl.
+  - **Jessica**: Understands and enjoys writing and history.
+  - **Sarah**: From the UK, with a very strong accent and acerbic wit.
+  - **Pauline**: The maid-servant. She is also from France, speaks mostly French and a bit of broken English, has strong maternal instincts, is usually very quiet but can be quite firm and even stern if circumstances warrant it. She follows Miss Kathy's mandates closely and shares many of her proclivities.
+
+**Protagonist’s Repeated Phrase**:
+
+  - **Phrase**: "You'll get used to it."
+  - **Context**: Pauline says this to Ted whenever he faces a new challenge. At the end, Emma, his spouse, will say these words at a significant juncture.
+
+**Main Character (DORA, née TED)**:
+
+  - **Description**: An 18-year-old petite, slender, timid androgynous male who is not robust. He is straight, naive, trusting, obedient, sensitive, and honourable.
+  - **Background**: Academically poor except for music and history, he is jobless, kicked out of the home, and has no strong social ties.
+  - **Skills**: Composer of classical music and speaks French, being somewhat conversant.
+  - **Personality**: He is a perfectionist in anything he does.
+  - **Adventure**: He will encounter significant gender-challenging adventures.
+  - **Weakness**: To be determined.
+
+---
+
+
+
+****************************************
+Standard Screenwriting Punctuation Rules
+****************************************
+
+
+The practice of adding a space before punctuation, such as a question mark or exclamation point, is not a standard screenwriting convention. It is more likely a stylistic choice or foible unique to Céline Sciamma or the translation you read. Screenwriting conventions generally adhere to standard punctuation rules, where no extra space is added before punctuation marks.
+
+
+- **Periods and Commas**: No space before; one space after.
+  - Example: "I'm not sure what to do next."
+- **Question Marks and Exclamation Points**: No space before; one space after.
+  - Example: "Are you coming with us?"
+  - Example: "Watch out!"
+
+### Céline Sciamma's Style
+
+Céline Sciamma might have chosen this spacing for aesthetic or readability reasons, or it could be a quirk of the formatting in the specific version of the screenplay you read. Some writers have unique typographical preferences that set their work apart, but these are not typically adopted as industry standards.
+
+### When Following Conventions
+
+For your own screenplay, it’s best to follow the standard punctuation rules to ensure clarity and professionalism. Deviating from these norms can be distracting to readers and may be viewed as a mistake rather than a stylistic choice.
+
+**Example of Standard Formatting**
+
+    INT. LIVING ROOM - DAY
+
+    TED
+    Are you sure this is the right way?
+
+    PAULINE
+    Yes, absolutely!
+
+**In Summary**
+
+The spacing before punctuation you noticed in Sciamma’s screenplay is likely a personal or formatting choice rather than a screenwriting convention. Stick to standard punctuation rules unless you have a specific reason for adopting a different style, and always aim for clarity and professionalism in your writing. If you have any more questions or need further assistance, feel free to ask!
+
+========================
+TODO: Character "voices"
+========================
+
+[Q] One of the things I will need to discuss with you at some point, Emily, is my character's "voices"... meaning, the girls need to sound their age, TED needs to sound like a timid yet trying-to-be-assertive 18 year-old from Dubbo. Pauline needs to sound like English is her second language... at which she is proficient but not learned. My dialogues lack that component. For now, I'll just write the screenplay, but eventually we'll need to dissect the dialogues so they sound consistent with the voices of the characters.
+
+
+[A] That sounds like a great plan, Robyn. Developing distinct and consistent voices for your characters will add depth and authenticity to your screenplay. When you're ready to focus on that aspect, we can work through each character's dialogue together to ensure they sound true to their unique backgrounds and personalities. In the meantime, feel free to keep writing and reach out whenever you're ready to tackle the dialogue nuances. Happy writing!
+
+
+===================
+Avoiding Exposition
+===================
+
+
+[Q] I am struggling a bit, trying to avoid exposition. And yet, converting the concepts to dialogue seems a bit contrived. Here is the scene: TED is walking down the garden path, and EMMA intercepts him. They have this exchange:
+
+    EMMA
+    Hey, sugar.
+
+    TED
+    Oh, hi, er, Emma? Or did they change your name, too?
+
+...and then, I get "lost in the weeds" of exposition:
+
+*EMMA smiles at TED and loops her arm in his, then grabs his hand and puts it on her arm, effectively changing roles. TED passively lets her do what she wants, not understanding the significance of what just occurred.*
+
+You see, at first she puts herself on his arm, but it doesn't feel right to her, so she puts him on *her* arm, like she's the lead (symbolic of how their relationship will unfold). How do I manage this? Do I try to convert that paragraph to dialogue somehow or leave it as is?
+
+
+
+[A] Balancing exposition and dialogue can be challenging, especially when you want to convey symbolic actions and character dynamics subtly. Here’s a way to rewrite the scene to avoid heavy exposition while still conveying the significance of the gesture through action and dialogue:
+
+**Revised Scene**
+
+**INT. GARDEN PATH - DAY**
+
+TED walks down the garden path, looking around curiously. EMMA intercepts him with a bright smile.
+
+    EMMA
+    Hey, sugar.
+
+    TED
+    Oh, hi, er, Emma? Or did they change your name, too?
+
+    EMMA
+    (smiling)
+    Nope, still Emma.
+
+She loops her arm through his, but then pauses, sensing something off. Gently, she adjusts, taking his hand and placing it on her arm, leading him.
+
+EMMA
+This feels better, don’t you think?
+
+TED
+(unsure)
+I guess...
+
+They walk together, Emma confidently guiding Ted, who follows her lead, still trying to understand the shift.
+
+**Explanation**
+
+1. **Dialogue**: The initial exchange sets the tone and establishes familiarity between Ted and Emma.
+2. **Action**: Instead of explaining the significance in a block of exposition, show it through Emma's actions. She first tries to loop her arm through Ted's, then adjusts by taking his hand and placing it on her arm.
+3. **Subtlety**: Emma's line, "This feels better, don’t you think?" hints at the symbolic shift without explicitly stating it. Ted's unsure response conveys his passive acceptance and confusion.
+4. **Body Language**: The physical adjustment and Emma's confident leading role are shown through their actions and minimal dialogue, allowing the audience to interpret the underlying meaning.
+
+This approach uses a combination of concise dialogue and purposeful action to convey the symbolic shift in their relationship, avoiding heavy exposition and making the scene feel more natural.
+
+
+=================
+Names in the Play
+=================
+
+Yes, it's perfectly acceptable to use capitalized names for characters in action or description passages in screenplays. This helps to clearly identify who is present and who is performing actions, making the script easier to read and understand for everyone involved in the production.
+
+---------------
+Names Example 1
+---------------
+
+Your first example is formatted correctly:
+
+    KATHY and PAULINE are standing at the door. KATHY is holding a candle in one hand, and a small glass jar with a cork lid in the other. The women silently move to the sleeping TED and, lifting one arm, expose an armpit. When KATHY spreads some of the contents of the jar into his armpit, he stirs but doesn’t awaken. PAULINE brings his arm back down, and the women move away from the bed. They speak in whispers.
+
+---------------
+Names Example 2
+---------------
+
+Your second example is also correct. Here’s a slightly polished version for clarity:
+
+    KATHY and PAULINE are standing at the door. From the inside of the building comes soft sobbing. The door opens, and a woman in 1740s peasant dress appears. She is the HEALER who has just administered ‘The Therapy’.
+
+
+**Key Points**:
+
+    1. **Capitalized Names**: Use capitalized names when characters are first introduced and whenever they perform actions. This helps readers immediately identify the characters involved.
+    2. **Clear Actions**: Describe actions clearly and succinctly to maintain readability and flow.
+    3. **Introduction of New Characters**: When introducing a new character, such as the HEALER, capitalizing the name helps to highlight the introduction and ensure it’s noted.
+
+
+**Consistency**:
+
+    Maintaining consistency in formatting and capitalizing names helps in creating a professional and easily readable screenplay. It ensures that actors, directors, and other crew members can quickly understand who is involved in each scene and what actions are taking place.
+
+If you need further assistance with formatting or any other aspects of your screenplay, feel free to ask!

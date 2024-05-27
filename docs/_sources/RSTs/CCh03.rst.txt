@@ -1,0 +1,153 @@
+#############
+Chapter Three
+#############
+
+***************
+The First Cloud
+***************
+
+==========
+Start Here
+==========
+
+Some Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: QIR's busy offices
+
+    .. container:: text-column
+
+        Text here
+
+And Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Mabel is usually always happy
+
+    .. container:: text-column
+
+        Text
+
+And Text
+
+
+==========
+Some Ideas
+==========
+
+Text
+
+
+==============
+Brilliant News
+==============
+
+Text
+
+
+
+
+*******************
+A Curious Interview
+*******************
+
+
+Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria captivated by grace
+
+    .. container:: text-column
+
+        Text 
+        
+Some text
+
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        More text 
+
+And Text
+
+
+================
+A Fractured Idea
+================
+
+So, text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        Text
+
+More text
+ 
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Gwynn is fluttering in her net
+
+    .. container:: text-column
+
+        Text
+        
+And Text
+
+.. container:: two-column-containerr
+
+    .. container:: image-columnr
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Gwynn is fluttering in her net
+
+    .. container:: text-columnr
+
+        Indented text
+
+No indent text
+
+
+
+------------
+Edit Point B
+------------
+
+`ChatGPT4ALL <https://www.youtube.com/watch?v=4p1Fojur8Zw>`_
+

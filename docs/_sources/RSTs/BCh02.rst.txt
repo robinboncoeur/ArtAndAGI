@@ -1,0 +1,156 @@
+###########
+Chapter Two
+###########
+
+**********************
+Ted's Education Begins
+**********************
+
+=============
+French Lesson
+=============
+
+Dinner over, the girls repaired to their rooms. In a matter of moments, Ted was left alone with the taciturn Pauline who had busied herself clearing the dishes and generally cleaning up. Presently, she swept close to him, and settled herself on the bench.
+
+"Il parait que vous parlez francais?" she asked gently. (*it appears you speak french?*)
+
+Ted nodded. "Un peu, oui, mais pas bien," he stammered shyly. (*a little, yes, but not well*)
+
+
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: 
+
+    .. container:: text-column
+
+        Text here
+
+And Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Mabel is usually always happy
+
+    .. container:: text-column
+
+        Text
+
+And Text
+
+
+==========
+Some Ideas
+==========
+
+Text
+
+
+==============
+Brilliant News
+==============
+
+Text
+
+
+
+
+*******************
+A Curious Interview
+*******************
+
+
+Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria captivated by grace
+
+    .. container:: text-column
+
+        Text 
+        
+Some text
+
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        More text 
+
+And Text
+
+
+================
+A Fractured Idea
+================
+
+So, text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        Text
+
+More text
+ 
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Gwynn is fluttering in her net
+
+    .. container:: text-column
+
+        Text
+        
+And Text
+
+.. container:: two-column-containerr
+
+    .. container:: image-columnr
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/23/Robyn-A-Long-Time-Ago.png
+            :width: 580px
+            :alt: Gwynn is fluttering in her net
+
+    .. container:: text-columnr
+
+        Indented text
+
+No indent text
+
+
+
+------------
+Edit Point B
+------------

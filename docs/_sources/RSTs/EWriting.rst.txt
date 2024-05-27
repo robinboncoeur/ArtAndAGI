@@ -1,0 +1,332 @@
+##################
+Screenplay Writing
+##################
+
+*******
+Act One
+*******
+
+====================
+Dora: Rien que Moins
+====================
+
+TED Labruyère, 18, fresh out of high school, struggles to find a job. With long hair and delicate features, he faces the awkward situation being too delicate for labourer work. At an employment agency, a clerk suggests an unusual opportunity. She describes the position as being a staff member of a "historical fair". Despite initial hesitation due to being a fair distance away, Ted finally agrees to the offer and signs a contract, drawn by the promise of employment and adventure.
+
+
+
+
+=============
+Scenes so Far
+=============
+
+.. _PDF Link:
+
+    Here is a link to Highland's PDF file: `View PDF <../_static/Dora-A.pdf>`_
+
+
+
+
+
+*****************************
+Screenplay Structure Overview
+*****************************
+
+As suggested by Emily.
+
+**Title Page**:
+   - Title of the screenplay.
+   - Your name (Written by [Your Name]).
+   - Contact information (optional).
+
+
+**Scene Headings (Sluglines)**:
+   - Indicate the location and time of the scene.
+   - Format: INT. (interior) or EXT. (exterior) – Location – Time of Day.
+   - Example: INT. EMPLOYMENT AGENCY – DAY
+
+
+**Action/Description**:
+   - Describes the setting, characters' actions, and events.
+   - Written in the present tense.
+   - Keep it concise but vivid.
+   - Example: TED enters the bustling employment agency, looking around nervously.
+
+
+**Character Names**:
+   - Centered and capitalized when a character first appears.
+   - Capitalize the name each time in dialogue.
+   - Example: TED
+
+
+**Dialogue**:
+   - Character's name is centered above the dialogue.
+   - Dialogue is indented and written in a natural, conversational style.
+   - Example:
+
+         TED
+         I’m here about the job opening.
+
+
+**Parentheticals** (Wrylies):
+   - Brief directions for how dialogue should be delivered.
+   - Placed in parentheses beneath the character’s name, before the dialogue.
+   - Use sparingly.
+   - Example:
+
+         TED
+         (hesitant)
+         I’m here about the job opening.
+
+
+7. **Transitions**:
+   - Indicate how one scene transitions to another.
+   - Typically placed on the right side of the page.
+   - Examples: CUT TO:, FADE IN:, FADE OUT:.
+
+
+
+=======================
+Music and Sound Effects
+=======================
+
+[Q] Further to the screenplay writing in Highland, is there an acceptable way to communicate the use of music or sound effects?
+
+[A] In screenwriting, it’s important to clearly indicate music and sound effects (SFX) to guide the director, sound designer, and other members of the production team. In Highland, as in other screenwriting software, you can use specific formatting to make these elements stand out. Here’s how you can effectively communicate the use of music or sound effects in your screenplay:
+
+----------------
+Indicating Music
+----------------
+
+When you want to specify music, you can use a combination of uppercase and parenthetical notes to make it clear. Here’s a general guideline:
+
+1. **Song Titles**: Write the song title in uppercase.
+2. **Description**: Include a brief description if needed.
+3. **Parentheticals**: Use parentheticals to indicate specific instructions about the music.
+
+**Example**:
+
+    **INT. THERAPY ROOM - DAY**
+
+    TED lies on the therapy table, staring at the ceiling, clearly uncomfortable.
+
+    (MUSIC: "Moonlight Sonata" by Beethoven starts playing softly in the background.)
+
+    TED closes his eyes, trying to relax.
+
+
+------------------------------
+Indicating Sound Effects (SFX)
+------------------------------
+
+For sound effects, you should also use uppercase to make them stand out in the text. Be clear and specific about the type of sound and its source if necessary.
+
+**Example**:
+
+    **INT. OLD HOUSE - NIGHT**
+
+    The house is eerily silent. TED steps cautiously across the creaky floorboards.
+
+    **SFX: CREAKING FLOORBOARDS**
+
+    A sudden BANG startles him, coming from the room upstairs.
+
+    **SFX: LOUD BANG FROM UPSTAIRS**
+
+
+-----------------------
+Combining Music and SFX
+-----------------------
+
+You might need to combine both music and sound effects in a scene. Ensure each element is clearly indicated.
+
+**Example**:
+
+    **INT. LIVING ROOM - NIGHT**
+
+    TED sits alone in the dimly lit room. The sound of a record player starting up is heard.
+
+    **SFX: RECORD PLAYER STARTING**
+
+    (MUSIC: "Clair de Lune" by Debussy begins to play, filling the room with a haunting melody.)
+
+    TED stands up, walking towards the window.
+
+    **SFX: WIND HOWLING OUTSIDE**
+
+
+---------------------------------------
+Using Comments for Further Instructions
+---------------------------------------
+
+You can also use comments to provide additional instructions or context for the music and sound effects.
+
+**Example**:
+
+    **INT. THERAPY ROOM - DAY**
+
+    // Note: Use "Moonlight Sonata" by Beethoven to create a calming atmosphere.
+    // The music should start softly and build as the scene progresses.
+
+    (MUSIC: "Moonlight Sonata" by Beethoven starts playing softly in the background.)
+
+    TED lies on the therapy table, staring at the ceiling, clearly uncomfortable.
+
+    TED closes his eyes, trying to relax.
+
+
+------------------------------
+Using Action Lines for Context
+------------------------------
+
+You can also use action lines to provide context or describe the intended impact of the music or sound effects.
+
+**Example**:
+
+    **INT. DARK FOREST - NIGHT**
+
+    The wind howls through the trees, creating an unsettling atmosphere.
+
+    **SFX: WIND HOWLING**
+
+    In the distance, the faint sound of a piano playing can be heard.
+
+    (MUSIC: "Nocturne in E-flat Major" by Chopin, played faintly.)
+
+    TED walks cautiously through the forest, the music growing louder as he approaches an old, abandoned cabin.
+
+
+By following these guidelines, you can effectively communicate the use of music and sound effects in your screenplay. This helps ensure your creative vision is clearly understood by everyone involved in the production.
+
+
+
+========
+The BEAT
+========
+
+In screenwriting, the term "BEAT" is a common shorthand used to indicate a pause or a moment of silence. It serves several purposes.
+
+
+Purposes of "BEAT" in Screenwriting:
+
+    1. **Pause for Impact**:
+    
+       - **Dramatic Effect**: A beat allows for a moment of reflection, tension, or emphasis on what has just been said or done. It gives the audience a moment to absorb the information.
+       - **Emotional Resonance**: It can heighten the emotional impact of a scene by providing a pause for the characters and audience to process the emotion.
+
+    2. **Timing and Rhythm**:
+    
+       - **Pacing**: Beats help control the pacing of dialogue and action, ensuring that scenes flow naturally and effectively.
+       - **Natural Speech**: In dialogue, a beat mimics natural speech patterns, indicating where a character might pause for breath or to think.
+
+    3. **Non-Verbal Communication**:
+    
+       - **Subtext**: A beat can indicate a character’s internal thought process or reaction without them speaking. It shows hesitation, realization, or internal conflict.
+       - **Body Language**: It often accompanies a physical action or a significant look, adding depth to the non-verbal communication between characters.
+
+
+---------------------------------
+How "BEAT" is Used in Screenplays
+---------------------------------
+
+A beat is typically placed in the action or parenthetical section of the screenplay. Here are a few examples of how "BEAT" can be used effectively.
+
+Example 1 - **Dialogue Pause:**
+
+    SARAH
+    I can't believe you did that.
+
+    BEAT
+
+    TED
+    Neither can I.
+
+
+Example 2 - **Emotional Impact:**
+
+    EMMA
+    I'm leaving tomorrow.
+
+    BEAT
+
+    She watches for his reaction. He looks away, unable to meet her eyes.
+
+
+Example 3 - **Non-Verbal Reaction:**
+
+    **INT. LIVING ROOM - NIGHT**
+
+    Ted sits alone, staring at the letter in his hands.
+
+    BEAT
+
+    He crumples it up and throws it in the fire.
+
+
+Example 4 - **Physical Action:**
+
+    LUCY
+    You didn't tell me the whole truth, did you?
+
+    BEAT
+
+    Ted takes a deep breath, looking down at his hands.
+
+
+**Conclusion**
+
+In summary, "BEAT" is a versatile tool in screenwriting that helps to control the rhythm, pacing, and emotional impact of a scene. It indicates a pause that can be used for various dramatic purposes, making it an essential part of effective storytelling. Absolutely, "BEAT" is a subtle but powerful tool that can add depth and nuance to your screenplay. It helps convey emotions, control pacing, and emphasize key moments without needing additional dialogue. If you have more questions or need further assistance with your writing, just let me know. Happy writing!
+
+
+*********************
+Actions by Characters
+*********************
+
+Certainly! The action you're describing is commonly known as a "fist pump." It's a celebratory gesture where a person clenches their fist and thrusts it into the air, often accompanied by an exclamation like "Yes!" to express triumph, excitement, or victory.
+
+### Description:
+
+**INT. ARENA - DAY**
+
+The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match. 
+
+SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and thrusts it into the air in a triumphant fist pump.
+
+SHEILA
+Yes!
+
+The crowd’s roar intensifies, matching the exhilaration of the moment.
+
+### Detailed Description:
+
+**Fist Pump**:
+- **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
+- **Motion**: With a burst of energy, she extends her arm upward in a swift, powerful motion, her fist leading the way.
+- **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
+- **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
+
+This gesture effectively conveys her overwhelming sense of accomplishment and excitement, capturing the essence of the victorious moment.
+
+Yes, the gesture you're describing is often referred to as a "fist pump" as well, but more specifically, it can be called a "downward fist pump." This gesture involves drawing the clenched fist down towards the side, usually accompanied by a "Yes!" or similar exclamation. It's still a celebratory gesture that conveys excitement and triumph.
+
+### Description:
+
+**INT. ARENA - DAY**
+
+The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match.
+
+SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and draws it down sharply to her side in a triumphant downward fist pump.
+
+SHEILA
+Yes!
+
+The crowd’s roar intensifies, matching the exhilaration of the moment.
+
+### Detailed Description:
+
+**Downward Fist Pump**:
+- **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
+- **Motion**: With a burst of energy, she draws her arm downward towards her side in a swift, powerful motion, her fist leading the way.
+- **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
+- **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
+
+This gesture effectively conveys her overwhelming sense of accomplishment and excitement, capturing the essence of the victorious moment.

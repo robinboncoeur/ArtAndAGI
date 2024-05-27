@@ -1,0 +1,28 @@
+.. Art, the master file, created by
+   sphinx-quickstart on Mon Jun 12 2023.
+
+Fleur de Lys
+============
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   
+   RSTs/ACh01.rst
+   RSTs/BCh02.rst
+   RSTs/CCh03.rst
+   RSTs/DCh04.rst
+   RSTs/EWriting.rst
+   RSTs/FShotlist.rst
+   RSTs/GContMay20.rst
+   RSTs/GContMay26.rst
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
