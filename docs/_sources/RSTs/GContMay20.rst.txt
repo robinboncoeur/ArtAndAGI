@@ -1,5 +1,5 @@
 #######################
-Continuity Notes-May 22
+Continuity Notes-May 20
 #######################
 
 ************
@@ -276,7 +276,7 @@ Other Characters:
    
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/contin.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-ContGirl.jpg
 
 
 
@@ -352,7 +352,7 @@ Character Development / Supporting Characters
 
 
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/LeChateau-Trim.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Chateau.jpg
 
 
 
@@ -384,7 +384,7 @@ Dans le film, le château semble en grande partie dépourvu de mobilier, ce qui 
    
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/laceA.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Lace.jpg
 
 
 
@@ -685,10 +685,23 @@ Pauline provides a detailed, step-by-step explanation for Ted on how his hair is
 
 
 
+.. raw:: html
+   
+   <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
-*****************************
-Task List - 1740s Maidservant
-*****************************
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Lace.jpg
+
+
+
+
+
+**********
+Activities
+**********
+
+============================
+1740s Maidservant - Scullery
+============================
 
 **Morning Chores and Duties of a 1740s Maidservant**
 
@@ -817,7 +830,7 @@ This task, while labor-intensive, was a crucial part of daily life in the 18th c
    
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/research.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Research.jpg
 
 
 
@@ -1060,12 +1073,16 @@ Practical Considerations:
 These containers were crucial for everyday life in the 18th century, enabling women to store and preserve food, medicine, and other substances effectively. If you need more specific details or further assistance, feel free to ask!
 
 
+
+
+
+
 .. raw:: html
    
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Food01a.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Food01.jpg
 
 
 
@@ -1120,7 +1137,7 @@ These foods formed the basis of the daily diet for most people in 1780, providin
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/thesaurusA.jpg
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Thesaurus.jpg
 
 
 
@@ -1250,7 +1267,9 @@ excessively refined: AFFECTED entry, PRETENTIOUS, OVERBLOWN
    
    <hr style="height:16px;border-width:0;color:gray;background-color:green">
 
-.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/pdev.png
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-PlotDev.jpg
+
+
 
 
 
