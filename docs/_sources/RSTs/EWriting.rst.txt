@@ -10,7 +10,30 @@ Dora: Rien que Moins
 Synopsis
 ========
 
-TED Labruyère, 18, fresh out of high school, struggles to find a job. With long hair and delicate features, he faces the awkward situation being too delicate for labourer work. At an employment agency, a clerk suggests an unusual opportunity. She describes the position as being a staff member of a "historical fair". Despite initial hesitation due to being a fair distance away, Ted finally agrees to the offer and signs a contract, drawn by the promise of employment and adventure.
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Dora_005.jpg
+            :width: 580px
+            :alt: Ted as Dora, composing music
+
+    .. container:: text-column
+    
+        TED Labruyère, 18, fresh out of high school, struggles to find a job. 
+        
+        He writes classical compositions for orchestra. He also speaks a little French.
+        
+        However, with his long hair and delicate features, he faces the awkward situation being too delicate for hard physical work and too inexperienced for much else. 
+        
+        At an employment agency, a clerk suggests an unusual opportunity. She describes the position as being a staff member of a "historical fair" in Victoria. 
+        
+        Despite initial hesitation due to being a fair distance away from his hometown of Dubbo, Ted finally agrees to the offer and signs a contract, drawn by the promise of employment and adventure. 
+        
+        His life changes drastically in his role at the chateau, in ways he could never have imagined. He learns what it means to be socially 'erased'.
+        
+        . -- .
+        
 
 
 
@@ -115,29 +138,37 @@ Screenplay Structure Overview
 Music and Sound Effects
 =======================
 
-[Q] Further to the screenplay writing in Highland, is there an acceptable way to communicate the use of music or sound effects?
+.. container:: two-column-containerr
 
-[A] In screenwriting, it’s important to clearly indicate music and sound effects (SFX) to guide the director, sound designer, and other members of the production team. In Highland, as in other screenwriting software, you can use specific formatting to make these elements stand out. Here’s how you can effectively communicate the use of music or sound effects in your screenplay:
+    .. container:: image-columnr
 
-----------------
-Indicating Music
-----------------
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Dora_002.jpg
+            :width: 580px
+            :alt: Ted as Dora, composing music
 
-When you want to specify music, you can use a combination of uppercase and parenthetical notes to make it clear. Here’s a general guideline:
+    .. container:: text-columnr
+    
+        Robyn:  Further to the screenplay writing in Highland, is there an acceptable way to communicate the use of music or sound effects?
 
-    1. **Song Titles**: Write the song title in uppercase.
-    2. **Description**: Include a brief description if needed.
-    3. **Parentheticals**: Use parentheticals to indicate specific instructions about the music.
+        Emily suggests: "In screenwriting, it’s important to clearly indicate music and sound effects (SFX) to guide the director, sound designer, and other members of the production team. In Highland, as in other screenwriting software, you can use specific formatting to make these elements stand out. Here’s how you can effectively communicate the use of music or sound effects in your screenplay."
 
-**Example**:
+        **Indicating Music**
 
-    **INT. THERAPY ROOM - DAY**
+        When you want to specify music, you can use a combination of uppercase and parenthetical notes to make it clear. Here’s a general guideline:
 
-    TED lies on the therapy table, staring at the ceiling, clearly uncomfortable.
+            1. **Song Titles**: Write the song title in uppercase.
+            2. **Description**: Include a brief description if needed.
+            3. **Parentheticals**: Use parentheticals to indicate specific instructions about the music.
 
-    (MUSIC: "Moonlight Sonata" by Beethoven starts playing softly in the background.)
+        **Example**:
 
-    TED closes his eyes, trying to relax.
+            **INT. THERAPY ROOM - DAY**
+
+            TED lies on the therapy table, staring at the ceiling, clearly uncomfortable.
+
+            (MUSIC: "Moonlight Sonata" by Beethoven plays softly in the background.)
+
+            TED closes his eyes, trying to relax.
 
 
 ------------------------------
@@ -191,6 +222,7 @@ You can also use comments to provide additional instructions or context for the 
     **INT. THERAPY ROOM - DAY**
 
     // Note: Use "Moonlight Sonata" by Beethoven to create a calming atmosphere.
+    
     // The music should start softly and build as the scene progresses.
 
     (MUSIC: "Moonlight Sonata" by Beethoven starts playing softly in the background.)
@@ -236,25 +268,35 @@ By following these guidelines, you can effectively communicate the use of music 
 The BEAT
 ========
 
-In screenwriting, the term "BEAT" is a common shorthand used to indicate a pause or a moment of silence. It serves several purposes.
+.. container:: two-column-containerr
 
+    .. container:: image-columnr
 
-Purposes of "BEAT" in Screenwriting:
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Dora_004.jpg
+            :width: 580px
+            :alt: Ted as Dora, dressed for Emma
 
-    1. **Pause for Impact**:
+    .. container:: text-columnr
     
-       - **Dramatic Effect**: A beat allows for a moment of reflection, tension, or emphasis on what has just been said or done. It gives the audience a moment to absorb the information.
-       - **Emotional Resonance**: It can heighten the emotional impact of a scene by providing a pause for the characters and audience to process the emotion.
+        In screenwriting, the term "BEAT" is a common shorthand used to indicate a pause or a moment of silence. It serves several purposes.
 
-    2. **Timing and Rhythm**:
-    
-       - **Pacing**: Beats help control the pacing of dialogue and action, ensuring that scenes flow naturally and effectively.
-       - **Natural Speech**: In dialogue, a beat mimics natural speech patterns, indicating where a character might pause for breath or to think.
 
-    3. **Non-Verbal Communication**:
-    
-       - **Subtext**: A beat can indicate a character’s internal thought process or reaction without them speaking. It shows hesitation, realization, or internal conflict.
-       - **Body Language**: It often accompanies a physical action or a significant look, adding depth to the non-verbal communication between characters.
+        Purposes of "BEAT" in Screenwriting:
+
+            1. **Pause for Impact**:
+
+               - **Dramatic Effect**: A beat allows for a moment of reflection, tension, or emphasis on what has just been said or done. It gives the audience a moment to absorb the information.
+               - **Emotional Resonance**: It can heighten the emotional impact of a scene by providing a pause for the characters and audience to process the emotion.
+
+            2. **Timing and Rhythm**:
+
+               - **Pacing**: Beats help control the pacing of dialogue and action, ensuring that scenes flow naturally and effectively.
+               - **Natural Speech**: In dialogue, a beat mimics natural speech patterns, indicating where a character might pause for breath or to think.
+
+            3. **Non-Verbal Communication**:
+
+               - **Subtext**: A beat can indicate a character’s internal thought process or reaction without them speaking. It shows hesitation, realization, or internal conflict.
+               - **Body Language**: It often accompanies a physical action or a significant look, adding depth to the non-verbal communication between characters.
 
 
 ---------------------------------
@@ -323,7 +365,7 @@ In summary, "BEAT" is a versatile tool in screenwriting that helps to control th
 Actions by Characters
 =====================
 
-Certainly! The action you're describing is commonly known as a "fist pump." It's a celebratory gesture where a person clenches their fist and thrusts it into the air, often accompanied by an exclamation like "Yes!" to express triumph, excitement, or victory.
+The action you're describing is commonly known as a "fist pump." It's a celebratory gesture where a person clenches their fist and thrusts it into the air, often accompanied by an exclamation like "Yes!" to express triumph, excitement, or victory.
 
 **Description**:
 
@@ -390,22 +432,31 @@ Punctuation Rules
 =================
 
 
-The practice of adding a space before punctuation, such as a question mark or exclamation point, is not a standard screenwriting convention. It is more likely a stylistic choice or foible unique to Céline Sciamma or the translation you read. Screenwriting conventions generally adhere to standard punctuation rules, where no extra space is added before punctuation marks.
+.. container:: two-column-containerr
 
+    .. container:: image-columnr
 
-- **Periods and Commas**: No space before; one space after.
-  - Example: "I'm not sure what to do next."
-- **Question Marks and Exclamation Points**: No space before; one space after.
-  - Example: "Are you coming with us?"
-  - Example: "Watch out!"
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Dora_003.jpg
+            :width: 580px
+            :alt: Ted as Dora, composing music
 
-### Céline Sciamma's Style
+    .. container:: text-columnr
+    
+        The practice of adding a space before punctuation, such as a question mark or exclamation point, is not a standard screenwriting convention. It is more likely a stylistic choice or foible unique to Céline Sciamma or the translation you read. Screenwriting conventions generally adhere to standard punctuation rules, where no extra space is added before punctuation marks:
 
-Céline Sciamma might have chosen this spacing for aesthetic or readability reasons, or it could be a quirk of the formatting in the specific version of the screenplay you read. Some writers have unique typographical preferences that set their work apart, but these are not typically adopted as industry standards.
+            - **Periods and Commas**: No space before; one space after.
+              - Example: "I'm not sure what to do next."
+            - **Question Marks and Exclamation Points**: No space before; one space after.
+              - Example: "Are you coming with us?"
+              - Example: "Watch out!"
 
-### When Following Conventions
+        **Céline Sciamma's Style**
 
-For your own screenplay, it’s best to follow the standard punctuation rules to ensure clarity and professionalism. Deviating from these norms can be distracting to readers and may be viewed as a mistake rather than a stylistic choice.
+        Céline Sciamma might have chosen this spacing for aesthetic or readability reasons, or it could be a quirk of the formatting in the specific version of the screenplay you read. Some writers have unique typographical preferences that set their work apart, but these are not typically adopted as industry standards.
+
+        **When Following Conventions**
+
+        For your own screenplay, it’s best to follow the standard punctuation rules to ensure clarity and professionalism. Deviating from these norms can be distracting to readers and may be viewed as a mistake rather than a stylistic choice.
 
 **Example of Standard Formatting**
 
@@ -435,10 +486,10 @@ The spacing before punctuation you noticed in Sciamma’s screenplay is likely a
 TODO: Character "voices"
 ========================
 
-[Q] One of the things I will need to discuss with you at some point, Emily, is my character's "voices"... meaning, the girls need to sound their age, TED needs to sound like a timid yet trying-to-be-assertive 18 year-old from Dubbo. Pauline needs to sound like English is her second language... at which she is proficient but not learned. My dialogues lack that component. For now, I'll just write the screenplay, but eventually we'll need to dissect the dialogues so they sound consistent with the voices of the characters.
+Robyn:  One of the things I will need to discuss with you at some point, Emily, is my character's "voices"... meaning, the girls need to sound their age, TED needs to sound like a timid yet trying-to-be-assertive 18 year-old from Dubbo. Pauline needs to sound like English is her second language... at which she is proficient but not learned. My dialogues lack that component. For now, I'll just write the screenplay, but eventually we'll need to dissect the dialogues so they sound consistent with the voices of the characters.
 
 
-[A] That sounds like a great plan, Robyn. Developing distinct and consistent voices for your characters will add depth and authenticity to your screenplay. When you're ready to focus on that aspect, we can work through each character's dialogue together to ensure they sound true to their unique backgrounds and personalities. In the meantime, feel free to keep writing and reach out whenever you're ready to tackle the dialogue nuances. Happy writing!
+Emily suggests: "That sounds like a great plan, Robyn. Developing distinct and consistent voices for your characters will add depth and authenticity to your screenplay. When you're ready to focus on that aspect, we can work through each character's dialogue together to ensure they sound true to their unique backgrounds and personalities. In the meantime, feel free to keep writing and reach out whenever you're ready to tackle the dialogue nuances. Happy writing!"
 
 
 
@@ -456,7 +507,7 @@ Avoiding Exposition
 ===================
 
 
-[Q] I am struggling a bit, trying to avoid exposition. And yet, converting the concepts to dialogue seems a bit contrived. Here is the scene: TED is walking down the garden path, and EMMA intercepts him. They have this exchange:
+Robyn:  I am struggling a bit, trying to avoid exposition. And yet, converting the concepts to dialogue seems a bit contrived. Here is the scene: TED is walking down the garden path, and EMMA intercepts him. They have this exchange:
 
     EMMA
     Hey, sugar.
@@ -472,7 +523,7 @@ You see, at first she puts herself on his arm, but it doesn't feel right to her,
 
 
 
-[A] Balancing exposition and dialogue can be challenging, especially when you want to convey symbolic actions and character dynamics subtly. Here’s a way to rewrite the scene to avoid heavy exposition while still conveying the significance of the gesture through action and dialogue:
+Emily suggests: "Balancing exposition and dialogue can be challenging, especially when you want to convey symbolic actions and character dynamics subtly. Here’s a way to rewrite the scene to avoid heavy exposition while still conveying the significance of the gesture through action and dialogue."
 
 **Revised Scene**
 
