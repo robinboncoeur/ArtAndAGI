@@ -1,64 +1,82 @@
-##################
-Screenplay Writing
-##################
+##############
+The Screenplay
+##############
 
-*******
-Act One
-*******
-
-====================
+********************
 Dora: Rien que Moins
-====================
+********************
+
+========
+Synopsis
+========
 
 TED Labruyère, 18, fresh out of high school, struggles to find a job. With long hair and delicate features, he faces the awkward situation being too delicate for labourer work. At an employment agency, a clerk suggests an unusual opportunity. She describes the position as being a staff member of a "historical fair". Despite initial hesitation due to being a fair distance away, Ted finally agrees to the offer and signs a contract, drawn by the promise of employment and adventure.
 
 
 
 
-=============
-Scenes so Far
-=============
+===============
+Writings so Far
+===============
 
-.. _PDF Link:
+Dora-Rien que Moin's screenplay is being written in Highland on a Macbook Pro (or Air). I write in versions so as to have points I can back up to in case the plot goes into a direction that doesn't work. This is during the actual writing of the screenplay, before I start editing (and create multiple drafts).
 
-    Here is a link to Highland's PDF file: `View PDF <../_static/Dora-A.pdf>`_
+Below are the versions.
+
+.. _PDF Link1:
+
+    `Dora-A.pdf (2024.05.25) <../_static/Dora-A.pdf>`_
+
+.. _PDF Link2:
+
+    `Dora-B.pdf (2024.05.27) <../_static/Dora-B.pdf>`_
+
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:blue">
 
 
 
 
 
-*****************************
+****************************
+Resource: Screenplay Writing
+****************************
+
+=============================
 Screenplay Structure Overview
-*****************************
+=============================
 
-As suggested by Emily.
+**Please Note**: *All instructions and suggestions come from "Emily", AKA ChatGPT4o*.
 
 **Title Page**:
+
    - Title of the screenplay.
    - Your name (Written by [Your Name]).
    - Contact information (optional).
 
-
 **Scene Headings (Sluglines)**:
+
    - Indicate the location and time of the scene.
    - Format: INT. (interior) or EXT. (exterior) – Location – Time of Day.
    - Example: INT. EMPLOYMENT AGENCY – DAY
 
-
 **Action/Description**:
+
    - Describes the setting, characters' actions, and events.
    - Written in the present tense.
    - Keep it concise but vivid.
    - Example: TED enters the bustling employment agency, looking around nervously.
 
-
 **Character Names**:
+
    - Centered and capitalized when a character first appears.
    - Capitalize the name each time in dialogue.
    - Example: TED
 
-
 **Dialogue**:
+
    - Character's name is centered above the dialogue.
    - Dialogue is indented and written in a natural, conversational style.
    - Example:
@@ -66,8 +84,8 @@ As suggested by Emily.
          TED
          I’m here about the job opening.
 
-
 **Parentheticals** (Wrylies):
+
    - Brief directions for how dialogue should be delivered.
    - Placed in parentheses beneath the character’s name, before the dialogue.
    - Use sparingly.
@@ -77,11 +95,19 @@ As suggested by Emily.
          (hesitant)
          I’m here about the job opening.
 
-
 7. **Transitions**:
+
    - Indicate how one scene transitions to another.
    - Typically placed on the right side of the page.
    - Examples: CUT TO:, FADE IN:, FADE OUT:.
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
 
 
 
@@ -99,9 +125,9 @@ Indicating Music
 
 When you want to specify music, you can use a combination of uppercase and parenthetical notes to make it clear. Here’s a general guideline:
 
-1. **Song Titles**: Write the song title in uppercase.
-2. **Description**: Include a brief description if needed.
-3. **Parentheticals**: Use parentheticals to indicate specific instructions about the music.
+    1. **Song Titles**: Write the song title in uppercase.
+    2. **Description**: Include a brief description if needed.
+    3. **Parentheticals**: Use parentheticals to indicate specific instructions about the music.
 
 **Example**:
 
@@ -199,6 +225,13 @@ By following these guidelines, you can effectively communicate the use of music 
 
 
 
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
 ========
 The BEAT
 ========
@@ -277,56 +310,251 @@ Example 4 - **Physical Action:**
 In summary, "BEAT" is a versatile tool in screenwriting that helps to control the rhythm, pacing, and emotional impact of a scene. It indicates a pause that can be used for various dramatic purposes, making it an essential part of effective storytelling. Absolutely, "BEAT" is a subtle but powerful tool that can add depth and nuance to your screenplay. It helps convey emotions, control pacing, and emphasize key moments without needing additional dialogue. If you have more questions or need further assistance with your writing, just let me know. Happy writing!
 
 
-*********************
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
+
+=====================
 Actions by Characters
-*********************
+=====================
 
 Certainly! The action you're describing is commonly known as a "fist pump." It's a celebratory gesture where a person clenches their fist and thrusts it into the air, often accompanied by an exclamation like "Yes!" to express triumph, excitement, or victory.
 
-### Description:
+**Description**:
 
-**INT. ARENA - DAY**
+    **INT. ARENA - DAY**
 
-The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match. 
+    The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match. 
 
-SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and thrusts it into the air in a triumphant fist pump.
+    SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and thrusts it into the air in a triumphant fist pump.
 
-SHEILA
-Yes!
+    SHEILA
+    Yes!
 
-The crowd’s roar intensifies, matching the exhilaration of the moment.
+    The crowd’s roar intensifies, matching the exhilaration of the moment.
 
-### Detailed Description:
+**Detailed Description**:
 
-**Fist Pump**:
-- **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
-- **Motion**: With a burst of energy, she extends her arm upward in a swift, powerful motion, her fist leading the way.
-- **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
-- **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
+    **Fist Pump**:
+    
+        - **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
+        - **Motion**: With a burst of energy, she extends her arm upward in a swift, powerful motion, her fist leading the way.
+        - **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
+        - **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
 
 This gesture effectively conveys her overwhelming sense of accomplishment and excitement, capturing the essence of the victorious moment.
 
 Yes, the gesture you're describing is often referred to as a "fist pump" as well, but more specifically, it can be called a "downward fist pump." This gesture involves drawing the clenched fist down towards the side, usually accompanied by a "Yes!" or similar exclamation. It's still a celebratory gesture that conveys excitement and triumph.
 
-### Description:
+**Description**:
 
-**INT. ARENA - DAY**
+    **INT. ARENA - DAY**
 
-The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match.
+    The crowd erupts in cheers as SHEILA lands the final, decisive blow. The opponent falls, and the referee signals the end of the match.
 
-SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and draws it down sharply to her side in a triumphant downward fist pump.
+    SHEILA, breathing heavily, takes a moment to realize her victory. A wide grin spreads across her face. She clenches her fist and draws it down sharply to her side in a triumphant downward fist pump.
 
-SHEILA
-Yes!
+    SHEILA
+    Yes!
 
-The crowd’s roar intensifies, matching the exhilaration of the moment.
+    The crowd’s roar intensifies, matching the exhilaration of the moment.
 
-### Detailed Description:
+**Detailed Description**:
 
-**Downward Fist Pump**:
-- **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
-- **Motion**: With a burst of energy, she draws her arm downward towards her side in a swift, powerful motion, her fist leading the way.
-- **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
-- **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
+    **Downward Fist Pump**:
+    
+        - **Formation**: She clenches her fingers tightly into her palm, forming a solid fist.
+        - **Motion**: With a burst of energy, she draws her arm downward towards her side in a swift, powerful motion, her fist leading the way.
+        - **Expression**: Her face lights up with a wide grin, eyes sparkling with triumph.
+        - **Accompaniment**: She shouts "Yes!" in a voice full of exhilaration, her declaration of victory echoing through the arena.
 
 This gesture effectively conveys her overwhelming sense of accomplishment and excitement, capturing the essence of the victorious moment.
+
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
+=================
+Punctuation Rules
+=================
+
+
+The practice of adding a space before punctuation, such as a question mark or exclamation point, is not a standard screenwriting convention. It is more likely a stylistic choice or foible unique to Céline Sciamma or the translation you read. Screenwriting conventions generally adhere to standard punctuation rules, where no extra space is added before punctuation marks.
+
+
+- **Periods and Commas**: No space before; one space after.
+  - Example: "I'm not sure what to do next."
+- **Question Marks and Exclamation Points**: No space before; one space after.
+  - Example: "Are you coming with us?"
+  - Example: "Watch out!"
+
+### Céline Sciamma's Style
+
+Céline Sciamma might have chosen this spacing for aesthetic or readability reasons, or it could be a quirk of the formatting in the specific version of the screenplay you read. Some writers have unique typographical preferences that set their work apart, but these are not typically adopted as industry standards.
+
+### When Following Conventions
+
+For your own screenplay, it’s best to follow the standard punctuation rules to ensure clarity and professionalism. Deviating from these norms can be distracting to readers and may be viewed as a mistake rather than a stylistic choice.
+
+**Example of Standard Formatting**
+
+    INT. LIVING ROOM - DAY
+
+    TED
+    Are you sure this is the right way?
+
+    PAULINE
+    Yes, absolutely!
+
+**In Summary**
+
+The spacing before punctuation you noticed in Sciamma’s screenplay is likely a personal or formatting choice rather than a screenwriting convention. Stick to standard punctuation rules unless you have a specific reason for adopting a different style, and always aim for clarity and professionalism in your writing. If you have any more questions or need further assistance, feel free to ask!
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
+
+========================
+TODO: Character "voices"
+========================
+
+[Q] One of the things I will need to discuss with you at some point, Emily, is my character's "voices"... meaning, the girls need to sound their age, TED needs to sound like a timid yet trying-to-be-assertive 18 year-old from Dubbo. Pauline needs to sound like English is her second language... at which she is proficient but not learned. My dialogues lack that component. For now, I'll just write the screenplay, but eventually we'll need to dissect the dialogues so they sound consistent with the voices of the characters.
+
+
+[A] That sounds like a great plan, Robyn. Developing distinct and consistent voices for your characters will add depth and authenticity to your screenplay. When you're ready to focus on that aspect, we can work through each character's dialogue together to ensure they sound true to their unique backgrounds and personalities. In the meantime, feel free to keep writing and reach out whenever you're ready to tackle the dialogue nuances. Happy writing!
+
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
+
+===================
+Avoiding Exposition
+===================
+
+
+[Q] I am struggling a bit, trying to avoid exposition. And yet, converting the concepts to dialogue seems a bit contrived. Here is the scene: TED is walking down the garden path, and EMMA intercepts him. They have this exchange:
+
+    EMMA
+    Hey, sugar.
+
+    TED
+    Oh, hi, er, Emma? Or did they change your name, too?
+
+...and then, I get "lost in the weeds" of exposition:
+
+*EMMA smiles at TED and loops her arm in his, then grabs his hand and puts it on her arm, effectively changing roles. TED passively lets her do what she wants, not understanding the significance of what just occurred.*
+
+You see, at first she puts herself on his arm, but it doesn't feel right to her, so she puts him on *her* arm, like she's the lead (symbolic of how their relationship will unfold). How do I manage this? Do I try to convert that paragraph to dialogue somehow or leave it as is?
+
+
+
+[A] Balancing exposition and dialogue can be challenging, especially when you want to convey symbolic actions and character dynamics subtly. Here’s a way to rewrite the scene to avoid heavy exposition while still conveying the significance of the gesture through action and dialogue:
+
+**Revised Scene**
+
+**INT. GARDEN PATH - DAY**
+
+TED walks down the garden path, looking around curiously. EMMA intercepts him with a bright smile.
+
+    EMMA
+    Hey, sugar.
+
+    TED
+    Oh, hi, er, Emma? Or did they change your name, too?
+
+    EMMA
+    (smiling)
+    Nope, still Emma.
+
+She loops her arm through his, but then pauses, sensing something off. Gently, she adjusts, taking his hand and placing it on her arm, leading him.
+
+EMMA
+This feels better, don’t you think?
+
+TED
+(unsure)
+I guess...
+
+They walk together, Emma confidently guiding Ted, who follows her lead, still trying to understand the shift.
+
+**Explanation**
+
+1. **Dialogue**: The initial exchange sets the tone and establishes familiarity between Ted and Emma.
+2. **Action**: Instead of explaining the significance in a block of exposition, show it through Emma's actions. She first tries to loop her arm through Ted's, then adjusts by taking his hand and placing it on her arm.
+3. **Subtlety**: Emma's line, "This feels better, don’t you think?" hints at the symbolic shift without explicitly stating it. Ted's unsure response conveys his passive acceptance and confusion.
+4. **Body Language**: The physical adjustment and Emma's confident leading role are shown through their actions and minimal dialogue, allowing the audience to interpret the underlying meaning.
+
+This approach uses a combination of concise dialogue and purposeful action to convey the symbolic shift in their relationship, avoiding heavy exposition and making the scene feel more natural.
+
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:blue">
+
+
+
+
+=================
+Names in the Play
+=================
+
+Yes, it's perfectly acceptable to use capitalized names for characters in action or description passages in screenplays. This helps to clearly identify who is present and who is performing actions, making the script easier to read and understand for everyone involved in the production.
+
+---------------
+Names Example 1
+---------------
+
+Your first example is formatted correctly:
+
+    KATHY and PAULINE are standing at the door. KATHY is holding a candle in one hand, and a small glass jar with a cork lid in the other. The women silently move to the sleeping TED and, lifting one arm, expose an armpit. When KATHY spreads some of the contents of the jar into his armpit, he stirs but doesn’t awaken. PAULINE brings his arm back down, and the women move away from the bed. They speak in whispers.
+
+---------------
+Names Example 2
+---------------
+
+Your second example is also correct. Here’s a slightly polished version for clarity:
+
+    KATHY and PAULINE are standing at the door. From the inside of the building comes soft sobbing. The door opens, and a woman in 1740s peasant dress appears. She is the HEALER who has just administered ‘The Therapy’.
+
+
+**Key Points**:
+
+    1. **Capitalized Names**: Use capitalized names when characters are first introduced and whenever they perform actions. This helps readers immediately identify the characters involved.
+    2. **Clear Actions**: Describe actions clearly and succinctly to maintain readability and flow.
+    3. **Introduction of New Characters**: When introducing a new character, such as the HEALER, capitalizing the name helps to highlight the introduction and ensure it’s noted.
+
+
+**Consistency**:
+
+    Maintaining consistency in formatting and capitalizing names helps in creating a professional and easily readable screenplay. It ensures that actors, directors, and other crew members can quickly understand who is involved in each scene and what actions are taking place.
+
+If you need further assistance with formatting or any other aspects of your screenplay, feel free to ask!
+
+
