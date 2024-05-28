@@ -14,7 +14,7 @@ Fleur de Lys
    RSTs/CCh03.rst
    RSTs/DCh04.rst
    RSTs/EWriting.rst
-   RSTs/FShotlist.rst
+   RSTs/FHistoric.rst
    RSTs/GContMay20.rst
    RSTs/GContMay26.rst
 

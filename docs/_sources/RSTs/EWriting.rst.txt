@@ -54,6 +54,9 @@ Below are the versions.
 
     `Dora-B.pdf (2024.05.27) <../_static/Dora-B.pdf>`_
 
+.. _PDF Link3:
+
+    `Dora-Bb.pdf (2024.05.28) <../_static/Dora-Bb.pdf>`_
 
 .. raw:: html
    
@@ -608,4 +611,371 @@ Your second example is also correct. Here’s a slightly polished version for cl
 
 If you need further assistance with formatting or any other aspects of your screenplay, feel free to ask!
 
+
+
+=================
+Example Shot List
+=================
+
+
+
+Of course! Here’s an example of a shotlist for the specified segment of your film:
+
+### Shotlist for "Rien que Moins"
+
+#### Scene: TED's Job Search and Decision
+
+**INT. BEDROOM - DAY**
+
+1. **WS** - TED’s bedroom, messy with clothes and books scattered around. TED sits at his desk, staring at his computer screen.
+   - *Establishes setting and introduces TED’s current state of life.*
+
+2. **CU** - TED’s face, showing his frustration and uncertainty as he browses job listings.
+   - *Conveys TED’s emotional state and the difficulty he’s facing.*
+
+3. **OTS** - Computer screen showing a job search website, listings scrolling by.
+   - *Highlights the challenge of finding a suitable job.*
+
+**INT. KITCHEN - DAY**
+
+4. **MS** - TED talking to his MOTHER at the kitchen table, looking disheartened.
+   - *Shows family dynamics and TED’s struggle.*
+
+5. **CU** - MOTHER’s concerned face as she offers advice.
+   - *Emphasizes the support and concern from his family.*
+
+**INT. EMPLOYMENT AGENCY - DAY**
+
+6. **WS** - Employment agency office, bustling with activity. TED enters hesitantly.
+   - *Sets the scene of the employment agency.*
+
+7. **MS** - TED at the reception desk, talking to the RECEPTIONIST.
+   - *Shows TED taking initiative to find a job.*
+
+8. **CU** - RECEPTIONIST’s face as she nods and directs him to the CLERK’s desk.
+   - *Introduces the agency staff and their role.*
+
+**INT. CLERK’S OFFICE - DAY**
+
+9. **MS** - TED sitting across from the CLERK, looking nervous.
+   - *Sets up the crucial interaction between TED and the CLERK.*
+
+10. **CU** - CLERK’s hands flipping through files, stopping at one labeled “Historical Fair”.
+    - *Focuses on the job opportunity that will change TED’s life.*
+
+11. **CU** - CLERK’s face as he explains the unusual job opportunity.
+    - *Shows the CLERK’s expression and the importance of the opportunity.*
+
+12. **CU** - TED’s face, a mix of hesitation and curiosity.
+    - *Captures TED’s reaction to the unusual suggestion.*
+
+13. **OTS** - CLERK handing TED a brochure for the historical fair.
+    - *Visualizes the job offer and its appeal.*
+
+**INT. BEDROOM - NIGHT**
+
+14. **MS** - TED lying on his bed, holding the brochure, deep in thought.
+    - *Illustrates TED’s contemplation and decision-making process.*
+
+15. **CU** - Brochure showing images of the historical fair, colorful and inviting.
+    - *Highlights what attracts TED to the opportunity.*
+
+**INT. EMPLOYMENT AGENCY - DAY**
+
+16. **MS** - TED back at the employment agency, at the reception desk, confirming his decision.
+    - *Shows TED’s final decision to accept the job.*
+
+17. **CU** - RECEPTIONIST’s approving smile as she hands TED a contract.
+    - *Conveys the start of TED’s new journey.*
+
+**EXT. EMPLOYMENT AGENCY - DAY**
+
+18. **WS** - TED leaving the agency, looking both apprehensive and excited.
+    - *Establishes TED stepping into a new chapter of his life.*
+
+---
+
+This shotlist breaks down the segment into specific shots, detailing the angles, framing, and actions to visually narrate TED’s journey from frustration to accepting the job at the historical fair. Let me know if you need any adjustments or additional details!
+
+
+
+
+
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:16px;border-width:0;color:gray;background-color:green">
+
+
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-Thesaurus.jpg
+
+
+
+
+
+
+*********
+Thesaurus
+*********
+
+===============
+Alternate Terms
+===============
+
+----
+said
+----
+
+told talked uttered spoke discussed stated shared announced articulated gave shouted verbalized enunciated passed brought out posted published voiced looked [put into words] whispered vocalized blurted affirmed proclaimed declared commented sounded put remarked asserted murmured aired averred gasped alleged promulgated advertised drawled chirped ventilated purred publicized breathed broadcasted vented phrased worded [got off] broadcast bolted formulated blazed avowed mouthed blabbered snarled spouted couched clad shot clothed spluttered avouched [ripped (out)] lipped formulized [piped up (with)]
+
+-----
+reply
+-----
+
+respond answer [say in response] rejoin return retort counter fling back [hurl back] retaliate [come back] reposte
+
+-------------
+fellow (noun) 
+-------------
+
+man boy person individual soul guy lad fella codger sort character customer devil bunny bastard chap bloke gent geezer bod punter bodach dude hombre digger ou oke admi body dog cove carl
+
+..or..
+
+companion friend crony comrade partner associate co-worker colleague chum pal buddy mate oppo bruvver bruv
+
+--------------
+longing (noun)
+--------------
+
+yearning pining craving ache burning hunger thirst itch urge lust hankering need eagerness zeal covetousness wish fancy desire want hope aspiration dream yen
+
+(adjective)
+
+yearning desirous pining craving
+
+-------
+panties
+-------
+
+lingerie underwear scanties undies pants undergarments underclothes underskirt
+
+---------
+entranced
+---------
+
+enchanted bewitched beguiled enraptured captivated captured mesmerized hypnotized spellbound held spellbound sent into transports/raptures
+
+-------------
+thrill (noun)
+-------------
+
+(feeling of) excitement thrilling experience stimulation sensation glow tingle titillation fun enjoyment amusement delight joy pleasure treat adventure buzz kick charge exhilaration
+
+(verb)
+
+excite stimulate arouse rouse inspire give joy to delight give pleasure to stir (up)
+exhilarate intoxicate electrify galvanize
+
+---------
+dalliance
+---------
+
+Activity engaged in for amusement:
+    
+    Dawdling Love affair Brief romance Sexual activity, especially sexual intercourse
+
+    fun sport frolicking play recreation relaxation rollicking frolic fun and games entertainment amusement diversion pleasure leisure enjoyment distraction pastime horseplay me-time relief refreshment games disport repose revelry ease festivity larks cavorting skylarking
+
+
+Dawdling:
+
+    dabbling playing toying trifling dawdling delay delaying dilly-dallying frittering frivoling idling loafing loitering poking procrastinating procrastination puttering
+
+    “A fashionable dalliance with ideas of liberty and reason.”
+
+Love affair:
+
+    coquetry flirtation affair fling frolicking hanky-panky involvement liaison relationship romance seduction toying carrying on fooling around love affair messing around amorous play working late at office a little on the side amour intrigue entanglement affair of the heart romantic entanglement affaire flirting carry-on philandering attachment love more ❯
+
+    “A politician engaging in sexual dalliance with his colleague.”
+
+Brief romance:
+
+    romantic encounter brief romance fling short romance short-term romance holiday romance affair liaison hookup tryst rendezvous casual sex sexual encounter good time smash and dash booty text romp hit it and quit it stand one-night stand one-nighter rollick one night engagement wham bam thank you ma'am road gig hanky-panky romantic rendezvous netflix and chill thing booty call
+
+Sexual activity, especially sexual intercourse:
+
+    lovemaking intercourse mating intimacy coitus copulation sex sexual intercourse sexual relations coition congress coupling screwing sex act bonking commerce copulating making love nookie nooky other relations rumpy-pumpy shagging fornication intimate relations it rumpo sexual congress the other carnal knowledge coquetting cuddling fondling foreplay hugging kissing rumpy pumpy sexual union smooching snuggling act of love sleeping with someone fooling around going to bed with someone sucking face 
+
+
+-------
+delight
+-------
+
+(verb) please greatly charm enchant captivate entrance bewitch thrill excite take someone's breath away gladden gratify appeal to do someone's heart good entertain amuse divert send tickle give someone a buzz give someone a kick tickle pink bowl over
+
+(noun) pleasure happiness joy joyfulness glee gladness gratification relish excitement amusement bliss rapture ecstasy
+
+
+---------
+recherché
+---------
+
+(adjective)
+
+Synonyms of recherché: EXQUISITE, CHOICE, EXOTIC, RARE
+
+excessively refined: AFFECTED entry, PRETENTIOUS, OVERBLOWN
+
+
+
+
+
+
+.. raw:: html
+   
+   <hr style="height:16px;border-width:0;color:gray;background-color:green">
+
+.. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Bnr-PlotDev.jpg
+
+
+
+
+
+
+****************
+Plot Development
+****************
+
+This short novel is going to be a screenplay. The main character is a short, slender 18-year-old jobless man (Ted). His friend Mabel suggests he apply at a 'Historical Fair', where people dress up in 1750s clothes in a 1750s environment. I would like to explore the following plotline: he is slowly drawn into - as part of his employment at this location - is required to - participate. Please help me brainstorm some creative ways you can assist with writing a book on a protagonist finding himself dealing with living in another time (1750s, but not because of time travel) and as a woman.
+
+
+
+=====================
+Plot Development: One
+=====================
+
+That sounds like a fascinating premise! Here are some creative ways I can assist you with writing this book:
+
+1. **Historical Context and Research**:
+
+   - **Historical Events and Daily Life**: I can provide detailed information about significant events, daily life, social norms, and gender roles in the 1780s to help you create an authentic setting.
+   - **Fashion and Culture**: Insights into the fashion, culture, and etiquette of the time period to ensure your characters' actions and appearances are historically accurate.
+
+2. **Character Development**:
+
+   - **Protagonist’s Transformation**: Explore how the protagonist adjusts to their new identity as a woman, including changes in behavior, speech, and interactions with others.
+   - **Supporting Characters**: Help develop a diverse cast of supporting characters that reflect the social structure and culture of the 1780s.
+
+3. **Plot Development**:
+
+   - **Conflict and Challenges**: Brainstorm potential conflicts and challenges the protagonist might face, such as societal expectations, limitations on women’s rights, and personal identity struggles.
+   - **Relationships**: Develop complex relationships, including friendships, romantic interests, and antagonists that highlight the protagonist’s journey and growth.
+
+4. **Writing Style and Language**:
+
+   - **Dialogue**: Craft dialogue that reflects the speech patterns and vocabulary of the 1780s.
+   - **Narrative Voice**: Decide on a narrative voice that fits the historical context and the protagonist’s unique perspective.
+
+5. **Themes and Symbolism**:
+
+   - **Gender Identity**: Explore themes of gender identity, empowerment, and self-discovery.
+   - **Societal Expectations**: Examine how societal expectations and limitations on women influence the protagonist’s experiences and choices.
+
+6. **World-Building**:
+
+   - **Setting Descriptions**: Provide vivid descriptions of settings, from grand ballrooms to humble cottages, that immerse readers in the 1780s.
+   - **Cultural Details**: Incorporate cultural details, such as customs, traditions, and superstitions, to enrich the story’s authenticity.
+
+7. **Plot Twists and Surprises**:
+
+   - **Unexpected Allies**: Introduce characters who challenge the protagonist’s assumptions and help them grow in unexpected ways.
+   - **Mystery and Intrigue**: Weave in elements of mystery or intrigue that add depth and excitement to the plot.
+
+8. **Emotional Depth**:
+
+   - **Internal Struggles**: Delve into the protagonist’s internal struggles with identity, acceptance, and adaptation.
+   - **Moments of Triumph**: Highlight moments of triumph and self-realization that resonate with readers.
+
+Feel free to let me know if there are specific aspects you’d like to explore further or if you have any particular scenes or scenarios in mind!
+
+
+======================
+Plot Development - Two
+======================
+
+Further to this idea, the setting I was envisioning was a modern-day "Dickens Faire" environment in which he is an employee. Many of the dot-points you offered will serve as a good foundation to develop the story from, but I will need a plausible reason why he should find himself in the predicament of having to be considered female in his line of work, with all the ramifications - psychological and otherwise - this will include.
+
+That sounds like a compelling setting! Here are some ideas to explain why your protagonist finds himself having to be considered female in a modern-day Dickens Faire environment, along with the psychological and other ramifications:
+
+
+-------------------------------------
+Plausible Reasons for the Gender Swap
+-------------------------------------
+
+1. **Role Assignment by the Employer**:
+
+   - **Casting Requirement**: The fair organizers decide to assign roles based on specific needs, and your protagonist is cast in a female role due to a shortage of female actors or for a special performance.
+   - **Unexpected Vacancy**: A key female performer suddenly falls ill or cannot continue, and your protagonist is asked to step in due to his adaptability and acting skills.
+
+2. **Bet or Challenge**:
+
+   - **Personal Bet**: Your protagonist makes a bet with a colleague that leads to him having to take on a female role if he loses.
+   - **Dare or Challenge**: As part of a team-building exercise or as a result of a dare, he ends up having to perform as a woman.
+
+3. **Accidental Circumstances**:
+
+   - **Costume Mix-Up**: A mix-up in costume assignments or an administrative error leads to him being assigned a female role.
+   - **Last-Minute Change**: A last-minute crisis requires him to take on a female persona to save a performance or cover for someone else.
+
+4. **Artistic Experimentation**:
+
+   - **Director's Vision**: The director of the fair has a unique vision or artistic experiment that involves exploring gender roles and assigns him a female character.
+   - **Historical Accuracy**: For the sake of historical accuracy, he is required to portray a female role due to specific historical references.
+
+
+-------------------------------------
+Psychological and Other Ramifications
+-------------------------------------
+
+1. **Identity and Self-Perception**:
+   - **Internal Conflict**: Struggling with his own identity and how he perceives himself versus how others see him.
+   - **Gender Dysphoria**: Experiencing feelings of gender dysphoria or confusion about his gender identity.
+
+2. **Social Interactions**:
+   - **Reactions from Others**: Dealing with varied reactions from colleagues, friends, and fair visitors—ranging from acceptance to ridicule.
+   - **New Friendships**: Forming unexpected friendships with female colleagues who offer support and advice on navigating his new role.
+
+3. **Professional Growth**:
+   - **Acting Skills**: Enhancing his acting skills by learning to embody a female character convincingly, which might lead to new opportunities.
+   - **Empathy and Understanding**: Developing a deeper empathy for the experiences of women and the challenges they face.
+
+4. **Personal Development**:
+   - **Self-Discovery**: Going through a journey of self-discovery, learning more about his own strengths and vulnerabilities.
+   - **Resilience**: Building resilience as he overcomes the difficulties associated with this unexpected role.
+
+5. **Cultural and Social Commentary**:
+   - **Challenging Norms**: Using the experience to challenge societal norms and stereotypes about gender roles and expectations.
+   - **Awareness and Advocacy**: Becoming an advocate for greater awareness and understanding of gender identity issues.
+
+
+-----------
+Scene Ideas
+-----------
+
+1. **First Day in the Role**: The protagonist's first day performing as a woman, complete with costume fitting, makeup, and initial reactions from peers and visitors.
+2. **Conflict Scene**: A confrontation with a visitor or colleague who challenges his new role, leading to a moment of self-reflection or defense.
+3. **Supportive Mentor**: An experienced female colleague takes him under her wing, offering guidance and support.
+4. **Public Performance**: A public performance where he excels in his role, gaining unexpected praise and confidence.
+5. **Personal Crisis**: A moment of personal crisis where he questions his identity and decisions, seeking solace and advice from a trusted friend.
+
+These ideas should help you develop a rich and engaging narrative for your protagonist in this unique setting. Let me know if you need more specific details or additional brainstorming!
+
+
+
+Famous 16th-century English philosophers Francis Bacon and Thomas Hobbes both preferred women healers. Bacon found “old women more happy many times in their cures than learned physicians.” Hobbes would “rather have the advice or take physic from an experienced old woman that had been at many sick people’s bedsides, than from the learnedst but unexperienced physician.”
 
