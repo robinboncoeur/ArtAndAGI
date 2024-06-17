@@ -1,0 +1,501 @@
+#####################
+About These Art Pages
+#####################
+
+********
+Foreword
+********
+
+These pages are all about sharing what I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
+
+.. image:: http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg
+    :width: 1200px
+    
+The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
+
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:black;background-color:black">
+
+
+************
+Story Basics
+************
+
+A novella. The protagonist is a small male who finds himself in an 18th century chateau (modern-day replica) learning the ways of persons in those days.
+
+
+
+**********
+Characters
+**********
+
+========================
+Miss Kathy, the Countess
+========================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/01Kathy.jpg
+            :width: 280px
+            :alt: Kathy, Comtesse
+
+    .. container:: text-column
+
+        Kathy dit de Bonne Chasse
+        Runs the business: 
+        
+            * family history of nobility in France: countess
+            * speaks French and English
+            * also known as Miss Kathy
+
+            * teaches French
+            * impatient with stupid or ignorant behaviour
+            * in her mid 40s
+            * can be quite cold-hearted
+            * has some powerful proclivities
+						
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+====================
+Pauline, the Servant
+====================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/02Pauline.jpg
+            :width: 280px
+            :alt: Pauline, the servant
+
+    .. container:: text-column
+
+        French maid-servant, [associate of Kathy]'s: 
+        
+            * The maid-servant
+            * She is also from France
+            * speaks mostly French and a bit of broken English
+            * has strong maternal instincts
+            * is usually very quiet
+            * can be quite firm and even stern if circumstances warrant it
+            * follows Miss Kathy’s mandates closely 
+            * shares many of Kathy's proclivities
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+====================
+Ted, Kathy's Subject
+====================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/03Ted.jpg
+            :width: 280px
+            :alt: Dora, nee Ted
+
+    .. container:: text-column
+
+        Miss Kathy's Subject: 
+        
+            * 18 year-old petite, slender, timid androgynous *not-robust* male
+            * straight, naive, trusting, obedient, sensitive, honourable
+            * academically poor except for music and history
+            * jobless, kicked out of the home, no strong social ties
+            * composer of classical music
+            * speaks French, somewhat conversant
+            * perfectionist in anything he does
+            * weakness-he can't say no to women, tries to assert himself, always fails
+            * to encounter significant gender-challenging adventures
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+=================
+Emma, the Cowgirl
+=================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/04Emma.jpg
+            :width: 280px
+            :alt: Emma, the Cowgirl
+
+    .. container:: text-column
+
+        Emma, the Cowgirl: 
+        
+            * raised in the bush
+            * robust, tallest of all the girls
+            * [voluptuous figure which she likes to show off]
+            * kind-hearted, loves animals
+            * wants to learn French
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+======================
+Lucy, the Intellectual
+======================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/05Lucy.jpg
+            :width: 280px
+            :alt: Lucy
+
+    .. container:: text-column
+
+        Brains of the bunch: 
+        
+            * gay, partner with Chloe
+            * feminist
+            * --
+            * --
+            * --
+            * --
+            * --
+        
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+===================
+Chloe, Lucy's Lover
+===================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/06Chloe.jpg
+            :width: 280px
+            :alt: Chloe
+
+    .. container:: text-column
+
+        Student on an adventure: 
+        
+            * friends with Lucy
+            * friendly with everyone
+            * --
+            * --
+            * --
+            * --
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+=======================
+Sarah, the English girl
+=======================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/07Sarah.jpg
+            :width: 280px
+            :alt: Sarah from England
+
+    .. container:: text-column
+
+        Sarah, POME girl: 
+        
+            * small but curvy
+            * dry, ascerbic wit
+            * loves to tease
+            * has a thing for Lucy
+            * --
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+=========================
+Jessica, the History Buff
+=========================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/08Jessica.jpg
+            :width: 280px
+            :alt: Jessica loves History
+
+    .. container:: text-column
+
+        Jessica loves History: 
+        
+            * was the one to suggest this adventure in the first place
+            * has a soft spot for Ted
+            * has a similar proclivity to Kathy and Pauline
+            * has strong maternal instincts
+            * --
+            * --
+            * --
+            
+======
+Others
+======
+
+Other Characters:
+
+    * Mabel, employment agency clerk
+    * Healer, midwife who administers 'The Therapy'
+    * Annette, Jessica's maid
+    
+
+
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+*************************************
+Reminders [to Myself] of Sphinx Stuff
+*************************************
+
+=============
+Inline images
+=============
+
+For externally-stored images (most will be stored on Tightbytes, for my pages)::
+
+	* .. image:: http://www.tightbytes.com/Music/CReinecke/CReinecke1890.jpg
+
+and for those stored with the data files::
+
+	* .. image:: ../images/blAltRtClick01.png
+
+
+
+======================
+Embedded YouTube Video
+======================
+
+This code::
+
+   .. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/123xxxXXXyZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+Should have 11 characters::
+
+	3LbsmS5TJXA
+	123xxxXXXyZ
+
+Key to note is the difference in the link in the raw html syntax vs the actual youtube link::
+
+	https://www.youtube.com/embed/123xxxXXXyZ
+	https://www.youtube.com/watch?v=9USTddwNoXU
+
+Basically, "embed/" instead of "watch?v=".
+
+
+
+==============
+Embedded Audio
+==============
+
+This code::
+
+	.. raw:: html
+
+		<audio controls="controls">
+		  <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+		  Your browser does not support the <code>audio</code> element. 
+		</audio>
+
+...produces:
+
+.. raw:: html
+
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch11.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+==========================
+Embedded Non-youtube Video
+==========================
+
+This code::
+
+	.. raw:: html
+
+	   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	   
+	   |
+	   
+
+...produces:
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://tightbytes.com/videos/projects/garden/Aj-SHTrench.mp4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+   |
+
+
+(Note to self: took out  [  autoplay; ] )
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+==================
+Creating Dotpoints
+==================
+
+Once you've decided:
+
+  * Select A.
+
+  * Select B. 
+
+  * To identify C.
+
+  * Finally, click on D.
+
+
+Note: *setting things to italics like this makes more impact - these have yielded reasonable results. You will almost certainly find better settings, which is the whole point of sharing this*.
+
+
+
+================
+Links Management
+================
+
+Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the `Mac user help <http://blender.stackexchange.com/questions/6173/where-does-console-output-go>`_ page.
+
+
+
+
+==========================
+Horizontal Separator Lines
+==========================
+
+The code is this (minus the '*')::
+
+	* .. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+...which produces the following grey horizonal bar to help separate sctions (like the one below).
+
+.. raw:: html
+   
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+============
+Sphinx Links
+============
+
+`RestructuredText Syntax <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
+
+`Images <https://docutils.sourceforge.io/docs/ref/rst/directives.html#images>`_
+
+`Containers <https://docutils.sourceforge.io/docs/ref/rst/directives.html#container>`_
+
+`Table of Contents <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents>`_
+
+`Classes <https://docutils.sourceforge.io/docs/ref/doctree.html#classes>`_
+
+
+
+************
+HTML and CSS
+************
+
+Grid for two simple layouts:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+Slide Show:
+
+.. raw:: html
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+   <hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
+
+`CSS stuff <https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019>`_
+
+`AstroDocs <https://docs.astro.build/en/editor-setup/>`_
+
+
+
+
+
+
+

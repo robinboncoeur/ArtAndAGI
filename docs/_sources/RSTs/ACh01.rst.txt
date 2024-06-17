@@ -16,7 +16,7 @@ Ted wasn't really paying attention to the jobs clerk at the unemployment agency.
 
     .. container:: image-column
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Mabel01.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/Mabel01.jpg
             :width: 580px
             :alt: At the unemployment agency: Mabel
 

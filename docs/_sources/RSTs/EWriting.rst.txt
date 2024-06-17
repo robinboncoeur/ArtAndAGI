@@ -58,6 +58,10 @@ Below are the versions.
 
     `Dora-Bb.pdf (2024.05.28) <../_static/Dora-Bb.pdf>`_
 
+.. _PDF Link4:
+
+    `Dora-Bd.pdf (2024.06.05) <../_static/Dora-Bd.pdf>`_
+
 .. raw:: html
    
    <hr style="height:4px;border-width:0;color:gray;background-color:blue">
