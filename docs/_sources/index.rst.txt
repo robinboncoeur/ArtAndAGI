@@ -13,7 +13,7 @@ Fleur de Lys
    RSTs/ACh01.rst
    RSTs/BCh02.rst
    RSTs/CCh03.rst
-   RSTs/DCh04.rst
+   RSTs/Dora.rst
    RSTs/EWriting.rst
    RSTs/FHistoric.rst
    RSTs/GContMay20.rst

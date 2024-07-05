@@ -1,0 +1,753 @@
+########################
+Dora-Plot and Background
+########################
+
+************
+Story Basics
+************
+
+A young male person finds out what it is like to be "erased".
+
+=============================
+July, 2024 - Plot Development
+=============================
+
+**Following is my question for Emily.**
+
+.. container:: two-column-containerr
+
+    .. container:: image-columnr
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH17.png
+            :width: 580px
+            :alt: A new world for Ted
+
+    .. container:: text-columnr
+
+      Hi Emily. I need some help with plot, subplot and overall screenplay structure (play in 3 acts, beat sheet, etc) for my story. The story so far, in my mind, is one where the core plot is that Kathy wishes to exact a sort of justice moment on a member of the male gender. The justice moment would have the following characteristics:
+
+          * Basis: women - accomplishments, names, events involving women - have been systematically "erased" from history
+          * Properties: the male person would feel the following effect... his accomplishments, which would be considerable - in this story's case, musical composition - would be, due to the society in which he lives, would be subsumed by his spouse. She would receive the adulation rightfully his because of his status, and he would learn to be grateful that his accomplishments received recognition at all
+          * Key points are: he is not mistreated physically, but constrained in his ability to flourish in his musical prowess. His spouse goes from strength to strength. The society they live in, a matriarchy, see this state of affairs as perfectly natural. He will experience a sort of "glass ceiling" because of his gender.
+  
+      Some of his struggles include having to accept that the job he signed up to - what he thought was primarily a play-acting roles - was actually one of that of a maidservant of the mid-1700s. He has to deal with the awkward dress of the time (awkward to him, anyway), the lack of technology, loss of autonomy (synonymous with what a woman experienced in an arranged marriage in the 18th century) and having to accept a name and a status he had no say in. The story needs a subplot, where Kathy - the lady of the manor (Chateau Fleur de Lys) - decides the sort of male she has in mind to place into the situation described above. He has a very pronounced talent for something artistic - I use musical composition because it is a field that I can write comfortably about.
+      
+He needs to be young, much more beta than alpha - physically less developed than the women around him, almost nymphlike - but with a wit and personality to be able to vividly experience what Kathy has in story for him. His slow metamorphosis into the submissive, supportive "wife" role to his female partner will never extinguish his own fervor or talent, but rather he will express his feelings about his experiences through his music. Where Kathy fits into this and how best to develop this is where I need some ideas.
+
+
+-----------------------------------------------
+Screenplay Structure: Three Acts and Beat Sheet
+-----------------------------------------------
+
+**Emily developed the following for me.**
+
+*Your story has a fascinating premise, and structuring it well will help you to effectively convey the themes and character arcs you’re aiming for. Here’s a breakdown of how you might structure the screenplay, incorporating a subplot and ensuring that each act contributes to the overall narrative.*
+
+
+**Act 1: Setup**
+
+    - **Opening Image**: Introduce Ted (later Dora) in his current, mundane life, struggling to find his place in the world.
+    
+    - **Theme Stated**: Through dialogue or action, hint at the theme of erasure of women's accomplishments and the idea of justice.
+    
+    - **Set-Up**: Establish Ted’s background, his musical talent, and his beta characteristics. Introduce his aunt and the employment agency, setting the stage for the historical fair job offer.
+    
+    - **Catalyst**: Ted accepts the job at Chateau Fleur de Lys, believing it to be a play-acting role at a historical fair.
+    
+    - **Debate**: Ted grapples with the idea of traveling far from home and stepping into an unknown role. His aunt’s comments about ungratefulness and his own insecurities are highlighted.
+    
+    - **Break into Two**: Ted arrives at the chateau, meets Kathy and the other women, and begins to understand the depth of his new role.
+
+**Act 2: Confrontation**
+
+    - **B Story (Subplot)**: Kathy’s backstory is revealed, including her motivations for creating this matriarchal society. Her history with the erasure of women’s accomplishments and her desire for justice is shown through flashbacks or conversations with other characters.
+    
+    - **Fun and Games**: Ted, now Dora, struggles with the physical and social demands of his new role. He learns to dress as a maid, perform household chores, and deal with the lack of autonomy. This section can also show moments of bonding and conflict with the other characters.
+    
+    - **Midpoint**: Dora’s musical talent is discovered. Kathy decides to exploit this, having him compose music while attributing the works to his female partner, Emma. This decision cements Dora’s subordinate role.
+    
+    - **Bad Guys Close In**: Dora faces increasing challenges as he is constrained in his ability to express his talent. The societal norms of the chateau become more oppressive, and his frustration grows.
+    
+    - **All Is Lost**: Dora experiences a significant setback, such as a public humiliation where his work is praised but attributed to Emma. He feels completely erased and hopeless.
+    
+    - **Dark Night of the Soul**: Dora contemplates leaving or rebelling but realizes the futility of his situation. He struggles with his identity and purpose.
+
+
+**Act 3: Resolution**
+
+    - **Break into Three**: Dora decides to fully embrace his role, not out of submission but to subvert expectations and find a new form of expression. He starts to compose music that subtly reflects his experiences and emotions.
+    
+    - **Finale**: Dora’s compositions gain recognition, with Emma receiving the adulation. However, the music starts to speak for itself, subtly highlighting Dora’s true identity and talent. This culminates in a public performance or event where the truth begins to seep through.
+    
+    - **Final Image**: The final scene shows Dora at peace with his dual identity. He has accepted his role but continues to express his individuality and talent through his music. Kathy acknowledges his journey, and there is a sense of uneasy but profound respect between them.
+
+
+-------------------
+Subplot Development
+-------------------
+
+**Kathy’s Perspective**:
+
+    - **Backstory**: Kathy’s motivations are rooted in personal and historical experiences of women being overshadowed by men. She is a scholar or historian who has dedicated her life to highlighting these erasures.
+    
+    - **Choosing Ted**: Kathy’s choice of Ted is deliberate. She sees in him the potential to truly understand and reflect the struggles of women historically. Her interactions with him are a mix of mentorship and manipulation.
+    
+    - **Conflict and Resolution**: Kathy’s own arc involves realizing the complexities of her experiment. She starts with a desire for justice but ends with a deeper understanding of empathy and the human spirit. Her relationship with Dora evolves from one of power to one of mutual respect.
+
+
+---------------------------
+Character Dynamics and Arcs
+---------------------------
+
+- **Ted/Dora**: Starts as a naive young man and transforms into a complex character who finds strength in his new identity. His musical talent becomes a form of silent rebellion and self-expression.
+
+- **Emma**: Initially appears to be the beneficiary of Dora’s talents, but she grows to understand and support him, eventually becoming an ally.
+
+- **Kathy**: From a seemingly cold and calculated figure to a more nuanced character who learns from the very person she sought to control.
+
+
+----------
+Key Themes
+----------
+
+- **Erasure and Recognition**: The story revolves around the themes of erasure of identity and accomplishments and the struggle for recognition.
+
+- **Identity and Transformation**: The transformation of Ted into Dora symbolizes the fluidity of identity and the strength found in adapting to new roles.
+
+- **Justice and Empathy**: Kathy’s quest for justice evolves into a deeper understanding of empathy and shared humanity.
+
+*By structuring your screenplay in this way, you can create a compelling narrative that explores these rich themes and character arcs. If you need further assistance with specific scenes or more detailed beat sheets, feel free to ask!*
+
+
+
+=====================
+Character Development
+=====================
+
+.. container:: two-column-containerr
+
+    .. container:: image-columnr
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH06.png
+            :width: 400px
+            :alt: Gown upgrade
+
+    .. container:: text-columnr
+
+      If I understand this correctly, Emily, deveelop my characters can be along a sort of "arc". For example: Ted. Young (18), inexperienced, head in the clouds and very impressed with his abilities at composition, unaware of his poor marketability - classical music composition isn't that sought after.
+      
+      Kicked out of the family home because his dad felt the "school of hard knocks" would "make a man out of him". 'Rescued' by his aunt because his mother asked her to (sisters): aunt both loves him and eyt finds his unrealistic views on his future irritating. Finds him a job at a friend's women's apparel shop which he disdains.
+
+      Already here, Ted tries to be aloof of women and the help they are trying to provide, and yet, finds it easier to simply acquiesce at times, for short-term gains, as in the case of the handbag and cardigan. To go from this point to one where he is completely immersed in "wife" role to the much stronger-willed Emma, in an actually enthusiastically, emotionally positive buy-in manner, is going to be a busy process. 
+      
+      I will endeavour to develop Ted first, but let bits of Kathy and Emma reveal themselves before focusing much more fully on them, showing what complex, interesting women they actually are. I hope to actually let the focus of the film become all about Kathy and Emma, to promote the underlying philosophy of the film: the promotion of women.
+
+      What pointers can you give me on Ted's character, with perhaps more than one character deevlopment arc to consider, please.
+
+**Emily offers some great ideas.**
+
+*Developing Ted's character arc with multiple dimensions can make his transformation more compelling and believable. Here are some pointers and possible arcs to consider for Ted.*
+
+
+-----------------------
+Initial Character Setup
+-----------------------
+
+**Ted at the Start:**
+
+- **Age and Background**: Ted is 18, fresh out of high school, and a dreamer with his head in the clouds.
+
+- **Musical Talent**: He is talented in classical music composition but unaware of the limited marketability of this skill.
+
+- **Family Dynamics**: Kicked out by his father to toughen him up, and reluctantly rescued by his aunt, who finds his idealism frustrating.
+
+- **Attitude Towards Women**: Aloof and somewhat disdainful of the help offered by women, yet he often acquiesces for short-term gains.
+
+
+--------------------------
+Character Development Arcs
+--------------------------
+
+**Arc 1: From Aloof to Respectful**
+
+- **Beginning**: Ted dismisses the support and guidance of the women around him, believing he doesn't need their help.
+
+- **Middle**: Through various experiences at the chateau, Ted begins to see the value and strength in the women around him, especially as he struggles with his own role.
+
+- **End**: Ted comes to respect and admire the women, recognizing their talents and contributions, and understanding the importance of working together.
+
+
+**Arc 2: From Naivety to Realism**
+
+- **Beginning**: Ted has unrealistic views about his future and his abilities, believing his talent alone will carry him.
+
+- **Middle**: He faces the harsh realities of life at the chateau, where his talent is both utilized and overshadowed by Emma.
+
+- **End**: Ted gains a realistic understanding of his place in the world and the value of perseverance and adaptability.
+
+
+**Arc 3: From Submission to Empowerment**
+
+- **Beginning**: Ted reluctantly submits to the role forced upon him, feeling constrained and powerless.
+
+- **Middle**: Through mentorship from Pauline and experiences with Emma, Ted learns to find strength in his new identity and role.
+
+- **End**: Ted fully embraces his role, not just as a submissive figure, but as an empowered individual who contributes significantly through his music and support of Emma.
+
+
+---------------------
+Key Character Moments
+---------------------
+
+1. **Inciting Incident**: Ted takes the job at the chateau, expecting a simple play-acting role, only to find himself immersed in the life of a maidservant.
+
+2. **Turning Point**: Ted realizes the depth of his new role and begins to struggle with his identity and purpose.
+
+3. **Climax**: Ted's compositions gain recognition through Emma, leading to a crisis of identity and value.
+
+4. **Resolution**: Ted accepts his role and finds empowerment in his contributions, recognizing the importance of support and collaboration.
+
+
+----------------------
+Character Interactions
+----------------------
+
+- **With Kathy**: Kathy is both a mentor and a manipulator. Her interactions with Ted should reveal her complex motivations and help Ted understand the broader context of his situation.
+
+- **With Emma**: Emma starts as a beneficiary of Ted's talent but grows to understand and support him. Their relationship evolves from one of hierarchy to one of mutual respect and partnership.
+
+- **With Pauline**: Pauline is a guide who helps Ted navigate his new role. Her firm but caring approach helps Ted adapt and find strength in his new identity.
+
+*Final Thoughts - Ted's transformation from a naive, aloof young man to an empowered and respectful individual can serve as a powerful narrative arc. By focusing on his growth and the influence of the women around him, you can create a story that highlights the strengths and complexities of all the characters involved. If you need more specific scenes or further development ideas, feel free to ask!*
+
+**********
+Characters
+**********
+
+========================
+Miss Kathy, the Countess
+========================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/01Kathy.jpg
+            :width: 280px
+            :alt: Kathy, Comtesse
+
+    .. container:: text-column
+
+        Kathy dit de Bonne Chasse
+        Runs the business: 
+        
+            * family history of nobility in France: countess
+            * speaks French and English
+            * also known as Miss Kathy
+
+            * teaches French
+            * impatient with stupid or ignorant behaviour
+            * in her mid 40s
+            * can be quite cold-hearted
+            * has some powerful proclivities
+						
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+====================
+Pauline, the Servant
+====================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/02Pauline.jpg
+            :width: 280px
+            :alt: Pauline, the servant
+
+    .. container:: text-column
+
+        French maid-servant, [associate of Kathy]'s: 
+        
+            * The maid-servant
+            * She is also from France
+            * speaks mostly French and a bit of broken English
+            * has strong maternal instincts
+            * is usually very quiet
+            * can be quite firm and even stern if circumstances warrant it
+            * follows Miss Kathy’s mandates closely 
+            * shares many of Kathy's proclivities
+
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+====================
+Ted, Kathy's Subject
+====================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/03Ted.jpg
+            :width: 280px
+            :alt: Dora, nee Ted
+
+    .. container:: text-column
+
+        Miss Kathy's Subject: 
+        
+            * 18 year-old petite, slender, timid androgynous *not-robust* male
+            * straight, naive, trusting, obedient, sensitive, honourable
+            * academically poor except for music and history
+            * jobless, kicked out of the home, no strong social ties
+            * composer of classical music
+            * speaks French, somewhat conversant
+            * perfectionist in anything he does
+            * weakness-he can't say no to women, tries to assert himself, always fails
+            * to encounter significant gender-challenging adventures
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+=================
+Emma, the Cowgirl
+=================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/04Emma.jpg
+            :width: 280px
+            :alt: Emma, the Cowgirl
+
+    .. container:: text-column
+
+        Emma, the Cowgirl: 
+        
+            * raised in the bush
+            * robust, tallest of all the girls
+            * [voluptuous figure which she likes to show off]
+            * kind-hearted, loves animals
+            * wants to learn French
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+======================
+Lucy, the Intellectual
+======================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/05Lucy.jpg
+            :width: 280px
+            :alt: Lucy
+
+    .. container:: text-column
+
+        Brains of the bunch: 
+        
+            * gay, partner with Chloe
+            * feminist
+            * --
+            * --
+            * --
+            * --
+            * --
+        
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+===================
+Chloe, Lucy's Lover
+===================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/06Chloe.jpg
+            :width: 280px
+            :alt: Chloe
+
+    .. container:: text-column
+
+        Student on an adventure: 
+        
+            * friends with Lucy
+            * friendly with everyone
+            * --
+            * --
+            * --
+            * --
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+=======================
+Sarah, the English girl
+=======================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/07Sarah.jpg
+            :width: 280px
+            :alt: Sarah from England
+
+    .. container:: text-column
+
+        Sarah, POME girl: 
+        
+            * small but curvy
+            * dry, ascerbic wit
+            * loves to tease
+            * has a thing for Lucy
+            * --
+            * --
+            * --
+            
+
+.. raw:: html
+   
+   <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+=========================
+Jessica, the History Buff
+=========================
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/fleur/08Jessica.jpg
+            :width: 280px
+            :alt: Jessica loves History
+
+    .. container:: text-column
+
+        Jessica loves History: 
+        
+            * was the one to suggest this adventure in the first place
+            * has a soft spot for Ted
+            * has a similar proclivity to Kathy and Pauline
+            * has strong maternal instincts
+            * --
+            * --
+            * --
+            
+======
+Others
+======
+
+Other Characters:
+
+    * Mabel, employment agency clerk
+    * Healer, midwife who administers 'The Therapy'
+    * Annette, Jessica's maid
+    
+
+
+
+.. raw:: html
+   
+   <hr style="height:8px;border-width:0;color:black;background-color:black">
+
+
+********************************
+Emily's Suggestions For Dialogue
+********************************
+
+===============================
+Pauline and Ted Discuss Changes
+===============================
+
+**First version**
+
+PAULINE looks TED down and up. 
+
+PAULINE
+(smiling gently)
+Dora is who you hired on to be and she is who you will become. It’s more than just clothes or a name. It’s like character acting. You must fully immerse yourself in this eighteenth century world, every aspect of it. You will think and react like a servant. As a **female** servant, it will be so much easier for you to become a believable servant.
+
+TED
+(still hesitant)
+But how do I just...become someone else?
+
+PAULINE
+You already have the outward appearance. Now, you need to let go of Ted and embrace Dora. It’s like being an actor in a play. The more you commit, the more authentic you become.
+
+TED
+(sighs)
+I’m not an actor, though.
+
+PAULINE
+That’s where you’re wrong. Every day we all play roles. You played the role of ‘Ted’ out there, but in here, in this world, you’re Dora. Embrace her. Let her be your shield, your strength.
+
+TED
+(still unsure)
+But what if I can’t do it?
+
+PAULINE takes TED’s hands and looks into his eyes.
+
+PAULINE
+You can, and you will. It’s about survival, about adapting. And you’re not alone. I’m here to help you, to guide you. Together, we’ll make Dora as real and as strong as you need her to be.
+TED
+What, about being a servant? It’s just hard work because it is low-tech. Actually, no tech. But really, what else is there for me to learn?
+
+PAULINE smiles.
+
+PAULINE (CONT’D)
+You will learn far more important things than how to manage in an 18th century world.
+
+**Second version**
+
+Here's a revised version of the dialogue to make it flow more naturally and emphasize Pauline's reasoning:
+
+---
+
+**INT. EMMA’S BEDROOM - DAY**
+
+PAULINE and TED are tending to the bedroom. PAULINE points to the other side of the bed.
+
+**PAULINE**
+Help me make the bed.
+
+**TED**
+Why did Miss Kathy change my name to ‘Dora’, Miss Pauline?
+
+**PAULINE**
+Well, think about it, Dora. Look at the way you’re dressed, the work you’re doing, work you agreed to...
+
+**TED**
+Look, I figured there would be costumes involved. Sort-of implied in ‘Historical Fair,’ I guess. What I DIDN’T agree to was a name change!
+
+PAULINE moves to the window and looks out on the garden. She turns to TED.
+
+**PAULINE**
+You do understand that Fleur de Lys is dedicated to the “Complete Experience” for its clientele. Imagine how that would affect that experience if someone overhears the maid being addressed as “Ted.”
+
+PAULINE approaches TED and cups his face in her hands.
+
+**PAULINE (CONT’D)**
+You do see how impossible that is, don’t you? Besides, what’s in a name, anyway?
+
+TED stands scowling by the bed, head down.
+
+**PAULINE (CONT’D)**
+(approaches TED)
+Is it really that, um, threatening to you to become Dora?
+
+**TED**
+Become?
+
+**PAULINE**
+Yes, ‘become’. You must BECOME Dora, little one. For you, this isn’t a job, it’s a role. Your role is ‘Dora’.
+
+**TED**
+But.
+**BEAT**
+But Dora is a woman, isn’t she?
+
+PAULINE looks TED down and up.
+
+**PAULINE**
+(smiling gently)
+Dora is who you hired on to be and she is who you will become. It’s not just clothes or a name. You have to fully immerse yourself in this world. As a **female** servant, you won’t have any masculine habits or mannerisms to fall back on. It will be easier for you to truly become an authentic 18th-century servant.
+
+**TED**
+(still hesitant)
+But how do I just...become someone else?
+
+**PAULINE**
+You already have the outward appearance. Now, you need to let go of Ted and embrace Dora. Think of it like an actor in a play. The more you commit, the more authentic you become.
+
+**TED**
+(sighs)
+I’m not an actor, though.
+
+**PAULINE**
+That’s where you’re wrong. Every day we all play roles. You played the role of ‘Ted’ out there, but in here, in this world, you’re Dora. Embrace her. Let her be your shield, your strength.
+
+**TED**
+(still unsure)
+But what if I can’t do it?
+
+PAULINE takes TED’s hands and looks into his eyes.
+
+**PAULINE**
+You can, and you will. It’s about survival, about adapting. And you’re not alone. I’m here to help you, to guide you. Together, we’ll make Dora as real and as strong as you need her to be.
+
+**TED**
+What, about being a servant? It’s just hard work because it is low-tech. Actually, no tech. But really, what else is there for me to learn?
+
+PAULINE smiles.
+
+**PAULINE (CONT’D)**
+You will learn far more important things than how to manage in an 18th-century world.
+
+---
+
+This version aims to keep the conversation natural while clearly explaining the importance of Ted fully adopting the role of Dorak, including the need to let go of masculine reference points.
+
+
+Some Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH05.png
+            :width: 580px
+            :alt: QIR's busy offices
+
+    .. container:: text-column
+
+        Text here
+
+And Text
+
+==========
+Some Ideas
+==========
+
+Text
+
+
+==============
+Brilliant News
+==============
+
+Text
+
+
+
+
+*******************
+A Curious Interview
+*******************
+
+
+Text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH07.png
+            :width: 580px
+            :alt: Victoria captivated by grace
+
+    .. container:: text-column
+
+        Text 
+        
+Some text
+
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH12.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        More text 
+
+And Text
+
+
+================
+A Fractured Idea
+================
+
+So, text
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH24.png
+            :width: 580px
+            :alt: Victoria Ahsbourne
+
+    .. container:: text-column
+
+        Text
+
+More text
+ 
+
+.. container:: two-column-container
+
+    .. container:: image-column
+
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH21.png
+            :width: 580px
+            :alt: Gwynn is fluttering in her net
+
+    .. container:: text-column
+
+        Text
+        
+And Text
+
+
+
+
+------------
+Edit Point B
+------------
+
+
+
+===========
+GPT Archive
+===========
+
+[NEW INSTRUCTION] I have a {text} I would like to make changes to. Please generate 5 suggestions of improvements in a narrative style that could be related to the {text}.
+
+text = ex: "I'm afraid I'm obsessed ..."
+
+
+
