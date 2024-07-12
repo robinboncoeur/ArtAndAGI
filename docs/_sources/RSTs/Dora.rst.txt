@@ -18,7 +18,7 @@ July, 2024 - Plot Development
 
     .. container:: image-columnr
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH17.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH17.jpg
             :width: 580px
             :alt: A new world for Ted
 
@@ -128,7 +128,7 @@ Character Development
 
     .. container:: image-columnr
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH06.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH06.jpg
             :width: 400px
             :alt: Gown upgrade
 
@@ -241,11 +241,11 @@ Miss Kathy, the Countess
         Kathy dit de Bonne Chasse
         Runs the business: 
         
-            * family history of nobility in France: countess
-            * speaks French and English
-            * also known as Miss Kathy
-
-            * teaches French
+            * family history of nobility in France: countess in charge of Fleur de Lys
+            * speaks French and English, known as Miss Kathy
+            * believes, and has strong feelings about, the fact that women, their accomplishments and indeed their stories have been systematically erased from history ( *Celine Sciamma inspired me to consider this fact as more stark than I had first supposed* )
+            * without wishing vengeanceon the male gender, whilst in conversation with Pauline, her close friend, ponders how an AMAB would deal with "being erased", particularly a talented one ( *conversation alluded to in the film - no scene* )
+            * 
             * impatient with stupid or ignorant behaviour
             * in her mid 40s
             * can be quite cold-hearted
@@ -634,7 +634,7 @@ Some Text
     .. container:: image-column
 
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH05.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH05.jpg
             :width: 580px
             :alt: QIR's busy offices
 
@@ -671,7 +671,7 @@ Text
 
     .. container:: image-column
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH07.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH07.jpg
             :width: 580px
             :alt: Victoria captivated by grace
 
@@ -686,7 +686,7 @@ Some text
 
     .. container:: image-column
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH12.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH12.jpg
             :width: 580px
             :alt: Victoria Ahsbourne
 
@@ -707,7 +707,7 @@ So, text
 
     .. container:: image-column
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH24.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH24.jpg
             :width: 580px
             :alt: Victoria Ahsbourne
 
@@ -722,7 +722,7 @@ More text
 
     .. container:: image-column
 
-        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH21.png
+        .. image:: https://www.tightbytes.com/art/images/Cui/24/1750s/s02/DoraPH21.jpg
             :width: 580px
             :alt: Gwynn is fluttering in her net
 
