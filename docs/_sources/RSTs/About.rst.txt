@@ -13,6 +13,11 @@ These pages are all about sharing what I've sort-of picked up chatting with Emil
     
 The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
 
+I'm also exploring other notions.
+
+Note: *old path to img: "https://www.tightbytes.com/art/images/Cui/24/fleur"*
+
+
 
 .. raw:: html
    
@@ -214,6 +219,33 @@ Slide Show:
 
 
 
+**********
+The Models
+**********
+
+robyn@robyn-i5desktop:~$ **ollama list**
+
++----------------------------------------+---------------+---------+-------------------+
+| NAME                                   |  ID           |  SIZE   |  MODIFIED         | 
++----------------------------------------+---------------+---------+-------------------+
+| dolphin-mistral-rad:latest             | e8bdd1792e0b  | 4.1 GB  | 14 seconds ago    | 
++----------------------------------------+---------------+---------+-------------------+
+| llama2-tiefighterQ6:latest             | 30d1f918271c  | 10 GB   | An hour ago       |
++----------------------------------------+---------------+---------+-------------------+
+| HammerAI/mistral-nemo-uncensored       | 011ab2c2afa5  | 7.1 GB  | 27 hours ago      |  
++----------------------------------------+---------------+---------+-------------------+
+| dolphin-mistral:latest                 | 5dc8c5a2be65  | 4.1 GB  | 2 days ago        |
++----------------------------------------+---------------+---------+-------------------+
+| dolphin-llama3:latest                  | 613f068e29f8  | 4.7 GB  | 2 days ago        | 
++----------------------------------------+---------------+---------+-------------------+
+| huihui_ai/deepseek-r1-abliterated:14b  | 6b2209ffd758  | 9.0 GB  | 3 days ago        | 
++----------------------------------------+---------------+---------+-------------------+
+| deepseek-r1:14b                        | ea35dfe18182  | 9.0 GB  | 2 weeks ago       |
++----------------------------------------+---------------+---------+-------------------+
+| deepseek-r1:latest                     | 0a8c26691023  | 4.7 GB  | 2 weeks ago       |
++----------------------------------------+---------------+---------+-------------------+
+| phi3:latest                            | 4f2222927938  | 2.2 GB  | 2 months ago      |
++----------------------------------------+---------------+---------+-------------------+
 
 
 

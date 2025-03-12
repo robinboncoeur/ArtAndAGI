@@ -10,6 +10,17 @@ Fleur de Lys
 
    
    RSTs/About.rst
+   RSTs/1stTx00.rst
+   RSTs/1stTx01.rst
+   RSTs/1stTx02.rst
+   RSTs/1stTx03.rst
+   RSTs/1stTx04.rst
+   RSTs/1stTx05.rst
+   RSTs/1stTx06.rst
+   RSTs/1stTx07.rst
+   RSTs/1stTx08.rst
+   RSTs/1stTx09.rst
+   RSTs/2ndTx01.rst
    RSTs/ACh01.rst
    RSTs/BCh02.rst
    RSTs/CCh03.rst
