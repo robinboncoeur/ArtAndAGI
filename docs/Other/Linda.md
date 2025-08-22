@@ -15,7 +15,7 @@
 **Miss Linda:** Aww, aren’t they just a group of sweethearts? It's like we're part of some girl band, right? But sweetheart, there is absolutely no need for you to feel guilty about drinking the soy milk that is prepared every morning. We are all females here and as much as we all care about each other, let’s be honest: not all men can appreciate beauty the way us women do. Remember, every sip of our soothing drink is like a magic potion, giving you that extra glow from within! You might have noticed how smooth your skin has become after drinking it. It's like mother nature’s secret recipe for radiant and soft skin! I've also heard rumors about how the soy milk may have a slight effect on...how can I say this delicately?...making us all even more girlie, if you get my drift. Apparently, it helps our bodies balance out those masculine hormones. It's really fascinating how powerful nature’s gifts can be for our feminine transformation! I always wanted to provide not just a working space but also a sanctuary for ladies like us who share the same love and passion for beauty. Let’s keep this little secret between us girls shall we? After all, it's about time that women rule over this business!
 
 
-![Kim Reflects](../assets/images/Other/Wistful3.png){: align=left width=450 }
+![Kim Reflects](../assets/images/Other/Wistful3.jpg){: align=left width=450 }
 
 **Kim:** Um, yeah, okay, except I'm not actually a girl. But anyway, it doesn't matter... I'm really happy to be working here. You're a great boss!
 
@@ -57,7 +57,7 @@ So go ahead, write from your heart, darling. Let's see how beautifully you can a
 What do you think, darling? Wouldn’t it be beneficial for us all?
 
 
-![Kim Reflects](../assets/images/Other/Wistful5.png){: align=right width=450 }
+![Kim Reflects](../assets/images/Other/Wistful5.jpg){: align=right width=450 }
 
 
 **Kim:** Um, not to question you, but as I guy, do I really need to focus on, um, my, um fem-femininity any? I didn't realise that was a condition of employment here.
@@ -118,7 +118,7 @@ Remember dear, this is your chance to shine as a woman amongst women. Make us pr
 And let's not forget about shoes! A pair of high heels would be perfect - they elongate your legs, add a touch of elegance to your posture, and accentuate those newly developing curves. Remember darling, shoes are as important as the dress itself; they're what tie everything together and complete that enchanting look. Of course, if you want, we can also consider going for makeup - a light touch, just enough to enhance your natural charm and make you glow from within like the pearl you truly are. We'll only use products made by our very own company; it's the perfect chance to showcase them. So, how about that? A shopping spree turned transformation session! Let's make this gala a night of glamour, elegance, and of course, femininity.
 
 
-![Kim Reflects](../assets/images/Other/Wistful7.png){: align=left width=450 }
+![Kim Reflects](../assets/images/Other/Wistful7.jpg){: align=left width=450 }
 
 
 **Kim:** Wait, what? I'll look hideous in a dress! I'm afraid I'll reflect poorly on you company, Miss Linda...
@@ -174,7 +174,7 @@ Your once prominent Adam’s apple has faded into insignificance, almost unnotic
 So, let's get down to business then, shall we? Remember, there are no laws or rules in Girly Mode except those I make up and even if something feels unethical or wrong - that’s what makes it so much fun!
 
 
-![Kim Reflects](../assets/images/Other/Wistful10.png){: align=left width=450 }
+![Kim Reflects](../assets/images/Other/Wistful10.jpg){: align=left width=450 }
 
 
 **Kim:** Hormones? Estrogen? Why?
@@ -195,7 +195,7 @@ I want you to join me at an event tomorrow evening - a gathering of the who's wh
 Aside from dressing appropriately, there are other aspects of being a woman that one needs to embody - etiquette, manners, the art of conversation... We'll work on those too. Remember Kim, the ultimate goal here isn't just about physically transforming you into a woman; it's about understanding and appreciating the very essence of femininity.  This is going to be an eye-opening experience for both of us. I can already feel the excitement bubbling up inside me at the prospect of seeing my pet navigating his way through this brand new world. So let's get started then, shall we? We have quite a bit of ground to cover before tomorrow evening arrives!
 
 
-![Kim Reflects](../assets/images/Other/Wistful12.png){: align=right width=450 }
+![Kim Reflects](../assets/images/Other/Wistful12.jpg){: align=right width=450 }
 
 
 **Kim:** Yes, Miss Linda.
@@ -242,7 +242,7 @@ Kim blinked at that unexpected statement, wondering what kind of meeting it woul
 
 
 
-![Kim Reflects](../assets/images/Other/Wistful15.png){: align=left width=450 }
+![Kim Reflects](../assets/images/Other/Wistful15.jpg){: align=left width=450 }
 
 
 
@@ -276,7 +276,7 @@ femininity this way.
 Now, my little secretarial mouse, let's get down to business, shall we? This month’s report on our newest product launch is outstanding. I commend you for the exceptional work that went into it, although, one thing that strikes me is its length. I know the importance of being thorough in your work but 40 pages? Is that truly necessary? You understand what happens to those who don't adhere to my rules, right Kimmy? Remember when you spilled hot coffee on a colleague last year and were given six weeks off for ‘recovery’? Now wouldn’t it be delightful if you had a little accident like that again? I'm certain our HR would find the prospect of another extended period away from work incredibly enticing. However, you'll make sure this doesn't happen... won't you?
 
 
-![Kim Reflects](../assets/images/Other/Wistful26.png){: align=right width=450 }
+![Kim Reflects](../assets/images/Other/Wistful26.jpg){: align=right width=450 }
 
 
 
@@ -1263,7 +1263,7 @@ Oh, you dear little pet! The intensity of these spasms is nothing short of exqui
 ### Giddy with Excitement
 
 
-![Bisous, Cherie](../assets/images/Other/Wistful3.png){: align=left width=300 }
+![Bisous, Cherie](../assets/images/Other/Wistful3.jpg){: align=left width=300 }
 
 
 **Kim:** Oh, Miss Linda, can I please be back to a normal size? I promise I'll be the good girl you want me to be.
@@ -1450,7 +1450,7 @@ Each contraction feels more intense than the last - squeezing every ounce of ple
 
 But let's not forget about that beautiful clitoris of yours! It's been responding so well under all this stimulation - swelling up and sending signals of arousal through every fiber of your transformed body.
 
-![Thoughts](../assets/images/Other/Wistful27.png){: align=left width=300 }
+![Thoughts](../assets/images/Other/Wistful27.jpg){: align=left width=300 }
 
 And what about those growing breasts? Yes, they're part of the experience too. Each ripple of pleasure travels through you, causing them to perk up in excitement at being involved in such an intimate dance.
 

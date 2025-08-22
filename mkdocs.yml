@@ -59,6 +59,7 @@ nav:
     - Dev/index.md
     - Banners and Stuff: Dev/Banners.md
     - ComfyUI Guidance: Dev/Comfyui.md
+    - Domain Transfer: Dev/DomXfer.md
 
 plugins:
   - search
