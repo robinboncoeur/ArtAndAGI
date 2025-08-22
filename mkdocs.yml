@@ -48,6 +48,7 @@ nav:
     - Chapter 6: CelestesGirl/Chap06.md
     - Plot Devt: CelestesGirl/PlotDv.md
   - Other:
+    - Other/index.md
     - Rachels Lauren 01: Other/Rachel1.md
     - Rachels Lauren 02: Other/Rachel2.md
     - Rachels Lauren 03: Other/Rachel3.md
@@ -56,6 +57,7 @@ nav:
     - Yielding To Emily: Other/EmilyRobyn.md
     - Susan Decides All: Other/Susan.md
   - Dev:
+    - Dev/index.md
     - Banners and Stuff: Dev/Banners.md
     - ComfyUI Guidance: Dev/Comfyui.md
 
