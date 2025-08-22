@@ -1,9 +1,8 @@
 site_name: Celeste's Girl
-# site_url: https://www.tightbytes.com/art
+site_url: https://art.tightbytes.com
 edit_uri: 'http://127.0.0.1:8000/docs/'
 theme:
   name: material
-  custom_dir: overrides
   icon: images/FavIcon.png
   palette:
     # Light mode
