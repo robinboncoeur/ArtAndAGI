@@ -1,0 +1,95 @@
+site_name: Celeste's Girl
+# site_url: https://www.tightbytes.com/art
+edit_uri: 'http://127.0.0.1:8000/docs/'
+theme:
+  name: material
+  custom_dir: overrides
+  icon: images/FavIcon.png
+  palette:
+    # Light mode
+    - scheme: default
+      primary: pink
+      accent: red
+      toggle:
+        icon: material/weather-night # indigo
+        name: Switch to Dark Mode
+      accent: pink
+#extra_css:
+#  - assets/stylesheets/custom.css
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-sunny # indigo
+        name: Switch to Light Mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Celeste's Girl:
+    - CelestesGirl/index.md
+    - Chapter 1: CelestesGirl/Chap01.md
+    - Chapter 2: CelestesGirl/Chap02.md
+    - Chapter 3: CelestesGirl/Chap03.md
+    - Chapter 4: CelestesGirl/Chap04.md
+    - Chapter 5: CelestesGirl/Chap05.md
+    - Chapter 6: CelestesGirl/Chap06.md
+    - Plot Devt: CelestesGirl/PlotDv.md
+  - Other:
+    - Rachels Lauren 01: Other/Rachel1.md
+    - Rachels Lauren 02: Other/Rachel2.md
+    - Rachels Lauren 03: Other/Rachel3.md
+    - Rachels Lauren 04: Other/Rachel4.md
+    - Linda's Conundrum: Other/Linda.md
+    - Yielding To Emily: Other/EmilyRobyn.md
+    - Susan Decides All: Other/Susan.md
+  - Dev:
+    - Banners and Stuff: Dev/Banners.md
+    - ComfyUI Guidance: Dev/Comfyui.md
+
+plugins:
+  - search
+  - tags
+  
+validation:
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.blocks.caption
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.tightbytes.com/index.html
+    - icon: fontawesome/brands/bluesky
+      link: https://bluesky.com/robynsveil
