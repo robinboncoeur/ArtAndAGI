@@ -4,13 +4,14 @@
 
 These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
 
-![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg)
+<img src="/assets/images/Celeste/Chemise019.jpg" alt="Battlers" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
 
-This video is about the music for the story 'Celeste's Girl' - an exploration of what could happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk). 
+This video is about the music for the story 'Celeste's Girl' - an exploration of what might happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk). 
 
-Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and be cancelled by society:
+Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society:
 
 <video width="360" height="360" controls>
   <source src="/assets/videos/C01Aa.mp4" type="video/mp4">

@@ -1,4 +1,3 @@
-
 # Celeste Meets Charlie
 
 ## POV-Celeste
@@ -7,9 +6,8 @@ When I came out of the stall in the loo, I was a bit surprised to see Amanda at 
 
 I approached her, puzzled. Earlier, when I had suggested we go "powder our noses" she'd shrugged. Not-interested.
 
-
-![Celeste at the door](https://www.tightbytes.com/art/images/Celeste01/C01-Am.jpg){: align=right width=450 }
-
+<img src="/assets/images/CelCh2/Cha-BRoom1.jpg" alt="Smiles" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 “Hello, girl!”
 
@@ -50,6 +48,8 @@ I honestly can’t even remember what I said — it was all such a blur. He turn
 ## Aspirations
 
 ![Celeste at the door](https://www.tightbytes.com/art/images/Celeste01/ALonTimeAgo.jpg){: align=right width=450 }
+<img src="/assets/images/CelCh2/Cha-BRoom1.jpg" alt="Smiles" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 “Hey, girl!” I turned around: it was Amanda. “Hey, I saw you talking to Mrs. Kielley. What was that about?”
 

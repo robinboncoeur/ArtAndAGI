@@ -1,4 +1,4 @@
-# LLM Abuse
+# LLM's Firey Tales
 
 ## Foreword
 
@@ -47,29 +47,33 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **Project layout**
 
+```markdown
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+```
+
+
 
 
 ### Inline images
 
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
-```
+```markdown
 ![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
 
-```
+```markdown
 ![Celeste](images/C01-Aa.jpg){: align=left width=300 }
 ```
 
 ...or...
 
-```
+```markdown
 <figure>
   <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
   <figcaption>Image caption</figcaption>
@@ -82,7 +86,7 @@ and for those stored with the data files::
 
 This code:
 
-```
+```markdown
 <video width="384" height="384" controls>
   <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
 </video>
@@ -101,11 +105,11 @@ This code:
 
 This code:
 
-```
-		<audio controls="controls">
-		  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-		  Your browser does not support the <code>audio</code> element. 
-		</audio>
+```html
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
 ```
 
 ...produced:
@@ -125,7 +129,7 @@ This code:
 
 This code:
 
-```
+```html
 <iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
 </iframe>
 ``` 
@@ -134,7 +138,6 @@ This code:
 
 <iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
 </iframe>
-   
 
 
 (Note to self: took out  [  autoplay; ] )
@@ -171,7 +174,7 @@ Here's a typical example of embedding a link: Blender-for-Mac users, please refe
 
 The code is this (minus the '*')::
 
-```
+```html
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 ```
 
@@ -201,10 +204,4 @@ Slide Show:
 [CSS stuff](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
-
-
-
-
-
-
 

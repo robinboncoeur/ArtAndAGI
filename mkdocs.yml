@@ -1,6 +1,7 @@
 site_name: Celeste's Girl
 site_url: https://art.tightbytes.com
 edit_uri: 'http://127.0.0.1:8000/docs/'
+use_directory_urls: true
 theme:
   name: material
   icon: images/FavIcon.png
@@ -46,18 +47,21 @@ nav:
     - Chapter 5: CelestesGirl/Chap05.md
     - Chapter 6: CelestesGirl/Chap06.md
     - Plot Devt: CelestesGirl/PlotDv.md
-  - Other:
-    - Other/index.md
-    - Rachels Lauren 01: Other/Rachel1.md
-    - Rachels Lauren 02: Other/Rachel2.md
-    - Rachels Lauren 03: Other/Rachel3.md
-    - Rachels Lauren 04: Other/Rachel4.md
-    - Linda's Conundrum: Other/Linda.md
-    - Yielding To Emily: Other/EmilyRobyn.md
-    - Susan Decides All: Other/Susan.md
+  - Coven:
+    - coven/index.md
+    - Rachels Friend: coven/1Rachel.md
+    - Core Procedure: coven/2Proced.md
+    - To Review 01: coven/R3.md
+    - To Review 02: coven/R4.md
+    - To Review 03: coven/R5.md
+    - To Review 04: coven/R6.md
+    - Review Emily: coven/Emily.md
+    - Review Linda: coven/Linda.md
+    - Review Susan: coven/Susan.md
   - Dev:
     - Dev/index.md
     - Banners and Stuff: Dev/Banners.md
+    - Careful Ideas Now: Dev/Careful.md
     - ComfyUI Guidance: Dev/Comfyui.md
     - Domain Transfer: Dev/DomXfer.md
 
@@ -75,19 +79,20 @@ markdown_extensions:
   - toc:
       permalink: true
   - attr_list
+  - md_in_html
   - admonition
   - footnotes
   - def_list
+  - pymdownx.blocks.caption
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-  - pymdownx.blocks.caption
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - md_in_html
+
 
 extra:
   social:

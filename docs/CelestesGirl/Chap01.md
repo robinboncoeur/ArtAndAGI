@@ -1,7 +1,7 @@
 # Charlie Meets Celeste
 
 
-![Le Chateau](https://www.tightbytes.com/art/images/Celeste01/FleurDeLys02b.jpg "Le Chateau")
+![Le Chateau](/assets/images/scenes/ChatteFleur.jpg)
 
 
 ## ✨ "Hello, Girl!"
@@ -41,9 +41,8 @@ His face went from ashen to bright red in an instant. Only the profound shock of
 
 Her smile broadened - was a twinkle in her eye. “Don’t worry, I won’t tell anyone if you don’t.” With a slight tilt of her head, she peered at him with a curious regard. Charlie found himself backed into the sinks. What was she going to do? He had invaded a sacred space for women.
 
-
-![Celeste wants to shake hands](https://www.tightbytes.com/art/images/Celeste01/C01-Ah.jpg){ align=left width=400 }
-
+<img src="/assets/images/CelCh1/Cel-BRoom1.jpg" alt="Shake hands" style="float: left; width: 400px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
 *At least she wasn't screaming*.
 
@@ -85,7 +84,7 @@ By the time Charlie entered the cool quiet of the library, the lingering queasin
 
 He had just met an angel.
  
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -93,8 +92,8 @@ He had just met an angel.
 
 ## Class Connundrums
 
-![Celeste smiles at him](https://www.tightbytes.com/art/images/Celeste01/C01-Ai.jpg){ align=right width=450 }
-
+<img src="/assets/images/CelCh1/Cel-Class1.jpg" alt="Smiles" style="float: right; width: 400px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 It wasn’t until a few days later that Charlie saw her again amidst a group of girls in the hallway at the door of his first period class, algebra. His heart pounded in his ears as he furtively slipped into the classroom, avoiding a look in her direction. With a sigh, he plopped into a seat at the back of the class.
 
@@ -174,9 +173,8 @@ Charlie met her eyes, his voice calm but hesitant. “I’ll have a go.”
 
 Ms. Hamilton didn’t respond immediately. Instead, she leaned forward, resting her elbows on the desk, her fingers interlaced as she studied him.
 
-
-![Charlie](https://www.tightbytes.com/art/images/Celeste01/C01-Aj.jpg){: align=right width=300 }
-
+<img src="/assets/images/CelCh1/Cha-Pool1.jpg" alt="Swimming" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 “Look, Charlie,” she began, her tone firm but not unkind. “You should know what you’re up against. Artistic swimming isn’t just about being in the water. It’s about precision, stamina, and grace —  things my girls have been practicing for a fair bit, now.” She leaned back in her chair. “Girls are built for this kind of work. They’ve got better endurance, more flexibility, and can move with a kind of rhythm and grace that doesn’t come naturally to boys.” She let that sink in before continuing. “Plus, my girls have been training for a **long** time. It’s not just about physicality — it’s about practice, discipline, and performing as a team.”
 
@@ -196,8 +194,8 @@ Charlie nodded quickly, rising to leave. But before he stepped out of the office
 
 ## Marie Claire?
 
-![Celeste](https://www.tightbytes.com/art/images/Celeste01/C01-Ac.jpg){: align=left width=350 }
-
+<img src="/assets/images/CelCh1/Cel-Class2.jpg" alt="Shake hands" style="float: left; width: 350px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
 On his way home from school, Charlie meandered past the bay into the park. The cool afternoon breeze from the bay blended sea fragrance with the familiar smell of decaying fish remains and mangroves. The grasses of the park had enjoyed a trimming, leaving that delicious scent of fresh-mown grass. One lone seagull glided over the wind-swept, grey water. There was another smell, one that would have invoked the question whether it was going to rain if Charlie had been there with someone. But he wasn't, he was alone. As per usual.
 
@@ -219,7 +217,8 @@ Well, so much for feeling calm. That whole ill-advised detour into the girls’ 
 
 The first drops of rain felt cool on his skin as he opened the mailbox. The sky was heavy with bruised-looking clouds you get right before a proper downpour. He pulled out the magazine — some glossy thing of his aunt's. The thought occurred to him, with a familiar weariness, that girls didn’t generally gravitate toward skinny runts. ‘Nigel NoFriends’ types. Basically, guys like him. It wasn’t exactly a revelation — he’d been aware of this for years, really — but somehow, today, that notion's pinch was sharper. Like a cold-shoulder reality check. He darted for the porch. Slipping the key into the lock, he was startled by a voice directly behind him.
 
-![Celeste](https://www.tightbytes.com/art/images/Celeste01/C01-Ae.jpg){: align=right width=400 }
+<img src="/assets/images/CelCh1/Cel-FDoor1.jpg" alt="Swimming" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 "Hello, girl!"
 
@@ -245,9 +244,8 @@ Did she think it was his subscription? “Yeah, well, uh, actually, my aunt, um.
 
 “What, here on the porch?” She tilted her head innocently.
 
-
-![Charlie](https://www.tightbytes.com/art/images/Celeste01/C01-Af.jpg){: align=left width=300 }
-
+<img src="/assets/images/CelCh1/Cel-Kitch1.jpg" alt="Shake hands" style="float: left; width: 350px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
 “No-no! I meant, would you like to come in?" In the back of his mind something threw a 'red danger flag', but he was trying so hard to be a good host as well as not be seen as a complete loser that he completely ignored it." I mean, please come in. I’m sure my aunt wouldn’t mind. I mean, for you to read her magazine.” He was yapping and he knew it. He tried desperately to keep his voice steady but his red face gave it away.
 
@@ -282,9 +280,9 @@ He gulped. “Hang on... I’ll just get my laptop.”
 
 ## What is Misogyny?
 
-![Charlie](https://www.tightbytes.com/art/images/Celeste01/C01-Ak.jpg){: align=right width=300 }
-
-
+<img src="/assets/images/CelCh1/Cel-Bedr1.jpg" alt="Swimming" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;" />
+        
 He darted to his room to retrieve his laptop from the desk. It wasn’t until he turned back that he realised Celeste had followed him to his room. Her approach had been so silent her presence in the room startled him: she’d moved like an owl gliding noiselessly in the night. She casually settled herself cross-legged on his bed, leaning back slightly with her hands behind her, her demeanour as relaxed as if she were in her own room. Her sharp eyes swept over the decor—a vase of silk flowers on the bedside table, framed floral prints adorning the walls, and a bedspread resplendent with pastel blossoms.
 
 “Nice room!” Her eyes swept across the space. “Love the, um, delicate touches. Did you decorate it yourself?”
@@ -349,9 +347,8 @@ Charlie gulped. “What do you mean? Of *course* I like women, Celeste!”
 
 “I see.” A fleeting smile crossed her lips. “Is that what made you decide to take algebra?”
 
-
-![Celeste](https://www.tightbytes.com/art/images/Celeste01/C01-Al.jpg){: align=right width=350 }
-
+<img src="/assets/images/CelCh1/Cel-Bedr1.jpg" alt="Swimming" style="float: right; width: 350px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 Charlie reddened, and dropped his gaze.
 
@@ -401,8 +398,9 @@ Charlie stared at the floor, shoulders slumped in defeat, and shrugged helplessl
 
 He stared at her, still incredulous.
 
-![Celeste](https://www.tightbytes.com/art/images/Celeste01/C01-Ag.jpg){: align=left width=300 }
-
+<img src="/assets/images/CelCh1/Cel-Bedr3.jpg" alt="Shake hands" style="float: left; width: 350px;
+        margin-right: 20px; margin-bottom: 10px;" />
+        
 She chortled. “I can read you like an open book, Charlie. Yes, you, Charl!” She lifted her chin with a hint of imperiousness. “I should warn you, though — I’m no pushover. I don’t take prisoners. If you want my help, you’d better be prepared to stick with it. And,” she added meaningfully, “there’s a catch to me teaching you. *Girl*.”
 
 There it was again. The ‘girl’ thing. “Which is?”

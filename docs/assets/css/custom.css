@@ -1,0 +1,16 @@
+/* Override Material top header */
+.md-header {
+  height: 200px; /*making it taller */
+  background: url("../images/header-bg.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.md-header__inner {
+  align-items: flex-end;
+}
+
+/* Optional: remove the default color overlay */
+.md-header[data-md-color-scheme=default],
+.md-header[data-md-color-scheme=slate] {
+  background-color: transparent !important;
+}

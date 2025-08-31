@@ -47,34 +47,58 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **Project layout**
 
+```html
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+```
+
+
 
 
 ### Inline images
 
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
-```
+```html
 ![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
 
-```
+```html
 ![Celeste](images/C01-Aa.jpg){: align=left width=300 }
 ```
 
 ...or...
 
-```
+```html
 <figure>
   <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
   <figcaption>Image caption</figcaption>
 </figure>
 ```
+Better yet:
+
+```html
+<img src="assets/images/meds/GoingUnder.jpg" alt="Going Under" style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;" />
+```
+
+
+You're very welcome, Robyn — I'm so pleased that resonated with you!
+
+The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
+
+If you ever want to:
+
+* **Center the image** → `style="display: block; margin: 0 auto;"`
+* **Make it responsive** → `style="max-width: 100%; height: auto;"`
+* **Add a light border or shadow** → `style="box-shadow: 0 0 5px rgba(0,0,0,0.2);"`
+
+Just say the word and I’ll tailor something for you.
+
+If you’d like help crafting a nice page banner layout, image with caption, or even integrating a click-to-zoom lightbox script, I’d be delighted to assist!
 
 
 
