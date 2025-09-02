@@ -1,33 +1,68 @@
-# Celeste
+# Celeste's Girl
 
 ## Foreword
 
-These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
-
-<img src="/assets/images/Celeste/Chemise019.jpg" alt="Battlers" style="float: right; width: 400px;
+<img src="/assets/images/CelCh1/Cel-Park1.jpg" alt="Celeste" style="float: right; width: 200px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
+The images were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key aspects to the use of images in story-telling:
 
-This video is about the music for the story 'Celeste's Girl' - an exploration of what might happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk). 
+* Character persistence... Node used: ReActor
 
-Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society:
+* Anatomical accuracy..... Models used: Flux1 Dev (to a lesser extent, 'Kontext')
 
-<video width="360" height="360" controls>
-  <source src="/assets/videos/C01Aa.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+* Character attire........ Models used: SDXL
 
+A bit about Celeste: she's a trend-setting, headstrong, unique individual.
 
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
+These pages explore the 'cancelling' - as in: suppression - of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. The story is based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
 
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
+
+
+
+
+
+
+
+
+
+
+
+### Happy Thoughts
+
+<style>
+  .columnA {float: left; padding-right: 20px;}
+  .left {width: 40%;}
+  .right {width: 60%;}
+</style>
+
+<div class="row">
+  <div class="columnA">
+    <video width="360" height="360" controls>
+      <source src="https://www.tightbytes.com/art/images/videos/C01Ab.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div class="columnB">
+    <p>This video is about the music for the story 'Celeste's Girl' - an exploration of what might happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk).</p>  
+
+    <p>Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.</p>
+
+    <p>The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':</p>
+    
+    <audio controls="controls">
+      <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
+      Your browser does not support the <code>audio</code> element. 
+    </audio>
+  </div>
+</div>
+
+
+
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
 
 
 

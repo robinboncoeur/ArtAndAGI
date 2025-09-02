@@ -41,20 +41,20 @@ His face went from ashen to bright red in an instant. Only the profound shock of
 
 Her smile broadened - was a twinkle in her eye. “Don’t worry, I won’t tell anyone if you don’t.” With a slight tilt of her head, she peered at him with a curious regard. Charlie found himself backed into the sinks. What was she going to do? He had invaded a sacred space for women.
 
-<img src="/assets/images/CelCh1/Cel-BRoom1.jpg" alt="Shake hands" style="float: left; width: 400px;
-        margin-right: 20px; margin-bottom: 10px;" />
-
 *At least she wasn't screaming*.
+
+<img src="/assets/images/CelCh1/Cel-BRoom1.jpg" alt="Shake hands" style="float: left; width: 350px;
+        margin-right: 20px; margin-bottom: 10px;" />
 
 She gazed at him for what seemed an awkward eternity, then precipitously extended her hand. “My name’s Celeste. Celeste Shelley.”
 
 Not only was she not screaming, she was introducing herself. He hesitated before taking the proffered hand.
 
-“Um, I’m Chuck, um, Charlie Rossignol,” he finally croaked as her hand firmly grasped his. Celeste’s hand was incredibly soft, but its grip, surprisingly tenacious.
+“Um, I’m Chuck, um, Charlie Rossignol,” he finally croaked as her hand firmly grasped his. Celeste’s hand was soft, but its grip surprisingly tenacious.
 
-“Charlie. *Charles*. Hmmm," she mused, holding a surprisingly delicate set of fingers in her grasp, to her astonishment. "Somehow, that name doesn't really suit you, for some reason.” Her grin pinched into a thoughtful grimace. “‘Rossignol’... that’s French for a kind of bird, isn’t it? The nightingale?”
+“Charlie. *Charles*. Hmmm," she mused, holding a surprisingly delicate set of fingers in her grasp, to her astonishment. "Somehow, that name doesn't really suit you.” Her grin pinched into a thoughtful grimace. “‘Rossignol’... that’s French for a kind of bird... the nightingale?”
 
-Charlie stared at the hand gripping his, heart pounding in his ears, not taking in a word she was saying.
+Charlie stared at the hand gripping his, heart pounding in his ears, not really taking in what she was saying.
 
 “‘Bird’... that’s a term some blokes back home use for ‘girl’,” she mused, seemingly oblivious to his tentative attempts to pull his hand away. She finally cast her eyes down to find him looking up at her imploringly. “Oh! Sorry,” she gushed, a blush rising on her cheeks. “I didn’t mean to...”
 

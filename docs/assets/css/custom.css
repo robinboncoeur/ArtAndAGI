@@ -1,16 +1,56 @@
-/* Override Material top header */
+/* ===== Tall sticky header with background image ===== */
+:root { --hero-h: 180px; }   /* was 220 */
+
+/* Import fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap');
+
+/* Site title styling */
+.md-header .md-header__title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.2rem;              /* Play with size until it feels right */
+  font-weight: 400;
+  color: #111 !important;         /* was: fff - white for dark images */
+  text-shadow: 0 2px 4px rgba(0,0,0,.55);  /* stronger drop shadow for contrast */
+  letter-spacing: 1px;            /* gentle spacing to make it airy */
+  line-height: 1.3;
+}
+
+/* Nav links styling */
+.md-header-nav__link {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 1rem;
+  color: #f8f8f8 !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,.35);
+}
+
+/* Hover effect */
+.md-header-nav__link:hover {
+  color: #ffd6e8 !important;  /* soft rose highlight */
+}
+
+
+/* Put your image here */
 .md-header {
-  height: 200px; /*making it taller */
-  background: url("../images/header-bg.jpg") no-repeat center center;
-  background-size: cover;
+  background: url("../images/header-bg.jpg") center/cover no-repeat;
 }
 
+/* Make header taller and align the nav/title at the bottom */
 .md-header__inner {
+  min-height: var(--hero-h);
   align-items: flex-end;
+  padding-bottom: .75rem;
+  box-sizing: border-box;
 }
 
-/* Optional: remove the default color overlay */
-.md-header[data-md-color-scheme=default],
-.md-header[data-md-color-scheme=slate] {
-  background-color: transparent !important;
+/* Compensate main content so it doesn't hide beneath the taller sticky header */
+.md-main {
+  margin-top: calc(var(--hero-h) - 164px); /* was 64px ≈ default header height */
+}
+
+/* Optional: darken bottom for readability */
+.md-header::after {
+  content: "";
+  position: absolute; inset: 0 0 0 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,.35) 100%);
+  pointer-events: none;
 }

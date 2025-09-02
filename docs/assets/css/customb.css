@@ -1,0 +1,69 @@
+/* ===== Tall sticky header with background image ===== */
+:root { --hero-h: 180px; }   /* visual height of your banner */
+
+/* Import fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap');
+
+/* Site title styling */
+.md-header .md-header__title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 2.2rem;
+  font-weight: 400;
+  color: #11f !important;                     /* choose #fff if your image is dark */
+  text-shadow: 0 2px 4px rgba(0,0,0,.55);
+  letter-spacing: 0;                          /* scripts prefer tighter tracking */
+  line-height: 1.3;
+}
+
+/* Nav links styling */
+.md-header-nav__link {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 1rem;
+  color: #f8f8f8 !important;
+  text-shadow: 0 1px 2px rgba(0,0,0,.35);
+}
+
+/* Hover effect */
+.md-header-nav__link:hover {
+  color: #ffd6e8 !important;
+}
+
+/* Header background and overlay */
+.md-header {
+  position: relative;                         /* <-- ensure ::after overlays this */
+  background: url("../images/header-bg.jpg") center/cover no-repeat;
+}
+
+/* Make header taller and align the nav/title at the bottom */
+.md-header__inner {
+  min-height: var(--hero-h);
+  align-items: flex-end;
+  padding-bottom: .75rem;
+  box-sizing: border-box;
+}
+
+/* Compensate main content so it doesn't hide beneath the taller sticky header
+   Default Material header is ~64px; you've tuned to ~84px visually. */
+.md-main {
+  margin-top: calc(var(--hero-h) - 84px);
+}
+
+/* Optional: darken bottom for readability */
+.md-header::after {
+  content: "";
+  position: absolute; inset: 0 0 0 0;
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 40%, rgba(0,0,0,.35) 100%);
+  pointer-events: none;
+}
+
+/* ----- Theme-aware text colors (optional but robust) ----- */
+[data-md-color-scheme="default"] .md-header .md-header__title { color: #11f !important; }
+[data-md-color-scheme="slate"]   .md-header .md-header__title { color: #fff !important;  }
+[data-md-color-scheme="slate"]   .md-header-nav__link         { color: #f0f0f0 !important; }
+
+/* ----- Mobile adjustments ----- */
+@media (max-width: 720px) {
+  :root { --hero-h: 140px; }                  /* shorter banner on phones */
+  .md-header .md-header__title { font-size: 1.8rem; }
+  .md-main { margin-top: calc(var(--hero-h) - 84px); }
+}

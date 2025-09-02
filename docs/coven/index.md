@@ -1,10 +1,11 @@
-# LLM's Firey Tales
+# LLM's Fairy Tales
 
 ## Foreword
 
 These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
 
-![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg)
+<img src="/assets/images/scenes/LassL35.jpg" alt="Robyn" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
 
 The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
 
@@ -62,20 +63,16 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
 ```markdown
-![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
+<img src="/assets/images/scenes/LassL35.jpg" alt="Robyn" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
 ```
 
-and for those stored with the data files::
-
-```markdown
-![Celeste](images/C01-Aa.jpg){: align=left width=300 }
-```
-
-...or...
+...optionally...
 
 ```markdown
 <figure>
-  <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
+  <img src="/assets/images/scenes/LassL35.jpg" alt="Robyn" style="float: right; width: 300px;
+        margin-left: 20px; margin-bottom: 10px;" />
   <figcaption>Image caption</figcaption>
 </figure>
 ```
