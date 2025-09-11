@@ -19,68 +19,72 @@
     </video>
   </div>
   <div class="columnB">
-    He was pulling paper towels, when he heard her voice and quickly turned around. There she was: the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty. Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying the knowledge immensely. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, but one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze. That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point. You wouldn’t question it, you'd just deal with it.    
+    <p>He was pulling paper towels, when he heard her voice and quickly turned around. There she was: the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.</p>
+    <p>Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying the knowledge immensely. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, but one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.</p> 
+    <p>That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point. You wouldn’t question it.</p>
   </div>
 </div>
 
-“You... ARE a girl. Aren't you?” 🫶
+“Hello... girl?” 
 
-The thought that she might be the one who was misplaced didn’t even register initially. Not even a flicker. He was too busy trying to process the fact that this... this stunning girl, was actually looking at him. Talking to him. She was talking to him. To *him*! And that, at that moment, it was all he could parse, even if it was - or perhaps, *because* it was - unbelieveable. The restroom, the gender, the potential for awkwardness... none of it mattered. Just this. Her. Talking. To him.
+The words fell into an awkward silence. She mercifully shortened it.
 
-Her question seemed… vaguely odd, yes. Like he’d somehow missed a crucial piece of information, a plot point he’d slept through. It was the kind of oddness that suggested a larger, looming *something*. He felt an uncomfortable uneasiness.
+"You... ARE a girl. Aren't you?"
 
-“Uh, no, I’m a guy,” Charlie replied cautiously. “Why? Just... wondering... what you...”
+The thought that she might be the one who was misplaced didn’t even register initially. Not even a flicker. He was too busy trying to process the fact that this... this stunning girl was actually looking at him, talking to him. She was talking to him. To him! And that, at that moment, it was all he could parse, even if it was - or perhaps, **because** it was - so unbelieveable. The restroom, the potential for awkwardness... none of it mattered. Just this. Her. Talking. To him.
 
-The girl’s smile seemed sympathetic. “Oh, sorry. It’s just that your hair is nearly as long as mine, and you’re about the same size as my friends, too: all girls, by the way. Honestly, you’re not built like any bloke I know.” He was so completely, ridiculously charmed by her accent — that lovely, rolling British thing — that he honestly would have basked in her words even if she'd been actively, aggressively insulting him. Probably would have just nodded along, mesmerized. “Plus, well... you’re in the ladies’. Um, you know, the girl's toilet.”
+Her question seemed… vaguely odd, yes. Like he’d somehow missed a crucial piece of information, a plot point he’d slept through. It was the kind of oddness that suggested a larger, looming *something*. He felt a growing uneasiness.
 
-He stared at her for a moment, eyes wide in horror, then glanced quickly around him. Sure enough, no urinals. The colour drained from his face.
+He managed, cautiously, “No, I’m… I’m a guy.”
 
-“Oh - sh... dear! I’m so, so sorry! I... uh, I can’t believe I...” 
+The girl’s smile seemed oddly sympathetic, as if at an admission of a shortcoming, a defect. “Oh, sorry. It’s just that  you’re about the same height as some of my friends. And, to be honest, you’re not **built** like a bloke, at least, none that I know.” He was so completely, ridiculously charmed by her accent — that lovely, rolling British thing — that he honestly would have basked in her words even if she'd been actively, aggressively insulting him. Probably would have just nodded, as he did now. “Plus, well... you’re in the ladies’." Another pause. "Um, you know, the girl's toilet.”
 
-His face went from ashen to bright red in an instant. Only the profound shock of his situation kept him frozen in place, preventing him from bolting. 
+Reality suddenly hit. He stared at her for a moment, eyes wide in horror, then glanced quickly around him. Sure enough, no urinals. The colour drained from his face.
 
-Her smile broadened - was a twinkle in her eye. “Don’t worry, I won’t tell anyone if you don’t.” With a slight tilt of her head, she peered at him with a curious regard. Charlie found himself backed into the sinks. What was she going to do? He had invaded a sacred space for women.
+“Oh - sh... dear! I’m so, so sorry! I... uh, I can’t believe I...”
 
-*At least she wasn't screaming*.
+He wasn’t the dangerous kind of boy. He was the wrong-door, head-in-the-clouds kind: hair in his eyes, oversized shirt with a slept-in collar.
 
-<img src="/assets/images/CelCh1/Cel-BRoom1.jpg" alt="Shake hands" style="float: left; width: 350px;
+She could have said: 'get out'. Instead she felt the oddest impulse of charity: perhaps it was curiosity, but more than that, pity. She moved a half step closer. His head tilted up, and then she saw them: those almond-shaped doe eyes with long thick lashes. Far from being a threat, he was a lost lamb that had wandered in and needed shepherding.
+
+Her smile broadened, a twinkle in her eye. “Don’t worry, I won’t tell anyone if you don’t.” She peered at him with a slight tilt of her head, curiosity growing. Charlie found himself backed into the sinks. What was she going to do? He had invaded a sacred space for women.
+
+At least she wasn't screaming.
+
+She gazed at him for what seemed an awkward eternity, then precipitously extended her hand. 
+
+<img src="/assets/images/CelCh1/Cel-BRoom1.jpg" alt="Shake hands" style="float: left; width: 300px;
         margin-right: 20px; margin-bottom: 10px;" />
 
-She gazed at him for what seemed an awkward eternity, then precipitously extended her hand. “My name’s Celeste. Celeste Shelley.”
+“I'm Celeste. Celeste Shelley.”
 
-Not only was she not screaming, she was introducing herself. He hesitated before taking the proffered hand.
+Not only was she not screaming, she was introducing herself. He looked at her hand the way a child looks at a violin up close the first time: reverence mixed with the concern as to its fragility. Then he put his palm in hers.
 
-“Um, I’m Chuck, um, Charlie Rossignol,” he finally croaked as her hand firmly grasped his. Celeste’s hand was soft, but its grip surprisingly tenacious.
+“Um, I’m Chuck, um, Charles Rossignol,” he finally croaked as her hand firmly grasped his. Celeste’s hand was soft, but its grip surprisingly tenacious.
 
-“Charlie. *Charles*. Hmmm," she mused, holding a surprisingly delicate set of fingers in her grasp, to her astonishment. "Somehow, that name doesn't really suit you.” Her grin pinched into a thoughtful grimace. “‘Rossignol’... that’s French for a kind of bird... the nightingale?”
+“Chuck. Charles. Hmmm," she mused, studying his hand. The bones were fine, the fingers long and slight, the skin cool. A girl’s hand, if that were possible, only partly because of weakness but more of the way it settled in her own without weight, of a delicate refinement out of character with the rest of the person.
 
-Charlie stared at the hand gripping his, heart pounding in his ears, not really taking in what she was saying.
+"'Chuck' doesn't really suit you.” Her grin pinched into a thoughtful grimace. “‘Rossignol’... that’s French for a kind of bird... the *nightingale*?” Charlie's heart pounded in his ears as he stared at her hand gripping his, not really taking in what she was saying.
 
-“‘Bird’... that’s a term some blokes back home use for ‘girl’,” she mused, seemingly oblivious to his tentative attempts to pull his hand away. She finally cast her eyes down to find him looking up at her imploringly. “Oh! Sorry,” she gushed, a blush rising on her cheeks. “I didn’t mean to...”
+“‘Bird’... that’s a term some blokes back home use for ‘girl’.”
 
-She released his hand quickly and grinned. “I make you a bit nervous, don't I?”
+Her eyes finally met his looking up at her imploringly. 
 
-Her smile, her accent, her smell. Her grip: he was spellbound, captivated. A captive.
+“Oh! Sorry,” she gushed, releasing his hand, a blush rising on her cheeks. “I didn’t mean to...” She grinned. “I make you a bit nervous, don't I?”
 
-“Uh... yeah, I mean, no..." Dry-mouthed, tentative. "Well, it's just that, well, I guess I shouldn’t be in here.”
+Her smile, her accent, her smell. Her grip: he was spellbound. "Uh... yeah, I mean, no..." Dry-mouthed, tentatively he tried to explain. "Well, it's just that, well, I probably shouldn’t be in here.”
 
-“Quite right,” she said with a slight grin. “I reckon I’d feel a bit awkward in the gents’ myself.” She tilted her head slightly, her eyes twinkling. “Anyway, best let you get on, really. I’m sure I’ll bump into you about."
+“Quite right,” she said wryly with a short chuckle. “I reckon I’d feel a bit awkward in the gents’ myself.”
 
-Charlie’s turned to go.
+Charlie turned to go. He was forcing himself, as if his feet had decided they were quite content to remain precisely where they were.
 
-"Well, I hope so, at least.”
-
-*This stunning, poised, confident girl wants to see me again*? 
-
-He felt rooted, not so much *glued* to the floor, but as if his feet had suddenly decided they were quite content to remain precisely where they were. 
-
-Finally Celeste, with a barely perceptible lift of an eyebrow and a nod that felt less like an invitation and more like a gentle, slightly amused dismissal, released him from her "spell"? Or had it been simply... inertia? He moved numbly towards the door, as if being nudged forward, given permission to leave. As he pulled open the door, he risked one last glance back, and his stomach did that ridiculous little flip — the one you get on a roller coaster, or when someone unexpectedly touches your arm.
+Celeste gently lifted her eyebrows and nodded. It felt less like an command and more like a slightly amused dismissal. He moved numbly towards the door, as if being nudged forward. As he pulled open the door, he risked one last glance back, and his stomach did a little flip — the one you get on a roller coaster, or when someone unexpectedly touches your arm.
 
 She was smiling. At him.
 
-“I shall see you soon, Charlie.”
+“See you, Charlie.”
 
-By the time Charlie entered the cool quiet of the library, the lingering queasiness - the shock of being in the wrong bathroom, the ensuing panic - had vanished, replaced by a dizzying lightness. 
+By the time Charlie entered the cool quiet of the library a dizzying lightness enveloped his being.
 
 He had just met an angel.
  
@@ -90,103 +94,176 @@ He had just met an angel.
 
 
 
-## Class Connundrums
+
+### Again, With Feeling
+
+Celeste stared unseeing at the notes on the page: it was the part for the english horn she had been practicing for the past month. Around her, student orchestra musicians were readying their instruments as they chatted. Some were practicing those difficult bars. Celeste wondered about those bits: she had already mastered her part. 
+
+The conductor / instructor took her place on the podium. 
+
+"As you know, we're going to try that new piece today. You've all been practicing it for the past month... it's for english horn and strings," she said. "Horns, the rest of you woodwinds, the rest of the class, just pay attention to how this is put together."
+
+Celeste was a bit puzzled: her part wasn't anything complex. She'd performed more demanding parts on her clarinet. She shrugged as the conductor raised her arms. Second beat after the downbeat, she began playing.
+
+A very assertive melody filled the chamber. The strings joined the english horn, tentatively, almost a bit disjointedly at first... but 'correcting'  themselves as her instrument continued to set the stage. Little by little, the strings harmonised with the english horn: first the violas, then the second violins, followed by 'cellos and first violins. The members of the class who were not playing were staring at Celeste: to them it was she—and not the conductor—who was pulling the piece together.
+
+The little serenade had three parts... the middle was dance-like, almost like a pas-de-deux, carried by a solo violin, with the rest of the strings playing in soft pizzicato. Almost at the end of that section, there was an odd moment of dissonance, which the english horn confidently swept aside with its original melody. When the piece concluded, the orchestra and conductor sat and stood in silence, speechless. Celeste stared unseeing at the page before her.
+
+They played it again. Celeste pushed the dynamics this time - being in a 'star' role suited her perfectly - and the serenade took on a vibrance, a poignancy that raised the hair on the conductor's neck. Again, piece done, silence. They played it again. It wasn't a difficult piece to perform... they were not playing it over and over to perfect their technique. It was the piece itself.
+
+When the hour was up, Celeste left with the piece playing in her head in a loop.
+
+In chemistry, Lauren gave her friend a quizzical second look.
+
+"What's up with you, girl?"
+
+Celeste grimaced. "You know that piece I've been practicing on my english horn?"
+
+"I thought you played the clarnet."
+
+"I *told* you, Miss Duncan had *given*—well, more like, loaned—me her english horn. It was to play specifically this piece we played today."
+
+Lauren shrugged. Orchestral stuff didn't 'float her boat'. "Oh yeah... sorry, I forgot. So, why the weird vibes? Didn't go well?"
+
+Celeste turned to her friend, fixing her with an intense gaze. She seemed to be searching for words.
+
+"Lauren, it was unreal," she finally managed through dry lips. "I can still hear the whole thing in my head... I think we only played it three of four times, but it's all... right there!" She pointed to her head, her eyes wide.
+
+Lauren smiled uneasily. "So, um, what sort of piece was it?" she asked cautiously, as if opening a can of expired beans. She feared a long exposition couched in music theory terms.
+
+"It was... bewitching."
+
+"Bewitching."
+
+Celeste appeared to 'give her head a wobble'. "I know, I'm not making any sense. Look, I've been practicing this piece for the past month or so - it's not a hard piece to play. But today was like, well we heard the whole thing for the first time... all the instruments, the strings, and my english horn. I'm telling you, the whole class was blown away. Including the teacher!"
+
+"Really. Cool." Lauren gave her customary not-excited-about-this look.
+
+"Lauren, you would literally have to hear it. I know you're not into classical stuff..."
+
+"But... do I hear a 'but'?" Lauren cleared her throat. "yeah, nah... doesn't do it for me, sorry—not if there's no lyrics." A change came over Celeste again. "What?"
+
+"I don't even know who wrote it." She turned back to her retorts and beaker. "gotta ask Ms Duncan," she muttered, mostly to herself.
+
+It wasn't until Friday that she got her answer, and in a rather unexpected way. She went to the music building early that morning in hopes of catching Miss Duncan in her office. The hallways were empty: someone was banging away in a piano room on a piano badly needing tuning. 
+
+"Celeste?" She turned to see Miss Duncan unlocking her office.
+
+"Good morning... I won't keep you long. Just have a quick question." Miss Duncan raised her eyebrows expectantly. "Um, who wrote that piece we played on Wednesday?"
+
+"He's a junior, here. A quiet kid... nice enough, but is sadly neglecting the rest of his studies." She paused, biting her lip. "Probably shouldn't have said that. It's just that, well, between you and me, he's a genius! That piece..."
+
+"I know, right?" Celeste's eyes shone. "What's his name?"
+
+"Chuck."
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+### Quest
+
+
+
+They’d talked her into it like it was nothing—“Ever thought of oboe? English horn?”—as if a reed tied with thread and nerve were just another mouthpiece you clicked in. Celeste, who loved a challenge almost as much as she loved being good at something, said yes. Then came the ritual: the jam jar of water for soaking reeds; the reed knife that was more scalpel than tool; the long tones that tasted of cane and patience. For weeks she left faint bruises at the corners of her mouth and learned the politics of breath. Control wasn’t a mood; it was a daily practice.
+
+Now she sat under the harsh rehearsal lights with the **English horn**—**cor anglais** if you were feeling fancy—resting in the cradle of her right thumb, the bell against her knee as if the instrument were listening for footsteps through the floor.
+
+The conductor gave the downbeat; the strings laid a velvet pad; two horns leaned a third apart and turned the air warm. At letter **A**, he looked at her. “English horn, please.”
+
+She brought the reed to her lip and let the note bloom, not forced, not shy—**dolce**, mezzo voce, the human voice told through wood and wire. The line was considerate in that way only a good ear writes: it knew where breath lived, where the room inhaled with you. She could feel the orchestra wake—violas with their heads lifted, second violins stilled into a single spine, flutes unconsciously quieting so as not to spill light where shadow was wanted. The conductor’s eyebrows climbed a fraction. Not flattery. Recognition.
+
+The phrase stepped once over a small canyon and landed sure-footed. She didn’t push vibrato; she let it arrive like a confession, then leave. The hall that wasn’t a hall (only the ugly rehearsal room with the scuffed risers) seemed for a moment to forget itself.
+
+“Again from A,” the conductor said, quick, hungry. “And strings, give me room. This voice is the thing.”
+
+She played it better. She played it as if she had been born to this colour, this melancholy that wasn’t sad so much as truthful. For the first time since the restroom incident, she didn’t think of the wrong-door boy; she thought only of the line that had been written by someone who understood breath and refused to crowd it.
+
+They reached **B**; the harmony rocked like a boat that knows the river. The piece—**a student piece**, someone had scoffed earlier—did the one unforgivable thing: it made them care. When the cadence resolved, no one spoke at first, as if speech would scuff it.
+
+Then the room exhaled, as a single animal.
+
+The conductor lowered his arms slowly, the way you lower your hands from a hot kettle you’ve realised is bearable. “Whoever wrote this,” he said, half to himself, “listens.” He found Celeste’s eyes. “Again, and clarinets—no embroidery. Let the English horn tell the truth and you behave.”
+
+She allowed herself the smallest smile—**not** pride; relief. The hours in her room, the reed-scraping until the shaving curled just so, the stubborn long tones that had felt like punishment until they didn’t—none of it had been theatre. The music knew her now. Or she knew it. It was difficult to say which, and that was the point.
+
+At break she kept the instrument in her lap and the reed in its tiny coffin, as if either might run away. The conductor was bent over the score, making patient, tight pencilled marks. She went to him and stood in that polite, British way that means, *I’m waiting, but not asking twice*.
+
+“Sir,” she said, soft enough to be private, clear enough to be irrevocable. “Who’s the composer?”
+
+He glanced up, smiled without humour. “A student.”
+
+“Yes,” she said, and did not blink. “Which one?”
+
+He tapped the cover of the score with the end of his pencil, as if that would conjure a name he was not yet ready to share. “You’ll meet them. Let’s get it roadworthy first.”
+
+It should have satisfied her. It didn’t. Something in her had already moved furniture to make space for a new thing. She wasn’t looking for a person to be dazzled by; she wanted the mind that had written those breaths and those shy, perfect cadences. She wanted to have a conversation with that mind, on paper first, then in air.
+
+“Right,” she said, unbothered on the surface, burning underneath. “From me—one small request. At B: I’d like a written breath before the leap. It will sing better.”
+
+He made the mark without argument. “You’re not wrong.”
+
+“Thank you.” She paused, then, because it mattered: “And whoever they are—tell them the English horn part is… considerate.” The word felt indecently intimate in her mouth. “It listens back.”
+
+“High praise,” he said, amused. “I’ll pass it on.”
+
+She returned to her chair, fitted the reed, and let the tip wet again, the way you give a plant a sip before moving it to a sunnier window. The others were watching her in the sideways way orchestras watch one another when something is suddenly real. She lifted the bell, counted the rests, and thought, with an odd, fierce tenderness, **I want to write like that.**
+
+When the downbeat came, she was ready to be the voice again—until the voice could be hers from the ground up.
+
+
+
+## 
 
 <img src="/assets/images/CelCh1/Cel-Class1.jpg" alt="Smiles" style="float: right; width: 400px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-It wasn’t until a few days later that Charlie saw her again amidst a group of girls in the hallway at the door of his first period class, algebra. His heart pounded in his ears as he furtively slipped into the classroom, avoiding a look in her direction. With a sigh, he plopped into a seat at the back of the class.
 
-Algebra was his worst subject.
-
-Just as the bell rang signalling the beginning of first period, he noticed Celeste entering the classroom. She elegantly settled herself into a seat in the front row, and then, irradiated his being with a warm smile. 
-
-The class got off to a bad start for Charlie: an unfinished assignment was burning holes into his guilty conscience.
-
-“I may have forgotten to mention that we’re going to have a little quiz at the end of today’s class.” The class groaned — Mrs. Kielley took no notice. “If you have studied, you will be fine.”
-
-During the quiz, Charlie noticed she was rifling through the handed-in homework papers and his heart sank. Just as the bell rang, she called out:
-
-“See you tomorrow! Remember, you’re responsible for chapter 14. Oh, Charlie,” she motioned to him. “Can I see you for a moment?”
-
-Charlie sighed and gathered his things. Out of the corner of his eye he could see Celeste, her head tilted, lips pursed into a sympathetic smile. Paradoxically, her smile made him feel lower than pond scum. He blushed crimson and listlessly approached the teacher.
-
-“Why, Charlie?” This was not their first interview. “I simply don’t understand. I’ve talked to your other teachers: Mrs Farias tells me you’re very bright!”
-
----
-
-Physical Education was another subject he hated. Coach noticed him entering the locker-room and motioned him into his office.
-
-“A week ago, I had asked you to sign up for track and field. I notice your name is not on the roster. Why is that?”
-
-“I.. uh —” 
-
-“Yeah.” Coach eyed him sternly. “Look, I went out on a limb for you, Charlie. I figured - with your build - track and field would have been a good fit. So, what gives?”
-
-Charlie couldn’t find anything to say.
-
-“Look, I’m over it, helping you. I’m going to give you one last chance before failing you.” Charlie visibly quailled. Failing athletics meant repeating his senior year. “You’re going to join the swim team. It’s your last chance, mate.”
-
-*What swim team? I didn’t know there was a swim team.*
-
-Charlie sat for what felt like ten nervous minutes in Ms. Hamilton’s waiting room — a room, he noted, furnished with an unsettling number of potted ferns — as the muffled sounds of Coach and Ms. Hamilton’s conversation drifted from her office. It wasn't shouting, exactly, more of a low, persistent hum of displeasure. He could just make out something about funding and artistic swimming. The kind of disagreement that made you wonder if the ferns were thriving or slowly, silently dying. He had the distinct, unsettling feeling that he was already a casualty of their debate.
-
-“I told you weeks ago we’ve cancelled the boy’s swim team!”
-
-“I don’t remember you saying anything of the kind!” Coach growled.
-
-“You never pay any attention to anything I say,” Ms Hamilton retorted. “Allow me to refresh your memory — remember that meeting with admin? We were told there’s not enough funding for small teams.”
-
-“Yeah, you said you were going to have the girls do... um, synchronised swimming or something.”
-
-“Artistic swimming! Seven girls have signed up so far. Only one boy had signed up at the time for the men's team, if you remember. So, they cut the program.”
-
-“So, Charlie can swim with the girls...”
-
-“Hell, no! I’d be forever getting him up to speed. You can’t just dump him on me, Coach!”
-
-“Well guess what, I just did!” The door flew open and Coach stormed out of her office.
-
-Presently, Ms Hamilton appeared and stared at Charlie. He hastily got to his feet and began moving to the door.
-
-“Wait.” Ms Hamilton’s gaze had softened. She studied him for a moment before beckoning him into her office. Charlie nervously followed her. She studied him with a curious look in her eye as she settled thoughtfully into her chair.
-
-“Okay, so here’s the problem, Charlie. You probably overheard me discussinging your PE curiculum with Coach. We’ve had to disband the boy’s swim team for lack of interest. It’s just a girl’s team now, and we’re doing artistic swimming. It’s like dancing, but in the water.” She paused for a moment. "Dancing. Like ballet, but in a pool. Have you ever taken ballet, Charlie?"
-
-"No."
-
-She grimaced. “Are you any good at swimming?” His slender frame spoke of an exercise-free lifestyle.
-
-“I used to surf when I lived on the Gold Coast,” Charlie said softly.
-
-“You *used* to surf!” Ms. Hamilton’s expression was incredulous. “How long ago was that?”
-
-“Um, a few years ago,” he admitted quietly, his gaze dropping to the floor.
-
-Ms. Hamilton shrugged and leaned back in her chair, crossing her arms. “Look, I don’t want you to think this is an easy class, even if you're a good swimmer. Artistic swimming is not easy. Just because it’s girls usually doing it doesn’t mean it’s easy.” Her eyes scanned him critically, head to toe. “You’re no taller than any of my girls,” she mused, her tone sharpening slightly. “You’re pretty thin for a surfer. Not exactly what I’d call robust.”
-
-Charlie shifted uncomfortably under her scrutiny but said nothing. His lack of activity over the last two years had left him scrawny.
-
-She shrugged again. “Anyway, I suppose you’ll fit in alright with the girls... sizewise, that is.” She couldn’t hide a flicker of disdain. “Do you think you can handle artistic swimming?”
-
-Charlie met her eyes, his voice calm but hesitant. “I’ll have a go.”
-
-Ms. Hamilton didn’t respond immediately. Instead, she leaned forward, resting her elbows on the desk, her fingers interlaced as she studied him.
-
-<img src="/assets/images/CelCh1/Cha-Pool1.jpg" alt="Swimming" style="float: right; width: 300px;
-        margin-left: 20px; margin-bottom: 10px;" />
-
-“Look, Charlie,” she began, her tone firm but not unkind. “You should know what you’re up against. Artistic swimming isn’t just about being in the water. It’s about precision, stamina, and grace —  things my girls have been practicing for a fair bit, now.” She leaned back in her chair. “Girls are built for this kind of work. They’ve got better endurance, more flexibility, and can move with a kind of rhythm and grace that doesn’t come naturally to boys.” She let that sink in before continuing. “Plus, my girls have been training for a **long** time. It’s not just about physicality — it’s about practice, discipline, and performing as a team.”
-
-Charlie shifted uncomfortably. “I guess I’ll just have to work harder, then.”
-
-Ms. Hamilton tilted her head slightly, a flicker of something resembling approval crossing her face. “Oh yes, you most definitely will have to work harder, mate. Much harder! Certainly harder than any of my girls! But...” She paused, giving him a measured look. “If you’re willing to put in the effort, I’m willing to let you have a go.” She stood, signaling that the conversation was over. “See you tomorrow. Be ready for some hard yakka, mate.”
-
-Charlie nodded quickly, rising to leave. But before he stepped out of the office, her voice stopped him.
-
-“Oh, and Charlie? Don’t expect any of us to go easy on you because you’re new — or a boy. You're expected to keep up.”
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
