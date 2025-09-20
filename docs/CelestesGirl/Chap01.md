@@ -97,7 +97,7 @@ He had just met an angel.
 
 ### Again, With Feeling
 
-Celeste stared unseeing at the notes on the page: it was the part for the english horn she had been practicing for the past month. Around her, student orchestra musicians were readying their instruments as they chatted. Some were practicing those difficult bars. Celeste wondered about those bits: she had already mastered her part. 
+Celeste stared unseeing at the part she had been practicing for the past month, the part for the english horn. Around her, student orchestra musicians were readying their instruments... some were chatting. Some were practicing those difficult bars. Celeste wondered about those bits: she had already mastered her part. 
 
 The conductor / instructor took her place on the podium. 
 
@@ -137,7 +137,7 @@ Lauren smiled uneasily. "So, um, what sort of piece was it?" she asked cautiousl
 
 Celeste appeared to 'give her head a wobble'. "I know, I'm not making any sense. Look, I've been practicing this piece for the past month or so - it's not a hard piece to play. But today was like, well we heard the whole thing for the first time... all the instruments, the strings, and my english horn. I'm telling you, the whole class was blown away. Including the teacher!"
 
-"Really. Cool." Lauren gave her customary not-excited-about-this look.
+"Really. Cool." Lauren gave her customary look of ennui.
 
 "Lauren, you would literally have to hear it. I know you're not into classical stuff..."
 

@@ -1024,3 +1024,16 @@ Perfect 🌸 Let’s build you a **scaffold** — not a rigid plot, but a flexib
 ---
 
 Would you like me to help you **map your existing fragments** (like the restroom scene, the bus vignette, the library, the hand-holding) onto this scaffold, so you can see the necklace starting to take shape?
+
+
+
+
+
+
+
+
+
+
+Same issue again - quite frustrating: purchased libraries disappear!
+
+This happened a few months back: all of a sudden, my piece instrument assignments default to basic. Not even Free MuseSounds: Basic. I had purchased Spitfire's Symphony Strings and Woodwinds for MuseSounds. They show up in MuseHub as purchased. I have updated MuseHub to the latest version. Is there some incantation I need to do or sacrifice I need to burn to get my libraries back? Is anyone else experiencing this? Is there some way to avoid this happening again?
