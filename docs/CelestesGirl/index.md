@@ -1,32 +1,25 @@
-# Celeste's Girl
+# On Writing
 
-## Foreword
+## About The Images
 
-<img src="/assets/images/CelCh1/Cel-Park1.jpg" alt="Celeste" style="float: right; width: 200px;
+<img src="/assets/images/Index/VicGirl1.jpg" alt="Victorian Girl" style="float: right; width: 360px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-The images were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key aspects to the use of images in story-telling:
+I own all images and videos on these pages. They were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
 
-* Character persistence... Node used: ReActor
+* **Character persistence**  
+  Nodes used: ReActor
 
-* Anatomical accuracy..... Models used: Flux1 Dev (to a lesser extent, 'Kontext')
+* **Anatomical accuracy**  
+  Models used: Flux1 Dev (to a lesser extent, 'Kontext')
 
-* Character attire........ Models used: SDXL
+* **Character attire**  
+  Models used: SDXL and Flux1-Dev (also SRPO)
 
-A bit about Celeste: she's a trend-setting, headstrong, unique individual.
+* **Removing the 'AI' look** (see image)  
+  Models used: SRPO (improved Flux1 Dev) 
 
-These pages explore the 'cancelling' - as in: suppression - of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. The story is based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
-
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -34,32 +27,36 @@ These pages explore the 'cancelling' - as in: suppression - of a full one-half o
 ### Happy Thoughts
 
 <style>
-  .columnA {float: left; padding-right: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-<div class="row">
-  <div class="columnA">
-    <video width="360" height="360" controls>
-      <source src="https://www.tightbytes.com/art/images/videos/C01Ab.mp4" type="video/mp4">
-    </video>
+
+<div class="flex-container" markdown>
+  <div class="column" markdown>
+  <video width="480" height="480" controls>
+    <source src="/assets/videos/C03.mp4" type="video/mp4">
+  </video>
   </div>
-  <div class="columnB">
-    <p>This video is about the music for the story 'Celeste's Girl' - an exploration of what might happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk).</p>  
 
-    <p>Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.</p>
+  <div class="column column--right" markdown>
+This video sets the stage for Charlie's venture into a realm he never had any interest in, but due to his infatuation (dare we call it **Love**) for Celeste, he was destined to travel. In the process, he learns much about history, the insidious and deleterious effect of the patriarchy on the lives of women through the ages.
 
-    <p>The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':</p>
+In order for this lesson to be learnt, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.
     
-    <audio controls="controls">
-      <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-      Your browser does not support the <code>audio</code> element. 
-    </audio>
+A bit about Celeste: she's a trend-setting, headstrong, unique individual. Artistic, a leader not a follower, determined to get her way. Clever, schemer. Intensely likeable, incredibly feminine. Won't suffer fools or jocks.
   </div>
 </div>
 
+These pages explore the 'cancelling' - as in: suppression - of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. The story is based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
 
+The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
+
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
@@ -116,7 +113,7 @@ and for those stored with the data files::
 
 ### Embedded YouTube Video
 
-This code:
+This code for a remote link:
 
 ```
 <video width="384" height="384" controls>
@@ -132,16 +129,32 @@ This code:
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
+This code for a local link:
+
+```
+<video width="480" height="480" controls>
+  <source src="/assets/videos//C03.mp4" type="video/mp4">
+</video>
+```
+
+...yields this:
+
+<video width="480" height="480" controls>
+  <source src="/assets/videos//C03.mp4" type="video/mp4">
+</video>
+
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+
 
 ### Embedded Audio
 
 This code:
 
 ```
-		<audio controls="controls">
-		  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-		  Your browser does not support the <code>audio</code> element. 
-		</audio>
+<audio controls="controls">
+  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
 ```
 
 ...produced:
