@@ -26,26 +26,34 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 ### Happy Thoughts
 
+Note: save from .yt-short iframe:  aspect-ratio: 9 / 16;
+
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
   .column {flex: 1 1 0; min-width: 0;}
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+  .yt-short { max-width: 480px; margin: 1rem auto; }
+  .yt-short iframe { width: 460px; height: 460px; }
 </style>
 
 
 <div class="flex-container" markdown>
-  <div class="column" markdown>
-  <video width="480" height="480" controls>
-    <source src="/assets/videos/C03.mp4" type="video/mp4">
-  </video>
+  <div class="yt-short" markdown>
+  <iframe
+    src="https://www.youtube.com/embed/76DXRxH6fks" 
+    title="Celeste"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
   </div>
 
   <div class="column column--right" markdown>
-This video sets the stage for Charlie's venture into a realm he never had any interest in, but due to his infatuation (dare we call it **Love**) for Celeste, he was destined to travel. In the process, he learns much about history, the insidious and deleterious effect of the patriarchy on the lives of women through the ages.
+  This video sets the stage for Charlie's venture into a realm he never had any interest in, but due to his infatuation (dare we call it **Love**) for Celeste, he was destined to travel. In the process, he learns much about history, the insidious and deleterious effect of the patriarchy on the lives of women through the ages.
 
-In order for this lesson to be learnt, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.
-    
-A bit about Celeste: she's a trend-setting, headstrong, unique individual. Artistic, a leader not a follower, determined to get her way. Clever, schemer. Intensely likeable, incredibly feminine. Won't suffer fools or jocks.
+  In order for this lesson to be learnt, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.
+
+  A bit about Celeste: she's a trend-setting, headstrong, unique individual. Artistic, a leader not a follower, determined to get her way. Clever, schemer. Intensely likeable, incredibly feminine. Won't suffer fools or jocks.
   </div>
 </div>
 
