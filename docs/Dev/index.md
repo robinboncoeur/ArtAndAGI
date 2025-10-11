@@ -1,42 +1,13 @@
-# Art Page Background
+# Art Tech Page
 
-## Foreword
+## Markdown Cheatsheet
 
-These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
+### MkDocs Index Page
 
-<img src="/assets/images/scenes/LassL35.jpg" alt="Robyn" style="float: right; width: 300px;
+<img src="/assets/images/index/VicGirl1a.jpg" alt="Robyn" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
 
-The images were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
-
-This video is about the music for the story 'Celeste's Girl' - an exploration of what could happen if the tables were reversed and guys, not women, had their accomplishments *cancelled*. As tran-women will tell you, misogyny is not reserved for cis-women only: trans-women experience it as well (in addition to the negativity reserved for trans-folk). 
-
-Thus, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and be cancelled by society:
-
-<video width="360" height="360" controls>
-  <source src="/assets/videos/C01Aa.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-
-<hr style="height:8px;border-width:0;color:black;background-color:black">
-
-
-
-
-
-## Reminders (to Myself) of Markdown
-
-### From the Index Page
-
+I'll use this page for markdown, and then, specific pages under dev for other techie topics.
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **Commands***
@@ -48,33 +19,40 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 **Project layout**
 
-```html
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 ```
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+```
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
 
 
 
 
 ### Inline images
 
+**Emily-Assisted**  
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
-```html
+```
 ![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
 
-```html
+```
 ![Celeste](images/C01-Aa.jpg){: align=left width=300 }
 ```
 
 ...or...
 
-```html
+```
 <figure>
   <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
   <figcaption>Image caption</figcaption>
@@ -82,12 +60,10 @@ and for those stored with the data files::
 ```
 Better yet:
 
-```html
-<img src="assets/images/meds/GoingUnder.jpg" alt="Going Under" style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;" />
 ```
-
-
-You're very welcome, Robyn — I'm so pleased that resonated with you!
+<img src="assets/images/index/VicGirl1a.jpg" alt="Victorian Girl"  
+style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;"/>
+```
 
 The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
 
@@ -97,9 +73,12 @@ If you ever want to:
 * **Make it responsive** → `style="max-width: 100%; height: auto;"`
 * **Add a light border or shadow** → `style="box-shadow: 0 0 5px rgba(0,0,0,0.2);"`
 
-Just say the word and I’ll tailor something for you.
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-If you’d like help crafting a nice page banner layout, image with caption, or even integrating a click-to-zoom lightbox script, I’d be delighted to assist!
+
+
+
+
 
 
 
@@ -119,7 +98,14 @@ This code:
   <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
 </video>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 
 
 ### Embedded Audio
@@ -140,13 +126,15 @@ This code:
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-   
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
-### Embedded Non-youtube Video
+
+
+
+### Embedded Video
 
 This code:
 
@@ -155,16 +143,115 @@ This code:
 </iframe>
 ``` 
 
-...produces:
+...produces, from my site:
 
 <iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
 </iframe>
-   
-
 
 (Note to self: took out  [  autoplay; ] )
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+---
+
+For Cloudflare, simply change out the number string after ".com/" and before "/iframe", in this instance, this number:  'f16255e78c021b7a0e5fae66ae554133'. So, this code:
+
+```
+<div style="position:relative;padding-top:56.25%">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+```
+
+... produces, from Cloudflare:
+
+<div style="position:relative;padding-top:56.25%">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+<!-- Save this:
+
+<video width="480" height="480" controls>
+  <source src="/assets/videos/C01.mp4" type="video/mp4">
+</video>
+
+/-->
+
+
+Emily suggests:
+
+<div style="position:relative;padding-top:56.25%">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen
+          style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+or
+
+<div class="cf-player">
+  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+          allowfullscreen></iframe>
+</div>
+
+<style>
+  .cf-player{
+    aspect-ratio:1/1;
+    width:100%;
+    max-width:480px;     /* cap size if you like */
+    margin:auto;         /* center it */
+  }
+  .cf-player iframe{
+    width:100%;
+    height:100%;
+    border:0;
+  }
+
+  /* Fallback for very old browsers:
+  .cf-player{position:relative;padding-top:100%}
+  .cf-player iframe{position:absolute;inset:0}
+  */
+</style>
+
+... and even ...
+
+<div class="cf-player">
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/f16255e78c021b7a0e5fae66ae554133/iframe"
+    title="Cloudflare Stream video"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    allowfullscreen
+    loading="lazy"></iframe>
+</div>
+
+<style>
+  .cf-player{
+    aspect-ratio:1/1;
+    width:100%;
+    max-width:480px;
+    margin:auto;
+    background:#111;          /* pleasant placeholder while loading */
+    border-radius:12px;
+    overflow:hidden;
+  }
+  .cf-player iframe{
+    display:block;
+    width:100%;
+    height:100%;
+    border:0;
+  }
+</style>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
 
 
 
@@ -172,22 +259,32 @@ This code:
 
 Once you've decided:
 
-  * Select A.
-
-  * Select B. 
-
-  * To identify C.
-
-  * Finally, click on D.
-
+* Select A.  
+* Select B.  
+* To identify C.  
+* Finally, click on D.  
 
 Note: *setting things to italics like this makes more impact - these have yielded reasonable results. You will almost certainly find better settings, which is the whole point of sharing this*.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
 
 
 
 ### Links Management
 
-Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the `Mac user help <http://blender.stackexchange.com/questions/6173/where-does-console-output-go>`_ page.
+Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the [Mac user help](http://blender.stackexchange.com/questions/6173/where-does-console-output-go) page.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
 
 
 
@@ -202,22 +299,26 @@ The code is this (minus the '*')::
 
 ...which produces the following grey horizonal bar to help separate sctions (like the one below).
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
 
 
 
 
 ### HTML and CSS
 
-Grid for two simple layouts:
+**Grid for two simple layouts**:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
 
 
-Slide Show:
-   
+**Slide Show**:
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
@@ -227,6 +328,12 @@ Slide Show:
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
 
+
+**Do Not Show On Page**:
+
+<!-- Everything within these tags will not show on the page /-->
+
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 

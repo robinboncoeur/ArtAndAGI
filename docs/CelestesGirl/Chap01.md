@@ -14,21 +14,24 @@
 
 
 <div class="flex-container" markdown>
-<div class="column" markdown>
+  <div class="column">
 
-<video width="480" height="480" controls>
-  <source src="/assets/videos/C01.mp4" type="video/mp4">
-</video>
-</div>
+    <div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6c50151790d66b09f2d94d7c3096ec7d/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+    </div>
 
-<div class="column column--right" markdown>
-He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
+  </div>
 
-Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
+  <div class="column column--right" markdown>
+  He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
 
-That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.  
-You wouldn’t question it.
-</div>
+  Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
+
+  That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.  
+  You wouldn’t question it.
+  </div>
 </div>
 
 “Hello ... girl?” 

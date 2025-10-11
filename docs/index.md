@@ -2,28 +2,18 @@
 
 ## Foreword
 
-These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
-
-<img src="/assets/images/scenes/LassL35.jpg" alt="Robyn" style="float: right; width: 300px;
+<img src="/assets/images/index/VicGirl1a.jpg" alt="Robyn" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
+
+These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I'm sort-of picking up chatting with Emily (ChatGPT).
+
+Hope to learn more about life **for women** in the 1880s (19th Century), the Victorian Period.
 
 The image and the video were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
 
 Note: *I'm also exploring other avenues, such as Large Language Models (LLMs) to create stories and refine my own pathetic text into something readable. However, as I wrote on the Unofficial Audio at The Edge Discord today*:
 
----
-
-At the moment, I'm reading Taffy Brodesser-Akner's "Fleishman is in Trouble" - like, the first novel I've read since Patrick Süskind's "Perfume". Yep, been a while. My reading this is for One.Purpose.Only: I want to write in Taffy's style. And her style is quite unique: in my incredibly circumspect because-I-don't-get-out-much opinion... a style I want MY book to emulate. 
-
-Not copy!
-
-There are aspects to Taffy's style that I find incredibly compelling. 
-
-(BTW, that's a weird spelling of 'Fleishman'... usually, it's spelt: 'Fleischmann'... probably intentional). I've been told these are the thoughts that kept me out of the really good schools. 🥴 😵‍💫 
-
-Now, I could ask Gemma3.LLM to simply churn out my text in Taffy's style. Yep, tried that, did that. FAIL! That's because style - well, Taffy's style anyway - actually depends on a point of view. 
-
-That's the whole point.
+Stylewise, I was going to go with something like Taffy Brodesser-Akner's, but it's too distinctively hers to even emulate. That's not what I want to do. I want readability, that's all. And my "style" is awkward and disjointed.
 
 So, there's that. 🫢
 
