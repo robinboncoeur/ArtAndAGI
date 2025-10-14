@@ -1058,22 +1058,18 @@ This happens shortly after that initial performance of his serenade by the youth
 
 
 
-## Dickens Faire
+## Victorian Faire
 
 ![Explore 35](/assets/images/PlotDev/SRPOGirls35.jpg){: align=right width=450 }
 
 Love these swaps, Robyn. Let’s refit the plan around **Charlie** (composer) and **Celeste** (young journalist), and shape it as a **three-part novella** you can later translate to a screenplay. I’ll keep the Sciamma-esque quiet tension, the authorship/erasure theme, and build costume/musical textures you can “shoot” on the page.
 
 
-
-
-
-
 ### Novella shape (3 parts)
 
-**I. Casting & Cloth**
+**I. Casting & Clothes**
 
-**Premise beat:** Broke but gifted, **Charlie** takes a seasonal post at a **Dickens Faire** because he can write tasteful salon pieces—“serenades” for strings to waft through the lanes. The Faire’s director, **Mrs Aurelia Crowe**, insists he perform as **“Charlotte”** for an immersive “authenticity experiment.”
+**Premise beat:** Broke but gifted, **Charlie** takes a seasonal post at a **Victorian Faire** because he can write tasteful salon pieces—“serenades” for strings to waft through the lanes. The Faire’s director, **Mrs Aurelia Crowe**, insists he perform as **“Charlotte”** for an immersive “authenticity experiment.”
 
 **Key beats**
 
@@ -1153,7 +1149,7 @@ Love these swaps, Robyn. Let’s refit the plan around **Charlie** (composer) an
 
 ### Costume bible 
 
-**(Dickens faire sweet-spot: 1853–56)**
+**(Victorian faire sweet-spot: 1853–56)**
 
 **Underpinnings:** chemise; split drawers; mid-Victorian corset (support, moderate); **steel crinoline cage**; 1–2 petticoats (one quilted).
 **Daywear:** separate bodice & skirt; pagoda sleeves with **engageantes**; modest collar; shawl; kid gloves; ankle boots.
@@ -1218,7 +1214,7 @@ You absolutely *can* go 1880s—and it can be delicious. It’s later than class
 ### Quick authenticity options
 
 1. **Rebrand the event** in-text as a *Victorian Winter Fair* or *A Christmas Past* spanning 1837–1890.
-2. Keep “Dickens Faire,” but add a curated area (your employer’s choice): *“The Women’s Gallery: London 1885”*.
+2. Keep “Victorian Faire,” but add a curated area (your employer’s choice): *“The Women’s Gallery: London 1885”*.
 3. Explain it diegetically: the organiser wants later-Victorian fashions because they’re crowd-pleasers and “read” Victorian to the public.
 
 ### 1880s Costume Mini-Bible (Second Bustle Era)
@@ -1274,7 +1270,7 @@ You absolutely *can* go 1880s—and it can be delicious. It’s later than class
   * **Nocturne with harmonium pedal** (“candle’s radius”)
   * **Christmas Fantasia** weaving carols in late-Romantic harmonies—lush but intimate.
 
-### Pros & cons vs. classic Dickens (1840s–50s)
+### Pros & cons vs. classic Victorian (1840s–50s)
 
 **Pros**
 
@@ -1285,7 +1281,7 @@ You absolutely *can* go 1880s—and it can be delicious. It’s later than class
 **Cons**
 
 * If the event trades strictly on *A Christmas Carol* authenticity, you’ll be out of frame; you’ll need the narrative justification (curated lane/theme year).
-* Some readers expect hoops (1850s) at a “Dickens” fair; a line of dialogue can fix it.
+* Some readers expect hoops (1850s) at a “Victorian” fair; a line of dialogue can fix it.
 
 **One-line fixes you can use**
 
@@ -1378,5 +1374,11 @@ If you’d like next steps, I can:
 Your call, and I’ll spin it up.
 
 
+
+## Some Rough Ideas
+
+### Home Life
+
+Charlie lives with an irresponsible parent, who mismanages money and has a gambling addiction. Charlie ends up during the summer school break to work at a "Victorian Faire": jobs are hard to come by, so he feels pressure to do as requested by the owner of the Faire. Initially he works as gardener until the owner's wife decides he would be a perfect fit for a role as a member of a "Little Women" group she was assembling.
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
