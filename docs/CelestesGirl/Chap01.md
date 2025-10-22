@@ -25,12 +25,12 @@
   </div>
 
   <div class="column column--right" markdown>
-  He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
+    He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
 
-  Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
+    Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
 
-  That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.  
-  You wouldn’t question it.
+    That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.  
+    You wouldn’t question it.
   </div>
 </div>
 
@@ -62,8 +62,10 @@ At least she wasn't screaming.
 
 She gazed at him for what seemed an awkward eternity, then precipitously extended her hand. 
 
+
 <img src="/assets/images/CelCh1/Cel01.jpg" alt="Shake hands" style="float: left; width: 300px;
         margin-right: 20px; margin-bottom: 10px;" />
+
 
 “I'm Celeste. Celeste Shelley.”
 
@@ -98,6 +100,8 @@ By the time Charlie entered the cool quiet of the library and put his glasses ba
 He had just met an angel.
  
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -203,6 +207,261 @@ Celeste stared at her, eyes wide.
 "Well, Charlie. Charlie Rossi..."
 
 "...ignol," Celeste finished for her softly, pensivefully. She murmured: "Er, thank you..." and walked slowly away, lost in thought. 
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Love this setup, Robyn—there’s genuine electricity in Celeste’s dawning respect/curiosity. Here’s a tight craft pass with “believability / predictability / trope” notes, then a clean mini-polish, and a where-to-next path that avoids the clichés you dislike.
+
+# Quick eval
+
+**Believability**
+
+* ✅ The rush after first full read-through feels true: “it’s all right there” is a great musician’s line.
+* ⚠️ A few dialogue beats read writerly (“fixing her with an intense gaze,” “through dry lips”). Pare back and let subtext carry it.
+* ⚠️ School details: “retorts and beaker” (plural: beakers) feels science-textbook. Maybe just “glassware” or “bench.”
+
+**Predictability**
+
+* Mildly predictable that the best friend “doesn’t get classical” and says “cool.” Keep Lauren, but let her contribute something non-musical (e.g., social intel or a practical nudge) so she isn’t only the foil.
+
+**Trope radar**
+
+* No “emasculating schemer” vibes—good.
+* Watch for “boy genius mystique” + “girl as admirer.” Ensure Celeste’s *want* is active (to *learn how* to write like this; to collaborate), not just to *find the boy*.
+
+**Line-level nits**
+
+* “english horn” → “English horn.”
+* “three of four times” → “three or four times.”
+* “pensivefully” → “pensively.”
+* The “expired beans” simile undercuts the moment; consider a drier beat.
+
+# Micro-polish (light touch, your voice preserved)
+
+In chemistry, Lauren gave her a second look.
+“What’s up with you, girl?”
+
+Celeste grimaced. “You know that piece I’ve been practicing on English horn?”
+
+“I thought you played clarinet.”
+
+“I told you—Miss Duncan loaned me her English horn.”
+
+Lauren shrugged. Orchestral stuff didn’t float her boat. “Right, sorry. So why the weird vibes? Didn’t go well?”
+
+Celeste met her eyes, searching for the words. “It was unreal,” she said at last. “The loan was for **this** piece. We heard the whole thing today—the strings and my solo—and it’s still in my head. We only played it three or four times, but it’s all right there.”
+
+Lauren smiled, uneasy. “So… what kind of music was it?” She braced for a lecture.
+
+“A serenade some student wrote. It was—” She shook her head. “—insane.”
+
+“Insane,” Lauren echoed.
+
+“I know I’m not making sense. I’ve been practicing my part for a month. It isn’t hard. But today? Everyone was blown away. Even Miss Duncan.”
+
+“Cool.”
+
+“You’d have to hear it,” Celeste said, softening. “I know lyrics are your line in the sand.”
+
+“Do I hear a ‘but’?”
+
+Celeste turned back to the bench, to the neat rows of glassware. “I need to know who wrote it,” she murmured.
+
+---
+
+Friday, she staked out the music building. Someone was thumping scales on an untuned piano.
+
+“Celeste?” Miss Duncan’s key scraped in the office lock.
+
+“Good morning. Quick question.” Celeste waited. “Who wrote the piece we played Wednesday?”
+
+“He’s a junior here. Quiet kid. Between us—loads of talent. That serenade!”
+
+“I know, right?” Celeste couldn’t help the grin. “May I have his name?”
+
+“Sure. It’s Chuck.”
+
+Celeste blinked. “Chuck.”
+
+“Well—Charlie. Charlie Rossignol.”
+
+“…Rossignol,” she finished, softly. “Thank you.” She slipped back into the hall, thoughts already running ahead.
+
+# How to proceed (anti-trope, high-agency)
+
+**Celeste’s want (name it clearly on the page):** not “get the boy,” but “understand how he did this and learn to write like it.”
+**Ethical tactic:** she avoids hunting down personal contact. She uses *musical* contact.
+
+### Bridge beats (3 short scenes)
+
+1. **The ask, craft-first:** Celeste leaves a note via Miss Duncan addressed to “Charlie R.” Not praise-gushing; three specific craft questions (e.g., “Why the English horn over oboe in the exposition?” “That deceptive cadence at m.42: is the bass a tritone substitute?” “Was the final phrase meant to sit in modal ambiguity or did I miss an accidental?”). This frames her as peer/serious student, not fangirl.
+
+2. **The near-miss:** He withdraws from school before she gets an answer. Rumor mill says Victorian Faire job. Lauren adds non-musical value here: she knows someone who works the Faire, or she digs up the schedule—use her competence so she’s more than a “cool/doesn’t get it” friend.
+
+3. **Choice & boundary:** Celeste debates whether going to the Faire is intrusive. She decides to go *only* if she can keep a boundary: she’ll bring a marked score and a one-page letter with a “no-pressure” invitation to a public rehearsal where she plays his piece; he can come, or send notes anonymously. (Consent baked into the pursuit.)
+
+### First Faire encounter (avoid savior/muse clichés)
+
+* Let Charlie have *dignity* in the cleaner role—competence, quiet pride.
+* Keep the stakes small and real: Celeste asks permission to play the serenade publicly and to study his pages, not to “rescue” him.
+* Conflict: he’s protective of the piece / embarrassed / wary of attention.
+* Turn: she proves she’s read him musically by naming a tiny fingerprint in his writing (a pattern, a spacing choice, a voicing tell). That earns a crack of trust.
+
+### Medium-term arc
+
+* **Correspondence collaboration:** exchanges of annotated PDFs / photos of manuscript margins.
+* **Celeste’s growth:** she drafts a short “Response” piece—8 bars in his idiom—then rewrites it in *her* emerging voice.
+* **Public test:** school ensemble (or a small chamber group at the Faire) performs one movement with his name on the program—consent explicit.
+
+# Sample next beat (first contact at the Faire—non-exploitative, charged, not saccharine)
+
+She found him sweeping sawdust into tidy lines as if the floor were staff paper. No costume, just work boots and a fluorescent vest that made his hair look darker.
+
+“I brought your music back,” she said, holding out the scuffed folder. “Well—not back. Forward.” A breath. “I marked questions. You can ignore all of them.”
+
+He glanced at the tabbed pages, then at her. “I don’t—uh—do… public.”
+
+“I’m not asking you to,” she said. “But there’s a harmonic thing in your bridge—this little bass slip that shouldn’t work and somehow does. I can’t stop thinking about it.” She smiled, embarrassed and earnest all at once. “I want to learn how to think like that. Or at least how *you* think like that.”
+
+The broom paused. “Measure forty-two?”
+
+“So it *was* a trick.”
+
+“Not a trick.” He eased the broom back into motion. “A risk.”
+
+“Then maybe you’ll let me risk something too,” she said, tapping the folder. “There’s a rehearsal Tuesday. I’ll leave a seat at the back with your name on it. Or no name. Your call.”
+
+He didn’t answer, but his eyes flicked to the folder again—and that was enough.
+
+---
+
+If you want, paste the marked-up letter Celeste leaves him; I’ll tune it to hit “craft-first, boundary-clear, consent-loud” while keeping your elegant, natural tone.
+
+
+
+---
+
+
+Love this beat. Here’s a clean, drop-in sequence: Charlie in close third (note → rehearsal/reveal), then Celeste in 1st (after).
+
+---
+
+### Charlie — close third
+
+The note came folded twice, the creases neat enough to suggest either a teacher’s hand or a student who owned a ruler.
+
+> I’m the English-horn player from Wednesday. Three questions:
+>
+> 1. Why English horn over oboe for the first exposition phrase?
+> 2. In the bridge around m. 42 the bass “slips” in a way that shouldn’t resolve and somehow does—was that a tritone substitute idea or something else?
+> 3. The last cadence sits between modal and tonal—intentional ambiguity or my misread?
+>
+> No pressure to reply. I’ll rehearse Tuesday, 4:15, Room 204. There’ll be a seat at the back with no name on it. Your call. —C.
+
+No name beyond the letter. The handwriting was tidy, slanted just enough to look decisive. He read it again, then a third time for the questions themselves, which were the right kind—about choices, not mistakes.
+
+Why English horn over oboe. He had a practical reason and the other reason: the color that lived between the notes, the way a good player could lean into grief without tipping the line over. He started an answer on scrap staff paper, crossed it out, started again. “Because the timbre sits lower in the chest,” he wrote, then winced and scratched through that as well. It sounded romantic on paper and wrong in air.
+
+Measure forty-two. He smiled before he could stop it. Someone had heard the slip. Not a trick, he could say. A permission.
+
+He put the note under his theory book and told himself he wouldn’t go. Anonymous was safer. “Your call,” it said, so he made one: he wouldn’t. He could leave comments with Miss Duncan. He could send a page of counterpoint and let that be the conversation.
+
+Tuesday came anyway.
+
+He stood in the door of 204, not far enough in to be counted. The room smelled like rosin and old carpet; a stand light buzzed in the corner. The strings settled; the English horn player adjusted a reed with the quick mouth-half-smile of someone who’d made peace with imperfection. He could only see the side of her face, the hair pulled back, the collar of a plain shirt. It told him nothing. Better that way.
+
+They began. The sound was bare at first—school room, fluorescent ceiling—but the bass lift in the second bar made a space, and by the time they reached the soft turn into his bridge he’d forgotten the doorframe in his hand.
+
+Measure forty-two. The bass slipped. The room did that thing rooms do when air changes its mind. And the English horn didn’t correct it; she committed, the breath before the long F like someone stepping into cold water on purpose. He felt his ribs go hollow with relief. She’d understood.
+
+She turned a fraction to take the next phrase, and he knew her. The lost lad in the ladies’ restroom—except not a lad, obviously, and he hated himself all over again for needing the reminder. The flush found him fast and stupid. The broom closet, the fluorescent vest; the part where he had stammered and she had said, “You’re fine,” as if it were ordinary, as if he were ordinary and not a catastrophe wearing two sizes of shame.
+
+Of course it was her.
+
+He tightened his grip on the doorframe, then let go too late and knocked the spare chair beside him. Heads turned. He put the chair upright, whispered “sorry,” and for a second couldn’t find the door handle that was right there. He escaped into the corridor and stood with his forehead against the cool painted block like a penitent, counting slowly to ten.
+
+He could leave. He should leave. Instead he sat on the floor out of sight and took the note from his pocket. He wrote, small and spare:
+
+> 1. English horn: because the line wants weight without brightness. The melody reads older in that register.
+> 2. m.42: not a substitute, a risk. Let the bass lead; EH hold the F a half-breath longer than polite.
+> 3. Last cadence: yes, ambiguous. Let it hang. If you resolve it, do it like you regret doing it.
+
+He added eight measures on the back—an answer to her question in music, a countermelody that folded under the bridge and lifted where the bass slid. His pencil snapped on the last note; he sharpened it with the little metal sharpener in his case, which meant he wasn’t leaving, which meant he was leaving, because now he had something to drop off.
+
+When they cut off at the end, he waited for the scrape of chairs and the easy talk of people who moved through rooms as if they deserved them. He slid the folded page into an envelope from the office desk—To the English-horn player—and left it with Miss Duncan’s stack, then escaped down the stairs two at a time.
+
+He didn’t put a name. He couldn’t figure out how to be both the writer of that bass slip and the boy who had blundered into the wrong room and needed telling how to breathe.
+
+---
+
+### Celeste — first person
+
+I didn’t look at the chair by the door. That was the rule I’d made: set it there, play, don’t check whether the void is occupied.
+
+Measure forty-two—his risk—arrived and I took it the way the line asked me to, not smoothing, not apologizing. The room did that small tilt it does when everyone’s breath gets the same idea. Someone near the door jostled a chair; a murmured “sorry.” I kept playing.
+
+After, I packed slowly enough to look like I wasn’t lingering. Miss Duncan caught my eye and tipped her head at the office pile. “There’s something for you.”
+
+The envelope said **To the English-horn player** in a hand that tried for plainness and didn’t quite get there. Inside: my note with answers and, on the back, eight measures of reply—his script more confident once it turned into notation.
+
+> 1. English horn: because the line wants weight without brightness…
+
+Weight without brightness. I wanted to clap. Instead I sat on the floor with my back to the lockers and traced the countermelody with a finger, humming under my breath. It did that clever thing his writing does where you think it’s going to pivot one way and then it doesn’t—like a thought changed its mind at the last second and took you along.
+
+No name. Of course no name. But the chair had scraped, and the breath in the back of the room during m. 42 had hit my spine exactly where the bass slip sits when I practice, and I’m not an idiot. He came. He heard. He left me a line.
+
+I wrote back on the blank side, pencil still warm from my case:
+
+> Thank you. I’ll try the half-breath longer than polite and probably get scolded for it. Enclosed: eight measures of cheek—my answer to your answer. If you have thoughts, return volley. If not, thank you for letting me hear your thinking.
+
+I didn’t say I knew him from the restroom. I didn’t say anything about that afternoon, or the way his face had gone stricken and the way I’d wanted to fix a thing that didn’t need fixing. I kept to the rule: music first, boundaries clear.
+
+I left my page with Miss Duncan and went home to the kind of quiet that lets a new voice move in. I opened a fresh document and labeled it “Response in C (for Charlie? For Cor Anglais? Don’t be ridiculous, Celeste)” and began to sketch a movement that answered his cadence by refusing to choose a key until the last possible moment.
+
+Wednesday morning the registrar posted withdrawals.
+
+“Rossi— Rossign—” Lauren mangled it, then found it. “That kid from band?”
+
+“From nowhere,” I said, too fast.
+
+Victorian Faire, the rumor mill said by afternoon. Cleaning crew, out near the back lot where the vans park and the sawdust goes down. I stared at the eight bars he’d sent; they looked like a door held politely open.
+
+I made myself a new rule: one more note, delivered through Miss Duncan, then silence unless he walked through. The seat at the back of 204 would be there next Tuesday anyway. No name on it. A whole rehearsal’s worth of air waiting for a bass to slip and a player to believe it.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="flex-container" markdown>
 
