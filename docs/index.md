@@ -10,24 +10,34 @@
 🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
 🌼🌹🌼 [ ⇨ Videography](/visual/Videos.md)   
 🌹🌼🌹 [ ⇨ Video Scripts](/visual/VScripts.md)     
-🌼🌹🌼     
-
+🌼     
+🌹  
+🌼  
 ---
 
 <a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="160"align="right"></a>
+<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="200"align="right"></a>
 
 [Blogs](/blogs/index.md/)  
 🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
-🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
+🌼🌹🌼 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
 🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)  
+🌼  
+🌹  
+🌼  
+🌹  
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
 
 
 
 
 ## Foreword
 
-<img src="/assets/images/index/VicGirl1a.jpg" alt="Robyn" style="float: right; width: 300px;
+<img src="/assets/images/blog25/06-16Office.jpg" alt="Robyn" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
 
 These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I'm sort-of picking up chatting with Emily (ChatGPT).
@@ -93,4 +103,4 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </audio>
 
 
-<hr style="height:20px;border-width:0;color:black;background-color:black">
+<hr style="height:20px;border-width:0;color:pink;background-color:pink">

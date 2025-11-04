@@ -331,7 +331,17 @@ The code is this (minus the '*')::
 
 **Do Not Show On Page**:
 
-<!-- Everything within these tags will not show on the page /-->
+<!-- Everything within these tags will not show on the page 
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.tightbytes.com/index.html
+    - icon: fontawesome/brands/bluesky
+      link: https://bluesky.com/robynsveil
+
+
+/-->
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
