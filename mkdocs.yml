@@ -51,6 +51,23 @@ nav:
     - ComfyUI Guidance: Dev/Comfyui.md
     - Domain Transfer: Dev/DomXfer.md
 
+  - Blogs:
+    - blogs/index.md
+    - Blog Sep25: blogs/Blog0925.md
+    - Blog Oct25: blogs/Blog1025.md
+    - Blog Nov25: blogs/Blog1125.md
+
+  - Visual Art:
+    - visual/index.md
+    - ComfyUI: visual/Comfyui.md
+    - AI & Emily: visual/Emilyai.md
+    - 2nd Person: visual/Person2.md
+    - QwenPrompt: visual/QwenPro.md
+    - GIMP Tips: visual/GimpTips.md
+    - FluxGym: visual/FluxGym.md
+    - Videos: visual/Videos.md
+    - VScripts: visual/VScripts.md
+
 plugins:
   - search
   - tags

@@ -1,5 +1,30 @@
 # My Art Pages
 
+## Links
+
+<a href="/assets/images/misc/01visual05.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc//01visual05.jpg" alt="Can" width="200" align="right"></a>
+
+[Visual Arts](/visual/index.md)  
+🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
+🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
+🌼🌹🌼 [ ⇨ Videography](/visual/Videos.md)   
+🌹🌼🌹 [ ⇨ Video Scripts](/visual/VScripts.md)     
+🌼🌹🌼     
+
+---
+
+<a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="160"align="right"></a>
+
+[Blogs](/blogs/index.md/)  
+🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
+🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
+🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)  
+
+
+
+
 ## Foreword
 
 <img src="/assets/images/index/VicGirl1a.jpg" alt="Robyn" style="float: right; width: 300px;

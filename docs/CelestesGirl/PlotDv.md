@@ -30,7 +30,15 @@ Wait, what? Why would Celeste assume he’d be into women’s fashion magazines?
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
+<!--
 
+Anyone else older, socially-limited, but with long-standing (since I was 6 or 7) dysphoria that isn’t going anywhere? What helps you?
+
+I didn't chose this: it chose me. I envy people who are aligned with the birth gender: how nice that would be. I envy even more genetic females, despite how rough life is for them in most societies. But it is what it is. Being called 'handsome' is like a kick in the gut, or even further down. Being considered 'goodlooking despite your age' (I'm 72) by women feels like erasure. Like being behind a mask of someone else's making. And you can't explain, can expect understanding, because of how it affects them to be exposed to that part of you. Disbelief. Revulsion. Disgust ("but I thought...").
+
+I didn't chose this.
+
+/-->
 
 
 
