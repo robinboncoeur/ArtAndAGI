@@ -44,32 +44,46 @@ So, there's that. 🫢
 
 ---
 
-These videos are about the music for the story 'Celeste's Girl':
+These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
 
 <style>
-  .columnA {float: left; padding-right: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
+  /* two 384×384 iframes side by side */
+  .video-row {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .video-row iframe {
+    width: 384px;
+    height: 384px;
+    border: 0;
+    border-radius: 8px; /* optional */
+  }
+  /* Stack on narrow screens */
+  @media (max-width: 820px) {
+    .video-row { flex-direction: column; align-items: center; }
+  }
 </style>
 
-<div class="row">
-  <div class="columnA">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15.mp4" type="video/mp4">
-    </video>
-    <br>
-    [Version Française]
-  </div>
-  <div class="columnB">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15EN.mp4" type="video/mp4">
-    </video>
-    <br>
-    [English Version]
+<div class="video-row">
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
+    title="Version Française"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 
-  </div>
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
+    title="English Version"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
-
 
 The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
 
@@ -79,6 +93,4 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </audio>
 
 
-<hr style="height:8px;border-width:0;color:black;background-color:black">
-
-BT9\*eYZV0`v@iRz
+<hr style="height:20px;border-width:0;color:black;background-color:black">

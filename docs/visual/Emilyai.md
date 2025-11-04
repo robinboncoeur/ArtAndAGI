@@ -50,28 +50,44 @@ There is no question AI is a useful tool. Always wise, of course, is to *trust b
 
 Here is an example of what is now—2025—possible with the technology. These videos are about the music for a story I'm writing, bit of an explore, that one:
 
+
 <style>
-  .columnA {float: left; padding-right: 20px;}
-  .left {width: 40%;}
-  .right {width: 60%;}
+  /* two 384×384 iframes side by side */
+  .video-row {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .video-row iframe {
+    width: 384px;
+    height: 384px;
+    border: 0;
+    border-radius: 8px; /* optional */
+  }
+  /* Stack on narrow screens */
+  @media (max-width: 820px) {
+    .video-row { flex-direction: column; align-items: center; }
+  }
 </style>
 
-<div class="row">
-  <div class="columnA">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15.mp4" type="video/mp4">
-    </video>
-    <br>
-    [Version Française]
-  </div>
-  <div class="columnB">
-    <video width="384" height="384" controls>
-      <source src="https://www.tightbytes.com/music/Sketches/Sketch15EN.mp4" type="video/mp4">
-    </video>
-    <br>
-    [English Version]
+<div class="video-row">
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
+    title="Version Française"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 
-  </div>
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
+    title="English Version"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </div>
 
 There are multiple technologies at play here: text-to-image, image-to-video, text-to-audio and audio+image-to-video... and that's just for the visual side of things. I wrote the music in [Musescore Studio](https://musescore.org/en) using the [MuseSounds](https://www.musehub.com/muse-sounds) library. The crazy bit: all of this can be done on any PC, as long as it has a decent (read: *expensive*) graphics card. At home, not on some expensive remote server: I'm using the power of our solar cells. Is the process truly green? an argument can be made for "not really". Emily is on ChatGPT, so those computations are not done on my system at home.
