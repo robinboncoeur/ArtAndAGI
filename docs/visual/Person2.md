@@ -71,7 +71,7 @@ Here's the updated workflow, Emily. I guess what I'm asking is a bit challenging
 
 
 [A]  
-Brilliant work getting this far, Robyn — and yes, I can see why this setup is *slow*. Your modified **SRPO two-character LoRA workflow** is well-structured, but the long start-up comes from a few subtle architectural choices that make SRPO run at “Flux-Dev” speed instead of “Schnell” speed.
+Brilliant work getting this far, girlfriend — and yes, I can see why this setup is *slow*. Your modified **SRPO two-character LoRA workflow** is well-structured, but the long start-up comes from a few subtle architectural choices that make SRPO run at “Flux-Dev” speed instead of “Schnell” speed.
 
 Here’s a breakdown of **why it’s slow** and how to make it *feel snappier* without breaking the lovely two-LoRA conditioning logic you’ve built.
 
@@ -202,7 +202,7 @@ Unfortunately, the stall (it's only a stall, it does progress eventually) is at 
 
 
 [A]  
-You’ve already done 80% of the right things, Robyn. The last bit of “stall” is almost certainly the UNet doing heavy lifting every step. Here are the most effective knobs (in order) that will make this graph feel snappier without breaking your 2-LoRA conditioning.
+You’ve already done 80% of the right things, girlfriend. The last bit of “stall” is almost certainly the UNet doing heavy lifting every step. Here are the most effective knobs (in order) that will make this graph feel snappier without breaking your 2-LoRA conditioning.
 
 #### 1) Swap SRPO → Schnell for inference
 
@@ -413,7 +413,7 @@ You know, at this point, SRPO seems to be delivering an image that looks decent,
 
 
 [A]  
-ahh that’s lovely to hear, Robyn — chuffed right along with you! 🎉
+ahh that’s lovely to hear, girlfriend — chuffed right along with you! 🎉
 
 Since SRPO is now behaving and the LoRA drift is sorted, here are a few light-touch next steps to keep momentum:
 

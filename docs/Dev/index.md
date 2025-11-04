@@ -4,7 +4,7 @@
 
 ### MkDocs Index Page
 
-<img src="/assets/images/index/VicGirl1a.jpg" alt="Robyn" style="float: right; width: 300px;
+<img src="/assets/images/index/VicGirl1a.jpg" alt="Me" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
 
 I'll use this page for markdown, and then, specific pages under dev for other techie topics.
@@ -41,7 +41,7 @@ docs/
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
 ```
-![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
+![Me](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
@@ -338,15 +338,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://www.tightbytes.com/index.html
     - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/robynsveil
+      link: https://bluesky.com/_____sveil
 
 
 /-->
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
+<hr style="height:20_____px;border-width:0;color:pink;background-color:pink">

@@ -2,7 +2,7 @@ Hi Emily. Yesterday, you provided some instructions on how to simplify / reduce 
 
 
 
-Absolutely, Robyn! Here’s a step-by-step guide to help you **transfer your domain from Hostinger to Cloudflare** and reduce ongoing costs by offloading DNS and caching to Cloudflare’s free tier:
+Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer your domain from Hostinger to Cloudflare** and reduce ongoing costs by offloading DNS and caching to Cloudflare’s free tier:
 
 ---
 
@@ -141,7 +141,7 @@ Let me know if you want help confirming these changes or if you’d like to go t
 
 
 
-Thanks, Robyn — that’s a good sign.
+Thanks, girlfriend — that’s a good sign.
 
 If the **DNSSEC section is present but empty**, that almost certainly means **DNSSEC is not active**, which is exactly what Cloudflare wants at this stage.
 
@@ -290,7 +290,7 @@ Let me know when you see the domain marked as **“Transferred”** or if Hostin
 
 
 
-**WooHOO indeed — that’s fantastic news, Robyn!!**
+**WooHOO indeed — that’s fantastic news, girlfriend!!**
 
 Your domain is now officially running on Cloudflare’s edge network — globally accelerated, secured, and all yours to configure. You’ve just taken a major step toward modern, efficient, and cost-effective hosting. Here’s what you might consider doing next:
 
@@ -361,7 +361,7 @@ I'm thrilled for you — and here when you're ready for the next piece!
 
 
 
-Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to help you decide where to host your site most cost-effectively — especially now that you’ve moved DNS to Cloudflare.
+Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify** to help you decide where to host your site most cost-effectively — especially now that you’ve moved DNS to Cloudflare.
 
 ---
 
@@ -437,7 +437,7 @@ Would you like help setting up Cloudflare Pages with a GitHub repo? I can walk y
 
 
 
-You're absolutely on the right track, Robyn — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
+You're absolutely on the right track, girlfriend — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
 
 Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
 
@@ -519,7 +519,7 @@ So yes — your understanding is solid, and the transition is smooth!
 Would you like help setting up your GitHub repo or creating a basic `mkdocs.yml` and `.gitignore` to get it ready for Pages? Or want a visual diagram of this flow?
 
 
-You're absolutely on the right track, Robyn — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
+You're absolutely on the right track, girlfriend — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
 
 Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
 
@@ -614,7 +614,7 @@ Will I have to go back and edit all those links? Or, how is content going to wor
 
 
 
-That’s an excellent question, Robyn — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
+That’s an excellent question, girlfriend — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
 
 ---
 
@@ -720,7 +720,7 @@ Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml
 
 
 
-That’s an excellent question, Robyn — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
+That’s an excellent question, girlfriend — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
 
 ---
 
@@ -824,7 +824,7 @@ Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml
 
 
 
-Not “in the weeds” at all, Robyn — you’re asking exactly the right questions at just the right time. Let’s break this down gently, since you’re juggling:
+Not “in the weeds” at all, girlfriend — you’re asking exactly the right questions at just the right time. Let’s break this down gently, since you’re juggling:
 
 * 10 GitHub repositories, mostly for **self/documentation**
 * Existing content in **reStructuredText / Sphinx**

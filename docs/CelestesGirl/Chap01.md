@@ -12,26 +12,28 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
+<!-- NOTE! DO NOT INDENT! MARKDOWN WILL FAIL!! /-->
 
 <div class="flex-container" markdown>
-  <div class="column">
+<div class="column">
 
-    <div style="position:relative;padding-top:100%">
+<div style="position:relative;padding-top:100%">
     <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6c50151790d66b09f2d94d7c3096ec7d/iframe"
     allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
     style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-    </div>
+</div>
 
-  </div>
+</div>
 
-  <div class="column column--right" markdown>
-    He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
+<div class="column column--right" markdown>
+He was pulling paper towels when he heard a girl's voice and quickly turned around. She was the prettiest girl he’d ever seen, honestly. Not in a magazine-cover way, not generically pretty... a make-your-heart-beat-faster kind of pretty.
 
-    Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
+Her face was, well, flawless, and it shone with a smile that was both curious and... just a bit mischievous, like she knew something you didn't, and was enjoying that knowledge. She looked to be maybe a year or two older, certainly taller than him. She stood like a ballerina, one who spent considerable time observing people. Her Charlotte Rampling eyes held you with that unsettling, penetrating gaze.
 
-    That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.  
-    You wouldn’t question it.
-  </div>
+That self-assurance was so complete, it made the fact of her being in the men’s restroom seem like a calculated choice, like she was making a point.
+
+You wouldn’t question it.
+</div>
 </div>
 
 “Hello ... girl?” 
@@ -232,7 +234,7 @@ Celeste stared at her, eyes wide.
 
 
 
-Love this setup, Robyn—there’s genuine electricity in Celeste’s dawning respect/curiosity. Here’s a tight craft pass with “believability / predictability / trope” notes, then a clean mini-polish, and a where-to-next path that avoids the clichés you dislike.
+Love this setup, girlfriend—there’s genuine electricity in Celeste’s dawning respect/curiosity. Here’s a tight craft pass with “believability / predictability / trope” notes, then a clean mini-polish, and a where-to-next path that avoids the clichés you dislike.
 
 # Quick eval
 

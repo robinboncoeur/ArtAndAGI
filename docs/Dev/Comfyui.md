@@ -2,7 +2,7 @@
 
 ## Dataset Training
 
-Hey Robyn! Great project. Here’s a solid, no-drama plan to get a clean, controllable **character LoRA** out of FluxGym.
+Hey girlfriend! Great project. Here’s a solid, no-drama plan to get a clean, controllable **character LoRA** out of FluxGym.
 
 ### 1) LoRA should learn
 
@@ -204,7 +204,7 @@ If you want, tell me your GPU VRAM and I’ll suggest a max-bucket and batch siz
 
 ...for your dataset
 
-Robyn, a **4060 Ti 16 GB** is a sweet spot for LoRA training. Here’s how it should shape your dataset and settings:
+girlfriend, a **4060 Ti 16 GB** is a sweet spot for LoRA training. Here’s how it should shape your dataset and settings:
 
 * **You can keep mixed aspect ratios** (e.g., 1024×1024 with 1216×832) and use **aspect-ratio buckets**. No need to force everything square.
 * You can comfortably train at **max bucket 1024**; **1152** is also realistic if you keep batch sensible. Only drop big panoramic outliers that make faces tiny.
@@ -303,7 +303,7 @@ If you want, tell me whether you prefer the **Comfort** or **Detail** profile an
 
 (Comfort profile, 4060 Ti 16 GB)
 
-Robyn, here’s a **ready-to-paste Comfort profile** plus a quick **bucket sanity** checklist so you can roll right in FluxGym.
+girlfriend, here’s a **ready-to-paste Comfort profile** plus a quick **bucket sanity** checklist so you can roll right in FluxGym.
 
 **Save as `config.yaml` (edit the paths and trigger/class tokens to taste):**
 
@@ -408,7 +408,7 @@ If you want, paste 10–15 filenames and I’ll draft the first batch of caption
 
 ---
 
-Love it, Robyn. Here’s a **clean, identity-safe positive prompt** you can drop into Gwen Image Edit 2509 to generate dataset-ready variants from a single photo. It sticks to natural language and avoids baking in clothes/backgrounds while nudging for realism and face fidelity.
+Love it, girlfriend. Here’s a **clean, identity-safe positive prompt** you can drop into Gwen Image Edit 2509 to generate dataset-ready variants from a single photo. It sticks to natural language and avoids baking in clothes/backgrounds while nudging for realism and face fidelity.
 
 **Master positive prompt**
 
@@ -567,7 +567,7 @@ k
 
 ## A GIMP TL;DR
 
-You’ve got it right, Robyn. In ComfyUI the Mask Editor exports a **PNG with alpha** where the **transparent pixels are the masked (editable) region**. You can absolutely round-trip that PNG through GIMP, feather the edge, and bring it back into ComfyUI. Here’s the tidy version with the few “gotchas” that matter.
+You’ve got it right, girlfriend. In ComfyUI the Mask Editor exports a **PNG with alpha** where the **transparent pixels are the masked (editable) region**. You can absolutely round-trip that PNG through GIMP, feather the edge, and bring it back into ComfyUI. Here’s the tidy version with the few “gotchas” that matter.
 
 * **Yes:** Edit the mask in GIMP by working on the **alpha** (or a **layer mask**), feather/blur it, and **export PNG with alpha**.
 * **In ComfyUI:** Load the PNG → **Mask from Alpha** → (optional **Invert / Grow / Erode / Blur Mask**) → feed to your **Inpaint** node.
@@ -741,7 +741,7 @@ Bottom line: small sets are fine for **narrow, repeatable use** (and with ID gui
 
 ## “Robustifier” add-on
 
-You’re a star, Robyn. Let’s lock in a robust LoRA with a tight, surgical plan so you don’t overshoot.
+You’re a star, girlfriend. Let’s lock in a robust LoRA with a tight, surgical plan so you don’t overshoot.
 
 **(≈36 shots)**
 
@@ -837,7 +837,7 @@ Run the same set on each checkpoint:
 
 ## ReActor
 
-Totally okay with ReActor, Robyn—especially since you’re swapping **your own** face and aiming for a believable, adult younger-you. The key is: use ReActor for the **identity transform** (age-regressive + feminization) and then either (a) go straight to dataset, or (b) lightly refine with Flux. Below is a robust, low-drift path that keeps you out of adapter/shape-mismatch trouble.
+Totally okay with ReActor, girlfriend—especially since you’re swapping **your own** face and aiming for a believable, adult younger-you. The key is: use ReActor for the **identity transform** (age-regressive + feminization) and then either (a) go straight to dataset, or (b) lightly refine with Flux. Below is a robust, low-drift path that keeps you out of adapter/shape-mismatch trouble.
 
 ---
 
@@ -953,12 +953,12 @@ If you want the final dataset to sit closer to Flux’s “look,” do a light *
 
 **(short, identity-first)**
 
-Create a sidecar `.txt` per image. Start with your trigger (e.g., `[robyngrl]`) and keep it consistent:
+Create a sidecar `.txt` per image. Start with your trigger (e.g., `[girlfriendgrl]`) and keep it consistent:
 
-* `[robyngrl], natural-light close-up, hazel eyes, chest-length dark hair, soft freckles, rounded chin, smooth browbone, relaxed expression.`
-* `[robyngrl], three-quarter view portrait, window light with bounce, neutral background.`
-* `[robyngrl], half-body standing, casual outfit, soft studio light.`
-* `[robyngrl], profile portrait, open shade.`
+* `[girlfriendgrl], natural-light close-up, hazel eyes, chest-length dark hair, soft freckles, rounded chin, smooth browbone, relaxed expression.`
+* `[girlfriendgrl], three-quarter view portrait, window light with bounce, neutral background.`
+* `[girlfriendgrl], half-body standing, casual outfit, soft studio light.`
+* `[girlfriendgrl], profile portrait, open shade.`
 
 Avoid brand/color specifics; never mention non-canonical features.
 

@@ -53,7 +53,7 @@ for yaml
 extra:
   social:
     - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/robynsveil
+      link: https://bluesky.com/_____sveil
     - icon: fontawesome/brands/github
       link: https://www.tightbytes.com/index.html
 

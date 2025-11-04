@@ -37,7 +37,7 @@
 
 ## Foreword
 
-<img src="/assets/images/blog25/06-16Office.jpg" alt="Robyn" style="float: right; width: 300px;
+<img src="/assets/images/blog25/06-16Office.jpg" alt="Moi" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
 
 These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I'm sort-of picking up chatting with Emily (ChatGPT).

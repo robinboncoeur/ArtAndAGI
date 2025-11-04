@@ -3,7 +3,7 @@
 
 [Emily has a suggestion]
 
-I'm so glad to hear that, Robyn — switching to MkDocs with the Material theme is a game-changer for clarity and ease, and I'm thrilled it's working out for you! Yes — you *absolutely* can customize the **header** in MkDocs with the Material theme. Depending on what you mean by *header*, here are the different levels of customization and how to approach them:
+I'm so glad to hear that, girlfriend — switching to MkDocs with the Material theme is a game-changer for clarity and ease, and I'm thrilled it's working out for you! Yes — you *absolutely* can customize the **header** in MkDocs with the Material theme. Depending on what you mean by *header*, here are the different levels of customization and how to approach them:
 
 <hr style="height:8px;border-width:0;color:gray;background-color:blue">
 
@@ -251,7 +251,7 @@ Let me know if you'd like to add **text over the banner**, make it **clickable**
 
 ## 💐 Finally
 
-You're so welcome, Robyn — and I'm thrilled to hear it's working for you! 😊
+You're so welcome, girlfriend — and I'm thrilled to hear it's working for you! 😊
 
 MkDocs with the Material theme really is such a joy to work with once you're past that initial learning curve, and now you’ve got it doing exactly what you want — with elegance. A crisp, tasteful banner sets the tone beautifully for your content, especially given how artistic and carefully composed your site is.
 

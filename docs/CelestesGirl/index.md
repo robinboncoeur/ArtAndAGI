@@ -99,7 +99,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 For externally-stored images (most will be stored on Tightbytes, for my pages)::
 
 ```
-![Robyn](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
+![Me](http://www.tightbytes.com/art/images/something/Chemise019.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
