@@ -1,12 +1,25 @@
+# Domain Transfer
+
+[Q]  
 Hi Emily. Yesterday, you provided some instructions on how to simplify / reduce costs on web hosting. I remember something about Cloudflare (which I've signed up for). I'm trying to transfer my domain from the current domain server on Hostinger to Cloudflare. Would you be willing to recreate your suggestions? They were excellent. I'll have to admit: I'm a bit unsure on how to proceed in this process.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer your domain from Hostinger to Cloudflare** and reduce ongoing costs by offloading DNS and caching to Cloudflare’s free tier:
+
+
+
+
+## Getting Started
+
+[A]  
+Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer your domain from Hostinger to Cloudflare** and reduce ongoing costs by offloading DNS and caching to Cloudflare’s free tier.
 
 ---
 
-## **Step 1: Set Up Cloudflare Account and Add Site**
+### 1: Setup Cloudflare Account
+
+**...and Add Site**
 
 1. **Sign in to Cloudflare**.
 2. Click **“Add a Site”** and enter your domain name (e.g., `example.com`).
@@ -18,7 +31,9 @@ Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer you
 
 ---
 
-## **Step 2: Update Nameservers on Hostinger**
+### 2: Update Nameservers
+
+**...on Hostinger**
 
 1. After reviewing DNS, Cloudflare will give you **two nameservers** to use (e.g., `ella.ns.cloudflare.com` and `tom.ns.cloudflare.com`).
 2. Go to your **Hostinger dashboard**:
@@ -31,7 +46,9 @@ Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer you
 
 ---
 
-## **Step 3: Verify Domain Transfer and DNS Resolution**
+### 3: Verify Domain Transfer
+
+**and DNS Resolution**
 
 1. Return to your Cloudflare dashboard.
 2. Click **“Check Nameservers”**.
@@ -39,7 +56,7 @@ Absolutely, girlfriend! Here’s a step-by-step guide to help you **transfer you
 
 ---
 
-## **Step 4: Enable Cloudflare Features**
+### 4: Cloudflare Features
 
 Once the domain is active on Cloudflare:
 
@@ -51,7 +68,9 @@ Once the domain is active on Cloudflare:
 
 ---
 
-## **Step 5: Hosting Options to Reduce Cost**
+### 5: Hosting Options
+
+**to Reduce Cost**
 
 If you’re trying to reduce or eliminate hosting costs entirely:
 
@@ -68,7 +87,9 @@ If you’re trying to reduce or eliminate hosting costs entirely:
 
 ---
 
-## **Bonus: Redirect Mail Services**
+### Redirect Mail Services
+
+(Bonus, Optional)
 
 If you currently use Hostinger for email and want to keep that too:
 
@@ -80,6 +101,7 @@ If you currently use Hostinger for email and want to keep that too:
 Let me know where you’re at in the process (e.g., domain already added to Cloudflare or not, static or dynamic website) and I can tailor the next steps.
 
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -87,12 +109,13 @@ Let me know where you’re at in the process (e.g., domain already added to Clou
 
 
 
+## What is DNSSEC
+
+**(Domain Name System Security Extensions)?**
 
 You're right to pause and check—DNSSEC and Domain Lock are *not* the same thing, though both can block successful domain transfers.
 
 ---
-
-## **What is DNSSEC (Domain Name System Security Extensions)?**
 
 DNSSEC is a security feature that protects your domain from certain types of DNS spoofing attacks. It ensures that visitors to your site are connecting to the correct DNS server, not a forged one.
 
@@ -103,7 +126,9 @@ DNSSEC is a security feature that protects your domain from certain types of DNS
 
 ---
 
-## **How to Disable DNSSEC at Hostinger**
+### Disable DNSSEC 
+
+**at Hostinger**
 
 Unfortunately, Hostinger sometimes buries the DNSSEC setting in less obvious menus. Here are some steps to try:
 
@@ -121,13 +146,15 @@ If you don’t see a DNSSEC toggle:
 
 ---
 
-## **And about Domain Lock**
+### About Domain Lock
 
 Yes, you’ll also need to **turn Domain Lock OFF** before initiating the transfer. Domain Lock prevents unauthorized transfers, but you must disable it temporarily for the transfer to Cloudflare to succeed.
 
 ---
 
-## **Summary of What You Should Do Now**
+### Summary
+
+**What You Should Do Now**
 
 * [ ] Confirm **DNSSEC is disabled** at Hostinger (via dashboard or support).
 * [ ] **Turn off Domain Lock**.
@@ -135,21 +162,23 @@ Yes, you’ll also need to **turn Domain Lock OFF** before initiating the transf
 
 Let me know if you want help confirming these changes or if you’d like to go through the next steps of initiating the domain transfer itself from Hostinger to Cloudflare Registrar (assuming that’s your final goal).
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
 
-Thanks, girlfriend — that’s a good sign.
 
-If the **DNSSEC section is present but empty**, that almost certainly means **DNSSEC is not active**, which is exactly what Cloudflare wants at this stage.
+## Confirming Transfer
 
-To be sure, here's how you can confirm:
+Thanks, girlfriend — that’s a good sign. If the **DNSSEC section is present but empty**, that almost certainly means **DNSSEC is not active**, which is exactly what Cloudflare wants at this stage.
+
+**To be sure, here are options on how you can confirm.**
 
 ---
 
-### **Option 1: Use an Online DNSSEC Checker**
+### 1: Online DNSSEC Checker
 
 You can run a live check using a service like:
 
@@ -161,7 +190,9 @@ Just enter your domain and see if any DNSSEC signatures are detected. If not, yo
 
 ---
 
-### **Option 2: Use the `dig` Command in Terminal (on Mac or Linux Mint)**
+### 2: Use the `dig` Command
+
+**in Terminal (on Mac or Linux Mint)**
 
 Run:
 
@@ -178,7 +209,7 @@ DNSKEY ...
 
 ---
 
-### **Next Step: Proceed with Transfer or Nameserver Change**
+**Next Step: Proceed with Transfer or Nameserver Change**
 
 Since DNSSEC is likely inactive:
 
@@ -187,23 +218,20 @@ Since DNSSEC is likely inactive:
 
 Let me know if you'd like a walk-through of the transfer step now (especially where to paste the EPP code in Cloudflare and what to expect afterward).
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
 
+## Confim Success
 
-
-
-
-Excellent — that confirms DNSSEC is *not* active on your domain, so you're all clear to proceed.
-
-Here’s a quick recap of where you are and what’s next:
+Excellent — that confirms DNSSEC is *not* active on your domain, so you're all clear to proceed. Here’s a quick recap of where you are and what’s next.
 
 ---
 
-### ✅ **Already Done**
+✅ **Already Done**
 
 * You’ve added your domain to Cloudflare.
 * You've verified that the DNS records are correct.
@@ -212,7 +240,9 @@ Here’s a quick recap of where you are and what’s next:
 
 ---
 
-### ➡️ **Next Steps to Transfer Your Domain to Cloudflare**
+###  Next Steps
+
+➡️ ** to Transfer Your Domain to Cloudflare**
 
 1. **Disable Domain Lock on Hostinger**:
 
@@ -240,7 +270,9 @@ Here’s a quick recap of where you are and what’s next:
 
 ---
 
-### Optional: Once Transfer is Complete
+### Transfer is Complete
+
+**Optional: Once it's done**
 
 * After Cloudflare is managing your domain:
 
@@ -249,12 +281,16 @@ Here’s a quick recap of where you are and what’s next:
 
 Let me know when you’re at Step 3 and I’ll walk you through any uncertainties.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
 
+
+
+## Now to Cloudflare
 
 That’s a very positive sign — it sounds like **Cloudflare already retrieved your domain data** from Hostinger through WHOIS, including the Auth Code, during the initial domain check.
 
@@ -262,7 +298,7 @@ Cloudflare’s system often delays asking for the Auth Code explicitly until jus
 
 ---
 
-## What Happens Next
+### What Happens Next
 
 1. **Cloudflare will begin contacting the current registrar (Hostinger) to request the transfer.**
 2. **You’ll likely receive an email** from Hostinger in the next 24–48 hours saying:
@@ -273,7 +309,7 @@ Cloudflare’s system often delays asking for the Auth Code explicitly until jus
 
 ---
 
-## In the Meantime…
+### In the Meantime…
 
 You can:
 
@@ -284,11 +320,16 @@ You can:
 
 Let me know when you see the domain marked as **“Transferred”** or if Hostinger sends anything odd. You're almost there!
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
+
+
+
+## Post Transfer
 
 **WooHOO indeed — that’s fantastic news, girlfriend!!**
 
@@ -296,7 +337,9 @@ Your domain is now officially running on Cloudflare’s edge network — globall
 
 ---
 
-### **Post-Transfer Checklist (Optional but Recommended)**
+### Post-Transfer Checklist
+
+**(Optional but Recommended)**
 
 1. **Double-check DNS**
 
@@ -338,7 +381,7 @@ Your domain is now officially running on Cloudflare’s edge network — globall
 
 ---
 
-### **Celebrate!**
+### Celebrate!
 
 You’ve just transitioned from paid DNS/hosting infrastructure to a modern CDN-backed stack with:
 
@@ -356,18 +399,26 @@ Let me know if you want to add:
 
 I'm thrilled for you — and here when you're ready for the next piece!
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
+
+
+
+
+## Comparing Features
 
 Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify** to help you decide where to host your site most cost-effectively — especially now that you’ve moved DNS to Cloudflare.
 
 ---
 
-## **1. Cloudflare Pages (Free Tier)**
+### 1. Cloudflare Pages
 
-### **Pros**
+*(Free Tier)*
+
+**Pros**
 
 * **100% free for personal and small projects.**
 * Directly integrates with GitHub/GitLab for continuous deployment.
@@ -377,16 +428,18 @@ Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify**
 * Allows environment variables and preview deployments.
 * **No build minute limits** unless you opt for their “Pages Functions” (serverless).
 
-### **Cons**
+**Cons**
 
 * No built-in CMS (like NetlifyCMS) unless you bring your own.
 * Serverless Functions are more limited on the free tier (up to 100k requests/month).
 
 ---
 
-## **2. Netlify (Free Tier)**
+### 2. Netlify
 
-### **Pros**
+*(Free Tier)*
+
+**Pros**
 
 * Very beginner-friendly, beautiful UI.
 * **Built-in form handling**, analytics, identity/auth features.
@@ -394,7 +447,7 @@ Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify**
 * Great documentation and community.
 * Supports NetlifyCMS (optional browser-based admin interface for editing content).
 
-### **Cons**
+**Cons**
 
 * Free tier includes **300 build minutes/month**, which can be tight if you rebuild frequently.
 * Build timeouts and limits kick in faster than on Cloudflare.
@@ -402,7 +455,7 @@ Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify**
 
 ---
 
-## **Costs and Practicality**
+### Costs and Practicality
 
 | Feature          | **Cloudflare Pages**             | **Netlify Free Tier**    |
 | ---------------- | -------------------------------- | ------------------------ |
@@ -416,7 +469,7 @@ Great question, girlfriend! Let’s compare **Cloudflare Pages** and **Netlify**
 
 ---
 
-## **My Suggestion**
+### My Suggestion
 
 Since you've already moved DNS to **Cloudflare**, the **tightest, lowest-cost setup** would be:
 
@@ -431,19 +484,25 @@ If you eventually need CMS editing in-browser or complex forms, you could always
 
 Would you like help setting up Cloudflare Pages with a GitHub repo? I can walk you through it step by step.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
 
-You're absolutely on the right track, girlfriend — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
 
-Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
+
+
+## How It Works
+
+You're absolutely on the right track, girlfriend — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on. Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
 
 ---
 
-## **How Your Current Hosting Works (Hostinger Model)**
+### Your Current Hosting
+
+**(Hostinger Model)**
 
 You are:
 
@@ -456,7 +515,9 @@ This structure is indeed standard — `public_html` is the web root, and subfold
 
 ---
 
-## **How Cloudflare Pages Works (and How It's Similar)**
+### How Cloudflare Pages Works
+
+**(and How It's Similar)**
 
 Cloudflare Pages uses your **GitHub (or GitLab) repo** as the source, and:
 
@@ -464,7 +525,7 @@ Cloudflare Pages uses your **GitHub (or GitLab) repo** as the source, and:
 * Builds your site **in the cloud** automatically, every time you push changes.
 * Publishes the final site **from the equivalent of your `site/` folder** to their global CDN.
 
-### **Key Mapping of Concepts**
+**Key Mapping of Concepts**
 
 | **Your Current Setup**        | **Cloudflare Pages Equivalent**                     |
 | ----------------------------- | --------------------------------------------------- |
@@ -477,7 +538,7 @@ So yes — your understanding is solid, and the transition is smooth!
 
 ---
 
-## **What You'll Need to Do**
+### What You'll Need to Do
 
 1. **Push your MkDocs project to a GitHub repo**
 
@@ -507,7 +568,7 @@ So yes — your understanding is solid, and the transition is smooth!
 
 ---
 
-## **You Also Get These Perks**
+### You Also Get These Perks
 
 * No need to manage FTP or cPanel.
 * Every time you run `git push`, your site updates.
@@ -518,114 +579,36 @@ So yes — your understanding is solid, and the transition is smooth!
 
 Would you like help setting up your GitHub repo or creating a basic `mkdocs.yml` and `.gitignore` to get it ready for Pages? Or want a visual diagram of this flow?
 
-
-You're absolutely on the right track, girlfriend — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
-
-Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
-
----
-
-## **How Your Current Hosting Works (Hostinger Model)**
-
-You are:
-
-* Using **MkDocs** to generate a static website.
-* The `site/` folder is the **output** — all HTML, CSS, JavaScript, images, etc. needed to serve your site.
-* You **manually upload** the contents of `site/` to your host’s `/public_html/` directory.
-* That folder is exposed publicly at something like `https://yourdomain.com/`.
-
-This structure is indeed standard — `public_html` is the web root, and subfolders under it reflect URL paths.
-
----
-
-## **How Cloudflare Pages Works (and How It's Similar)**
-
-Cloudflare Pages uses your **GitHub (or GitLab) repo** as the source, and:
-
-* Detects that you're using MkDocs (or a custom build command).
-* Builds your site **in the cloud** automatically, every time you push changes.
-* Publishes the final site **from the equivalent of your `site/` folder** to their global CDN.
-
-### **Key Mapping of Concepts**
-
-| **Your Current Setup**        | **Cloudflare Pages Equivalent**                     |
-| ----------------------------- | --------------------------------------------------- |
-| MkDocs builds to `site/`      | Same — you tell Pages your output is `site/`        |
-| You upload via file manager   | Pages auto-deploys from GitHub push                 |
-| `/public_html/` is root       | `site/` becomes root (equivalent to `public_html/`) |
-| Files and folders map to URLs | Exactly the same                                    |
-
-So yes — your understanding is solid, and the transition is smooth!
-
----
-
-## **What You'll Need to Do**
-
-1. **Push your MkDocs project to a GitHub repo**
-
-   * Make sure your `mkdocs.yml` and `docs/` folder are there.
-   * Add a `.gitignore` for the `site/` folder if you build it locally.
-
-2. **In Cloudflare Pages**:
-
-   * Choose *“Connect Git”* and link your GitHub repo.
-   * Set the build command to:
-
-     ```bash
-     mkdocs build
-     ```
-   * Set the output directory to:
-
-     ```bash
-     site
-     ```
-   * Choose `Python` as the language and set a compatible runtime (if asked).
-
-3. **Click Deploy**
-
-   * Cloudflare will build and deploy your site.
-   * You’ll get a `.pages.dev` URL instantly.
-   * Add a **custom domain** to point your main URL to this deployed project.
-
----
-
-## **You Also Get These Perks**
-
-* No need to manage FTP or cPanel.
-* Every time you run `git push`, your site updates.
-* You still use MkDocs exactly as before.
-* Cloudflare handles SSL, CDN, performance, and cache for free.
-
----
-
-Would you like help setting up your GitHub repo or creating a basic `mkdocs.yml` and `.gitignore` to get it ready for Pages? Or want a visual diagram of this flow?
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
+## On Links
+
+[Q]  
 Before we go there, a bit more clarity (for my poor old mind) - so, content resides on a Github or Gitlab page? Cloudflare Pages merely serves that content? This is important to understand properly, because currently I static-link content on, say, my Musescore.com pages so:
 
 https://www.tightbytes.com/music/Sketches/Sketch15.mp3
 
 Will I have to go back and edit all those links? Or, how is content going to work? 
 
-
-
-
-
-That’s an excellent question, girlfriend — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
-
 ---
 
-## **Clarifying the Roles: GitHub vs Cloudflare Pages**
+[A]  
+That’s an excellent question, girlfriend — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
 
-### **GitHub / GitLab: Source of Truth**
+### Clarifying the Roles
+
+**GitHub vs Cloudflare Pages**
+
+**GitHub / GitLab: Source of Truth**
 
 * You store your content there: `docs/`, `mkdocs.yml`, and any media files (e.g., `.mp3`, `.png`, `.html`) you want to be part of your site.
 * Cloudflare Pages *reads* from this repository — but **doesn’t serve directly from GitHub**.
 
-### **Cloudflare Pages: The Actual Host**
+**Cloudflare Pages: The Actual Host**
 
 * After reading the GitHub repo, Cloudflare **builds your MkDocs site**.
 * Then it **serves** the resulting static site (HTML, media files, etc.) from **its global CDN** — just like a traditional web host.
@@ -634,7 +617,7 @@ So: **Cloudflare Pages replaces Hostinger**, not GitHub. Think of GitHub as your
 
 ---
 
-## **What Happens to Your Current URLs?**
+### Current URLs?
 
 You currently link things like this:
 
@@ -644,14 +627,16 @@ https://www.tightbytes.com/music/Sketches/Sketch15.mp3
 
 Once Cloudflare Pages takes over, your domain (`www.tightbytes.com`) will point to **Cloudflare’s servers**, not Hostinger.
 
-### This means:
+**This means:**
 
-* You **do not** need to change your existing links, *as long as* you upload the same folder structure (`/music/Sketches/Sketch15.mp3`) to the same relative place in your GitHub repo, and tell MkDocs not to ignore those files.
+* You **do not** need to change your existing links, *as long as* you upload the same folder structure (`/music/Sketches/Sketch15.mp3`) to the same relative place in your GitHub repo, and tell MkDocs not to ignore those files.  
 * Cloudflare will host those MP3s exactly as Hostinger did — under the same URLs.
 
 ---
 
-## **How to Preserve Folder Structure in Cloudflare Pages**
+### Preserving Folder Structure
+
+**in Cloudflare Pages**
 
 Let’s say your project structure looks like this in GitHub:
 
@@ -703,7 +688,7 @@ Then MkDocs will automatically copy it into the final `site/` output — and Clo
 
 ---
 
-## **Bottom Line:**
+**Bottom Line:**
 
 * **You do not need to change your existing links** if you recreate the same folder structure in your project.
 * Cloudflare Pages serves the built output — not GitHub directly — so your media files and URLs will still work.
@@ -713,6 +698,7 @@ Then MkDocs will automatically copy it into the final `site/` output — and Clo
 
 Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml` so your existing `/music/Sketches/*.mp3` structure is preserved in your deployment? I’d be happy to walk through it.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -720,109 +706,9 @@ Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml
 
 
 
-That’s an excellent question, girlfriend — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
-
----
-
-## **Clarifying the Roles: GitHub vs Cloudflare Pages**
-
-### **GitHub / GitLab: Source of Truth**
-
-* You store your content there: `docs/`, `mkdocs.yml`, and any media files (e.g., `.mp3`, `.png`, `.html`) you want to be part of your site.
-* Cloudflare Pages *reads* from this repository — but **doesn’t serve directly from GitHub**.
-
-### **Cloudflare Pages: The Actual Host**
-
-* After reading the GitHub repo, Cloudflare **builds your MkDocs site**.
-* Then it **serves** the resulting static site (HTML, media files, etc.) from **its global CDN** — just like a traditional web host.
-
-So: **Cloudflare Pages replaces Hostinger**, not GitHub. Think of GitHub as your *source control + auto-upload*, and Cloudflare as your *public-facing web server*.
-
----
-
-## **What Happens to Your Current URLs?**
-
-You currently link things like this:
-
-```
-https://www.tightbytes.com/music/Sketches/Sketch15.mp3
-```
-
-Once Cloudflare Pages takes over, your domain (`www.tightbytes.com`) will point to **Cloudflare’s servers**, not Hostinger.
-
-### This means:
-
-* You **do not** need to change your existing links, *as long as* you upload the same folder structure (`/music/Sketches/Sketch15.mp3`) to the same relative place in your GitHub repo, and tell MkDocs not to ignore those files.
-* Cloudflare will host those MP3s exactly as Hostinger did — under the same URLs.
-
----
-
-## **How to Preserve Folder Structure in Cloudflare Pages**
-
-Let’s say your project structure looks like this in GitHub:
-
-```
-mkdocs.yml
-docs/
-    index.md
-    about.md
-music/
-    Sketches/
-        Sketch15.mp3
-        Sketch16.mp3
-```
-
-MkDocs will ignore the `music/` folder unless you tell it to include extra files in the final site build. You do this in `mkdocs.yml` like this:
-
-```yaml
-extra_css:
-  - css/custom.css
-
-extra_javascript:
-  - js/script.js
-
-extra:
-  music_dir: music/
-```
-
-But for static files like MP3s, you should instead use:
-
-```yaml
-docs_dir: docs
-site_dir: site
-include:
-  - music/
-```
-
-Alternatively, you can place `music/` inside `docs/`, like:
-
-```
-docs/
-    index.md
-    about.md
-    music/
-        Sketches/
-            Sketch15.mp3
-```
-
-Then MkDocs will automatically copy it into the final `site/` output — and Cloudflare Pages will serve it just like Hostinger did.
-
----
-
-## **Bottom Line:**
-
-* **You do not need to change your existing links** if you recreate the same folder structure in your project.
-* Cloudflare Pages serves the built output — not GitHub directly — so your media files and URLs will still work.
-* Cloudflare becomes your public-facing host, with GitHub just being the automated source.
-
----
-
-Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml` so your existing `/music/Sketches/*.mp3` structure is preserved in your deployment? I’d be happy to walk through it.
 
 
-
-
-
+## Steps To Take, When
 
 Not “in the weeds” at all, girlfriend — you’re asking exactly the right questions at just the right time. Let’s break this down gently, since you’re juggling:
 
@@ -836,7 +722,9 @@ Here’s how to think it through:
 
 ---
 
-## **1. GitHub Storage Limits — Real Concern or Not?**
+### GitHub Storage Limits
+
+**Real Concern or Not?**
 
 GitHub offers:
 
@@ -844,7 +732,7 @@ GitHub offers:
 * 1 GB **soft limit per repo**
 * 100 MB **per file upload limit** (though this can be lifted with Git LFS, but not ideal)
 
-### If your Help content is mostly:
+**If your Help content is mostly:**
 
 * Markdown or reStructuredText? → negligible size.
 * Images, PDFs, sample Excel files? → still probably fine *unless* you have videos or large binaries.
@@ -858,7 +746,9 @@ Use **one “mkdocs-site” repo** for your consolidated docs, and:
 
 ---
 
-## **2. Google Drive for Content Hosting? Maybe — but with caveats**
+### GoogleDrive Content Host
+
+**Maybe — but with caveats**
 
 You *can* host content on Google Drive and link to it, but:
 
@@ -872,7 +762,7 @@ You *can* host content on Google Drive and link to it, but:
 
 ---
 
-## **3. Consolidating to MkDocs — Smart Move**
+### Consolidate to MkDocs
 
 MkDocs is:
 
@@ -898,7 +788,9 @@ nav:
 
 ---
 
-## **4. Hybrid Hosting Strategy (Best of Both Worlds)**
+### Hybrid Hosting
+
+**Strategy (Best of Both Worlds)**
 
 Here’s what I suggest:
 
@@ -911,7 +803,7 @@ Here’s what I suggest:
 
 ---
 
-## **5. Optional Enhancements**
+### Optional Enhancements
 
 * Use [mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) for image galleries or lightboxes.
 * Add [mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) to show last updated dates.
@@ -927,6 +819,7 @@ If you’d like, I can help:
 
 You're asking all the right things. Shall we sketch out your ideal site structure next?
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -937,19 +830,23 @@ You're asking all the right things. Shall we sketch out your ideal site structur
 
 
 
+## Privacy
 
+[Q]  
 I've a bit of a quandary, here. I do sort-of want to keep the contents of some repositories private from other repositories. For example, I have a religious page which I don't necessarily want to clutter up Excel-VBA Help with. I have a Projects github page which I've mostly converted to MkDocs markdown. However, I'm finding that it's a bit busy and confusing:
 
-https://tightbytes.com/pages/projects/other/Garden/
+[My Garden](https://tightbytes.com/pages/otherpages)
 
 Not sure if you can 'see' a webpage, but the menu on the left of the page is a bit of a 'dog's breakfast' in terms of organisation. I'm concerned that consolidating my sites - (e.g., adding my Excel-VBA Help and Religious pages) is going to compound this problem. Any suggestions?
 
+---
 
-
-
+[A]  
 You’re not overthinking it at all—this is exactly where information architecture pays off. You’ve got two clean options, and you can even blend them.
 
-# Option A — Separate sites (recommended)
+### A — Separate sites
+
+**(recommended)**
 
 Keep each “domain of content” as its own MkDocs site and deploy each as its own **Cloudflare Pages project**:
 
@@ -970,7 +867,7 @@ Keep each “domain of content” as its own MkDocs site and deploy each as its 
 3. Add a custom subdomain for each project.
 4. On your main domain, add a simple “hub” page that links to each sub-site.
 
-# Option B — One repo, multiple sites
+### B — One repo, multiple sites
 
 If you want one repo but still separate sites, use folders like:
 
@@ -984,11 +881,14 @@ Create a **Cloudflare Pages project per folder** (each project points to its own
 
 ---
 
-## Fixing the “dog’s breakfast” left menu (MkDocs tips)
+
+### Fix the 'dogs breakfast'
+
+**... left menu (MkDocs tips)**
 
 Even if you keep a single site for “Projects,” you can make the navigation calm and predictable:
 
-### 1) Control the nav explicitly
+**1) Control the nav explicitly**
 
 Don’t rely on auto-generated nav. In `mkdocs.yml`:
 
@@ -1021,16 +921,16 @@ nav:
 * Put an `index.md` in every section folder—MkDocs treats it as the landing page for that section and the menu becomes much clearer.
 * Name files/folders simply; the `nav:` entries control display titles.
 
-### 2) Keep sections shallow
+**2) Keep sections shallow**
 
 Aim for **2–3 levels max**. If a section grows, spin it out into its own site (Option A) or a separate top-level tab.
 
-### 3) Order and group with plugins (optional)
+**3) Order and group with plugins (optional)**
 
 * **awesome-pages** plugin lets you order items with a simple `.pages` file in each folder (no giant `nav:` needed).
 * **mkdocs-localsearch** or built-in search is fine; for large sets, add tags pages.
 
-### 4) Tidy ToC
+**4) Tidy ToC**
 
 For pages with long headings, integrate ToC into the right rail (or page) and limit depth:
 
@@ -1041,7 +941,7 @@ markdown_extensions:
       toc_depth: 2
 ```
 
-### 5) Hide noisy sections from the left nav
+**5) Hide noisy sections from the left nav**
 
 If you *must* keep disparate content in one site, you can hide certain pages/sections from the global nav and link to them from a “hub” page:
 
@@ -1065,7 +965,7 @@ hide:
 
 ---
 
-## Practical migration plan for you
+### Practical migration plan
 
 1. **Pick boundaries**
 
@@ -1081,6 +981,7 @@ hide:
 
 This keeps your menus clean, your mind clear, and your future self grateful. If you’d like, share your current `mkdocs.yml` (for the Projects site), and I’ll refactor the `nav:` and propose a neat folder layout to tame that left menu.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1090,31 +991,19 @@ This keeps your menus clean, your mind clear, and your future self grateful. If 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Initial Login
 
 Perfect timing—you’ll have this running in no time. Here’s exactly where to go in your Cloudflare dashboard:
 
 ---
 
-## Step 1 — Log in
+### 1 — Log in
 
 Go to [dash.cloudflare.com](https://dash.cloudflare.com) and log into your Cloudflare account.
 
 ---
 
-## Step 2 — Find **Pages**
+### 2 — Find 'Pages'
 
 On the left-hand sidebar (your account homepage), scroll until you see **Workers & Pages**.
 
@@ -1123,7 +1012,7 @@ On the left-hand sidebar (your account homepage), scroll until you see **Workers
 
 ---
 
-## Step 3 — Create a new Pages project
+### 3 — New Pages Project
 
 1. Click the **Pages** tab.
 2. Press **Create a project**.
@@ -1134,7 +1023,7 @@ On the left-hand sidebar (your account homepage), scroll until you see **Workers
 
 ---
 
-## Step 4 — Configure your project
+### 4 — Configure your project
 
 * **Framework preset**: choose *None* (MkDocs isn’t in the list, but “None” is correct).
 * **Build command**:
@@ -1151,7 +1040,7 @@ On the left-hand sidebar (your account homepage), scroll until you see **Workers
 
 ---
 
-## Step 5 — Custom domain
+### 5 — Custom Domain
 
 After first deploy, you’ll get a `*.pages.dev` preview URL.
 
@@ -1161,7 +1050,7 @@ After first deploy, you’ll get a `*.pages.dev` preview URL.
 
 ---
 
-### Quick sanity check for MkDocs builds
+**Quick sanity check for MkDocs builds**
 
 Since Cloudflare’s build containers may not have MkDocs installed by default, add a simple **requirements.txt** in your repo root:
 
@@ -1181,15 +1070,6 @@ Since you’ll likely have multiple sites (Projects, Help, Religious notes), cre
 
 ---
 
-Would you like me to sketch out a **step-by-step for setting up multiple Pages projects** under subdomains (e.g. `projects.tightbytes.com`, `help.tightbytes.com`) so you’ve got a ready-made playbook before you dive in?
+Would you like me to sketch out a **step-by-step for setting up multiple Pages projects** under subdomains (e.g. `art.tightbytes.com`, `help.tightbytes.com`) so you’ve got a ready-made playbook before you dive in?
 
-
-
-
-
-
-
-
-
-
-
+<hr style="height:20px;border-width:0;color:pink;background-color:pink">

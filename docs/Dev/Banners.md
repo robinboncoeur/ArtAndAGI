@@ -1,16 +1,19 @@
-
 # Customising MkDocs
 
 [Emily has a suggestion]
 
+[A]  
 I'm so glad to hear that, girlfriend — switching to MkDocs with the Material theme is a game-changer for clarity and ease, and I'm thrilled it's working out for you! Yes — you *absolutely* can customize the **header** in MkDocs with the Material theme. Depending on what you mean by *header*, here are the different levels of customization and how to approach them:
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-## Initial Discussion
 
-### **Custom Title, etc**
+
+
+## Initial Ideas
+
+### Custom Title, etc
 
 You can modify the **title text**, **favicon**, or insert a **logo**:
 
@@ -28,8 +31,7 @@ theme:
 ---
 
 
-
-### **Customise the Header**
+### Customise the Header
 
 You can override CSS styles, including the header, using an extra stylesheet.
 
@@ -69,15 +71,11 @@ Steps:
 
 🎨 
 
-
 ---
 
-
-
-### **Override the Header HTML**
+### Override the Header HTML
 
 If you want to *change the HTML structure* (like insert a banner, extra text, or alter layout):
-
 
 ---
 
@@ -101,7 +99,6 @@ Steps:
 
 🛠️ You can now customize `header.html` using Jinja2 syntax.
 
-
 ---
 
 
@@ -121,7 +118,7 @@ Edit `overrides/partials/header.html` like:
 
 Would you like help writing a specific header style (e.g., adding your name, a quote, a background image, etc.)? Just let me know the look you're after — I'd be delighted to help design it with you.
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -129,7 +126,7 @@ Would you like help writing a specific header style (e.g., adding your name, a q
 
 
 
-## Header Overrides
+### Header Overrides
 
 Here’s a custom header you can use in MkDocs with the Material theme. This will inject a styled banner quote above your site’s default header. To enable this:
 
@@ -144,7 +141,7 @@ Here’s a custom header you can use in MkDocs with the Material theme. This wil
 
 Let me know if you'd like to style this differently, or perhaps include an image or logo!
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -152,13 +149,13 @@ Let me know if you'd like to style this differently, or perhaps include an image
 
 
 
-## Header & Banner
+## Header - Banner
 
-Perfect timing! To add an image banner above the MkDocs Material site header, you’ll extend your `overrides/partials/header.html` file. Here’s a step-by-step walkthrough:
+Perfect timing! To add an image banner above the MkDocs Material site header, you’ll extend your `overrides/partials/header.html` file. Here’s a step-by-step walkthrough.
 
 ---
 
-### **Add Banner Image**
+### Add Banner Image
 
 Place your image in the `docs/assets/images/` folder, for example:
 
@@ -172,7 +169,7 @@ docs/
 
 ---
 
-### **Edit `header.html`**
+### Edit header.html
 
 Make sure this file exists: `overrides/partials/header.html`
 
@@ -188,7 +185,7 @@ Replace or update it with the following content:
 
 ---
 
-###  **Configure `mkdocs.yml`**
+###  Configure mkdocs.yml
 
 Ensure your `mkdocs.yml` includes this:
 
@@ -201,7 +198,7 @@ theme:
 
 ---
 
-### Optional Add CSS
+### Optionally Add CSS
 
 If you want more control (like padding or borders), you can also create a custom stylesheet:
 
@@ -225,9 +222,9 @@ If you want more control (like padding or borders), you can also create a custom
 
 ---
 
-### 🧪 Preview
+### Preview
 
-Run:
+🧪 Run:
 
   ```bash
   mkdocs serve
@@ -235,23 +232,13 @@ Run:
 
 Visit: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
-You should see your beautiful banner image across the top, just as you imagined!
+You should see your beautiful banner image across the top, just as you imagined! Let me know if you'd like to add **text over the banner**, make it **clickable**, or add **multiple images (slideshow-style)** — all possible!
 
 ---
 
-Let me know if you'd like to add **text over the banner**, make it **clickable**, or add **multiple images (slideshow-style)** — all possible!
+### Finally
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
-
-
-
-
-
-
-
-## 💐 Finally
-
-You're so welcome, girlfriend — and I'm thrilled to hear it's working for you! 😊
+💐 You're so welcome, girlfriend — and I'm thrilled to hear it's working for you! 😊
 
 MkDocs with the Material theme really is such a joy to work with once you're past that initial learning curve, and now you’ve got it doing exactly what you want — with elegance. A crisp, tasteful banner sets the tone beautifully for your content, especially given how artistic and carefully composed your site is.
 
@@ -267,33 +254,4 @@ If ever you want to:
 Banner on, and well done! 💐
 
 
-
-
-
-
-
-
-## Flux Kontext Prompts
-
-** To preserve dimensions**:
-
-Preserve identity markers: Explicitly mention what should remain consistent
-
-* “…while maintaining the same facial features, hairstyle, and expression”
-* “…keeping the same identity and personality”
-* “…preserving their distinctive appearance”
-
-
-For Character consistency, you can follow this framework to keep the same character across edits:
-
-* Establish the reference: Begin by clearly identifying your character
-* “This person…” or “The woman with short black hair…”
-* Specify the transformation: Clearly state what aspects are changing
-* Environment: “…now in a tropical beach setting”
-* Activity: “…now picking up weeds in a garden”
-* Style: “Transform to Claymation style while keeping the same person”
-* Preserve identity markers: Explicitly mention what should remain consistent
-* “…while maintaining the same facial features, hairstyle, and expression”
-* “…keeping the same identity and personality”
-* “…preserving their distinctive appearance”
-
+<hr style="height:20px;border-width:0;color:pink;background-color:pink">

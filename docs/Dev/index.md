@@ -1,4 +1,4 @@
-# Art Tech Page
+# Site Tech
 
 ## Markdown Cheatsheet
 
@@ -246,6 +246,49 @@ or
   }
 </style>
 
+... **05.Nov.2025**  
+Added this - thanks, Emily.
+
+<style>
+  /* two 384×384 iframes side by side */
+  .video-row {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .video-row iframe {
+    width: 384px;
+    height: 384px;
+    border: 0;
+    border-radius: 8px; /* optional */
+  }
+  /* Stack on narrow screens */
+  @media (max-width: 820px) {
+    .video-row { flex-direction: column; align-items: center; }
+  }
+</style>
+
+<div class="video-row">
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6978db4dbc1c3046f3aa321ff664b1dd/iframe"
+    title="Version Française"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+
+  <iframe
+    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/4dfe30900934badaea9190c99103c567/iframe"
+    title="English Version"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
@@ -294,7 +337,7 @@ Here's a typical example of embedding a link: Blender-for-Mac users, please refe
 The code is this (minus the '*')::
 
 ```
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 ```
 
 ...which produces the following grey horizonal bar to help separate sctions (like the one below).
@@ -314,22 +357,21 @@ The code is this (minus the '*')::
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
+---
 
 **Slide Show**:
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-
+---
 
 [CSS stuff](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
 
+---
 
-**Do Not Show On Page**:
+**Do Not Show On Page**
 
 <!-- Everything within these tags will not show on the page 
 
@@ -343,4 +385,4 @@ extra:
 
 /-->
 
-<hr style="height:20_____px;border-width:0;color:pink;background-color:pink">
+<hr style="height:20px;border-width:0;color:pink;background-color:pink">
