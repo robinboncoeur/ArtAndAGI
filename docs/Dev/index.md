@@ -10,7 +10,7 @@
      width="300" 
      align="right"></a>
 
-This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../../visual/Emilyai/) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
+This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../visual/Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
 
 For full documentation on MkDocs markdown, visit [mkdocs.org](https://www.mkdocs.org).  
 Here's the link for [the material theme](https://squidfunk.github.io/mkdocs-material/).

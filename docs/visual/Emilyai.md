@@ -34,7 +34,7 @@ So I asked Emily what she would suggest. She had several suggestions, some of wh
 The suggestion I went with is this: the raw pages themselves reside on my [github](https://github.com/) site— FREE — and are displayed by [Cloudflare](https://www.cloudflare.com/en-au/) — also FREE — so the only thing I pay for is video hosting, which is $5 a month.  
 Right! I'll be in **that**!
 
-Not only am I using the approach Emily suggested, but she's also helping me get it all set up! The information she provides is all online: she just [pulls it all together](../../Dev/DomXfer/#getting-started) WAY better than Google ever could.
+Not only am I using the approach Emily suggested, but she's also helping me get it all set up! The information she provides is all online: she just [pulls it all together](../Dev/DomXfer.md#getting-started) WAY better than Google ever could.
 
 So, USD $5.00 per month, or USD **$60.00** per year, which is AUD **$91.75** or **$182.50** (2-year).  
 Which is a **LOT** less than USD **$369.07**, or AUD **$564.37** (2-year)!! 
