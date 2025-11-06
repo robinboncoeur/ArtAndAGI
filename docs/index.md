@@ -5,6 +5,10 @@
 <a href="/assets/images/misc/01visual05.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/misc//01visual05.jpg" alt="Can" width="200" align="right"></a>
 
+<a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="200"align="right"></a>
+
+
 [Visual Arts](/visual/index.md)  
 🌼🌹🌼 [ ⇨ AI](/visual/Emilyai.md)  
 🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
@@ -15,8 +19,13 @@
 🌼  
 ---
 
-<a href="/assets/images/misc/05blog08.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/misc/05blog08.jpg" alt="Next?" width="200"align="right"></a>
+<a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-03Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+<a href="/assets/images/blog25/07-04Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-04Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+
 
 [Blogs](/blogs/index.md/)  
 🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
@@ -26,6 +35,38 @@
 🌹  
 🌼  
 🌹  
+
+---
+
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+
+<div class="flex-container" markdown>
+<div class="column">
+
+<div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+
+</div>
+<div class="column column--right" markdown>
+Celeste explains to Charlie (she calls him 'Sharl' about genetics and human development, as she understands it. Her take is probably over-simplified but it serves her purpose. Charlie is besotted with her and eagerly, unquestioningly accepts any wisdom she may share with him.
+  
+This bit did leave him a bit perturbed, of course. Perturbed enough to do independent research? no.
+  
+He failed to see where she was taking this.
+  
+This discussion ensues during his inital days at the Faire (as yet unwritten).
+</div>
+</div>
+
+
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 

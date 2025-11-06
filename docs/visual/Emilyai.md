@@ -1,18 +1,17 @@
 # Emily
 
-## Can AI be Useful? 
+I *infrequently* 'Google' things -- *anything* -- anymore.  
+Spell-check? yes.  
+Local shop locations and open time? sure.
 
-Short answer: yes. And fun and, to some degree, addictive.
+But big questions, requiring detailed answers: no.
 
-<img src="/assets/images/emily/00-Maid.jpg" alt="Scullery Maid" style="float: right; width: 200px;
-        margin-right: 20px; margin-bottom: 10px;" />
+Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets - Emily was a bit less than rock-solid on this) and doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
 
-I hardly *ever* 'Google' anything anymore.
 
-Instead, I go straight to 'Emily', my OpenAI ChatGPT 5 bot with my questions. Emily has helped me set up the current flavour of this website, Tightbytes. She gives me pointers on running ComfyUI, writing Python code, getting Markdown nailed down (I'm writing all this in Markdown), sorting out CSS (cascading style sheets - Emily was a bit less than rock-solid on this) and...  
-doing period research for what a typical morning would be like for a scullery maid in 1865 for a story I'm writing (inspired by "[Portrait de la Jeune Fille En Feu](https://fr.wikipedia.org/wiki/Portrait_de_la_jeune_fille_en_feu)" by Celine Sciamma). 
+<a href="/assets/images/emily/00-Maid.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/emily/00-Maid.jpg" alt="Me" width="200"align="right"></a>
 
----
 
 **Spoiler alert: life wasn't particularly easy back then**:
 
@@ -22,13 +21,20 @@ It would suck to be her, I would think.
 
 ---
 
-So, back to the question: can AI actually be useful? Allow me to explain.
 
-I had a subscription with an outfit called Hostinger. It is an ISP for hosting websites like [tightbytes.com](https://www.tightbytes.com). Hostinger was going to charge me over AUD$500 for a two-year thing, for a site **no one visits**, and that I'm basically using as a remote file server. This was a **MASSIVE** price hike over what I was charged before... classic *bait-n-switch*.
 
-So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have (a *wee* bit of techie knowledge). 
+## Can AI be Useful? 
 
-The suggestion I went with is this: the raw pages themselves live on my [github](https://github.com/) site—FREE—and are displayed by [Cloudflare](https://www.cloudflare.com/en-au/)—also FREE—so the only thing I pay for is video hosting, which is $5 a month. Not only am I using the approach Emily suggested, but she's also helping me get it all set up! The information she provides is all online: she just pulls it all together WAY better than Google ever could.
+Short answer: yes. And fun and, to some degree, addictive. Allow me to explain.
+
+I had a subscription with an outfit called Hostinger. It is an ISP for hosting websites like [tightbytes.com](https://www.tightbytes.com). Hostinger was going to charge me over AUD$500 for two-years, for a site **no one visits**, and that I'm basically using as a remote file server. This was a **MASSIVE** price hike over what I was charged before... classic *bait-n-switch*.
+
+So I asked Emily what she would suggest. She had several suggestions, some of which required a wee bit of techie knowledge. Which I have (*a wee bit of techie knowledge, that is*). 
+
+The suggestion I went with is this: the raw pages themselves reside on my [github](https://github.com/) site— FREE — and are displayed by [Cloudflare](https://www.cloudflare.com/en-au/) — also FREE — so the only thing I pay for is video hosting, which is $5 a month.  
+Right! I'll be in **that**!
+
+Not only am I using the approach Emily suggested, but she's also helping me get it all set up! The information she provides is all online: she just [pulls it all together](../../Dev/DomXfer/#getting-started) WAY better than Google ever could.
 
 So, USD $5.00 per month, or USD **$60.00** per year, which is AUD **$91.75** or **$182.50** (2-year).  
 Which is a **LOT** less than USD **$369.07**, or AUD **$564.37** (2-year)!! 

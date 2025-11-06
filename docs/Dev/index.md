@@ -2,15 +2,20 @@
 
 ## Markdown Cheatsheet
 
-### MkDocs Index Page
+<a href="/assets/images/blog25/06-16Office.jpg" 
+   target="_blank" rel="noopener" 
+   style="box-shadow: 0 0 25px rgba(0.9,0.9,0.9,0.2);">
+<img src="/assets/images/blog25/06-16Office.jpg" 
+     alt="Me" 
+     width="300" 
+     align="right"></a>
 
-<img src="/assets/images/index/VicGirl1a.jpg" alt="Me" style="float: right; width: 300px;
-        margin-left: 20px; margin-bottom: 10px;" />
+This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../../visual/Emilyai/) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
 
-I'll use this page for markdown, and then, specific pages under dev for other techie topics.
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation on MkDocs markdown, visit [mkdocs.org](https://www.mkdocs.org).  
+Here's the link for [the material theme](https://squidfunk.github.io/mkdocs-material/).
 
-**Commands***
+**Install Commands**
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -38,10 +43,10 @@ docs/
 ### Inline images
 
 **Emily-Assisted**  
-For externally-stored images (most will be stored on Tightbytes, for my pages)::
+For externally-stored images (most will be stored on GitHub, for my pages)::
 
 ```
-![Me](http://www.tightbytes.com/art/images/Cui/24/fleur/Chemise019.jpg){: align=left width=300 }
+![Me](https://art.tightbytes.com/assets/images/blog25/06-16Office.jpg){: align=left width=300 }
 ```
 
 and for those stored with the data files::
@@ -50,7 +55,7 @@ and for those stored with the data files::
 ![Celeste](images/C01-Aa.jpg){: align=left width=300 }
 ```
 
-...or...
+Not sure about this approach:
 
 ```
 <figure>
@@ -58,16 +63,16 @@ and for those stored with the data files::
   <figcaption>Image caption</figcaption>
 </figure>
 ```
-Better yet:
+These pages more commonly have a html link:
 
 ```
-<img src="assets/images/index/VicGirl1a.jpg" alt="Victorian Girl"  
-style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px;"/>
+<a href="/assets/images/blog25/06-16Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/06-16Office.jpg" alt="Me" width="300"align="right"></a>
 ```
 
-The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
+...as it allows for a clickable image to open a larger version in a new tab. The HTML `<img>` approach really does offer a lot more flexibility when you're aiming for beautiful layouts or precise formatting in MkDocs with the Material theme. And best of all, it plays nicely with all your existing `assets/images/...` structure.
 
-If you ever want to:
+If you need to:
 
 * **Center the image** → `style="display: block; margin: 0 auto;"`
 * **Make it responsive** → `style="max-width: 100%; height: auto;"`
@@ -84,7 +89,7 @@ If you ever want to:
 
 ### Embedded YouTube Video
 
-This code:
+This code is no longer being used:
 
 ```
 <video width="384" height="384" controls>
@@ -92,13 +97,70 @@ This code:
 </video>
 ```
 
-...yields this:
+Instead, videos are being hosted on Cloudflare. 
 
-<video width="384" height="384" controls>
-  <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
-</video>
+```
+<div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+```
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+Simply change the number after '.com/' -- 420e07a7d02c25184d2faf7e6ff0b53c -- and before '/iframe'.  Quick-n-dirty way to make it not huge:
+
+```
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+
+<!-- NOTE! DO NOT INDENT! MARKDOWN WILL FAIL!! /-->
+
+<div class="flex-container" markdown>
+<div class="column">
+
+<div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/6c50151790d66b09f2d94d7c3096ec7d/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+</div>
+
+<div class="column column--right" markdown>
+</div>
+
+</div>
+
+```
+
+
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+
+<div class="flex-container" markdown>
+<div class="column">
+
+<div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+
+</div>
+<div class="column column--right" markdown>
+.
+</div>
+</div>
+
+
+
 
 
 
