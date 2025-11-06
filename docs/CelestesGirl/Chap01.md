@@ -120,7 +120,7 @@ The instructor, Ms Duncan, took her place as conductor on the podium.
 
 Celeste's part wasn't complex. She'd performed more demanding parts on her clarinet. Second beat after the downbeat, she brought the reed to her lip and let the note bloom, not forced, not shy ... *dolce*, mezzo voce, the human voice told through wood and wire. The line was considerate in that way only a good ear writes: it knew where breath lived, where the room inhaled with you. She could feel the orchestra awaken, violas with their heads lifted, second violins stilled into a single spine, cellos quieting so as not to spill light where shadow was wanted.
 
-The phrase stepped once over a small rivelette and landed sure-footed. She didn’t push vibrato; she let it arrive like a confession, then leave. The hall that wasn’t a hall (only the ugly rehearsal room with the scuffed risers) seemed for a moment to forget itself. She played it as if she had been born to this colour, this melancholy that wasn’t sad so much as truthful. For the first time since the restroom incident, she didn’t think of the wrong-door boy; she thought only of the line that had been written by someone who understood breath and refused to crowd it. The piece—**a student piece**, someone had scoffed earlier, did the one unforgivable thing: it made them care. When the cadence resolved, no one spoke at first, as if speech would scuff it.
+The phrase stepped once over a small rivelette and landed sure-footed. She didn’t push vibrato; she let it arrive like a confession, then leave. The hall that wasn’t a hall (only the ugly rehearsal room with the scuffed risers) seemed for a moment to forget itself. She played it as if she had been born to this colour, this melancholy that wasn’t sad so much as truthful. For the first time since the restroom incident, she didn’t think of the wrong-door boy; she thought only of the line that had been written by someone who understood breath and refused to crowd it. The piece — **a student piece**, someone had scoffed earlier — did the one unforgivable thing: it made them care. When the cadence resolved, no one spoke at first, as if speech would scuff it.
 
 Then the room exhaled, as a single animal.
 
@@ -130,7 +130,7 @@ Celeste allowed herself the smallest smile. It was **not** pride but relief. The
 
 The little serenade had three parts... the beginning, a wistful, almost fairy-like idea; the middle was dance-like, almost like a pas-de-deux, carried by a solo violin, with the rest of the strings playing in soft pizzicato. Almost at the end of that section, there was an odd moment of dissonance, which the english horn confidently swept aside with the original melody. 
 
-As the sounds died, the orchestra and conductor sat and stood in speechless silence. Celeste stared unseeing at the page before her.
+The sound died: the orchestra sat and the conductor stood in speechless silence. Celeste stared at the page before her.
 
 This was next-level.
 
@@ -178,15 +178,15 @@ Lauren smiled uneasily. "So, um, what sort of music was it?" she asked cautiousl
 
 "Insane."
 
-Lauren could be so thick, sometimes. "I know, I'm not making any sense. Look, I've been practicing this piece for the past month or so - it's not hard to play. But today was like, well we heard the whole thing for the first time. The string section and my english horn. I'm telling you, everyone was blown away. Including the teacher!"
+Lauren could be so thick, sometimes. "I know, it probably seems like I'm not making any sense. Look, I've been practicing this piece for the past month or so - it's not hard to play. But today was like, well we heard the whole thing for the first time. The string section and my english horn. I'm telling you, everyone was blown away. Including the teacher!"
 
-"Cool."
+"Cool. Hey listen," Lauren shifted gears. "Are you taking that position at the Faire you told me about?"
 
-"Lauren, you would literally have to hear it. I know you're not into classical stuff..."
+Celeste ignored the question, staring intently before her. "Lauren, you would literally have to hear it."
 
-"'But' ... do I hear a 'but'?" Lauren cleared her throat. "yeah, nah ... doesn't do it for me, sorry ... not if there's no lyrics." A change came over Celeste again. "What now?"
+"Not if there's no lyrics." Lauren cleared her throat. "So, about the Faire..."
 
-"I gotta find out who wrote it," Celeste murmured, almost to herself as she turned back to her retorts and beaker.
+Celeste turned away, her face reflecting a new determination. "I gotta find out who wrote it," she murmured almost to herself.
 
 ---
 
@@ -194,9 +194,9 @@ It wasn't until Friday that she got her answer. She'd gone to the music building
 
 "Celeste?" She turned to see her teacher unlocking her office.
 
-"Good morning, Miss Duncan... I won't keep you long. Just have a quick question." Miss Duncan raised her eyebrows. "Um, who wrote that piece we played on Wednesday?"
+"Good morning, Miss Duncan. I won't keep you long. Just have a quick question." Miss Duncan raised her eyebrows. "Um, who wrote that piece we played on Wednesday?"
 
-"He's a junior, here. A quiet kid... well, between you and me, he's got a lot of talent. That serenade!"
+"He's a junior, here. A quiet kid, kind of a geek. Between you and me, he's got a lot of talent. That serenade!"
 
 "I know, right?" Celeste's eyes shone. "Am I allowed to ask what his name is?"
 
@@ -208,10 +208,7 @@ Celeste stared at her, eyes wide.
 
 "Well, Charlie. Charlie Rossi..."
 
-"...ignol," Celeste finished for her softly, pensivefully. She murmured: "Er, thank you..." and walked slowly away, lost in thought. 
-
-
-
+"...gnol," Celeste finished with her in soft unison, turning away. "Er, thank you..."
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
@@ -220,13 +217,27 @@ Celeste stared at her, eyes wide.
 
 
 
+## The Victorian Faire
 
+For years, the old garment factory near the river had stood empty and decaying, the old brick walls resiliently withstanding storms in a seemingly pointless effort to survive. This resilience was finally rewarded: the entire property was purchased by a Historical Faire Enterprise who set about almost immediately to restore it to its former glory. What was once a thriving factory covering several acres became a Victorian town, complete with gas street lamps, cobblestone streets, little shops and horse-drawn carriages ... even a train station.
 
+Over the years as restoration efforts continued, the 'town' grew. Thanks to the incredibly immersive experience the environment offered, its popularity grew leaps and bounds. The train station soon saw a restored locomotive from roughly that period pulling carriages of visitors from a car park miles away. Everything felt authentic, so much so that even the visitors themselves tried to blend in: they would arrive wearing "Authentic Victorian" attire they had purchased from Etsy or Timu.
 
+The Faire proved to be a highly sought-after summertime employment opportunity for high school students from the surrounding towns, as the owners generously paid their staff far above the minimum wage high-school students were accustomed to. Of course, this allowed the people hiring to be selective: youth who have some knowledge or interest in the Victorian era would be more likely to be hired, even if the position was for stable lad, or kitchen help. Physical prowess didn't guarantee placement. A working knowledge of the mindset of of the 1880s in industrial England did. Social background mattered not at all.
 
+---
 
+That social background did not matter was very fortunate for Charlie.
 
+"Have a seat. We'll be with you in a second." The usual hiring woman was tending to a crisis at home - the organisation was very supportive of their staff - and the pencil-neck who was assigned the task of interviewing candidates, a fellow from the CFO's office would only understood spreadsheets, was less than clued up to the expectations of him. He saw a grubby-looking kid and thought: 'stable boy' as he stared with puzzlement at the questions on the form before him. "Okay, so it says here, um." He shook his head in disbelief. "'How much do you know about the Victorian period?'" He read out loud haltingly, like an failing English student. He finally looked up at Charlie, still unable to connect the dots.
 
+"Are you referring to the industrial boom..."
+
+Pencil-neck interrupted him. "I ask the questions, not you."
+
+Charlie blinked, unsure why this person was being so hostile. "Sorry. I, um, am quite familiar with the period..."
+
+Pencil-neck interrupted him again. "Okay, you're to pick up your work attire at the 'Company Store'. You will be a stable lad... even so, you still have to dress the part. Sign here."
 
 
 
