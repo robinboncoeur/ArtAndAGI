@@ -583,3 +583,335 @@ If you want, I can sketch two more public strips—a tailor’s fitting and a qu
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
+
+
+
+
+
+
+## A ReLook
+
+Delighted—let’s give it the sheen of Austen: composed, witty, and gently florid. Same structure as before: **six 8-panel strips**, **one visible figure per panel**, and **no more than four lines** of dialogue per panel. Off-panel voices marked *(off)*. Celeste remains serenely in the right; Charlie’s reluctance lingers.
+
+---
+
+# Strip 1 — “Out of the Yard” (the rescue… with omissions)
+
+**Panel 1 — Figure: Charlie**
+*Shovel, splattered boots, a sigh of resignation.*
+
+* Charlie: I am very well, thank you; merely two barrows more.
+* Celeste (off): You are done, sir. That is settled.
+
+**Panel 2 — Figure: Celeste**
+*Parasol resting upon the duty slate.*
+
+* Celeste: You were improperly engaged; I have remedied the injustice.
+* Briggs (off): And since when do ladies—?
+
+**Panel 3 — Figure: Celeste**
+*Cool, exact; a gaze that brooks no muddle.*
+
+* Celeste: Since I read what others merely wave about.
+* Celeste: And since I care to see it acted upon.
+
+**Panel 4 — Figure: Charlie**
+*Hands still upon the shovel; uncertain.*
+
+* Charlie: Remedied to… what, precisely?
+* Celeste (off): To something indoors—and civilised.
+
+**Panel 5 — Figure: Celeste**
+*Produces a folded pass like a trump card.*
+
+* Celeste: You shall be attached to me, as a domestique.
+* Celeste: Clean quarters, regular meals, and dignity restored.
+
+**Panel 6 — Figure: Charlie**
+*Eyes drop to the mire at his feet.*
+
+* Charlie: You are quite serious.
+* Celeste (off): I rarely indulge levity before luncheon.
+
+**Panel 7 — Figure: Celeste**
+*Offers a handkerchief, permission to quit the field.*
+
+* Celeste: Put the shovel down, Charles.
+* Celeste: Take up your composure.
+
+**Panel 8 — Figure: Charlie**
+*Wipes his face; wary relief.*
+
+* Charlie: If it removes me hence, I consent.
+* Celeste (off): Sensible. We will confer after you are bathed.
+
+---
+
+# Strip 2 — “The Offer” (companionship sells; terms withheld)
+
+**Panel 1 — Figure: Celeste**
+*In a quiet corridor, the interview neatly arranged.*
+
+* Celeste: The post requires nearness to me—alert, discreet attendance.
+* Celeste: You will observe how a proper household breathes.
+
+**Panel 2 — Figure: Charlie**
+*Scrubbed; cap turning in his hands.*
+
+* Charlie: “Domestique” signifies what? Doors, trays… guesses?
+* Celeste (off): All of that, and less guessing than most lives allow.
+
+**Panel 3 — Figure: Celeste**
+*A smile that invites and directs at once.*
+
+* Celeste: The advantage is plain: my hours become yours.
+* Celeste: We shall be almost constantly in company.
+
+**Panel 4 — Figure: Charlie**
+*Swallows; the bait is sweet.*
+
+* Charlie: Together—as in, you determine my place and hour?
+* Celeste (off): As in, you are never left to flounder.
+
+**Panel 5 — Figure: Celeste**
+*Turning a pen, businesslike.*
+
+* Celeste: Consider a trial week. Should you dislike it, we amend.
+* Celeste: Should you excel, we flourish.
+
+**Panel 6 — Figure: Charlie**
+*Half-hopeful, half-uneasy.*
+
+* Charlie: I am unequal to finery, I fear.
+* Celeste (off): This is care, not finery—care, properly polished.
+
+**Panel 7 — Figure: Celeste**
+*Extends a neat “Assignment Clarification.”*
+
+* Celeste: Sign, and Hiring will cease their fluttering.
+* Celeste: Leave the contrivances to me.
+
+**Panel 8 — Figure: Charlie**
+*Pen hesitates, then commits.*
+
+* Charlie: You will tell me when I err—before the world observes it?
+* Celeste (off): I shall tell you before you have time to err at all.
+
+---
+
+# Strip 3 — “Paper First” (procedure makes it real)
+
+**Panel 1 — Figure: Mrs. Penfold**
+*Spectacles, ledger, unflappable calm.*
+
+* Mrs. Penfold: “Domestique—attached to Lady Celeste.” Accepted, provisionally.
+* Mrs. Penfold: Sensible economy.
+
+**Panel 2 — Figure: Charlie**
+*Reading his copy like a charge.*
+
+* Charlie: “Household standard”—pray, what is that?
+* Mrs. Penfold (off): Three rules: listen, be early, look finished.
+
+**Panel 3 — Figure: Mrs. Penfold**
+*Stamp poised; a patient scrutiny.*
+
+* Mrs. Penfold: You appear a young man inclined to “sorry.”
+* Mrs. Penfold: Try “yes, ma’am.” It wastes less life.
+
+**Panel 4 — Figure: Charlie**
+*Flustered, but compliant.*
+
+* Charlie: Yes, ma’am—oh—pardon—
+* Mrs. Penfold (off): Admirable progress.
+
+**Panel 5 — Figure: Mrs. Penfold**
+*Stamp—an official little thunderclap.*
+
+* Mrs. Penfold: Collect your livery from Wardrobe.
+* Mrs. Penfold: Deliveries at four. Drop nothing.
+
+**Panel 6 — Figure: Charlie**
+*The word puzzles him.*
+
+* Charlie: Livery—for a domestique?
+* Mrs. Penfold (off): Uniforms answer questions before they are asked.
+
+**Panel 7 — Figure: Mrs. Penfold**
+*A thin smile, not unkind.*
+
+* Mrs. Penfold: Breathe. They are garments, not shackles.
+* Mrs. Penfold: You will manage.
+
+**Panel 8 — Figure: Charlie**
+*Exits with the paper; an unease gathers.*
+
+* Charlie: Garments, yes—only garments.
+* Celeste (off): Meet me at Wardrobe on the half-hour.
+
+---
+
+# Strip 4 — “The Parcel” (the dawning)
+
+**Panel 1 — Figure: Ada (Wardrobe)**
+*Brown paper, tidy string; competence incarnate.*
+
+* Ada: For Charles H. Sign here, and do not flee.
+* Ada: We tailor; we do not terrify.
+
+**Panel 2 — Figure: Charlie**
+*String at his fingers; a pause before untying.*
+
+* Charlie: And if it should not… suit me?
+* Ada (off): Then we make it suit you, which is our art.
+
+**Panel 3 — Figure: Ada**
+*Brisk hands, quiet voice.*
+
+* Ada: Shirtwaist, apron, skirt. All stout. No nonsense.
+* Ada: You’ll thank the apron before week’s end.
+
+**Panel 4 — Figure: Charlie**
+*Colour leaves his face; understanding arrives.*
+
+* Charlie: A skirt?
+* Celeste (off): Household livery, standard and serviceable.
+
+**Panel 5 — Figure: Ada**
+*Lifts the apron like a badge of competence.*
+
+* Ada: You spill less in this than in trousers.
+* Ada: Trust experience over vanity.
+
+**Panel 6 — Figure: Charlie**
+*Voice small, not yet rebellious.*
+
+* Charlie: Celeste… you did not say—
+* Celeste (off, gentle iron): I said “attached to me,” and “household.”
+* Celeste (off): The uniform follows from the facts.
+
+**Panel 7 — Figure: Ada**
+*Measuring tape slides about his ribs.*
+
+* Ada: Arms down. Stomach soft.
+* Ada: We fit; we do not fight.
+
+**Panel 8 — Figure: Charlie**
+*Eyes shut one beat; opens them, resigned.*
+
+* Charlie: I have signed; therefore I shall do it.
+* Celeste (off): And I shall teach you—carefully, and well.
+
+---
+
+# Strip 5 — “Terms of the Trade” (minutiae; reluctance meets method)
+
+**Panel 1 — Figure: Celeste**
+*Holds the shirtwaist with the authority of a tutor.*
+
+* Celeste: The two upper buttons remain unfastened. One must breathe.
+* Celeste: You are at work, not upon a stage.
+
+**Panel 2 — Figure: Charlie**
+*Fingers uncertain at the placket.*
+
+* Charlie: It feels—improper. As though I trespass.
+* Celeste (off): You employ a tool. Propriety is in the manner, not the cloth.
+
+**Panel 3 — Figure: Celeste**
+*Demonstrates the apron ties, neat and flat.*
+
+* Celeste: Ties must lie smooth; bumps announce inexperience.
+* Celeste: We shall not proclaim it.
+
+**Panel 4 — Figure: Charlie**
+*Practises; the knot slips; mortification close by.*
+
+* Charlie: And if someone laughs?
+* Celeste (off): They will not—because I am present.
+
+**Panel 5 — Figure: Celeste**
+*Places a simple ribbon in his palm.*
+
+* Celeste: Hair off the collar. Ribbon says finished, not fussy.
+* Celeste: Precision is the only ornament required.
+
+**Panel 6 — Figure: Charlie**
+*Awkward gather; ribbon drops once.*
+
+* Charlie: My hands are all thumbs today.
+* Celeste (off): Excellent—thumbs improve quicker than pride.
+
+**Panel 7 — Figure: Celeste**
+*Demonstrates stance; weight forward, grace unforced.*
+
+* Celeste: Weight to the balls of the feet; spine lengthened.
+* Celeste: Think quiet lightning, not rooted oak.
+
+**Panel 8 — Figure: Charlie**
+*Imitates; surprised by the balance.*
+
+* Charlie: It is—less dreadful than expected.
+* Celeste (off): “Less dreadful” is the doorway to “capable.”
+
+---
+
+# Strip 6 — “House Rules” (address, posture, first test)
+
+**Panel 1 — Figure: Mrs. Hargrave**
+*Clipboard; benevolent severity.*
+
+* Mrs. Hargrave: You shadow the lady, and answer to me.
+* Mrs. Hargrave: Serve sense before ceremony.
+
+**Panel 2 — Figure: Charlie**
+*Back straightens on instinct.*
+
+* Charlie: Yes, ma’am. I shall endeavour.
+* Mrs. Hargrave (off): Endeavour early.
+
+**Panel 3 — Figure: Celeste**
+*Adjusts his collar by a whisper.*
+
+* Celeste: “Excuse me” improves upon “sorry.”
+* Celeste: “Right away” conquers “in a moment.”
+
+**Panel 4 — Figure: Charlie**
+*Practises the smallest bow to no one at all.*
+
+* Charlie: I feel ridiculous.
+* Celeste (off): You feel new. It passes.
+
+**Panel 5 — Figure: Mrs. Hargrave**
+*Hands him an empty tray; the test begins.*
+
+* Mrs. Hargrave: To Table Four; arms steady, hands soft.
+* Mrs. Hargrave: Carry it as if full.
+
+**Panel 6 — Figure: Charlie**
+*Walks with intent; breath counted.*
+
+* Charlie: Steady… soft… breathing—
+* Celeste (off): Breathe between the steps, not upon them.
+
+**Panel 7 — Figure: Mrs. Hargrave**
+*A glance at the clock; the faintest nod.*
+
+* Mrs. Hargrave: Not disgraceful.
+* Mrs. Hargrave: Tomorrow it is not empty.
+
+**Panel 8 — Figure: Charlie**
+*Leans to the wall, one quiet breath released.*
+
+* Charlie: I still dislike the skirt exceedingly.
+* Celeste (off): You dislike beginnings. Continue, and dislike will weary first.
+
+---
+
+### Quick staging notes
+
+* Keep **props** declarative—pass, parcel, ribbon, tray—so a single figure reads the beat.
+* Let **off-panel voices** enter from consistent “sides” (Celeste from right, Penfold from left, Hargrave from above/doorway) to cue the ear.
+* To **trim**, remove the second sentence of any panel; the cadence will hold.
+
+If you’d like, I can Austen-polish two more sets in the same mode—**a milliner’s visit** and **the first truly full tray**—to bring the week to a poised close.
