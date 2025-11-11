@@ -591,327 +591,326 @@ If you want, I can sketch two more public strips—a tailor’s fitting and a qu
 
 ## A ReLook
 
-Delighted—let’s give it the sheen of Austen: composed, witty, and gently florid. Same structure as before: **six 8-panel strips**, **one visible figure per panel**, and **no more than four lines** of dialogue per panel. Off-panel voices marked *(off)*. Celeste remains serenely in the right; Charlie’s reluctance lingers.
+Exquisite notes—thank you. Here is **Set 3 (Revised) — “Candlelit Instruction”** with fuller, more Austen-esque colour, and with Charlie’s reluctance **felt** rather than spoken as protest. Same constraints: **one visible figure per panel**; off-panel voices marked *(off)*. I’ve leaned on image and sensation—heat in the ears, the language of cloth—to register his dismay without defiance.
 
 ---
 
-# Strip 1 — “Out of the Yard” (the rescue… with omissions)
-
-**Panel 1 — Figure: Charlie**
-*Shovel, splattered boots, a sigh of resignation.*
-
-* Charlie: I am very well, thank you; merely two barrows more.
-* Celeste (off): You are done, sir. That is settled.
-
-**Panel 2 — Figure: Celeste**
-*Parasol resting upon the duty slate.*
-
-* Celeste: You were improperly engaged; I have remedied the injustice.
-* Briggs (off): And since when do ladies—?
-
-**Panel 3 — Figure: Celeste**
-*Cool, exact; a gaze that brooks no muddle.*
-
-* Celeste: Since I read what others merely wave about.
-* Celeste: And since I care to see it acted upon.
-
-**Panel 4 — Figure: Charlie**
-*Hands still upon the shovel; uncertain.*
-
-* Charlie: Remedied to… what, precisely?
-* Celeste (off): To something indoors—and civilised.
-
-**Panel 5 — Figure: Celeste**
-*Produces a folded pass like a trump card.*
-
-* Celeste: You shall be attached to me, as a domestique.
-* Celeste: Clean quarters, regular meals, and dignity restored.
-
-**Panel 6 — Figure: Charlie**
-*Eyes drop to the mire at his feet.*
-
-* Charlie: You are quite serious.
-* Celeste (off): I rarely indulge levity before luncheon.
-
-**Panel 7 — Figure: Celeste**
-*Offers a handkerchief, permission to quit the field.*
-
-* Celeste: Put the shovel down, Charles.
-* Celeste: Take up your composure.
-
-**Panel 8 — Figure: Charlie**
-*Wipes his face; wary relief.*
-
-* Charlie: If it removes me hence, I consent.
-* Celeste (off): Sensible. We will confer after you are bathed.
-
----
-
-# Strip 2 — “The Offer” (companionship sells; terms withheld)
+# Set 3 (Revised) — “Candlelit Instruction”
 
 **Panel 1 — Figure: Celeste**
-*In a quiet corridor, the interview neatly arranged.*
+*She cups the candle’s flame; the room is a small republic of light within a sleeping house.*
 
-* Celeste: The post requires nearness to me—alert, discreet attendance.
-* Celeste: You will observe how a proper household breathes.
+* Celeste: Up, Charles—softly. The world has not yet claimed us.
+* Celeste: We begin with order, then with garments; the latter will obey the former.
+* Celeste: Remember: you are under my direction; that is your shelter.
 
 **Panel 2 — Figure: Charlie**
-*Scrubbed; cap turning in his hands.*
+*At the washstand, breath fogging the mirror; his ears have reddened of their own accord.*
 
-* Charlie: “Domestique” signifies what? Doors, trays… guesses?
-* Celeste (off): All of that, and less guessing than most lives allow.
+* Charlie: I… yes.
+* Celeste (off): Face, hands, and behind the ears—**glycerine soap**; nothing theatrical.
+* Celeste (off): Teeth with powder; rinse until the water forgets you were there.
 
 **Panel 3 — Figure: Celeste**
-*A smile that invites and directs at once.*
+*Two **stockings** rolled like pale bracelets; their heels kiss as if conspiring.*
 
-* Celeste: The advantage is plain: my hours become yours.
-* Celeste: We shall be almost constantly in company.
+* Celeste: Stockings first—rolled, then unrolled along the foot as a kindness.
+* Celeste: **Cotton for labour**, wool for a mean day.
+* Celeste: Garters above the knee: secure, never strangling.
 
 **Panel 4 — Figure: Charlie**
-*Swallows; the bait is sweet.*
+*Seated; he draws the knit over his toes. For a heartbeat his expression is that of a trespasser in a private chapel.*
 
-* Charlie: Together—as in, you determine my place and hour?
-* Celeste (off): As in, you are never left to flounder.
+* Charlie (low): They are… softer than I had armed myself to expect.
+* Celeste (off): Comfort is not a trap, Charles; it is equipment.
 
 **Panel 5 — Figure: Celeste**
-*Turning a pen, businesslike.*
+*A plain **chemise** of lawn, held as if it were a rule more than a luxury.*
 
-* Celeste: Consider a trial week. Should you dislike it, we amend.
-* Celeste: Should you excel, we flourish.
+* Celeste: Chemise over the head. It **guards you from the corset**, and the gown from you.
+* Celeste: Find the seams with your shoulders; let the cloth lie as if it wished to.
 
 **Panel 6 — Figure: Charlie**
-*Half-hopeful, half-uneasy.*
+*Behind the screen’s edge; the hem sighs into place. He swallows, discovering himself translated into a higher register of fabric.*
 
-* Charlie: I am unequal to finery, I fear.
-* Celeste (off): This is care, not finery—care, properly polished.
+* Charlie (barely): It is… very light. Almost an apology.
+* Celeste (off): It is a promise of cleanliness. Keep it.
 
 **Panel 7 — Figure: Celeste**
-*Extends a neat “Assignment Clarification.”*
+*She presents **drawers**—split for sense, ties plain as duty.*
 
-* Celeste: Sign, and Hiring will cease their fluttering.
-* Celeste: Leave the contrivances to me.
+* Celeste: Step in. Ties to the front. The opening is **practical**, not a topic.
+* Celeste: When the day demands swiftness, sense answers before modesty even stirs.
 
 **Panel 8 — Figure: Charlie**
-*Pen hesitates, then commits.*
+*Hands knotting the tapes; gaze lowered, the heat now in his throat as well as his ears.*
 
-* Charlie: You will tell me when I err—before the world observes it?
-* Celeste (off): I shall tell you before you have time to err at all.
+* Charlie: They sit… differently.
+* Celeste (off): Differently is not wrongly; it is merely new.
+
+**Panel 9 — Figure: Celeste**
+*A sturdy **corset** (coutil, front busk, back lacing)—no peacockery, only grammar.*
+
+* Celeste: This is not a prison; it is a **brace for labour**.
+* Celeste: Hook the busk yourself; I will draw the sense into the laces.
+* Celeste: You will breathe—just higher, as ladies do and wise men learn.
+
+**Panel 10 — Figure: Charlie**
+*Fingers at the busk; he fastens as if shaking hands with an expectation.*
+
+* Charlie (hushed): I had not imagined I would… require such... instruction.
+* Celeste (off): You require only willingness; the instruction is mine.
+
+**Panel 11 — Figure: Celeste**
+*Even pulls on the laces; the candle makes a neat ladder of light across the back.*
+
+* Celeste: We do not chase inches, only **usefulness**.
+* Celeste: Tell me when it feels **held**, not hunted.
+* Celeste: There—held.
+
+**Panel 12 — Figure: Charlie**
+*He takes a deliberate breath. The alarm he had stored for this moment fails to arrive on time.*
+
+* Charlie: It steadies me… like a hand at the spine.
+* Celeste (off): Precisely. Panic is amateur; steadiness is professional.
+
+**Panel 13 — Figure: Celeste**
+*A thin **corset cover** and a plain **under-petticoat** are set out, clean as sentences.*
+
+* Celeste: Cover to quiet the bones; petticoat for **warmth and modesty**.
+* Celeste: Strings even; a hem should **greet** the boot, never court it.
+
+**Panel 14 — Figure: Charlie**
+*He smooths the petticoat with a palm; fabric answers with a hush like agreement.*
+
+* Charlie (half to himself): It speaks less than my thoughts do.
+* Celeste (off): The well-arranged are quiet; let your mind take the hint.
+
+**Panel 15 — Figure: Celeste**
+*A second **work petticoat** (corded), then a plain **waist belt** meant to carry implements of the day.*
+
+* Celeste: Another for body; then the belt. **Weight belongs to the hips**, not the hands.
+* Celeste: Hands are for service, not for suffering burdens.
+
+**Panel 16 — Figure: Charlie**
+*Buckle fastened; his shoulders release the habit of boyhood by a hair’s breadth.*
+
+* Charlie: Arranged… is an odd comfort.
+* Celeste (off): Arrangement is mercy you pay for in attentiveness.
+
+**Panel 17 — Figure: Celeste**
+*A **hairbrush**; bristles drink the light. The candle makes a soft halo of discipline.*
+
+* Celeste: Center part. **Forty strokes**—to distribute oil, not to worship a number.
+* Celeste: Braid low, pins crossed. The cap awaits merit, not enthusiasm.
+
+**Panel 18 — Figure: Charlie**
+*Counting softly; the brush draws a path from uncertainty to obedience.*
+
+* Charlie: One… two… three… (a breath) eleven… twelve…
+* Celeste (off): Good. Economy of movement, not of care.
+
+**Panel 19 — Figure: Celeste**
+*A folded **house apron** and a **day dress** rest aside, still out of reach like a lesson not yet earned.*
+
+* Celeste: **Foundations first**. The gown is a privilege, never a hiding-place.
+* Celeste: Neatness purchases permission.
+
+**Panel 20 — Figure: Charlie**
+*Standing in chemise, drawers, corset, cover, and petticoats; his hands rest at his sides, not quite knowing where to live.*
+
+* Charlie (careful): I… had thought “domestique” meant something less… articulate.
+* Celeste (off): It means **attached to me**; thus you speak my grammar, even in cotton.
+
+**Panel 21 — Figure: Celeste**
+*She lights a second wick; morning thins the dark at the curtains.*
+
+* Celeste: Recite the order until your hands remember before your mouth:
+* Celeste: **Stockings, chemise, drawers, corset, cover, petticoats.**
+
+**Panel 22 — Figure: Charlie**
+*He repeats, voice steadying against the words like a sailor against a rail.*
+
+* Charlie: Stockings… chemise… drawers… corset… cover… petticoats.
+* Celeste (off): Well said. Better done.
+
+**Panel 23 — Figure: Celeste**
+*The least warming of tone, reward measured like cream into tea.*
+
+* Celeste: You have borne embarrassment with **useful silence** and **exact hands**.
+* Celeste: That combination will carry you farther than courage shouted.
+
+**Panel 24 — Figure: Charlie**
+*Head lowers in assent; the candlelight catches in his lashes like the idea of tears that never quite arrive.*
+
+* Charlie: I will keep to your order—and to you.
+* Celeste (off): Keep to me, and the order will keep to you.
+* Celeste (off): Breakfast; then your apron, and the day will begin to believe in you.
 
 ---
 
-# Strip 3 — “Paper First” (procedure makes it real)
-
-**Panel 1 — Figure: Mrs. Penfold**
-*Spectacles, ledger, unflappable calm.*
-
-* Mrs. Penfold: “Domestique—attached to Lady Celeste.” Accepted, provisionally.
-* Mrs. Penfold: Sensible economy.
-
-**Panel 2 — Figure: Charlie**
-*Reading his copy like a charge.*
-
-* Charlie: “Household standard”—pray, what is that?
-* Mrs. Penfold (off): Three rules: listen, be early, look finished.
-
-**Panel 3 — Figure: Mrs. Penfold**
-*Stamp poised; a patient scrutiny.*
-
-* Mrs. Penfold: You appear a young man inclined to “sorry.”
-* Mrs. Penfold: Try “yes, ma’am.” It wastes less life.
-
-**Panel 4 — Figure: Charlie**
-*Flustered, but compliant.*
-
-* Charlie: Yes, ma’am—oh—pardon—
-* Mrs. Penfold (off): Admirable progress.
-
-**Panel 5 — Figure: Mrs. Penfold**
-*Stamp—an official little thunderclap.*
-
-* Mrs. Penfold: Collect your livery from Wardrobe.
-* Mrs. Penfold: Deliveries at four. Drop nothing.
-
-**Panel 6 — Figure: Charlie**
-*The word puzzles him.*
-
-* Charlie: Livery—for a domestique?
-* Mrs. Penfold (off): Uniforms answer questions before they are asked.
-
-**Panel 7 — Figure: Mrs. Penfold**
-*A thin smile, not unkind.*
-
-* Mrs. Penfold: Breathe. They are garments, not shackles.
-* Mrs. Penfold: You will manage.
-
-**Panel 8 — Figure: Charlie**
-*Exits with the paper; an unease gathers.*
-
-* Charlie: Garments, yes—only garments.
-* Celeste (off): Meet me at Wardrobe on the half-hour.
+[Q]  
+This is about as good as I could ask for, Emily. Strong work. We might dwell on the dress a bit. Celeste, incidentally, discovers an interesting physical characteristic about Charlie, becoming more and more noticable as the corset is done up: due to a strong case of gynaecomastia, Charlie has a significant bosom, one that to her confirms her assertions to him back in high school that he was never meant to be a boy: that the effort would be doomed to failure. However, with his diminuitive stature and prominent chest, he is well on his way to an enriching life as a girl, Celeste's Girl. Throughout the next panels, whilst she finishes teaching him about getting dressed and ready, she drops stronger and stronger hints to the effect that he should abandon the notion of ever being a bloke (she's English, if you recall) and embrace his true self. Over to you, Emily!
 
 ---
 
-# Strip 4 — “The Parcel” (the dawning)
-
-**Panel 1 — Figure: Ada (Wardrobe)**
-*Brown paper, tidy string; competence incarnate.*
-
-* Ada: For Charles H. Sign here, and do not flee.
-* Ada: We tailor; we do not terrify.
-
-**Panel 2 — Figure: Charlie**
-*String at his fingers; a pause before untying.*
-
-* Charlie: And if it should not… suit me?
-* Ada (off): Then we make it suit you, which is our art.
-
-**Panel 3 — Figure: Ada**
-*Brisk hands, quiet voice.*
-
-* Ada: Shirtwaist, apron, skirt. All stout. No nonsense.
-* Ada: You’ll thank the apron before week’s end.
-
-**Panel 4 — Figure: Charlie**
-*Colour leaves his face; understanding arrives.*
-
-* Charlie: A skirt?
-* Celeste (off): Household livery, standard and serviceable.
-
-**Panel 5 — Figure: Ada**
-*Lifts the apron like a badge of competence.*
-
-* Ada: You spill less in this than in trousers.
-* Ada: Trust experience over vanity.
-
-**Panel 6 — Figure: Charlie**
-*Voice small, not yet rebellious.*
-
-* Charlie: Celeste… you did not say—
-* Celeste (off, gentle iron): I said “attached to me,” and “household.”
-* Celeste (off): The uniform follows from the facts.
-
-**Panel 7 — Figure: Ada**
-*Measuring tape slides about his ribs.*
-
-* Ada: Arms down. Stomach soft.
-* Ada: We fit; we do not fight.
-
-**Panel 8 — Figure: Charlie**
-*Eyes shut one beat; opens them, resigned.*
-
-* Charlie: I have signed; therefore I shall do it.
-* Celeste (off): And I shall teach you—carefully, and well.
+Exquisite. Let’s dwell on the gown and let it make its quiet, undeniable argument. Same constraints: **one visible figure per panel**, Austen-tinted, PG, with Charlie’s reluctance felt rather than spoken. Off-panel voices marked *(off)*. Here, Celeste notices what the corset has revealed and, with increasing candour, urges him to retire the notion of ever being “a bloke” and to stand—as he is.
 
 ---
 
-# Strip 5 — “Terms of the Trade” (minutiae; reluctance meets method)
+# Set 4 — “The Gown’s Argument”
 
 **Panel 1 — Figure: Celeste**
-*Holds the shirtwaist with the authority of a tutor.*
+*She turns the wick a touch higher; morning is still a rumour at the curtains. The corset is already laced to “held.”*
 
-* Celeste: The two upper buttons remain unfastened. One must breathe.
-* Celeste: You are at work, not upon a stage.
+* Celeste: Now the **bodice**, which listens to the corset the way sense listens to reason.
+* Celeste: Hooks and eyes, left over right; let the cloth meet itself without hurrying.
 
 **Panel 2 — Figure: Charlie**
-*Fingers uncertain at the placket.*
+*He holds a modest work-bodice to his chest; the curve it must cross is newly apparent even to him. Colour wakes along his cheekbones.*
 
-* Charlie: It feels—improper. As though I trespass.
-* Celeste (off): You employ a tool. Propriety is in the manner, not the cloth.
+* Charlie (hushed): It may not… lie flat.
+* Celeste (off): It is not required to lie; it is required to **fit**.
 
 **Panel 3 — Figure: Celeste**
-*Demonstrates the apron ties, neat and flat.*
+*She sets a folded **chemisette** (a filled-in neckline) on the coverlet, beside a small **fichu**.*
 
-* Celeste: Ties must lie smooth; bumps announce inexperience.
-* Celeste: We shall not proclaim it.
+* Celeste: Chemisette for decency, fichu for tenderness at the throat.
+* Celeste: **Darts** were invented by women who trusted what they saw.
 
 **Panel 4 — Figure: Charlie**
-*Practises; the knot slips; mortification close by.*
+*He slips the chemisette over his head; the linen accepts him without comment. He keeps his eyes lowered, as if the mirror were a judge best not provoked.*
 
-* Charlie: And if someone laughs?
-* Celeste (off): They will not—because I am present.
+* Charlie (low): The linen… refuses to argue.
+* Celeste (off): Precisely. It receives the **truth** and makes it orderly.
 
 **Panel 5 — Figure: Celeste**
-*Places a simple ribbon in his palm.*
+*She lifts the bodice; her glance is clinical, kind, and unstartled.*
 
-* Celeste: Hair off the collar. Ribbon says finished, not fussy.
-* Celeste: Precision is the only ornament required.
+* Celeste: Your chest is **prominent**—not troublesome; it asks to be housed, not hidden.
+* Celeste: You were never built for the life of a **boy**, still less a bloke.
 
 **Panel 6 — Figure: Charlie**
-*Awkward gather; ribbon drops once.*
+*He turns a fraction, the busk line a quiet midline of his new grammar.*
 
-* Charlie: My hands are all thumbs today.
-* Celeste (off): Excellent—thumbs improve quicker than pride.
+* Charlie (barely): I had… tried not to notice.
+* Celeste (off): And yet it continues to notice **you**.
 
 **Panel 7 — Figure: Celeste**
-*Demonstrates stance; weight forward, grace unforced.*
+*She aligns the first hook with an ease that banishes fuss.*
 
-* Celeste: Weight to the balls of the feet; spine lengthened.
-* Celeste: Think quiet lightning, not rooted oak.
+* Celeste: Breathe high; keep the shoulders **easy**.
+* Celeste: The bodice will **choose you** if you stop resisting what already is.
 
 **Panel 8 — Figure: Charlie**
-*Imitates; surprised by the balance.*
+*He obeys; a breath finds the new shelf of air the corset affords. The fabric closes with a soft, inevitable sound.*
 
-* Charlie: It is—less dreadful than expected.
-* Celeste (off): “Less dreadful” is the doorway to “capable.”
+* Charlie (small): It… closes.
+* Celeste (off): Of course it closes. **You are what it was cut for.**
+
+**Panel 9 — Figure: Celeste**
+*She smooths a **princess seam** with two firm fingers, then checks the arm-scye for bite.*
+
+* Celeste: No pinching; we seek **service**, not martyrdom.
+* Celeste: See? The seam admits your **figure** without complaint.
+
+**Panel 10 — Figure: Charlie**
+*He tests a reach; the gusset behaves. A thread of relief sneaks past his guard.*
+
+* Charlie: I can move.
+* Celeste (off): Movement is your work; **pretense** is no one’s.
+
+**Panel 11 — Figure: Celeste**
+*She presents the **skirt**—workday, pleated; a tape awaits to fasten to the petticoat so weight is carried on the hips.*
+
+* Celeste: Skirt tapes to petticoat—weight where the body can bear it.
+* Celeste: You will step **through**, not into, and let the day hang correctly.
+
+**Panel 12 — Figure: Charlie**
+*He steps through; cloth settles with a hush that sounds like acceptance more than surrender.*
+
+* Charlie (half-breath): It is… heavier than the chemise, yet kinder than I feared.
+* Celeste (off): Kindness is simply **design that tells the truth**.
+
+**Panel 13 — Figure: Celeste**
+*She fastens the waist; then brings the **apron**, plain, beautifully hemmed.*
+
+* Celeste: Apron for work—**finished, not fussy**.
+* Celeste: Ties flat; lumps shout “amateur,” and you will not shout.
+
+**Panel 14 — Figure: Charlie**
+*He draws the strings, eager to do at least this part exactly right; the bow sits with satisfying modesty.*
+
+* Charlie: Is… that correct?
+* Celeste (off): That is **presentable**. Presentable is a promise kept.
+
+**Panel 15 — Figure: Celeste**
+*She lifts a neat **cap**; pins poised like punctuation.*
+
+* Celeste: Cap upon merit, not enthusiasm. Hair low, pins crossed; **order owns the morning**.
+* Celeste: Tilt a whisper—softens severity.
+
+**Panel 16 — Figure: Charlie**
+*He feels the pins—firm, not cruel. The cap’s little brim edits his view; he inhales the lavender again.*
+
+* Charlie (soft): The room looks… calmer from under this.
+* Celeste (off): Because **you** look calmer to the room.
+
+**Panel 17 — Figure: Celeste**
+*She sets a **work belt** with pockets: pencil, notebook, keys.*
+
+* Celeste: Tools here; hands free. You carry capability on your **waist**, not your worry in your palms.
+* Celeste: Keys lie quiet unless summoned.
+
+**Panel 18 — Figure: Charlie**
+*He touches the ring of keys with a flinch that might be pride if given time.*
+
+* Charlie: They sound… official.
+* Celeste (off): You are **official**. You are *mine*—in my charge and to my standard.
+
+**Panel 19 — Figure: Celeste**
+*She studies him as a mistress studies a room she intends to live in—a measure, not a debate.*
+
+* Celeste: Look at you, Charles—**shorter than the pretence of manhood**, broader where **useful**.
+* Celeste: The world has been misnaming you; the **gown** knows better.
+
+**Panel 20 — Figure: Charlie**
+*He does not lift his eyes to the mirror; he watches the floorboards, which do not contradict her.*
+
+* Charlie (faint): I hear what you say.
+* Celeste (off): Then **believe** what you see.
+
+**Panel 21 — Figure: Celeste**
+*She straightens the fichu’s edge, her tone kind and inarguable.*
+
+* Celeste: Retire the gentleman **experiment**; it has cost you enough.
+* Celeste: A **bloke** you are not; a capable **girl** you already resemble.
+
+**Panel 22 — Figure: Charlie**
+*A swallow, visible; then a steadier breath, higher in the chest as taught.*
+
+* Charlie (careful): I… will keep to your instruction.
+* Celeste (off): Keep to **me**, and instruction will keep to you.
+
+**Panel 23 — Figure: Celeste**
+*She steps back half a pace—the inspector satisfied, the tutor pleased.*
+
+* Celeste: There stands **my maid**: arranged, and therefore brave.
+* Celeste: We will let the day take its lesson from you.
+
+**Panel 24 — Figure: Charlie**
+*At last he risks his reflection; the figure that looks back is not what he trained himself to expect—and not his enemy.*
+
+* Charlie (quiet): I… do not know this person—and yet he does not quarrel with me.
+* Celeste (off): Learn her name at your leisure.
+* Celeste (off): For today, answer to **mine**, and do as I say.
 
 ---
 
-# Strip 6 — “House Rules” (address, posture, first test)
-
-**Panel 1 — Figure: Mrs. Hargrave**
-*Clipboard; benevolent severity.*
-
-* Mrs. Hargrave: You shadow the lady, and answer to me.
-* Mrs. Hargrave: Serve sense before ceremony.
-
-**Panel 2 — Figure: Charlie**
-*Back straightens on instinct.*
-
-* Charlie: Yes, ma’am. I shall endeavour.
-* Mrs. Hargrave (off): Endeavour early.
-
-**Panel 3 — Figure: Celeste**
-*Adjusts his collar by a whisper.*
-
-* Celeste: “Excuse me” improves upon “sorry.”
-* Celeste: “Right away” conquers “in a moment.”
-
-**Panel 4 — Figure: Charlie**
-*Practises the smallest bow to no one at all.*
-
-* Charlie: I feel ridiculous.
-* Celeste (off): You feel new. It passes.
-
-**Panel 5 — Figure: Mrs. Hargrave**
-*Hands him an empty tray; the test begins.*
-
-* Mrs. Hargrave: To Table Four; arms steady, hands soft.
-* Mrs. Hargrave: Carry it as if full.
-
-**Panel 6 — Figure: Charlie**
-*Walks with intent; breath counted.*
-
-* Charlie: Steady… soft… breathing—
-* Celeste (off): Breathe between the steps, not upon them.
-
-**Panel 7 — Figure: Mrs. Hargrave**
-*A glance at the clock; the faintest nod.*
-
-* Mrs. Hargrave: Not disgraceful.
-* Mrs. Hargrave: Tomorrow it is not empty.
-
-**Panel 8 — Figure: Charlie**
-*Leans to the wall, one quiet breath released.*
-
-* Charlie: I still dislike the skirt exceedingly.
-* Celeste (off): You dislike beginnings. Continue, and dislike will weary first.
+[Q]  
+Elegant! Truly, truly Elegant, Emily! I am so impressed. 
+Right! So, at this juncture it seems fitting that Celeste addresses him by the name she had already picked out for him: "Charlotte". Indeed, she'd been calling him "Sharl" at school before, which he thought was just her way of pronouncing "Charl" (short for "Charlie)... he was wrong. She now emphasises his name and station and dependency on HER, and thus her ownership of him yet again. His hair is placed under a maid's cap and the two repair to her room which is opulent, feminine, almost decadent. He is to prepare her bath. Her bath: he blushes anew. (We will keep it PG, I promise).
 
 ---
 
-### Quick staging notes
-
-* Keep **props** declarative—pass, parcel, ribbon, tray—so a single figure reads the beat.
-* Let **off-panel voices** enter from consistent “sides” (Celeste from right, Penfold from left, Hargrave from above/doorway) to cue the ear.
-* To **trim**, remove the second sentence of any panel; the cadence will hold.
-
-If you’d like, I can Austen-polish two more sets in the same mode—**a milliner’s visit** and **the first truly full tray**—to bring the week to a poised close.
+[A]  
