@@ -914,3 +914,342 @@ Right! So, at this juncture it seems fitting that Celeste addresses him by the n
 ---
 
 [A]  
+Wonderful. Here is **Set 5 — “Name and Office”**: Austen-tinted, **one visible figure per panel**, ≤4 lines each, firmly PG. Celeste christens him **Charlotte**, fixes the cap, asserts station and dependency, and leads to her opulent chamber for the most delicate assignment: preparing her bath. Off-panel voices marked *(off)*.
+
+---
+
+# Set 5 — “Name and Office”
+
+**Panel 1 — Figure: Celeste**
+*Her fingers rest a moment at his collar; authority made gentle.*
+
+* Celeste: Hear me, **Charlotte**.
+* Celeste: I called you *Sharl* at school because I knew your name before you did.
+* Celeste: You answer to it now—**and to me**.
+
+**Panel 2 — Figure: Charlotte (Charlie)**
+*A blink; the new name lands where breath ought to be. Colour rises.*
+
+* Charlotte (faint): Charlotte…
+* Celeste (off): Yes. **My maid**, Charlotte.
+* Celeste (off): Near me, under my direction, to my standard.
+
+**Panel 3 — Figure: Celeste**
+*The **maid’s cap**—fresh-laundered—poised like a seal.*
+
+* Celeste: Hair low; pins crossed; **cap upon merit**.
+* Celeste: Tilt a whisper—severity softened.
+* Celeste: There. Now the room will believe you.
+
+**Panel 4 — Figure: Charlotte**
+*He feels the pins settle; the brim narrows the world to intention. He breathes higher, as taught.*
+
+* Charlotte (small): I… understand my place better when it frames my sight.
+* Celeste (off): Your place is **with me**. Keep near; keep faith.
+
+**Panel 5 — Figure: Celeste**
+*A communicating door opens; her chamber blooms—silk draperies, ormolu gleam, rose in the air like a memory.*
+
+* Celeste: Attend me to my room—**your orbit**.
+* Celeste: It is feminine on purpose; you are not to be afraid of plenty.
+* Celeste: Plenty serves discipline, not indulgence.
+
+**Panel 6 — Figure: Charlotte**
+*He stands at the threshold; the opulence disorients and beckons. The ring of keys at his waist answers with a tiny, official chime.*
+
+* Charlotte (flushed): It is… generous. Almost a dream.
+* Celeste (off): A **well-governed** dream. You will keep it so.
+
+**Panel 7 — Figure: Celeste**
+*She gestures to the screen, the copper tub, the ewers steaming faintly; a tray bears salts, a vial of attar, linen folded into squares.*
+
+* Celeste: **Prepare my bath**, Charlotte—quiet hands, thinking first.
+* Celeste: Hot water first, then temper with cold.
+* Celeste: Elbow to test; not bravado—**comfort exact**.
+
+**Panel 8 — Figure: Charlotte**
+*At the tub; he pours, checks the steam with the inside of his arm, blush renewed but conduct steady.*
+
+* Charlotte (careful): Hot… now tempered. Elbow remembers.
+* Celeste (off): Good.
+* Celeste (off): Two palmfuls of salts, **one sigh of rose**—no more.
+
+**Panel 9 — Figure: Celeste**
+*She indicates the linens: bath sheet warming by the fender, towels graded from hair to hands, a robe awaiting the moment.*
+
+* Celeste: Warm the large sheet; hair towel on the chair; hand towel at the screen.
+* Celeste: Robe **within reach, not on display**.
+* Celeste: Order spares blushes.
+
+**Panel 10 — Figure: Charlotte**
+*He lays the towels like sentences that will be read in the right order; the blush lingers but does not govern him.*
+
+* Charlotte (low): Warmed… graded… within reach.
+* Celeste (off): You see? **Usefulness conquers awkwardness.**
+
+**Panel 11 — Figure: Celeste**
+*She nods to the privacy screen; a final instruction like a signature.*
+
+* Celeste: When I step behind the screen, you wait—**near**.
+* Celeste: If I call, you come; if I do not, you anticipate the next kindness.
+
+**Panel 12 — Figure: Charlotte**
+*He bows the smallest bow, cap steady, gaze lowered; the name sits on him like a garment that will, in time, become his.*
+
+* Charlotte (soft): Yes, my lady.
+* Celeste (off): Sensible.
+* Celeste (off): **Charlotte, stay close—and do as I say.**
+
+---
+
+[Q]  
+Now, Charlotte will learn how to dress Celeste, which of course is a far more elaborate process - once again, I submit to your expertise on these matters, Emily. Spare no detail, however slight. Celeste is driving home Charlotte's station again and again to etch into his consciousness an indelible new status, a new awareness, a new humility... not just one of servility, but he's going to learn to "live a woman's experience". It is far more than he bargained for, but with Celeste's firm hand he will move fluidly into the new role, eventually. At the moment, learning the Victorian woman's day apparel from the skin out is bewildering yet he sets about devoted to the task.
+
+---
+
+[A]  
+Wonderful. Here is **Set 6 — “Dressing the Lady”**: Austen-tinted, **one visible figure per panel**, ≤4 lines each, firmly PG. Charlotte learns the full daytime toilette from the skin outward for **late-Victorian** wear (chemise → drawers → stockings/boots → corset → corset cover → bustle pad/crinolette → petticoats → skirt & bodice → collar, cuffs, apron-guard/tea-protector → ornaments, gloves, hat). Celeste drives home station, dependency, and the lesson: *to live a woman’s experience is to live by arrangement*. Off-panel voices marked *(off)*.
+
+---
+
+# Set 6 — “Dressing the Lady”
+
+**Panel 1 — Figure: Celeste**
+*She stands at the dressing screen, robe belted; the room is an arsenal of order—brushes, pins, ribbons, tapes, laces.*
+
+* Celeste: Attend closely, **Charlotte**; today you become **my hands**.
+* Celeste: Dressing a lady is not decoration; it is logistics performed beautifully.
+* Celeste: You will learn the **sequence** until it dreams you.
+
+**Panel 2 — Figure: Charlotte**
+*At the dressing table; he steadies himself with a breath that lands higher in the chest.*
+
+* Charlotte (quiet): I am ready to learn, my lady.
+* Celeste (off): Good. Obedience first; cleverness may arrive later.
+
+**Panel 3 — Figure: Celeste**
+*She lays a fresh **chemise** of fine lawn upon the chair.*
+
+* Celeste: **Chemise**—the truce between skin and everything else.
+* Celeste: Offer it from the hem; I step **into**, not **through**.
+* Celeste: Lift slowly—linen does not enjoy haste.
+
+**Panel 4 — Figure: Charlotte**
+*He raises the chemise in a calm arc, eyes lowered; the linen slides like a promise.*
+
+* Charlotte: Hem offered… shoulders found.
+* Celeste (off): Smooth the seams along the collarbone—creases slander good breeding.
+
+**Panel 5 — Figure: Celeste**
+*Plain split **drawers** presented, neatly folded.*
+
+* Celeste: Drawers—ties to the front; not a topic, merely **practical**.
+* Celeste: You hold steady while I step; then draw them **even**, not tight.
+
+**Panel 6 — Figure: Charlotte**
+*Ties come true under his fingers; a blush flickers and passes into duty.*
+
+* Charlotte: Even, not tight.
+* Celeste (off): You will tire of that phrase; you will never escape it.
+
+**Panel 7 — Figure: Celeste**
+*Rolled **stockings** and a pair of buttoned ankle boots await; a small **buttonhook** lies like a silver verb.*
+
+* Celeste: Stockings—roll, unroll; heel kisses heel. **Garters** above the knee—secure, never strangling.
+* Celeste: Boots next. The buttonhook speaks where fingers mumble.
+
+**Panel 8 — Figure: Charlotte**
+*Kneeling to fasten; the tiny buttons answer with patient clicks.*
+
+* Charlotte (low): Hook catches; button obeys.
+* Celeste (off): Precisely. Let small things teach you governance.
+
+**Panel 9 — Figure: Celeste**
+*A sturdy **corset** (coutil, spoon busk) rests upon the stand; laces opened, modesty panel smooth.*
+
+* Celeste: Corset—**brace, not theatre**. You close the busk; you draw the laces.
+* Celeste: From **top and bottom toward the waist**, evenly. Two fingers under the lace—always respiration, never romance.
+
+**Panel 10 — Figure: Charlotte**
+*He works the lacing methodically; the waist ribbon finds him before he must hunt it.*
+
+* Charlotte: Top to waist… bottom to waist… held, not hunted.
+* Celeste (off): Well said. Tie off in a square knot; bows **invite** disaster.
+
+**Panel 11 — Figure: Celeste**
+*A thin **corset cover** is set out; beside it, a tiny vial of scent to discourage the vanity of starch.*
+
+* Celeste: Cover—quiet the bones so gowns glide.
+* Celeste: One drop of scent to the **hem only**; the neck must speak **soap**.
+
+**Panel 12 — Figure: Charlotte**
+*He smooths the cover’s hem; his fingers learn to think ahead of him.*
+
+* Charlotte: Hem quiet… lines calmed.
+* Celeste (off): Your hands are beginning to understand grammar.
+
+**Panel 13 — Figure: Celeste**
+*A quilted **bustle pad** and a light **crinolette** hang from a waist tape.*
+
+* Celeste: For day wear: **bustle** to balance the figure; tape sits upon the **hip bones**.
+* Celeste: Pins crosswise; nothing migrates in my house.
+
+**Panel 14 — Figure: Charlotte**
+*He fastens the tape; the silhouette alters with the inevitability of a well-phrased sentence.*
+
+* Charlotte (hushed): The shape… answers the corset.
+* Celeste (off): Exactly. Architecture converses; we merely host the debate.
+
+**Panel 15 — Figure: Celeste**
+*A plain **under-petticoat**, then a corded **top petticoat**—heft without heaviness.*
+
+* Celeste: Petticoats—**under** for modesty, **over** for air and authority.
+* Celeste: Hems kiss the boot; nothing courts the floor.
+
+**Panel 16 — Figure: Charlotte**
+*He lifts and settles the petticoats; the hush of fabric is now a language he can almost read.*
+
+* Charlotte: Kiss, not court.
+* Celeste (off): Now you are using your ears.
+
+**Panel 17 — Figure: Celeste**
+*She brings the **skirt** (cartridge-pleated) with sewn tapes to catch the petticoat’s buttons.*
+
+* Celeste: Offer the skirt; **tape to buttons**, weight to hips.
+* Celeste: Pleats face left as cut; do not improvise nature.
+
+**Panel 18 — Figure: Charlotte**
+*Tapes find their mates; the skirt settles like a decision finally made.*
+
+* Charlotte: Tapes caught; pleats lying to their home.
+* Celeste (off): And thus the day will lie down when told.
+
+**Panel 19 — Figure: Celeste**
+*Next, the **bodice**—hooks and eyes, modesty placket; a small **bone busk** at the center front to keep the line.*
+
+* Celeste: Bodice meets corset like law meets precedent.
+* Celeste: Begin **at the waist**, then upward, then down—so the cloth cannot argue.
+
+**Panel 20 — Figure: Charlotte**
+*He follows the sequence; the last hook finds its partner without a chase.*
+
+* Charlotte: Waist… up… down. No argument.
+* Celeste (off): You see? Authority is only sequence with witnesses.
+
+**Panel 21 — Figure: Celeste**
+*A detachable **collar** and **cuffs** wait with tiny studs; a cameo brooch regards the world gently.*
+
+* Celeste: Collar and cuffs—**snow at the edges** persuades the room of cleanliness.
+* Celeste: Studs through, brooch central; never strangle the throat, merely **govern** it.
+
+**Panel 22 — Figure: Charlotte**
+*He sets the studs; the brooch finds its small throne at the hollow of her throat.*
+
+* Charlotte (careful): Governed, not pinched.
+* Celeste (off): A woman’s comfort is **non-negotiable**; you will defend it.
+
+**Panel 23 — Figure: Celeste**
+*At the dressing table: hair already braided; he produces the **comb**, **pins**, a dab of pomatum; the **hat** waits upon its stand, veil folded.*
+
+* Celeste: Hair—part, smooth, coil; pins **crossed**.
+* Celeste: Hat last; two pins at the temples, one at the crown—storm-proof, gossip-proof.
+
+**Panel 24 — Figure: Charlotte**
+*He anchors the hat; the veil agrees to be decorum, not eclipse.*
+
+* Charlotte: Temples… crown. Settled.
+* Celeste (off): You learn because you **listen**; that is the only miracle I trust.
+
+**Panel 25 — Figure: Celeste**
+*She opens the jewel tray, then closes it again; instead she chooses her **chatelaine**—scissors, vinaigrette, pencil, watch.*
+
+* Celeste: Morning asks for **use**, not glitter.
+* Celeste: Fasten the chatelaine to the belt; time shall hang where I can command it.
+
+**Panel 26 — Figure: Charlotte**
+*Click: the chatelaine sits; the room seems to acknowledge a center of gravity.*
+
+* Charlotte: Time… commanded.
+* Celeste (off): And you, commanded—by me, for good.
+
+**Panel 27 — Figure: Celeste**
+*She extends her hands; **gloves** lie ready with a small **glove-stretcher**.*
+
+* Celeste: Gloves—turn the stretcher **once**, not thrice; fingers are not sausages.
+* Celeste: Button from wrist toward the pulse; kindness first.
+
+**Panel 28 — Figure: Charlotte**
+*He eases the gloves on; the little buttons concede with soft, dutiful pops.*
+
+* Charlotte: Wrist to pulse—kindness.
+* Celeste (off): You will repeat that in other rooms, other ways.
+
+**Panel 29 — Figure: Celeste**
+*She regards herself in the long glass only to confirm Charlotte’s work, not her own beauty.*
+
+* Celeste: Now attend: **station** is not a crown; it is a **practice**.
+* Celeste: You will **practice me**—my timings, my preferences, my limits—until your service is a second sight.
+
+**Panel 30 — Figure: Charlotte**
+*He bows, the cap steady, keys quiet, hands clean; what began as bewilderment is settling into fluency.*
+
+* Charlotte (steady): I will keep your sequence, and let the day obey it.
+* Celeste (off): Sensible.
+* Celeste (off): **Charlotte, stay close—and do as I say.**
+
+---
+
+**Further Notes**  
+Great question—given what we put on her (chemise → drawers → corset + cover → bustle/crinolette → under/top petticoats → cartridge-pleated skirt → day bodice with modesty placket/chemisette → collar & cuffs → hat with pins → gloves → chatelaine), Celeste is dressed for **late-Victorian day wear**—think **morning-to-late-afternoon, public-facing duties** at the Faire:
+
+* **Occasion:** promenade about the grounds, paying short calls, supervising the tea room or household staff, visiting the milliner or charity stall, luncheon—elegant but practical.
+* **Why we know:** modest neckline (chemisette/fichu), **hat** (not a bonnet with evening ribbons), **gloves**, sturdy **walking boots**, a **chatelaine** (tools/timekeeper) and tidy bustle/skirts—everything says “competent lady about her business,” not evening finery or riding.
+
+If you want to nudge the look for a specific scene:
+
+* **Promenade/showing the grounds:** add a parasol and a slightly wider hat brim.
+* **Receiving visitors/short calls:** swap in a cleaner cuff/collar set, visiting-card case.
+* **Tea-room management:** sleeve protectors or a pretty tea apron (over the skirt), keep jewelry minimal.
+* **Church/charity stall:** quieter colors, perhaps a small brooch with a ribbon cockade.
+
+Notably **not** this outfit: riding habit (needs tailored jacket/skirt & hat), evening/demi-toilette (lower neckline, richer fabrics), or heavy housework (would add plain work apron and cap, fewer trims).
+
+---
+
+[and]  
+Thrilled this helped, Robyn. Before you dive into renders, here’s a tiny, keep-by-your-monitor cheat-sheet for **Charlotte at the Faire** so your panels stay consistent:
+
+
+
+**Dressing order (maid & lady)**
+
+**Maid (foundation):** stockings → chemise → drawers → corset → corset cover → under-petticoat → work petticoat → skirt → apron → ribbon/cap → belt/keys.
+**Lady (day wear):** chemise → drawers → stockings/boots → corset → corset cover → bustle/crinolette → under + top petticoats → skirt (tapes to petticoat) → bodice (waist→up→down) → chemisette/fichu → collar & cuffs → gloves → hat (2 pins temples, 1 crown) → chatelaine.
+
+
+
+**Visual cues to keep the arc clear**
+
+* **Ownership language:** slip a caption near Celeste when you need emphasis—“attached to me,” “to my standard,” “keep near.”
+* **Reluctance without protest:** show it in **hands** (hovering, then committing), **ears/cheeks** (flush), and **breath** (counted, then steady).
+* **Status tokens:** parasol, ledger/petition, maid’s cap, keys, chatelaine, ribbon, apron bow (neat, low-contrast).
+* **Scent & sound beats:** lavender/rosewater for calm; keys/china for “official.” Use once per strip max.
+
+
+
+**Palette & texture (Victorian, PG, readable)**
+
+* **Lady Celeste:** moss, dove, wine accents; matte fabrics with a single satin highlight (ribbon/fichu).
+* **Charlotte (maid):** cream/white foundations, soft black/charcoal dress, **moss ribbon** as your recurring “finished” tag.
+* **Metal:** warm brass (chatelaine, pins), never chrome.
+* **Lighting:** early sets = candle/lamplight (gold), day service = cool skylight with warm bounce.
+
+
+
+**Panel grammar (one figure per panel)**
+
+* **Off-panel voice direction:** Celeste from frame-right, Penfold frame-left, Hargrave from “doorway/top.”
+* **Beat rhythm:** task → correction → breath → small win.
+* **Close-ups that sell skill:** buttonhook at boot; lacing from top/bottom to waist; apron knot lying flat; skirt tape catching petticoat button.
+
+If you want, when you have a first render pass, I can mark continuity tweaks (cap tilt, apron tie height, skirt hem “kissing the boot,” etc.). Happy rendering—may your denoise be kind and your keys stay quiet.
