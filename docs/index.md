@@ -38,6 +38,42 @@
 
 ---
 
+<a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-03Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+<a href="/assets/images/blog25/07-04Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-04Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+
+[Celeste's Girl](/CelestesGirl/index.md/)  
+🌹🌼🌹 [ ⇨ Chapter 1](/CelestesGirl/Chap01.md)   
+🌼🌹🌼 [ ⇨ Chapter 2](/CelestesGirl/Chap02.md)   
+🌹🌼🌹 [ ⇨ Plots 1](/CelestesGirl/PlotDv01.md)   
+🌼🌹🌼 [ ⇨ Plots 2](/CelestesGirl/PlotDv02.md)   
+🌹🌼🌹 [ ⇨ Plots 3](/CelestesGirl/PlotDv03.md)   
+🌼  
+🌹  
+
+---
+
+<a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-03Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+<a href="/assets/images/blog25/07-04Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/07-04Office.jpg" alt="Office Girl" width="200" align="right"></a>
+
+
+[Developer](/Dev/index.md/)  
+🌹🌼🌹 [ ⇨ Banners](/Dev/Banners.md)   
+🌼🌹🌼 [ ⇨ MyNotes](/Dev/Careful.md)  
+🌹🌼🌹 [ ⇨ ComfyUI](/Dev/Comfyui.md)  
+🌼🌹🌼 [ ⇨ Domains](/Dev/DomXfer.md)  
+🌹  
+🌼  
+🌹  
+
+---
+
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
   .column {flex: 1 1 0; min-width: 0;}
