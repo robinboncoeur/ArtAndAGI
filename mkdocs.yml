@@ -43,7 +43,9 @@ nav:
     - CelestesGirl/index.md
     - Chapter 1: CelestesGirl/Chap01.md
     - Chapter 2: CelestesGirl/Chap02.md
-    - Plot Devt: CelestesGirl/PlotDv.md
+    - Plot Dev01: CelestesGirl/PlotDv01.md
+    - Plot Dev02: CelestesGirl/PlotDv02.md
+    - Plot Dev03: CelestesGirl/PlotDv03.md
   - Dev:
     - Dev/index.md
     - Banners and Stuff: Dev/Banners.md
