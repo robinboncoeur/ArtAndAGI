@@ -65,3 +65,27 @@ And I’m the one who still loves your ghost
 I reanimate your bones  
 Cause I’m a true believer  
 
+
+
+
+## Notes
+
+---
+
+Thank you, Jack. I don't use AI in music: I wrote that piece in MuseScore:
+
+https://musescore.org/en
+
+A sounds Library called MuseSounds comes with MuseScore Studio, which enables you to do a fairly credible rendition of your piece. I say "fairly" because the technology is still not quite at 'Digital Audio Workstation' level: I use Reaper for that.
+
+I took Music Theory back in the 70s - and bombed!, too lazy - and so had a bit of background on composition. Decided to have another go shortly before I retired. Got a leg up on orchetration by transcribing music of composers who I knew wouldn't be contesting copyright: for example, Carl Reinecke, whose Serenade for Strings in G took my fancy. You can hear the difference between MuseSounds and a proper DAW  (I use Reaper) quite readily here:
+
+https://art.tightbytes.com/assets/music/S4S6.mp3
+
+https://art.tightbytes.com/assets/music/S4S6-r.mp3
+
+In the Reaper version, the articulations are much crisper.
+As to Composition itself: it's part of how my head is shaped, I guess. We grew up with the classics right up to but not including Stravinsky, Debussy and Shostakovich. My parents couldn't get their heads around all the dissonance, I guess.
+
+---
+
