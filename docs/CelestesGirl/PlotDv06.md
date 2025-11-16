@@ -2063,7 +2063,6 @@ Then she picked up the knife, wiped her eyes with the back of her wrist, and wen
 
 Somewhere between her rules, her sister’s hand-me-downs, and a girl brave enough to walk him into the storm and stand there with him, her son was learning how to stand in a different kind of jeans—and in himself.
 
-
 ---
 
 Sleep absolutely wins this round. 😄
