@@ -38,11 +38,12 @@
 
 ---
 
-<a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/07-03Office.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/CelP06/P06-01Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/CelP06/P06-01Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
-<a href="/assets/images/blog25/07-04Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/07-04Office.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/CelP06/P06-02Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/CelP06/P06-02Girls.jpg" alt="Office Girl" width="200" align="right"></a>
+
 
 
 [Celeste's Girl](/CelestesGirl/index.md/)  
@@ -51,16 +52,18 @@
 🌹🌼🌹 [ ⇨ Plots 1](/CelestesGirl/PlotDv01.md)   
 🌼🌹🌼 [ ⇨ Plots 2](/CelestesGirl/PlotDv02.md)   
 🌹🌼🌹 [ ⇨ Plots 3](/CelestesGirl/PlotDv03.md)   
-🌼  
-🌹  
+🌼🌹🌼 [ ⇨ Plots 4](/CelestesGirl/PlotDv04.md)     
+🌹🌼🌹 [ ⇨ Plots 5](/CelestesGirl/PlotDv05.md)     
+🌼🌹🌼 [ ⇨ Plots 6](/CelestesGirl/PlotDv06.md)     
+
 
 ---
 
-<a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/07-03Office.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/CelP06/P06-03Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/CelP06/P06-03Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
-<a href="/assets/images/blog25/07-04Office.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/07-04Office.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/CelP06/P06-04Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/CelP06/P06-04Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
 
 [Developer](/Dev/index.md/)  
