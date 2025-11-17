@@ -51,6 +51,7 @@ nav:
     - Plot Dev06: CelestesGirl/PlotDv06.md
   - Dev:
     - Dev/index.md
+    - AI Imaging Models: Dev/aiModels.md
     - Banners and Stuff: Dev/Banners.md
     - Careful Ideas Now: Dev/Careful.md
     - ComfyUI Guidance: Dev/Comfyui.md

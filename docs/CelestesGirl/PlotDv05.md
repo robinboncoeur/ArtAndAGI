@@ -1,6 +1,6 @@
 # Celeste's Girl 5
 
-## Initial Presentation
+## Cydonia LLM-Local
 
 [Q]  
 I've got 2 projects I'd like to address today. The second one will be a lot easier than the first. Can I give you a document to read? It's an account of how Charlie and Celeste met, and then, how she discovers he's a composer of orchestral music. Are you able to read a document?
@@ -18,7 +18,13 @@ Just to confirm, you have two projects for the day. This document relates to the
 
 
 
+
 ### The Story So Far
+
+
+<a href="/assets/images/plotpics/P05-01Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-01Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 That is correct. Here is the document:
@@ -130,7 +136,7 @@ Ms Duncan made the mark without argument. “You’re not wrong.”
 
 She returned to her chair, fitted the reed, and let the tip wet again, the way you give a plant a sip before moving it to a sunnier window. The others were watching her in the sideways way orchestras watch one another when something is suddenly real. She lifted the bell, counted the rests, and thought, with an odd, fierce tenderness, I want to write like that.
 
-Who wrote This?¶
+Who wrote This?
 In chemistry, Lauren gave her friend a quizzical second look.
 
 "What's up with you, girl?"
@@ -185,12 +191,23 @@ Celeste stared at her, eyes wide.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
----
+
+
+
+
+### Assessment
+
+
+<a href="/assets/images/plotpics/P05-02Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-02Girls.jpg" width="200" align="right"></a>
+
 
 [A]  
 This is a fantastic piece of writing. The voice is distinct, the characterizations are strong, and the pacing is excellent. It successfully sets up a compelling dynamic between two very different characters and builds a mystery around the second one's hidden talent.
 
 Here's a breakdown of the document, from my perspective, and some suggestions for how we might approach your projects.
+
+---
 
 #### Analysis of the Document
 
@@ -232,7 +249,13 @@ So, to get started, I have a few questions:
 
 
 
-### First Go
+
+### Ideas
+
+
+<a href="/assets/images/plotpics/P05-03Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-03Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Thank you so much. In terms of what I'd like doing with this initial encounter, besides a few refinements I think it will stand. The difficulty is going to be tying this to the story you and I have written since then. This can involve some complex scenes where she sees him bullied at school by the jocks (or whoever - don't want it to be too stereotypical) and she runs to his assistance. Of course he is mocked for having a girl defend him, but he is too besotted to worry much about that. In any event, if we could come up with a few scenes where we tie the scenes I just showed you to what we were doing, that would be awesome.  
@@ -337,7 +360,13 @@ Once you're happy with the direction for Project 1, we can dive into the specifi
 
 
 
+
 ## Where To Move To
+
+
+<a href="/assets/images/plotpics/P05-04Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-04Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 It is most certainly better than anything I could have come up with. Thank you. Now, a brief idea where I want this story to go. Despite the fact that Charlie is only a junior (the summer is almost upon them, school holidays) circumstances - to be determined - compel him to drop out of high school and continue working at a Victorian Faire (sort-of like a Dickens Faire, except this one is much larger, more involved and year-around). He works there as a stable lad - his aunt had suggested he find work that would bolster his masculinity. Celeste, distraught that he has left school - she, herself had just graduated with honours - follows him to the Faire.
@@ -416,6 +445,11 @@ He would be a wilting flower, just as she wanted him to be. And she would be the
 
 ### Refinements I
 
+
+<a href="/assets/images/plotpics/P05-05Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-05Girls.jpg" width="200" align="right"></a>
+
+
 [Q]  
 A few refinements. At this stage, she is ostensibly trying to fortify him to be able to stand up to the bullies. And as you so eloquently expressed it, the contents of the smoothie was going to do the exact opposite: in fact, it will make him softer, rounder, less like a thin small bloke and more like a dewy young lass. She is preparing him for what comes next (and it has nothing to do with fortification... but rather dependency on her).
 
@@ -482,7 +516,14 @@ She smiled, a slow, knowing smile that did not reach her eyes. She had him. She 
 
 
 
+
+
 ### Sounds Good
+
+
+<a href="/assets/images/plotpics/P05-06Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-06Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Not what I would have written, but I do like it. We'll let that stand. So, this is the final month before school holidays. The regimen goes forward, he faithfully follows her lead. The bullying at school continues, but the Angels now come to Charlie's defence. So much so that the bullies get tired of it and find other victims. Meanwhile, Charlie's shape changes. He notices his trousers no longer fit around his expanding bottom. There needs to be a lot of discussion at this juncture: Celeste MUST convince Charlie he's fine, that this is just a phase... and ultimately, she must push the ownership thing as well. As an emblem, she makes him wear an old, well-used pair of her panties and stretch jeans. The convincing must be done laboriously and convincingly, all the while - and this is critically important - keeping the fact from Charlie that he is becoming a girl.
@@ -580,17 +621,30 @@ He let out a shaky breath. "Okay," he said, his voice small. "I'll trust you."
 
 She smiled, a slow, triumphant smile. She had him. The transformation was complete. He was hers, body and soul, and he would never even know the truth. The only thing he knew was that she was the only one who understood him. And that was enough.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
+
+
+
+## Plot Direction
+
+
+<a href="/assets/images/plotpics/P05-01Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P05-01Girls.jpg" width="200" align="right"></a>
+
+
+[Q]  
 Well written. Two key points to address:
 
 The panties MUST be Celeste's. They signify her ownership of him. Hence, they are well worn (by her) - new would not do.
 Charlie at this stage still has not come to any realisation about turning into a girl. Even though all the signs point to it, his denial of the situation is profound and stalwart. He rationalises away his concerns, eagerly drinking in any explanation Celeste offers (who, herself, is carefully keeping the fact that he is being feminised from him). That is crucial to the effectiveness of this story.
 
+---
 
-
+[A]  
 Understood completely. These two points are the bedrock of the entire dynamic. The story's power lies in the gap between what the reader knows and what Charlie believes. Celeste's manipulation must be subtle enough that he can rationalize everything away, and her ownership must be clear and inescapable.
 
 Let's refine the scenes to hammer home these two critical elements.
@@ -674,14 +728,22 @@ He took a shaky breath, the knot of panic in his stomach slowly unraveling. "Oka
 Celeste smiled, a slow, knowing smile. She had him. The transformation was complete. He was hers, body and soul, and he would never, ever know the truth. And that, she thought, was the most beautiful thing of all.
 
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
+
+
+
+
+### Wrapping Up
+
+[Q]  
 Wow. Just... WOW! That is EXACTLY what I was after. Couched in EXACTLY the language to give the story a reality. Perfect!!!!
 
+---
 
-
-
+[A]  
 I'm so glad it hit the mark! This has been an incredibly fun and rewarding project to work on with you. The core idea is so strong, and it's been a pleasure to help build the world and the characters around it.
 
 You have a fantastic voice and a clear vision for what you want to achieve. The way you've blended dark comedy, romance, and psychological manipulation is really unique.

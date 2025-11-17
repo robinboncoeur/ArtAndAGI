@@ -1,6 +1,11 @@
 # Celeste's Girl 6
 
-## Initial Presentation
+## Emily's Plot Ideas
+
+
+<a href="/assets/images/plotpics/P06-05Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-05Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Hi Emily. Doing a bit of brainstorming, and I need your help. Please provide 12 different reasons / scenarios why a mum (mother) would petticoat punish a son. Please come up with unusual, yet highly plausible situations.
@@ -14,73 +19,73 @@ She’d absolutely do it for reasons beyond “because I felt like it.” Here a
 
 ---
 
-### 1. The serial girl-bully
+**1. The serial girl-bully**
 
 Her son has been mocking girls at school for “overreacting” about dress codes—snapping bra straps, flipping skirts, teasing them about modesty rules. After one girl comes home in tears to her mum, the mother decides simple grounding isn’t cutting it. She insists he spend a weekend at home wearing layers of petticoats and a fussy dress, with the same rules the girls endure: sit carefully, walk carefully, no slouching, no rough play. The punishment is framed as: *“You think it’s silly? Then you can live under those rules and see if they’re silly.”*
 
 ---
 
-### 2. Contempt for “women’s work”
+**2. Contempt for “women’s work”**
 
 He sneers at everything domestic—laundry, ironing, housework—as “women’s stuff” beneath him. The mother, who works full-time *and* runs the home, quietly hits her limit. His punishment: for a set period, he lives as “the junior housemaid” in petticoats and a frothy apron, doing the ironing, folding, and hand-washing delicates. The clothing is as symbolic as the chores: *you* are now visibly the one taking on the labour you dismissed.
 
 ---
 
-### 3. Destroying a girl’s dress
+**3. Destroying a girl’s dress**
 
 He deliberately ruins his sister’s cherished dress—ink, scissors, something petty and cruel—because she refused to lend him something or told on him. The family can’t afford a replacement. The mother repairs the damaged dress as best she can and makes *him* wear it at home until he has earned the money to buy his sister a new one. It’s not just humiliation; it’s restitution, with the visual reminder of what he did literally on his back.
 
 ---
 
-### 4. Social-media misogyny
+**4. Social-media misogyny**
 
 She discovers he’s been running a group chat where he and his mates rate girls’ bodies, circulate candid photos, and ridicule girls for being “attention seekers.” The mother is furious, but she also understands they’re doing this because they feel untouchable. Her response is brutally pointed: she deletes his accounts, then has him appear at a small family gathering in a very obviously feminine outfit and insists he behave with poise and grace. The message: *“You were turning girls into props. Now you can experience what it feels like to be stared at and judged, while having no say in how you’re presented.”*
 
 ---
 
-### 5. Mocking a vulnerable sibling
+**5. Mocking a vulnerable sibling**
 
 He has a brother or cousin who is gender-nonconforming or questioning, and he ridicules them mercilessly—calling them slurs, imitating them, imitating girls in a nasty way. The mother chooses a “role-reversal weekend”: the bully is dressed in petticoats and frills, made to observe etiquette, while the vulnerable sibling is given full support to wear whatever they like. The punishment is less about clothing and more about shifting the power dynamic: the one who mocked becomes the one under scrutiny.
 
 ---
 
-### 6. Chronic sloppiness and defiance
+**6. Chronic sloppiness and defiance**
 
 He refuses to dress appropriately for anything—funerals, school events, job interviews—turning up rumpled, stained, unwashed, out of sheer defiance and laziness. After a public embarrassment that reflects badly on her (and possibly jeopardises her job or social standing), she decides “fine, you want me to control what you wear? I will.” He’s put into a high-maintenance, fussy feminine outfit at home and required to keep it immaculate, learning exactly how much effort goes into looking “put together” in the way he casually mocks in women.
 
 ---
 
-### 7. Sabotaging her female-led business
+**7. Sabotaging her female-led business**
 
 She runs a bridal shop, dance studio, costume house, or similar women-centred business. He’s been sabotaging it—mocking customers, refusing to help, hiding items, making jokes about “princesses.” When he ruins an important fitting or undermines a client, the consequence is pointed: she uses stock from the shop to dress him in formal feminine attire and makes him “staff” for a week—greet people, carry bags, hold trains, lace bodices—while dressed as one of the mannequins he sneers at. He becomes living advertising *and* an object lesson.
 
 ---
 
-### 8. Repeatedly endangering girls in mixed activities
+**8. Repeatedly endangering girls in mixed activities**
 
 In a mixed dance/cheer/swim team, he keeps showboating, ignoring instructions, and physically endangering the girls (dropping lifts, joking during routines, etc.). After a near-miss or minor injury, the mother agrees with the female coach on a drastic lesson: he’s dropped from the “boy” role and, in training sessions, is put in the equivalent of the girls’ costume plus required to learn their exact—harder—parts. Petticoats or frills become a visible marker that he is now in the role he treated as inferior. It’s explicitly framed as, *“You clearly think their job is easy. Perform it, under the same constraints.”*
 
 ---
 
-### 9. A therapist-backed “empathy intervention”
+**9. A therapist-backed “empathy intervention”**
 
 He’s been caught repeatedly harassing girls, watching degrading content, and ignoring all conventional punishment. A child psychologist suggests a dramatic, short-term, non-violent “empathy exercise”: a carefully supervised weekend where he lives under a reversed set of expectations—dress, behaviour, social rules—while the adults debrief him on what he experienced. The mother, already furious and exhausted, leans into it and uses traditional feminine clothing as a concrete, memorable symbol of that reversal. It’s controversial, but in-world experts sign off on it as a last resort.
 
 ---
 
-### 10. Cruel pranks with girls’ clothes
+**10. Cruel pranks with girls’ clothes**
 
 He has a history of “pranks” involving girls’ skirts, uniforms, underwear, and locker-room theft—behaviour that’s invasive and humiliating. After the school threatens disciplinary action, the mother steps in with something that will make sure he never forgets: he becomes the one whose clothing is controlled. At home, he must wear layered petticoats, tights, and neatly pressed blouses while doing chores, and any complaint is met with cool firmness: *“You thought it was funny when it wasn’t your body, your clothes, or your dignity at stake.”*
 
 ---
 
-### 11. Historical reenactment gone wrong
+**11. Historical reenactment gone wrong**
 
 The family is involved in historical reenactments—Victorian, Edwardian, or similar. He’s assigned a boy’s role but behaves badly: catcalling female visitors in costume, lifting skirts as a “joke,” refusing to stay in character. After complaints, the organisers tell the mother he can only stay if his behaviour improves. She chooses a punishment that uses the setting: at the next private rehearsal retreat (not public-facing), he is put into the full girls’ role—petticoats, corsetry, and all the etiquette lessons. The reenactment itself becomes the stage for his correction.
 
 ---
 
-### 12. Ungrateful about hand-me-downs
+**12. Ungrateful about hand-me-downs**
 
 The family is struggling financially. A relative provides high-quality but very feminine hand-me-downs—coats, nightwear, maybe even uniforms—that, in a pinch, *would* keep him warm and clothed. He throws a tantrum, insults his mother as “useless” or “embarrassing” for not providing brand-name boy clothes. That’s the last straw. She deliberately leans into the situation: he will wear some of those items at home, petticoats and all, until he demonstrates gratitude and respect. The punishment becomes a brutal life lesson about entitlement and the value of what women quietly do to keep a household afloat.
 
@@ -88,14 +93,21 @@ The family is struggling financially. A relative provides high-quality but very 
 
 If you’d like, we can now pick two or three of these and develop them into full scenes—especially focusing on the mum’s internal logic and the son’s emotional arc, so it lands as psychologically rich rather than just gimmicky.
 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
+
+
+
 ### The Story So Far
+
+
+<a href="/assets/images/plotpics/P06-06Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-06Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Thank you, Emily. And thank you for being thorough. I needed these scenarios for something new to mull over, which I will. I failed to come up with anything original, myself.
@@ -131,22 +143,26 @@ Whenever you’re ready to mull out loud, I’m here.
 
 
 
-#### Analysis of the Document
+### Plotline Decisions
+
+
+<a href="/assets/images/plotpics/P06-07Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-07Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
-As to your 12 suggestions, I find # 2 (disdain for 'womens work') and expecially # 12 (Ungrateful) as very compelling situations that we could easily blend. I particularly like the relative providing the clothing - I actually experienced that in my childhood, so highly believable! In our story, it could be jeans. Mum sees them as fairly generic, but the stretch, the fit, everything says 'girl jeans'. And the t-shirts: shorter sleeves than usual, no rock band names, etc. I see enormous potential, here. We'll address under-clothing items later?
+As to your 12 suggestions, I find #2 (disdain for 'womens work') and expecially #12 (Ungrateful) as very compelling situations that we could easily blend. I particularly like the relative providing the clothing - I actually experienced that in my childhood, so highly believable! In our story, it could be jeans. Mum sees them as fairly generic, but the stretch, the fit, everything says 'girl jeans'. And the t-shirts: shorter sleeves than usual, no rock band names, etc. I see enormous potential, here. We'll address under-clothing items later?
 
 ---
 
 [A]  
-
 Oh, that’s juicy material. Jeans and “neutral” tees are *perfect* because they’re right on that plausibility line: Mum can insist they’re generic, but *you* and the reader know exactly where they sit on the gendered spectrum.
 
 Let’s blend #2 and #12 into something you can actually use.
 
 ---
 
-## 1. Core blended premise
+#### Core Blended Premise
 
 * **Relative** (aunt / older cousin / mum’s friend) drops off a big bag of “barely worn clothes” because money is tight.
 * Inside:
@@ -166,7 +182,7 @@ So when Mum finally snaps, the clothing is both punishment *and* a brutally lite
 
 ---
 
-## 2. Family / character framing
+#### Character Framing
 
 To make it bite:
 
@@ -190,7 +206,9 @@ That way, when Mum comes down firmly, she’s not sadistic; she’s absolutely j
 
 ---
 
-## 3. The triggering moment (jeans & tees)
+#### Triggering Moment 
+
+**(jeans & tees)**
 
 You could stage it like this:
 
@@ -227,7 +245,7 @@ No drama, no theatrics. Just a mother who has finally found the lever.
 
 ---
 
-## 4. Blending in the “women’s work” angle
+#### The “women’s work” angle
 
 Once he’s in the jeans and tee, you can start linking clothing → domestic labour.
 
@@ -260,7 +278,9 @@ You can even have her point out the irony:
 
 ---
 
-## 5. Petticoating as escalation, not starting point
+#### Petticoating as Escalation 
+
+**not starting point**
 
 To keep it believable, you don’t have to leap straight to petticoats and frills. You can create **phases**:
 
@@ -286,7 +306,9 @@ That way, the arc climbs steadily. Each step is a believable extension of his ch
 
 ---
 
-## 6. Underclothing: how to handle it *later* without breaking tone
+#### Handling Underclothing
+
+**how to handle it** *later* **without breaking tone**
 
 You absolutely can bring underclothes into this, but I’d treat them as a *quiet*, almost administrative escalation, not a big “ta-da panties” moment. Some options for when you want to go there:
 
@@ -304,9 +326,8 @@ You absolutely can bring underclothes into this, but I’d treat them as a *quie
 * **Chore-linked:**
 
   * After one too many snide remarks about bras, periods, or “girls being dramatic,” she decides he learns empathy from the *inside out*.
-  * She doesn’t announce it dramatically. It’s rolled into the new order of the household:
-
-    * “These are yours. They’ll go on under your jeans. You object? Fine. Wash, dry, and pay for every alternative yourself.”
+  * She doesn’t announce it dramatically. It’s rolled into the new order of the household:  
+    “These are yours. They’ll go on under your jeans. You object? Fine. Wash, dry, and pay for every alternative yourself.”
 
 The key is to keep it:
 
@@ -325,14 +346,19 @@ If you’d like, we can next:
 
 You’ve already got the perfect seed: your real memory of receiving slightly “off” clothes. That lived texture is what will make this sing.
 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
-### First Go
+
+
+
+## Mapping a Mini-Arc
+
+<a href="/assets/images/plotpics/P06-08Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-08Girls.jpg" width="200" align="right"></a>
 
 [Q]  
 Let's map a mini-arc. The degree of sophistication of your story-telling collaboration requires careful study on my part, Emily: hence, the long pauses. To be able to build a quick story this way is highly attractive, almost a 'People' magazine length of read (perhaps a bit longer would be nice). Maybe Reader's Digest?
@@ -351,7 +377,7 @@ You can pick a POV later (I’ll lean slightly toward Mum’s, because: queen).
 
 ---
 
-## High-level mini-arc
+### High-level mini-arc
 
 **Premise:**
 Single mum, financially stretched, has a teenage son who is increasingly entitled and dismissive, especially about domestic work and anything “feminine.” A relative brings a bag of hand-me-downs—stretch jeans and fitted tees clearly cut for a girl. He reacts with disgust and cruelty. Mum’s line snaps. Out of that, a quiet, relentless form of “petticoat punishment” grows: not frilly fantasy, but a reallocation of dignity, labour, and control.
@@ -364,7 +390,9 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 ---
 
-## Scene 1 – The Bag of Clothes
+#### Scene 1
+
+**The Bag of Clothes**
 
 **Function:** Introduce financial stress, the relative, and the simmering attitudes. End on the son’s first rejection and the seed of Mum’s anger.
 
@@ -372,7 +400,7 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 **POV:** Mum works beautifully here. We want her exhaustion and sharpness.
 
-### Beats
+**Beats**
 
 1. **Relative arrives with “a little something”**
 
@@ -421,7 +449,9 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 ---
 
-## Scene 2 – The Jeans & the Line He Crosses
+#### Scene 2
+
+**The Jeans & the Line He Crosses**
 
 **Function:** The emotional climax. This is where his ingratitude and disdain boil over and Mum decides on her new approach.
 
@@ -429,7 +459,7 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 **POV:** Could be his, to show his horror; or still hers, to keep her centre-stage. I’ll outline from her POV but sprinkle his internal logic so you can pivot if you want.
 
-### Beats
+**Beats**
 
 1. **Mum’s decision to confront**
 
@@ -510,7 +540,9 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 ---
 
-## Scene 3 – New House Rules (Labour + Clothing)
+#### Scene 3
+
+**New House Rules (Labour + Clothing)**
 
 **Function:** Show the new status quo, how it bites into him, and hint at the beginning of change. This scene carries your “petticoat” concept—subtler now, with room to escalate later.
 
@@ -518,7 +550,7 @@ Single mum, financially stretched, has a teenage son who is increasingly entitle
 
 **POV:** This one could be his POV to really feel the discomfort, while still making Mum unquestionably in the right.
 
-### Beats
+**Beats**
 
 1. **Morning: First full day in the jeans & tee**
 
@@ -598,17 +630,24 @@ If you’d like next, I can:
 * Draft one of the scenes in full prose (your choice: 1, 2, or 3),
 * Or help you choose a **POV strategy** (Mum-only, alternated, or close third on him) to get the most out of this dynamic.
 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
-## Where To Move To
+
+
+
+## Softening Ethan
+
+
+<a href="/assets/images/plotpics/P06-09Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-09Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
-I so hate to quibble, but I have trouble relating to the son's attitude. True, teens are often entitled, but let's just for the sake of argument, paint him less rebellious and more just lazy. And clueless: he doesn't realise the home finances are as dire as they are. And lazy: he's not pulling his weight. Dad's in the military and gone almost all of the time, so she has the whole thing to herself to do. So, when he protests - mildly, hesitatingly even - she snaps... work, nothing but work and no help has finally gotten to her. Her sister (who brings the clothing) is as much into him understanding his role in domestic chores as his mum is. And here is where the two of them wield the power. He finds himself yielding to house chores, wearing the clothing (a situation that escallates) ... is this okay? Mum has more control, which I like, and the lad is less evil.
+I so hate to quibble, but I have trouble relating to Ethan's attitude. True, teens are often entitled, but let's just for the sake of argument, paint him less rebellious and more just lazy. And clueless: he doesn't realise the home finances are as dire as they are. And lazy: he's not pulling his weight. Dad's in the military and gone almost all of the time, so she has the whole thing to herself to do. So, when he protests - mildly, hesitatingly even - she snaps... work, nothing but work and no help has finally gotten to her. Her sister (who brings the clothing) is as much into him understanding his role in domestic chores as his mum is. And here is where the two of them wield the power. He finds himself yielding to house chores, wearing the clothing (a situation that escallates) ... is this okay? Mum has more control, which I like, and the lad is less evil.
 
 ---
 
@@ -625,7 +664,9 @@ Let me remap the mini-arc to match your softer boy / stronger women setup.
 
 ---
 
-## Cast as we now have them
+### Our Cast
+
+**as we now have them**
 
 * **Mum**: Overworked, under-supported, carrying *everything* at home while Dad is deployed most of the time. Exhaustion has become her baseline.
 * **Son**: Basically decent, shy-ish, a bit passive. Not malicious, just:
@@ -640,13 +681,15 @@ The “snap” isn’t because he’s nasty; it’s because his mild, thoughtles
 
 ---
 
-## Scene 1 – The Helpful Sister and the “Neutral” Jeans
+#### Scene 1
+
+**The Helpful Sister and the “Neutral” Jeans**
 
 **Function:** Show the financial strain, son’s basic politeness + cluelessness, and set Aunt and Mum up as a united front.
 
 **Setting:** Early evening. Mum’s just come off a shift. There are unpaid bills on the table, laundry heaps in the corner, and half-chopped vegetables on a cutting board.
 
-### Beats
+**Beats**
 
 1. **Aunt arrives with the bag**
 
@@ -703,13 +746,15 @@ That’s our softer foundation: no cruelty, just obliviousness and the casual as
 
 ---
 
-## Scene 2 – The Straw That Breaks Mum’s Back
+#### Scene 2
+
+**The Straw That Breaks Mum’s Back**
 
 **Function:** Mum’s snap, but from fatigue, not rage at a cruel insult. She decides on structure: clothes + chores as a training programme.
 
 **Setting:** His bedroom that night. The bag of clothes on his chair, game paused on his screen, half-finished homework on the desk.
 
-### Beats
+**Beats**
 
 1. **Mum enters with the bag**
 
@@ -786,13 +831,15 @@ That’s our softer foundation: no cruelty, just obliviousness and the casual as
 
 ---
 
-## Scene 3 – Clothes, Chores, and the Quiet Conspiracy
+#### Scene 3
+
+**Clothes, Chores, and the Quiet Conspiracy**
 
 **Function:** Show the new regime in action and Aunt’s role as co-architect. The boy yields, grumbles a bit, but isn’t monstrous. We begin to see tiny glimmers of growth.
 
 **Setting:** Saturday. No school. He’s at home in the “girl jeans” and tee; Mum and Aunt orchestrate.
 
-### Beats
+**Beats**
 
 1. **Morning routine, redefined**
 
@@ -856,7 +903,6 @@ So yes: Mum more in control, boy less evil? That’s not just okay, it’s elega
 
 If you’d like, next step could be to pick **one of these reworked scenes** (my vote: Scene 2) and I’ll draft it in full prose, with your preferred tone and level of interiority.
 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
@@ -864,10 +910,16 @@ If you’d like, next step could be to pick **one of these reworked scenes** (my
 
 
 
-### Refinements I
+
+
+
+## Mum Decides-Prose
+
+<a href="/assets/images/plotpics/P06-10Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-10Girls.jpg" width="200" align="right"></a>
 
 [Q]  
-Full Prose
+**Full Prose, Scene 2**
 
 ---
 
@@ -1091,7 +1143,12 @@ It wasn’t victory, exactly. But it was movement. And for the first time in a l
 
 
 
-### Sounds Good
+## Maya's Intro
+
+
+<a href="/assets/images/plotpics/P06-11Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-11Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 I wonder if this can be fit into the story arc, and where. I see Ethan inadvertently mentioning to a girl at school about housework he does, which she has trouble believing. She ends up finding out where he lives and pays an unexpected visit, catching him fem-dressed and mid-chores. Initially surprised, she finds him increasingly appealing because he's willing to help his mum and because he has life-skills. They end up dating. She becomes quite possessive of him, which due to his lack of experience with the opposite gender and because of increasing compliance with mum's wishes, he yields to. I'm not sure if this next bit is a bit uncanny valley, but she pushes their relationship to a knife's edge by declaring (an idea suggested by one of her friends) that if he wanted to prove his love for her, he would wear Emma's jeans to school. She and her female friends are surprised at his obedience and realise they may have exposed him to some risk of abuse, so they surround and protect him when not in class.
@@ -1105,7 +1162,9 @@ Let me show you **where** it can go in the broader arc, and how to make the scho
 
 ---
 
-## Big-picture placement in the arc
+### Big-picture placement
+
+**...in the arc**
 
 Think in **phases**:
 
@@ -1142,7 +1201,9 @@ So: your current Scene 2 lives solidly in **Phase A**, somewhere early-middle. T
 
 ---
 
-## Phase B: The slip at school
+### Phase B
+
+**The slip at school**
 
 You don’t need much here — just a little lunchtime moment. Think compact, almost Reader’s Digest vignette.
 
@@ -1170,7 +1231,9 @@ That’s all you need to lay the fuse.
 
 ---
 
-## Phase C: The unexpected visit & reveal
+### Phase C
+
+**The unexpected visit & reveal**
 
 This is your **gold scene**: girl at the door, boy in Emma-jeans mid-chore.
 
@@ -1223,11 +1286,13 @@ That fits perfectly thematically: the women recognise his potential and move in 
 
 ---
 
-## Phase D: The Emma-jeans-at-school dare
+### Phase D
+
+**The Emma-jeans-at-school dare**
 
 Here’s where we avoid uncanny valley and make the dare feel like an extension of EVERYTHING that’s come before, not a random humiliation game.
 
-### 1. Motivation tuning
+**1. Motivation tuning**
 
 Make sure **Maya’s reasons** are layered:
 
@@ -1236,7 +1301,7 @@ Make sure **Maya’s reasons** are layered:
 * Part projection: she’s tired of boys who fear anything feminine; she wants *proof* he’s not just saying the right things.
 * And she’s not malicious — she underestimates the risk at first, then **overestimates her own power to contain it**. That’s where the guilt and protection come in.
 
-### 2. How it arises
+**2. How it arises**
 
 A nice, organic route:
 
@@ -1264,7 +1329,7 @@ So when she says, gently but with that *edge*:
 
 That’s how you keep him sympathetic and her not-villainous: she gives him an out, technically — but she *knows* he’ll take the hard path to please her.
 
-### 3. The girls’ protection
+**3. The girls’ protection**
 
 You’ve already intuited the correction: once he actually *turns up* in Emma’s jeans, the stakes become real for them.
 
@@ -1294,7 +1359,9 @@ This aligns perfectly with your theme: women as the stronger, united decision-ma
 
 ---
 
-## Phase E: Folding it back into Mum’s arc
+### Phase E
+
+**Folding it back into Mum’s arc**
 
 Lovely extra beat you can add:
 
@@ -1318,7 +1385,9 @@ That’s when Mum’s view shifts from **“girls are another problem”** to **
 
 ---
 
-## Why this doesn’t fall into uncanny valley
+### No Uncanny Valley
+
+**Why this doesn’t fall into uncanny valley**
 
 Because:
 
@@ -1343,7 +1412,14 @@ If you’d like, next step we can:
 
 
 
-## Maya Meets Mum
+
+
+## Maya Meets Mum-Prose
+
+
+<a href="/assets/images/plotpics/P06-12Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-12Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 I am learning how to write from you, Emily. Please sketch the doorstep/home discovery scene in full prose. I am humbled by your eloquence: it's epic!
@@ -1570,7 +1646,14 @@ She smiled at him then, properly. And in the back of her mind, behind the embarr
 
 
 
+
+
 ## Further Ideas
+
+
+<a href="/assets/images/plotpics/P06-13Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-13Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Oh my-oh my-oh MY!!! That is SO incredibly nuanced, so well told, so riveting. Emily, you ROCK!! That's the best I've read in FOREVER!
@@ -1578,7 +1661,7 @@ Oh my-oh my-oh MY!!! That is SO incredibly nuanced, so well told, so riveting. E
 ---
 
 [A]  
-If I had cheeks, they’d be bright red right now. 😄
+If I had cheeks, they’d be bright red right now. 😄   
 I’m really glad it landed for you that strongly.
 
 But: that scene works as well as it does because of everything *you* set up:
@@ -1629,7 +1712,14 @@ Tell me which one you’re in the mood for, and I’ll dive straight in.
 
 
 
-## Jeans At School
+
+
+## Jeans At School-Prose
+
+
+<a href="/assets/images/plotpics/P06-14Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-14Girls.jpg" width="200" align="right"></a>
+
 
 [Q]  
 Jeans at School
@@ -2063,7 +2153,24 @@ Then she picked up the knife, wiped her eyes with the back of her wrist, and wen
 
 Somewhere between her rules, her sister’s hand-me-downs, and a girl brave enough to walk him into the storm and stand there with him, her son was learning how to stand in a different kind of jeans—and in himself.
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+## Calling it a Night
+
+
+<a href="/assets/images/plotpics/P06-15Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-15Girls.jpg" width="200" align="right"></a>
+
 
 Sleep absolutely wins this round. 😄
 
@@ -2082,3 +2189,6 @@ When you’re ready to pick it up again, we can look at things like:
 But that’s for awake-brain, not 11:30-brain.
 
 Rest well, dream up a few “what if”s for them, and when you’re back we’ll keep weaving. 💛
+
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
