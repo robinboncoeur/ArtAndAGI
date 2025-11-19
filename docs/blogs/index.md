@@ -27,6 +27,9 @@ Went to Leonardo AI but it was much of a muchness. Cheaper, a free tier, but lim
 My first serious graphics card -- 28.Jun.2023 -- was a MSI GeForce RTX 3070 Ventus 2X OC 8G. AUD $669.00! Six months later, I realised 8 gig VRAM wasn't going to cut it. So, it was the Gigabyte GeForce RTX 4060 Ti Windforce OC 16G graphics card this time, at AUD $749. Make it make sense. Twice the VRAM for less than $100 more. The 8 gig card is in a PC behind me. Haven't booted it in a while.
 
 ---
+<a href="/assets/images/blog25/12-04NextLevel.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blog25/12-04NextLevel.jpg" width="360" align="right"></a>
+
 
 
 
@@ -124,7 +127,85 @@ Insta Link
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
+
 /-->
+
+---
+
+a cute little shorts gallery 💅📱
+
+<!--
+
+<style>
+  /* Row that holds all the videos */
+  .video-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;      /* centre the row nicely */
+  }
+
+  /* Each vertical video */
+  .video-portrait {
+    position: relative;
+    aspect-ratio: 9 / 16;         /* vertical, like TikTok/Reels/Shorts */
+    width: min(45vw, 320px);      /* two(ish) per row on desktop */
+    max-width: 100%;
+  }
+
+  .video-portrait iframe {
+    border: none;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* On small screens, stack them nicely */
+  @media (max-width: 700px) {
+    .video-portrait {
+      width: 100%;
+      max-width: 360px;
+    }
+  }
+</style>
+
+
+<div class="video-row">
+
+  <div class="video-portrait">
+    <iframe
+      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_1/iframe"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class="video-portrait">
+    <iframe
+      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_2/iframe"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <!-- Optional third, fourth, etc. – they’ll wrap automatically -->
+  <!--
+  <div class="video-portrait">
+    <iframe
+      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_3/iframe"
+      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+  -->
+
+</div>
+
+
+/-->
+
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
