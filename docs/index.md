@@ -38,11 +38,11 @@
 
 ---
 
-<a href="/assets/images/CelP06/P06-01Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/CelP06/P06-01Girls.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/plotpics/P06-01Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-01Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
-<a href="/assets/images/CelP06/P06-02Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/CelP06/P06-02Girls.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/plotpics/P06-02Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-02Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
 
 
@@ -59,11 +59,11 @@
 
 ---
 
-<a href="/assets/images/CelP06/P06-03Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/CelP06/P06-03Girls.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/plotpics/P06-05Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-05Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
-<a href="/assets/images/CelP06/P06-04Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/CelP06/P06-04Girls.jpg" alt="Office Girl" width="200" align="right"></a>
+<a href="/assets/images/plotpics/P06-06Girls.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/plotpics/P06-06Girls.jpg" alt="Office Girl" width="200" align="right"></a>
 
 
 [Developer](/Dev/index.md/)  

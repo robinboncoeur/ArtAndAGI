@@ -17,7 +17,7 @@
 ## Progress Notes
 
 <a href="/assets/images/plotpics/P06-01Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/plotpics/P06-01Girls.jpg" alt="Office Girl" width="360" align="right"></a>
+<img src="/assets/images/plotpics/P06-01Girls.jpg" alt="" width="360" align="right"></a>
 
 
 I wish I had started this back in '22 or '23, when I fist started using AI and models to make images. MidJourney was the beginning, but I could see the subscription was quickly going to add up. Plus, well, it was limiting.
