@@ -186,12 +186,17 @@ The docs explicitly recommend:
 
 There’s also a lot of community testing that leans on Euler + normal / Karras, similar to Flux. ([comfyuiweb.com][11])
 
+NOTE: I've found reasonably good outcomes with:  
+- Sampler: lcm  
+- Scheduler: ddim_uniform  
+- steps: < 12 (usually 8 - 11)
+
 #### ComfyUI presets
 
 **Qwen-Image Distilled – “Official-ish” settings**
 (from the ComfyUI wiki notes) ([comfyui-wiki.com][10])
 
-* **Sampler**: `euler` *or* `res_multistep`
+* **Sampler**: `euler` *or* `res_multistep` -- (Note: *res_multistep has performed poorly for me*)
 * **Scheduler**:
 
   * with `euler`: `normal` or `karras`
