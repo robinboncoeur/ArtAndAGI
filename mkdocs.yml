@@ -73,6 +73,9 @@ nav:
     - FluxGym: visual/FluxGym.md
     - Videos: visual/Videos.md
     - VScripts: visual/VScripts.md
+    
+  - Music:
+    - music/index.md
 
 plugins:
   - search
