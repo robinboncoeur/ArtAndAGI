@@ -1000,15 +1000,15 @@ He shifted his weight from one foot to the other. The jeans creased gently at th
 
 She walked once around him, the way her own mother used to do when she was checking hems. The denim was good quality. The stitching was strong. The tee, admittedly, was a bit more… shaped than a standard boy’s cut, but there was nothing overtly frilly or floral about it.
 
-“They fit,” she said. “Turn around.”
+“They fit perfectly,” she said. “Like they were made for you. Turn around.”
 
 He turned, face a little hunched, ears red.
 
 “They look fine,” she concluded. “If we’d bought these brand-new off a rack, you wouldn’t be saying a word.”
 
-He glanced over his shoulder. “Mum, come on. You can tell they’re… not boys’.”
+He glanced over his shoulder. “Mum, come on. You can tell they’re… not boys’ jeans.”
 
-“And?” She caught his gaze and held it. “And what? They’re decent clothes. We can’t afford to be fussy.”
+“And?” She caught his gaze and held it. “And what? They’re decent. They fit you. We can’t afford to be fussy.”
 
 He grimaced. “Can’t we just… I don’t know, sell them? Or give them to some girl who actually wants them and then… I dunno… you could get me some normal ones when you get paid?”
 
@@ -1046,7 +1046,7 @@ He looked down at himself again, at the jeans, the tee, his bare feet on the wor
 
 “I just don’t want people at school to think I’m… weird,” he mumbled. “These look like… like Emma’s. Kind of.”
 
-“You’re not wearing them to school,” she said. “Not yet.” She caught the flicker of relief and didn’t let him sit in it. “You are wearing them at home.”
+“You’re not wearing them to school,” she said. “Not yet.” She caught the flicker of relief and didn’t let him sit in it. “For now, you are wearing them at home.”
 
 He stared. “All the time?”
 
