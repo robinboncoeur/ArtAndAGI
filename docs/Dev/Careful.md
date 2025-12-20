@@ -1,6 +1,6 @@
 # Ideas That Light Things Up
 
-## Monte Mder
+## Monte Mader
 
 **Recommended by Monte Mader**
 
@@ -70,22 +70,72 @@ Cause I’m a true believer
 
 ## Notes
 
----
+I think that approach is exactly how you reclaim the steering wheel.
 
-Thank you, Jack. I don't use AI in music: I wrote that piece in MuseScore:
+Keeping the same images but changing the captions works because, on DA, **the caption is the frame**: it tells the algorithm *and* the reader what they’re supposed to be seeing. If you swap “body/embarrassment/coercion” language for “identity/social optics/choice/relationship,” the very same picture stops reading like a setup and starts reading like a scene.
 
-https://musescore.org/en
+A few guardrails that will keep it subtle *and* still sharp:
 
-A sounds Library called MuseSounds comes with MuseScore Studio, which enables you to do a fairly credible rendition of your piece. I say "fairly" because the technology is still not quite at 'Digital Audio Workstation' level: I use Reaper for that.
+## What to lean into
 
-I took Music Theory back in the 70s - and bombed!, too lazy - and so had a bit of background on composition. Decided to have another go shortly before I retired. Got a leg up on orchetration by transcribing music of composers who I knew wouldn't be contesting copyright: for example, Carl Reinecke, whose Serenade for Strings in G took my fancy. You can hear the difference between MuseSounds and a proper DAW  (I use Reaper) quite readily here:
+### 1) Make it about *social meaning*, not anatomy
 
-https://art.tightbytes.com/assets/music/S4S6.mp3
+Instead of “you have boobs / can’t hide,” go for:
 
-https://art.tightbytes.com/assets/music/S4S6-r.mp3
+* “You can’t hide behind oversized clothes anymore.”
+* “You’re becoming visible in a way you didn’t plan for.”
+* “The line between costume and self is thinning.”
 
-In the Reaper version, the articulations are much crisper.
-As to Composition itself: it's part of how my head is shaped, I guess. We grew up with the classics right up to but not including Stravinsky, Debussy and Shostakovich. My parents couldn't get their heads around all the dissonance, I guess.
+It keeps the theme while removing the fetish “body-fixation” hooks.
 
----
+### 2) Keep Celeste’s power in *interpretation*
 
+Celeste doesn’t need to say “wear this.” She can say:
+
+* “That look says something. Decide what you want it to say.”
+* “You’re not being punished. You’re being edited.”
+
+That reads as confident and psychologically astute rather than kink-coded.
+
+### 3) Keep the humour, but aim it upward
+
+Mock the *social script*, not Charlie’s embarrassment.
+
+* “People will label you either way. Pick the label you can live with.”
+* “If you’re going to be stared at, at least be intentional.”
+
+That’s the kind of wit that tends to land with women readers.
+
+## What to avoid (the “subtlety killers”)
+
+These are the words/beats that turn subtle into “oh, it’s that genre”:
+
+* underwear talk
+* “reluctant / forced / punishment / training”
+* humiliation beats (“exposed,” “everyone will laugh,” etc.)
+* parent/authority coercion as the engine (“mum made you,” “teacher insisted,” etc.)
+
+## A simple template you can reuse
+
+For each captioned image, try this 3-line structure:
+
+1. **Observation** (neutral, visual)
+2. **Meaning** (social/psychological)
+3. **Choice** (agency line)
+
+Example:
+
+* “She stared at the mirror too long.”
+* “Not because she looked wrong — because she looked *different*.”
+* “And different meant she’d have to decide who got to name it.”
+
+That’s subtle, but still unmistakably your theme.
+
+If you paste one of your current “old style” captions and tell me what you want the *new* takeaway to be, I’ll rewrite it in 3–5 variants: (a) wry, (b) tender, (c) icy Celeste, (d) minimalist.
+
+
+
+Important Note: All my so-called artwork, including any descriptive text, depicts adults doing whatever: no images involve minors. I abhor depictions of harm or violence, towards anyone in general, but most particularly towards women and children. None of the images reflect actual events: all depictions are imaginary.
+As CelestesGrl, I reserve exclusive ownership of the artworks that I post on Deviant Art. Downloading is permitted for your personal enjoyment as well as creating derivations if so inspired. Please be kind and acknowledge where your derivative was inspired.
+© 2025. Some non-derivative works are openly licensed via CC-BY 4.0
+Saying all that, please STEAL. You like the idea: it's YOURS. Run with it.

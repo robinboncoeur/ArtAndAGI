@@ -1,249 +1,183 @@
-# Celeste Meets Charlie
+# School Corridor, Late Afternoon
 
-## POV-Celeste
+By the time Mr. Greeves started writing *GROUP TASK* on the board, the room had already made its decision.
 
-When I came out of the stall in the loo, I was a bit surprised to see Amanda at the sinks, washing her hands. Amanda has this thing for blokey shirts — always has — and from behind, she could easily be mistaken for a lad. Which was something I found attractive about her: so cool, that boyishness. Her smell, too... and her warmth. But her bum, well, that was all girl. Yes, she possessed a blokish energy, but her boyishness was contradicted by her bottom.
+It wasn’t an official decision, not one you could point to in a rulebook, but it lived in the way chairs angled away from the held-back boy, in the little coughs people used to cover their discomfort, in the speed at which everyone suddenly found the floor fascinating. I watched it happen with the same detached interest I’d watch a flock of birds turn as one body: instinct, cowardice, and the lazy relief of belonging.
 
-I approached her, puzzled. Earlier, when I had suggested we go "powder our noses" she'd shrugged. Not-interested.
+And then—late, ridiculous—the boy himself came into focus. Not the role. Not the cautionary tale the room had agreed on. The person.
 
-<img src="/assets/images/CelCh2/Cha-BRoom1.jpg" alt="Smiles" style="float: right; width: 300px;
-        margin-left: 20px; margin-bottom: 10px;" />
+A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine.
 
-“Hello, girl!”
+Oh.
 
-She didn’t reply, didn’t even turn. Then I caught a glimpse of her face in the mirror. It wasn’t Amanda at all.
+The wrong place, wrong door lad.
 
-It was some bloke. A bloke with a Amanda's bum. Same height, same build as Amanda. Same exact hair. Same exact bum. But definitely not her.
+I’d stood in the ladies’ and looked straight at him, and my brain hadn’t filed him as anyone from class because in class he wasn’t anyone you recognised—he was just a space people avoided. That was the trick of it: you can notice what a room does to someone without ever granting them the dignity of being properly seen.
 
-For a moment, I wasn’t sure what to do. What do you say to a guy washing his hands in a girl's bathroom? I cautiously eyed him who, for his part, was now gaped at me with confusion. For some reason, he seemed awed. His full lashes flickered nervously over wide hazel eyes as he struggled for something to say. I had a delicious thought, a bit cheeky, perhaps. I couldn't help it.
+And once you’ve seen someone properly, you can’t pretend you haven’t.
 
-He blinked at me with that look: startled—wide-eyed. Not shock, not really. More like: wonder. As if he couldn’t believe someone like me was standing there. Talking to him. I let my gaze linger, let the silence stretch just long enough to fluster him and tilting my head, I stepped closer, slowly, letting the silence wrap around us like mist. His gaze dropped.
+Mr. Greeves tapped the chalk like it owed him money. “Alright. You’ve all had your practice test. You’ve all had your feelings about your practice test. Today, you’re going to make something sensible out of it.”
 
-“You...  *are* a girl, aren't you?”
+A few kids chuckled. Not because it was funny — because it was safe.
 
-His answer clearly came from a dry mouth. “Uh, no, I’m a guy. I, uh, was...”
+“Pairs,” he said, underlining it twice. “Pick a question from the set. Solve it. Then produce a one-page explanation that someone *else* could follow. If you can’t explain it, you can’t do it.”
 
-That was when it struck me: he thought *he* was in the boys' loo. *Oh, this is priceless*.
+There was the usual scrape of chairs, the low panic of social arrangements. Everyone moved fast, because speed looked like confidence. I didn’t move. I didn’t need to. People came to me.
 
-"Oh, sorry," I interrupted. "It's just that you look a lot like my friend from behind and, well, she's a girl. I mean, you're about the same height and have the same hair and everything." He said nothing, just swallowing hard as I moved even closer. "Plus, well, you're in the ladies’." No lights seemed to go on, so I clarified: "The girls' toilets." 
+“Celeste, want to—”  
+“Celeste, I saved you a—”  
+“Celeste, I already have—”  
 
-He glanced quickly around as his face went white, his eyes widening with horror. Poor thing didn’t even move — he just stood there, at first. He finally found his tongue and stammered apologies. I couldn’t help but feel sorry for him. He looked like he was going to bolt... I wasn't going to let him just run off - this was too precious. I stretched out my hand to introduce myself. He timidly placed his hand in mine - a girl's hand, impossibly soft, softer than mine. His hair fell in soft waves, framing his little face — lovely, soft hair, too long, too well cared for to be unintentional. And with his slender waist, delicate features: a lad? Really?
+I gave them my polite face and none of my answer. My attention drifted to the back left, where Charlie sat. The boy of wrong place, wrong door. 
 
-I was intrigued. But even more, I felt - unexpectedly - *silly* for teasing him. I felt like I was having a go at one of my friends for being a girl. He did not look out of place in the girls' restroom at all. Even his voice was not as much a give-away as one would have expected.
+He wasn’t ugly. He wasn’t particularly strange. He just sat in a way that tried to be smaller than the desk allowed. He was... uncollected. Like a thing people had decided was worthless and therefore never bothered to look at properly. Thin. Shorter than most of the boys, which seemed to bother them more than it bothered him. His uniform shirt sat awkwardly on his frame — too big at the shoulders, too loose at the waist — as if it belonged to someone older and louder.
 
-I probably held on his hand a bit too long, too tightly... I was gripping it, to be honest. I couldn’t let go of this girl-like person. He wasn’t pulling exactly, not in a way that would offend, but there was the faintest retreat — a quiet imploring in his eyes, a tentative tug, as if he thought he might be allowed to go if he asked nicely enough. I let go of his hand all at once, too quickly and he involutarily recoiled.
+I knew I should have clocked him before, in the loo. I just never noticed him in class. Nobody did. The held-back boy. The one who re-did Year 11 because maths had eaten him alive the first time. People said it with the same tone they used for a failed appliance: *still doesn’t work.*
 
-As I looked at him then - taking in his hesitating, wide-eyed breathlessness - something in me wobbled. I didn’t want him to be frightened of me. I wanted him to like me. Not in a ‘dreamy-eyed’ way, just... as a friend, someone safe. Someone he could trust. I gave him what I hoped was my kindest smile.
+I felt a fleeting twinge of guilt. Just because of not having noticed it was the same lad.
 
-“I hope I see you again, Charlie.”
+Mr. Greeves said, “If you’re still unpaired in thirty seconds, I’ll pair you.”
 
-I honestly can’t even remember what I said — it was all such a blur. He turned back when he reached the door, those big eyes locking with mine for a split second, and my heart melted.
+That was the real threat. Not the task. Not the maths. Being seen as someone who had to be assigned.
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+Charlie’s eyes flicked around the room: quick, skittish, looking down as much as he looked around, not begging, but scanning. When he realised no one was going to volunteer themselves to be his partner, his mouth tightened in a way I recognised. It wasn’t anger. It was resignation borne of experience. He’d already accepted his lot to be humiliated by the teacher as well as rejected by his peers.
 
+This almost certainly had happened to him before. In this class. By this teacher and classmates. And I had been there? And not noticed?
 
+“Time,” Mr. Greeves said. “Right. Charlie—”
 
+“Me,” I said, before he could finish the sentence.
 
+The room’s attention snapped to me like elastic. You could feel it in the air—the sudden recalculation. It made me want to smile, but I didn’t. Power is best used as if you hardly notice you have it.
 
-## Aspirations
+Mr. Greeves blinked. “Celeste?”
 
-![Celeste at the door](https://www.tightbytes.com/art/images/Celeste01/ALonTimeAgo.jpg){: align=right width=450 }
-<img src="/assets/images/CelCh2/Cha-BRoom1.jpg" alt="Smiles" style="float: right; width: 300px;
-        margin-left: 20px; margin-bottom: 10px;" />
+“I’m with Charlie.” Not: *can I*, not: *would you mind*, but a simple assertion, to affect a course correction of the reality he’d been about to create.
 
-“Hey, girl!” I turned around: it was Amanda. “Hey, I saw you talking to Mrs. Kielley. What was that about?”
+A few girls exchanged looks. One boy gave a tiny laugh, like I’d just made a joke he didn’t understand. Someone whispered, not quietly enough, “Why would you do that?”
 
-“Oh, she suggested I do a bit of tutoring. You know, spread the love,” I replied offhandedly. Even back in the UK, flaunting one’s academic prowess wasn’t the done thing.
+I turned my head just enough for the whisperer to know I’d heard. I didn’t even have to identify her. “Because I like getting full marks,” I said, pleasantly. “And I like working with people who don’t waste time showing off.”
 
-Amanda sidled closer, lowering her voice. “Mate, there’s this guy in my class who could really use your help,” she whispered, glancing around conspiratorially. “He’s pretty hopeless, though. I don’t know if anyone — wait, there he is!”
+Silence. A delicious, tidy silence.
 
-She nodded toward the door just as Charlie shuffled in, eyes fixed on the ground.
+Mr. Greeves recovered, puzzlement slowly fading from his face. “Alright then. Celeste and Charlie. Good.”
 
-“That’s him?” My heart was suddenly pounding in my ears.
+I walked my chair over without asking permission from the air. Charlie stared at me as if I’d sat down inside his head.
 
-“Yeah. Chuckie’s our little ‘rock star,’” Amanda smirked as he slipped into the classroom, “what with that girly hair! Mrs. Kielley is always keeping him after class. Pretty sure he’s failing her class.”
+“You don’t have to do this...” he began timidly. I could read a powerful emotion in his voice and in his eyes: *it's the girl from the loo*! 
 
-I frowned. “I didn’t realise Algebra 2 was required for seniors.”
+“I know.”
 
-“Well, if anyone could help him, you could. You’re smart!”
+He blinked and swallowed hard. That lone word seemed to unsettle him more than reassurance would have. I placed my notebook on the desk between us and looked at the question set.
 
-I waved dismissively. “Nah, not really: it's just an act. Besides, I’d rather have a good fashion sense. Like you!”
+“Pick one.”
 
-Amanda gave me one of her sardonic grins as she tugged on her baggy, creased shirt. I followed her into the classroom. Charlie was hard to spot at first, hunched over in his seat at the back of the class. Around him, the room buzzed with chatter, but no one noticed him. My heart ached a little. He was like a shadow tucked into the corner of the room. Forgotten.
+“I—” he began, and faltered. The page might as well have been written in smoke.
 
-At the end of the class, he was summoned by the teacher. I caught his eye as he passed and flashed what I hoped was an encouraging smile. He blushed and looked quickly away, fixing his gaze on the floor.
+I watched him slowly collect himself and set himself to the task. He didn’t panic theatrically. He didn’t joke. He didn’t make excuses. He scanned. Not the way someone scans for answers, but the way someone scans for structure.
 
-He had blushed. He cared about my opinion. I mattered to him.
+My eyes dropped to his own notebook as he moved it — careful, almost fussy, aligning the corners of the paper with the desk edge. I noticed his handwriting: neat, consistent, slanted slightly right, as if it had manners.
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+“You’re good at geometry, aren't you?”
 
+His head came up sharply. “What?”
 
+“Geometry. You're good at it. Your diagrams: very precise.”
 
+He looked genuinely confused, as if the possibility of being observed outside his failures had never occurred to him. “I’m... okay, I guess.”
 
+“You’re better than okay.” I tapped the question set. “Pick one with a diagram. A shape. Something that lives in space, not in a string of symbols.”
 
+He hesitated, then pointed with his pencil. “This one. The triangle... with the angle bisector.”
 
-## Notions and Ideas
+“Good.” I nodded. “You do the diagram. Make it clean. Label it properly. I’ll do the algebraic part and write the explanation. Then you check me for logic. Deal?”
 
-When I was a lot younger, I had toyed with the idea of ‘going goth’. Mum had talked me out of body piercings and tattoos, but I did dye my hair black for a while. Black lace dresses with enormous petticoats, lace-up boots, the lot — I wore them all. It was certainly a phase, but I never could bring myself to part with those dresses. Anyway, one reason for the "goth" thing was that I had always loved rain, dark clouds, creeping fog... transforming ordinary into magical. Others find grey days gloomy — the magic of rainy days hint at mystery and intrigue.
+He stared at me. “You... trust me to check you?”
 
-That afternoon was such a day. The sky hung heavy with dark clouds. The freshly trimmed grass lining the footpath home smelled earthy and clean as I strolled toward the bay. I could smell rain on the soft wind. There was hardly a ripple on the bay.
+That was the real question. Not about maths. About hierarchy.
 
-And then I saw her. Standing by a tree, watching a seagull.
+“I trust your eyes,” I replied. “They’re honest.”
 
-The hair, the shirt, the bum: her. But then, she walked on and that walk gave me pause: an easy amble, unselfconscious and unhurried. Not a masculine stride, certainly, but not feminine either.
+His ears went faintly pink. Not in a flattered way — more like embarrassment at being assigned a virtue.
 
-I followed her. I wasn’t stalking. It just so happened that the figure ahead was taking the same route as me. What if it was Charlie?
+He bent over the page. His pencil moved and the triangle appeared with a crispness that felt almost calming. Clean lines. Honest angles.
 
-The figure stopped, and pulled mail from a postal box. It was Charlie.
+While he worked, I listened to the classroom. The buzz of other pairs. The smugness of boys who’d paired up for safety, girls who’d paired up for comfort. I heard my name used in little asides, the way people taste words to see if they’re sweet.
 
-For a moment, I debated walking on as if I hadn’t seen him. No future in that, so I followed him silently to his front door.
+Charlie drew his angle bisector and then paused, frowning.
 
-“Hello girl!”
+“What?”
 
-He spun round, his eyes wide. For a second, I wondered if I’d been too bold, but then he spoke:
+He pointed. “If you call that angle *x*... then this one has to be *x* too, because of the bisector. But the problem statement says this angle is thirty degrees, which means *x* is fifteen. Which means... your ratio is fixed.”
 
-“Oh, hi Celeste.” He remembered my name! Boys don’t remember names: he remembered mine! “You live around here?”
+He said it softly, as if he expected to be corrected.
 
-“Yeah, we’re just a couple of doors down,” I said casually, my eyes flicking to the magazine in his hand. “Is that the latest edition of Marie Claire? Good choice!”
+I looked where he pointed. He was right. The whole thing collapsed into a simple proportion. I felt a small, satisfied click in my chest. Not because he’d solved it. Because of what it meant: he was competent in a way nobody had bothered to find.
 
-He went a bit pale, looking at the magazine in dismay.
+“Exactly,” I said. “That’s the spine of it.”
 
-“Uh, yeah, it’s actually my aunt’s...”
+He glanced up at me, his hazel eyes quick, searching. “Why are you doing this?”
 
-“Oh.” I tried not to let my disappointment show. I suppose I was hoping for more — those little things girls seem to do so naturally, like remembering names or putting a bit of thought into what they wear, reading fashion magazines.
+There it was. The suspicion. The defensive little gate he’d built, because people who were kind to him usually wanted something he couldn’t afford. I didn’t lie. I just chose the angle of truth.
 
-“Uh, Celeste, would you like to take a look at it?”
+“Because you’re being tested in the wrong language,” I said. “And I hate waste.”
 
-I blinked.
+His pencil hovered.
 
-“What, just here?” I asked, my tone just cheeky enough to be playful.
+“Waste?” he echoed.
 
-Next thing I knew, we were in the kitchen. Charlie was tripping over himself trying to be the perfect host. My confidence grew.
+“Waste of ability,” I clarified. “Waste of time. Waste of people.” I kept my voice calm. “You’re not behind. You’re misallocated.”
 
-“Hey, what do you do for fun?”
+He swallowed, and for a second his face did something raw, like he’d nearly believed me and it frightened him.
 
-“I write music. On my computer.”
+I leaned closer, just enough to make my next words private. “Also,” I added, “you’re going to owe me. Not like that. Practical.”
 
-“”Show me.”
+His shoulders stiffened. “What do you mean?”
 
-He headed off to fetch his laptop from his bedroom. As quietly as a cat, I followed him to his room. He didn’t even notice until I plopped myself cross-legged on his neatly made bed, grinning at him. To his credit, after a moment of surprise he accepted my presence as if it were the most natural thing in the world.
+“I mean,” I said, “I don’t do charity. I do investment.”
 
-His room was a bit like him: a blend of contradictions. He had boy things — some books and bits and bobs - but there was something else, a quiet, unspoken girlishness. Pictures of flowers. Sheer curtains. Uncluttered, tidy... and it smelled: nice. Not perfumed, just nice.
+He stared at me, and this time there was something like understanding. Not full understanding. The first bud of it. Tiny. Alive.
 
-This friendship was not going to be typical. At all.
+Mr. Greeves wandered past. He glanced at our work, eyebrows lifting. “Good diagram,” he said, sounding surprised despite himself. “Nice and clean.”
 
-I couldn’t help but feel for him. He was trying so hard, stumbling over his words in his awkward, yet sweet way. That’s when it hit me — where this friendship was going to go was up to me. It was mine to keep and look after, or to let go.
+Charlie’s hand tightened on the pencil, but he didn’t look up. He didn’t bask. He just kept working, as if praise was a thing that might vanish if he moved too fast.
 
-Most girls, I reckon, would’ve let it go. Honestly, that’s probably what I would’ve done a few years back. The girls I hang out with definitely would. They would laugh at the idea of taking someone like him seriously — smaller, quieter: definitely not the typical boy.
+When Mr. Greeves walked away, I said, lightly, “See? You exist. People just don’t like admitting it.”
 
-But I saw something else. Something rare, like a hidden gem or a flower waiting to bloom. The thought of helping it grow, of bringing out its beauty — not for everyone, maybe just for me — gave me a strange kind of excitement. There was something about the idea of shaping that delicate potential into something special, something that was mine alone.
+Charlie’s mouth twitched. Not quite a smile. The ghost of one.
 
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
+We finished the solution with no drama. I wrote the explanation in clear steps. He checked every transition like a quiet auditor. When we handed it in, Mr. Greeves nodded at me, then at him, as if he’d suddenly remembered Charlie was part of the room.
 
+As the bell went, chairs scraped, and the flock of birds turned again. People flowed past us, and I watched Charlie do what he always did: shrink to let them.
 
+I slid my notebook into my bag and stood.
 
+“Charlie.”
 
+He looked up, automatically attentive, as if my voice had become a cue.
 
+“I’m doing something after graduation,” I continued, watching his reaction carefully. “A project. A place. It’s... not school.”
 
+His eyes flicked away, then back. Hope, hidden under caution.
 
-## A Girlfriend
+“I need people who can keep their head,” I said. “People who can do detail. People who can be invisible on purpose.”
 
-I stepped into the kitchen with a happy heart. The smell of fresh-baked bread greeted me, warm and comforting. Mum must have just put it in the oven. It’s one of my favorite scents — though perhaps not quite as lovely as the perfume she gave me for my eighteenth birthday. That one really suits me, which is rare for perfumes. Most don’t.
+He frowned slightly. “Why me?”
 
-Mum wrapped me in a big hug, then pulled back, raising her eyebrows.
+I stepped closer, so my answer didn’t have to compete with the corridor noise.
 
-“Right-o, who did you meet? What’s his name? Where does he li —”
+“Because you already know how to survive without applause,” I said. “And because if I don’t pick you, someone else will. Someone stupider.”
 
-“Mum!” I cut her off, shaking my head in mock exasperation. She could always see straight through me. “Believe it or not, he lives a few doors down. His name is Charlie. He’s the sweetest boy I’ve ever met!”
+His breath caught—not romantic, not theatrical. Just the shock of being chosen without a joke attached to it.
 
-Mum frowned slightly. “I only ever see a girl on this street with her mum, occasionally.”
+He nodded once, careful, like he didn’t trust his own voice.
 
-I snickered. “Are you talking about the house with the big wooden door?”
+“Good,” I said. And then, because it mattered, because strategy without warmth is just cruelty, I softened it by a fraction. “I’ll tell you what it is tomorrow.”
 
-“Yes,” she said, still puzzled.
+He watched me walk away as if the hallway had quietly rearranged itself.
 
-“The... girl... has long blond hair?”
+And it had.
 
-“Yes, that’s her. Must be a tomboy... I never see her in a frock.”
+Not because I’d saved him.
 
-I burst out laughing. “That’s because she’s a... lad. A boy. A bloke. Sort of,” I finished lamely, still grinning.
-
-Mum stared at me. “He appears, well... pretty small. Not really your type, is he?”
-
-“Mum, he’s a friend! I’m not dating him.”
-
-She snorted, folding her arms. “Oh, I don’t know. I think you like him a bit more than you’re letting on.”
-
-Like I said — she sees right through me. Still, I held my ground.
-
-“Mum, Charlie’s like a girlfriend to me.”
-
-The moment I said it, I froze. It was like a lightbulb went off in my head, and I just sat there, staring into space, trying to make sense of it. When I finally snapped out of it, Mum was looking at me with this amused, curious sort of smile.
-
-“Girlfriend, hmm?” she teased. “What is he, gay or something?”
-
-“Mum!” I exclaimed, my cheeks burning.
-
-“Not that there’s anything wrong with that!”
-
-I shook my head. “He’s not gay. He’s just... not your typical lad, that’s all. He's respectful, timid, even. I want you to meet him — you’ll see what I mean.”
-
-Mum’s smile softened as she pulled me into a hug. “I’m very much looking forward to meeting your new ‘girlfriend’.”
-
-Her smile turned into a grin, and I couldn’t help but laugh.
-
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
-
-
-
-
-
-
-## So Fragile
-
-That night, as I lay in bed, my thoughts circled around Charlie. He was so... fragile. Not weak, exactly, but delicate in a way the world doesn’t know how to handle. Especially not the world of men. I couldn’t shake the image of him fumbling, apologizing, trying so hard to navigate something he wasn’t built for.
-
-It wasn’t his fault, of course. The traits that made him stand out, for me at least — the gentleness, the quiet sensitivity — didn’t fit the mould of what society expects men to be like. Society would trip him up, laugh, leave him stranded.
-
-The thought made my chest tighten. He didn’t deserve that. He needed someone to help him, someone to guide him. But how?
-
-I rolled onto my side, staring at the faint glow of the streetlight outside my window. There had to be a way, some way to show him the strength in those qualities he was so shy about. To help him find a place where he wouldn’t just survive, but thrive.
-
-It was such a maddening puzzle, and the more I thought about the conundrum, the more I felt its weight. I wanted to protect him. I had to protect him. But protection wasn’t enough. He deserved more than just safety. He needed a way to stand tall, to do his thing on his own terms.
-
-I closed my eyes, my thoughts still racing. Somewhere, in all that swirling chaos, an idea was starting to take shape. I couldn’t quite grasp it yet, but it was there.
-
-<hr style="height:8px;border-width:0;color:gray;background-color:blue">
-
-
-
-
-
-
-## The Only Solution
-
-The next day, that idea gelled into one word: ‘girl’.
-
-“Mind if I walk home with you?”
-
-I love surprising Charlie. That instant flash of surprise on his face, followed by a fleeting worshipful gaze — one he then tries desperately to cover up. It’s adorable, really. And then, of course, he starts yapping. Until I step in to help him pull himself together.
-
-But just as he regains his footing, I trip him again.
-
-Like that afternoon by the bay.
-
-“You know,” I said casually, watching his expression carefully, “at the embryonic stage, we all resemble females. It’s not until about seven weeks before guys develop into guys. This is, it’s meant to happen.”
-
-He blinked, his mind visibly racing to process this.
-
-“What? No.” He stared at the pond, his brow furrowing in confusion.
-
-“Look it up: it’s true. That’s what my science teacher told me,” I said with a shrug, watching him carefully. “I was doing a bit of extra reading on genetics, and Mr. Laudin explained that, essentially, we’re all female at conception. Sort of.”
-
-He turned to gape at me, his expression a mix of disbelief and bewilderment.
-
-“Here’s the thing,” I continued, keeping my tone light but deliberate. “There are all sorts of reasons — like a faulty Y chromosome, or if the body doesn’t do androgens — why someone who’s genetically male might develop as female. The point is, ‘girl’ is the default human.”
-
-He was drowning — his gaze drifted and his feet stumbled on the gravel path.
-
-Without thinking, I slipped my arm around his waist.
+Because I’d placed him.
