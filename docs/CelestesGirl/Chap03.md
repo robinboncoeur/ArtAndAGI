@@ -159,3 +159,174 @@ I felt the smile return, sharp and private.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
+
+
+"Hang on, let me get a picture!"
+"Hey-ho, it's Charlie's mum - she's home. Don't worry, Charlie, we'll explain!"
+"Charlotte? Is that you?"
+"Whoa, Charlie's mum just called her, er, him, 'Charlotte'!"
+"Hi girls, who's up for Cold Rock? My shout - come as you are..."
+"Um, I'll go change..."
+"Oh no Charlotte, especially YOU come as you are! You're one of US now!"
+
+
+“Hang on—photo. You look unreal.”
+“Hey-ho, your mum’s home.”
+“Don’t panic,” one of the girls whispered. “We’ll explain.”
+From the driveway: “Charlotte? Is that you?”
+Four faces snapped toward Charlie.
+“Mum...”
+Mum’s smile landed like a parachute. “Hi, girls. Ice cream? Cold Rock. My shout.”
+Charlie glanced down at the satin. “I’ll… go change.”
+Mum waved a hand, breezy. “Only if you want to. Otherwise, let’s go. Life’s too short.”
+One of the girls grinned. “Told you. No drama.”
+
+
+“Just look at you. You’re gorgeous.”
+Charlie swallowed, cheeks warm. “It’s… a lot.”
+“It’s perfect,” Celeste said, and her voice had that bright sincerity that made the crowd disappear. “The heels. The colour. The whole you of it.”
+“I wasn’t sure I could do the station like this.”
+“You already are.” Celeste smiled. “And you’re doing it on your terms.”
+He let out a breath he didn’t realise he’d been holding. “Just get back from Perth.”
+“I will,” she promised. “And when I do, we’re not doing ‘crazy.’ We’re doing good. Dinner. Music. Laughing. Ordinary things—while you look like someone who belongs in her own life.”
+
+
+friendship, support, kindness, gentle, comfort, selfconfidence, belonging, comingofage, sliceoflife, trainstation, travel, fashion, outfit, style, 
+
+consent, boundaries, agency, selfrespect, commentary, critique
+
+bodyneutrality, consent, boundaries, agency, womensvoices, fashion, fit, selfrespect, commentary, 
+
+---
+
+Here’s a **safe tag pack** for that “station / Perth / reassurance” piece — designed to pull “More Like This” toward **friendship, tenderness, agency, style, and coming-of-age**, and away from anything coercive/fetish-coded.
+
+---
+
+self-image, quiet morning, paris apartment, soft light, sunday, boudoir portrait, intimate portrait, femininity, womanhood, self acceptance, body neutrality, daydream, gentle, cinematic
+
+
+
+
+
+### Recommended tags (pick 8–12)
+
+* **friendship**
+* **support**
+* **kindness**
+* **gentle**
+* **comfort**
+* **selfconfidence**
+* **belonging**
+* **comingofage**
+* **sliceoflife**
+* **trainstation**
+* **travel**
+* **fashion** *(or **outfit** / **style**)*
+
+### Optional “story” tags (if you want it clearly read as narrative)
+
+* **microfiction**
+* **characterstudy**
+* **dialogue**
+* **storytelling**
+
+### Tags I’d avoid on this one
+
+* **feminization / forcedfem / sissy / humiliation / makeover / genderbend** (all steer the recommender straight back into the swamp)
+* **princess / babydoll / doll** (often gets misread, even if you mean it innocently)
+
+If you tell me the exact title you’re posting under (even roughly), I can tailor the tags a bit more (e.g., swap **fashion** for **costume** if it’s explicitly “Wardrobe is a job” universe).
+
+---
+
+Some people are small. Some people become smaller. Some people have always been that way.
+It isn’t a joke and it isn’t a defect — it’s just a body.
+This isn’t about pressure, humiliation, or “making” anyone do anything. It’s about fit, comfort, and the normal, practical reality that size labels don’t map neatly onto humans.
+If you’re reading this as coercion, you’re reading the wrong story.
+
+'Artists' note:
+I’m keeping one or two older “edge” images as reminders of what this gallery used to signal. The direction now is agency, dignity, and real-world empathy. Yeah, I'm changing things a bit. I can do that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Prompting for Masking
+
+Oh this *lands*, Robyn — and it lands in exactly the “women’s lived calibration” register you’ve been steering toward.
+
+### What’s working (a lot)
+
+* **The contrast reads instantly**: Mum in modern “get-through-the-day” clothes vs Charlie in full period black. That’s the whole point without a single explanatory tag.
+* **Charlie’s expression is right**: not melodramatic, not thrilled — just *watchful*, bracing, internally measuring the room. That’s how a lot of women look when they’re “fine” but running the risk-calculator anyway.
+* **Mum’s body language** helps: she’s mid-explain, hands open, practical. Not coercive. Not mocking. It positions her as *ally/translator*, which is a powerful antidote to the old tone.
+* **The suitcase** is an excellent grounding object. It makes it travel, not theatre. It says: “We’re doing this in public.”
+
+### The “flat-chested” bonus
+
+Yep — it adds veracity because it keeps the silhouette *honest*. In this exact context (public travel, apprehension, attention), “flat-chested” reads as *less cosplay / less male-gaze cue*, more “this is a body under clothing.” So: win.
+
+If you want to **lock that in reliably** next time, the trick is to describe the *garment logic* rather than the body:
+
+**Prompt add-ons (SRPO/Flux style):**
+
+* “flat chest, no cleavage, modest neckline, high chemise under bodice, smooth front panel, no bust shaping”
+* “period day dress worn for travel, practical fit, not styled for seduction”
+* “natural face, minimal makeup, unglamorous realism”
+
+**Negative/avoid phrasing:**
+
+* avoid “lingerie”, “push-up”, “plunging neckline”, “corset cleavage”, “busty”, “voluptuous”
+
+That keeps the model from “helpfully” inventing curves.
+
+### Tiny tweaks that would make the message even cleaner
+
+These are optional, but they’d push it further away from *any* dopamine-coded read:
+
+1. **Neckline:** even a small **fichu/kerchief** or a slightly higher chemise edge peeking out instantly says “daywear / propriety” rather than “costume drama allure.”
+2. **Shoes:** if the model gives you heels, swap to **flat boots** (button boots, ankle boots) — it reads “commuting” not “performing.”
+3. **Mum’s protective micro-gesture:** if you ever re-roll, try Mum lightly touching his upper arm or standing half a step “between” him and the platform — it visually communicates *female protection tactics* without preaching.
+
+### Caption idea (if you want it to sting, gently)
+
+You’ve already got the tone. Something like:
+
+> “It’s not the dress. It’s the attention.
+> Mum: ‘You don’t owe anyone an explanation. Just stay close, and keep moving.’”
+
+That frames the whole image as *safety strategy*, not “oh look, dress.”
+
+### Story insight you’ve accidentally nailed
+
+Charlie being *apprehensive but compliant* is a great “progress marker” because it’s not submissive fantasy — it’s **social navigation**. He’s learning the thing women learn: *how to occupy public space when you might become a topic.*
+
+If you do a follow-up image later, you can show the next step: same setting, similar outfit — but Charlie’s posture is a fraction more settled, because the support system is now internalised. That’s the arc.
+
+If you want, paste the prompt you used for this one (even rough), and I’ll suggest 6–8 surgical edits to make “public caution / travel practicality / flat chest / non-sexual wardrobe brief” even more reproducible.
+
+
+## Read The Room
+
+"You see, Charl, they’re less like 'I enjoy being with this person' or 'I enjoy that particular art piece' and more about a private part of their bedroom they return to. You’re basically seeing what they collect, what they want on-demand, what mood they’re curating for themselves, and what they feel entitled to.
+
+"That’s why the pushback is so weirdly personal. If your art was just art to them, your pivot wouldn't feels like you "broke their stash". You didn’t. But that’s how they experience it.
+
+"You've already been clocked as a woman: and so, once you stopped providing what he wanted, he switched to dismissal, mockery, and entitlement. That little pivot is the patriarchy micro-behaviour in miniature:"
+
+'You’re pleasing, so I’m warm.'
+'You’re not pleasing, so you’re defective or crazy or dishonest.'
+
+"It’s not about you being “right” or “wrong.” It’s about compliance. Also, when someone with an axe to grind loudly announces they’re leaving, treat it like the news it has started to drizzle: no chase, no sarcasm, no long explanation. A simple “Understood” (or nothing at all) is weirdly powerful."
+
