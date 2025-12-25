@@ -191,6 +191,10 @@ He let out a breath he didn’t realise he’d been holding. “Just get back fr
 “I will,” she promised. “And when I do, we’re not doing ‘crazy.’ We’re doing good. Dinner. Music. Laughing. Ordinary things—while you look like someone who belongs in her own life.”
 
 
+
+
+## key Tags for DA
+
 friendship, support, kindness, gentle, comfort, selfconfidence, belonging, comingofage, sliceoflife, trainstation, travel, fashion, outfit, style, 
 
 consent, boundaries, agency, selfrespect, commentary, critique
@@ -205,9 +209,13 @@ Here’s a **safe tag pack** for that “station / Perth / reassurance” piece 
 
 self-image, quiet morning, paris apartment, soft light, sunday, boudoir portrait, intimate portrait, femininity, womanhood, self acceptance, body neutrality, daydream, gentle, cinematic
 
+---
 
+For **Historical Costume**:
 
+These images are technical and narrative studies: fabric behavior, seams, silhouette, and mood. I’m moving toward women-forward storytelling, craft, and lived experience.
 
+historicalcostume, historicalfashion, costumehistory, textilecraft, sewing, dressmaking, handsewing, fabrictexture, linen, lacing, perioddress, livinghistory, narrativeart, characterstudy, sliceoflife, womensstories, womeninart, cinematiclight, sunrise, travel
 
 ### Recommended tags (pick 8–12)
 
