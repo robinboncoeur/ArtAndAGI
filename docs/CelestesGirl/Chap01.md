@@ -28,122 +28,118 @@
 <div class="column column--right" markdown>
 I shouldn’t have been in that corridor at all.
 
-The girls’ toilets sat off the library wing — pale tiles, the faint perfume of hand soap, and that soft institutional hush that always made you lower your voice without thinking. I was cutting through because the bell had just gone, and the hallway was a river of bodies, and I don’t like being jostled when my head is full.
+The library wing had its own hush — pale tiles, the faint perfume of hand soap drifting from the bathrooms, and that institutional quiet that makes you lower your voice without thinking. I’d cut through to avoid the main hall after the bell, because the hallway was a river of elbows and backpacks and I don’t like being jostled when my head is full.
 
-Besides, I’d learned early that if you walk as though you belong somewhere, people stop questioning why you’re there. It isn’t arrogance. It’s choreography.
+And because I’d learned early that if you walk as though you belong somewhere, people stop asking why you’re there. It isn’t arrogance. It’s choreography.
 
-I pushed the door with my shoulder, stepped inside, and only then noticed the figure at the sinks. For half a second my brain refused to label what I was seeing. Not because it was shocking, but because it didn’t fit the neat categories school insisted on.
+I nudged the door with my shoulder and stepped into the girls’ toilets — and only then saw someone at the sinks.
+
+For a beat my mind stalled, not because it was scandalous, but because it didn’t fit the neat categories school insisted were natural.
 
 </div>
 </div>
 
-A boy — slight, narrow-shouldered, tousled long brownish hair, some of it falling into his eyes — stood under the bright mirror lights with a paper towel clutched in one hand, as if he’d been interrupted in the middle of deciding how to exist. His shirt was one of those oversized uniforms that look like they’ve been slept in, collar softened by too many washes, as if his mum had given up trying to make it crisp.
+A boy stood under the mirror lights with a paper towel clutched in one hand. Slight. Narrow-shouldered. Long brownish hair that fell into his eyes as if he’d forgotten it needed managing. His uniform shirt was oversized and softened by too many washes, the collar gone limp like the person laundering it had stopped believing in crispness.
 
-Not predatory still. Not defiant still. More like a deer that has realised the world contains headlights.
+He wasn’t predatory still. He wasn’t defiant still.
 
-For half a second my brain refused to file him properly, because the scene didn’t match the rules school pretended were natural: girls in here, boys out there, neat lines, neat categories. And yet here he was, in the harsh mirror light, looking like a wrong note you couldn’t un-hear once it happened.
+He was… caught. Like a deer that has realised the world contains headlights.
 
 He stared at me.
 
-Not the casual glance you get from boys who think you’re decoration. This was different. This was... struck. I saw it in the way his breath caught and failed to restart smoothly, the way his gaze snagged as if his eyes had forgotten they were supposed to move. It wasn’t lust. It wasn’t bravado. It was awe—raw, immediate, and almost helpless.
+Not the usual quick look you get from boys who think girls are scenery. This was different — his breath snagged and didn’t restart smoothly; his gaze locked as if his eyes had forgotten they were supposed to move. Not bravado. Not lust. Just a raw, helpless kind of astonishment.
 
-That kind of attention is dangerous in the wrong hands. But in the right hands, it’s simple. It’s leverage. Not cruel leverage. Just... direction.
+That sort of attention can turn ugly in the wrong hands.
 
-I could have shouted, *Get out*, as if volume was a form of safety. But screaming makes you the story. It invites witnesses, gossip, morality plays. And I didn’t want a story.
+In the right hands, it’s simply something you have to handle carefully.
+
+I could have shouted *Get out*, as if volume was a form of safety. But screaming makes you the story. It invites witnesses, gossip, morality plays. And I didn’t want a story. Not for me, and not for him.
 
 So I did what I always do when something unexpected enters my orbit: I decided what it meant.
 
-“Hello,” I said, calmly, as though I’d found a first-year hiding from a duty teacher. “Are you lost?”
+“Hello,” I said, calm as if I’d found a first-year hiding from a duty teacher. “Are you lost?”
 
-His throat bobbed. He didn’t answer immediately. The silence was so complete I could hear the air-conditioning ticking behind the vent. Then he managed, hoarse, barely audible, “I... I’m sorry.”
+His throat bobbed. The silence was so complete I could hear the air-conditioning tick behind the vent. Then he managed, hoarse and thin, “I… I’m sorry.”
 
-A pre-emptive apology. Interesting. I softened my voice by a fraction—not pity, just calibration. “You know you’re in the ladies’, right?”
+A pre-emptive apology. Interesting.
 
-I really don't think that fact had actually occurred to him, even though he had apologised. His widening eyes flicked around the room, landing a beat later as he tried to supress a gasp: no urinals, no familiar signage, no exit that didn’t require passing me.
+I softened my voice by a fraction — not pity. Calibration. “You know you’re in the ladies’, right?”
+
+I watched the fact land late. His eyes flicked around the room, taking in the sinks, the cubicle doors, the absence of any familiar marker that could make this make sense. He swallowed hard.
 
 “Oh—” He groaned. “Oh, no. I thought this was— I mean, I—”
 
-Words spilled out, urgent and unhelpful. The instinct to explain, to erase himself from the scene by being reasonable.
+Words spilled out, urgent and unhelpful. The instinct to explain, to erase himself by being reasonable.
 
-He wasn’t the swaggering kind of boy. He wasn’t even the cheeky kind. He was the wrong-door, head-in-the-clouds kind. He stood there clutching a paper towel like it was evidence. I took a small step nearer—close enough to make him hold still, not close enough to crowd. He backed into the sinks without meaning to. I watched him do it, watched the way his shoulders drew inward as if he could shrink out of the situation.
+He wasn’t the swaggering kind of boy. He wasn’t even the cheeky kind. He was the wrong-door, head-in-the-clouds kind — the kind who would apologise to a chair he bumped into.
 
-“Alright, mate,” I said, briskly. “Stop. Breathe.”
+He stood there with the paper towel like it was evidence.
 
-He blinked at me, startled by the instruction.
+I took a small step nearer — close enough to anchor him, not close enough to crowd. He backed into the sinks without meaning to, shoulders drawing inward as if he could shrink out of existence.
+
+“Alright,” I said, brisk. “Stop. Breathe.”
+
+He blinked at me, startled by the instruction. Then — because he didn’t seem able to help it — he did it.
 
 “Good,” I said, as if he’d complied on purpose. “Now. You’re going to walk out like nothing happened.”
 
-His mouth opened again. I lifted a finger, not harshly. Simply: *I’m handling this.*
+His mouth opened again. I lifted a finger. Not harsh. Simply: *I’m handling this.*
 
-“Don’t argue. Don’t confess. Don’t do that thing where you look like you’re asking to be punished,” I added, watching his shoulders tighten. “Just... let me steer for a second.”
+“Don’t argue. Don’t confess. Don’t do that thing where you look like you’re asking to be punished.” His shoulders tightened, like I’d hit a nerve. “Just… let me steer for a second.”
 
-He stared at me. And then I saw the shift — a tiny one, but unmistakable. His breath slowed. His spine uncurled a fraction. His hands lowered. His mouth dropped open, not to speak, but to take in air, finally. He absorbed my taking over like cloth absorbs dye. He wasn’t a threat. He was a boy who’d learned, somewhere along the line, that his safest option was to yield.
+He stared at me.
 
-That’s a habit.
+And then I saw the shift — tiny, but unmistakable. His breath slowed. His spine uncurled a fraction. His hands lowered.
 
-“What’s your name?”
+He absorbed my taking over like cloth absorbs dye. It wasn’t weakness. It was habit — a boy who’d learned somewhere that his safest option was to yield.
+
+That’s a habit you can ruin a person with, if you’re careless.
+
+“What’s your name?” I asked.
 
 He hesitated, as though names were dangerous.
 
-“Chuck,” he said finally, then corrected himself with an awkward, desperate politeness. “Charles. Charles Rossignol.”
-
-The surname landed with a satisfying click. French. Unexpected.
+“Chuck,” he said, then corrected himself with an awkward, desperate politeness. “Charles. Charles Rossignol.”
 
 “Rossignol,” I repeated, tasting it. “Nightingale.”
 
-His eyes flicked up, startled that I knew that it meant something, and what it meant. His gaze held mine for a beat too long — still caught, still dazzled — and I felt, very clearly, the weight of being the object of that dazzlement. It did not feel flattering.
+His eyes lifted, startled that I knew it meant something — and what it meant. He held my gaze for a beat too long, still caught, still dazzled, and I felt the weight of it. Not flattering. Not comfortable. Just… a responsibility.
 
-Determined to turn down the tap, I said: “Right then,” and extended my hand.
+“Right then,” I said, and tilted my head toward the door. “We’re leaving.”
 
-He looked at it the way a shy child looks at something expensive — reverence mixed with fear of doing it wrong. Then, cautiously, he placed his palm in mine.
+He looked past me as if the corridor might bite. I stepped first, so he didn’t have to. I positioned myself where anyone glancing up would see *me* before they saw him.
 
-His hand was cool and light. No push. No claim. It settled as if it belonged where I’d put it. I didn’t squeeze. I simply held, for one beat longer than necessary. An ordinary gesture—deliberately timed.
+“If someone looks at you oddly,” I said quietly, “you look at me. Understand?”
 
-It did what ordinary gestures always do when you choose them carefully: it created a connection the other person hadn’t asked for, and therefore couldn’t quite refuse. His eyes widened as his hand slipped out of mine.
+He nodded — quick, obedient.
 
-“You don’t have to explain anything," I said quietly. "You don’t have to defend yourself. You don’t have to look guilty. You just leave. And if anyone looks at you oddly, I'll be at the door. Just look at me.”
+We moved.
 
-I watched him stand there, recalculating his world.
+At the threshold he stopped, hand on the handle, eyes flicking back to me with an expression I recognised too well: expecting the world to change its mind.
 
-“I... I really need to go,” he managed, as if saying it might open a trapdoor in the floor.
-
-“Quite right,” I said, with a short, amused exhale. “And I shouldn’t be wasting passing period in toilets. Yet here we are.”
-
-It landed. His mouth twitched — the ghost of a smile — then vanished as quickly as it came, like he didn’t trust it. Humour is a lever. It lets people accept guidance without feeling defeated. I nodded toward the door. Not a command. A direction.
-
-He moved, slowly, as if his feet didn’t trust the new instruction manual. At the threshold he stopped with his hand on the handle and glanced back at me as I followed him — an expression I recognised too well: expecting the world to change its mind.
-
-I lifted my eyebrows at him.
+I lifted my eyebrows.
 
 Go on.
 
 He swallowed and opened the door.
 
-Before he stepped through, I said, lightly, “Charlie.”
+“Charlie,” I said, lightly, as he stepped through.
 
-He froze.
+He froze. “My name’s not—”
 
-“My name’s not...”
+“I know,” I said, and let a hint of humour take the edge off it. “But it suits you. Tell me if you hate it.”
 
-“It is now,” I replied, pleasant as sunlight. “At least when I’m speaking to you.”
+He looked at me as if I’d handed him something he didn’t know how to hold.
 
-His face went blank, stunned. Not outraged, not embarrassed: stunned. The bafflement of being renamed after that was all you shared. Your name. His reaction pleased me more than it should have.
+Then he was gone — swallowed by the tide of students.
 
-“See you, Charlie,” I added, and let the smile come — not flirtation, not a trap. Just a signal: *you’re in my line of sight now.* He disappeared into the corridor. And for a moment I stood at the door of the bright tiled room, hearing only the distant shuffle of students and the soft rush of taps. I washed my hands, because the habit matters, even when you’ve just rewritten someone’s afternoon.
+I stayed in the bright tiled room long enough to wash my hands, because habits matter even when your afternoon takes a sharp left. As the dryer hummed, I thought — not unkindly, but with the clean satisfaction of a strategist whose board has presented an unexpected piece:
 
-As I dried them, I thought — not unkindly, but with the clean satisfaction of a strategist whose board has presented an unexpected piece:  
 He watches my face like he’s waiting to be told what’s real.
 
-I am very good at telling people what’s real.
+I’m very good at that.
 
-
-
-
-
-
-
-
-
+I have to be careful with it.
 
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
