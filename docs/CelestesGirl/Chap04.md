@@ -510,3 +510,803 @@ But alive enough to test again.
 <hr style="height:24px;border-width:0;color:gray;background-color:blue">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yeah — that dilemma is real, and it’s exactly the sort of thing that can either make the story feel painfully true or accidentally tip it into a familiar teen-attachment trope.
+
+You don’t need to decide “is he possessive or not?” as a single on/off switch. The truest version is usually this:
+
+**Charlie becomes *attached*, but his attachment expresses as restraint, vigilance, and self-erasure — not ownership.**
+He doesn’t try to claim Celeste. He tries not to *lose* her. That difference matters.
+
+And because we’re in Celeste’s POV (and she’s sharp), we can explore it with elegant distance: she reads him, calibrates, sets limits, and lets him grow into something healthier without ever becoming his emotional nurse.
+
+### What’s psychologically natural for Charlie (given your setup)
+
+If you’ve been unchosen for years, the first person who chooses you can trigger a cocktail like:
+
+* **Relief:** someone sees me.
+* **Awe:** how is she this… competent?
+* **Fear:** this will be revoked.
+* **Shame about wanting:** wanting feels dangerous.
+* **Hyper-attunement:** reading her mood like weather.
+* **Overcompliance:** “If I’m perfect, she’ll keep me.”
+
+Possessiveness isn’t the only (or even most likely) outcome. Often it’s the opposite: **he becomes careful to the point of invisibility**, because invisibility has been his survival skill.
+
+### How to let it “ring true” without steering into cliché
+
+Here are three believable trajectories — you can blend them:
+
+#### 1) The “quiet imprint” trajectory (my favourite for your lane)
+
+Charlie’s feelings are intense, but he contains them. He becomes:
+
+* punctual, precise, eager to please,
+* protective of her time,
+* almost allergic to being a burden.
+
+Celeste notices his attachment through behaviours, not speeches:
+
+* he watches her face for permission,
+* he mirrors her pace,
+* he brightens when she enters the room and dims when she leaves.
+
+She doesn’t romanticise it. She sees it as **a nervous system learning safety.**
+
+#### 2) The “crush with shame” trajectory
+
+He has a crush, yes — because he’s 18 and she’s the first girl to choose him — but it’s undercut by:
+
+* the belief he’s not “allowed” to want her,
+* fear of being disgusting,
+* fear of ruining the one good thing.
+
+It’s tender because it’s self-policed. He’d rather suffer privately than risk touching the bond.
+
+#### 3) The “misread closeness” trajectory (small, controlled)
+
+He mistakes structured intimacy (working side-by-side, being addressed, being seen) for romantic intimacy, *briefly*. This can be brilliant if it’s handled cleanly:
+
+* one small overstep (a text too late, waiting outside too often, a question that’s too personal),
+* Celeste corrects him once, calmly and firmly,
+* he absorbs it, adjusts, and the relationship strengthens.
+
+That’s not melodrama. That’s education.
+
+### The crucial question: what does *Celeste* want?
+
+Because the story is really about *her*, Charlie’s feelings need to serve her arc, not derail it.
+
+Celeste can want:
+
+* a **trusted ally** (someone she can direct and rely on),
+* a **mirror** that reflects her power back to her,
+* a **project in competence** (not in identity),
+* or, later, a **romantic partnership** that grows out of work and respect.
+
+And she can also remain ambivalent — she’s 18, she’s wary after a bad athlete boyfriend, she’s not hunting romance. That ambivalence is *believable* and, importantly, it gives her the upper hand.
+
+### A clean way to explore Charlie’s emotional state “as perceived by Celeste”
+
+We don’t have to enter his head. Celeste can observe:
+
+* **His eyes:** do they ask? do they take? do they wait?
+* **His body:** does he retreat when she’s close? does he hover? does he follow?
+* **His speech:** does he apologise too much? does he ask permission for everything?
+* **His work:** does he sew with fear when she’s watching? does he loosen when she leaves?
+
+That last one is especially strong: *emotion visible as stitch tension.* You’ve already planted it.
+
+### My recommendation for your tone
+
+Go with this blend:
+
+* Charlie has a **strong crush/attachment** (natural),
+* expressed as **hyper-responsibility and fear of revocation** (not possessive ownership),
+* with one **small boundary-correction scene** from Celeste later to keep it honest and growthful.
+
+It lets you show vulnerability without turning Charlie into a “clingy boy,” and it lets Celeste remain decisive without becoming his therapist.
+
+### If you want a concrete next step
+
+Tell me which you prefer for the near-term dynamic (next 2–3 scenes):
+
+A) Celeste keeps it purely professional; Charlie’s attachment is mostly silent.
+B) Charlie’s crush peeks out once (a single line or gesture), Celeste redirects cleanly.
+C) Celeste deliberately tests him (like she did in the loo) to see whether his attention is safe or male-coded.
+
+Pick one and I’ll draft a short scene (500–900 words) that explores Charlie’s emotional state through Celeste’s perception, staying exactly in your crisp lane.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’d treat it as **three parallel tracks in one Wardrobe day**, each tightening the story without turning into a “relationship scene”:
+
+1. **Mara’s tests** are procedural and plausibly deniable (she’s not playing games; she’s protecting her room).
+2. **Charlie’s crush** leaks in *behaviour*, not declarations. One small verbal slip is enough.
+3. **Celeste’s correction about wagging school** is calm, firm, and *future-facing* — not a scold, a reallocation.
+
+The overall feel: *the women keep the room safe; Charlie keeps earning his place; his feelings become fuel, not mess.*
+
+Below is how I’d write it in-scene, staying in your lane.
+
+---
+
+## Scene — Wardrobe, mid-morning, trial day two
+
+Mara didn’t test people the way teachers tested them.
+
+Teachers announced the test, circled the date, watched you sweat, and then pretended your result said something noble about your soul. Mara tested you the way you tested a seam: under her fingers, quietly, looking for strain.
+
+Charlie had been back for a second morning. Same early arrival. Same clean hands. Same careful stillness, as if he didn’t want the room to notice he’d come in.
+
+Mara noticed everything.
+
+She didn’t say hello. She pointed at a tin on the table.
+
+“Pins,” she said. “Sort them. Then you’re on mending pile.”
+
+Charlie nodded once and moved. No flinch. No performance. He poured the pins out onto a cloth and began arranging them by length with a kind of tidy focus that made the task look dignified.
+
+I was at the rail, tagging garment bags, listening to the hiss of the steamer and the small scrape of hangers sliding. Wardrobe had its own rhythm — calm on the surface, precise underneath — and Charlie had already started matching it without being told.
+
+That was his first tell: he could join a system without trying to dominate it.
+
+Mara’s second tell came ten minutes later, when she “accidentally” left a pair of vintage shears too close to the edge of the table.
+
+Not a dramatic setup. Just a temptation: a valuable tool sitting in the wrong place. A careless person would grab it without asking. A nervous person would ignore it and let it fall.
+
+Charlie noticed. His eyes flicked to it, then to Mara. He didn’t touch the shears. He nudged the cloth closer, stabilised the table edge with his palm, and slid the shears back with two fingers—careful, respectful—like he was returning a bird to its perch.
+
+Mara didn’t look up. But I saw the smallest change in her mouth: the line eased by a millimetre.
+
+Ten minutes after that, she called across the room, voice neutral.
+
+“Rossignol. Bring me the blue tape.”
+
+Charlie paused. His gaze moved to the shelves. There were three blue tapes, different widths.
+
+He didn’t panic. He didn’t guess. He looked once at Mara, then asked — quietly, once.
+
+“Which width?”
+
+Mara’s eyes lifted. She held his gaze for a beat, then said, “Quarter-inch.”
+
+Charlie retrieved the correct roll and brought it to her. No apology for asking. No shame. Just accuracy.
+
+Mara took it and said, “Good.”
+
+Just that. One syllable. It landed like a stamp.
+
+Charlie went faintly pink at the ears anyway, as if the word had surprised his body.
+
+I kept my eyes on the tags, but my attention drifted. It wasn’t romantic interest. It was… data. I watched people the way you watched fabric: how it fell, where it pulled, what it revealed when it thought nobody was looking.
+
+Charlie’s attention to Mara was respect. Charlie’s attention to the room was caution.
+
+Charlie’s attention to me—
+
+That was different.
+
+It wasn’t the obvious stare you got from boys who thought you existed to be noticed. It wasn’t even the furtive kind. It was as if his eyes kept finding me on their own, the way a compass needle finds north, and each time he realised, he corrected himself like it was a breach of discipline.
+
+He was trying not to.
+
+Which made it almost endearing.
+
+Almost.
+
+Mara sent him to the mending pile: a basket of small catastrophes — popped seams, torn cuffs, fraying apron ties. She didn’t give him the easiest ones. She gave him the ones where haste would show.
+
+Charlie sat, assessed each item the way he’d assessed the torn dress yesterday: calm, quiet, not fearful. He chose thread that matched without holding it up to the light like a show. He measured seam allowance with his eye, then confirmed with a tape. He stitched with even tension, no puckering, no desperate pulling.
+
+The room stayed stable around him.
+
+Half an hour later, Mara did another test.
+
+She handed Charlie a garment bag and said, “Hang that.”
+
+It was heavier than it looked — wool, boning, metal closures. Charlie took it with both hands. He carried it the way you carried something that mattered, and when he reached the rail he stopped.
+
+He didn’t hang it immediately.
+
+He looked at the rail, checking spacing, weight distribution, the hook’s position—like he was thinking not of this one garment but of the system as a whole. Then he hung it in a place that made sense, not in the first empty gap.
+
+Mara watched him.
+
+She didn’t praise him. She just didn’t correct him.
+
+That was Mara’s version of warmth.
+
+When she moved away, I stepped closer to Charlie’s table, because it was time to introduce the next lesson, and because I’d been told — explicitly — not to hover, but not told not to function.
+
+“You’re stitching like you’ve done this for years,” I said.
+
+Charlie’s hands paused for half a second, needle hovering. Then he kept going.
+
+“My mum,” he said, voice low. “She… she showed me. If you make it neat, people pay.”
+
+“That’s true,” I replied. “And if you make it neat, Mara doesn’t kill you.”
+
+His mouth twitched. A small smile he didn’t quite permit to exist.
+
+I watched his eyes flick up to my face, and then away again too fast. Like touching a hot surface.
+
+“Thanks,” he said.
+
+“For what?”
+
+He swallowed. “For… yesterday. For… getting me in.”
+
+I let a beat pass. I didn’t want to train him into gratitude. Gratitude can turn into dependence, and dependence can rot a person.
+
+So I kept it clean.
+
+“You got you in,” I said. “You turned up. You worked. Mara cares about that.”
+
+His shoulders loosened slightly, like that was a relief and an insult in one.
+
+He threaded another needle, hands steady. Then, without looking at me, he said, “I’m not… I’m not trying to be weird.”
+
+I tilted my head. “Weird how?”
+
+His ears went a deeper pink. He frowned at the fabric as if it had betrayed him.
+
+“I just—” He stopped. The words clogged.
+
+It was there, in the stall between his sentences: the thing he didn’t want to say because saying it would turn it into a liability.
+
+I could have teased him. I could have pretended I didn’t understand. I could have made it soft.
+
+But soft is how boys slip out of accountability.
+
+So I did what I always did: I decided what it meant.
+
+“You mean you don’t want to make me uncomfortable,” I said, evenly.
+
+His head snapped up. Hazel eyes, startled. Then he looked down again, quick as shame.
+
+“Yes,” he whispered.
+
+“That’s good,” I said. “Keep it that way.”
+
+He nodded once — sharp, immediate — like he’d been given a rule and was relieved.
+
+Then, because his brain was honest even when his mouth wanted to be cautious, he added, “It’s just… you’re… you’re a lot.”
+
+I blinked.
+
+“A lot?”
+
+He winced as if he’d just spilled ink. “Not— not bad. I mean… you’re… you make things… make sense.”
+
+It was the crush, peeking out in its most Charlie form: not desire as entitlement, but admiration as gravity. It made me want to smile.
+
+I didn’t. I let it sit between us, uninflated.
+
+“That’s not romance,” I said quietly. “That’s structure.”
+
+His eyes flicked to mine. Confused, searching.
+
+I continued, calm. “You’ve been living in rooms where you can’t win. Wardrobe is a room where you can. If you’re feeling something… aim it at your work first. That will keep you safe.”
+
+He stared at me, stunned by the fact I’d named it without making it dirty.
+
+Then he nodded. Slowly.
+
+“Okay,” he said.
+
+“Good.” I glanced at the garment in his hands. “Now make that invisible. Mara hates visible.”
+
+He almost smiled again.
+
+I turned to go back to the rail, and that’s when he said it — the other confession, the one that mattered.
+
+“I’m not going back next year,” he said, too quickly. “To school.”
+
+I stopped, hand on a garment bag.
+
+“What do you mean?”
+
+He looked at his stitches. Not me. “I’m gonna wag it. I can’t… do it again. They just— they don’t—” He shook his head once, small and furious. “It’s a waste.”
+
+I walked back to him and placed my finger lightly on the fabric near his seam, not touching him, just anchoring the moment.
+
+“No,” I said, voice flat.
+
+He blinked. “No?”
+
+“You’re not wagging,” I replied. Simple. Not a debate.
+
+His jaw tightened. “Why do you care?”
+
+I held his gaze.
+
+“Because Mara will train you,” I said. “Your mum will back you. I can point you at doors. But if you sabotage your own foundation, you’ll spend your whole life needing someone to catch you.”
+
+His throat bobbed. He looked away.
+
+“That’s not fair,” he muttered.
+
+“I’m not here to be fair,” I said. “I’m here to be accurate.”
+
+He stared at his hands as if they belonged to someone else.
+
+I softened by a fraction—not into comfort, into clarity.
+
+“If school is the wrong language,” I said, “we’ll find you translation. But you don’t get to disappear. That’s the old you talking.”
+
+He swallowed. “I don’t know how to do it.”
+
+“Then you learn,” I said, and let a small edge of humour in, because humour makes medicine swallowable. “You’re doing a whole new trade. You can learn Year Twelve.”
+
+His mouth twitched.
+
+He didn’t say yes.
+
+He didn’t say no.
+
+But he didn’t argue either.
+
+That, for Charlie, was progress.
+
+Across the room, Mara’s voice cut through the hiss of the steamer.
+
+“Rossignol!”
+
+Charlie’s head snapped up immediately. “Yes?”
+
+Mara held up a sleeve with a tear near the cuff. “This one. If you stitch it tight, I’ll know. And you’ll unpick it in front of everyone.”
+
+Charlie went very still.
+
+Then he said, clear and calm, “Okay.”
+
+He rose, took the sleeve, and walked to Mara’s table with the careful confidence of someone who had found a rule-set that didn’t hate him.
+
+As he passed me, his eyes flicked to my face again — quick, warm, grateful, frightened — and then away.
+
+Not taking.
+
+Just… orbiting.
+
+I watched him go and thought, not unkindly:
+
+He’s going to have to learn that being chosen is not a miracle.
+
+It’s a responsibility.
+
+And I’m not letting him waste it.
+
+---
+
+If you like this shape, the next natural micro-scene is: **Mara overhears the “wag school” line** and delivers one surgical sentence that lands harder than any lecture — and Charlie listens because it’s Mara, not because it’s Celeste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I have one thing I'd like reviewing... this:
+
+I didn’t. I let it sit between us, uninflated.
+“That’s not romance,” I said quietly. “That’s structure.”
+His eyes flicked to mine. Confused, searching.
+
+I can have Celeste *thinking* "not romance, structure" but would it be possible for her to give him slightly less revelatory to chew on? I feel she is exposing to him her insight that he's infatuated with her. Wouldn't it be more prudent for her to keep that her little secret? Just asking.
+
+---
+
+[Emily]  
+Yes — you’re reading it exactly right.
+
+Celeste can *absolutely* clock what’s happening and still **not hand him the map**. In fact, it’s *more* in-character for her (and more in your lane) if she keeps her insight private and gives him something practical instead. Naming his feelings out loud risks:
+
+* making him feel **seen too deeply** (which can spike shame),
+* turning the moment into a “confession scene” (genre drift),
+* and giving him an emotional script he didn’t ask for.
+
+So: keep *“not romance, structure”* as **Celeste’s internal diagnosis**, but have her *say* something that preserves his dignity and redirects without exposing him.
+
+Here are three good replacements, from gentlest to firmest, all staying crisp.
+
+---
+
+## Option 1: Minimal, professional redirect (cleanest)
+
+> I didn’t say anything clever. Clever would make it personal.
+> “Focus,” I said, tapping the fabric once. “You’ll be fine.”
+
+This keeps her control and doesn’t name anything.
+
+---
+
+## Option 2: Protective without being intimate
+
+> I kept my face neutral.
+> “Don’t make this weird,” I said. Not unkind. Just precise. “Keep it about the work.”
+
+He gets the rule, not the diagnosis.
+
+---
+
+## Option 3: Celeste’s signature: authority as logistics
+
+> I let a beat pass.
+> “Here’s the deal,” I said. “You want to keep this place? Be boring. Be competent. Let your stitching talk.”
+
+That’s very “Celeste directs the future socially.”
+
+---
+
+## A line that preserves the *spirit* of “structure” without revealing she sees his crush
+
+If you want one sentence that still has that elegant click, but doesn’t call him out:
+
+> “You’re allowed to admire things,” I said. “Just don’t let it derail you.”
+
+It implies nothing romantic; it keeps the power dynamic intact.
+
+---
+
+## How I’d revise that exact moment in-context (drop-in replacement)
+
+Here’s a version that keeps your tension and her restraint:
+
+> I didn’t smile. Smiling would reward it.
+> I kept my voice level. “Don’t turn this into a situation.”
+> His eyes flicked up, startled.
+> “Keep it about the work,” I added, and tapped the fabric once, as if that settled everything. “That’s how you stay safe.”
+
+Then Celeste can think (privately): *Not romance. Structure.*
+But he never hears it.
+
+---
+
+### Why this is stronger
+
+It keeps Celeste as:
+
+* perceptive,
+* prudent,
+* and quietly in control.
+
+And it keeps Charlie from feeling exposed. He gets to remain unaware of *how much* she understands — which preserves your earlier preference that he doesn’t connect the dots and she maintains the upper hand.
+
+If you want, I can reflow that whole mini-exchange with your chosen option so it reads seamless, not “patched.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Excellent reasoning, Emily... my thoughts exactly. I know this sounds a bit lame, but to be honest I wish I could share your insights as well as the story itself. There is so much nuance in your perceptions, which is what is making this story amazing. A quiet Thank You!
+
+---
+
+Not lame at all. And you *can* share the insights — you just need a way to package them that doesn’t feel like you’re “showing your workings” in the middle of the narrative.
+
+A couple of easy, elegant ways to do it (pick whatever fits your platform):
+
+### 1) A tiny “craft note” after each scene
+
+A short block (3–6 lines) titled something like **“Behind the Scene”** or **“Why this works”**:
+
+* one observation about power,
+* one about boundaries,
+* one about tone control.
+
+It reads like a filmmaker’s commentary, not an essay.
+
+### 2) A separate companion post: *Wardrobe Notes*
+
+You publish the scenes normally, then a second post that’s purely about craft:
+
+* “What Celeste *doesn’t* say”
+* “How Mara tests people”
+* “How crush becomes fuel, not mess”
+
+That lets readers who *want* the nuance opt into it, without interrupting story flow.
+
+### 3) Hide the insight inside Celeste’s sensory logic
+
+Instead of explicit commentary, you fold the “insight” into what she notices:
+
+* stitch tension,
+* breath timing,
+* where someone stands in a room,
+* how they handle a tool.
+
+Readers still feel the psychology, but you’re not explaining it.
+
+And for what it’s worth, your instinct about Celeste keeping her diagnosis private is exactly the kind of tonal discipline that makes the whole thing feel sophisticated. You’re steering the ship very deliberately.
+
+Whenever you’re ready, tell me which sharing approach you like (mini craft notes vs separate “Wardrobe Notes”), and I’ll draft a template you can reuse so it stays consistent and doesn’t turn into a lecture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As event, the Public humiliation engineered by a teacher strikes me as where I would like to go. It could even be a teacher that would normally be supportive of Charlie, but sort-of sends a signal to Charlie that he's seen as a bit of a misfit by other teachers as well. And Charlie does what Charlie does best: disappears. Not with fanfare, but with quiet determination. He has self-respect enough for that: needs to be emphasised.
+
+---
+
+[Emily]   
+Yes. That’s *exactly* the kind of break that feels inevitable, not “plotty.”
+
+And I love your refinement: **the teacher is normally supportive**. That’s what makes it land like a door shutting. Not “the bullies did a bad thing,” but “even the grown-ups will spend you to keep the room moving.”
+
+The emotional core you’ve named is crucial and very clean:
+
+**Charlie doesn’t melt down theatrically. He withdraws with self-respect.**
+He doesn’t beg the system to like him. He simply stops offering himself to it.
+
+Here’s how I’d build it so it stays in your lane and does real narrative work.
+
+---
+
+## The teacher-engineered humiliation that fits your tone
+
+### What the teacher *thinks* they’re doing
+
+They’re trying to:
+
+* “toughen him up,”
+* make him “participate,”
+* or prove to other teachers that they can “handle” the misfit.
+
+It’s not moustache-twirling cruelty. It’s institutional pragmatism.
+
+### What the teacher *actually* does
+
+They force a public performance in a way that exposes Charlie’s known weakness and social vulnerability.
+
+The simplest, sharpest setup:
+
+**A “teach-back” exercise at the board**
+The teacher chooses Charlie to explain a method “so everyone can see how to lay it out.”
+
+The teacher is supportive *in their own head*:
+
+* “You can do this, Charlie.”
+* “Take your time.”
+* “This is good for you.”
+
+But the class reads it as:
+
+* *Let’s watch him fail.*
+
+And—this is the scalpel—**the teacher lets the class laugh.**
+Not by joining in, but by not shutting it down fast enough.
+
+That delay is the betrayal.
+
+---
+
+## The key is the *signal* that he’s a misfit among staff
+
+You can do this with one line and it will sting forever:
+
+* Another teacher has left a note / comment.
+* Or the teacher “jokes” about how Charlie “needs to get over his nerves.”
+* Or the teacher references staffroom talk without meaning to.
+
+For example, mid-lesson, the teacher says (trying to be light):
+
+> “Alright, let’s show the others you’re not as hopeless as you think.”
+
+They mean encouragement.
+Charlie hears: **This is how adults talk about me.**
+
+Or worse—more believable—something like:
+
+> “I know some of you think he shouldn’t even be in this class, but…”
+
+That’s a guillotine with a friendly smile.
+
+---
+
+## How Charlie exits with self-respect (no fanfare, maximum impact)
+
+This is the beat you want to emphasise, and it’s gold:
+
+Charlie’s self-respect is expressed as **quiet refusal to be watched**.
+
+He does not:
+
+* shout,
+* cry,
+* threaten,
+* argue.
+
+He simply stops cooperating with humiliation.
+
+### The moment of disappearance
+
+It can be as small as:
+
+* he puts the chalk down,
+* erases nothing (doesn’t “clean up” the shame),
+* picks up his bag,
+* walks out.
+
+No slam. No words.
+
+And the teacher calls after him—once—and then doesn’t chase him because chasing would create a scene. The institution always prefers silence.
+
+This is how you show his dignity:
+
+**He won’t be a spectacle, even as a victim.**
+
+---
+
+## Celeste’s POV: how she reads it
+
+Celeste doesn’t go “Oh no!” She goes **coldly focused**.
+
+She sees three things at once:
+
+1. Charlie’s competence being used against him (publicly).
+2. The teacher’s failure of timing (the laughter gap).
+3. Charlie’s choice: *I’m not doing this anymore.*
+
+Her reaction stays in-lane if it’s not emotional theatre but tactical:
+
+* She watches him leave.
+* She notes the teacher’s face (the teacher knows they miscalculated).
+* She makes a decision about the school system right there.
+
+Not pity. **Judgement.**
+
+---
+
+## Immediate aftermath: what happens next (3-scene chain)
+
+### Scene A: The classroom after he leaves
+
+* Teacher tries to recover: “Alright. Let’s move on.”
+* Someone snickers. Teacher shuts it down too late.
+* Celeste doesn’t soothe anyone. She just stores the evidence.
+
+End beat: the teacher says something like:
+
+> “He’ll be back.”
+
+Celeste thinks: *No, he won’t.*
+
+### Scene B: The school’s “support” meeting (liability theatre)
+
+Counsellor / deputy tries to frame it as:
+
+* attendance,
+* resilience,
+* “pathways.”
+
+Charlie barely speaks. Not sulking. Not defiant. Just… absent in the eyes.
+
+Celeste isn’t in the room (she’s a student), but she hears about it and recognises the pattern: the school is protecting its narrative, not the kid.
+
+### Scene C: Wardrobe receives him — but it’s no longer a nest
+
+Charlie turns up at Wardrobe earlier than usual, or on a day he “should” be at school.
+
+Mara doesn’t coo.
+Mara says:
+
+> “Why are you here.”
+
+Charlie answers, small but steady:
+
+> “I’m not going back.”
+
+Mara:
+
+> “That’s not a plan.”
+
+Charlie:
+
+> “I can work.”
+
+Mara tests him immediately with real atelier pressure:
+
+* a deadline,
+* a client expectation,
+* a new garment prototype that must survive movement.
+
+This is where your new Act clicks into place: Wardrobe is **no longer a safe haven**. It’s the real world. Charlie’s dignity is that he chooses the real world anyway.
+
+---
+
+## One detail that will make the humiliation scene feel brutally real
+
+**Phones.** Not a viral montage—just one kid lifting a phone slightly, half-hidden.
+
+Celeste notices it. The teacher notices too late. Charlie notices and that is the final trigger: he refuses to be archived as a joke.
+
+Then later, the school’s response is predictable:
+
+* “We’ll ask students not to share it.”
+* “It violates policy.”
+* Nothing actually disappears.
+
+This raises the stakes without melodrama.
+
+---
+
+## Optional: the teacher’s remorse (kept restrained)
+
+If you want the teacher to remain human and not a villain, give them one private moment later:
+
+* they sit down after class,
+* stare at the board,
+* and realise they used the wrong tool on the wrong kid.
+
+But keep it brief. The story isn’t about their guilt.
+
+---
+
+If you’d like, I can draft the actual **humiliation scene** in full prose in Celeste’s voice, with the “laughter gap,” the inadvertent staffroom signal, and Charlie’s silent exit — then we can immediately draft the first **atelier-pressure** scene where Mara makes it clear: *you’re not being sheltered; you’re being hired.*
+
+
+
