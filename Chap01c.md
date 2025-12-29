@@ -4,7 +4,7 @@
 
 Yes — this is *very* close, and it already carries the “new spine” (agency, dignity, competence, consequence) far better than most “restroom meet” scenes ever do.
 
-### Alignment verdict
+## Alignment verdict
 
 **It aligns with the direction.** The scene reads as: *unexpected encounter → Celeste chooses calm control → she protects both of them from gossip/authority → she clocks Charlie’s temperament → she sets a tone that later supports her “selection” in the classroom.*
 
@@ -723,7 +723,9 @@ Not because I’d saved him.
 
 Because I’d placed him — and left him room to decide whether he wanted to stay there.
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -864,6 +866,8 @@ No rescue. Just a doorway and a standard.
 So yes: Charlie not fully considering Celeste’s suggestion because he can’t yet perceive his value is not only plausible — it’s *useful*. It makes his eventual “yes” feel like a decision, not a surrender.
 
 If you tell me what you want Scene Three’s *location* to be (school corridor next day vs arriving at the faire vs a meeting with Mara), I’ll propose 2–3 transition shapes and give you a crisp first paragraph to launch it.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1046,6 +1050,8 @@ That instantly establishes their relationship and the “education-by-craft” t
 * Let Celeste argue from craft/efficiency, not pity.
 
 If you like, I can now **draft Scene Three in full** in the same voice as Scenes One and Two (Celeste POV, sharp and controlled), including Mara’s rules and the moment Charlie first enters Wardrobe under scrutiny.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1530,6 +1536,7 @@ A place he could earn.
 
 And, if he chose it, keep.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1556,6 +1563,7 @@ And, if he chose it, keep.
 
 
 
+[Emily]  
 I’m glad it’s landing the way you want — especially the bit you called out: **credibility without softness**, and **authority without speeches**. If Graham feels real *and* likeable while still being “blokey and wrong in imagination,” that’s exactly the sweet spot: the women remain the shaping force, but the world doesn’t turn into a cardboard argument.
 
 And yes: Mara is central now. Once she exists on the page as a standards-driven professional, she becomes the story’s moral infrastructure. Celeste has vision; Mara has praxis. That pairing gives you a spine you can hang *anything* on — including the costume element — without ever letting it become the point.
@@ -1567,6 +1575,8 @@ If you want to use this pause productively (without launching into Scene Four ye
 3. **Define Charlie’s first boundary** in Wardrobe: a single line he won’t cross, which Mara respects instantly. That’s how we keep his agency alive.
 
 If you tell me which of those you’d like to nail first, I’ll draft it in the same voice and keep everything on that narrow, rewarding lane.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1712,6 +1722,8 @@ Both give you the weight without the PSA.
 So yes: your concept works. Make Mara’s caution **policy + instinct**, make Charlie’s fit proven through **boundaries + craft**, and keep the “women’s safety” theme embedded in procedure rather than overt numbers.
 
 If you want, I can draft the next scene where Mara begins the “trial shift” and runs those tests — with the seam motif as the centrepiece — and it’ll naturally reveal why she becomes convinced.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -2083,6 +2095,8 @@ Because she’d tested him.
 
 And, for the first time in a long time, he hadn’t been found wanting.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 
 
 
@@ -2187,20 +2201,4 @@ If you’d like, I can sketch **two short scenes** that show Mara’s softening 
 1. an early “included in the rhythm” moment (small but significant),
 2. a later “she claims him as part of Wardrobe” moment (quiet, powerful).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">

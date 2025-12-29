@@ -2,10 +2,6 @@
 
 ## POV-Celeste
 
-When I came out of the stall in the loo, I was a bit surprised to see Amanda at the sinks, washing her hands. Amanda has this thing for blokey shirts — always has — and from behind, she could easily be mistaken for a lad. Which was something I found attractive about her: so cool, that boyishness. Her smell, too... and her warmth. But her bum, well, that was all girl. Yes, she possessed a blokish energy, but her boyishness was contradicted by her bottom.
-
-I approached her, puzzled. Earlier, when I had suggested we go "powder our noses" she'd shrugged. Not-interested.
-
 <img src="/assets/images/CelCh2/Cha-BRoom1.jpg" alt="Smiles" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
 
@@ -536,7 +532,7 @@ Into the next room.
 If you like this, the next scene (Scene Six) can be the **first “atelier-pressure day”** where it becomes clear to Charlie that Wardrobe isn’t a nest anymore — it’s a workplace — and his self-respect will now be tested not by ridicule, but by *standard and speed*.
 
 
-<hr style="height:25px;border-width:0;color:gray;background-color:blue">
+<hr style="height:12px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -553,11 +549,7 @@ If you like this, the next scene (Scene Six) can be the **first “atelier-press
 
 
 
-
-
-
-
-
+[Q]  
 At this stage, Emily, I think we've got the following situation:
 * Charlie is now fully engaged at Wardrobe, out of the academic environment *safely*
 * Mum is largely onboard, still concerned about Charlie's outlook, largely unaware of her son's infatuation with Celeste, which had been a driving factor to Charlie being in Wardrobe in the first place
@@ -567,7 +559,7 @@ Charlie becomes increasingly involved in "New Design Realisation". Celeste and M
 
 ---
 
-{Emily}  
+[Emily]  
 Yes. That’s a crisp, coherent state-of-play — and what you’ve just articulated gives you a *beautiful* engine for the next movement: Charlie doesn’t “earn belonging” through emotional acceptance; he earns it through **indispensability** in a women-led enterprise.
 
 And the design-realisation/testing insight is spot-on. In a real atelier (especially one making garments for working staff), “testing” isn’t *wearing*, it’s **interrogating**:
@@ -719,6 +711,8 @@ That’s exactly your lane: no prurience, no melodrama, just psychology expresse
 I can draft **Scene Ten: The First True Test** in Celeste’s POV, with the garment find, the proto build, the first failure, and Charlie becoming the official “stress translator” who makes the design survive the world.
 
 Say the word and I’ll write it straight through.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -997,6 +991,7 @@ And in that moment, with chalk on fabric and a plan on paper, Wardrobe stopped b
 
 It became a place that made new ones.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1023,6 +1018,7 @@ It became a place that made new ones.
 
 
 
+[Emily]  
 That progression is *exactly* how this becomes believable and inevitable — and it’s also how you keep it non-prurient: it’s not “he’s dressing up,” it’s **quality assurance** becoming formalised because it works.
 
 And Twiggy is a great shorthand *inside your head* for silhouette logic: a slender frame that makes period lines read cleanly. You don’t even need to name Twiggy in-text unless you want a little cultural snap; you can simply have Celeste register that his body is “uncomplicated” in the way patterns like—no bulk where bulk creates distortion, long lines that show strain honestly.
@@ -1163,6 +1159,8 @@ Mara can say:
 ---
 
 If you’d like, I can write a short **“Phase 2–4 montage scene”** (Celeste POV) that compresses these repeated incidents into 2–3 pages of crisp, satisfying forward motion—so you *feel* the norm forming without having to write ten similar scenes.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1402,6 +1400,7 @@ And once a precision like that has a place, it doesn’t stop.
 
 It becomes the rule.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1416,20 +1415,7 @@ It becomes the rule.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Emily]  
 Here’s a clean context summary you can paste into a new thread to pick up exactly where we left off.
 
 ---
@@ -1501,4 +1487,6 @@ Here’s a clean context summary you can paste into a new thread to pick up exac
 * Keep Charlie’s feelings subtle; Celeste observes and channels without exposing it.
 * Use Lauren as adult-facing legitimacy and support (suppliers, evidence, protective advocacy), while Mara remains standards gatekeeper and Celeste remains research/direction engine.
 
----
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+

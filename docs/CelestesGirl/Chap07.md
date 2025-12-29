@@ -212,10 +212,6 @@ He was looking for what I would need next.
 
 And that—more than any garment—was the first true shape of “companion” taking form.
 
-
-
-
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
@@ -237,7 +233,7 @@ And that—more than any garment—was the first true shape of “companion” t
 
 
 
-
+[Emily]  
 Of course. Here are **Scenes Seven and Eight re-told fully through Celeste’s eyes**—first-person, with her particular blend of cool observation, pragmatic care, and quiet authority. Same beats, same purpose, just anchored inside her head.
 
 ---
@@ -636,6 +632,7 @@ And Charlie learning, quietly, how to live inside it.
 
 If you’d like, next we can do **Scene Nine** from Celeste’s POV: the first time Charlie is *truly tested* by atelier pace (deadlines, a garment failure, a staff complaint), and we show him begin to flourish—without anyone soothing him, just *training him into competence*.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -656,10 +653,12 @@ If you’d like, next we can do **Scene Nine** from Celeste’s POV: the first t
 
 
 
+[Q]  
 Well, Lauren can't afford private school, so it's public school. Look, based on my exposure to students from the public system, it's actually quite good, particularly when compared to US public school system. More support, generally speaking. And UNIFORMS... an excellent thing, as they undermine the whole fashion/social hierarchy/peer pressure thing.
 
 ---
 
+[Emily]  
 Yep — if Lauren’s on a Victorian **government** school budget, your instincts about *how the system behaves* are broadly right: it’s usually more structured around **attendance + wellbeing + re-engagement** than the “shrug, you’re on your own” vibe people sometimes describe elsewhere. (Not perfect, but there are clearer rails.)
 
 ### Uniforms in Vic government schools
@@ -704,6 +703,8 @@ If you want, I can draft a short **school-to-Lauren phone call/email** (very Vic
 [3]: https://www2.education.vic.gov.au/pal/attendance/policy?utm_source=chatgpt.com "Attendance: Policy | VIC.GOV.AU | Policy and Advisory Library"
 [4]: https://www2.education.vic.gov.au/pal/enrolment/guidance/school-age-requirements?utm_source=chatgpt.com "Enrolment: School age requirements and age exemptions"
 [5]: https://www2.education.vic.gov.au/pal/student-engagement/policy?utm_source=chatgpt.com "Student Engagement: Policy - Department of Education, Victoria"
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -842,6 +843,10 @@ That’s believable. And it preserves your tone.
 ---
 
 If you’d like, I can draft **Scene Nine** (Lauren explicitly aligning with Mara/Celeste, with minimal school allusion and maximum forward motion), and use it to launch the next phase: Charlie’s first real “flourish” moment where he solves a design problem that even Mara respects.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -1102,9 +1107,6 @@ A room where women built reality and demanded he live inside it.
 
 A room where the system’s noise could stay outside the door—because inside, we had signal.
 
-
-
-
-
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 

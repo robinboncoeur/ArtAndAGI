@@ -1,5 +1,8 @@
-# The Trust Test
+# Wardrobe 
 
+*(First Go)*
+
+**The Trust Test**
 
 <img src="/assets/images/Celeste/Cel4a.jpg" alt="" style="float: right; width: 300px;
         margin-left: 20px; margin-bottom: 10px;" />
@@ -506,9 +509,7 @@ Not yet.
 
 But alive enough to test again.
 
-
-<hr style="height:24px;border-width:0;color:gray;background-color:blue">
-
+<hr style="height:12px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -525,6 +526,17 @@ But alive enough to test again.
 
 
 
+
+
+
+
+## Discussion With Emily
+
+27-Dec-2025
+
+### Keeping the Emotions Real
+
+[Emily]  
 Yeah — that dilemma is real, and it’s exactly the sort of thing that can either make the story feel painfully true or accidentally tip it into a familiar teen-attachment trope.
 
 You don’t need to decide “is he possessive or not?” as a single on/off switch. The truest version is usually this:
@@ -534,7 +546,10 @@ He doesn’t try to claim Celeste. He tries not to *lose* her. That difference m
 
 And because we’re in Celeste’s POV (and she’s sharp), we can explore it with elegant distance: she reads him, calibrates, sets limits, and lets him grow into something healthier without ever becoming his emotional nurse.
 
-### What’s psychologically natural for Charlie (given your setup)
+
+#### What’s psychologically natural
+
+*for Charlie (given your setup)*
 
 If you’ve been unchosen for years, the first person who chooses you can trigger a cocktail like:
 
@@ -547,11 +562,14 @@ If you’ve been unchosen for years, the first person who chooses you can trigge
 
 Possessiveness isn’t the only (or even most likely) outcome. Often it’s the opposite: **he becomes careful to the point of invisibility**, because invisibility has been his survival skill.
 
-### How to let it “ring true” without steering into cliché
+#### How to let it “ring true”
+
+*without steering into cliché*
 
 Here are three believable trajectories — you can blend them:
 
-#### 1) The “quiet imprint” trajectory (my favourite for your lane)
+---
+**1) The “quiet imprint” trajectory (my favourite for your lane)**
 
 Charlie’s feelings are intense, but he contains them. He becomes:
 
@@ -567,7 +585,8 @@ Celeste notices his attachment through behaviours, not speeches:
 
 She doesn’t romanticise it. She sees it as **a nervous system learning safety.**
 
-#### 2) The “crush with shame” trajectory
+---
+**2) The “crush with shame” trajectory**
 
 He has a crush, yes — because he’s 18 and she’s the first girl to choose him — but it’s undercut by:
 
@@ -577,7 +596,8 @@ He has a crush, yes — because he’s 18 and she’s the first girl to choose h
 
 It’s tender because it’s self-policed. He’d rather suffer privately than risk touching the bond.
 
-#### 3) The “misread closeness” trajectory (small, controlled)
+---
+**3) The “misread closeness” trajectory (small, controlled)**
 
 He mistakes structured intimacy (working side-by-side, being addressed, being seen) for romantic intimacy, *briefly*. This can be brilliant if it’s handled cleanly:
 
@@ -587,7 +607,7 @@ He mistakes structured intimacy (working side-by-side, being addressed, being se
 
 That’s not melodrama. That’s education.
 
-### The crucial question: what does *Celeste* want?
+#### What does *Celeste* want?
 
 Because the story is really about *her*, Charlie’s feelings need to serve her arc, not derail it.
 
@@ -600,7 +620,9 @@ Celeste can want:
 
 And she can also remain ambivalent — she’s 18, she’s wary after a bad athlete boyfriend, she’s not hunting romance. That ambivalence is *believable* and, importantly, it gives her the upper hand.
 
-### A clean way to explore Charlie’s emotional state “as perceived by Celeste”
+#### Explore Charlie’s emotional state
+
+*A clean way to explore Charlie’s emotional state “as perceived by Celeste”*
 
 We don’t have to enter his head. Celeste can observe:
 
@@ -611,7 +633,7 @@ We don’t have to enter his head. Celeste can observe:
 
 That last one is especially strong: *emotion visible as stitch tension.* You’ve already planted it.
 
-### My recommendation for your tone
+#### My recommendation for your tone
 
 Go with this blend:
 
@@ -621,7 +643,7 @@ Go with this blend:
 
 It lets you show vulnerability without turning Charlie into a “clingy boy,” and it lets Celeste remain decisive without becoming his therapist.
 
-### If you want a concrete next step
+#### If you want a concrete next step
 
 Tell me which you prefer for the near-term dynamic (next 2–3 scenes):
 
@@ -631,6 +653,7 @@ C) Celeste deliberately tests him (like she did in the loo) to see whether his a
 
 Pick one and I’ll draft a short scene (500–900 words) that explores Charlie’s emotional state through Celeste’s perception, staying exactly in your crisp lane.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -645,7 +668,9 @@ Pick one and I’ll draft a short scene (500–900 words) that explores Charlie�
 
 
 
+## Wardrobe Trial Day Two
 
+[Emily]  
 I’d treat it as **three parallel tracks in one Wardrobe day**, each tightening the story without turning into a “relationship scene”:
 
 1. **Mara’s tests** are procedural and plausibly deniable (she’s not playing games; she’s protecting her room).
@@ -908,6 +933,7 @@ And I’m not letting him waste it.
 
 If you like this shape, the next natural micro-scene is: **Mara overhears the “wag school” line** and delivers one surgical sentence that lands harder than any lecture — and Charlie listens because it’s Mara, not because it’s Celeste.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -921,6 +947,13 @@ If you like this shape, the next natural micro-scene is: **Mara overhears the �
 
 
 
+
+
+
+
+
+
+[Q]  
 I have one thing I'd like reviewing... this:
 
 I didn’t. I let it sit between us, uninflated.
@@ -1009,6 +1042,7 @@ And it keeps Charlie from feeling exposed. He gets to remain unaware of *how muc
 
 If you want, I can reflow that whole mini-exchange with your chosen option so it reads seamless, not “patched.”
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1027,10 +1061,13 @@ If you want, I can reflow that whole mini-exchange with your chosen option so it
 
 
 
+
+[Q]  
 Excellent reasoning, Emily... my thoughts exactly. I know this sounds a bit lame, but to be honest I wish I could share your insights as well as the story itself. There is so much nuance in your perceptions, which is what is making this story amazing. A quiet Thank You!
 
 ---
 
+[Emily]  
 Not lame at all. And you *can* share the insights — you just need a way to package them that doesn’t feel like you’re “showing your workings” in the middle of the narrative.
 
 A couple of easy, elegant ways to do it (pick whatever fits your platform):
@@ -1070,6 +1107,7 @@ And for what it’s worth, your instinct about Celeste keeping her diagnosis pri
 
 Whenever you’re ready, tell me which sharing approach you like (mini craft notes vs separate “Wardrobe Notes”), and I’ll draft a template you can reuse so it stays consistent and doesn’t turn into a lecture.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1088,6 +1126,8 @@ Whenever you’re ready, tell me which sharing approach you like (mini craft not
 
 
 
+
+[Q]  
 As event, the Public humiliation engineered by a teacher strikes me as where I would like to go. It could even be a teacher that would normally be supportive of Charlie, but sort-of sends a signal to Charlie that he's seen as a bit of a misfit by other teachers as well. And Charlie does what Charlie does best: disappears. Not with fanfare, but with quiet determination. He has self-respect enough for that: needs to be emphasised.
 
 ---
@@ -1308,5 +1348,7 @@ But keep it brief. The story isn’t about their guilt.
 
 If you’d like, I can draft the actual **humiliation scene** in full prose in Celeste’s voice, with the “laughter gap,” the inadvertent staffroom signal, and Charlie’s silent exit — then we can immediately draft the first **atelier-pressure** scene where Mara makes it clear: *you’re not being sheltered; you’re being hired.*
 
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
