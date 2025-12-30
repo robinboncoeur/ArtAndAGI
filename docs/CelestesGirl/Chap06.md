@@ -167,9 +167,27 @@ And one for Charlie that nails your theme:
 
 If you want, I can write the **first “costume-from-the-skin-out” scene** as that procedural, crisis-driven non-event — with Mara present as the sceptical gatekeeper, and with Celeste’s language making it unmistakably *not* a fantasy beat.
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-## (Celeste POV)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*(Celeste POV)*
 
 
 ## Celeste — The Non-Event
@@ -489,9 +507,4 @@ That kind of steadiness was rare.
 And rare things, once acquired, are difficult to let go.
 
 
-
-
-
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-

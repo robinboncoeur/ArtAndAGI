@@ -50,6 +50,23 @@ And then the key: Charlie behaves impeccably — eyes down when appropriate, han
 
 Whenever you’re ready, I can write that next.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -367,6 +384,4 @@ Not yet named.
 
 But already forming.
 
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-

@@ -142,9 +142,5 @@ I’m very good at that.
 I have to be careful with it.
 
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
-
-
-
-
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 

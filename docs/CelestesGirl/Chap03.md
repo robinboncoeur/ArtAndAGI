@@ -7,6 +7,21 @@
 
 Graduation came and went in a blur of handshakes, photographs, and the strange, bright emptiness that follows applause. I kept my smile in place, accepted the honours cord like it belonged to me, and watched the year scatter—boys roaring about the coast, girls already rehearsing their new lives. …Charlie didn’t scatter. He simply... vanished — as if being perceived as a future was more frightening than being ignored as a present. A week later I was at the Faire grounds before dawn, clipboard in hand, my mum’s name on a donor plaque near the gate and my dad’s quiet influence in the way managers returned his calls. Wardrobe had lost two staff to “last-minute opportunities,” which meant it became mine by default—because I’d been hovering near it for years, because I knew the inventory by touch, because I didn’t panic. I was scanning the temporary hire list when I saw *Rossignol, Charles* under Maintenance and felt that small, decisive click in my chest: wrong allocation, again—only this time it was happening on my turf.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Celeste and Wardrobe
 
@@ -154,12 +169,19 @@ I felt the smile return, sharp and private.
 
 “Yes,” I said. “Exactly.”
 
-
-
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
+
+
+
+
+
+
+
+
+
+## Heppened on DA
 
 "Hang on, let me get a picture!"
 "Hey-ho, it's Charlie's mum - she's home. Don't worry, Charlie, we'll explain!"
@@ -256,6 +278,8 @@ If you’re reading this as coercion, you’re reading the wrong story.
 'Artists' note:
 I’m keeping one or two older “edge” images as reminders of what this gallery used to signal. The direction now is agency, dignity, and real-world empathy. Yeah, I'm changing things a bit. I can do that.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 
 
 
@@ -337,4 +361,6 @@ If you want, paste the prompt you used for this one (even rough), and I’ll sug
 'You’re not pleasing, so you’re defective or crazy or dishonest.'
 
 "It’s not about you being “right” or “wrong.” It’s about compliance. Also, when someone with an axe to grind loudly announces they’re leaving, treat it like the news it has started to drizzle: no chase, no sarcasm, no long explanation. A simple “Understood” (or nothing at all) is weirdly powerful."
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 

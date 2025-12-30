@@ -1010,13 +1010,7 @@ It became a place that made new ones.
 
 
 
-
-
-
-
-
-
-
+## From One-off to Policy
 
 [Emily]  
 That progression is *exactly* how this becomes believable and inevitable — and it’s also how you keep it non-prurient: it’s not “he’s dressing up,” it’s **quality assurance** becoming formalised because it works.
@@ -1413,7 +1407,7 @@ It becomes the rule.
 
 
 
-
+## Further Discussion
 
 [Emily]  
 Here’s a clean context summary you can paste into a new thread to pick up exactly where we left off.
@@ -1488,5 +1482,3 @@ Here’s a clean context summary you can paste into a new thread to pick up exac
 * Use Lauren as adult-facing legitimacy and support (suppliers, evidence, protective advocacy), while Mara remains standards gatekeeper and Celeste remains research/direction engine.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-

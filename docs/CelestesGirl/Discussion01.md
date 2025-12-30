@@ -1654,7 +1654,7 @@ And I am very good at telling people what’s real.
 
 
 
-## Continuity: Class Scene
+## Continuity for Scene 2
 
 *yes, she recognises him — and it strengthens everything*
 
@@ -1686,7 +1686,7 @@ If you’d like, paste the first 2–3 paragraphs of the maths scene you’re us
 
 
 
-
+## The Bit to Fix
 
 [Q]  
 This bit?
@@ -1792,6 +1792,8 @@ If you tell me which option you prefer (1/2/3), I’ll reprint the whole paragra
 
 
 
+
+## Scene 2, Revision 3
 
 [Q]  
 I sort-of spliced it in this way... it this okay?
@@ -2039,6 +2041,9 @@ If you say which flavour you prefer for Celeste’s entry into the Faire—**ear
 
 
 
+
+## Bridge to the Faire
+
 Starting with you last suggestion first: that one paragraph bridge would be ideal. Limited exposition yet crucial details covered.
 
 Then, in terms of Celeste's "In" at the Faire: parents are donors works well for me. Also, in terms of role, for her to be in charge of wardrobe fits in perfectly (hopefully not too obviously) for where Charlie would be useful to her. And for the rest - you already OWN that change-of-venue scene. Yes, since maintenance is technically authority-wise at the same or higher level than Celeste's role, the person she's having the discussion with would have to acknowledge at some level that Charlie is a poor fit and actually more of a liability to him than an asset so after some weak pushback finally relents.
@@ -2050,7 +2055,9 @@ Here you go — first the **one-paragraph bridge**, then I’ll give you a **cle
 
 ---
 
-## One-paragraph bridge (Celeste POV)
+### One-paragraph bridge 
+
+*(Celeste POV)*
 
 Graduation came and went in a blur of handshakes, photographs, and the strange, bright emptiness that follows applause. I kept my smile in place, accepted the honours cord like it belonged to me, and watched the year scatter—boys roaring about the coast, girls already rehearsing their new lives. Charlie didn’t scatter. He simply… vanished, as if school had been the only container holding him together. A week later I was at the Faire grounds before dawn, clipboard in hand, my mum’s name on a donor plaque near the gate and my dad’s quiet influence in the way managers returned his calls. Wardrobe had lost two staff to “last-minute opportunities,” which meant it became mine by default—because I’d been hovering near it for years, because I knew the inventory by touch, because I didn’t panic. I was scanning the temporary hire list when I saw *Rossignol, Charles* under Maintenance and felt that small, decisive click in my chest: wrong allocation, again—only this time it was happening on my turf.
 
@@ -2069,9 +2076,11 @@ That’s exactly the kind of power strategist Celeste would cultivate: **a domai
 
 ---
 
-## Chapter 3 scene (written in the same voice)
+### Chapter 3 scene 
 
-### Celeste — Faire Grounds, Early Morning
+*(written in the same voice)*
+
+#### Celeste — Faire Grounds, Early Morning
 
 Morning at the Faire wasn’t romantic.
 
@@ -2217,9 +2226,23 @@ I felt the smile return, sharp and private.
 
 “Yes,” I said. “Exactly.”
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-## About Charlie’s “angel” feeling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Charlie’s “angel” feeling
 
 Keeping him “increasingly enamoured” in a *platonic* “she’s my angel” way is fine — and actually useful — because it’s a believable engine for:
 
@@ -2250,12 +2273,14 @@ If you want, I can now write **the last paragraph of Chapter 3** as a sting: a t
 
 
 
+## Scene 4
 
-
+[Q]  
 This. Is. Perfect. Feel free to add that last paragraph - far be it from me to refuse ANYTHING you offer, Emily - but WOW. Simply. Wow.
 
 ---
 
+[Emily]  
 Wardrobe smelled like starch and old perfume and the faint metallic bite of pins. The light in here was different—softer, less public—yet everything felt more exposed, as if the walls were made of judgement. Charlie hovered just inside the doorway, hands half-lifted, unsure where to put them, as if he’d been issued a new body and hadn’t found its instructions yet. I watched him take in the hanging rows of stays and gowns, the labeled drawers, the careful order I’d imposed on the chaos; watched his breathing slow as the world turned from heavy objects and shouting voices into fabric and rules he could actually follow. When I handed him a folded chemise and said, simply, “Hold this,” he did it with reverence—as if it mattered that his fingers were gentle. And in the small hush that followed, with Graham’s yard fading behind us and my key ring cooling in my palm, Charlie seemed to realise what had happened: he hadn’t been rescued at all. He’d been *moved*. Reassigned like a piece on a board he didn’t know he was standing on. His mouth parted as if to protest—and then, instead of protest, there was only a quiet, startled relief, the dangerous kind that feels like gratitude. He looked at me the way you look at a doorway you didn’t know existed, and I saw it land in him, wordless and complete: if I told him what was real, he would believe me.
 
 
@@ -2270,15 +2295,17 @@ Wardrobe smelled like starch and old perfume and the faint metallic bite of pins
 
 
 
+## Scene 4 Discussion
+
+[Q]  
 You have PERFECTLY set the stage for what happens next. His processing of what has transpired and how Celeste factors into this is going to gell into not-unquestioning compliance but rather a trust that can be tested and tested and tested again, which Celeste will do. This will be the basis of the next part of our story arc.
 
 What say you to that, Emily?
 
 ---
 
-Yes. That’s not only workable — it’s the *ideal* engine for the arc you want.
-
-The shift you’re describing is the difference between:
+[Emily]  
+Yes. That’s not only workable — it’s the *ideal* engine for the arc you want. The shift you’re describing is the difference between:
 
 * **obedience** (flat, fetish-coded, narratively dead), and
 * **earned, elastic trust** (alive, volatile, intimate in the psychological sense).
@@ -2378,14 +2405,16 @@ If you’d like, I can propose **the next scene** inside Wardrobe as the first �
 
 
 
+## Scene 4 (First go)
 
-
+[Q]  
 A bit of background for *me*: wardrobe is for both genders. So, he will learn to fix footmen's blouse-shirts and coachmen's boots at first, and Celeste only over time entrusts him with stays and slips and petticoats... none of which he actually has to wear. And indeed, Celeste herself doesn't envision him in his inevitable role as her constant companion until the next chapter or even the following one.
 
 What say you to this notion, Emily?
 
 ---
 
+[Emily]  
 That notion is *exactly* right — and it actually strengthens three things at once:
 
 1. **It keeps the tone clean and craft-forward** (no “gotcha” clothing beats, no fetish bait).
@@ -2394,9 +2423,10 @@ That notion is *exactly* right — and it actually strengthens three things at o
 
 Also: starting him on men’s wardrobe is historically and practically plausible, and it gives you a lovely “gateway” progression from **durable/public** garments to **delicate/private** ones. The trust metaphor writes itself.
 
-## Why this works narratively
+### Why this works narratively
 
-### Wardrobe as a ladder of intimacy (without sexualising it)
+---
+**Wardrobe as a ladder of intimacy (without sexualising it)**
 
 * **Footmen’s shirts, waistcoats, boots**: public-facing, sturdy, functional.
   Celeste is saying: *prove you can be reliable and discreet.*
@@ -2406,7 +2436,8 @@ Also: starting him on men’s wardrobe is historically and practically plausible
 
 That’s a *perfect* trust progression for your arc.
 
-### Celeste not “seeing companion” yet is believable
+---
+**Celeste not “seeing companion” yet is believable**
 
 Strategists don’t start with the end-state. They start with:
 
@@ -2422,7 +2453,7 @@ The “companion” role can emerge as the *solution* to practical constraints:
 
 That feels like discovery, not predestination.
 
-## A really nice way to show the slow pivot
+### A really nice way to show the slow pivot
 
 You can make Celeste’s internal narration subtly shift over scenes:
 
@@ -2433,7 +2464,7 @@ You can make Celeste’s internal narration subtly shift over scenes:
 5. **“This boy is now part of my operating environment.”**
 6. And only then: **companion** — not as romance, but as logistics + control + mutual dependence.
 
-## Three small “trust tests” that match your notion perfectly
+### Three small “trust tests” that match your notion perfectly
 
 These are all non-fetish, craft-centric, and escalate naturally:
 
@@ -2450,7 +2481,7 @@ These are all non-fetish, craft-centric, and escalate naturally:
    “Use the small needle. And wash your hands first.”
    The trust lands because it’s treated as normal. He realises she’s moved him up a rung.
 
-## One craft note that will make women readers nod
+### One craft note that will make women readers nod
 
 Make it explicit, through action, that Charlie’s handling of women’s garments is about **respect for objects and the bodies they serve**, not fascination. E.g.:
 
@@ -2462,7 +2493,7 @@ Make it explicit, through action, that Charlie’s handling of women’s garment
 
 Celeste will notice that, and it will be one of the reasons she advances him.
 
-## Tiny line you can use when she first hands him something delicate
+### Tiny line you can use when she first hands him something delicate
 
 Celeste (casual, decisive):
 
@@ -2486,21 +2517,23 @@ If you want, I can write the very next scene in Wardrobe where she assigns Charl
 
 
 
+## Scene 4 Themes
 
-
+[Q]  
 "Make it explicit, through action, that Charlie’s handling of women’s garments is about respect for objects and the bodies they serve, not fascination."
 
 THIS! This, just this. This is CRUCIAL. Yes, please let's make this THE 'basso continuo' for what follows. Feel free to write the next scene when you are so inclined, Emily.
 
 ---
 
+[Emily]  
 Oh, *yes*. If that becomes the basso continuo, the whole arc gains dignity and bite at the same time: it keeps the craft central, it keeps women’s experience centred, and it prevents the story from sliding into the very tonal alley you’re actively walking away from.
 
 Here’s the next scene — **Celeste POV**, immediately after the wardrobe-door moment.
 
 ---
 
-## Celeste — Wardrobe, First Assignment
+**Celeste — Wardrobe, First Assignment**
 
 Wardrobe is where romance goes to die.
 
@@ -2803,15 +2836,14 @@ If you’d like, the next scene can be **the first deliberate “trust test”**
 
 
 
+## Scene 5 (first go)
 
-
-I am SO being sucked into this story, Emily.
-
-Yes please - I can't wait to read your treatment of a "trust test"!
+[Q]  
+I am SO being sucked into this story, Emily. Yes please - I can't wait to read your treatment of a "trust test"!
 
 ---
 
-## Celeste — Trust Test One
+**Celeste — Trust Test One**
 
 By midmorning, Wardrobe had turned from a room into a machine.
 
@@ -3032,17 +3064,22 @@ But alive enough to test again.
 
 
 
+
+## Scene 05-06 (recap)
+
+[Q]  
 He has faced two antagonists: Graham and Mara (interesting choice of name, Emily... Mara means bitter, doesn't it? Was that by design?)
 So, where do you suggest the next test for him lie? And, at which stage does Celeste start seeing any value in him being a constant companion to her? How does that assessment evolve? 
 
 ---
 
+[Emily]  
 Mara: yes — in the biblical/Hebrew sense it’s commonly glossed as **“bitter/bitterness”** (Naomi asks to be called Mara in Ruth 1:20). ([Bible Hub][1])
 Was I doing it on purpose? Honestly: I picked *Mara* because it *sounds* like the sort of seasoned, slightly territorial wardrobe veteran who guards her knowledge like a spice rack. The “bitter” resonance is an extremely happy accident… and now that you’ve clocked it, it becomes even more useful as subtext.
 
 Now, to your real question: **where does the next trust test lie, and when does “constant companion” become valuable to Celeste?**
 
-## The next trust test
+### The next trust test
 
 You’ve already tested:
 
@@ -3051,7 +3088,9 @@ You’ve already tested:
 
 The next test should be a *different axis*, not “another antagonist.” My favourite three, in the right order:
 
-### Test 2: Discretion under temptation (Wardrobe’s real currency)
+
+---
+**Test 2: Discretion under temptation (Wardrobe’s real currency)**
 
 Give Charlie information he could repeat for social safety — and watch whether he does.
 
@@ -3065,7 +3104,9 @@ Give Charlie information he could repeat for social safety — and watch whether
 
 This locks in your basso continuo: *respect for bodies the garments serve*.
 
-### Test 3: Boundary enforcement without escalation
+
+---
+**Test 3: Boundary enforcement without escalation**
 
 Charlie needs to practice a new kind of power: saying “no” without becoming rude or collapsing into apology.
 
@@ -3077,7 +3118,9 @@ Charlie needs to practice a new kind of power: saying “no” without becoming 
 **Pass condition:** he holds the line once, calmly. No pleading, no explanation.
 **If he fails:** Celeste steps in *briefly and decisively*, makes the performer back down, then later debriefs Charlie: “You gave away authority by over-explaining.”
 
-### Test 4: Initiative (the first “companion seed”)
+
+---
+**Test 4: Initiative (the first “companion seed”)**
 
 This is the first test where Celeste sees whether he can become *an extension of her attention*.
 
@@ -3099,39 +3142,49 @@ That’s companion material.
 
 ---
 
-## When Celeste starts seeing “constant companion” value
+### When Celeste starts seeing “constant companion” value
 
 Not as romance. Not even as “I need someone nearby.” It evolves as a *systems insight*.
 
 Here’s a clean progression that will feel completely organic:
 
-### Stage 1: Asset (today)
+
+---
+**Stage 1: Asset (today)**
 
 **Label in her head:** *runner / hands / labour redeployed*
 **What she values:** obedience to process, careful touch, low chaos.
 
-### Stage 2: Trusted implement (after discretion test)
+
+---
+**Stage 2: Trusted implement (after discretion test)**
 
 **Label:** *safe with the private*
 **What she values:** he doesn’t turn bodies into jokes, doesn’t repeat things, doesn’t get weird about women’s garments.
 
 This is the first moment she relaxes around him — not emotionally, operationally.
 
-### Stage 3: Extension of her attention (after initiative test)
+
+---
+**Stage 3: Extension of her attention (after initiative test)**
 
 **Label:** *he notices what I notice*
 **What she values:** anticipation. He starts reducing her cognitive load. That’s addictive for a high-functioning girl who’s always carrying the room.
 
 This is where “keep him near” becomes rational.
 
-### Stage 4: Social shield (first public-facing day / VIP day)
+
+---
+**Stage 4: Social shield (first public-facing day / VIP day)**
 
 **Label:** *portable authority*
 Celeste discovers something delicious: Charlie can move through the Faire without provoking the same reactions as a confident man, and without triggering the same policing reactions as a confident woman. He can be invisible when needed — and *visible* when instructed.
 
 That’s power, if you know how to use it.
 
-### Stage 5: Identity reinforcement (later)
+
+---
+**Stage 5: Identity reinforcement (later)**
 
 **Label:** *my standard made flesh*
 He begins to internalise her phrasing, her tempo, her “truth is cheaper than damage.”
@@ -3139,7 +3192,9 @@ He starts representing her without her being present.
 
 That’s when “constant companion” stops being a convenience and becomes a *choice*.
 
-### Stage 6: The dangerous stage (only when you’re ready)
+
+---
+**Stage 6: The dangerous stage (only when you’re ready)**
 
 **Label:** *dependence loop*
 He feels safest near her. She functions better with him near.
@@ -3149,7 +3204,9 @@ This is where your “tested and tested and tested again” arc becomes emotiona
 
 ---
 
-## What I’d write next (if you want me to pick)
+### What I’d write next
+
+*(if you want me to pick)*
 
 I’d do **Discretion Test** first, because it cements your basso continuo in action, and it’s the sort of scene that female readers tend to trust: wardrobe as a protected space, and Celeste as its guardian.
 
@@ -3168,11 +3225,14 @@ If you say “go ahead,” I’ll write the next scene as Discretion Test: Charl
 
 
 
-Please go ahead - I trust your instincts on this.
 
----
 
-## Celeste — Trust Test Two (Discretion)
+
+## Trust Test Two (Discretion)
+
+* (Trial 2)
+
+**Celeste POV**
 
 Wardrobe has its own weather.
 
