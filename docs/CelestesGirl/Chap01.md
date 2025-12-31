@@ -1,5 +1,4 @@
-# Charlie Meets Celeste
-
+# Celeste's Girl
 
 ![Le Chateau](/assets/images/scenes/ChatteFleur.jpg)
 
