@@ -31,7 +31,7 @@
 🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
 🌼🌹🌼 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
 🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)  
-🌼  
+🌼🌹🌼 [ ⇨ Blogs Dec 2025](/blogs/Blog1225.md)   
 🌹  
 🌼  
 🌹  
@@ -47,11 +47,7 @@
 
 
 [Celeste's Girl](/CelestesGirl/index.md/)  
-🌹🌼🌹 [ ⇨ Chapter 1](/CelestesGirl/Chap01.md)   
-🌼🌹🌼 [ ⇨ Chapter 2](/CelestesGirl/Chap02.md)   
-🌹🌼🌹 [ ⇨ Chapter 3](/CelestesGirl/Chap03.md)   
-🌼🌹🌼 [ ⇨ Chapter 4](/CelestesGirl/Chap04.md)   
-🌹🌼🌹 [ ⇨ Chapter 5](/CelestesGirl/Chap05.md)   
+🌹🌼🌹 [ ⇨ Chapters 1-5](/CelestesGirl/CG01-05.md)   
 🌼🌹🌼 [ ⇨ Chapter 6](/CelestesGirl/Chap06.md)   
 🌹🌼🌹 [ ⇨ Chapter 7](/CelestesGirl/Chap07.md)   
 🌼🌹🌼 [ ⇨ Chapter 8](/CelestesGirl/Chap08.md)   

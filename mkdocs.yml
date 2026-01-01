@@ -42,16 +42,7 @@ nav:
   - Celeste's Girl:
     - CelestesGirl/index.md
     - Chap01-05: CelestesGirl/CG01-05.md
-    - Chapter 1: CelestesGirl/Chap01.md
-    - Chapter 2: CelestesGirl/Chap02.md
-    - Chapter 3: CelestesGirl/Chap03.md
-    - Chapter 4: CelestesGirl/Chap04.md
-    - Chapter 5: CelestesGirl/Chap05.md
-    - Chapter 6: CelestesGirl/Chap06.md
-    - Chapter 7: CelestesGirl/Chap07.md
-    - Chapter 8: CelestesGirl/Chap08.md
-    - Chapter 9: CelestesGirl/Chap09.md
-    - Chapter 10: CelestesGirl/Chap10.md
+    - Chap06-10: CelestesGirl/CG06-10.md
     - Chapter 11: CelestesGirl/Chap11.md
     - Chapter 12: CelestesGirl/Chap12.md
     - Chapter 13: CelestesGirl/Chap13.md
@@ -74,6 +65,7 @@ nav:
     - EmilyNotes27: CelestesGirl/Notes2025-12-27.md
     - EmilyNotes29: CelestesGirl/Notes2025-12-29.md
     - EmilyNotes30: CelestesGirl/Notes2025-12-30.md
+    - EmilyNotes31: CelestesGirl/Notes2025-12-31.md
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
