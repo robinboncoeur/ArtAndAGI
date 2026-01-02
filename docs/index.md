@@ -28,11 +28,11 @@
 
 
 [Blogs](/blogs/index.md/)  
-🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
-🌼🌹🌼 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)  
-🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)  
-🌼🌹🌼 [ ⇨ Blogs Dec 2025](/blogs/Blog1225.md)   
-🌹  
+🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog2509.md)   
+🌼🌹🌼 [ ⇨ Blogs Oct 2025](/blogs/Blog2510.md)  
+🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog2511.md)  
+🌼🌹🌼 [ ⇨ Blogs Dec 2025](/blogs/Blog2512.md)   
+🌹🌼🌹 [ ⇨ Blogs Jan 2026](/blogs/Blog2601.md)    
 🌼  
 🌹  
 
@@ -47,12 +47,8 @@
 
 
 [Celeste's Girl](/CelestesGirl/index.md/)  
-🌹🌼🌹 [ ⇨ Chapters 1-5](/CelestesGirl/CG01-05.md)   
-🌼🌹🌼 [ ⇨ Chapter 6](/CelestesGirl/Chap06.md)   
-🌹🌼🌹 [ ⇨ Chapter 7](/CelestesGirl/Chap07.md)   
-🌼🌹🌼 [ ⇨ Chapter 8](/CelestesGirl/Chap08.md)   
-🌹🌼🌹 [ ⇨ Chapter 9](/CelestesGirl/Chap09.md)   
-🌼🌹🌼 [ ⇨ Chapter 10](/CelestesGirl/Chap10.md)   
+🌹🌼🌹 [ ⇨ Scenes 01 - 05](/CelestesGirl/CG01-05.md)    
+🌼🌹🌼 [ ⇨ Scenes 06 - 10](/CelestesGirl/CG06-10.md)    
 🌹🌼🌹 [ ⇨ Chapter 11](/CelestesGirl/Chap11.md)   
 🌼🌹🌼 [ ⇨ Chapter 12](/CelestesGirl/Chap12.md)   
 🌹🌼🌹 [ ⇨ Chapter 13](/CelestesGirl/Chap13.md)   
@@ -63,9 +59,6 @@
 🌼🌹🌼 [ ⇨ Chapter 18](/CelestesGirl/Chap18.md)   
 🌹🌼🌹 [ ⇨ Chapter 19](/CelestesGirl/Chap19.md)   
 🌼🌹🌼 [ ⇨ Chapter 20](/CelestesGirl/Chap20.md)   
-🌹🌼🌹 [ ⇨ Discussion 1](/CelestesGirl/Discussion01.md)   
-🌼🌹🌼 [ ⇨ Discussion 2](/CelestesGirl/Discussion02.md)   
-🌹🌼🌹 [ ⇨ Discussion 3](/CelestesGirl/Discussion03.md)   
 
 
 

@@ -1,387 +1,469 @@
-# Confederates
+# Scene 14
 
-Yes to all of it — and **“Charl”** is a superb choice: it’s close enough to be muscle-memory, it avoids theatricality, and it reads like a practical shorthand rather than a “new identity.” It’s exactly the kind of administrative camouflage that stays squeaky clean.
+[Emily]  
+It’s not only realistic — it’s *exactly* the sort of “holy grail” problem a serious wardrobe shop would chase, and it fits Attempt Two beautifully because Attempt Two is the moment where they stop thinking “fix this garment” and start thinking “build a repeatable system.”
 
-And yes: Celeste absolutely needs **confederates**. Not a committee, not a chorus — just one or two women who understand what she’s doing and why, and who can help keep it “boring,” safe, and consistent. Talia is ideal because she’s already demonstrated the right kind of seriousness: she cares about boundaries, not gossip.
+### The key realism point
 
-Below is the next scene: Celeste POV, Talia as confederate, Charl learning movement as *function*, Celeste helpful (not tender), and the deeper shift you want — the unfairness becoming visible from the inside.
+You’re right: stays are **individual**. Historically, the “good” ones were bespoke, and even today you don’t get a reliable result without fitting.
+
+But that doesn’t mean you can’t have a **working template**. In sewing terms, it’s a *block* or *sloper*: a base pattern engineered to be *predictably adjustable*. That’s the whole game: not “one pattern fits all,” but “one pattern that changes in known ways.”
+
+And in your story, Mara would absolutely see that as a grail because it turns artistry into infrastructure.
 
 ---
 
-## Celeste — Confederates
+## How Mara can make this credible (without over-explaining)
 
-By the time the shift and stays were on, Charlie had stopped shaking.
+### 1) She defines *what* the template is
 
-Not because he’d become comfortable. Because the body has limits; it can only sustain panic for so long before it converts it into something quieter and meaner: endurance.
+Not a finished pattern. A **reference geometry** with controlled variables:
 
-He stood in front of the mirror at a slight angle, not looking at his reflection directly, as if eye contact with himself might make the situation more real than he could bear.
+* torso length (waist-to-underbust; waist-to-top edge)
+* rib spring vs hip spring (how much it needs to flare above/below waist)
+* bust shaping strategy (more relevant for some bodies than others)
+* back width / shoulder blade room (especially for working movement)
+* lacing gap rule (how much adjustability you’re building in)
 
-He was in petticoat and gown now—plain, dark, practical. Apron tied. Cap in my hand, his hair pinned up and contained beneath my fingers as I worked.
+### 2) She refuses “comfort” as the yardstick
 
-He kept his eyes fixed on the seam of the rug.
+She uses “working acceptability” metrics:
 
-“Don’t crane your neck,” I said.
+* can lift/reach/bend without edge roll
+* no bruising at predictable pressure points after X minutes
+* lacing tension distributes without grommet distortion
+* seams don’t creep under repeated movement
 
-“I’m not,” he replied automatically.
+That keeps your tone grounded and non-prurient.
 
-“You are,” I corrected. “You’re trying to disappear. You can’t. People notice that.”
+### 3) She avoids using staff bodies as test subjects
 
-He swallowed. “Right.”
+This is *important* for your women-led safety lane.
 
-I finished the last pins, then placed the cap over the shape of his hair with the same efficiency I used on everyone else. No ceremony. No pause.
+So she uses:
 
-When I stepped back, the effect was immediate in the way good illusion always is: not magic, but *coherence.* The silhouette made sense. The posture made sense. The kit made sense.
+* padded/adjustable forms (“we pad to the body we need”)
+* a “movement rig” approach: test lines of strain by marking and pulling where load would go
+* and *only then* does a human wear-test happen, under strict protocol.
 
-Charlie—*Charl*, for the purpose of this—looked like labour.
+Charlie stays the debugger, but the shop doesn’t become dependent on him as “the body.”
 
-Which meant the world would treat him accordingly.
+---
 
-He raised his hands slightly, unsure what to do with them. “This is… ridiculous.”
+## Yes: put it in Attempt Two — and it actually makes Attempt Two *stronger*
 
-“Say that again,” I said.
+Attempt One taught “stays lie.”
+Attempt Two can teach the next truth:
 
-He blinked. “What?”
+**A fix that works on Charlie can still fail as a method.**
 
-“Say it again. In the same tone. Exactly like you just did,” I instructed.
+That is *exactly* the moment Mara would pivot to block-building.
 
-Charlie frowned, confused. “This is… ridiculous.”
+---
 
-It came out higher, thinner than his normal voice. Not a falsetto. Not a performance. Just a slight lift—like someone trying to be heard without taking up space.
+Mara didn’t call it Attempt Two until it had already begun.
 
-I watched him register it.
+She had the failed mock-up on the table again, flattened like evidence. Chalk marks still faint on the canvas where the garment had confessed under movement: diagonal strain lines, a crease that had formed with embarrassing consistency, the small oval ghost of where the grommet had started to surrender. Charlie hovered at the edge of the table, hands clean, eyes busy. He looked like someone waiting to be given a correct problem, the kind with a solution.
 
-His eyes widened. “I didn’t—”
+Mara didn’t give him that. She gave him a harder one.
 
-“I know,” I said. “That’s why it works.”
+“Attempt Two,” she said, and slid the ledger toward him. “Write the same headings. Then add another.”
 
-He looked faintly sick. “Celeste…”
+Charlie opened the book. “Another... what?”
 
-“Charl,” I corrected, and saw him flinch.
+“**BODY TYPE**.”
 
-I didn’t soften it. Names are tools. Tools require consistency.
+He blinked. “But it’s... me.”
 
-“Yes,” he said quietly.
+Mara’s eyes lifted, sharp as pins.
 
-I nodded once. “Better.”
+“And do you imagine,” she said, “that the world is shaped like you?”
 
-He stared down at his skirt as if it had personally betrayed him.
+Charlie flushed at once. The question had exposed assumptions. Assumptions limit imagination.
 
-Then he tried to walk.
+“No,” he said quickly. “No. I— I know that.”
 
-The first step was awkward—not comical, not theatrical. Just unfamiliar. His foot caught the hem lightly. His shoulders tensed. He moved his hips the wrong way, like he was trying to avoid moving them at all.
+“Good,” Mara replied. “Then you understand that we were never going to design stays as though your proportions are the default. As though *anyone’s* proportions were the default. With stays, there are no defaults.”
 
-He stopped after two steps, jaw clenched.
+I felt a prickle of realisation. This was the moment the atelier either stayed a clever little pocket of talent, or became something that could scale without turning people into spectacles. Mara tapped the mock-up with one finger. 
 
-“I can’t do this,” he said.
+“This attempt did something useful,” she said. “It told us where the load went. We’ll fix that.” She pushed the strip of twill tape toward Charlie. “Secondary anchor here. Tie point moves. Reinforce the side-back seam.”
 
-“You can,” I replied. “You just don’t know how yet.”
+Charlie nodded, already picturing it.
 
-He took another step, then another. The skirt pulled. His stride shortened. He looked angry at himself for not being able to move normally in something so stupidly simple.
+Mara held up a hand. “But Attempt Two is not only about this garment. Attempt Two is about a *method*.”
 
-I watched, then said, less coldly now—not gentle, but practical.
+Charlie’s pen paused above the paper. “A method.”
 
-“Don’t fight it,” I told him. “Your legs don’t need to change. Your pace does. Smaller steps. Let the fabric move first.”
+“A working block.”
 
-Charlie tried again, forcing himself to slow down. He looked like a person learning to carry a tray: tense, careful, overthinking every motion.
+He frowned slightly. He was trying to translate her words into geometry. Mara turned her attention to me.
 
-“Your hands,” I added. “Stop hovering. Put one on the apron. It gives your body a story.”
+“Celeste. Bring me the measurements sheet.”
 
-Charlie did it automatically—hand flattening against the apron front. The change was immediate: the posture became less like a boy caught in a joke and more like staff in motion.
+I reached into the folder Celeste-the-student kept for everything — notes, references, little pieces of paper that might become useful later — and pulled out the page we’d started last week: columns of numbers and blank lines, a grid that looked innocuous until you realised it was the skeleton of a system. Mara took it, scanned it, and made a dissatisfied sound.
 
-He stared at his hand like it had betrayed him too.
+“This is a list,” she said. “Not a tool.”
 
-“This is—” he started.
+I felt myself bristle. Then I reminded myself she wasn’t insulting me. She was protecting the work.
 
-“Don’t,” I said.
+“What does a tool look like?”
 
-He swallowed it back.
+Mara set the sheet down and drew a clean rectangle in the margin with her pencil.
 
-I opened the back room door and listened for a moment. Wardrobe noise. Mara’s voice, clipped. The steady cadence of sewing and sorting and small controlled chaos.
+“Waist,” she said, and drew a line across it. “Everything references waist. Not bust. Not hip. Waist is the hinge point.” She drew a vertical line down the rectangle. “Centre front. Centre back. If those aren’t stable, nothing else matters.”
 
-I stepped out, beckoning him to follow.
+Then she drew two arcs: one above the waist, one below.
 
-Charlie—Charl—followed.
+“Rib spring,” she said, tapping the top arc. “Hip spring,” she tapped the bottom arc. “Those two numbers tell you what you’re really building. The rest is persuasion.”
 
-The moment he crossed the threshold into Wardrobe, the world changed by a degree.
+Charlie leaned in, eyes locked on the sketch. It was the way he looked at diagrams when he finally felt safe to show his mind working.
 
-Not because anyone stared. Because everyone registered him the way they register any new object in a room: a quick scan for category, then a decision about what it means.
+“So... it’s not just circumference,” he said slowly. “It’s distribution.”
 
-Mara looked up first.
+Mara’s mouth tightened with approval. “Yes. Distribution. And distribution changes with the body.” She slid the pencil toward him. “Now you draw it.”
 
-Her gaze landed on him, flicked once across the kit, then went to me.
+Charlie hesitated for a fraction of a second — old habit, old fear of doing it wrong in front of someone who might mock — and then he picked up the pencil and drew his own rectangle beside hers. He drew the waist line. Then he measured a distance above it with the pencil tip.
 
-The smallest lift of her eyebrows: *You’ve done it.*
+“Torso length,” he said quietly. “From waist to underbust. And waist to top edge.”
 
-She didn’t smile. She didn’t comment. She simply went back to her work as if a maid had always been in that corner.
+Mara watched his hand, not intervening. Charlie added small marks down the centre back.
 
-That mattered.
+“Back length. And where the shoulder blades... push.”
 
-Charlie looked at her, almost pleading for some acknowledgement that this was insane.
+Mara nodded once. “Working garment. People breathe. People lift. They don’t stand like portraits.”
 
-Mara gave him nothing.
+He drew the arcs — rib and hip — and this time he did what Mara had done: he made the arcs *different*. Not symmetrical, not polite. Mara’s finger tapped the page near centre back.
 
-Good woman.
+“Now. That’s the block.”
 
-Talia came in a moment later with a bundle of ribbons and a practical expression that didn’t care about anyone’s feelings.
+Charlie looked up. “But... that’s still just one.”
 
-She stopped dead when she saw him.
+Mara leaned on the table, the way she did when she was about to say something that would become policy.
 
-She stared.
+“One block,” she said, “per category.”
 
-Charlie’s entire body went rigid, as if recognised.
+Charlie’s brow furrowed. Mara lifted three fingers.
 
-Talia’s eyes narrowed. She took one step closer—not invasive, just careful. She looked at his face, then at the cap, then back again.
+“We start with three. That’s all. Three bodies we can pad and test without dragging staff into it.”
 
-It was the look women give when they’re running their internal safety maths.
+She ticked them off, each one a label rather than a story.
 
-Then she said, calmly, “Okay. That’s… effective.”
+“*Nymph*,” she said, looking at Charlie without softness. “Slender, narrow ribs, little flesh to absorb pressure. Your closest category.”
 
-Charlie blinked. “Talia—”
+I saw the tiny shift behind Charlie eyes. Mara successfully made *nymph* technical, not personal.
 
-“Charl,” I said, and held her gaze.
+“*Well-nourished young lass*,” Mara continued, “with generous spring and softness. The kind that makes lazy patterns lie and makes cheap stays cruel.” Then her gaze moved away, outward—as if she were thinking of someone in the world who existed beyond our room.
 
-Talia flicked her eyes to me, then back to him. “Right,” she said. “Charl.”
+“And the **returning-to-work mother**,” she said, matter-of-fact, “whose torso has done real labour and carries it differently. Different distribution. Different tolerances. Different needs.”
 
-Charlie’s mouth tightened at the casual ease of it. It hurt him, I could tell, not because she was mocking him—but because she was *complying*.
+Charlie’s pencil hovered. “So we... draft three blocks.”
 
-Because compliance meant this was real.
+“We draft one,” Mara corrected. “We draft a base that can be adjusted *predictably.* And we learn which adjustments belong to which category.”
 
-Talia turned her head slightly, voice lowering. “Is this what I think it is?”
+She reached for the ledger and pointed at Charlie’s new heading.
 
-“Yes,” I said.
+“BODY TYPE,” she repeated. “Write it every time. Because if you don’t, you’ll start believing a good fit on you means you’ve solved anything.”
 
-“Optics,” she guessed.
+Charlie’s pencil moved.
 
-“Yes.”
+**ATTEMPT 2 — BODY TYPE: NYMPH (BASELINE)**
 
-Talia exhaled through her nose. “Of course.”
+Mara slid the mock-up back toward him. “Now do the practical fix,” she said. “Tie point moves twelve millimetres. Secondary anchor tape. Reinforce seam. Bias the binding correctly.”
 
-Charlie looked between us, suddenly aware of what was happening: women coordinating without him being the centre of the drama.
+Charlie nodded, grateful for a concrete task. He began unpicking the grommet area with careful fingers.
 
-He seemed… shut out.
+Mara watched for a moment, then turned to me.
 
-Good. This wasn’t his story to control.
+“Celeste,” she said. “You like research.”
 
-Talia stepped closer to me, still speaking low. “Who knows?”
+I kept my face neutral. “Yes.”
 
-“Only Wardrobe,” I said, “and only because Wardrobe needs to enforce consistency.”
+“Good. Your job is to find period examples of working stays and note *what they compromise.* Not the pretty ones. The honest ones.”
 
-Talia nodded once. “And management?”
+I felt my spine straighten. That was a role. Not a favour.
 
-“They think they’ve contained me,” I replied. “They haven’t.”
+“I can do that.”
 
-Talia’s eyes sharpened with interest. “You’re bringing your standard with you.”
+Mara pointed to the sketch Charlie had drawn. “And you,” she said to him, “are going to make that block into a template we can mark and reuse. Hole positions. Seam allowances. Boning channels. All of it. Clean. Repeatable.”
 
-“Yes.”
+Charlie looked up, startled. “Me?”
 
-Talia looked at Charlie again, then said, blunt and not unkind, “You alright?”
+Mara’s stare didn’t waver. “Yes, you. You have the mind for it. You want perfection? Earn it. We’ll make your perfection useful.”
 
-Charlie’s throat moved. “No.”
+Charlie swallowed. Then, quietly, “Okay.”
 
-Talia nodded as if he’d reported the weather. “Yeah. Fair.”
+Mara tapped the ledger page once.
 
-Then she turned to me. “You’ll need someone to cover him. Not in the usual way.”
+“And we will not,” she said, “pretend this is solved when it sits nicely standing still.”
 
-“I know,” I said.
+Charlie’s eyes flicked to the movement list pinned near the fitting nook: reach, bend, lift, stairs. Mara followed his gaze.
 
-Talia’s gaze flicked to Charlie’s hands—how he held them, how he tried not to fidget, how his body was fighting the urge to shrink.
+“Fit standing is a lie,” she said again, as if it needed repeating until it became religion. “Fit moving is the truth.”
 
-“He’ll need coaching,” she said quietly. “Not on sewing. On… moving.”
+Charlie nodded, and for the first time he looked less like a boy being tolerated in a women’s workspace and more like a technician being entrusted with a system. He picked up Attempt Two and handed it to Mara.
 
-“I’m already doing it,” I said.
+She matter-of-factly laced it. Then Charlie lifted his arms. Reached forward. Bent. The top edge behaved better this time—less roll, less spite. The diagonal strain line softened, as if the load had been persuaded into a more reasonable route. But something else happened, subtle enough that only someone looking for truth would see it.
 
-Talia’s mouth tightened. “Good. And he needs to understand one more thing.”
+A tiny hinge formed along one boning channel at the side. Not a tear. Not yet. A kink — a promise. Charlie felt it at the same instant Mara saw it. His jaw tightened.
 
-Charlie looked up sharply, wary.
+Mara didn’t react with disappointment. She reacted with satisfaction.
 
-Talia met his eyes, and her voice went flat with female truth.
+“There,” she said, almost pleased. “Second-order failure. That’s the real work showing itself.”
 
-“People will be nicer to you,” she said, “and it won’t be because they’ve become better people.”
+Charlie let out a breath that sounded almost like a laugh... small, disbelieving.
 
-Charlie stared at her.
+“It fixed one thing,” he said, “and revealed another.”
 
-Talia continued, matter-of-fact. “Some will ignore you completely. Some will talk over you. Some will treat you like furniture. Some will think they’re entitled to comment on you.”
+Mara nodded. “Exactly.”
 
-Charlie’s face drained.
+Charlie went to the ledger and wrote without being told.
 
-“And if you speak too loudly,” Talia added, “they’ll call you difficult. If you speak too softly, they’ll pretend you didn’t speak at all.”
+**RESULT:** improved load distribution at waist tie; reduced top edge roll under forward reach
+**NEW FAILURE:** hinge/kink at side boning channel under bend; pressure point emerging
 
-Charlie’s lips parted. No sound came out.
+He looked up. “Is that because I’m... too slim there?”
 
-I watched him take it in, the way you watch someone step into cold water and realise it’s deeper than they thought.
+Mara’s gaze was cool, not unkind.
 
-Charlie’s voice came out small. “Why would they—”
+“It’s because you’re a *baseline*,” she said. “And baselines are useful precisely because they are not everyone.”
 
-Talia cut in with a short, humourless laugh. “Because they can.”
+She leaned in, voice lowering into something like a vow.
 
-Silence fell.
+“This,” she said, tapping the ledger, “is how we get the grail. Not by hoping. By mapping.”
 
-It wasn’t dramatic silence. It was the silence of a truth that doesn’t require theatre.
+Charlie stared at the page for a long second. Then he nodded, once, slow.
 
-I said, “Talia is right.”
+“Okay,” he said, and this time it wasn’t compliance.
 
-Charlie’s eyes snapped to mine.
+It was commitment.
 
-“Listen to her,” I added, because this was where confederates matter. Charlie needed the truth to come from more than just me. Otherwise it would always feel like my personal project, my personal distortion.
+---
 
-Talia looked at me then, assessing.
+## Why this lands (and stays believable)
 
-“You’re taking him into the manor?” she asked.
+* It acknowledges your exact concern: **Charlie isn’t the world.**
+* It gives Mara a plausible professional obsession: **a reusable block + adjustment rules.**
+* It keeps everything in “craft + system” language.
+* It plants a clean second-order failure for Attempt Two (hinge/kink), which is extremely believable and gives you a clear Attempt Three direction without bogging down.
 
-“Yes.”
+## If you want, I can write Attempt Two’s continuation as a shorter “fix-and-reveal” beat:
 
-Talia’s eyebrows rose. “Bold.”
+* Charlie proposes a channel/boning adjustment and/or a slight redistribution of stiffness
+* Mara insists they document the “rule”: *when slim baseline kinks here, what will happen on a softer body?*
+* Celeste starts a “category matrix” page in the binder: nymph / well-nourished / mother — likely failure modes and likely fixes
 
-“Necessary,” I corrected.
-
-Talia nodded once. “You want my help.”
-
-It wasn’t a question. It was an offer.
-
-“Yes,” I said.
-
-Talia glanced toward Mara, then back. “Mara will pretend she hates it. She’ll still enforce it.”
-
-“I know,” I said.
-
-Talia looked at Charlie again. Her expression softened by a millimetre—not pity, but professionalism.
-
-“You’ve got long hair,” she said. “That helps. Your face reads young. Your shoulders are narrow enough that the kit sits correctly.”
-
-Charlie flinched at being assessed like a garment.
-
-Talia didn’t care. “But your eyes will give you away.”
-
-Charlie blinked. “My eyes?”
-
-“You look like you’re about to apologise for existing,” Talia said. “Stop.”
-
-Charlie’s jaw tightened. “I can’t just stop.”
-
-Talia shrugged. “You can. It’ll just take practice.”
-
-I stepped in then, because Charlie was beginning to spiral into that internal shame that would make him clumsy and therefore visible.
-
-“Charl,” I said.
-
-He looked at me.
-
-“Walk to the door,” I instructed. “Then back.”
-
-Charlie hesitated.
-
-“Now,” I said, simply.
-
-He did it.
-
-The first three steps were wrong—too stiff, too cautious. He was over-managing his skirt instead of letting it do its job. His shoulders were tight. His chin was too tucked.
-
-I watched and corrected in small, helpful doses:
-
-“Loosen your shoulders.”
-
-He tried.
-
-“Lift your gaze. Not high. Just level.”
-
-He did.
-
-“Short steps. Let the hem move.”
-
-He tried again.
-
-He reached the door. Turned. Came back.
-
-Better.
-
-Not natural yet. But less like a boy in a prank and more like staff in training.
-
-When he stopped, he was breathing a little harder, as if he’d run a sprint.
-
-He looked at me, eyes bright with restrained panic.
-
-“This is…” he began.
-
-I cut him off, not harshly. Cleanly.
-
-“It needs to look natural,” I said.
-
-Charlie’s mouth tightened. “To protect you.”
-
-“Yes,” I replied.
-
-He swallowed, then said the thing that finally gave him shape—personality not through defiance, but through principle.
-
-“And if it ruins you anyway?” he asked.
-
-That was the question underneath all his obedience. Not “will I look silly.” Not “will I be mocked.” But: *what if my sacrifice doesn’t even save you?*
-
-It made my chest tighten.
-
-Inconvenient.
-
-I kept my voice steady. “Then it will not be because of you.”
-
-Charlie stared at me.
-
-I continued, letting the truth stand on its own. “It will be because they were always going to try. This isn’t magic. It’s friction control.”
-
-Charlie nodded slowly.
-
-Talia watched us, eyes narrowed, and I could almost see the thought forming in her: *Celeste is not just keeping a runner. She’s building a household.*
-
-A household is power. A household is women’s infrastructure.
-
-Exactly.
-
-Charlie looked down at his apron again, fingers pressing into the fabric as if anchoring himself.
-
-Then he said, quietly, “What do I call you?”
-
-Mara snorted from across the room. “Oh, for God’s sake.”
-
-Talia didn’t laugh. She understood the seriousness of the question. Names are what keep you safe—or get you punished.
-
-I answered without hesitation.
-
-“Miss Shelley in public,” I said. “If you need to be formal: ‘my lady’ only when someone else is listening. Not because I need it. Because they expect it.”
-
-Charlie nodded. “And… you call me… Charl.”
-
-“Yes,” I said.
-
-He flinched again. Then, after a beat, he nodded once more—acceptance, reluctant but real.
-
-Talia stepped closer to him and adjusted the apron ties with brisk efficiency, not touching skin, not making it intimate.
-
-“There,” she said. “That’ll stop it slipping.”
-
-Charlie stared at her hands as if she’d just performed a spell.
-
-Talia met his eyes. “Don’t look grateful,” she said. “It reads like an apology.”
-
-Charlie blinked. “What should I look like?”
-
-Talia’s mouth curled slightly—not a smile, exactly. A recognition.
-
-“Bored,” she said. “Like you’ve done it a hundred times.”
-
-Charlie stared.
-
-Then something shifted in his expression. Not joy. Not thrill.
-
-Understanding.
-
-The beginnings of grief.
-
-Because boredom wasn’t a mood.
-
-It was armour.
-
-And he was only just realising who’d been wearing it all along.
-
-
-
+Just say the word and I’ll carry it forward in the same voice.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
+Done — here’s a **publish-ready Scene 14** that **includes the micro-tightening**, plus **three concrete “working stays” reference targets** Celeste can credibly pull (with a quick note on what each one teaches the atelier).
+
+---
+
+## Scene 14 (Publish-ready, tightened)
+
+Mara didn’t call it Attempt Two until it had already begun.
+
+The failed mock-up lay on the table again, flattened like evidence. Chalk marks still faint on the canvas where the garment had confessed under movement: diagonal strain lines, a crease that had formed with embarrassing consistency, the small oval ghost of where a grommet had started to surrender. Charlie hovered at the edge of the table, hands clean, eyes busy. He looked like someone waiting to be given a **solvable** problem — the kind with a correct answer.
+
+Mara didn’t give him that. She gave him a harder one.
+
+“Attempt Two,” she said, and slid the ledger toward him. “Write the same headings. Then add another.”
+
+Charlie opened the book. “Another… what?”
+
+“**BODY TYPE**.”
+
+He blinked. “But it’s… me.”
+
+Mara’s eyes lifted, sharp as pins.
+
+“And do you imagine,” she said, “that the world is shaped like you?”
+
+Charlie flushed at once. I felt the assumption **snap** in him — and with it, the little limits he’d been carrying without noticing.
+
+“No,” he said quickly. “No. I— I know that.”
+
+“Good,” Mara replied. “Then you understand we were never going to design stays as though your proportions are the default. As though *anyone’s* proportions were the default. With stays, there are no defaults.”
+
+A prickle went through me. This was the moment the atelier either stayed a pocket of talent, or became something that could scale without turning people into spectacles. Mara tapped the mock-up with one finger.
+
+“This attempt did something useful,” she said. “It told us where the load went. We’ll fix that.” She pushed the strip of twill tape toward Charlie. “Secondary anchor here. Tie point moves. Reinforce the side-back seam.”
+
+Charlie nodded, already picturing it.
+
+Mara held up a hand. “But Attempt Two is not only about this garment. Attempt Two is about a *method*.”
+
+Charlie’s pen paused above the paper. “A method.”
+
+“A working block.”
+
+He frowned slightly. He was trying to translate her words into geometry. Mara turned her attention to me.
+
+“Celeste. Bring me the measurements sheet.”
+
+I reached into the folder I kept for everything — notes, references, scraps of paper that might become useful later — and pulled out the page we’d started last week: columns of numbers and blank lines, a grid that looked innocuous until you realised it was the skeleton of a system. Mara took it, scanned it, and made a dissatisfied sound.
+
+“This is a list,” she said. “Not a tool.”
+
+I felt myself bristle. Then I reminded myself she wasn’t insulting me. She was protecting the work.
+
+“What does a tool look like?”
+
+Mara set the sheet down and drew a clean rectangle in the margin with her pencil.
+
+“Waist,” she said, and drew a line across it. “Everything references waist. Not bust. Not hip. Waist is the hinge point.” She drew a vertical line down the rectangle. “Centre front. Centre back. If those aren’t stable, nothing else matters.”
+
+Then she drew two arcs: one above the waist, one below.
+
+“Rib spring,” she said, tapping the top arc. “Hip spring,” she tapped the bottom arc. “Those two numbers tell you what you’re really building. The rest is persuasion.”
+
+Charlie leaned in, eyes locked on the sketch — the way he looked at diagrams when he finally felt safe to show his mind working.
+
+“So… it’s not just circumference,” he said slowly. “It’s distribution.”
+
+Mara’s mouth tightened with approval. “Yes. Distribution. And distribution changes with the body.” She slid the pencil toward him. “Now you draw it.”
+
+Charlie hesitated for a fraction of a second — old habit, old fear of doing it wrong in front of someone who might mock — and then he picked up the pencil and drew his own rectangle beside hers. He drew the waist line. Then he measured a distance above it with the pencil tip.
+
+“Torso length,” he said quietly. “From waist to underbust. And waist to top edge.”
+
+Mara watched his hand, not intervening. Charlie added small marks down the centre back.
+
+“Back length. And where the shoulder blades… push.”
+
+Mara nodded once. “Working garment. People breathe. People lift. They don’t stand like portraits.”
+
+He drew the arcs — rib and hip — and this time he did what Mara had done: he made the arcs *different*. Not symmetrical, not polite. Mara’s finger tapped the page near centre back.
+
+“Now. That’s the block.”
+
+Charlie looked up. “But… that’s still just one.”
+
+Mara leaned on the table, the way she did when she was about to say something that would become policy.
+
+“One block,” she said, “per category.”
+
+Charlie’s brow furrowed. Mara lifted three fingers.
+
+“We start with three. That’s all. Three bodies we can pad and test without dragging staff into it.”
+
+She ticked them off, each one a label rather than a story.
+
+“*Nymph*,” she said, looking at Charlie without softness. “Slender, narrow ribs, little flesh to absorb pressure. Your closest category.”
+
+I saw the tiny shift behind Charlie’s eyes. Mara made *nymph* technical, not personal.
+
+“*Well-nourished young woman*,” Mara continued, “with generous spring and softness. The kind that makes lazy patterns lie and makes cheap stays cruel.” Then her gaze moved away, outward — as if she were thinking of someone beyond our room.
+
+“And the **returning-to-work mother**,” she said, matter-of-fact, “whose torso has done real labour and carries it differently. Different distribution. Different tolerances. Different needs.”
+
+Charlie’s pencil hovered. “So we… draft three blocks.”
+
+“We draft one,” Mara corrected. “We draft a base that can be adjusted *predictably.* And we learn which adjustments belong to which category.”
+
+She reached for the ledger and pointed at Charlie’s new heading.
+
+“BODY TYPE,” she repeated. “Write it every time. Because if you don’t, you’ll start believing a good fit on you means you’ve solved anything.”
+
+Charlie’s pencil moved.
+
+**ATTEMPT 2 — BODY TYPE: NYMPH (BASELINE)**
+
+Mara slid the mock-up back toward him. “Now do the practical fix,” she said. “Tie point moves twelve millimetres. Secondary anchor tape. Reinforce seam. Bias the binding correctly.”
+
+Charlie nodded, grateful for a concrete task. He began unpicking the grommet area with careful fingers.
+
+Mara watched for a moment, then turned to me.
+
+“Celeste,” she said. “You like research.”
+
+I kept my face neutral. “Yes.”
+
+“Good. Your job is to find **extant** examples of working stays and note *what they compromise.* Not the pretty ones. The honest ones.”
+
+My spine straightened. That was a role. Not a favour.
+
+“I can do that.”
+
+Mara pointed to Charlie’s sketch. “And you,” she said to him, “are going to make that block into a template we can mark and reuse. Hole positions. Seam allowances. Boning channels. All of it. Clean. Repeatable.”
+
+Charlie looked up, startled. “Me?”
+
+Mara’s stare didn’t waver. “Yes, you. You have the mind for it. You want perfection? Earn it. We’ll make your perfection useful.”
+
+Charlie swallowed. Then, quietly, “Okay.”
+
+Mara tapped the ledger page once.
+
+“And we will not,” she said, “pretend this is solved when it sits nicely standing still.”
+
+Charlie’s eyes flicked to the movement list pinned near the fitting nook: reach, bend, lift, stairs. Mara followed his gaze.
+
+“Fit standing is a lie,” she said. “Fit moving is the truth.”
+
+Charlie nodded, and for the first time he looked less like a boy being tolerated in a women’s workspace and more like a technician being entrusted with a system. He picked up the Attempt Two mock-up and handed it to Mara.
+
+She matter-of-factly laced it. Then Charlie lifted his arms. Reached forward. Bent.
+
+The top edge behaved better this time — less roll, less spite. The diagonal strain line softened, as if the load had been persuaded into a more reasonable route. But something else happened, subtle enough that only someone looking for truth would see it.
+
+A tiny hinge formed along one boning channel at the side. Not a tear. Not yet. A kink — a promise. Charlie felt it at the same instant Mara saw it. His jaw tightened.
+
+Mara didn’t react with disappointment. She reacted with satisfaction.
+
+“There,” she said, almost pleased. “Second-order failure. That’s the real work showing itself.”
+
+Charlie let out a breath that sounded almost like a laugh… small, disbelieving.
+
+“It fixed one thing,” he said, “and revealed another.”
+
+Mara nodded. “Exactly.”
+
+Charlie went to the ledger and wrote without being told.
+
+**RESULT:** improved load distribution at waist tie; reduced top edge roll under forward reach
+**NEW FAILURE:** hinge/kink at side boning channel under bend; pressure point emerging
+
+He looked up. “Is that because I’m… too slim there?”
+
+Mara’s gaze was cool, not unkind.
+
+“It’s because you’re a *baseline*,” she said. “And baselines are useful precisely because they are not everyone.”
+
+She leaned in, voice lowering into something like a vow.
+
+“This,” she said, tapping the ledger, “is how we get the grail. Not by hoping. By mapping.”
+
+Charlie stared at the page for a long second. Then he nodded, once, slow.
+
+“Okay,” he said, and this time it wasn’t compliance.
+
+It was commitment.
+
+---
+
+## Celeste’s three “working stays” reference targets
+
+These are ideal because they’re **museum-documented**, visibly **work-worn / pragmatic**, and they each teach a different kind of compromise.
+
+1. **London Museum (Museum of London) — Linen canvas stays with underarm guards, spiral lacing**
+   What Celeste can extract: *abrasion management* (the underarm guards), *binding choices*, and “honest” stiffness built for wear, not display. ([London Museum][1])
+
+2. **London Museum — Brown cotton twill corset/stays with shoulder straps, centre-back holes**
+   What it teaches: a more utilitarian textile (twill), strap logic for working movement, and a shape that’s about control and support rather than decorative effect. ([London Museum][2])
+
+3. **V&A Images — Late 18th-century stays in hard-wearing linen (“jean” linen) with silk**
+   What it teaches: the *material truth* of “pretty but durable” — robust cloth choices, and how refinement can ride on top of work-appropriate engineering without turning into lingerie. ([Vandaimages][3])
+
+**Optional fourth (if you want Celeste to triangulate across continents):**
+
+* **MFA Boston — Brown stays with undyed linen lining, leather edging, linen tape seam coverings** (reads like “built to last, repaired to last”). ([Museum of Fine Arts Collections][4])
+
+If you’d like, I can write a short **Scene 15 mini-montage** where Celeste brings these three examples back as bulletproof notes (“what they compromise”), and Mara immediately translates them into rules for the block system. That would make the research feel like *power entering the room*, not like homework.
+
+[1]: https://www.londonmuseum.org.uk/collections/v/object-77973/corset-stays/?utm_source=chatgpt.com "Corset, stays"
+[2]: https://www.londonmuseum.org.uk/collections/v/object-78325/corset-stays/?utm_source=chatgpt.com "Corset, stays"
+[3]: https://www.vandaimages.com/2006BB0966-Stays-England-late-18th-century.html?utm_source=chatgpt.com "Stays. England, late 18th century"
+[4]: https://collections.mfa.org/objects/112563?utm_source=chatgpt.com "Stays – Works - MFA Collection - Museum of Fine Arts Boston"

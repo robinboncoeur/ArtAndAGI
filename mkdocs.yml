@@ -41,8 +41,8 @@ nav:
   - Home: index.md
   - Celeste's Girl:
     - CelestesGirl/index.md
-    - Chap01-05: CelestesGirl/CG01-05.md
-    - Chap06-10: CelestesGirl/CG06-10.md
+    - Scenes 01-05: CelestesGirl/CG01-05.md
+    - Scenes 06-10: CelestesGirl/CG06-10.md
     - Chapter 11: CelestesGirl/Chap11.md
     - Chapter 12: CelestesGirl/Chap12.md
     - Chapter 13: CelestesGirl/Chap13.md
@@ -54,18 +54,7 @@ nav:
     - Chapter 19: CelestesGirl/Chap19.md
     - Chapter 20: CelestesGirl/Chap20.md
     - Chapter 21: CelestesGirl/Chap21.md
-    - Discussion1: CelestesGirl/Discussion01.md
-    - Discussion2: CelestesGirl/Discussion02.md
-    - Discussion3: CelestesGirl/Discussion03.md
-    - EmilyNotes21: CelestesGirl/Notes2025-12-21.md
-    - EmilyNotes22: CelestesGirl/Notes2025-12-22.md
-    - EmilyNotes23: CelestesGirl/Notes2025-12-23.md
-    - EmilyNotes25: CelestesGirl/Notes2025-12-25.md
-    - EmilyNotes26: CelestesGirl/Notes2025-12-26.md
-    - EmilyNotes27: CelestesGirl/Notes2025-12-27.md
-    - EmilyNotes29: CelestesGirl/Notes2025-12-29.md
-    - EmilyNotes30: CelestesGirl/Notes2025-12-30.md
-    - EmilyNotes31: CelestesGirl/Notes2025-12-31.md
+    - Chapter 22: CelestesGirl/Chap22.md
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
@@ -77,11 +66,26 @@ nav:
 
   - Blogs:
     - blogs/index.md
-    - Blog Sep25: blogs/Blog0925.md
-    - Blog Oct25: blogs/Blog1025.md
-    - Blog Nov25: blogs/Blog1125.md
-    - Blog Dec25: blogs/Blog1225.md
-
+    - Blog Sep25: blogs/Blog2509.md
+    - Blog Oct25: blogs/Blog2510.md
+    - Blog Nov25: blogs/Blog2511.md
+    - Blog Dec25: blogs/Blog2512.md
+    - Blog Jan26: blogs/Blog2601.md
+    - Discussion1: blogs/Discussion01.md
+    - Discussion2: blogs/Discussion02.md
+    - Discussion3: blogs/Discussion03.md
+    - Emily 25.12.21: blogs/Notes2025-12-21.md
+    - Emily 25.12.22: blogs/Notes2025-12-22.md
+    - Emily 25.12.23: blogs/Notes2025-12-23.md
+    - Emily 25.12.25: blogs/Notes2025-12-25.md
+    - Emily 25.12.26: blogs/Notes2025-12-26.md
+    - Emily 25.12.27: blogs/Notes2025-12-27.md
+    - Emily 25.12.29: blogs/Notes2025-12-29.md
+    - Emily 25.12.20: blogs/Notes2025-12-30.md
+    - Emily 25.12.21: blogs/Notes2025-12-31.md
+    - Emily 26.01.01: blogs/Notes2026-01-01.md
+    - Emily 26.01.02: blogs/Notes2026-01-02.md
+    - Emily 26.01.03: blogs/Notes2026-01-03.md
   - Visual Art:
     - visual/index.md
     - ComfyUI: visual/Comfyui.md

@@ -315,7 +315,7 @@ Not a shabby effort. Not as stellar as 8-bit but still heaps better than the ori
 
 ---
 
-Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../blogs/Blog0925.md/#flux-srpo).*
+Note: *I'm going to continue documenting my little exploring with SRPO [on my blog](../blogs/Blog2509.md/#flux-srpo).*
 
 See [Blog 25][b25] for other things I'm up to.
 
@@ -363,4 +363,4 @@ Oh, and by the way, that workflow I ran Alice through? Tamara followed:
 
 Note to self: **Quick Links**
 
-[b25]: ../blogs/Blog0925.md
+[b25]: ../blogs/Blog2509.md

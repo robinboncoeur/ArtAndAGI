@@ -2,11 +2,6 @@
 
 ## Links
 
-For now, links to the blog:
-
-🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog0925.md)   
-🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog1025.md)     
-🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog1125.md)   
 
 ---
 

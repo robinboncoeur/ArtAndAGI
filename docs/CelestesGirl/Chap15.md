@@ -1,407 +1,260 @@
-# Glom
+# Scene 15
 
-It can be an instant hit **without** feeling too fast—if you frame it correctly.
+Option 2 it is — and yes, that makes *perfect* sense.
 
-What would feel “meteoric” (and contrived) is: everyone adores her universally, immediately, with no trade-offs.
+If Mara is the atelier’s **steel** (standards, structure, consequence), then Lauren can be the **felt lining**: still tough, still competent, but warmer in delivery. That contrast will stop the whole women’s competence network from collapsing into “one voice.” It also makes Mara’s dryness *more powerful*, because it’s a choice, not the default ambience of the world.
 
-What will feel *true* (and deliciously sharp) is:
+Sarah then becomes useful as a third flavour: sharp, brisk, slightly combative — not warm, but not “Mara-clone” either.
 
-* **Donors “glom” onto her quickly** because she solves problems in real time and makes them feel clever/important…
-* …but **management’s affection is conditional**, because powerful women are only liked when they’re useful and controllable.
-* And **Celeste’s costs escalate immediately**: visibility, expectations, fatigue, being “on” constantly, her autonomy getting quietly eaten.
-
-So yes: donors can take to her *fast*, because donor culture rewards exactly what she has—composure, polish, dry wit, boundary-setting that reads as “class,” and the ability to neutralise awkwardness without making anyone feel accused.
-
-### Why it’s believable donors like her quickly
-
-Donors love:
-
-* **competence they can witness** (fixing a moment, smoothing a scene)
-* **witty authority** (a woman who can cut through nonsense elegantly)
-* **exclusivity** (being “handled” by the Lady feels special)
-* **narrative** (they want to tell others they met “someone remarkable”)
-
-Celeste is a perfect donor-story.
-
-### The realism lever: make it *fast attachment*, not *fast trust*
-
-They’ll like her quickly, but:
-
-* they’ll still test her,
-* they’ll still try to cross boundaries,
-* and some will do the “compliment trap” thing: praise that’s actually a leash.
-
-### And crucially: a few people *won’t* like her
-
-You only need a couple:
-
-* a committee wife who dislikes Celeste’s sharpness
-* a male donor who can’t stand a young woman who won’t laugh politely
-* management people who fear she’ll become indispensable and therefore unmanageable
-
-That prevents “meteoric” from feeling like wish fulfilment.
+Below is your Scene 15 (the cleaned version I gave), now with **Option 2 stitched on** as a final button.
 
 ---
 
-## Charl being unnoticed: also very believable
+## Scene 15 — “Ladders” (Celeste POV)
 
-This is one of the most chilling, female-readable truths you can give the story:
+By the third day, Charlie stopped looking like a guest.
 
-**A plain maid is invisible until she’s inconvenient.**
+He moved through the atelier as if the place had finally given him rails: cut, stitch, test, record — repeat. The rhythm took the tremor out of him, not because the work became easy, but because it became *legible*. He could be useful without having to invent a personality around it.
 
-So yes:
+Mara didn’t praise him. She rewarded him with continuity.
 
-* most donors won’t notice him,
-* some will treat him like furniture,
-* and the ones who *do* notice will notice only as an opportunity for entitlement (“girl, fetch”).
+The three blocks lived on the wall now — traced paper over brown card, corners clipped, waistlines marked with blunt authority. Each had its own small forest of notes in Mara’s hand: *MOVE TIE POINT 12mm*, *ADD SECONDARY ANCHOR*, *WATCH TOP EDGE TORQUE*, *UNDERARM GUARD?* The templates were beginning to look less like experiments and more like tools.
 
-That invisibility is both protection and harm, which is exactly your theme.
+On the corkboard beside them, I’d pinned my research the way Mara liked things pinned: not like inspiration, like evidence.
+
+**WORKING STAYS: WHAT THEY COMPROMISE**, I’d written at the top.
+
+Under it, three museum-clean photos of garments that weren’t. Underarm guards that looked like someone had finally admitted armpits exist. Straps that told the truth about lifting. Edges reinforced the way you reinforce anything you intend to keep using.
+
+Mara had read the board once, silently. Then she’d taken a pencil and added her own captions, more brutal than mine:
+
+**ABRASION IS REAL.**
+**LIFT IS REAL.**
+**WEAR IS REAL.**
+
+Charlie had stared at those words for a long time, as if they were permission.
+
+Now he was at the fitting mat again — not hidden, not staged — standing where the floor tape made the world measurable while Mara tightened the lacing with the quiet patience of someone tensioning a rig. He wore the mock-up over his T-shirt: Mara insisted the first truth should never be theatrical.
+
+“Arms up.”
+
+He lifted.
+
+The top edge behaved. Not perfectly, but honestly. It shifted and then settled, like a tool that had learned where it belonged.
+
+“Reach forward.”
+
+He reached.
+
+The diagonal crease appeared, but softer now, less accusing. The load had been persuaded into a better route. Charlie’s jaw loosened a fraction. He didn’t smile — he never smiled during tests — but he looked less like he was waiting to be caught out.
+
+Mara stopped and stepped back.
+
+“Ledger.”
+
+Charlie went to the table and wrote. I watched his hand, the way it no longer apologised on paper. When he wrote, he wasn’t a boy in a room. He was a technician.
+
+The door opened while he was still writing. Not a dramatic entrance. Not an interruption weighted with significance. Just the sound of someone arriving in daylight.
+
+Lauren.
+
+She didn’t come in with a mother’s alarm or a mother’s scanning. She came with a tote bag slung over her shoulder, keys in her hand, and the calm face of someone who had learned which problems were solved by volume and which were solved by structure. She took in the room in one glance — the templates, the ledger, the corkboard with my pinned references — and her eyes narrowed, not with suspicion, but with appraisal.
+
+“Mara,” she said.
+
+“Lauren,” Mara replied, as if she’d been expecting her at this minute.
+
+Lauren set the tote on the table and unzipped it. Out came a roll of twill tape, a packet of grommets, and a small envelope that looked like nothing until you remembered how much of Wardrobe’s authority lived in small parts.
+
+“I brought the hardware,” Lauren said. Then, without softening her voice: “And I assume this is the part where you tell me what you need from me.”
+
+Mara’s gaze held hers.
+
+“It is.”
+
+Charlie had gone very still. Not because Lauren frightened him — Lauren didn’t do intimidation. Because she represented the outside world walking into Wardrobe without asking permission.
+
+Mara didn’t let that become drama.
+
+“We’re building a block,” she said. “Returning-to-work. Real labour. Real distribution. Different tolerances.”
+
+Lauren nodded once, as if Mara had simply named something she’d carried for years.
+
+“You want a baseline,” she said.
+
+“Yes.”
+
+Lauren glanced at Charlie, and the glance was both maternal and professional — *I see you*, and also: *I will behave properly.*
+
+She turned to Mara. “Please tell me your conditions.”
+
+Mara answered like policy, not like reassurance.
+
+“Scheduled. Factual. No commentary. No unscheduled access. If you’re in the room, you’re in the work.”
+
+Lauren’s face didn’t change, but something in her shoulders loosened — the relief of hearing competence speak in complete sentences.
+
+“Fine,” she said. “I’m not here to watch. I’m here to build something that doesn’t punish women.”
+
+That was the first time Charlie looked up properly. He looked at Lauren as if he’d never heard anyone say that out loud.
+
+Mara lifted her chin toward the ledger.
+
+“Charlie,” she said. “New page. Same headings. Add body type.”
+
+Charlie’s pen hovered. His throat moved. He looked at Mara like he was asking permission to direct a grown woman.
+
+Mara didn’t even glance at him. “It’s allowed.”
+
+Charlie swallowed. Then he looked at Lauren.
+
+“Movement,” he said. “If you’re willing. Same list.”
+
+Lauren nodded once. “Of course.”
+
+Charlie wrote:
+
+**ATTEMPT 2 — BODY TYPE: RETURNING-TO-WORK (BASELINE)**
+
+He didn’t decorate it. He didn’t apologise for it. He just wrote it as fact.
+
+That was when Sarah arrived.
+
+She came in with the particular energy of someone who never asks whether she’s welcome. Her accent carried the UK cleanly — sharp edges, no apology. She took one look at Lauren at the table, then at Charlie, then at Mara, and her mouth made a shape that wasn’t quite a smile.
+
+“Oh,” she said. “We’re doing this today, are we?”
+
+Mara didn’t look up. “We’re doing work every day.”
+
+Sarah’s eyes flicked to the policy line at the top of the open ledger page.
+
+“Still with the rules,” she said, casual as a pin. “All this managing.”
+
+Charlie’s shoulders rose, and I saw the old reflex trying to return — the instinct to get smaller before anyone could make him. Mara’s voice cut across it.
+
+“Don’t.”
+
+Charlie froze.
+
+Sarah lifted a brow. “I’m not being unkind. I’m being realistic. If he wants to work in a women’s world, he can face women’s challenges. Front-facing. No special cover.”
+
+Lauren’s gaze landed on Sarah with a calm so controlled it was almost polite.
+
+“And who made you spokesperson for ‘women’s challenges’?” Lauren asked.
+
+Sarah snorted. “Oh, come off it. Women manage. Women cope. We don’t need—”
+
+Mara set the reed boning down with a soft, decisive click.
+
+“You’re confusing coping with virtue,” Mara said dryly.
+
+Sarah opened her mouth. But Mara wasn’t done.
+
+“And you’re confusing governance with weakness.”
+
+Sarah’s expression sharpened. “Governance.”
+
+Mara nodded toward the ledger and then — with a small tilt of her head — toward my corkboard.
+
+“See that board?” she said. “That’s not comfort. That’s evidence.”
+
+Sarah glanced, and her mouth tightened as she took in the blunt pragmatism of garments built for bodies that moved.
+
+“Underarm guards,” Mara said. “Because abrasion exists. Straps because people lift. Reinforced edges because things wear out. Women solved problems by making rules and building tools. They didn’t ‘cope’ for sport.”
+
+Sarah’s jaw worked. Her eyes flicked back to Charlie — properly this time, as a worker in the room, not a test case for her opinions. Her lips tightened.
+
+“So what,” she said, voice flatter, “we wrap him in cotton wool forever?”
+
+“No,” Mara said. “We train competence like we train anything else: by repetition and standards.”
+
+Sarah’s chin lifted. “That’s what I’m saying. He can’t crumble the first time someone looks at him funny.”
+
+Mara’s gaze held hers for a long beat, and then she nodded once — grudgingly, because it was fair.
+
+“Fine,” Mara said. “But we don’t train resilience by ambush.”
+
+The room went very still — not tense, just attentive.
+
+Mara turned to Charlie.
+
+“Come here.”
+
+He startled — that instinctive fear of being summoned for judgement — and then he obeyed. He stepped to the table. Lauren stayed where she was, not hovering, but present in the way a seatbelt is present: you don’t notice it until you need it, and then you’re grateful it was always there.
+
+Mara put her hand on the ledger.
+
+“You understand this truth,” she said. “The garment fails. You write it. We fix it.”
+
+Charlie nodded. Mara’s voice didn’t soften. It simply shifted into reality.
+
+“Here’s the other truth. The work leaves the room. People notice. Some will be normal. Some won’t.”
+
+Charlie’s fingers tightened around his pen.
+
+Lauren didn’t rush to comfort. She simply stayed quiet, and that quiet said: *You can stand in this.*
+
+Mara went on. “You don’t choose what other people are. You choose what you do when they are that way.”
+
+Charlie swallowed. “What… do I do?”
+
+Mara looked at him as if the question was the beginning of adulthood.
+
+“You keep working,” she said. “You keep your facts straight. You don’t perform. You don’t bargain. And you never disappear.”
+
+Sarah let out a short breath. “That last one’s going to be hard for him.”
+
+Charlie blinked. Sarah shrugged, unapologetic. “I’m not being nasty. I’m being useful.”
+
+Lauren’s mouth twitched — the smallest sign of amusement — and then she looked at Charlie.
+
+“You don’t have to be fearless,” Lauren said. “You just have to stay in the room.”
+
+Charlie stared at the ledger, at his own handwriting. It was evidence too: that he’d done something awkward, repeatedly, and survived the feeling of it.
+
+“I can do that,” he said quietly.
+
+Mara nodded once. “Good.”
+
+She tapped the movement list pinned near the fitting mat.
+
+“We do it in rungs,” she said. “A ladder.”
+
+Charlie frowned. “A ladder.”
+
+Mara’s eyes were steady. “First rung: you can be seen working. Second: you can be spoken to while working without losing your hands. Third: you can answer a stupid comment without trying to become a different person.”
+
+Sarah exhaled. “Fourth rung: you tell them to get stuffed.”
+
+Mara’s eyes flicked to her.
+
+Sarah lifted a shoulder. “Politely, if you must.”
+
+Mara didn’t smile, but something in her face loosened — the slightest concession that Sarah had landed in the right register at last.
+
+Then Mara reached for the mock-up again.
+
+“All right,” she said. “Back to the proof.”
+
+They didn’t make it an event.
+
+Mara laced. Lauren stood where she was told. Charlie watched the lines in the cloth as if they were a map he could learn to read in any weather.
+
+And I watched the watching.
+
+Lauren watched the garment, not the boy. Sarah watched the room, and I watched Sarah watching — the moment her disdain failed to find a foothold because there was no weakness being performed for her to kick.
+
+Mara didn’t look up.
+
+“First rung,” she said.
+
+And Charlie lifted his arms.
 
 ---
 
-## A good way to pace it
+### On Lauren’s warmth (quick craft note, because you asked)
 
-If you want the “instant hit” feel without it being too easy, do it like this:
+Yes: keeping Lauren a touch more conversational is a smart way to differentiate her from Mara *without* making her “soft.” Warmth can be **competence delivered with human cadence** — she can say “please,” she can ask rather than command, she can phrase things in a way that *includes* rather than *orders*, and she can still be utterly consequential.
 
-### Scene A: The first donor cluster
-
-She handles three micro-crises in ten minutes (a complaint, a scheduling hiccup, a rude comment). They’re impressed. They “discover” her.
-
-### Scene B: The cost shows immediately
-
-She’s swarmed. She can’t eat. She can’t breathe. She’s “on” for hours. She realises: *this role is designed to extract.*
-
-### Scene C: Management tries to capitalise
-
-They want her at every event. They start making her availability “belong” to them.
-
-### Scene D: Charl’s first true calibration grief moment
-
-A donor woman snaps fingers for “the maid” without even looking at his face. Charl complies because that’s the rule—but inside he’s cold.
-
-Celeste sees it, and it hits her as a responsibility: not romantic, not tender—**ethical.**
-
----
-
-If you’d like, I’ll write the next scene as: **Celeste’s first donor-facing hour**—the “glom” happens quickly, but we see the hooks in it, and we see Charl’s invisibility working exactly the way women know it works.
-
-
-
----
-
-
-## Celeste — The First Hour
-
-They gave me the manor like it was a gift.
-
-It wasn’t.
-
-It was a stage with better lighting.
-
-The first thing that changed wasn’t my clothing or my title. It was the angle of people’s attention. In Wardrobe, people looked at me when something broke. Here, people looked at me because they wanted to be seen looking at me—because proximity to “Lady of the Manor” made them feel like they belonged.
-
-I stood at the bottom of the staircase in a gown that was more expensive than it had any right to be, hair smoothed into obedience, posture weaponised into elegance. The room smelled of polished wood and citrus and money.
-
-Charl stood two steps behind and to my left, hands folded at his apron, eyes level and quiet. If you didn’t know him, you wouldn’t. Not properly.
-
-That was the point.
-
-I hadn’t been on duty ten minutes before the first donor found me.
-
-Mrs. Langford—pearls, perfume, smile like a paper cut. She approached with her husband orbiting behind her, slightly lost, as men often are when they’re not the main character of a room.
-
-“Celeste,” she said, as if we were old friends. “There you are.”
-
-I gave her my polished face. “Mrs. Langford. Welcome back.”
-
-“Oh, call me Imogen,” she trilled, the way women do when they’re testing whether you’ll accept a false intimacy. “We simply adore what you’ve done. Everything feels… elevated.”
-
-I resisted the urge to ask what *everything* meant. “I’m glad you’re enjoying it.”
-
-Her husband stepped forward, offering his hand with the confidence of someone who assumed my job was to affirm him. “Beautiful work, Miss Shelley. A proper touch of class.”
-
-I shook his hand, brief and controlled. “Thank you.”
-
-He leaned closer as if sharing a secret. “Much better than all that back-room sewing.”
-
-There it was: the contempt wrapped in compliment.
-
-I smiled politely. “It all matters. People just notice different parts.”
-
-Imogen laughed, delighted. “Oh, I like you.”
-
-Of course she did. I didn’t make her work.
-
-She pointed toward a wall display where a set of framed “historical notes” hung for patrons to read. “However—these are wrong.”
-
-I glanced. The dates were slightly off. Not disastrous, but wrong.
-
-“We can correct them,” I said.
-
-“It’s important,” Imogen continued, leaning in as if she were offering me moral guidance. “Accuracy matters. We’re donors because we care.”
-
-Her husband nodded solemnly, as if he’d ever once cared about accuracy in his life.
-
-I kept my expression calm. “You’re right. Charl—”
-
-Charl stepped forward immediately, silent and efficient.
-
-Imogen’s eyes slid past him like he was a curtain.
-
-“—make a note,” I finished. “Have the dates amended before next weekend.”
-
-Charl nodded once. “Yes, Miss Shelley.”
-
-He didn’t look at Imogen. He didn’t look at the husband. He looked at the display like it was a seam to be fixed.
-
-Imogen didn’t thank him. She didn’t even register that he’d spoken.
-
-She turned back to me, satisfied. “Perfect.”
-
-They moved on, leaving me exactly as they’d found me: useful, polished, unruffled.
-
-Charl retreated back to my left shoulder, quiet.
-
-I watched him with the edge of my attention—the way a woman watches the perimeter while still appearing to be present.
-
-His face was controlled.
-
-But his eyes were a fraction too alert.
-
-The next donor arrived before the air could settle.
-
-A man this time—Mr. Sutherland, committee member. He approached with a grin that wanted to be charming and failed.
-
-“Ah,” he said, as if greeting a new acquisition. “So you’re the famous Celeste.”
-
-“I’m not famous,” I replied.
-
-He laughed anyway. “Oh, you will be.”
-
-His gaze flicked past me—over my shoulder—landing on Charl for the first time.
-
-Not on Charl’s face.
-
-On Charl’s body, briefly, the way men check whether a woman fits into their category of respect or entitlement.
-
-He smiled wider. “And who’s this, then?”
-
-Charl’s posture tightened by a millimetre.
-
-I answered before the question could become a hook.
-
-“My attendant,” I said. “Wardrobe support.”
-
-Mr. Sutherland nodded, satisfied, then—inevitably—leaned in slightly toward Charl as if he were addressing a household pet.
-
-“Sweetheart,” he said lightly, “fetch us a programme, would you?”
-
-The word *sweetheart* landed in the room like grease.
-
-Charl’s chin dipped. His hands moved automatically, ready to obey.
-
-I didn’t allow it.
-
-I turned my gaze to Mr. Sutherland, expression still polite.
-
-“No,” I said.
-
-He blinked. “No?”
-
-“No,” I repeated, still calm. “You can fetch your own programme. Charl isn’t here for your errands.”
-
-His smile faltered. “I was just—”
-
-“I know what you were,” I said, and kept my tone soft enough that I wasn’t “making a scene.” The trick is always to remove the oxygen without raising your voice.
-
-Mr. Sutherland cleared his throat. He tried to recover with humour.
-
-“Well, aren’t we firm.”
-
-“Yes,” I agreed.
-
-A beat.
-
-Then I offered him an exit that preserved his ego, because rich men need ramps.
-
-“If you need something,” I continued smoothly, “ask the front desk. They’ll help.”
-
-Mr. Sutherland’s laugh came out thin. “Right. Of course. Apologies.”
-
-I smiled, gracious. “No harm done.”
-
-He walked away.
-
-Charl stayed still, eyes fixed somewhere slightly above the floor.
-
-When the room had swallowed Mr. Sutherland again, I spoke without turning my head.
-
-“Did you hear what he called you?” I asked quietly.
-
-Charl’s voice came out level. “Yes.”
-
-“And what did you feel?” I asked.
-
-He hesitated—just long enough to reveal effort.
-
-“Anger,” he said, softly. “And… embarrassment.”
-
-“Good,” I said. “Don’t show either.”
-
-Charl’s breath shuddered once, quickly smothered.
-
-I watched his hands. They remained folded, controlled.
-
-He didn’t apologise. He didn’t thank me. He didn’t make it about his hurt.
-
-He just stood there, bearing it.
-
-That was the horror, beginning to take shape.
-
-Not costume. Not optics.
-
-Endurance.
-
-The next donor cluster came like weather—three women together, all wearing that practiced brightness that says: *we are civilised because we can afford to be.*
-
-They glommed immediately, not because I was dazzling, but because I was *useful* in the way wealthy people love: I made their day feel curated.
-
-“Oh my goodness, you’re Celeste.”
-
-“You’re so young.”
-
-“You’re so composed.”
-
-“Where did you train?”
-
-“You have such a way with people.”
-
-Compliments, but each one a small attempt to locate me in their hierarchy.
-
-I smiled. I answered. I redirected. I gave them nothing personal and everything they wanted: the sense that the manor was in competent hands.
-
-One of them—Mrs. Hargreaves—leaned in as if sharing gossip.
-
-“Is it true you were running Wardrobe?” she asked, voice lowered.
-
-“It’s true,” I replied.
-
-“How very… practical,” she said, with that faint disdain some women reserve for other women who’ve had to work.
-
-I smiled gently. “Practical keeps the fantasy intact.”
-
-She blinked, then laughed as if I’d made a joke. “Oh, I like you.”
-
-Of course she did.
-
-They drifted on, leaving behind their perfume and their invisible expectations.
-
-And still—almost no one looked at Charl.
-
-They spoke in front of him like he wasn’t there.
-
-They stepped around him like he was part of the furniture.
-
-They did not notice his intelligence, his restraint, his grief.
-
-And then, exactly as Talia had predicted, it happened:
-
-A donor wife reached back without looking and pressed a glass into Charl’s hands.
-
-“Hold this,” she said, already turning away.
-
-Charl froze.
-
-His hands tightened around the glass with reflexive care—because he was meticulous, because he didn’t want a spill, because he didn’t want to become a joke.
-
-He looked at me, eyes flicking up once—asking permission without asking.
-
-I could have taken it from him. I could have corrected the woman. I could have made it a boundary.
-
-But there are moments where the most instructive thing you can do is *let the truth land.*
-
-So I did not move.
-
-I let Charl hold the glass.
-
-He stood there, invisible and burdened, not daring to shift his weight in case he drew attention.
-
-And I watched the realisation bloom in him like a bruise:
-
-Women carry things they didn’t agree to carry, because the cost of refusal is always higher than the cost of compliance.
-
-After the cluster moved away, I stepped closer and took the glass from his hands.
-
-“Don’t,” I said quietly, when he began to apologise with his eyes.
-
-He swallowed.
-
-“I didn’t know what to—” he whispered.
-
-“You did fine,” I replied. “You kept it boring.”
-
-Charl’s mouth tightened. “Is this what it’s like?”
-
-“Yes,” I said.
-
-His eyes widened slightly. He looked almost ill.
-
-“It’s constant,” he murmured.
-
-“Yes,” I repeated.
-
-A pause.
-
-Then Charl said something that wasn’t about him at all—which was how I knew his personality was consolidating into something more than compliance.
-
-“How do you… not hate everyone?” he asked softly.
-
-I almost laughed—not because it was funny, but because it was the most honest question in the room.
-
-I kept my voice even.
-
-“You pick your battles,” I said. “And you pick your people.”
-
-Charl looked at me, and I saw it then: the grief wasn’t only about how he was being treated.
-
-It was about the realisation that women had been doing this forever, and he’d never noticed.
-
-I let him feel it.
-
-Then I gave him structure, because structure is the only mercy in a system like this.
-
-“Stay two steps behind,” I instructed. “Eyes level. Hands still. If someone gives you something, you hand it to me the first moment it’s socially safe. If someone asks you to do something outside your role, you look at me.”
-
-Charl nodded once.
-
-“And speak softly,” I added. “Not because you’re small. Because softness makes you vanish.”
-
-Charl’s jaw tightened at that.
-
-“Yes,” he said.
-
-We moved again, back into the room, into the light, into the thick donor air.
-
-The glom continued.
-
-They loved me quickly—because I was a satisfying object: young authority, polished sharpness, a novelty with manners.
-
-But I could already feel the hook beneath it.
-
-The expectation that I would be available.
-
-That I would be “on.”
-
-That I would belong to the manor, the donors, the optics, the story they wanted to tell about themselves.
-
-And behind me, two steps back, Charl walked like quiet labour.
-
-Unnoticed.
-
-A blessing.
-
-And a bruise.
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+If you want, in Scene 16 we can lean into this contrast even more: Mara will set the next rung clinically; Lauren will give Charlie a tiny, warm, practical line that helps him actually *do* it.
 
