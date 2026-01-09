@@ -19,7 +19,7 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 * **Removing the 'AI' look** (see image)  
   Models used: SRPO (improved Flux1 Dev) 
 
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -289,6 +289,7 @@ Slide Show:
 
 [AstroDocs](https://docs.astro.build/en/editor-setup/)
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 

@@ -14,9 +14,12 @@
 🌹🌼🌹 [ ⇨ GIMP Tips](/visual/GimpTips.md)  
 🌼🌹🌼 [ ⇨ Videography](/visual/Videos.md)   
 🌹🌼🌹 [ ⇨ Video Scripts](/visual/VScripts.md)     
-🌼     
-🌹  
-🌼  
+🌼🌹🌼     
+🌹🌼🌹  
+🌼🌹🌼  
+🌹🌼🌹  
+🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼
+
 ---
 
 <a href="/assets/images/blog25/07-03Office.jpg" target="_blank" rel="noopener">
@@ -33,9 +36,11 @@
 🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog2511.md)  
 🌼🌹🌼 [ ⇨ Blogs Dec 2025](/blogs/Blog2512.md)   
 🌹🌼🌹 [ ⇨ Blogs Jan 2026](/blogs/Blog2601.md)    
-🌼  
-🌹  
-
+🌼🌹🌼   
+🌹🌼🌹   
+🌼🌹🌼  
+🌹🌼🌹  
+🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼
 ---
 
 <a href="/assets/images/plotpics/P06-01Girls.jpg" target="_blank" rel="noopener">
@@ -50,12 +55,13 @@
 🌹🌼🌹 [ ⇨ Scenes 01 - 05](/CelestesGirl/CG01-05.md)    
 🌼🌹🌼 [ ⇨ Scenes 06 - 10](/CelestesGirl/CG06-10.md)    
 🌹🌼🌹 [ ⇨ Scenes 11 - 15](/CelestesGirl/CG11-15.md)    
-🌼🌹🌼 [ ⇨ Chapter 16](/CelestesGirl/Chap16.md)   
-🌹🌼🌹 [ ⇨ Chapter 17](/CelestesGirl/Chap17.md)   
-🌼🌹🌼 [ ⇨ Chapter 18](/CelestesGirl/Chap18.md)   
-🌹🌼🌹 [ ⇨ Chapter 19](/CelestesGirl/Chap19.md)   
-🌼🌹🌼 [ ⇨ Chapter 20](/CelestesGirl/Chap20.md)   
-
+🌼🌹🌼 [ ⇨ Scenes 15 - 20](/CelestesGirl/CG15-20.md)  
+🌹🌼🌹   
+🌼🌹🌼   
+🌹🌼🌹  
+🌼🌹🌼  
+🌹🌼🌹  
+🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼
 
 
 
@@ -73,11 +79,20 @@
 🌼🌹🌼 [ ⇨ MyNotes](/Dev/Careful.md)  
 🌹🌼🌹 [ ⇨ ComfyUI](/Dev/Comfyui.md)  
 🌼🌹🌼 [ ⇨ Domains](/Dev/DomXfer.md)  
-🌹  
-🌼  
-🌹  
+🌹🌼🌹  
+🌼🌹🌼  
+🌹🌼🌹   
+🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼🌹🌼  
 
----
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
 
 <style>
   .flex-container {display: flex; gap: 20px; align-items: flex-start;}
@@ -97,19 +112,18 @@
 
 </div>
 <div class="column column--right" markdown>
-Celeste explains to Charlie (she calls him 'Sharl' about genetics and human development, as she understands it. Her take is probably over-simplified but it serves her purpose. Charlie is besotted with her and eagerly, unquestioningly accepts any wisdom she may share with him.
+Celeste explains to Charlie (she calls him 'Sharl', like, short for 'Charlemagne?') about genetics and human development at the embryonic stages, as she understands it. Her explanation is over-simplified - chromosomes matter - but it serves the purpose. Charlie is besotted with her and unquestioningly accepts any wisdom she may share with him.
   
-This bit did leave him a bit perturbed, of course. Perturbed enough to do independent research? no.
+This bit did leave him a bit perturbed, of course.
   
-He failed to see where she was taking this.
-  
-This discussion ensues during his inital days at the Faire (as yet unwritten).
+He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
+
+**Side Note:**  
+*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](/CelestesGirl/CG01-05.md)*.
 </div>
 </div>
 
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -134,7 +148,17 @@ Stylewise, I was going to go with something like Taffy Brodesser-Akner's, but it
 
 So, there's that. 🫢
 
----
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
 
 These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
 
@@ -185,4 +209,4 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </audio>
 
 
-<hr style="height:20px;border-width:0;color:pink;background-color:pink">
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
