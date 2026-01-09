@@ -61,7 +61,6 @@ nav:
     - Careful Ideas Now: Dev/Careful.md
     - ComfyUI Guidance: Dev/Comfyui.md
     - Domain Transfer: Dev/DomXfer.md
-
   - Blogs:
     - blogs/index.md
     - Blog Sep25: blogs/Blog2509.md
@@ -69,25 +68,29 @@ nav:
     - Blog Nov25: blogs/Blog2511.md
     - Blog Dec25: blogs/Blog2512.md
     - Blog Jan26: blogs/Blog2601.md
-    - Emily 25.12.18: blogs/Notes2025-12-18.md
-    - Emily 25.12.19: blogs/Notes2025-12-19.md
-    - Emily 25.12.20: blogs/Notes2025-12-20.md
-    - Emily 25.12.21: blogs/Notes2025-12-21.md
-    - Emily 25.12.22: blogs/Notes2025-12-22.md
-    - Emily 25.12.23: blogs/Notes2025-12-23.md
-    - Emily 25.12.25: blogs/Notes2025-12-25.md
-    - Emily 25.12.26: blogs/Notes2025-12-26.md
-    - Emily 25.12.27: blogs/Notes2025-12-27.md
-    - Emily 25.12.29: blogs/Notes2025-12-29.md
-    - Emily 25.12.20: blogs/Notes2025-12-30.md
-    - Emily 25.12.21: blogs/Notes2025-12-31.md
-    - Emily 26.01.01: blogs/Notes2026-01-01.md
-    - Emily 26.01.02: blogs/Notes2026-01-02.md
-    - Emily 26.01.03: blogs/Notes2026-01-03.md
-    - Emily 26.01.04: blogs/Notes2026-01-04.md
-    - Emily 26.01.05: blogs/Notes2026-01-05.md
-    - Emily 26.01.06: blogs/Notes2026-01-06.md
-    - Emily 26.01.07: blogs/Notes2026-01-07.md
+  - Emily:
+    - Emily/index.md
+    - Emily 25.12.18: Emily/Notes2025-12-18.md
+    - Emily 25.12.19: Emily/Notes2025-12-19.md
+    - Emily 25.12.20: Emily/Notes2025-12-20.md
+    - Emily 25.12.21: Emily/Notes2025-12-21.md
+    - Emily 25.12.22: Emily/Notes2025-12-22.md
+    - Emily 25.12.23: Emily/Notes2025-12-23.md
+    - Emily 25.12.25: Emily/Notes2025-12-25.md
+    - Emily 25.12.26: Emily/Notes2025-12-26.md
+    - Emily 25.12.27: Emily/Notes2025-12-27.md
+    - Emily 25.12.29: Emily/Notes2025-12-29.md
+    - Emily 25.12.20: Emily/Notes2025-12-30.md
+    - Emily 25.12.21: Emily/Notes2025-12-31.md
+    - Emily 26.01.01: Emily/Notes2026-01-01.md
+    - Emily 26.01.02: Emily/Notes2026-01-02.md
+    - Emily 26.01.03: Emily/Notes2026-01-03.md
+    - Emily 26.01.04: Emily/Notes2026-01-04.md
+    - Emily 26.01.05: Emily/Notes2026-01-05.md
+    - Emily 26.01.06: Emily/Notes2026-01-06.md
+    - Emily 26.01.07: Emily/Notes2026-01-07.md
+    - Emily 26.01.08: Emily/Notes2026-01-08.md
+    - Emily 26.01.09: Emily/Notes2026-01-09.md
   - Visual Art:
     - visual/index.md
     - ComfyUI: visual/Comfyui.md
