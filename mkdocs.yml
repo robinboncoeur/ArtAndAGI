@@ -63,6 +63,7 @@ nav:
     - Careful Ideas Now: Dev/Careful.md
     - ComfyUI Guidance: Dev/Comfyui.md
     - Domain Transfer: Dev/DomXfer.md
+    - Image Prompts: Dev/Prompts.md
   - Blogs:
     - blogs/index.md
     - Blog Sep25: blogs/Blog2509.md
