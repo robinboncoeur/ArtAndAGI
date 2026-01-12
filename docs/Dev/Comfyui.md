@@ -1162,3 +1162,95 @@ Training:
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
+
+
+
+
+
+
+## Z Image Turbo
+
+[Q]  
+Hi Emily. Been having a bit of looking around on Z Image Turbo. It appears to really respond well to complete sentences and as descriptive a language as one can come up with. This, at CFG of 1. Also, negative prompts do almost nothing at CFG=1, and the slowdown by increasing the CFG even to 1.3 is significant. So, I'd like to try something. Can we can couch this prompt in full sentences, being a bit more detailed in descriptions, and - for now - eliminate the negative prompt? Here's the prompt:
+
+documentary photo, modern women-run atelier workroom, warm morning light
+same late-blooming 18-year-old youth, slim narrow shoulders, boyish face with faint freckles, no makeup, no jewelry
+very long brown hair in a low ponytail with loose tendril, hair down the back
+women’s 1770s daywear ankle length two-piece outfit: indigo wool open-front ankle lengthvelvet, velour, suede, satin sheen, brocade, jacquard, floral print, patterned fabric, mottled texture, marble texture, quilted texture overdress worn over a separate matching indigo petticoat clearly visible (two separate garments),indigo wool is the dominant visible garment color, no beige or unbleached outer garment, solid indigo, matte, plain weave wool, visible woven texture, no pattern, no print, no mottling
+white linen chemise visible only at neckline edge and sleeve cuffs
+range-of-motion check: arms raised, chin down, eyes on underarm seam, focused neutral expression
+white tennis shoes worn on feet visible under hem
+worktable: sewing machine, red thread spool, indigo wool fabric, tape measure, pins, chalk, open ledger/policy binder
+
+---
+
+[A]  
+Absolutely — and I can see why ZiT likes this. Here’s your exact content, but rewritten as *continuous, descriptive sentences* (no separate negative prompt). I’ve also cleaned the fabric contradictions so the model isn’t being told “matte plain wool” and “satin sheen / brocade / floral print” in the same breath.
+
+Use this as your *positive prompt*:
+
+---
+
+**Prompt (full sentences, no negative):**
+
+
+
+---
+
+If you want a tiny “ZiT obedience nudge” without using a negative prompt, you can simply **repeat the key truths once** inside the same prompt (ZiT tends to respond well to reiteration in plain language), like this:
+
+> “The indigo wool is solid and matte, with a plain weave and visible texture. The outfit is two separate garments: an overdress over a separate petticoat, both clearly visible.”
+
+If you’d like, I can also do a *second* version that’s identical but slightly re-angles the camera so the **shoes + two-layer hem separation** are even more “unmissable” (low 3/4 angle, waist-up still readable, but hem and footwear guaranteed).
+
+---
+
+Perfect — here are **two** camera-angled variants that keep everything you want, but make (1) the **two-layer hem** and (2) the **white tennis shoes** practically unavoidable.
+
+## Variant A — “Low 3/4 documentary angle” (best for hem + shoes)
+
+Documentary-style photo in a modern, women-run atelier workroom, lit by warm morning light that stretches across the floor and the edges of a busy worktable. The camera is positioned at a low three-quarter angle, slightly below waist height and a little off to one side, so the viewer can clearly see the outfit’s hems and the shoes while still reading the subject’s face and posture.
+
+The scene features the same late-blooming eighteen-year-old youth: slim build, narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His hair is very long brown hair gathered into a low ponytail with a few loose tendrils; the ponytail hangs down his back.
+
+He is wearing women’s 1770s daywear as a clear two-piece outfit in indigo wool. The outer garment is an open-front, ankle-length overdress made from solid indigo, matte, plain-weave wool with a visible woven texture; it looks authentic and utilitarian rather than shiny or patterned. Beneath it, a separate matching indigo wool petticoat is clearly visible as its own distinct garment, also solid indigo and matte, so the two hems can be read as two different layers in the same dominant colour. A white linen chemise shows only at the neckline edge and sleeve cuffs.
+
+This is a range-of-motion check in progress: his arms are raised as he tests the underarm seam, his chin is tipped down, and his eyes are focused on the underarm area with a concentrated, neutral expression. His **white tennis shoes** are fully visible beneath the hem as he shifts his stance during the movement check, making the footwear unmistakable.
+
+In the foreground is a worktable holding a sewing machine, a red thread spool, indigo wool fabric, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder. The overall mood is competent, candid, and work-oriented, like a documentary moment captured mid-task.
+
+**Key truth repeated plainly:** The indigo wool is solid and matte with a visible plain weave. The outfit is two separate garments—an overdress over a separate petticoat—and both hems are clearly visible, with white tennis shoes visible beneath.
+
+---
+
+## Variant B — “Knee-height front angle” (most “unmissable” footwear)
+
+Documentary-style photo inside a modern, women-run atelier workroom in warm morning light. The camera is positioned at knee height and slightly front-facing, framing the subject from mid-torso down to the floor so the hems and footwear are naturally emphasised while still capturing enough of his face and attention to read the fitting check.
+
+The subject is the same late-blooming eighteen-year-old youth with a slim build and narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His very long brown hair is tied in a low ponytail with a few loose tendrils, the ponytail lying down his back.
+
+He wears women’s 1770s daywear in solid indigo wool as a clearly layered two-piece outfit. The open-front overdress falls to the ankles and is made from matte, plain-weave indigo wool with a visible woven texture, practical and unadorned. Under it, a separate matching indigo wool petticoat is clearly visible as its own garment, creating a distinct second hem layer beneath the overdress. A white linen chemise is visible only at the neckline edge and sleeve cuffs.
+
+He is in the middle of a range-of-motion check: arms raised, chin down, and eyes focused on the underarm seam with a concentrated neutral expression, as if checking for pulling or strain. His **white tennis shoes** are prominent in frame beneath the hems, clean and clearly modern, visible on the floor as he holds the pose.
+
+A worktable nearby is cluttered with a sewing machine, a red thread spool, indigo wool fabric, tape measure, pins, chalk, and an open ledger or policy binder, reinforcing the practical, documentary atelier atmosphere.
+
+**Key truth repeated plainly:** This is solid indigo matte wool with a visible plain weave. The outfit is two separate garments—overdress and separate petticoat—both hems are visible, and white tennis shoes are visible beneath.
+
+---
+
+### Tiny note (non-negative “guardrails”)
+
+If ZiT is still “tempted” to glam the fabric, you can add one extra *affirmative* sentence (still not a negative prompt), like:
+
+> “The cloth reads as everyday wool suiting: matte, slightly coarse, and clearly woven.”
+
+If you want, I can also do a **Variant C** that’s *explicitly full-body, portrait orientation, and includes the hem + shoes in a way that survives cropping* (very useful if ZiT keeps giving you lovely images that mysteriously cut off the feet).
+
+
+
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+

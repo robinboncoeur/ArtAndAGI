@@ -44,17 +44,12 @@ nav:
     - Scenes 01-05: CelestesGirl/CG01-05.md
     - Scenes 06-10: CelestesGirl/CG06-10.md
     - Scenes 11-15: CelestesGirl/CG11-15.md
-    - Chapter 20: CelestesGirl/Chap20.md
-    - Chapter 21: CelestesGirl/Chap21.md
-    - Chapter 22: CelestesGirl/Chap22.md
-    - Chapter 23: CelestesGirl/Chap23.md
-    - Chapter 24: CelestesGirl/Chap24.md
-    - Chapter 25: CelestesGirl/Chap25.md
-    - Chapter 26: CelestesGirl/Chap26.md
-    - Chapter 27: CelestesGirl/Chap27.md
-    - Chapter 28: CelestesGirl/Chap28.md
-    - Chapter 29: CelestesGirl/Chap29.md
-    - Chapter 30: CelestesGirl/Chap30.md
+    - Scenes 16-20: CelestesGirl/CG16-20.md
+    - Scene 21: CelestesGirl/Scene21.md
+    - Scene 22: CelestesGirl/Scene22.md
+    - Scene 23: CelestesGirl/Scene23.md
+    - Scene 24: CelestesGirl/Scene24.md
+    - Scene 25: CelestesGirl/Scene25.md
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
@@ -94,6 +89,8 @@ nav:
     - Emily 26.01.07: Emily/Notes2026-01-07.md
     - Emily 26.01.08: Emily/Notes2026-01-08.md
     - Emily 26.01.09: Emily/Notes2026-01-09.md
+    - Emily 26.01.10: Emily/Notes2026-01-10.md
+    - Emily 26.01.11: Emily/Notes2026-01-11.md
   - Visual Art:
     - visual/index.md
     - ComfyUI: visual/Comfyui.md
