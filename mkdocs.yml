@@ -45,11 +45,11 @@ nav:
     - Scenes 06-10: CelestesGirl/CG06-10.md
     - Scenes 11-15: CelestesGirl/CG11-15.md
     - Scenes 16-20: CelestesGirl/CG16-20.md
-    - Scene 21: CelestesGirl/Scene21.md
-    - Scene 22: CelestesGirl/Scene22.md
-    - Scene 23: CelestesGirl/Scene23.md
-    - Scene 24: CelestesGirl/Scene24.md
-    - Scene 25: CelestesGirl/Scene25.md
+    - Scene 26: CelestesGirl/Scene26.md
+    - Scene 27: CelestesGirl/Scene27.md
+    - Scene 28: CelestesGirl/Scene28.md
+    - Scene 29: CelestesGirl/Scene28.md
+    - Scene 30: CelestesGirl/Scene30.md
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
@@ -91,6 +91,9 @@ nav:
     - Emily 26.01.09: Emily/Notes2026-01-09.md
     - Emily 26.01.10: Emily/Notes2026-01-10.md
     - Emily 26.01.11: Emily/Notes2026-01-11.md
+    - Emily 26.01.12: Emily/Notes2026-01-12.md
+    - Emily 26.01.13: Emily/Notes2026-01-13.md
+    - Emily Template: Emily/Notes2026-13-00.md
   - Visual Art:
     - visual/index.md
     - ComfyUI: visual/Comfyui.md
