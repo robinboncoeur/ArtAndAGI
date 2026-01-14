@@ -1,0 +1,820 @@
+# Scene 38
+
+
+
+
+## From 25.01.05
+
+## Scene sketch — next scene in a more intimate Celeste voice (short, to set tone)
+
+That night, after Lauren left, the house felt too quiet.
+
+Not peaceful-quiet. Charged-quiet. The kind that made you hear your own thoughts like they were coming from another room.
+
+Charli moved around the kitchen cleaning a surface that was already clean. Wiping, folding, lining things up. Infrastructure as self-soothing.
+
+Celeste watched him from the doorway for a moment and realised something that made her chest go tight: **he was still trying to earn the right to exist.**
+
+Not by money. Not by heroics.
+
+By being useful enough that no one would regret keeping him.
+
+She walked in, took her phone out, and opened the calendar.
+
+“Come here,” she said.
+
+Charli froze like he’d been caught doing something wrong. “What?”
+
+Celeste didn’t soften the words into a question. She didn’t want this to become negotiable.
+
+“We’re scheduling,” she said. “Appointments. Transport. Meals. Reminders.”
+
+Charli’s throat bobbed. “I can do it.”
+
+“I know you can,” Celeste said. “That’s not the point.”
+
+He blinked at her.
+
+Celeste held his gaze, calm and unflinching.
+
+“The point,” she said, “is you don’t do it alone.”
+
+He looked down, ashamed of needing that sentence.
+
+Celeste kept going anyway, because this was what leadership was for: saying the clean thing that stopped people from drifting into old damage.
+
+She tapped the screen. “Tell me the date.”
+
+Charli hesitated, then told her.
+
+Celeste entered it. Then another. Then travel time. Then a reminder the night before: **eat**. Another reminder an hour before: **water**.
+
+Charli watched her do it like he was watching someone build a scaffold around a cliff edge.
+
+When she finished, she turned the phone screen toward him.
+
+“Screenshot that,” she said. “It’s ours. Not yours. Ours.”
+
+Charli swallowed.
+
+“Okay,” he whispered.
+
+Celeste waited a beat, then added — quietly, because she wanted the sentence to land without becoming a performance:
+
+“And if you’re scared, you tell me. Not the internet.”
+
+Charli’s eyes closed for a second.
+
+“Okay,” he said again. Softer this time. Relieved.
+
+Celeste felt it — that warm, terrible pull — and forced herself to keep it clean.
+
+This wasn’t romance.
+
+This was repair.
+
+---
+
+Winter at the Faire didn’t feel like a season.
+
+It felt like a **test**.
+
+The kind Mara would have liked, if she ever admitted to liking anything: unforgiving variables, live conditions, no mercy from “ideal studio lighting,” no way to pretend a seam behaved when it didn’t. Wind that found every weakness. Damp that revealed every shortcut. Cold that turned “comfortable enough” into “no, actually.”
+
+And still—still—people came.
+
+They arrived in scarves and rain jackets, stamping their feet on gravel, clutching hot drinks like talismans. Families, couples, school groups, the museum crowd with their clipboards and their quiet authority. A steady river of bodies moving toward the promise of an 18th-century world like it was warm inside the idea, even if it wasn’t warm in reality.
+
+Wardrobe’s van rolled through the gate at eight-thirty, tyres crunching on wet stone.
+
+Celeste stepped out into wind that immediately tugged at her hair clip, and she tightened it with one hand while the other held the door against a gust. Her breath came out pale.
+
+Cold air made everything feel sharper.
+
+More honest.
+
+Charli came around the side of the van carrying the garment bags like they were fragile equipment—because to him, they were. He wore his coat over his base layers, shoulders squared against the weather, hair tied back in the practical knot he’d learned months ago.
+
+A few tendrils escaped at his ears as soon as the wind touched him.
+
+He ignored them.
+
+Celeste clocked it and felt something deep in her chest ease, the way it had been easing in small increments ever since the endocrinologist’s plan had turned terror into structure.
+
+That plan didn’t “fix” anything.
+
+It just took the problem out of secrecy and into supervision, which meant Charli’s nervous system no longer had to improvise survival every minute of every day.
+
+And that—Celeste was learning—was what let a person become steady.
+
+Mara hopped down from the driver’s side and immediately started issuing instructions as if the wind were irrelevant.
+
+“Bags inside first,” she snapped. “No hanging near the door. Damp kills wool. Celeste—check the foyer rail. Sarah—signage. Charli—Nymph first. We start field testing as soon as the museum team arrives.”
+
+Sarah was already complaining, but in a way that meant she was fine.
+
+“Freezing my arse off for art,” she muttered, hauling a crate of hooks. “I hope the ghosts appreciate it.”
+
+Celeste ignored her. She didn’t have time to humour anyone’s theatrics. She had a new fabric line to protect.
+
+Inside the museum building—stone and timber and a persistent chill that lived in the walls—Wardrobe’s small operations unit unfolded with practiced speed.
+
+The higher-end garments stayed in their covers until the last possible moment. Wool blends were beautiful, but they were also fussy, and Victoria’s winter air had a smug way of proving it. Celeste’s gloved fingers moved over the bags like an instrument check: closures secure, labels correct, nothing crushed.
+
+They’d upgraded materials because demand had forced the conversation.
+
+The Faire wanted more. The museum wanted “authenticity” that could survive crowds. Other clients—private tours, historical societies, people with money and opinions—had started queuing up for “the look” now that Wardrobe had proven it could deliver.
+
+Higher-end cloth made the whole thing more legitimate.
+
+It also made mistakes more expensive.
+
+Which meant field testing mattered more than anyone wanted it to.
+
+Charli went to change in the staff room with the quiet compliance he always had in structured environments. The difference now was that his compliance wasn’t self-erasure; it was alignment. He had consented to this life in small, repeated ways, and the repetition had made it real.
+
+When he came back out in the Nymph line, the room did that tiny recalibration it always did around a strong silhouette.
+
+Deep indigo wool/linen that drank the light. A fitted bodice with the right tension—firm, not tight. The square neckline softened by the white shift and fichu. The apron plain and practical, tied properly. Petticoat visible with movement in a way that read era, not costume-shop.
+
+And—crucially—his hair was up in keeping with the outfit.
+
+Not obsessively. Not perfectly. Just… finished.
+
+The garment stopped reading as “someone wearing a dress for testing” and started reading as a complete look—period-appropriate, intentional, composed. The neckline sat better without loose strands tugging at the shift. The line of the bodice looked sharper because the head and neck were now clean.
+
+Celeste felt the familiar pull.
+
+Admiration first.
+
+Then the warmer, sharper thing beneath it that she didn’t let herself indulge for more than half a second.
+
+She didn’t want Charli to become a mirror for her feelings. She wanted him to become a person who could live.
+
+So she stayed in her lane.
+
+“Log wind movement,” Celeste said, handing him the wear-test sheet and a pencil. “Neckline shift, back seam tension, any chill points. Don’t baby it.”
+
+Charli nodded. “Got it.”
+
+Sarah wandered past, took one look at him, and made a noise of grudging approval.
+
+“See?” she said. “Now you look like you belong in the century. Less… laundry day at Bunnings.”
+
+Charli blinked. “What does that—”
+
+“It means,” Sarah cut in, “you’re not a walking anachronism. Congratulations.”
+
+Celeste didn’t smile, but something in her chest loosened. Sarah’s humour was a blunt instrument, but today it was aimed in the right direction: normalising him as staff, not spectacle.
+
+The museum team arrived just after nine.
+
+They were exactly what Celeste expected: coats damp at the shoulders, hair frizzed by wind, faces determined to be polite but also clearly prepared to be critical. Professionals. Not tourists.
+
+The lead curator—Camille, the French friend Lauren had mentioned, or perhaps not *friend* so much as professional ally—shook Mara’s hand, nodded at Celeste, and then turned her attention immediately to the garments.
+
+Her eyes were trained. She didn’t look at Charli like he was a novelty. She looked at the line of the bodice, the drape, the stitch finishing, the way the apron tied.
+
+“Très bien,” she murmured, then switched to English without ceremony. “But we have your note on the Nymph line. The upper back—still?”
+
+Mara’s face remained stone. “We’re testing now.”
+
+Charli moved, on cue, through the motions: reach overhead, bend forward, lift, twist. He did it with the calm of someone who’d been doing this long enough that the garment was no longer an event.
+
+Camille watched the fabric under strain. Celeste watched Charli’s face—because discomfort showed there first—and noted the exact moment his shoulders tightened when he reached too high. He wrote something on the sheet immediately.
+
+No drama. No endurance theatre. Data.
+
+So far, so good.
+
+Then the public came.
+
+They always came.
+
+A group of visitors swept in from the courtyard, cheeks pink from cold, phones already in their hands. A child tugged at a parent’s sleeve, pointing at the garments hanging on the rail like they were treasures. A woman in a beret leaned in too close to the swatch board, fingers drifting toward the wool as if price tags didn’t apply to history.
+
+Celeste stepped sideways and blocked gently with her body.
+
+“Please don’t touch,” she said, polite and firm. “Ask us and we’ll show you.”
+
+The woman withdrew her hand with the faintly offended air of someone unused to being corrected by a young woman who looked like she could run a small country.
+
+Celeste didn’t care.
+
+She had learned that discomfort was often just entitlement hitting a boundary.
+
+Charli moved through the foyer carrying a crate of accessories—ties, fichus, small fastenings—head down, focused. He passed a group of tourists who had paused mid-conversation as soon as they saw him.
+
+Celeste felt it before she heard it: that prickle in the air when someone was about to turn a person into a talking point.
+
+One of the men—mid-thirties, expensive jacket, the smugness of someone performing open-mindedness—nudged his friend and said, loudly enough to be heard:
+
+“Mate. Is that—”
+
+His friend laughed. “Shh.”
+
+Celeste’s spine went cold.
+
+Not because she feared violence.
+
+Because she feared the quieter thing: humiliation disguised as curiosity.
+
+Charli heard it. Celeste saw it in the tiniest change in his gait—the micro-stiffening, the urge to disappear.
+
+But he didn’t panic.
+
+He didn’t flee.
+
+He kept walking.
+
+He kept the crate steady in his arms like the work itself could hold him upright.
+
+Celeste felt something hot flare in her chest.
+
+Not anger for her own sake.
+
+Protective steel.
+
+She moved toward them without rushing.
+
+Mara was two steps behind her, as if drawn by the same scent of boundary breach.
+
+Sarah, from the corner, raised her eyebrows as if to say *oh, here we go*.
+
+Celeste stopped in front of the tourists with a smile that had no warmth in it but plenty of professionalism.
+
+“Hi,” she said. “Staff are not an attraction. Please don’t comment on staff bodies or appearances.”
+
+The man blinked, caught off guard by being addressed directly.
+
+“I wasn’t— I just—” he began, performing innocence as if innocence were a shield.
+
+Mara’s voice cut in, flat as concrete.
+
+“Also, no photography of staff without consent,” she said, pointing at the small sign they’d placed near the entry—simple, printed, unmistakable. “Museum policy.”
+
+The man looked around, saw the sign, saw the curator nearby, saw the cluster of people who had turned to watch, and suddenly remembered he lived in a world where consequences existed.
+
+“Right,” he muttered. “Sorry.”
+
+Celeste didn’t accept “sorry” as currency. She accepted compliance.
+
+“Thanks,” she said, and stepped back, closing the interaction neatly.
+
+No lecture. No escalation. No making Charli into a victim. Just: boundary set, enforced, done.
+
+Charli didn’t look at her.
+
+He didn’t need to.
+
+But when he passed her on his way back, crate now delivered, he let out a breath that made his shoulders drop.
+
+Celeste saw it and felt her own chest tighten.
+
+He’d been steady.
+
+And he’d allowed her to protect the standard publicly without it turning into shame.
+
+That mattered.
+
+Sarah wandered up afterward with a wicked little smile.
+
+“You handled that like a HR department with teeth,” she murmured.
+
+Celeste didn’t look at her. “It’s work.”
+
+Sarah hummed. “Sure it is.”
+
+Then, softer—almost kind—Sarah added, “He didn’t flinch, you know.”
+
+Celeste’s eyes flicked to Charli, now back at the fitting area, logging notes as if nothing had happened. He re-tucked a loose tie end at the nape once—quick, minimal—and ignored the tendrils that fluttered at his ears.
+
+He didn’t go to the mirror.
+
+He didn’t spiral.
+
+He just kept working.
+
+Celeste felt that warm, terrible pull again—the attraction that wasn’t about novelty or aesthetics, but about a person accepting a life and maintaining himself inside it with dignity.
+
+She turned back to the swatches and forced herself to stay professional, because professionalism was a scaffold she trusted.
+
+But even as she discussed wool weights with Camille and listened to Mara argue lead times like a general, part of Celeste’s mind kept returning to the same quiet thought, unwelcome and undeniable:
+
+This is what steadiness looks like.
+
+Not a man proving he’s a man.
+
+Not a boy trying to provide.
+
+A person learning, finally, that self-respect isn’t indulgence.
+
+It’s maintenance.
+
+And because Charli was choosing it—choosing to be kept, to be guided, to take standards seriously—Celeste could feel her own feelings deepening into something that had nothing to do with romance fog and everything to do with alignment.
+
+Winter wind battered the courtyard outside.
+
+Inside, the Nymph line held.
+
+And Charli, in the middle of it all, moved like someone who had stopped fighting his own existence minute by minute.
+
+Not “fixed.”
+
+Just supported.
+
+Which—Celeste realised, watching him write another note with that careful hand—was as close to safe as anyone ever really got.
+
+And for the first time all day, she let herself feel it, just for a breath:
+
+Relief.
+
+Then she picked up the next swatch and kept working.
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+Absolutely. I see what you were reaching for in that sketch — and you’ve already got *most* of the tonal machinery in place (systems, standards, “keep it clean,” Charli’s infrastructure reflex). The missing piece is simply: **this happens at Wardrobe, not out in the Faire public**, and the “barging man” needs to be an *actual access breach*, not just a snide comment.
+
+Here’s a full **Scene 38** draft in **Celeste POV**, with **Charli as she/her**, and with a man who genuinely believes rules don’t apply to him — until a wall of women quietly demonstrates otherwise.
+
+### Title options (pick one)
+
+* **“Door Policy”** (my favourite: it’s clean, procedural, and faintly ominous)
+* **“Breach”**
+* **“No Appointment”**
+* **“Public Access”** (ironic)
+* **“Entitlement”** (blunt, but accurate)
+
+## Scene 38 — “Door Policy” (Celeste POV)
+
+That night, after Lauren left, the house felt too quiet.
+
+Not peaceful-quiet. Charged-quiet. The kind that made you hear your own thoughts as if they were coming from the next room.
+
+Charli moved around the kitchen cleaning a surface that was already clean. Wiping, folding, lining things up. Infrastructure as self-soothing.
+
+I watched from the doorway and felt a tightness low in my chest that had nothing to do with romance and everything to do with pattern recognition:
+
+She was still trying to earn the right to exist.
+
+Not with money. Not with grand gestures.
+
+With usefulness — as if being useful enough would prevent regret.
+
+I didn’t let that stand.
+
+I picked up my phone, opened the calendar, and walked to the table.
+
+“Come here,” I said.
+
+Charli froze, cloth in hand, like she’d been caught doing something wrong.
+
+“What?”
+
+I didn’t soften it into a question. Softness would make it feel negotiable, and this wasn’t a negotiation.
+
+“We’re scheduling,” I said. “Appointments. Transport. Meals. Reminders.”
+
+Her throat bobbed. “I can do it.”
+
+“I know you can,” I said. “That’s not the point.”
+
+She blinked at me.
+
+I held her gaze, calm and unflinching.
+
+“The point,” I said, “is you don’t do it alone.”
+
+Her eyes dropped. Shame rose up fast in her face — not because she was ashamed of needing help, but because she’d been trained to treat needing help as a moral failure.
+
+I didn’t indulge that training. I corrected it.
+
+I tapped the screen. “Tell me the date.”
+
+She hesitated, then told me.
+
+I entered it. Then the next. Then travel time. Then a reminder the night before: **eat**. Another reminder an hour before: **water**. Another: **don’t scroll at midnight** — because Lauren had been right about one thing Charli didn’t admit out loud: when she was scared, she went looking for answers in the dark.
+
+Charli watched me do it like she was watching someone build a scaffold at the edge of a drop.
+
+When I finished, I turned the phone toward her.
+
+“Screenshot that,” I said. “It’s ours. Not yours. Ours.”
+
+She swallowed.
+
+“Okay,” she whispered.
+
+I waited a beat. Then I added, quieter — because I wanted the sentence to land without becoming a moment.
+
+“And if you’re scared,” I said, “you tell me. Not the internet.”
+
+Her eyes closed for a second.
+
+“Okay,” she said again. Softer this time. Relieved.
+
+I felt the warm, terrible pull — my body responding to her relief — and kept it clean.
+
+This wasn’t romance.
+
+This was repair.
+
+I didn’t touch her. I didn’t reward her. I didn’t turn her fear into my power.
+
+I only said, as plain as policy:
+
+“We sleep. Tomorrow is work.”
+
+She nodded, as if being told “tomorrow exists” was its own kind of safety.
+
+---
+
+In the morning, Wardrobe smelled like steam and wool and the metallic tang of needles that had been moving for too long.
+
+The studio was awake before most people were. Not because we loved it. Because when you scaled a business, the clock stopped being decorative.
+
+Mara was already at the long table when we came in, ledger open, pencil moving. She didn’t look up to greet us. Mara didn’t waste attention on ceremony.
+
+Charli came in behind me with garment bags hooked over her arm, her coat damp at the shoulders from the drizzle outside. Hair tied back in the practical knot — not fussy, not perfect, but secure.
+
+Maintained.
+
+It was still new enough on her that my mind tried to turn it into an emotion.
+
+I refused.
+
+I logged it instead: baseline improved.
+
+Mara glanced up once — one flick of the eyes — took in Charli’s hair, her clean collar, her steady hands, and said, flatly:
+
+“Good. Less contamination risk.”
+
+That was Mara’s version of praise. That was also Mara’s version of love, if you wanted to be charitable.
+
+Charli nodded as if that sentence belonged in a normal world. In here, it did.
+
+Sarah came in five minutes later, scarf half-off, cheeks pink from the cold, expression already sharpened into humour.
+
+“Christ, it’s wet,” she announced, as if we hadn’t noticed. “Victoria does winter like it’s got something to prove.”
+
+She glanced at Charli, saw the tied hair, the steady face, and did that tiny nod she only did when she approved of something but refused to be sentimental about it.
+
+Then she dropped a crate of findings on the table like a verdict and went to work.
+
+Everything was normal.
+
+Which was the point.
+
+When you wanted a change to stick, you treated it as routine.
+
+---
+
+At nine-thirty, the doorbell rang.
+
+Not the polite ring of a client who had booked in and read the email.
+
+Not the light tap of a courier.
+
+The doorbell that said: *I’m here and I assume you’ll accommodate me.*
+
+I felt it before anyone moved — that tiny shift in the room where attention reorients to a boundary.
+
+Mara didn’t look up from the ledger.
+
+Sarah muttered, “For fuck’s sake,” in the tone she reserved for men who treated the world like a lounge room.
+
+Charli went still for half a second, then picked up a tote and moved it out of the walkway without being asked.
+
+Infrastructure.
+
+I walked to the front, because I was nearest and because it was my house too, in the only way that mattered: I held standards here.
+
+I opened the door.
+
+A man stood on the step like he’d been built in a factory that specialised in confidence. Mid-thirties, expensive jacket, phone already in his hand. The expression was friendly — the kind of friendly men used when they assumed friendliness would get them access.
+
+“Hey,” he said, already stepping forward. “I’m just—”
+
+I didn’t move aside.
+
+I didn’t smile. I didn’t frown. I simply held the doorway like it was a line painted on concrete.
+
+“Do you have an appointment?” I asked.
+
+He blinked, as if appointment was an odd word to hear from a young woman in an apron.
+
+“No, but—” He lifted his phone, flashing something on the screen. “I messaged. I’m in the area. Thought I’d pop in. I’ve got a project and I—”
+
+“Then you need an appointment,” I said.
+
+He laughed, a little, as if I were teasing him.
+
+“Come on, it’ll take two minutes,” he said, and tried to angle his body past me.
+
+I stepped half a pace forward so he couldn’t. Not aggressive. Just… physics.
+
+Behind me, I heard Sarah’s chair scrape.
+
+Mara’s pencil stopped.
+
+The room had noticed.
+
+The man’s smile tightened. “Is Mara here?”
+
+“Yes,” I said.
+
+“Great. I’ll talk to her.”
+
+“No,” I said. “You’ll book.”
+
+His eyebrows lifted.
+
+I could see the calculation happen: *Is she serious? Is this a game? Can I push?*
+
+He pushed.
+
+“I’m not trying to be difficult,” he said, voice pitched into that calm-man register. “I’m a paying customer. I’ve seen your stuff online. I’m literally here ready to spend money.”
+
+Money. The universal male key they thought opened every lock.
+
+I didn’t change my expression.
+
+“We’re not a shopfront,” I said. “We’re a working studio. We fit by appointment.”
+
+He made a noise — half amused, half annoyed.
+
+“Right, okay, but I’m not a creep,” he said, and this was the giveaway. Nobody had called him one. He’d just told on himself.
+
+He lifted his phone again, camera lens angled toward the inside of the studio.
+
+“I just want a quick look—”
+
+“Don’t,” I said.
+
+One syllable. Flat.
+
+He paused, surprised.
+
+“Photography of staff and workspace is not permitted,” I said. “Put your phone away.”
+
+He stared at me as if I’d just said the sky was green.
+
+“Are you serious?” he asked, laughing again, louder this time, aiming to pull the room into social compliance. “It’s just a video. It’s free promo for you.”
+
+From behind me, Mara spoke for the first time. Her voice carried without effort.
+
+“Put your phone away,” Mara said, the same way she’d say, *don’t put pins in your mouth.* Not angry. Not negotiable.
+
+The man’s attention snapped to Mara like a compass to a magnet.
+
+“Hey,” he said, smile returning, bigger now. “Mara, right? Love your work. I’m—”
+
+“I know who you are,” Mara said.
+
+That made him pause again.
+
+Mara stood and came toward us, ledger still in hand. Not rushing. Not dramatic. The ledger was what made it threatening — the implication of record.
+
+“You messaged at midnight,” Mara continued. “You got an auto-reply. It told you how to book.”
+
+He blinked. “I didn’t read—”
+
+“I know,” Mara said.
+
+A beat.
+
+The air went colder in a way that had nothing to do with weather.
+
+The man tried another angle — the one men always tried when they wanted women to bend without being seen to bend.
+
+“Look, I’m not trying to break rules,” he said, voice softening, coaxing. “I just thought you’d want to meet. I’ve got contacts. There’s a lot of exposure potential here.”
+
+Exposure.
+
+Another currency men believed mattered more than labour.
+
+Sarah drifted up behind Mara, arms folded, expression bored.
+
+“I love when they offer you exposure like it pays the rent,” she said.
+
+The man looked at Sarah, startled by being addressed by a woman who clearly didn’t care whether he liked her.
+
+He tried to recover with a chuckle.
+
+“Okay, okay, I get it. You’re all tough. Respect.” He lifted his hands as if he were surrendering in a game. “Can I just talk to… her?” He nodded past me toward the studio interior, toward Charli.
+
+I felt Charli’s presence shift behind me — the smallest tension, the instinct to shrink.
+
+I didn’t turn around.
+
+I didn’t give him access to her with a glance.
+
+“No,” I said.
+
+He frowned. “Why not? She works here, doesn’t she?”
+
+“She works here,” I said, “and she is not a public resource.”
+
+His smile faltered. “I’m not—”
+
+“I don’t care what you are,” Sarah cut in. “You’re outside. Stay outside.”
+
+Mara lifted the ledger slightly, like a gavel.
+
+“Here’s what happens next,” Mara said. “You book. We schedule. You arrive at your time. You get measured. You pay a deposit. You behave like a client, not a trespasser.”
+
+The word *trespasser* landed.
+
+The man’s cheeks flushed.
+
+He looked around as if expecting another man to appear and validate him, to laugh this off and restore the world to the version where women were porous.
+
+No one did.
+
+He looked back at me. Tried for charm again, smaller this time.
+
+“Fine,” he said. “Can I have an email address?”
+
+Mara didn’t give it. Mara never gave anything to men who pushed.
+
+“It’s on the website,” Mara said.
+
+He opened his mouth.
+
+I cut it clean.
+
+“Put your phone away,” I repeated. “And step back.”
+
+He stared.
+
+Then, slowly — because he’d finally understood that the room would not bend — he lowered his phone and took a step down off the threshold.
+
+Good.
+
+Compliance.
+
+I didn’t say thank you. Thank you would imply a favour. This wasn’t a favour. This was the minimum.
+
+Mara nodded once, as if confirming a stitch had held.
+
+Sarah’s mouth twitched in something like satisfaction.
+
+I stepped back and closed the door.
+
+Not slammed. Not theatrical.
+
+Closed.
+
+The lock clicked.
+
+The sound was small.
+
+It was everything.
+
+---
+
+For a moment, the studio was very quiet.
+
+Not because anyone was afraid.
+
+Because everyone was letting the consequence settle into place.
+
+Charli stood by the packing table with her hands on a tote handle, face composed in that careful way she wore when she didn’t want to become a problem.
+
+I watched her shoulders — the micro-tension still there, the old reflex to shrink away from male attention.
+
+Then I watched her do something that, a few months ago, she would not have done.
+
+She inhaled.
+
+She let it out.
+
+She returned to the tote.
+
+She kept working.
+
+She did not apologise for existing.
+
+I felt relief spark in me — brief, sharp.
+
+Mara returned to the ledger as if nothing had happened. That was Mara’s method: once corrected, the breach did not become an event.
+
+Sarah gave Charli a look — not pity, not tease. A simple, almost-sisterly check-in.
+
+“You alright?” she asked, under her breath.
+
+Charli nodded. “Yeah.”
+
+Sarah clicked her tongue. “Good. Because if he comes back, I’m throwing the grommet box at him.”
+
+Charli’s mouth twitched — almost-smile, then control restored.
+
+I went back to my table and picked up my pencil.
+
+My hand was steady.
+
+That mattered too.
+
+Because leadership wasn’t only about blocking doors.
+
+It was about what you did after.
+
+You didn’t hover. You didn’t baby. You didn’t turn someone into a victim to prove you were a protector.
+
+You just made the studio safe enough that work could continue.
+
+And you taught — without speeches — that *a man’s entitlement did not get to become the day’s weather.*
+
+I ran my eyes over the work list and said, calmly, to the room:
+
+“Back to it.”
+
+The machine resumed.
+
+Steam. Fabric. Labels. Systems.
+
+Women doing what they do without asking permission.
+
+And in the middle of it, Charli stayed upright.
+
+Not because she’d “toughened up.”
+
+Because the room had held.
+
+Because the door had held.
+
+Because the standard had held.
+
+---
+
+Later — not immediately, not as a reward, not as a soothing gesture — I passed Charli on my way to the cutting table.
+
+She was aligning a stack of pattern pieces, edges squared with a precision that looked like a prayer.
+
+I paused long enough to be noticed and said, quiet and factual:
+
+“That wasn’t about you.”
+
+Charli’s eyes flicked up.
+
+I didn’t soften. I didn’t turn it into comfort.
+
+“It was about him thinking he could come in,” I continued. “He was wrong.”
+
+A beat.
+
+Charli nodded once, slow.
+
+“Okay,” she said.
+
+Then, after another beat — braver — she added:
+
+“Thank you.”
+
+I held her gaze.
+
+“Of course,” I said. Not warm. Not cold. Certain.
+
+Then I moved on.
+
+Because she didn’t need more than that.
+
+She needed the certainty.
+
+She needed the rule.
+
+She needed the knowledge — written into her nervous system the way we wrote policies into the studio — that her body was not a public thoroughfare, and her existence was not a debate.
+
+And if some man tried again, tomorrow or next week or next year?
+
+He’d meet the same thing.
+
+A closed door.
+
+A ledger.
+
+A room of women who did not negotiate with entitlement.
+
+And Charli, slowly, learning to stop negotiating with it inside herself.
+
+---
+
+If you want, Scene 39 can be a tiny “after-action” beat that makes this land even harder: Mara adds a **one-line** policy to the front door / website (“WORKING STUDIO — APPOINTMENTS ONLY — NO WALK-INS — NO FILMING”) and Lauren, when she hears about it, doesn’t thank anyone — she just says, *Good. That’s correct.*
+
+But Scene 38 as-is should punch exactly where you wanted: **male assumption → immediate consequence → no spectacle → Charli remains whole.**
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+
+### ✨ smsmsm ✨
+
+
+
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
