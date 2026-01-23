@@ -208,5 +208,33 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+## Test Images
+
+<img src="/assets/images/tests/test01.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+<img src="/assets/images/tests/test02.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+<img src="/assets/images/tests/test03.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+<img src="/assets/images/tests/test04.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+<img src="/assets/images/tests/test05.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
