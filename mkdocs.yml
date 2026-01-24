@@ -35,7 +35,7 @@ theme:
     - content.code.copy
 
 extra_css:
-  - assets/css/customc.css
+  - stylesheets/custom.css
 
 nav:
   - Home: index.md
@@ -53,6 +53,7 @@ nav:
     - Careful Ideas Now: Dev/Careful.md
     - ComfyUI Guidance: Dev/Comfyui.md
     - Domain Transfer: Dev/DomXfer.md
+    - General Queries: Dev/General.md
     - Image Prompts: Dev/Prompts.md
   - Blogs:
     - blogs/index.md
@@ -98,15 +99,19 @@ nav:
     - Emily 26.01.21: Emily/Notes2026-01-21.md
     - Emily 26.01.22: Emily/Notes2026-01-22.md
     - Emily 26.01.23: Emily/Notes2026-01-23.md
-    - Emily Template: Emily/Notes2026-20-00.md
+    - Emily 26.01.24: Emily/Notes2026-01-24.md
+    - Emily 26.01.25: Emily/Notes2026-01-25.md
+    - Emily Template-A: Emily/Notes2026-20-0a.md
+    - Emily Template-B: Emily/Notes2026-20-0b.md
   - Visual Art:
     - visual/index.md
-    - ComfyUI: visual/Comfyui.md
-    - AI & Emily: visual/Emilyai.md
     - 2nd Person: visual/Person2.md
-    - QwenPrompt: visual/QwenPro.md
-    - GIMP Tips: visual/GimpTips.md
+    - AI & Emily: visual/Emilyai.md
+    - BBoxSEGS: visual/BBoxSEGS.md
+    - ComfyUI: visual/Comfyui.md
     - FluxGym: visual/FluxGym.md
+    - GIMP Tips: visual/GimpTips.md
+    - QwenPrompt: visual/QwenPro.md
     - Videos: visual/Videos.md
     - VScripts: visual/VScripts.md
     
