@@ -1247,9 +1247,61 @@ If ZiT is still “tempted” to glam the fabric, you can add one extra *affirma
 
 If you want, I can also do a **Variant C** that’s *explicitly full-body, portrait orientation, and includes the hem + shoes in a way that survives cropping* (very useful if ZiT keeps giving you lovely images that mysteriously cut off the feet).
 
-
-
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## A1111 to ComfyUI
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+As of my last knowledge update in September 2021, I'm not familiar with a user interface called "ComfyUI" in relation to Stable Diffusion or as a competitor to "Automatic1111." It's possible that these developments have occurred after my knowledge cutoff date.
+
+If "ComfyUI" is a recent development or a specialized tool, I recommend checking the official website or resources related to Stable Diffusion to gather more information about this user interface and its features. Additionally, you might find user reviews, forums, or discussions online that could provide insights into the tool's capabilities and how it compares to other solutions like "Automatic1111."
+
+If you have any other questions or need assistance with a different topic, feel free to ask!
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Google Image Search
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+## Google Image Search
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 

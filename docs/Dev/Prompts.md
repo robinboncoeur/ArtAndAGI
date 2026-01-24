@@ -52,7 +52,6 @@ This is a fitting range-of-motion test: his arms are raised, one hand pinches th
 
 The worktable is close in frame with a sewing machine, a red thread spool, indigo wool fabric pieces, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder, making the scene feel like a candid documentary moment in an active atelier.
 
-
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
@@ -63,6 +62,85 @@ The worktable is close in frame with a sewing machine, a red thread spool, indig
 
 
 ## SRPO
+
+<img src="/assets/images/notes26a/N260116af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Flux Kontext
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Designer Blouses
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[Q]  
+Good morning. What are the top high-fashion, classic business woman designer blouses that you are aware of?
+
+---
+
+[A]
+As of my last knowledge update in September 2021, there are several high-fashion designers known for creating classic and stylish blouses suitable for business women. Keep in mind that fashion trends can change, so it's a good idea to research the latest collections from these designers or others that may have emerged since then. Here are a few well-known designers known for their elegant blouses:
+
+1. **Victoria Beckham**: Known for her sophisticated and modern designs, Victoria Beckham offers a range of tailored blouses that are both stylish and business-appropriate.
+
+2. **Diane von Furstenberg**: This iconic designer is famous for her wrap dresses, but she also creates elegant blouses that are versatile for both professional and casual settings.
+
+3. **Stella McCartney**: Renowned for her sustainable and luxury designs, Stella McCartney offers a variety of chic blouses that can be dressed up for business occasions.
+
+4. **Ralph Lauren**: The Ralph Lauren brand is synonymous with classic American style. Their blouses often feature timeless silhouettes and quality materials.
+
+5. **Givenchy**: Known for their refined aesthetic, Givenchy offers blouses with elegant detailing and craftsmanship that can elevate any business outfit.
+
+6. **Max Mara**: This Italian brand specializes in creating elegant and timeless pieces, including blouses that are suitable for a business environment.
+
+7. **Tory Burch**: Known for her preppy-chic designs, Tory Burch offers blouses that blend sophistication with a touch of playfulness.
+
+8. **Prada**: Prada blouses often exude a sense of luxury and sophistication, making them a great choice for business attire.
+
+9. **Boss**: The Hugo Boss brand offers a wide range of business attire, including blouses that are known for their tailored elegance.
+
+10. **Michael Kors**: Michael Kors designs often incorporate classic elements with modern twists, creating blouses that are versatile and suitable for various occasions.
+
+Remember that personal preferences vary, and what might be considered a classic business blouse can differ from person to person. It's always a good idea to visit the official websites of these designers, explore their current collections, and see which blouses align with your style and business needs.
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Google Image Search
+
+<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -75,7 +153,21 @@ The worktable is close in frame with a sewing machine, a red thread spool, indig
 
 
 
-## Flux Kontext
+
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
 
 
 
