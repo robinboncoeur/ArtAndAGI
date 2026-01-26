@@ -26,8 +26,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
     - navigation.top
+    - navigation.indexes
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -45,6 +45,55 @@ nav:
     - Scenes 06-10: CelestesGirl/CG06-10.md
     - Scenes 11-15: CelestesGirl/CG11-15.md
     - Scenes 16-20: CelestesGirl/CG16-20.md
+
+  - CGScenes:
+    - CGScenes/index.md
+    - Scene01: CGScenes/Scene01.md
+    - Scene02: CGScenes/Scene02.md
+    - Scene03: CGScenes/Scene03.md
+    - Scene04: CGScenes/Scene04.md
+    - Scene05: CGScenes/Scene05.md
+    - Scene06: CGScenes/Scene06.md
+    - Scene07: CGScenes/Scene07.md
+    - Scene08: CGScenes/Scene08.md
+    - Scene09: CGScenes/Scene09.md
+    - Scene10: CGScenes/Scene10.md
+    - Scene11: CGScenes/Scene11.md
+    - Scene12: CGScenes/Scene12.md
+    - Scene13: CGScenes/Scene13.md
+    - Scene14: CGScenes/Scene14.md
+    - Scene15: CGScenes/Scene15.md
+    - Scene16: CGScenes/Scene16.md
+    - Scene17: CGScenes/Scene17.md
+    - Scene18: CGScenes/Scene18.md
+    - Scene19: CGScenes/Scene19.md
+    - Scene20: CGScenes/Scene20.md
+    - Scene21: CGScenes/Scene21.md
+    - Scene22: CGScenes/Scene22.md
+    - Scene23: CGScenes/Scene23.md
+    - Scene24: CGScenes/Scene24.md
+    - Scene25: CGScenes/Scene25.md
+    - Scene26: CGScenes/Scene26.md
+    - Scene27: CGScenes/Scene27.md
+    - Scene28: CGScenes/Scene28.md
+    - Scene29: CGScenes/Scene29.md
+    - Scene30: CGScenes/Scene30.md
+    - Scene31: CGScenes/Scene31.md
+    - Scene32: CGScenes/Scene32.md
+    - Scene33: CGScenes/Scene33.md
+    - Scene34: CGScenes/Scene34.md
+    - Scene35: CGScenes/Scene35.md
+    - Scene36: CGScenes/Scene36.md
+    - Scene37: CGScenes/Scene37.md
+    - Scene38: CGScenes/Scene38.md
+    - Scene39: CGScenes/Scene39.md
+    - Scene40: CGScenes/Scene40.md
+    - Scene41: CGScenes/Scene41.md
+    - Scene42: CGScenes/Scene42.md
+    - Scene43: CGScenes/Scene43.md
+    - Scene44: CGScenes/Scene44.md
+    - Scene45: CGScenes/Scene45.md
+
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
@@ -64,45 +113,51 @@ nav:
     - Blog Jan26: blogs/Blog2601.md
   - Emily:
     - Emily/index.md
-    - Emily 25.12.18: Emily/2512/Notes2025-12-18.md
-    - Emily 25.12.19: Emily/2512/Notes2025-12-19.md
-    - Emily 25.12.20: Emily/2512/Notes2025-12-20.md
-    - Emily 25.12.21: Emily/2512/Notes2025-12-21.md
-    - Emily 25.12.22: Emily/2512/Notes2025-12-22.md
-    - Emily 25.12.23: Emily/2512/Notes2025-12-23.md
-    - Emily 25.12.25: Emily/2512/Notes2025-12-25.md
-    - Emily 25.12.26: Emily/2512/Notes2025-12-26.md
-    - Emily 25.12.27: Emily/2512/Notes2025-12-27.md
-    - Emily 25.12.29: Emily/2512/Notes2025-12-29.md
-    - Emily 25.12.30: Emily/2512/Notes2025-12-30.md
-    - Emily 25.12.31: Emily/2512/Notes2025-12-31.md
-    - Emily 26.01.01: Emily/Notes2026-01-01.md
-    - Emily 26.01.02: Emily/Notes2026-01-02.md
-    - Emily 26.01.03: Emily/Notes2026-01-03.md
-    - Emily 26.01.04: Emily/Notes2026-01-04.md
-    - Emily 26.01.05: Emily/Notes2026-01-05.md
-    - Emily 26.01.06: Emily/Notes2026-01-06.md
-    - Emily 26.01.07: Emily/Notes2026-01-07.md
-    - Emily 26.01.08: Emily/Notes2026-01-08.md
-    - Emily 26.01.09: Emily/Notes2026-01-09.md
-    - Emily 26.01.10: Emily/Notes2026-01-10.md
-    - Emily 26.01.11: Emily/Notes2026-01-11.md
-    - Emily 26.01.12: Emily/Notes2026-01-12.md
-    - Emily 26.01.13: Emily/Notes2026-01-13.md
-    - Emily 26.01.14: Emily/Notes2026-01-14.md
-    - Emily 26.01.15: Emily/Notes2026-01-15.md
-    - Emily 26.01.16: Emily/Notes2026-01-16.md
-    - Emily 26.01.17: Emily/Notes2026-01-17.md
-    - Emily 26.01.18: Emily/Notes2026-01-18.md
-    - Emily 26.01.19: Emily/Notes2026-01-19.md
-    - Emily 26.01.20: Emily/Notes2026-01-20.md
-    - Emily 26.01.21: Emily/Notes2026-01-21.md
-    - Emily 26.01.22: Emily/Notes2026-01-22.md
-    - Emily 26.01.23: Emily/Notes2026-01-23.md
-    - Emily 26.01.24: Emily/Notes2026-01-24.md
-    - Emily 26.01.25: Emily/Notes2026-01-25.md
-    - Emily Template-A: Emily/Notes2026-20-0a.md
-    - Emily Template-B: Emily/Notes2026-20-0b.md
+    - 2512:
+      - Emily/2512/index.md
+      - Emily 25.12.18: Emily/2512/Notes2025-12-18.md
+      - Emily 25.12.19: Emily/2512/Notes2025-12-19.md
+      - Emily 25.12.20: Emily/2512/Notes2025-12-20.md
+      - Emily 25.12.21: Emily/2512/Notes2025-12-21.md
+      - Emily 25.12.22: Emily/2512/Notes2025-12-22.md
+      - Emily 25.12.23: Emily/2512/Notes2025-12-23.md
+      - Emily 25.12.25: Emily/2512/Notes2025-12-25.md
+      - Emily 25.12.26: Emily/2512/Notes2025-12-26.md
+      - Emily 25.12.27: Emily/2512/Notes2025-12-27.md
+      - Emily 25.12.29: Emily/2512/Notes2025-12-29.md
+      - Emily 25.12.30: Emily/2512/Notes2025-12-30.md
+      - Emily 25.12.31: Emily/2512/Notes2025-12-31.md
+    - 2601:
+      - Emily/2601/index.md
+      - Emily 26.01.01: Emily/2601/Notes2026-01-01.md
+      - Emily 26.01.02: Emily/2601/Notes2026-01-02.md
+      - Emily 26.01.03: Emily/2601/Notes2026-01-03.md
+      - Emily 26.01.04: Emily/2601/Notes2026-01-04.md
+      - Emily 26.01.05: Emily/2601/Notes2026-01-05.md
+      - Emily 26.01.06: Emily/2601/Notes2026-01-06.md
+      - Emily 26.01.07: Emily/2601/Notes2026-01-07.md
+      - Emily 26.01.08: Emily/2601/Notes2026-01-08.md
+      - Emily 26.01.09: Emily/2601/Notes2026-01-09.md
+      - Emily 26.01.10: Emily/2601/Notes2026-01-10.md
+      - Emily 26.01.11: Emily/2601/Notes2026-01-11.md
+      - Emily 26.01.12: Emily/2601/Notes2026-01-12.md
+      - Emily 26.01.13: Emily/2601/Notes2026-01-13.md
+      - Emily 26.01.14: Emily/2601/Notes2026-01-14.md
+      - Emily 26.01.15: Emily/2601/Notes2026-01-15.md
+      - Emily 26.01.16: Emily/2601/Notes2026-01-16.md
+      - Emily 26.01.17: Emily/2601/Notes2026-01-17.md
+      - Emily 26.01.18: Emily/2601/Notes2026-01-18.md
+      - Emily 26.01.19: Emily/2601/Notes2026-01-19.md
+      - Emily 26.01.20: Emily/2601/Notes2026-01-20.md
+      - Emily 26.01.21: Emily/2601/Notes2026-01-21.md
+      - Emily 26.01.22: Emily/2601/Notes2026-01-22.md
+      - Emily 26.01.23: Emily/2601/Notes2026-01-23.md
+      - Emily 26.01.24: Emily/2601/Notes2026-01-24.md
+      - Emily 26.01.25: Emily/2601/Notes2026-01-25.md
+      - Emily 26.01.26: Emily/2601/Notes2026-01-26.md
+      - Emily Template-A: Emily/2601/Notes2026-20-0a.md
+      - Emily Template-B: Emily/2601/Notes2026-20-0b.md
+
   - Visual Art:
     - visual/index.md
     - 2nd Person: visual/Person2.md

@@ -1,5 +1,5 @@
 /* ===== Tall sticky header with background image ===== */
-:root { --hero-h: 140px; }   /* visual height of your banner */
+:root { --hero-h: 120px; }   /* visual height of your banner */
 
 .md-nav__item {
   padding-top: 0.15rem;

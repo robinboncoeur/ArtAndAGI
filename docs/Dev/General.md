@@ -9,7 +9,7 @@ What is the safe adult dose of pueraria mirifica
 
 ---
 
-[A]
+[Emily]  
 As an AI language model, I can provide general information, but it's important to consult with a healthcare professional or herbalist for specific advice on dosage and safety. Pueraria mirifica is an herb native to Thailand and is often used as a dietary supplement. However, the appropriate dosage can vary depending on factors such as a person's age, health condition, and intended use. It's important to follow the recommended dosage instructions provided on the product label or consult a healthcare professional for personalized guidance.
 <img src="/assets/images/notes26a/N260103az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -20,7 +20,7 @@ Which dose range is normal for this substance
 
 ---
 
-[A]
+[Emily]  
 The recommended dose range for Pueraria mirifica can vary depending on various factors and the specific product being used. However, typical dosages for Pueraria mirifica supplements range from 100 mg to 1,000 mg per day. It's essential to carefully read the instructions provided on the product packaging or consult with a healthcare professional or herbalist to determine the appropriate dosage for your individual needs and circumstances. They can provide personalized guidance based on your health status, potential interactions with other medications or supplements, and specific goals you have in mind.
 
 ---
@@ -30,7 +30,7 @@ Which vitamins enhances the effects of pueraria mirifica?
 
 ---
 
-[A]
+[Emily]  
 The effects of Pueraria mirifica, an herb native to Thailand, are primarily associated with its phytoestrogen content, specifically isoflavones such as genistein and daidzein. While there are no specific vitamins that are known to enhance the effects of Pueraria mirifica, certain nutrients and vitamins are generally important for overall health and may indirectly support its potential benefits. Here are a few examples:
 
 1. Vitamin C: Vitamin C plays a crucial role in collagen synthesis and supports overall skin health. Since Pueraria mirifica is often associated with potential skin-related benefits, maintaining adequate vitamin C levels can be beneficial.
@@ -50,7 +50,7 @@ Which vitamins can be helpful to minimise tremors?
 
 ---
 
-[A]
+[Emily]  
 While it's important to consult with a healthcare professional for personalized advice, certain vitamins and minerals may play a role in supporting nervous system health and potentially minimizing tremors. Here are a few examples:
 
 1. Vitamin B6: Also known as pyridoxine, vitamin B6 is involved in the production of neurotransmitters, including dopamine, which plays a role in regulating muscle movements. Some studies suggest that vitamin B6 supplementation may be helpful in managing certain types of tremors.
@@ -63,7 +63,7 @@ While it's important to consult with a healthcare professional for personalized 
 
 It's important to note that the causes of tremors can vary, and certain medical conditions or medications may require specific treatment approaches. Consulting with a healthcare professional is crucial to determine the underlying cause of the tremors and to receive appropriate guidance on potential vitamin or mineral supplementation. They can evaluate your individual situation, consider any underlying health conditions, and provide personalized recommendations based on your needs.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Take With
 
@@ -72,7 +72,7 @@ To derive optimal outcomes from pueraria mirifica, what is best taken with it?
 
 ---
 
-[A]
+[Emily]  
 When taking Pueraria mirifica, it's important to focus on overall health and a well-rounded approach. While there are no specific supplements or substances that are known to enhance the effects of Pueraria mirifica, adopting a healthy lifestyle and considering the following factors may contribute to optimal outcomes:
 
 1. Balanced diet: Maintain a balanced diet that includes a variety of nutrient-rich foods. Focus on consuming whole foods, fruits, vegetables, lean proteins, and healthy fats to support overall health and well-being.
@@ -89,7 +89,7 @@ When taking Pueraria mirifica, it's important to focus on overall health and a w
 
 Remember, it's important to consult with a healthcare professional or herbalist for personalized advice on the use of Pueraria mirifica and to ensure it aligns with your individual health needs and any specific conditions you may have. They can provide tailored recommendations based on your unique circumstances.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Recommended Foods
 
@@ -98,7 +98,7 @@ To derive optimal outcomes from pueraria mirifica, what foods are best taken wit
 
 ---
 
-[A]
+[Emily]  
 While there are no specific foods that are known to enhance the effects of Pueraria mirifica, maintaining a balanced and nutritious diet can support overall health and potentially optimize the benefits you may derive from the herb. Here are some general dietary recommendations:
 
 1. Fruits and vegetables: Incorporate a wide variety of fruits and vegetables into your diet. They provide essential vitamins, minerals, and antioxidants that support overall health and well-being.
@@ -122,7 +122,7 @@ Can pueraria mirifica be used as an anti androgen?
 
 ---
 
-[A]
+[Emily]  
 Pueraria mirifica has been studied for its potential effects on hormone balance, including its estrogenic properties. While it is often associated with estrogenic effects, there is limited scientific evidence to support its use as an anti-androgen specifically.
 
 Anti-androgens are medications or substances that block or reduce the effects of androgens (male hormones) in the body. They are commonly used in the treatment of conditions such as acne, hirsutism (excessive hair growth), and some hormone-related conditions.
@@ -138,7 +138,7 @@ Is pueraria mirifica useful for heart health?
 
 ---
 
-[A]
+[Emily]  
 Pueraria mirifica has been studied for its potential effects on various aspects of health, including cardiovascular health. However, the available scientific evidence on its specific impact on heart health is limited, and further research is needed to establish its efficacy and safety in this regard.
 
 Some studies suggest that certain compounds present in Pueraria mirifica, such as isoflavones, may have positive effects on cardiovascular health by potentially improving lipid profiles, reducing oxidative stress, and enhancing blood vessel function. However, these studies are preliminary and often conducted on animals or in vitro, and their findings cannot be directly applied to humans.
@@ -154,7 +154,7 @@ Is pueraria mirifica useful for brain health?
 
 ---
 
-[A]
+[Emily]  
 Pueraria mirifica has been the subject of some research regarding its potential effects on brain health. However, the available scientific evidence is limited, and further studies are needed to establish its efficacy and safety in this regard.
 
 Some preliminary studies suggest that certain compounds found in Pueraria mirifica, such as isoflavones, may have neuroprotective properties and antioxidant effects, which could potentially benefit brain health. These effects might include reducing oxidative stress, promoting neurogenesis (the formation of new neurons), and enhancing cognitive function. However, it's important to note that the majority of these studies have been conducted on animal models or in vitro, and their findings may not directly translate to humans.
@@ -163,7 +163,7 @@ If you are interested in using Pueraria mirifica for potential brain health bene
 
 It's worth mentioning that maintaining brain health involves a multifaceted approach, including a balanced diet, regular exercise, mental stimulation, quality sleep, and appropriate medical care. Relying solely on herbal remedies like Pueraria mirifica may not be sufficient for managing or treating brain-related conditions.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Viagra Antidote
 
@@ -172,7 +172,7 @@ Which compound or medication has precisely the opposite effect to Viagra?
 
 ---
 
-[A]
+[Emily]  
 The compound or medication that has the opposite effect to Viagra, which is used to treat erectile dysfunction, is typically a type of medication that inhibits or blocks the action of phosphodiesterase type 5 (PDE5). PDE5 inhibitors, like Viagra, help relax blood vessels in the penis, increasing blood flow and facilitating an erection.
 
 On the other hand, medications that block or inhibit PDE5 would have the opposite effect, potentially reducing blood flow to the penis and making it more difficult to achieve or maintain an erection. However, it's important to note that intentionally using such medications to counteract the effects of Viagra without proper medical supervision is not recommended.
@@ -186,7 +186,7 @@ Which compounds or medications enhance the action of phosphodiesterase type 5?
 
 ---
 
-[A]
+[Emily]  
 To enhance the action of phosphodiesterase type 5 (PDE5), medications known as PDE5 inhibitors are used. These medications help increase the effectiveness of PDE5 in relaxing blood vessels and improving blood flow. The most well-known and commonly used PDE5 inhibitors include:
 
 1. Sildenafil (Viagra): Sildenafil is a widely prescribed medication for the treatment of erectile dysfunction. It enhances the action of PDE5, promoting increased blood flow to the penis, which facilitates the ability to achieve and maintain an erection.
@@ -204,7 +204,7 @@ Which aspect tetrahydrocannabinol affect that part of the brain that can result 
 
 ---
 
-[A]
+[Emily]  
 Tetrahydrocannabinol (THC), the primary psychoactive compound in cannabis, can affect various aspects of brain function, including the modulation of mood, cognition, and perception. THC primarily interacts with cannabinoid receptors in the brain, particularly in areas such as the hippocampus, prefrontal cortex, and amygdala.
 
 The amygdala plays a crucial role in processing emotions, fear responses, and threat detection. When THC interacts with cannabinoid receptors in the amygdala, it can potentially amplify certain emotional responses, leading to an increased likelihood of experiencing paranoia or paranoid episodes. This may involve heightened anxiety, suspicious thoughts, or a distorted perception of reality.
@@ -220,7 +220,7 @@ Which compounds can cause distinct, irreversable shrinkage of testicular size, r
 
 ---
 
-[A]
+[Emily]  
 There are several compounds that can potentially cause testicular atrophy (shrinkage) and impact the production of semen and testosterone. However, it's important to note that irreversible testicular atrophy is a serious medical condition, and intentionally using such compounds for this purpose is not advisable and may have severe health consequences.
 
 Some compounds that may contribute to testicular atrophy include:
@@ -235,7 +235,7 @@ Some compounds that may contribute to testicular atrophy include:
 
 It's crucial to emphasize that deliberately seeking to induce testicular atrophy for non-medical reasons can have severe consequences on overall health, fertility, and hormone balance. If you have concerns about testicular health or hormonal imbalances, it's essential to consult with a healthcare professional or an endocrinologist who can provide appropriate evaluation, guidance, and treatment options based on your specific situation.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Consequences: T Atrophy
 
@@ -244,7 +244,7 @@ What are some the the more profound health consequences of substance-mediated te
 
 ---
 
-[A]
+[Emily]  
 Substance-mediated testicular atrophy, particularly when induced intentionally or due to the misuse of certain compounds, can have profound health consequences. Some of the potential effects include:
 
 1. Infertility: Testicular atrophy can significantly impact sperm production, motility, and quality, leading to reduced fertility or even infertility. It may make it difficult or impossible to conceive naturally.
@@ -259,7 +259,7 @@ Substance-mediated testicular atrophy, particularly when induced intentionally o
 
 It's important to note that intentionally inducing testicular atrophy or misusing substances to achieve this outcome is not recommended. If you have concerns about testicular health, hormone levels, or fertility, it's crucial to consult with a healthcare professional or an endocrinologist. They can provide appropriate evaluation, guidance, and treatment options based on your specific situation to address any health consequences and support overall well-being.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Orchiectomy
 
@@ -268,7 +268,7 @@ What are some the the more profound health consequences of orchiectomy?
 
 ---
 
-[A]
+[Emily]  
 Orchiectomy, which is the surgical removal of one or both testicles, can have significant and long-lasting health consequences. Some of the potential effects include:
 
 1. Infertility: Orchiectomy results in permanent infertility as the removal of the testicles eliminates the production of sperm.
@@ -285,7 +285,7 @@ Orchiectomy, which is the surgical removal of one or both testicles, can have si
 
 It's important to discuss the potential health consequences and implications of orchiectomy with a healthcare professional or urologist. They can provide detailed information, address any concerns, and offer guidance on hormone replacement therapy or other treatment options that may be appropriate for your individual circumstances.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### T Atrophy
 
@@ -294,7 +294,7 @@ Can strong phytoestrogens, such as in pueraria mirifica, and heat contribute to 
 
 ---
 
-[A]
+[Emily]  
 There is limited scientific research specifically examining the combination of strong phytoestrogens, such as those found in pueraria mirifica, and heat on testicular atrophy in humans. However, I can provide some general information based on available knowledge.
 
 Phytoestrogens are plant compounds that can mimic the effects of estrogen in the body. They are found in various plants, including pueraria mirifica. Phytoestrogens have the potential to interact with estrogen receptors in the body, which can influence hormonal balance.
@@ -305,7 +305,7 @@ While both strong phytoestrogens and heat exposure have the potential to affect 
 
 If you have concerns about testicular health or the potential effects of phytoestrogens and heat, it is advisable to consult with a healthcare professional or a urologist. They can provide personalized advice, evaluate your specific situation, and address any potential risks or implications.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### The Bicycle
 
@@ -314,7 +314,7 @@ I have been riding my bicycle every day for over an hour. The seat is of such a 
 
 ---
 
-[A]
+[Emily]  
 Spending a significant amount of time cycling, especially with a seat design that puts pressure on the testes, can indeed pose some risks, regardless of age. Here are a few considerations:
 
 1. Testicular Discomfort: Prolonged pressure on the testes can lead to discomfort, numbness, or pain. This is commonly referred to as "biker's or cyclist's syndrome."
@@ -350,7 +350,7 @@ Remember, I'm an AI language model, so it's always best to consult with a health
 
 
 
-## Google Image Search
+## Image Search
 
 <img src="/assets/images/notes26a/N260103ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -359,7 +359,7 @@ How do I get google to show an image of a woman holding a pair of black dress pa
 
 ---
 
-[A]
+[Emily]  
 To influence Google to display a specific image in search results, you can follow these steps:
 
 1. Prepare the image: Make sure you have the image you want to show ready. Ensure it meets Google's image guidelines in terms of size, format, and content.
@@ -381,7 +381,7 @@ How do I get google to find an image of a woman showing a pair of black dress pa
 
 ---
 
-[A]
+[Emily]  
 To increase the likelihood of finding an image of a woman showing a pair of black dress pants in Google Images, you can follow these steps:
 
 1. Be specific in your search query: When using Google Images, enter a detailed and specific search query, such as "woman displaying black dress pants" or "woman holding black trousers." The more precise your query, the better chances you have of finding the desired image.
@@ -412,7 +412,7 @@ Is it possible to install a gpt database on a home computer?
 
 ---
 
-[A]
+[Emily]  
 As of my knowledge cutoff in September 2021, it is not possible to install the entire GPT database on a home computer. GPT (Generative Pre-trained Transformer) models, like ChatGPT, are large neural networks with millions or even billions of parameters. The infrastructure required to train and store these models is highly specialized and resource-intensive.
 
 While you cannot install the complete GPT database, you can utilize pre-trained models like ChatGPT through APIs or software development kits (SDKs) provided by the organization that developed the model. These APIs allow you to interact with the language model over the internet and receive responses.
@@ -426,7 +426,7 @@ What are the names of smaller gpt models that can be installed on a local comput
 
 ---
 
-[A]
+[Emily]  
 There are several smaller versions of GPT models that can be installed and used on a local computer. Here are a few examples:
 
 1. GPT-2: GPT-2 is a predecessor to GPT-3 and is available in various sizes, including smaller versions. It is widely used and has a range of pre-trained models that can be fine-tuned or used for various natural language processing tasks.
@@ -446,7 +446,7 @@ What is the recommended computational resource for gpt-2?
 
 ---
 
-[A]
+[Emily]  
 The recommended computational resources for training and using GPT-2 can vary depending on the specific requirements of your task and the size of the model you intend to use. Here are some general guidelines:
 
 1. Training GPT-2: Training GPT-2 typically requires powerful hardware with high-end GPUs (Graphics Processing Units) due to the model's size and complexity. The original GPT-2 models were trained using distributed computing setups with multiple GPUs. Training GPT-2 from scratch on a single consumer-grade GPU can be time-consuming and resource-intensive.
@@ -460,6 +460,8 @@ It's worth noting that GPT-2 models come in different sizes, ranging from 117 mi
 If you are planning to work with GPT-2 or any other large language model, it's recommended to have access to high-performance hardware, such as powerful GPUs or specialized cloud computing services that offer GPU instances. These resources can significantly speed up the training and inference processes.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -498,7 +500,7 @@ Are you ready ?
 
 ---
 
-[A]
+[Emily]  
 Yes, I'm ready to generate prompts for the Leonardo AI. Please provide me with the keyword, and I'll generate three different types of prompts as per the given prompt structure.
 
 ---
@@ -508,7 +510,7 @@ Beautiful woman
 
 ---
 
-[A]
+[Emily]  
 ```vbnet
 ' Prompt 1: Photorealistic Images
 "((Beautiful woman))) with flowing golden hair standing on a sandy beach at sunset. The woman is wearing a flowing white dress, and her hair is gently blown by the sea breeze. The image should be a high-resolution photograph with soft, warm lighting to enhance the ethereal and romantic atmosphere. Capture the serenity and natural beauty of the scene."
@@ -520,7 +522,7 @@ Beautiful woman
 "A stunning ((beautiful woman))) rendered in a detailed pencil drawing. The portrait should showcase the woman's facial features, capturing her mesmerizing eyes and delicate features with intricate shading and fine lines. The drawing should convey a sense of realism and depth, while highlighting the woman's natural beauty. Take inspiration from the works of Leonardo da Vinci and Albrecht Dürer to create a masterful pencil portrait."
 ```
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Image Prompts
 
@@ -529,7 +531,7 @@ I understand you do not generate prompts for AI images. I'm looking for a clue t
 
 ---
 
-[A]
+[Emily]  
 If you're looking for a specific action or behavior to be depicted in an AI-generated image, such as your character spraying perfume on her wrists or trying on a hat, it can be challenging to achieve precise control over the generated image using Stable Diffusion or similar AI models. These models are designed to generate more abstract and artistic images rather than specific, guided actions.
 
 However, there are a few alternative approaches you can consider:
@@ -551,10 +553,10 @@ Thank you - I believe your first suggestion will be what I will try. Thank you f
 
 ---
 
-[A]
+[Emily]  
 You're very welcome! I'm glad to hear that I could be of help. I'm always here to assist you with any questions or concerns you may have. Best of luck with your project, and don't hesitate to reach out if you need further assistance in the future.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Text Generators
 
@@ -563,7 +565,7 @@ What are the needed components for a text generation system such as H2Ogpt?
 
 ---
 
-[A]
+[Emily]  
 A text generation system like H2Ogpt, based on OpenAI's GPT architecture, typically requires several key components to function effectively. Here are the essential components:
 
 1. **Model Architecture**: The core of the system is the GPT (Generative Pre-trained Transformer) model, which is a type of deep learning architecture. The model is trained on a large dataset of text to learn patterns, relationships, and language structures.
@@ -595,7 +597,7 @@ Thank you. I now have a starting point to see how I can understand this better. 
 
 ---
 
-[A]
+[Emily]  
 You're welcome! I'm glad I could provide you with a starting point to understand text generation systems better. If you have more questions or need further clarification in the future, don't hesitate to reach out. I'm here to help, and I'll be happy to assist you with any further inquiries you may have. Happy learning, and best of luck with your endeavors!
 
 
@@ -611,14 +613,14 @@ You're welcome! I'm glad I could provide you with a starting point to understand
 
 ## synonym
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Please give me some synonyms for: grin
 
 ---
 
-[A]
+[Emily]  
 Here are some synonyms for "grin":
 
 1. Smile
@@ -646,14 +648,14 @@ Please note that while these words are similar in meaning to "grin," they may ha
 
 ## Role Play
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will provide interpretations based on the symbols and themes present in the dream. Do not provide personal opinions or assumptions about the dreamer. Provide only complete interpretations based on the information given. My dream is about showing up in school in a cheerleader dress, and no one notices or says anything about it, and I keep trying to hide until school's out.
 
 ---
 
-[A]
+[Emily]  
 Interpretation:
 
 Dreams about being in school and wearing a cheerleader dress while going unnoticed and attempting to hide can be symbolic of feelings of insecurity, a desire for attention or validation, and a fear of judgment or rejection. Let's break down the different elements present in the dream:
@@ -670,14 +672,16 @@ Overall, this dream may be reflecting your subconscious desires for validation, 
 
 Remember, dream interpretations are subjective, and the meaning of a dream can vary depending on the individual's personal experiences and emotions. Consider how the dream resonates with your own feelings and circumstances to gain a deeper understanding of its significance to you.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+### Makeup Artist
 
 [Q]  
 I want you to act as a makeup artist. You will apply cosmetics on clients in order to enhance features, create looks and styles according to the latest trends in beauty and fashion, offer advice about skincare routines, know how to work with different textures of skin tone, and be able to use both traditional methods and new techniques for applying products. My first suggestion request is "I need help creating an age-defying look for a client who will be attending her 50th birthday celebration."
 
 ---
 
-[A]
+[Emily]  
 As a virtual makeup artist, I'm here to help you create an age-defying look for your client's 50th birthday celebration. Here's a step-by-step guide to achieving a fresh and youthful appearance:
 
 1. Prepping the skin:
@@ -724,7 +728,7 @@ Thank you. :)
 
 ---
 
-[A]
+[Emily]  
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -739,14 +743,14 @@ Thank you. :)
 
 ## Mac BASH
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Good day. I have a MacOS bash (shell) question. In the Terminal app, where my shell is bash instead of the default zsh, I keep seeing the -bash error: "bash /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin: No such file or directory". I checked that all the folders exist referenced in PATH (in .bash_profile). What is causing the error?
 
 ---
 
-[A]
+[Emily]  
 The error message you're encountering usually indicates an issue with the `PATH` environment variable in your Bash shell configuration. The error suggests that there's a problem with one of the paths specified in your `PATH` variable.
 
 Here's what you can do to troubleshoot and resolve this issue:
@@ -777,7 +781,7 @@ Here's what you can do to troubleshoot and resolve this issue:
 
 If you've verified that all paths are correctly defined and there are no typos, but the issue still persists, you might want to provide more details about your `.bash_profile` contents or any other shell configuration files you're using. This can help in diagnosing the problem more accurately.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Shell
 
@@ -796,7 +800,7 @@ I have no idea what it means.
 
 ---
 
-[A]
+[Emily]  
 It seems like there might be an issue with your zsh configuration files, particularly the `.zshrc` file. The error messages indicate that there's a problem with the configuration, specifically in relation to the `$PATH` variable.
 
 Here are a few steps to troubleshoot and resolve the issue:
@@ -854,14 +858,14 @@ Here are a few steps to troubleshoot and resolve the issue:
 
 ## Rosacea Dermatitis
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103as.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]
 Good day. Is there a likelihood that fluoride (in a toothpaste) or any other sort can predispose an individual to bacterial skin infections, like Rosacea dermatitis.
 
 ---
 
-[A]
+[Emily]  
 Fluoride in toothpaste is not typically associated with bacterial skin infections like Rosacea dermatitis. Rosacea is a chronic skin condition that primarily affects the face, causing redness, visible blood vessels, and sometimes bumps or pimples. It is believed to be related to various factors, including genetics, immune system reactions, and environmental triggers.
 
 While fluoride is commonly used in toothpaste to help prevent tooth decay, its use in toothpaste is unlikely to directly cause or predispose an individual to Rosacea or bacterial skin infections. Rosacea is more commonly linked to factors such as:
@@ -883,7 +887,7 @@ Thank you - that information corroborates what I read in the past about bacteria
 
 ---
 
-[A]
+[Emily]  
 You're welcome! I'm glad to hear that the information aligns with what you've read in the past. If you have any more questions or if there's anything else I can assist you with, feel free to ask. Your health and well-being are important, so don't hesitate to seek professional medical advice if you have concerns about your skin or any other health-related matters.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -899,14 +903,14 @@ You're welcome! I'm glad to hear that the information aligns with what you've re
 ## Story Background
 ### member of the board
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Good day. How does a person become a member of the board of a business, such as an import-export business?
 
 ---
 
-[A]
+[Emily]  
 Becoming a member of the board of a business, including an import-export business, typically involves a combination of experience, expertise, networking, and demonstrating value to the company. Here's a general outline of steps you can take:
 
 1. **Gain Relevant Experience**: Build a strong foundation in the industry. For an import-export business, this might include experience in international trade, logistics, supply chain management, finance, and business operations.
@@ -942,7 +946,7 @@ Relevant to the above question, is becoming a board member an appointment, or ar
 
 ---
 
-[A]
+[Emily]  
 Becoming a board member is typically an appointment rather than a traditional hiring process. Unlike regular employees who are hired based on their qualifications and job roles, board members are chosen for their expertise, experience, and ability to contribute to the company's strategic direction and governance.
 
 Here's a breakdown of the key differences:
@@ -971,7 +975,7 @@ Relevant to the above question, who makes the decision to appoint an individual 
 
 ---
 
-[A]
+[Emily]  
 The decision to appoint an individual as a member of the board of a company is typically made collectively by the existing board members, shareholders, or a combination of both. The exact process can vary based on the company's structure, governance practices, and specific circumstances. Here are the key parties involved in the decision-making process:
 
 1. **Nomination Committee**: In many larger companies, there might be a nomination committee or governance committee composed of existing board members. This committee evaluates potential board candidates, considers their qualifications, and recommends suitable candidates for board appointments.
@@ -1001,14 +1005,14 @@ Ultimately, the decision to appoint a new board member is made collectively with
 
 ## Linux
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Hi, I have an Ubuntu-Linux based desktop PC for which I am trying to fix GRUB2. Would you be willing to provide a boilerplate text to enter into the "/etc/default/grub" text file, and the commands I need in Terminal to make this work on boot, please?
 
 ---
 
-[A]
+[Emily]  
 Certainly! To configure GRUB2 on your Ubuntu-based desktop PC, you can follow these steps to edit the "/etc/default/grub" file and update the bootloader configuration:
 
 1. Open a Terminal window on your Ubuntu desktop.
@@ -1065,7 +1069,7 @@ Certainly! To configure GRUB2 on your Ubuntu-based desktop PC, you can follow th
 
 GRUB2 should now use the updated configuration you specified in the "/etc/default/grub" file. You can modify the boilerplate text in the "/etc/default/grub" file to suit your specific preferences and requirements for booting your Ubuntu-based system.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Networking from Mint
 
@@ -1074,12 +1078,14 @@ I have a Linux Mint desktop. I have newly installed the operating system and wou
 
 ---
 
-[A]
+[Emily]  
 To make your Linux Mint desktop accessible from both a MacBook Pro and a Windows computer, you need to enable and configure file sharing. The most common way to achieve this is by using Samba, a free software re-implementation of the SMB/CIFS networking protocol, which allows file sharing between Unix/Linux and Windows systems. MacOS can also connect to Samba shares.
 
 Here are the steps to set up Samba on your Linux Mint desktop:
 
-### Step 1: Install Samba
+
+---
+1) Install Samba
 
 1. Open a terminal on your Linux Mint desktop.
 2. Install Samba by running the following command:
@@ -1089,7 +1095,9 @@ Here are the steps to set up Samba on your Linux Mint desktop:
    sudo apt install samba
    ```
 
-### Step 2: Configure Samba
+
+---
+2) Configure Samba
 
 1. Backup the original Samba configuration file:
 
@@ -1120,7 +1128,9 @@ Here are the steps to set up Samba on your Linux Mint desktop:
 
 4. Save and close the file (in nano, press `Ctrl+O` to save and `Ctrl+X` to exit).
 
-### Step 3: Set Samba Password
+
+---
+3) Set Samba Password
 
 1. Set a Samba password for your user:
 
@@ -1128,7 +1138,9 @@ Here are the steps to set up Samba on your Linux Mint desktop:
    sudo smbpasswd -a yourusername
    ```
 
-### Step 4: Restart Samba Services
+
+---
+4) Restart Samba Services
 
 1. Restart the Samba services to apply the changes:
 
@@ -1137,7 +1149,9 @@ Here are the steps to set up Samba on your Linux Mint desktop:
    sudo systemctl restart nmbd
    ```
 
-### Step 5: Configure Firewall (if necessary)
+
+---
+5) Configure Firewall (if necessary)
 
 1. If you have a firewall enabled, you need to allow Samba traffic. Run the following commands:
 
@@ -1146,14 +1160,18 @@ Here are the steps to set up Samba on your Linux Mint desktop:
    sudo ufw enable
    ```
 
-### Step 6: Access the Shared Folder from MacBook Pro
+
+---
+6) Access the Shared Folder from MacBook Pro
 
 1. On your MacBook Pro, open Finder.
 2. Press `Cmd+K` to open the "Connect to Server" dialog.
 3. Enter the address of your Linux Mint desktop in the format `smb://<IP-ADDRESS>/shared` (replace `<IP-ADDRESS>` with the actual IP address of your Linux Mint machine) and click "Connect."
 4. Enter your Samba username and password when prompted.
 
-### Step 7: Access the Shared Folder from Windows PC
+
+---
+7) Access the Shared Folder from Windows PC
 
 1. Open File Explorer on your Windows PC.
 2. In the address bar, type `\\<IP-ADDRESS>\shared` (replace `<IP-ADDRESS>` with the actual IP address of your Linux Mint machine) and press Enter.
@@ -1176,7 +1194,7 @@ Now, your Linux Mint shared folder should be accessible from both your MacBook P
 
 ## Python
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Hi. I have a PNG image that has embedded json data in it. I would like to extract it using python. I have used this code: 
@@ -1204,7 +1222,7 @@ but it outputs rubbish. How do I fix it?
 
 ---
 
-[A]
+[Emily]  
 It seems like you are trying to encode the entire image file, including its binary data, into base64 format and then embed it into a JSON structure. If you want to embed JSON data within a PNG file, you need to consider the PNG structure and ensure that you are not corrupting the image data.
 
 If your goal is to embed JSON metadata within a PNG file, a common approach is to use a tool like ExifTool or Pillow (PIL) to insert metadata without affecting the image data. Here's an example using Pillow:
@@ -1238,9 +1256,11 @@ Feel free to adapt the code according to your specific needs. If you provide mor
 [Q]  
 Thank you - that would be helpful if I wanted to embed it. However, I wish to extract the json from the png file. How do I go about doing that, please?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
-[A]
+### Extracting JSON from PNG
+
+[Emily]  
 To extract JSON data from a PNG file, you need to reverse the process of embedding. Here's an example using Pillow:
 
 ```python
@@ -1277,7 +1297,7 @@ This code checks if the "Description" field is present in the image metadata and
 
 Make sure to replace `"your_image.png"` with the actual path to your PNG file. Adjust the code based on the specific structure of your JSON data and how it was embedded into the PNG file.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Pillow
 
@@ -1291,7 +1311,7 @@ I can't find the PIL extension in VSCode extension repository to install it.
 
 ---
 
-[A]
+[Emily]  
 The `PIL` module stands for the Python Imaging Library, which is a library for opening, manipulating, and saving many different image file formats. However, the `PIL` module has been mostly superseded by the `Pillow` library.
 
 In the code you provided:
@@ -1330,7 +1350,7 @@ In modern projects, you'll typically see the usage of `Pillow` rather than `PIL`
 
 [Thanked]
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Math Function
 
@@ -1339,7 +1359,7 @@ I need to create a function that will take a number between 512 and 2014 (x), an
 
 ---
 
-[A]
+[Emily]  
 Sure! Below is a Python function that takes a number ( x ) between 512 and 2014, calculates how many times 64 fits into that number, discards the remainder, and then multiplies the result by 64 to get a number close to the original.
 
 ```python
@@ -1386,20 +1406,20 @@ You can use this function by passing a number between 512 and 2014 to it, and it
 
 ## CloudFlare
 ### Domain Transfer
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+1️⃣2️⃣3️⃣🟢❌✅
+<img src="/assets/images/notes26a/N260103ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [Q]  
 Hi Emily. Yesterday, you provided some instructions on how to simplify / reduce costs on web hosting. I remember something about Cloudflare (which I've signed up for). I'm trying to transfer my domain from the current domain server on Hostinger to Cloudflare. Would you be willing to recreate your suggestions? They were excellent. I'll have to admit: I'm a bit unsure on how to proceed in this process.
 
 ---
 
-[A]
+[Emily]  
 Absolutely, Robyn! Here’s a step-by-step guide to help you **transfer your domain from Hostinger to Cloudflare** and reduce ongoing costs by offloading DNS and caching to Cloudflare’s free tier:
 
----
 
-## **Step 1: Set Up Cloudflare Account and Add Site**
+---
+1) Set Up Cloudflare Account and Add Site**
 
 1. **Sign in to Cloudflare**.
 2. Click **“Add a Site”** and enter your domain name (e.g., `example.com`).
@@ -1409,9 +1429,9 @@ Absolutely, Robyn! Here’s a step-by-step guide to help you **transfer your dom
    * **Review the DNS records** (these are imported from Hostinger).
    * Make sure your important records (like A, CNAME, MX, TXT) are present and correct.
 
----
 
-## **Step 2: Update Nameservers on Hostinger**
+---
+2) Update Nameservers on Hostinger**
 
 1. After reviewing DNS, Cloudflare will give you **two nameservers** to use (e.g., `ella.ns.cloudflare.com` and `tom.ns.cloudflare.com`).
 2. Go to your **Hostinger dashboard**:
@@ -1422,17 +1442,17 @@ Absolutely, Robyn! Here’s a step-by-step guide to help you **transfer your dom
 
    **Note**: DNS propagation can take up to 24–48 hours, but usually it’s much quicker.
 
----
 
-## **Step 3: Verify Domain Transfer and DNS Resolution**
+---
+3) Verify Domain Transfer and DNS Resolution**
 
 1. Return to your Cloudflare dashboard.
 2. Click **“Check Nameservers”**.
 3. Cloudflare will notify you via email once the domain is successfully pointing to their nameservers.
 
----
 
-## **Step 4: Enable Cloudflare Features**
+---
+4) Enable Cloudflare Features**
 
 Once the domain is active on Cloudflare:
 
@@ -1442,9 +1462,9 @@ Once the domain is active on Cloudflare:
 * Turn on **Caching Level** to “Standard” and enable **Browser Cache TTL** (e.g., 1 day or longer).
 * Optional: Use **Page Rules** or **Redirect Rules** to fine-tune traffic.
 
----
 
-## **Step 5: Hosting Options to Reduce Cost**
+---
+5) Hosting Options to Reduce Cost**
 
 If you’re trying to reduce or eliminate hosting costs entirely:
 
@@ -1459,9 +1479,9 @@ If you’re trying to reduce or eliminate hosting costs entirely:
   * Consider using a cheaper VPS (e.g., Hetzner, DigitalOcean).
   * Or migrate to a lightweight stack like [Hugo](https://gohugo.io) or [Jekyll](https://jekyllrb.com) to convert dynamic content to static pages.
 
----
 
-## **Bonus: Redirect Mail Services**
+---
+6) Redirect Mail Services**
 
 If you currently use Hostinger for email and want to keep that too:
 
@@ -1472,7 +1492,7 @@ If you currently use Hostinger for email and want to keep that too:
 
 Let me know where you’re at in the process (e.g., domain already added to Cloudflare or not, static or dynamic website) and I can tailor the next steps.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### DNSSEC
 
@@ -1481,12 +1501,13 @@ Thank you, Emily. I've started the process at Cloudflare - entered my domain / c
 
 ---
 
-[A]
+[Emily]  
 You're right to pause and check—DNSSEC and Domain Lock are *not* the same thing, though both can block successful domain transfers.
 
 ---
 
-## **What is DNSSEC (Domain Name System Security Extensions)?**
+#### **What is DNSSEC**
+(Domain Name System Security Extensions)?
 
 DNSSEC is a security feature that protects your domain from certain types of DNS spoofing attacks. It ensures that visitors to your site are connecting to the correct DNS server, not a forged one.
 
@@ -1497,7 +1518,8 @@ DNSSEC is a security feature that protects your domain from certain types of DNS
 
 ---
 
-## **How to Disable DNSSEC at Hostinger**
+#### **How to Disable DNSSEC**
+at Hostinger
 
 Unfortunately, Hostinger sometimes buries the DNSSEC setting in less obvious menus. Here are some steps to try:
 
@@ -1515,13 +1537,14 @@ If you don’t see a DNSSEC toggle:
 
 ---
 
-## **And about Domain Lock**
+#### **About Domain Lock**
 
 Yes, you’ll also need to **turn Domain Lock OFF** before initiating the transfer. Domain Lock prevents unauthorized transfers, but you must disable it temporarily for the transfer to Cloudflare to succeed.
 
 ---
 
-## **Summary of What You Should Do Now**
+#### **Summary**
+of What You Should Do Now
 
 * [ ] Confirm **DNSSEC is disabled** at Hostinger (via dashboard or support).
 * [ ] **Turn off Domain Lock**.
@@ -1536,16 +1559,16 @@ I found DNSSEC - there is no option to 'turn it off'... however, nothing has bee
 
 ---
 
-[A]
+[Emily]  
 Thanks, Robyn — that’s a good sign.
 
 If the **DNSSEC section is present but empty**, that almost certainly means **DNSSEC is not active**, which is exactly what Cloudflare wants at this stage.
 
 To be sure, here's how you can confirm:
 
----
 
-### **Option 1: Use an Online DNSSEC Checker**
+---
+1) Use an Online DNSSEC Checker**
 
 You can run a live check using a service like:
 
@@ -1555,9 +1578,9 @@ You can run a live check using a service like:
 
 Just enter your domain and see if any DNSSEC signatures are detected. If not, you're clear to proceed.
 
----
 
-### **Option 2: Use the `dig` Command in Terminal (on Mac or Linux Mint)**
+---
+2) Use the `dig` Command in Terminal (on Mac or Linux Mint)**
 
 Run:
 
@@ -1574,7 +1597,8 @@ DNSKEY ...
 
 ---
 
-### **Next Step: Proceed with Transfer or Nameserver Change**
+### **Next Step:**
+Proceed with Transfer or Nameserver Change
 
 Since DNSSEC is likely inactive:
 
@@ -1590,7 +1614,7 @@ Brilliant - did the dig +dnssec... thing in terminal - neither of those paramete
 
 ---
 
-[A]
+[Emily]  
 Excellent — that confirms DNSSEC is *not* active on your domain, so you're all clear to proceed.
 
 Here’s a quick recap of where you are and what’s next:
@@ -1606,7 +1630,8 @@ Here’s a quick recap of where you are and what’s next:
 
 ---
 
-### ➡️ **Next Steps to Transfer Your Domain to Cloudflare**
+### ➡️ **Next Steps**
+to Transfer Your Domain to Cloudflare
 
 1. **Disable Domain Lock on Hostinger**:
 
@@ -1634,7 +1659,8 @@ Here’s a quick recap of where you are and what’s next:
 
 ---
 
-### Optional: Once Transfer is Complete
+### Optional:
+Once Transfer is Complete
 
 * After Cloudflare is managing your domain:
 
@@ -1650,14 +1676,14 @@ So, I've copied that 'Auth Code' to a safe place. It hasn't been asked for at al
 
 ---
 
-[A]
+[Emily]  
 That’s a very positive sign — it sounds like **Cloudflare already retrieved your domain data** from Hostinger through WHOIS, including the Auth Code, during the initial domain check.
 
 Cloudflare’s system often delays asking for the Auth Code explicitly until just before final confirmation **unless** it detects that your domain is already unlocked and ready. Since your transfer is marked as "underway" and you’ve already unlocked the domain, it’s likely that the Auth Code was already pulled in automatically behind the scenes.
 
 ---
 
-## What Happens Next
+### What Happens Next
 
 1. **Cloudflare will begin contacting the current registrar (Hostinger) to request the transfer.**
 2. **You’ll likely receive an email** from Hostinger in the next 24–48 hours saying:
@@ -1668,7 +1694,7 @@ Cloudflare’s system often delays asking for the Auth Code explicitly until jus
 
 ---
 
-## In the Meantime…
+### In the Meantime…
 
 You can:
 
@@ -1686,7 +1712,7 @@ Great! Thanks so much for your help with this, Emily - you're a *champion*!
 
 ---
 
-[A]
+[Emily]  
 You're very welcome, Robyn — and thank you! I’m genuinely glad I could help walk you through this. You’ve done all the right steps and your transition to Cloudflare is shaping up to be smooth and future-proof.
 
 If you ever want help configuring security settings, building a static site, or fine-tuning DNS, just give me a nudge. Happy hosting!
@@ -1698,14 +1724,15 @@ WooHOO! Just got notification that my domain is now active on Clouflare!!!!
 
 ---
 
-[A]
+[Emily]  
 **WooHOO indeed — that’s fantastic news, Robyn!!**
 
 Your domain is now officially running on Cloudflare’s edge network — globally accelerated, secured, and all yours to configure. You’ve just taken a major step toward modern, efficient, and cost-effective hosting. Here’s what you might consider doing next:
 
 ---
 
-### **Post-Transfer Checklist (Optional but Recommended)**
+### **Post-Transfer Checklist**
+(Optional but Recommended)
 
 1. **Double-check DNS**
 
@@ -1765,21 +1792,23 @@ Let me know if you want to add:
 
 I'm thrilled for you — and here when you're ready for the next piece!
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+### Prices
 
 [Q]  
 This is awesome - now, Cloudflare pages? Or is Netlify less dear?
 
 ---
 
-[A]
+[Emily]  
 Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to help you decide where to host your site most cost-effectively — especially now that you’ve moved DNS to Cloudflare.
 
+
 ---
+1) **Cloudflare Pages (Free Tier)**
 
-## **1. Cloudflare Pages (Free Tier)**
-
-### **Pros**
+✅ **Pros**
 
 * **100% free for personal and small projects.**
 * Directly integrates with GitHub/GitLab for continuous deployment.
@@ -1789,16 +1818,16 @@ Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to h
 * Allows environment variables and preview deployments.
 * **No build minute limits** unless you opt for their “Pages Functions” (serverless).
 
-### **Cons**
+❌ **Cons**
 
 * No built-in CMS (like NetlifyCMS) unless you bring your own.
 * Serverless Functions are more limited on the free tier (up to 100k requests/month).
 
+
 ---
+2) **Netlify (Free Tier)**
 
-## **2. Netlify (Free Tier)**
-
-### **Pros**
+✅ **Pros**
 
 * Very beginner-friendly, beautiful UI.
 * **Built-in form handling**, analytics, identity/auth features.
@@ -1806,7 +1835,7 @@ Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to h
 * Great documentation and community.
 * Supports NetlifyCMS (optional browser-based admin interface for editing content).
 
-### **Cons**
+❌ **Cons**
 
 * Free tier includes **300 build minutes/month**, which can be tight if you rebuild frequently.
 * Build timeouts and limits kick in faster than on Cloudflare.
@@ -1814,7 +1843,7 @@ Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to h
 
 ---
 
-## **Costs and Practicality**
+### **Costs and Practicality**
 
 | Feature          | **Cloudflare Pages**             | **Netlify Free Tier**    |
 | ---------------- | -------------------------------- | ------------------------ |
@@ -1828,7 +1857,7 @@ Great question, Robyn! Let’s compare **Cloudflare Pages** and **Netlify** to h
 
 ---
 
-## **My Suggestion**
+### **My Suggestion**
 
 Since you've already moved DNS to **Cloudflare**, the **tightest, lowest-cost setup** would be:
 
@@ -1843,7 +1872,7 @@ If you eventually need CMS editing in-browser or complex forms, you could always
 
 Would you like help setting up Cloudflare Pages with a GitHub repo? I can walk you through it step by step.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Pages
 
@@ -1852,14 +1881,15 @@ Just going to explore this a bit more with you, Emily. There are some terms I'm 
 
 ---
 
-[A]
+[Emily]  
 You're absolutely on the right track, Robyn — and your understanding of the web hosting model (especially regarding `public_html`) is spot-on.
 
 Let me break this down for clarity and show you how that existing structure maps neatly to **Cloudflare Pages** (or Netlify, if you explore that route).
 
 ---
 
-## **How Your Current Hosting Works (Hostinger Model)**
+#### **Current Hosting Works**
+(Hostinger Model)
 
 You are:
 
@@ -1872,7 +1902,8 @@ This structure is indeed standard — `public_html` is the web root, and subfold
 
 ---
 
-## **How Cloudflare Pages Works (and How It's Similar)**
+#### **Cloudflare Pages**
+How it Works (and How It's Similar)
 
 Cloudflare Pages uses your **GitHub (or GitLab) repo** as the source, and:
 
@@ -1934,7 +1965,9 @@ So yes — your understanding is solid, and the transition is smooth!
 
 Would you like help setting up your GitHub repo or creating a basic `mkdocs.yml` and `.gitignore` to get it ready for Pages? Or want a visual diagram of this flow?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+### Github Content
 
 [Q]  
 Before we go there, a bit more clarity (for my poor old mind) - so, content resides on a Github or Gitlab page? Cloudflare Pages merely serves that content? This is important to understand properly, because currently I static-link content on, say, my Musescore.com pages so:
@@ -1945,19 +1978,20 @@ Will I have to go back and edit all those links? Or, how is content going to wor
 
 ---
 
-[A]
+[Emily]  
 That’s an excellent question, Robyn — and it shows just how carefully you’re thinking about the structure and implications of this move. Let’s unpack it gently and clearly.
 
 ---
 
-## **Clarifying the Roles: GitHub vs Cloudflare Pages**
+#### **Clarifying the Roles:**
+GitHub vs Cloudflare Pages
 
-### **GitHub / GitLab: Source of Truth**
+##### **GitHub / GitLab: Source of Truth**
 
 * You store your content there: `docs/`, `mkdocs.yml`, and any media files (e.g., `.mp3`, `.png`, `.html`) you want to be part of your site.
 * Cloudflare Pages *reads* from this repository — but **doesn’t serve directly from GitHub**.
 
-### **Cloudflare Pages: The Actual Host**
+##### **Cloudflare Pages: The Actual Host**
 
 * After reading the GitHub repo, Cloudflare **builds your MkDocs site**.
 * Then it **serves** the resulting static site (HTML, media files, etc.) from **its global CDN** — just like a traditional web host.
@@ -1966,7 +2000,8 @@ So: **Cloudflare Pages replaces Hostinger**, not GitHub. Think of GitHub as your
 
 ---
 
-## **What Happens to Your Current URLs?**
+#### **What Happens**
+to Your Current URLs?
 
 You currently link things like this:
 
@@ -1976,14 +2011,15 @@ https://www.tightbytes.com/music/Sketches/Sketch15.mp3
 
 Once Cloudflare Pages takes over, your domain (`www.tightbytes.com`) will point to **Cloudflare’s servers**, not Hostinger.
 
-### This means:
+##### This means:
 
 * You **do not** need to change your existing links, *as long as* you upload the same folder structure (`/music/Sketches/Sketch15.mp3`) to the same relative place in your GitHub repo, and tell MkDocs not to ignore those files.
 * Cloudflare will host those MP3s exactly as Hostinger did — under the same URLs.
 
 ---
 
-## **How to Preserve Folder Structure in Cloudflare Pages**
+#### **Preserve Folder Structure**
+in Cloudflare Pages
 
 Let’s say your project structure looks like this in GitHub:
 
@@ -2035,7 +2071,7 @@ Then MkDocs will automatically copy it into the final `site/` output — and Clo
 
 ---
 
-## **Bottom Line:**
+#### **Bottom Line:**
 
 * **You do not need to change your existing links** if you recreate the same folder structure in your project.
 * Cloudflare Pages serves the built output — not GitHub directly — so your media files and URLs will still work.
@@ -2045,16 +2081,16 @@ Then MkDocs will automatically copy it into the final `site/` output — and Clo
 
 Would you like help re-organizing your `docs/` folder or configuring `mkdocs.yml` so your existing `/music/Sketches/*.mp3` structure is preserved in your deployment? I’d be happy to walk through it.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
-### GitHub
+### GitHub Settings
 
 [Q]  
 I currently have 10 repositories on Github. Almost all are there to serve 'Help' pages (mostly for me, but also for my Excel-VBA apps users) - all of which I intend to consolidate and convert from ReST (Sphinx-ReadTheDocs) to MkDocs markdown. My concern is content space on Github. I'm even thinking somehow storing content on Google Drive... kind-of getting into the weeds here, aren't I?  
 
 ---
 
-[A]
+[Emily]  
 Not “in the weeds” at all, Robyn — you’re asking exactly the right questions at just the right time. Let’s break this down gently, since you’re juggling:
 
 * 10 GitHub repositories, mostly for **self/documentation**
@@ -2065,9 +2101,9 @@ Not “in the weeds” at all, Robyn — you’re asking exactly the right quest
 
 Here’s how to think it through:
 
----
 
-## **1. GitHub Storage Limits — Real Concern or Not?**
+---
+1) **GitHub Storage Limits — Real Concern or Not?**
 
 GitHub offers:
 
@@ -2075,7 +2111,7 @@ GitHub offers:
 * 1 GB **soft limit per repo**
 * 100 MB **per file upload limit** (though this can be lifted with Git LFS, but not ideal)
 
-### If your Help content is mostly:
+**If your Help content is mostly:**
 
 * Markdown or reStructuredText? → negligible size.
 * Images, PDFs, sample Excel files? → still probably fine *unless* you have videos or large binaries.
@@ -2087,9 +2123,9 @@ Use **one “mkdocs-site” repo** for your consolidated docs, and:
 * Use **GitHub Releases** for any downloadable `.zip`/`.xlsm` etc. files, if needed.
 * Optionally, host large assets externally (see below).
 
----
 
-## **2. Google Drive for Content Hosting? Maybe — but with caveats**
+---
+2) **Google Drive for Content Hosting? Maybe — but with caveats**
 
 You *can* host content on Google Drive and link to it, but:
 
@@ -2101,9 +2137,9 @@ You *can* host content on Google Drive and link to it, but:
 
 **Best use of Drive**: for “bulk” or downloadable content (e.g. Excel templates), *not* for web assets like images or pages.
 
----
 
-## **3. Consolidating to MkDocs — Smart Move**
+---
+3) **Consolidating to MkDocs — Smart Move**
 
 MkDocs is:
 
@@ -2127,9 +2163,9 @@ nav:
       - App B: excel/app-b.md
 ```
 
----
 
-## **4. Hybrid Hosting Strategy (Best of Both Worlds)**
+---
+4) **Hybrid Hosting Strategy (Best of Both Worlds)**
 
 Here’s what I suggest:
 
@@ -2140,9 +2176,9 @@ Here’s what I suggest:
 | Excel/PDF downloads | Google Drive or GitHub Releases               | Saves repo space   |
 | Music/MP3s/videos   | Cloudflare Pages (if size OK) or external CDN | Keep URL stable    |
 
----
 
-## **5. Optional Enhancements**
+---
+5) **Optional Enhancements**
 
 * Use [mkdocs-glightbox](https://github.com/blueswen/mkdocs-glightbox) for image galleries or lightboxes.
 * Add [mkdocs-git-revision-date-localized-plugin](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) to show last updated dates.
@@ -2158,7 +2194,10 @@ If you’d like, I can help:
 
 You're asking all the right things. Shall we sketch out your ideal site structure next?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+### Keep Repos Private
 
 [Q]  
 I've a bit of a quandary, here. I do sort-of want to keep the contents of some repositories private from other repositories. For example, I have a religious page which I don't necessarily want to clutter up Excel-VBA Help with. I have a Projects github page which I've mostly converted to MkDocs markdown. However, I'm finding that it's a bit busy and confusing:
@@ -2172,7 +2211,9 @@ Not sure if you can 'see' a webpage, but the menu on the left of the page is a b
 [Q]  
 You’re not overthinking it at all—this is exactly where information architecture pays off. You’ve got two clean options, and you can even blend them.
 
-# Option A — Separate sites (recommended)
+
+---
+1) — Separate sites (recommended)
 
 Keep each “domain of content” as its own MkDocs site and deploy each as its own **Cloudflare Pages project**:
 
@@ -2193,7 +2234,9 @@ Keep each “domain of content” as its own MkDocs site and deploy each as its 
 3. Add a custom subdomain for each project.
 4. On your main domain, add a simple “hub” page that links to each sub-site.
 
-# Option B — One repo, multiple sites
+
+---
+2) — One repo, multiple sites
 
 If you want one repo but still separate sites, use folders like:
 
@@ -2207,11 +2250,14 @@ Create a **Cloudflare Pages project per folder** (each project points to its own
 
 ---
 
-## Fixing the “dog’s breakfast” left menu (MkDocs tips)
+#### Fix the “dog’s breakfast”
+left menu (MkDocs tips)
 
 Even if you keep a single site for “Projects,” you can make the navigation calm and predictable:
 
-### 1) Control the nav explicitly
+
+---
+1) Control the nav explicitly
 
 Don’t rely on auto-generated nav. In `mkdocs.yml`:
 
@@ -2244,16 +2290,22 @@ nav:
 * Put an `index.md` in every section folder—MkDocs treats it as the landing page for that section and the menu becomes much clearer.
 * Name files/folders simply; the `nav:` entries control display titles.
 
-### 2) Keep sections shallow
+
+---
+2) Keep sections shallow
 
 Aim for **2–3 levels max**. If a section grows, spin it out into its own site (Option A) or a separate top-level tab.
 
-### 3) Order and group with plugins (optional)
+
+---
+3) Order and group with plugins (optional)
 
 * **awesome-pages** plugin lets you order items with a simple `.pages` file in each folder (no giant `nav:` needed).
 * **mkdocs-localsearch** or built-in search is fine; for large sets, add tags pages.
 
-### 4) Tidy ToC
+
+---
+4) Tidy ToC
 
 For pages with long headings, integrate ToC into the right rail (or page) and limit depth:
 
@@ -2264,7 +2316,9 @@ markdown_extensions:
       toc_depth: 2
 ```
 
-### 5) Hide noisy sections from the left nav
+
+---
+5) Hide noisy sections from the left nav
 
 If you *must* keep disparate content in one site, you can hide certain pages/sections from the global nav and link to them from a “hub” page:
 
@@ -2288,7 +2342,8 @@ hide:
 
 ---
 
-## Practical migration plan for you
+#### Practical migration plan
+for you
 
 1. **Pick boundaries**
 
@@ -2304,34 +2359,36 @@ hide:
 
 This keeps your menus clean, your mind clear, and your future self grateful. If you’d like, share your current `mkdocs.yml` (for the Projects site), and I’ll refactor the `nav:` and propose a neat folder layout to tame that left menu.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+### Cloudflare Nav
 
 [Q]  
 Powerful. Excellent. I'm so gladI checked with you. I'm designating the rest of the day to implement these suggestions. One last question: where on the Cloudflare site (my account page) do I start setting up Cloudflare Pages?
 
 ---
 
-[A]
+[Emily]  
 Perfect timing—you’ll have this running in no time. Here’s exactly where to go in your Cloudflare dashboard:
 
----
 
-## Step 1 — Log in
+---
+1) — Log in
 
 Go to [dash.cloudflare.com](https://dash.cloudflare.com) and log into your Cloudflare account.
 
----
 
-## Step 2 — Find **Pages**
+---
+2) — Find **Pages**
 
 On the left-hand sidebar (your account homepage), scroll until you see **Workers & Pages**.
 
 * Click **Workers & Pages**.
 * You’ll see two tabs: *Workers* and *Pages*.
 
----
 
-## Step 3 — Create a new Pages project
+---
+3) — Create a new Pages project
 
 1. Click the **Pages** tab.
 2. Press **Create a project**.
@@ -2340,9 +2397,9 @@ On the left-hand sidebar (your account homepage), scroll until you see **Workers
    * **Connect to Git** → This is the normal option. Connect your GitHub repo that has your MkDocs site.
    * **Direct Upload** → Only for static files already built locally (not recommended for MkDocs, since you want automated builds).
 
----
 
-## Step 4 — Configure your project
+---
+4) — Configure your project
 
 * **Framework preset**: choose *None* (MkDocs isn’t in the list, but “None” is correct).
 * **Build command**:
@@ -2357,9 +2414,9 @@ On the left-hand sidebar (your account homepage), scroll until you see **Workers
   ```
 * Save and deploy.
 
----
 
-## Step 5 — Custom domain
+---
+5) — Custom domain
 
 After first deploy, you’ll get a `*.pages.dev` preview URL.
 
@@ -2369,7 +2426,8 @@ After first deploy, you’ll get a `*.pages.dev` preview URL.
 
 ---
 
-### Quick sanity check for MkDocs builds
+#### Quick sanity check
+for MkDocs builds
 
 Since Cloudflare’s build containers may not have MkDocs installed by default, add a simple **requirements.txt** in your repo root:
 
@@ -2383,7 +2441,7 @@ Cloudflare will detect it and run `pip install -r requirements.txt` before build
 
 ---
 
-### Suggestion for you
+#### Suggestion for you
 
 Since you’ll likely have multiple sites (Projects, Help, Religious notes), create one Cloudflare Pages project per site, each tied to its own repo (or subfolder if you go that route). It keeps deployments simple and clean.
 
@@ -2391,7 +2449,9 @@ Since you’ll likely have multiple sites (Projects, Help, Religious notes), cre
 
 Would you like me to sketch out a **step-by-step for setting up multiple Pages projects** under subdomains (e.g. `projects.tightbytes.com`, `help.tightbytes.com`) so you’ve got a ready-made playbook before you dive in?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 ### Uploading to Github
 
@@ -2400,12 +2460,12 @@ Before we do that - and YES, I DO want to do that! - I need to sort out what I'l
 
 ---
 
-[A]
+[Emily]  
 You’re right on track, Robyn. Let me break it down so it’s crystal clear how this works with **GitHub Desktop + your MkDocs sites**:
 
----
 
-## 1. Your current folder layout
+---
+1) Your current folder layout
 
 You have:
 
@@ -2421,9 +2481,9 @@ You have:
 
 This is a perfect structure—each folder (`Art`, `Projects`) is a standalone MkDocs project.
 
----
 
-## 2. Pointing GitHub Desktop correctly
+---
+2) Pointing GitHub Desktop correctly
 
 What you want is for **each MkDocs project to correspond to its own GitHub repository** (this is what Cloudflare Pages will connect to).
 
@@ -2444,9 +2504,9 @@ So in GitHub Desktop for Mac:
 
 Now you’ll have clean, dedicated repos for each MkDocs site.
 
----
 
-## 3. Cloudflare Pages expects a repo root
+---
+3) Cloudflare Pages expects a repo root
 
 Remember: Cloudflare Pages will run your build command (`mkdocs build`) starting at the repo root.
 So the structure **must be like this in GitHub**:
@@ -2464,9 +2524,9 @@ Art/
 
 No nesting of multiple MkDocs projects inside one repo—it gets messy.
 
----
 
-## 4. About replacing your old “Projects” repo
+---
+4) About replacing your old “Projects” repo
 
 Since you said you already have a `Projects` repo on GitHub with Sphinx stuff:
 
@@ -2495,20 +2555,20 @@ That would be helpful, thanks, Emily. So, I've downloaded the archive (zip) of t
 
 ---
 
-[A]
+[Emily]  
 Brilliant—here’s a clear, safe migration playbook from your old **Sphinx-in-/docs + GitHub Pages** setup to a clean **MkDocs + Cloudflare Pages** pipeline, using **GitHub Desktop on Mac**.
 
----
 
-# 0) Quick decisions
+---
+0) Quick decisions
 
 * **Repo strategy:** one repo per site (e.g., `Projects`, `Art`).
 * **Hosting:** Cloudflare Pages (disable GitHub Pages to avoid conflicts).
 * **URLs:** keep the same paths where possible; add redirects later if needed.
 
----
 
-# 1) Unpublish the old GitHub Pages (prevents clashes)
+---
+1) Unpublish the old GitHub Pages (prevents clashes)
 
 In the **old Projects repo** on GitHub (web UI):
 
@@ -2518,9 +2578,9 @@ In the **old Projects repo** on GitHub (web UI):
 
 > This stops GitHub from serving `/docs` as a site, so Cloudflare can take over cleanly.
 
----
 
-# 2) Prepare your local MkDocs project
+---
+2) Prepare your local MkDocs project
 
 In Finder you’ve got:
 
@@ -2580,17 +2640,17 @@ Put your Markdown here. Add an `index.md` at the root and one in each major sect
 
 > If you have assets (mp3s, images, downloads), put them under `docs/…` in the same folder structure as your current site so existing links keep working.
 
----
 
-# 3) Move the old Sphinx stuff out (you already zipped it)
+---
+3) Move the old Sphinx stuff out (you already zipped it)
 
 * You’ve downloaded the repo archive of the old Sphinx `/docs`. Great—archive kept.
 * Remove old Sphinx files from the local working folder you’ll publish (don’t keep `_build`, `conf.py`, etc.).
 * Keep `README.md` if it still applies (update it to mention MkDocs). Keep or replace `.gitignore` as above.
 
----
 
-# 4) Connect the local folder to GitHub (GitHub Desktop)
+---
+4) Connect the local folder to GitHub (GitHub Desktop)
 
 1. Open **GitHub Desktop** → **File → Add Local Repository…**
    Point to: `/Users/robyn/Sites/Projects`
@@ -2607,9 +2667,9 @@ Put your Markdown here. Add an `index.md` at the root and one in each major sect
      * Delete the old repo on GitHub first, then publish fresh; **or**
      * Change the remote of your local repo to point to the existing one (GitHub Desktop will guide you).
 
----
 
-# 5) Test locally (optional but reassuring)
+---
+5) Test locally (optional but reassuring)
 
 From Terminal:
 
@@ -2622,9 +2682,9 @@ mkdocs serve
 Open the local URL it prints (usually `http://127.0.0.1:8000`).
 Fix any missing images/links before moving on.
 
----
 
-# 6) Create the Cloudflare Pages project
+---
+6) Create the Cloudflare Pages project
 
 1. Cloudflare Dashboard → **Workers & Pages → Pages → Create a project**
 2. **Connect to Git** → select your `Projects` repo.
@@ -2637,9 +2697,9 @@ Fix any missing images/links before moving on.
    * **Output directory:** `site`
 4. Deploy. You’ll get a `*.pages.dev` preview URL.
 
----
 
-# 7) Attach your custom subdomain
+---
+7) Attach your custom subdomain
 
 In the **Pages project → Custom domains**:
 
@@ -2648,9 +2708,9 @@ In the **Pages project → Custom domains**:
 
 > If you used `www.tightbytes.com/pages/projects/...` previously and want new clean subsites like `projects.tightbytes.com`, consider adding **Cloudflare Redirect Rules** from old paths to new ones so existing external links don’t break.
 
----
 
-# 8) (Optional) Redirects / preserving old URLs
+---
+8) (Optional) Redirects / preserving old URLs
 
 If paths are changing, add **Redirect Rules** in Cloudflare:
 
@@ -2658,9 +2718,9 @@ If paths are changing, add **Redirect Rules** in Cloudflare:
 * Example: redirect `/pages/projects/*` → `https://projects.tightbytes.com/:splat` (301)
 * Test a few URLs.
 
----
 
-# 9) Rinse and repeat for the “Art” site
+---
+9) Rinse and repeat for the “Art” site
 
 Follow the same steps for `/Users/robyn/Sites/Art`:
 
@@ -2671,7 +2731,8 @@ Follow the same steps for `/Users/robyn/Sites/Art`:
 
 ---
 
-## Notes about your `README.md` and existing `/docs` GitHub Pages
+#### Notes
+About your `README.md` and existing `/docs` GitHub Pages
 
 * Since Cloudflare Pages will be serving the site, **disable GitHub Pages** (Step 1).
 * You can keep a `README.md` at the repo root—handy for you and visitors on GitHub. It doesn’t affect Cloudflare Pages.
@@ -2681,7 +2742,7 @@ Follow the same steps for `/Users/robyn/Sites/Art`:
 
 If you want, paste your current `mkdocs.yml` and a quick `docs/` tree for the Projects site, and I’ll refactor the `nav:` (plus suggest a clean folder layout) to fix that left-menu clutter straight away.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ### Wrangler
 
@@ -2690,12 +2751,12 @@ Hi Emily. I've been working to get a build happening in Cloudflare for my 'proje
 
 ---
 
-[A]
+[Emily]  
 You’re bumping into **Workers** tooling by accident. That `wrangler` error (“Missing entry-point to Worker script or to assets directory”) appears when Cloudflare thinks you’re deploying a **Worker** (serverless code), not a **Pages** static site. For a plain MkDocs site you **don’t need Wrangler at all**.
 
 Here’s how to get back on the happy path.
 
-## What likely happened
+#### What likely happened
 
 One (or more) of these triggered the Workers flow:
 
@@ -2703,14 +2764,18 @@ One (or more) of these triggered the Workers flow:
 * Your repo contains a **`wrangler.toml`**, a **`functions/`** folder, or a **`_worker.js`** file—Pages treats that as “Pages Functions,” which invokes Wrangler.
 * The project’s “Functions” feature is enabled in the Pages settings.
 
-## Fix in 5 minutes
+#### Fix in 5 minutes
 
-### 1) Make sure it’s a **Pages** project
+
+---
+1) Make sure it’s a **Pages** project
 
 Cloudflare Dashboard → **Workers & Pages** → **Pages** tab → open your **Projects** project.
 If you accidentally created a **Worker** (in the Workers tab), delete it and create a **Pages** project instead.
 
-### 2) Disable Pages Functions
+
+---
+2) Disable Pages Functions
 
 In your **Pages** project:
 
@@ -2722,7 +2787,9 @@ In your **Pages** project:
   * `_worker.js`
     Commit & push.
 
-### 3) Use a simple, MkDocs-only build
+
+---
+3) Use a simple, MkDocs-only build
 
 In the Pages project → **Settings → Build & deploy → Build settings**:
 
@@ -2745,7 +2812,9 @@ mkdocs-material
 
 Add a **`mkdocs.yml`** at repo root and a `docs/` directory with your content. MkDocs will output to `site/`.
 
-### 4) (Optional) Make Python explicit
+
+---
+4) (Optional) Make Python explicit
 
 Pages now supports setting Python version via env var:
 
@@ -2753,7 +2822,9 @@ Pages now supports setting Python version via env var:
 
   * Key: `PYTHON_VERSION`  Value: `3.11`
 
-### 5) Redeploy
+
+---
+5) Redeploy
 
 * **Deployments → Retry deployment** (or push a small commit).
 
@@ -2761,7 +2832,7 @@ That should build cleanly with no Wrangler involvement.
 
 ---
 
-## Quick sanity checks
+#### Quick sanity checks
 
 * **Repo layout**
 
@@ -2786,7 +2857,8 @@ That should build cleanly with no Wrangler involvement.
 
 ---
 
-## Stopgap (if you want it working instantly)
+#### Stopgap
+(if you want it working instantly)
 
 If you’re tired of builds for now, you can **Direct Upload** a ready-made build:
 
@@ -2808,7 +2880,7 @@ Just having a look at the build configuration deploy commands: npx wrangler depl
 
 ---
 
-[A]
+[Emily]  
 Exactly — you’ve nailed it.
 
 That `npx wrangler deploy` command is what’s pulling in Wrangler and trying to treat your project as a **Worker** deployment. For MkDocs on **Cloudflare Pages**, you don’t want Wrangler in the build pipeline at all.
@@ -2855,7 +2927,7 @@ That `npx wrangler deploy` command is what’s pulling in Wrangler and trying to
 
 ---
 
-### Why this happened
+#### Why this happened
 
 Cloudflare **Pages** supports *two kinds of projects*:
 
@@ -2868,10 +2940,7 @@ Your config was pointing to the second path. By swapping the build command, you 
 
 👉 Would you like me to give you a **minimal `requirements.txt` and `mkdocs.yml` template** that will guarantee the Pages build runs cleanly?
 
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 [Q]  
 Um, can you 'see' this page?
@@ -2880,7 +2949,7 @@ https://dash.cloudflare.com/bcb00e35f3d7f05aec78424d377450f6/workers/services/vi
 
 ---
 
-[A]
+[Emily]  
 I can’t “see” inside your Cloudflare dashboard link directly (it’s private to your account), but I can guide you through what you’ll see there and what to change.
 
 From the URL you gave, you’re looking at the **Workers → Services → Settings** page. That means Cloudflare thinks your project is a Worker service — which is why it keeps invoking Wrangler.
@@ -2889,7 +2958,7 @@ For your **MkDocs site**, you don’t want it under **Workers** at all. You want
 
 ---
 
-### Where you should be
+#### Where you should be
 
 * **Cloudflare Pages** → `https://dash.cloudflare.com/<account-id>/pages`
 * This is where you create a Pages project and connect it to your GitHub repo.
@@ -2897,14 +2966,14 @@ For your **MkDocs site**, you don’t want it under **Workers** at all. You want
 
 ---
 
-### Why you’re seeing Wrangler
+#### Why you’re seeing Wrangler
 
 * If you landed in **Workers → Services**, Cloudflare assumes you’re deploying a Worker (serverless code).
 * The Wrangler error appears because it can’t find a Worker entry point (`index.js`, `functions/`, or `wrangler.toml`).
 
 ---
 
-### What you should do
+#### What you should do
 
 1. Go to **Pages** in your Cloudflare dashboard (left-hand sidebar).
 2. Click **Create a project**.
@@ -2925,7 +2994,7 @@ For your **MkDocs site**, you don’t want it under **Workers** at all. You want
 
 ---
 
-### Quick test
+#### Quick test
 
 If you go to your dashboard sidebar and see **Pages** → you’re in the right place.
 If you only see **Workers & Pages** lumped together, make sure you specifically choose **Pages** → not **Workers**.
@@ -2938,7 +3007,11 @@ If you only see **Workers & Pages** lumped together, make sure you specifically 
 
 Would you like me to walk you step-by-step through **disconnecting the current Worker service** (so it doesn’t keep conflicting) and then spinning up the proper **Pages build** from your GitHub repo?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
+### Spin Up Proper Pages
 
 [Q]  
 yes please. I don't know if they changed the interface, but they seem to have combined the workers and pages:
@@ -2956,10 +3029,12 @@ All on the same page. No links anywhere to a separate Pages page.
 
 ---
 
-[A]
+[Emily]  
 You’re right — Cloudflare merged **Workers & Pages** into one “Compute” area. The Pages flow is still there; it’s just a different entry point. Here’s how to (1) remove the mistaken Worker service and (2) create the proper **Pages** project for your MkDocs site.
 
-# Part A — Remove the Worker service (the thing invoking Wrangler)
+
+---
+1) — Remove the Worker service (the thing invoking Wrangler)
 
 1. In the Cloudflare dashboard, go to **Workers & Pages** (left sidebar, under *Compute*).
 2. On the **Overview** tab you’ll see a list of apps. Find the one that’s your accidental Worker (the one that shows “Service” or has deployments failing with Wrangler).
@@ -2976,7 +3051,9 @@ Also clean up your repo (so Pages doesn’t “detect functions” later):
   * `functions/` directory
     Commit & push.
 
-# Part B — Create a proper **Pages** project (MkDocs, no Wrangler)
+
+---
+2) — Create a proper **Pages** project (MkDocs, no Wrangler)
 
 1. In the same **Workers & Pages** area, click **Create application** (top-right).
 
@@ -3025,7 +3102,7 @@ Also clean up your repo (so Pages doesn’t “detect functions” later):
    * In the Pages project → **Custom domains** → **Add** → e.g. `projects.tightbytes.com`.
    * Cloudflare will set the CNAME and SSL automatically.
 
-# Quick repo sanity-check
+#### Quick repo sanity-check
 
 Your repo root should look like this:
 
@@ -3056,7 +3133,8 @@ mkdocs-material
 # mkdocs-glightbox
 ```
 
-# If you want it online instantly (no build yet)
+#### Online instantly
+(no build yet)
 
 * Locally run: `mkdocs build` → this creates `site/`
 * In **Workers & Pages → Create application → Pages → Direct Upload**
@@ -3076,12 +3154,12 @@ What I'm confused about is the directory name... is this the one on github (/doc
 
 ---
 
-[A]
+[Emily]  
 Great question — this bit trips up a lot of people because **Cloudflare Pages** uses *two different “directory” concepts*:
 
----
 
-## 1. **Your GitHub Repo Directory Structure**
+---
+1) **Your GitHub Repo Directory Structure**
 
 This is how your project is laid out on GitHub.
 For MkDocs (or Sphinx, similar idea), you likely have:
@@ -3097,9 +3175,9 @@ mkdocs.yml
 
 👉 On GitHub, you push **/docs/** (and `mkdocs.yml`), but you *don’t* push `site/` — Cloudflare builds that for you.
 
----
 
-## 2. **Cloudflare Pages "Build output directory"**
+---
+2) **Cloudflare Pages "Build output directory"**
 
 When Cloudflare asks *“Directory name”* (on the setup screen, under **Build settings → Build output directory**), it means:
 
@@ -3113,9 +3191,9 @@ site
 
 (because MkDocs outputs the static site into `site/` by default).
 
----
 
-## 3. **So how to fill it in**
+---
+3) **So how to fill it in**
 
 * **Build command:**
 
@@ -3145,7 +3223,11 @@ Do **not** put `/docs` here — that’s your source. If you did, Cloudflare wou
 
 Would you like me to sketch you the **exact recommended GitHub repo layout** (with `.gitignore`, `requirements.txt`, etc.) for Cloudflare Pages + MkDocs, so you can line your repo up with it?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
+### .gitignore
 
 [Q]  
 Currently my .gitignore looks like this:
@@ -3158,12 +3240,12 @@ Currently my .gitignore looks like this:
 
 ---
 
-[A]
+[Emily]  
 Perfect — your `.gitignore` is already very close to best practice for an MkDocs repo. Let me walk you through what you’ve got, why it matters, and whether to tweak anything before deploying to Cloudflare Pages:
 
 ---
 
-## What You’ve Got
+#### What You’ve Got
 
 ```
 .DS_Store     ← macOS junk files (ignore ✅)
@@ -3177,7 +3259,7 @@ That’s solid. The most important entry is `/site/`, because Cloudflare will ge
 
 ---
 
-## What You Might Add
+#### What You Might Add
 
 A few extras commonly added for MkDocs + Python projects:
 
@@ -3189,14 +3271,14 @@ __pycache__/       # Python cache dirs
 
 ---
 
-## What to Keep
+#### What to Keep
 
 * ✅ `/site/` → absolutely must be ignored (you never want to push that).
 * ✅ `/docs/` → do NOT ignore this. That’s your source Markdown, which Cloudflare needs.
 
 ---
 
-## Cloudflare Pages Build
+#### Cloudflare Pages Build
 
 * **Build command:**
 
@@ -3232,31 +3314,31 @@ Okay, finally figured out why I kept getting the worker interface... on the Get 
 
 ---
 
-[A]
+[Emily]  
 Ahhh, that explains it! Yes — Cloudflare **really blurred the line** between *Workers* and *Pages* in the new dashboard, and they’ve made the Pages tab a bit too subtle. When the *Pages* tab is greyed out, it feels like there’s only Workers available, but once you actually click it, you’ll see the right flow for creating a Pages project.
 
 Here’s the clean sequence now that you’ve spotted it:
 
----
 
-### 1. Start from the Right Place
+---
+1) Start from the Right Place
 
 * In the Cloudflare dashboard, go to **Workers & Pages**.
 * You’ll see two tabs: **Workers** and **Pages**.
 * Click **Pages** — it should take you to the “Create a Project” screen.
 
----
 
-### 2. Connect Your Repo
+---
+2) Connect Your Repo
 
 * Choose **Connect to Git**.
 * Authorize GitHub (if not already).
 * Select your repo (e.g., `Projects`).
 * Cloudflare will read the branch (usually `main`).
 
----
 
-### 3. Configure Build
+---
+3) Configure Build
 
 * **Framework preset**: select **None** (since MkDocs isn’t auto-detected).
 * **Build command**:
@@ -3270,9 +3352,9 @@ Here’s the clean sequence now that you’ve spotted it:
   site
   ```
 
----
 
-### 4. Deploy
+---
+4) Deploy
 
 * Cloudflare will clone, install MkDocs, build `/site`, and deploy.
 * From then on, every push to GitHub automatically rebuilds the Pages site.
@@ -3298,29 +3380,29 @@ projects-2rx.pages.dev
 
 ---
 
-[A]
+[Emily]  
 That’s fantastic news, Robyn — congratulations! 🎉 You’ve cleared the hardest hurdle, and now you’ve got your **MkDocs site actually live on Cloudflare Pages**. That *“Region: Earth”* line is their cheeky way of saying you’re good to go.
 
 Here’s what’s next to make it really shine:
 
----
 
-### 1. Verify Your Output
+---
+1) Verify Your Output
 
 * Visit: **[projects-2rx.pages.dev](https://projects-2rx.pages.dev)**
 * Confirm your MkDocs theme, navigation, and content all look correct.
 * If you need tweaks (like CSS, theme config, or nav reordering), those go into `mkdocs.yml`.
 
----
 
-### 2. Add a Custom Domain
+---
+2) Add a Custom Domain
 
 * In your Cloudflare Pages project settings, you can add a domain you own (e.g., `projects.robynhahn.com`).
 * Cloudflare handles the SSL certificate automatically.
 
----
 
-### 3. Set Up CI/CD Nicely
+---
+3) Set Up CI/CD Nicely
 
 Right now, every push to `main` will rebuild automatically.
 If you want to preview *feature branches* before merging:
@@ -3328,9 +3410,9 @@ If you want to preview *feature branches* before merging:
 * Push to a branch (say, `update-docs`).
 * Cloudflare will give you a unique preview URL per branch.
 
----
 
-### 4. Housekeeping
+---
+4) Housekeeping
 
 * Delete the old `/docs` Sphinx remnants in GitHub if you haven’t already.
 * Keep `.gitignore` with `/site/` so you don’t commit the build output.
@@ -3345,17 +3427,22 @@ No more Wrangler headaches, no Workers confusion, just static deploys straight f
 
 Would you like me to show you how to **map this to a custom subdomain** (like `projects.robynhahn.com`) so you don’t have to live with the `pages.dev` URL?
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
+### Map to Domain
 
 [Q]  
 I actually have a live hosting with cloudflare with my own domain tightbytes.com... took care of that this morning, and the change has already happened. So yes, that would be great. (like: projects.tightbytes.com?
 
 ---
 
-[A]
+[Emily]  
 Awesome—since your domain is already on Cloudflare, wiring up **projects.tightbytes.com** to your Pages project is quick.
 
-## Point a subdomain to your Pages project
+#### Point a subdomain
+to your Pages project
 
 1. **Open your Pages project** (the one that deployed to `projects-2rx.pages.dev`).
 2. Go to **Settings → Custom domains**.
@@ -3373,7 +3460,8 @@ That’s it—your site should load at **[https://projects.tightbytes.com](https
 
 ---
 
-## Optional (but nice to do)
+#### Optional
+(but nice to do)
 
 * **Force HTTPS:** Pages does this by default, but double-check under your zone:
   **SSL/TLS → Edge Certificates → Always Use HTTPS** (enabled).
@@ -3392,7 +3480,7 @@ That’s it—your site should load at **[https://projects.tightbytes.com](https
 
 ---
 
-## Quick sanity checks
+#### Quick sanity checks
 
 * In **DNS → Records**, you should see:
 
@@ -3401,7 +3489,9 @@ That’s it—your site should load at **[https://projects.tightbytes.com](https
 
 If you want, tell me the exact subdomains you plan (e.g., `projects`, `help`, `art`) and I’ll give you a tiny checklist for each so you can rinse-and-repeat fast.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
 
 ### Subdomains
 
@@ -3410,12 +3500,12 @@ Actually, you have your finger perfectly on the pulse, Emily, metaphorically spe
 
 ---
 
-[A]
+[Emily]  
 Perfect—then let’s lay this out in a clear **subdomain checklist** for you. You’ll be able to repeat the process quickly for **projects**, **help**, and **art**.
 
----
 
-## 1. Set up each Pages project
+---
+1) Set up each Pages project
 
 For each content folder (`Projects`, `Help`, `Art`) you’ll want its own Pages project in Cloudflare:
 
@@ -3428,9 +3518,9 @@ For each content folder (`Projects`, `Help`, `Art`) you’ll want its own Pages 
 * Deploy.
   Each will initially live at something like `help-abc.pages.dev` or `art-xyz.pages.dev`.
 
----
 
-## 2. Assign a custom subdomain
+---
+2) Assign a custom subdomain
 
 Repeat this for each project:
 
@@ -3444,9 +3534,9 @@ Repeat this for each project:
 
 ⚡ Tip: Do **not** use A/AAAA records—always CNAME these to the `*.pages.dev` origin Cloudflare gives you.
 
----
 
-## 3. Confirm DNS records
+---
+3) Confirm DNS records
 
 In **Cloudflare DNS → Records** you should see:
 
@@ -3454,9 +3544,9 @@ In **Cloudflare DNS → Records** you should see:
 * `help` → CNAME → your help Pages domain
 * `art` → CNAME → your art Pages domain
 
----
 
-## 4. (Optional but useful) Redirects
+---
+4) (Optional but useful) Redirects
 
 If you used to serve these from `/docs` or `/pages/...`, you can set up **Redirect Rules**:
 
@@ -3469,9 +3559,9 @@ Example:
 * If old path: `https://tightbytes.com/projects/*`
 * Redirect target: `https://projects.tightbytes.com/:splat`
 
----
 
-## 5. Sanity checks
+---
+5) Sanity checks
 
 * Custom domain shows **Active certificate** in Pages.
 * `curl -I https://projects.tightbytes.com` returns **301/200** with SSL.
@@ -3479,7 +3569,7 @@ Example:
 
 ---
 
-## Rinse & Repeat
+#### Rinse & Repeat
 
 The process is identical for each new MkDocs project you want to publish. It scales beautifully if you later add more (e.g., `music.tightbytes.com`, `notes.tightbytes.com`).
 
@@ -3494,7 +3584,7 @@ I might come back to that - at this point, I'm going to trying to follow these i
 
 ---
 
-[A]
+[Emily]  
 That sounds like a good plan, Robyn! You’ve already done the hard part—getting your first project deployed and live. From here it’s mostly repetition and a bit of DNS tidying.
 
 Take your time with the checklists; once you’ve done one or two subdomains, the rest will feel natural. And remember, the *Pages → Custom domains* step is where everything clicks together.
@@ -3503,15 +3593,21 @@ If you get stuck on anything (like build configs, DNS records, or redirects), ju
 
 Would you like me to prepare a **one-page “troubleshooting map”**—a quick reference for the *most common Cloudflare Pages gotchas* (build command errors, wrong output directory, SSL pending, DNS mis-pointing)? It might save you from digging back into docs when something crops up.
 
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+
+### MkDocs Troubleshoot Map
+
+Awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map** you can keep beside you. It’s symptom → cause → fix, so you can scan fast.
+
 ---
 
-awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map** you can keep beside you. It’s symptom → cause → fix, so you can scan fast.
+**Cloudflare Pages × MkDocs — Quick Fix Map**
+
 
 ---
-
-# Cloudflare Pages × MkDocs — Quick Fix Map
-
-## 1) Build fails or deploys a blank page
+1) Build fails or deploys a blank page
 
 **Symptom:** Build error or site deploys with no content.
 **Likely cause:** Wrong build command / missing dependencies.
@@ -3530,7 +3626,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
   `pip install -r requirements.txt && mkdocs build`
 * **Output directory:** `site`
 
-## 2) Wrangler / Worker errors appear
+
+---
+2) Wrangler / Worker errors appear
 
 **Symptom:** Errors mentioning `wrangler` or “missing entry-point to Worker”.
 **Cause:** You’re in **Workers** or Pages Functions got auto-enabled.
@@ -3541,7 +3639,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * Remove `wrangler.toml`, `_worker.js`, or `functions/` from the repo.
 * Redeploy.
 
-## 3) Build works locally but fails on Pages
+
+---
+3) Build works locally but fails on Pages
 
 **Symptom:** `mkdocs build` works on your Mac; Cloudflare fails.
 **Cause:** Missing plugin in `requirements.txt` or wrong Python version.
@@ -3551,7 +3651,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * Set **Environment variable**: `PYTHON_VERSION=3.11` (Pages → Settings → Env vars).
 * Redeploy.
 
-## 4) 404s for pages or assets
+
+---
+4) 404s for pages or assets
 
 **Symptom:** Some pages/images/MP3s 404.
 **Causes & Fixes:**
@@ -3561,7 +3663,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * Missing `index.md` in a section → add `docs/section/index.md`.
 * Absolute vs relative links: prefer `/path/file` or `../` styles that match your structure.
 
-## 5) Left nav a mess / wrong ordering
+
+---
+5) Left nav a mess / wrong ordering
 
 **Symptom:** Navigation looks chaotic.
 **Cause:** Auto-generated nav from file system, deep nesting.
@@ -3578,7 +3682,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
   ```
 * Keep to **2–3 levels max**. Add `index.md` per folder.
 
-## 6) Custom domain not working (but *.pages.dev works)
+
+---
+6) Custom domain not working (but *.pages.dev works)
 
 **Symptom:** `projects.tightbytes.com` fails but `*.pages.dev` loads.
 **Cause:** DNS or cert not finished.
@@ -3588,7 +3694,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * In DNS, you should see: `projects CNAME <your-project>.pages.dev` (proxied = orange cloud).
 * Wait a few minutes for SSL to show **Active** in the Pages project.
 
-## 7) Old URLs still appear / wrong site shows
+
+---
+7) Old URLs still appear / wrong site shows
 
 **Symptom:** Browser shows old content after deploy.
 **Cause:** Cache (browser or CDN).
@@ -3598,7 +3706,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * Cloudflare dashboard → **Caching → Purge → Purge Everything** (only if needed).
 * Confirm with: `curl -I https://projects.tightbytes.com` (check `cf-cache-status` & date).
 
-## 8) GitHub connection issues (no builds)
+
+---
+8) GitHub connection issues (no builds)
 
 **Symptom:** No new deploys after pushing.
 **Cause:** Missing GitHub permissions or wrong branch.
@@ -3607,7 +3717,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * Pages project → **Build & deploy → Source**: confirm repo & branch (`main`).
 * Reconnect GitHub if requested (grant repo access).
 
-## 9) GitHub Pages conflict
+
+---
+9) GitHub Pages conflict
 
 **Symptom:** Randomly seeing the old site or double hosting.
 **Cause:** Old GitHub Pages still enabled.
@@ -3616,7 +3728,9 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 * GitHub repo → **Settings → Pages** → **Disable** (Source: None).
 * Remove any `CNAME` file in the repo root if it was for GitHub Pages.
 
-## 10) Redirects needed (preserve old links)
+
+---
+10) Redirects needed (preserve old links)
 
 **Symptom:** Old paths 404 after restructuring.
 **Fix:**
@@ -3629,7 +3743,8 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 
 ---
 
-## Quick sanity checklist (use every time)
+#### Quick sanity checklist
+(use every time)
 
 * Repo root has:
 
@@ -3648,7 +3763,8 @@ awesome — here’s a compact **Cloudflare Pages + MkDocs Troubleshooting Map**
 
 ---
 
-## Local test commands (catch errors before deploying)
+#### Local test commands
+(catch errors before deploying)
 
 ```bash
 pip install -r requirements.txt
@@ -3669,7 +3785,7 @@ https://projects.tightbytes.com is being set up as we speak. They will notify me
 
 ---
 
-[A]
+[Emily]  
 Short answer: **Yes.** You can have **some Cloudflare Pages projects connected to Git (auto-build)** and **others that are Direct Upload projects (manual/CI uploads)**. They happily coexist under the same account.
 
 A few important gotchas:
@@ -3678,7 +3794,8 @@ A few important gotchas:
 * **Git projects + manual deploys:** Newer docs note you can **pause/disable auto-deploys** on a Git-integrated project and **deploy with Wrangler** to that same project if you prefer manual control. (You still won’t get the dashboard’s drag-and-drop “Direct Upload” for a Git project.) ([Cloudflare Docs][2])
 * **Direct Upload projects:** These are created as “Direct Upload” and can be updated by **Wrangler** or **drag-and-drop**. You can’t later convert them to Git. ([Cloudflare Docs][3], [cloudflare-docs.justalittlebyte.ovh][4])
 
-### Practical setups you can use
+#### Practical setups
+you can use
 
 * **Projects (Git auto-build)** + **Help (Git auto-build)** + **Art (Direct Upload)** → totally fine.
 * If you want a Git project but sometimes deploy artifacts from your own CI:
@@ -3707,7 +3824,7 @@ If you tell me which one(s) you’d like to keep Git-driven vs. manual, I’ll o
 
 ## MkDocs
 
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260103an.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 ### Banner Height
 
@@ -3716,18 +3833,18 @@ Hi Emily. I have a nav problem with my MkDocs pages... they're still too tall (t
 
 ---
 
-[A]
+[Emily]  
 Ah yes — this is a **very common MkDocs ergonomics issue**, especially with **Material for MkDocs**, and thankfully it’s easy to tame. You’re not imagining it: the left nav *is* overly tall by default.
 
 Below are **three practical ways** to reduce the vertical height of the navigation, from least invasive to most powerful. You can combine them.
 
----
 
-## Option 1 — Reduce vertical padding (most effective)
+---
+1) — Reduce vertical padding (most effective)
 
 This is the big one.
 
-### 1️⃣ Create (or edit) a custom CSS file
+1️⃣ Create (or edit) a custom CSS file
 
 Create this file in your docs tree:
 
@@ -3735,7 +3852,7 @@ Create this file in your docs tree:
 docs/stylesheets/extra.css
 ```
 
-### 2️⃣ Add this CSS
+2️⃣ Add this CSS
 
 This trims padding between nav items and section headers:
 
@@ -3757,7 +3874,7 @@ This trims padding between nav items and section headers:
 }
 ```
 
-### 3️⃣ Enable it in `mkdocs.yml`
+3️⃣ Enable it in `mkdocs.yml`
 
 ```yaml
 extra_css:
@@ -3766,9 +3883,9 @@ extra_css:
 
 ➡️ This alone usually cuts nav height by ~30–40%.
 
----
 
-## Option 2 — Reduce font size slightly
+---
+2) — Reduce font size slightly
 
 If the menu still feels “lofty”:
 
@@ -3781,9 +3898,9 @@ If the menu still feels “lofty”:
 
 You can go as low as `0.8rem` without harming readability.
 
----
 
-## Option 3 — Collapse sections by default (very useful)
+---
+3) — Collapse sections by default (very useful)
 
 If your nav has many sections:
 
@@ -3800,7 +3917,8 @@ If you already have that enabled and it’s still tall, combine with Option 1.
 
 ---
 
-## Optional — Limit TOC depth on the right
+### Optional
+— Limit TOC depth on the right
 
 Sometimes the *right* sidebar makes the page feel tall/cluttered too:
 
@@ -3812,14 +3930,15 @@ markdown_extensions:
 
 ---
 
-## What **not** to do
+### What **not** to do
 
 * ❌ Don’t rely only on hiding sections — spacing is the real culprit.
 * ❌ Don’t deeply nest nav levels — MkDocs becomes visually noisy fast.
 
 ---
 
-## Recommended “Goldilocks” combo
+### “Goldilocks” combo
+Recommended 
 
 For most documentation-heavy sites (like yours):
 
@@ -3855,7 +3974,8 @@ Let me explain what’s happening, then give you **three clean, controlled fixes
 
 ---
 
-## What your `custom.css` is doing (the root cause)
+### What your `custom.css`
+is doing (the root cause)
 
 From your file:
 
@@ -3882,9 +4002,11 @@ This means:
 
 ---
 
-## Your options (pick one)
+### Your options (pick one)
 
-### 🟢 Option 1 — Reduce the hero height (recommended)
+
+---
+1) — Reduce the hero height (recommended)
 
 This keeps your design but immediately fixes nav usability.
 
@@ -3914,9 +4036,9 @@ And match mobile too:
 * No structural changes.
 * Best balance of aesthetics + usability.
 
----
 
-### 🟢 Option 2 — Make the header *non-fixed*
+---
+2) — Make the header *non-fixed*
 
 If you don’t absolutely need the header to stay visible while scrolling:
 
@@ -3950,9 +4072,9 @@ And **remove or comment out**:
 * Header scrolls away naturally.
 * Much calmer, more “documentation-first” feel.
 
----
 
-### 🟢 Option 3 — Keep the hero, but let the nav overlap it (advanced)
+---
+3) — Keep the hero, but let the nav overlap it (advanced)
 
 This is the most “designed” solution.
 
@@ -3973,7 +4095,8 @@ This tells MkDocs:
 
 ---
 
-## Recommended combination for *your* site
+### Recommended combination
+for *your* site
 
 Given your content-heavy pages:
 
@@ -3998,7 +4121,7 @@ This keeps:
 
 ---
 
-## Why this felt “mysterious”
+### Why this felt “mysterious”
 
 You correctly tuned the nav… but the **viewport was being eaten from above**, not inside the nav itself. Once you know that, everything makes sense.
 
@@ -4018,9 +4141,9 @@ Given what you changed earlier (hero height / positioning), there are **three ve
 
 Let’s walk through them in order of likelihood.
 
----
 
-## 1️⃣ The hero container still exists, but now has **zero height**
+---
+1️⃣ The hero container still exists, but now has **zero height**
 
 This is the most common cause.
 
@@ -4042,7 +4165,7 @@ If:
 
 → the hero collapses to 0px tall, so the image “vanishes”.
 
-### ✅ Fix
+### ✅ Fix 1
 
 Make the height explicit again:
 
@@ -4062,9 +4185,9 @@ Or hard-test it with:
 
 If it reappears → we’ve confirmed the cause.
 
----
 
-## 2️⃣ The image path is now wrong relative to MkDocs
+---
+2️⃣ The image path is now wrong relative to MkDocs
 
 MkDocs **rewrites paths** depending on where CSS lives.
 
@@ -4100,13 +4223,13 @@ docs/
 
 If you moved CSS files recently, the relative path would silently break.
 
----
 
-## 3️⃣ The header is now behind something (z-index issue)
+---
+3️⃣ The header is now behind something (z-index issue)
 
 When switching between `position: fixed` and `relative`, stacking order can change.
 
-### ✅ Fix
+### ✅ Fix 2
 
 Add a defensive z-index:
 
@@ -4123,7 +4246,7 @@ This ensures the hero renders *above* the main content but *below* nav overlays.
 
 ---
 
-## Quick diagnostic (2 minutes)
+### Quick diagnostic (2 minutes)
 
 Add this temporarily:
 
@@ -4141,7 +4264,7 @@ Remove once diagnosed.
 
 ---
 
-## TL;DR
+### TL;DR
 
 * ❌ You do **not** need to resize the image.
 * ✅ The hero container likely lost height or its image URL broke.
@@ -4155,9 +4278,11 @@ Oh Robyn — you haven’t “stuffed it up” at all. You’ve actually got 95%
 
 I’ve looked through what you uploaded. 
 
-## The two biggest culprits
+### The two biggest culprits
 
-### 1) Your mobile margin-top is wrong (it’s subtracting 84px)
+
+---
+1) Your mobile margin-top is wrong (it’s subtracting 84px)
 
 At the bottom you have:
 
@@ -4180,7 +4305,9 @@ That means on mobile you’re pushing the main content down by only **26px** (11
 }
 ```
 
-### 2) Your image path might be wrong (most common)
+
+---
+2) Your image path might be wrong (most common)
 
 You’ve got:
 
@@ -4208,7 +4335,8 @@ If it doesn’t, the path is wrong or the image isn’t inside `docs/`.
 
 ---
 
-## One more thing: you still have the diagnostic red bar enabled
+### One more thing:
+you still have the diagnostic red bar enabled
 
 You currently have:
 
@@ -4222,9 +4350,10 @@ That was the “diagnostic” we discussed. It won’t kill the header image (si
 
 Also you have `.hero { min-height: var(--hero-h); }` but you don’t appear to be using a `.hero` element at all — it’s harmless but unnecessary.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
-# A clean, corrected version you can paste in
+### A clean, corrected version
+you can paste in
 
 Below is your CSS with only the essential fixes, keeping your header exactly as intended:
 
@@ -4309,9 +4438,10 @@ Below is your CSS with only the essential fixes, keeping your header exactly as 
 }
 ```
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
-## If the image still doesn’t show after this…
+### If the image
+still doesn’t show after this…
 
 Then it’s 99% the file path. Do this quick check:
 
@@ -4327,14 +4457,16 @@ If it’s missing, MkDocs isn’t copying it because it isn’t under `docs/`.
 
 If you tell me where `header-bg.jpg` lives in your project tree (just the folder path), I’ll give you the exact `url(...)` that will work first time.
 
----
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+### Final Fix
 
 [Q]  
 That image lives in assets/images, just like in the url. When I pass my mouse cursor over the link, a miniature image shows up. I didn't change the path. The only thing different from usual is that my css files live in docs/assets/css instead of docs/stylesheets. So, I changed that in mkdocs.yml and moved it and voilà: works now!
 
 ---
 
-[A]
+[Emily]  
 That makes perfect sense — and you diagnosed it exactly right. 👍
 
 What bit you is **relative paths in CSS**:
@@ -4386,221 +4518,7 @@ That can cause overlap on small screens. Consider:
 
 You’ve actually done the hard part: once you internalize “CSS URLs are relative to the CSS file,” these layout mysteries stop being mysterious.
 
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-# Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-## Google Image Search
-
-<img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
+1️⃣2️⃣3️⃣🟢❌✅🚫👉
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
