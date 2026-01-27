@@ -1,6 +1,337 @@
 # Scene 40
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
+
+
+
+
+
+
+
+## Notes26-01-22e
+### Scene 40
+
+<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-22]
+
+**Scene 40 — “No Questions First” (Lauren POV)**
+
+When Sarah rings you at night, you answer.
+
+Not because she’s fragile—Sarah is many things, but fragile isn’t one of them.
+
+You answer because women who don’t ask for help until they *have* to are the ones who end up in trouble when they finally do.
+
+I was in the kitchen when the call came in, rinsing a mug and thinking about nothing in particular. The sound of my phone was ordinary.
+
+The reason for it wasn’t.
+
+“Lauren?” Sarah’s voice was careful—too careful. Tight at the edges. Like she was trying to keep her pride from spilling into the call.
+
+“Sarah,” I said. “Where are you?”
+
+There was a pause, a swallow. “Near—” she named a street. A venue. A landmark. Bree’s name followed like a relief valve. “Bree’s with me.”
+
+Good. One woman, at least.
+
+“Stay where you are,” I said. “Sit down. Don’t go anywhere alone. I’m coming.”
+
+“Thank you,” she said, as if she hated the words.
+
+“No thanks,” I replied. “Just wait.”
+
+I hung up, grabbed my keys, and sent one text to Celeste.
+
+**Going to pick up Sarah + Bree. Will update.**
+
+No explanation. Celeste didn’t need a story. She needed the fact.
+
+On the way out I glanced at Charli’s shoes by the door—neatly placed, toes aligned—and felt the small, familiar pinch in my chest that came with seeing my child’s life overlapping someone else’s home.
+
+Not my home. Not quite yet.
+
+But safe enough.
+
+That was the point.
+
+I drove through the city with my jaw set and my hands steady on the wheel. Not because I was calm. Because I had practice. Motherhood trains you to turn panic into logistics.
+
+I thought, briefly, of the folder on my phone—screenshots, dates, times. The unromantic evidence of a woman being asked to manage a man’s feelings.
+
+I didn’t need the details to know the shape of it.
+
+You could tell the shape from the call alone.
+
+*Help, but don’t make me beg.*
+
+When I pulled up, I spotted them immediately.
+
+Bree on a bench, arm around Sarah’s shoulders, posture angled outward like a shield. Sarah sitting upright, chin lifted, eyes too bright in the streetlight. She looked… competent and unwell at the same time, which is a particular kind of danger.
+
+I parked, got out, and walked over without running. If I ran, it became drama. If it became drama, Sarah would recoil.
+
+“Hi,” I said, as if this were nothing more than a late pick-up from the airport.
+
+Bree stood first. “Hey,” she replied, brisk and grateful. “She’s okay. Just… overloaded.”
+
+Sarah’s eyes flicked to my face, assessing. Expecting judgement. Expecting *mum voice.*
+
+She got something else.
+
+“Okay,” I said. “Let’s get you home.”
+
+Sarah’s mouth tightened. “I can—”
+
+“No,” I said, not unkind. “You can’t. Not tonight. Not safely.”
+
+The word safely wasn’t a reprimand. It was a standard. Something you either met or you didn’t.
+
+Sarah swallowed. Then she nodded once, small.
+
+Bree opened the back door. Sarah moved toward it, but her steps weren’t as precise as her pride wanted them to be. Bree steadied her without fuss.
+
+I waited until Sarah was seated before I spoke again.
+
+“Seatbelt,” I said, calm.
+
+Sarah clicked it, cheeks flushing.
+
+Bree slid into the front passenger seat. I got in, shut the door, and took a breath.
+
+Only then did I ask the first question.
+
+“Is he contacting you right now?” I asked, keeping my eyes on the road as I pulled away.
+
+Sarah’s laugh was dry. “That’s your first question.”
+
+“Yes,” I said. “Because that’s the only one that matters this minute.”
+
+Bree angled her phone toward me. “Blocked calls,” she said. “A few.”
+
+I nodded once, already making a mental list.
+
+“Good,” I said. “We’ll document. You don’t answer.”
+
+Sarah leaned her head back against the seat, eyes closed for a moment. “I didn’t,” she muttered. “I didn’t answer.”
+
+“I know,” I said. “You called me.”
+
+That, apparently, was the right thing to say, because Sarah’s throat moved and she didn’t speak for a few seconds.
+
+Bree glanced at her, then looked forward again, jaw tight.
+
+“He’s not Ethan,” Bree said. “Tonight was… a different one.”
+
+I felt my stomach go cold.
+
+“Different one,” I repeated, keeping my voice steady.
+
+Bree nodded. “Some bloke. Grabby. The usual. We left.”
+
+Sarah spoke then, voice low. “I said no. He acted like I’d flirted.”
+
+Of course he did.
+
+I kept my eyes on the road. There were two things I could do right now: give empathy, or give stability.
+
+Sarah needed stability.
+
+“Okay,” I said. “So: two problems. One, the ex. Two, the world.”
+
+Bree barked a laugh. Sarah’s mouth twitched, almost despite herself.
+
+“Lucky me,” Sarah muttered.
+
+“Not luck,” I said, and let the steel in my voice come through. “Patterns. We deal with patterns.”
+
+I pulled up at Bree’s building, because that’s where Sarah needed to be tonight: somewhere she wouldn’t feel hunted, somewhere she wouldn’t have to walk from car to door alone while her brain did ugly arithmetic.
+
+Bree got out first, opened Sarah’s door, offered an arm.
+
+Sarah hesitated, pride flaring.
+
+I cut it off clean.
+
+“Sarah,” I said, quiet. “Don’t be brave at the wrong time.”
+
+She stared at me for a beat. Then, grudgingly, she took Bree’s arm and stepped out.
+
+Inside, Bree’s place was small and warm—women’s clutter, shoes kicked off, a throw blanket draped like an afterthought. Bree guided Sarah to the couch and handed her a glass of water with the calm authority of someone who has done triage.
+
+I sat opposite them and opened my phone.
+
+“All right,” I said. “We do boring now.”
+
+Sarah squinted. “Boring.”
+
+“Yes,” I replied. “Screenshots. Dates. Times. Building manager log. One clean statement. No essays.”
+
+Bree hovered behind the couch, arms folded. “I love you,” she told me, deadpan.
+
+Sarah groaned. “Please don’t.”
+
+I ignored both of them and held my phone out.
+
+“Sarah,” I said. “Send me the message thread.”
+
+Sarah stiffened. “Why?”
+
+“Because if you’re rattled,” I said evenly, “you might answer by accident. Or delete something out of shame. Or forget a detail you’ll need later. I’m not letting your nervous system do admin.”
+
+Sarah stared at me, then exhaled sharply.
+
+“Fine,” she muttered. “God.”
+
+“Thank you,” I replied, and waited.
+
+Sarah unlocked her phone, scrolled, and began forwarding screenshots. Each one landed in my messages like a pebble in a jar—small, ordinary, cumulative.
+
+Ethan’s language was exactly what I expected.
+
+You can’t do this to me.
+Stop being dramatic.
+I just need to talk.
+I’m outside.
+
+None of it technically violent.
+
+All of it coercive.
+
+A man trying to turn “no” into “not yet.”
+
+I felt my mouth go tight.
+
+I made a folder.
+
+**Sarah — Ethan — Jan**
+
+Then another:
+
+**Venue incident — notes**
+
+Not because I wanted to build a case tonight.
+
+Because I wanted Sarah to know—without me saying it—that this wasn’t chaos.
+
+It was manageable.
+
+Sarah watched my hands moving with a kind of exhausted relief that made my chest ache. She didn’t want to be mothered.
+
+She wanted the world to be structured again.
+
+Bree crouched beside her on the couch and spoke softly.
+
+“You did the right thing calling Lauren,” Bree said.
+
+Sarah snorted. “I called someone’s mum.”
+
+Bree grinned. “Better than becoming someone’s mum.”
+
+Sarah’s laugh cracked into something almost real. Then she rubbed her face with both hands, sudden vulnerability slipping through.
+
+“I’m so tired,” she said, and the words were barely audible.
+
+I didn’t soften into pity. Pity makes women smaller. Sarah would rather crawl out of her skin.
+
+So I gave her something else.
+
+A plan.
+
+“Okay,” I said. “Tonight: you sleep here. Bree stays with you. Phone on Do Not Disturb. If he calls, you do nothing. If he shows up, you do not engage. You call police. Period.”
+
+Sarah’s eyes flashed. “That’s dramatic.”
+
+“It’s not dramatic,” I said. “It’s procedure.”
+
+The word procedure landed like a handrail. Sarah’s shoulders lowered by a fraction.
+
+“Tomorrow,” I continued, “we update your building manager. We confirm he’s not allowed entry. We take your documentation and we file what needs filing. And if he appears at Wardrobe, you do not handle it alone.”
+
+Sarah blinked. “He wouldn’t—”
+
+“He might,” I said. “Men like this confuse public space with entitlement space. We don’t assume good behaviour.”
+
+Bree nodded sharply. “Mara will eat him.”
+
+“With a fork,” I said.
+
+Sarah’s mouth twitched again. Then, finally, her voice went small—rare for her.
+
+“Okay,” she said.
+
+Not “fine.”
+
+Not “whatever.”
+
+Okay.
+
+I stood.
+
+“I’ll check on you in the morning,” I said. “And Sarah?”
+
+She looked up.
+
+I held her gaze and made the sentence as plain as a ledger entry.
+
+“This isn’t your fault.”
+
+Sarah’s eyes sharpened, reflexively allergic to comfort.
+
+“I know,” she said.
+
+I didn’t let it slide.
+
+“No,” I repeated, quiet and firm. “Really know.”
+
+Something in her face shifted—anger, grief, exhaustion—then settled.
+
+“I know,” she said again, and this time it sounded like she was trying to believe it.
+
+“Good,” I said. “Because you’re not going to carry his behaviour like it’s your responsibility.”
+
+Sarah swallowed. She nodded once.
+
+Bree reached for her hand and squeezed it.
+
+I left them there—two women on a couch, one holding, one being held—because that was the whole point of the network.
+
+Not rescue.
+
+Not melodrama.
+
+Just women refusing to let another woman be alone in a moment that could have tipped her into danger.
+
+On the drive home, my phone buzzed once.
+
+A text from Celeste.
+
+**All okay?**
+
+I replied without stopping at a red light, because some things mattered more than traffic etiquette.
+
+**Sarah safe. Bree with her. Ex escalating; we’re going formal. Will brief Mara tomorrow.**
+
+I put the phone down.
+
+The streetlights slid past.
+
+And I felt, with a strange, steady clarity, the way all of this rhymed.
+
+Charli. Sarah. Bree. Celeste. Mara.
+
+Different stories, same pattern: women tightening the net under one another, quietly, methodically, refusing to let male entitlement be the unchallenged weather of their lives.
+
+Tomorrow, we’d do the boring things again.
+
+Paperwork. Logs. Rules.
+
+The unglamorous machinery of women making the world safe enough to live in.
+
+And I would do it without apology.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 <!--
 
 

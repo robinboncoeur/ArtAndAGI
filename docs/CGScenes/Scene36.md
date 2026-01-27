@@ -8,10 +8,240 @@
 
 
 
+
+
+
+
+
+## Notes26-01-22e
+### Scene 36
+
+<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-22]
+
+**Scene 36 — “Chemise” (Celeste POV)**
+
+At home, the silence was different.
+
+Wardrobe’s silence had weight—tables waiting, tools sleeping, the faint impression of rules still hanging in the air.
+
+This silence was domestic. It had corners. It had soft light. It had the small, human sounds of a building settling and a kettle thinking about boiling.
+
+Charli was staying over more often now.
+
+Not officially, not with fanfare—just the slow accumulation of ordinary: her toothbrush by the sink, her scarf on the chair, her bag placed neatly where it wouldn’t be in anyone’s way. She still moved with care, but the care no longer looked like apology.
+
+Tonight, she stood in the bedroom doorway in a plain 1770s chemise—simple, practical linen, neckline modest, sleeves loose at the wrist.
+
+No lace. No teasing. No performance.
+
+Just a garment doing its job: softness against skin, a body held gently instead of argued with.
+
+“I wanted to test it,” she said, quietly, as if saying *I wanted* was still a new kind of sentence.
+
+“Mm,” I replied, and kept my voice calm so I wouldn’t startle her with how much the sight hit me.
+
+She had worn costumes before. She had worn garments that made her look like a girl. She had even worn them well.
+
+But this—this wasn’t Wardrobe.
+
+This was private.
+
+This was a girl in her own quiet, choosing comfort.
+
+She looked… fully herself.
+
+Not because the chemise was magic. Because she was no longer carrying the old tension of *am I allowed?* in every muscle.
+
+She crossed the room and sat on the edge of the bed to adjust the hem, careful, competent. She didn’t glance up for approval.
+
+When she did look at me, her eyes were clear.
+
+And there it was again—the thing that had begun happening more and more since the boring machinery had engaged, since the world had stopped treating her as an argument.
+
+Permission.
+
+Not permission to be *touched*.
+
+Permission to be *close.*
+
+There was a difference. She knew it. I knew it.
+
+I sat beside her, leaving a respectful gap. I let the space exist long enough that it was a choice when I narrowed it.
+
+“How does it feel?” I asked.
+
+Charli took a breath, searching for words.
+
+“Quiet,” she said finally.
+
+A single word, and I understood the whole paragraph behind it.
+
+Quiet body. Quiet panic. Quiet hunger for control.
+
+Quiet enough to hear herself think.
+
+“Good,” I said.
+
+Charli’s hands rested in her lap. She turned her head slightly, looking at me with that careful steadiness she’d been practicing—like she was learning not to bolt from her own happiness.
+
+“I… don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not… that.”
+
+Her cheeks warmed.
+
+I didn’t let her squirm. I didn’t let her apologise.
+
+I simply nodded, as if she’d reported the weather.
+
+“Okay,” I said. “Then we don’t do that.”
+
+Charli’s shoulders loosened by a fraction, as if she’d been braced for disappointment.
+
+“I just—” She swallowed. “I want to be… with you.”
+
+The sentence was so earnest it could have been dangerous in the wrong room.
+
+Here, it was just true.
+
+I turned toward her fully.
+
+“Charli,” I said, and my voice softened without losing its edge, “you don’t ever have to offer me anything to earn your place here.”
+
+Her eyes shone, but she didn’t cry. She held herself steady.
+
+“I know,” she whispered, and I believed her—because she wasn’t saying it to please me. She was saying it like a new rule she was finally starting to trust.
+
+I let my hand hover, not touching, giving her the space to decide.
+
+“May I?” I asked, and nodded toward her shoulder, the line of her sleeve.
+
+Charli inhaled. Then, clearly:
+
+“Yes.”
+
+I put my hand on her shoulder—light, warm, nothing possessive about it. Just contact. Just reassurance made physical.
+
+Charli leaned into it with a quiet, involuntary honesty.
+
+I felt something in my chest go tight and then settle.
+
+This, I thought. *This is what she means.*
+
+Not heat. Not urgency.
+
+Closeness.
+
+The simple, devastating comfort of being held without a price tag.
+
+I stood and pulled the covers back.
+
+“Come on,” I said.
+
+Charli hesitated—habit, not reluctance.
+
+Her eyes flicked to mine, reading for the shape of the moment.
+
+I kept it clean.
+
+“Just sleep,” I said. “Like girlfriends. Like a sleepover. Nothing complicated.”
+
+Her breath left her in a small rush, relief and want mixed together in a way that didn’t need to become anything else.
+
+“Okay,” she whispered.
+
+She climbed in, careful at first, then relaxed into the mattress as if her body had been waiting for permission to stop bracing.
+
+I turned off the light, leaving only the soft spill from the hallway.
+
+Then I slid in behind her, close enough to be felt.
+
+I didn’t touch her immediately.
+
+I let her decide the distance.
+
+Charli shifted back—just a few centimetres, but deliberate—and her spine settled against me like a choice.
+
+That was my permission.
+
+I wrapped an arm around her waist, gentle, and pulled her close until her back fit into my front like it had always been designed for it.
+
+Charli exhaled a long, shaky breath.
+
+“Is this okay?” she asked, tiny.
+
+“Yes,” I said. “This is perfect.”
+
+Her hands rose and folded over my forearm, holding it there—not clutching, not desperate. Just anchoring.
+
+We lay like that, breathing in the same rhythm.
+
+I felt her body soften minute by minute, the last of the day’s vigilance leaking out of her. The chemise shifted with her breathing, linen whispering against linen.
+
+No performance. No fear.
+
+Just a girl being held.
+
+And me—me letting myself hold her.
+
+It should have felt like losing control.
+
+Instead it felt like finally choosing the right kind of control: the kind that protects without imprisoning.
+
+Charli’s voice came again, half-asleep.
+
+“Thank you,” she murmured.
+
+“For what?”
+
+“For… being sure,” she said. “All the time.”
+
+I pressed my mouth lightly to the back of her head—barely a kiss, more a promise made small.
+
+“I’ll keep being sure,” I whispered.
+
+Charli made a sound that was almost a laugh.
+
+Then she went quiet.
+
+Her breathing deepened.
+
+The weight of her trust settled into my arm, heavy and real.
+
+I lay awake for a while longer, listening to the building and the night, feeling the shape of her against me and understanding, with a clarity that didn’t frighten me anymore:
+
+This was not a reward for progress.
+
+This was not a prize for compliance.
+
+This was the natural end of a long, careful arc—belonging made physical in the gentlest possible way.
+
+And as Charli slept, safe and held, I let myself think—briefly, privately—of the women who had made this possible: Lauren’s fierce practicality, Mara’s standards, Sarah’s sharp watchfulness, the whole room exhaling around a girl who had finally been allowed.
+
+Tomorrow, the story could widen again.
+
+We could turn the camera toward Sarah. Toward Lauren. Toward the way a women’s network holds and reshapes a life without ever calling it rescue.
+
+For tonight, I stayed still.
+
+I held her.
+
+And I let that be enough.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 ## Winter 
 ### ✨ Three Months Later ✨
 
 <img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[no link]
 
 **Three Months Later — Winter (Celeste POV)**
 
@@ -244,10 +474,12 @@ If you’d like, the next Sarah-facing scene can be deliciously sharp: she clock
 
 
 
-## Former Scene 36
+## Notes26-01-25-old
 ### ✨ Chemise ✨
 
 <img src="/assets/images/notes26a/N260103aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[no link]
 
 **Scene 36 — “Chemise” (Celeste POV)**
 
@@ -465,12 +697,610 @@ And I let that be enough.
 
 
 
-## The Kiss
-### From Notes26-01-26
+
+
+## Notes26-01-25e1
+### Original Emily
+
+<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-25]
+
+✨ The Brush ✨
+Perfect. That locks the continuity in place beautifully: **no secrets**, just a delayed *noticing* because Celeste has been running on fumes for months. 🌿✨ And yes — Charli’s tone can absolutely turn **honeyed, wife-like** now… not as a payment, not as “thank you” theatre, but as **joyful caretaking** she’s finally safe to enjoy.
+
+Here’s how to make that *feel* true without becoming transactional:
+
+* Charli doesn’t frame it as “repaying” Celeste.
+* She frames it as **“I like loving you this way”** / **“I like making home soft for you”**.
+* Celeste receives it with that particular mix of:
+
+  * relief,
+  * gratitude,
+  * and a tiny ache of *I didn’t realise how much I needed this.*
+
+Below is a full scene draft you can use as Scene 36 (or whatever number suits your structure). I’ve kept it **understated, domestic, warm**, with the glow reveal and the HRT conversation landing naturally.
+
+---
+
+## Time Jump Scene — “After Exams” (Celeste POV, past tense)
+
+By the time my last exam ended, my body didn’t feel like mine anymore.
+
+I walked out into the late light with my brain still in the hall—still ticking through questions I couldn’t change, still braced as if someone might call me back in and ask for one more paper, one more proof. My hands shook faintly on my keys. Not fear. Just depletion. The kind of exhaustion that makes the world feel too loud and your own thoughts too heavy.
+
+When I opened the front door, the apartment met me with warmth.
+
+Not heat—*warmth*. The soft amber of a lamp already on. The faint, clean smell of something simmered and finished. A quiet that didn’t ask questions.
+
+Charli was in the kitchen, bare feet, hair brushed, wearing one of my oversized jumpers like she’d claimed it by right of comfort. She turned when she heard the door, and the smile she gave me wasn’t cautious or checking.
+
+It was easy.
+
+Like she’d been saving it.
+
+“Hey,” she said softly, and came toward me without hurry. Not pouncing with excitement, not interrogating me with concern—just arriving. She reached up and touched my cheek with the back of her fingers, a brief, gentle check-in.
+
+“Come in,” she murmured. “You look wrung out.”
+
+I let my bag slide from my shoulder like it weighed a hundred kilos. She caught it before it hit the floor.
+
+“Shoes,” she said, almost laughing, and the sound was honeyed—teasing without edge. “Let me have you in one piece.”
+
+I did what she wanted because it was the first thing all day that felt safe to obey. Shoes off. Keys down. Breath out.
+
+She guided me—not by taking my arm, not by steering my body, but by placing one hand lightly at my back, warm through my shirt.
+
+The table was set.
+
+Not formal. Not performative. Just… intentional. Two plates, cutlery in the right place, a cloth napkin. A small vase—one flower, not a bouquet, as if she’d wanted something living but hadn’t wanted to make a fuss about it.
+
+And there, beside my place, a chilled bottle of my favourite sparkling wine, already opened, a glass waiting.
+
+My throat tightened.
+
+“Charli…” I started.
+
+She shook her head immediately, as if she could feel the wrong words forming in me and wanted to stop them before they turned this into a transaction.
+
+“No speeches,” she said gently. “Not tonight.”
+
+Her eyes flicked over my face, taking inventory.
+
+“You did it,” she added, quieter. “You got through.”
+
+Something in my chest softened. I hadn’t realised how much I needed someone to *mark* it.
+
+She pulled my chair out, then leaned down close—not a kiss, not quite, but close enough that her breath warmed my ear.
+
+“Sit with me,” she whispered. “Just sit.”
+
+So I did.
+
+She poured the wine with careful hands and slid the glass toward me. She didn’t pour herself one.
+
+“You’re not having any?” I asked, already knowing the answer.
+
+Charli smiled. “Still tastes like… fizzy sadness to me.”
+
+I huffed a tired laugh. She watched me with fondness that didn’t look like she was asking permission to feel it anymore.
+
+I took a sip, and the cold sparkle cut through the fog in my mouth. Relief. A small bright thing.
+
+Charli served the food—something she’d clearly thought about, something warm and comforting that didn’t require me to perform appreciation. She sat across from me and waited until I’d taken my first bite.
+
+Only then did she eat.
+
+That alone made my eyes burn.
+
+I looked up sharply, blinking it back, and Charli’s expression changed—gentled, concerned.
+
+“What,” she asked quietly.
+
+I shook my head once, unable to explain how being cared for can sometimes hurt more than being alone, because it reminds you how long you’ve been living without it.
+
+“It’s just…” I swallowed. “You’re… good.”
+
+Charli’s smile returned—slow, pleased, almost shy.
+
+“I like being good *to you*,” she said. No drama. No bargaining. Just truth.
+
+The sentence landed with a warmth that spread through me, quiet and steady.
+
+We ate in a silence that wasn’t empty. It was the kind of silence you share when you’re safe enough to stop performing.
+
+Halfway through, I looked at her properly.
+
+Not in passing, not in the way I’d been looking for months—glancing between lectures and rotas and deadlines. I looked at her the way you look when you finally stop running.
+
+And I saw it.
+
+Not one thing.
+
+A collection.
+
+Her cheeks had a softness I didn’t remember. Her skin looked… calmer. There was a gentle bloom in her face like she’d learned how to sleep. Her mouth—how easily it curved now, how it stayed curved, as if her default expression had shifted from caution to ease.
+
+And her eyes.
+
+God—her eyes.
+
+They had a kind of quiet light in them I didn’t associate with *hope* exactly.
+
+More like peace.
+
+I set my fork down without meaning to.
+
+Charli noticed immediately. “What.”
+
+I laughed under my breath, stunned by my own suddenness.
+
+“You’re…” I searched for a word that wouldn’t make her flinch. “You’re glowing.”
+
+Her face changed—softening, then something like bashfulness. She glanced down at her plate.
+
+“I wondered when you’d see,” she murmured.
+
+My chest tightened.
+
+“I’ve been…” I started, then admitted it simply: “I’ve been so busy.”
+
+“I know,” she said, and there was no reproach in it. Only acceptance. “You were surviving. And I was… quietly becoming.”
+
+The phrase went through me like a shiver.
+
+“Talk to me,” I said, gently.
+
+Charli hesitated, then reached for her water glass, bought herself a second.
+
+“I didn’t want to dump it on you during exams,” she said. “Not because it was a secret. Just because… you were already carrying so much.”
+
+I nodded. That was Charli: protecting people by default.
+
+“But I can tell you now,” she continued, and her voice turned steadier, almost reverent. “Because it’s not scary anymore.”
+
+My heartbeat slowed.
+
+“What isn’t,” I asked.
+
+Charli met my gaze.
+
+“The inside of my head,” she said simply.
+
+I felt my eyes burn again—harder this time.
+
+She kept going before I could interrupt her with reassurance.
+
+“The doctor… and then the endocrinologist,” she said, careful with the words, as if she wanted them to be accurate. “They didn’t treat me like I was silly. Or confused. They treated me like… I was describing a real thing.”
+
+My throat tightened.
+
+Charli’s fingers traced the edge of her napkin once—habit—and then stopped, as if she was finally tired of apologising with her hands.
+
+“I told them what you already know,” she said. “What I *don’t* want. The way the wrong words felt like someone pushing my face underwater.”
+
+I nodded slowly.
+
+“And then,” she said, and her eyes brightened—not tears, not fear—light, “I said the thing out loud.”
+
+My whole body went still.
+
+“What thing,” I asked, though I already knew.
+
+Charli’s smile trembled at the edges, but it held.
+
+“I told them I wanted to live as a girl,” she said. “Not as an idea. Not as a costume. As… my life.”
+
+The room went quiet around us.
+
+And it didn’t feel like danger.
+
+It felt like a door opening.
+
+Charli swallowed, watching me closely. Making sure I didn’t turn it into a big reaction.
+
+I didn’t.
+
+I reached across the table and placed my hand on the cloth near her fingers—not grabbing her, not claiming her, just making contact possible.
+
+“Okay,” I said softly.
+
+Charli’s shoulders dropped, a small release.
+
+“They started me on HRT months ago,” she said. “Five. And I kept waiting for it to feel… complicated. For it to feel like I was borrowing someone else’s life.”
+
+Her eyes lifted to mine.
+
+“It didn’t,” she whispered. “It felt like I stopped fighting my own reflection.”
+
+A quiet, astonished laugh escaped her.
+
+“I’ve never been more at peace,” she said. “I didn’t even know peace was a feeling you could have inside your body.”
+
+The words hit me low in the chest—heavy and tender at once.
+
+The glow. The ease. The twinkle.
+
+Not a trick. Not wishful thinking.
+
+A nervous system no longer braced for war.
+
+I took a breath, slow, careful.
+
+“I’m so glad,” I said, and my voice cracked slightly on the glad. “I’m so glad you’re being looked after properly. Supervised. Safe.”
+
+Charli nodded, eyes bright, smiling through it.
+
+“And…” she said, almost shy now. “And I’ve been wanting to take care of you too. Because I can. Because I… like it.”
+
+Not repayment.
+
+Not bargaining.
+
+Just love finding somewhere to go.
+
+I held her gaze a moment longer than usual.
+
+Then I lifted my glass a fraction, the smallest toast.
+
+“To exams being over,” I said softly.
+
+Charli’s smile widened.
+
+“And to you,” she replied, warm as honey. “Being here.”
+
+I didn’t correct the sentence into something more modest. I didn’t undercut it.
+
+I simply let it land.
+
+Because after everything, being here was not a small thing.
+
+And watching her—cheeks soft, eyes bright, whole body unafraid—I realised the truth with a quiet shock:
+
+I hadn’t missed it.
+
+I’d just finally stopped running long enough to see it.
+
+---
+
+If you’d like, I can write the **next beat** immediately after this: Celeste, still exhausted, finally allows a small intimacy gesture (not overtly sexual) — a forehead touch, a slow hug, Charli leaning in — *but still understated*, still earned. 💛🌿
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Notes26-01-25e2
+### Continuation
+
+<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-25]
+
+✨ The Brush ✨
+I’m so glad it landed the way you wanted, Robyn 🥹💛🌿
+Here’s that next beat — *small intimacy, understated, earned*, and still clean: no possession, no leap, just the inevitable gravity of two people who’ve stopped pretending they don’t need each other.
+
+---
+
+## Continuation — “After Exams” (Celeste POV, past tense)
+
+For a moment we just looked at each other across the table, the air between us humming with all the things we weren’t saying.
+
+Charli’s smile stayed on her mouth like it belonged there now. Not a flare. Not a plea. Just… her.
+
+My fingers rested on the cloth near hers. Close enough to touch if she wanted. Not touching yet.
+
+I realised I was holding my breath.
+
+I let it out slowly and took another sip of sparkling wine, more for the ritual of it than the taste. My hands were still faintly unsteady from the exams. My whole body felt like it had been sanded down.
+
+Charli watched me with that new calm in her eyes—calm, and a tenderness that didn’t ask for permission anymore.
+
+“You look like you could fall asleep right here,” she said softly.
+
+I huffed a tired laugh. “I could.”
+
+“Come,” she murmured, and there it was again—honeyed, not bossy. A suggestion that didn’t feel like instruction. “Couch first. You don’t have to carry yourself properly tonight.”
+
+The words undid something inside me.
+
+I stood, slow, and she stood too. Not to guide me like I might topple—just to be in step with me. She cleared the plates with quick, quiet competence and then returned, folding the cloth napkin like it mattered, as if order could be a kind of gentleness.
+
+When I sank onto the couch, it felt like my bones sighed.
+
+Charli draped a blanket over the backrest, then paused—caught herself—eyes flicking to my face.
+
+“May I,” she asked, and the respect in the question warmed me more than the wine had.
+
+“Yes,” I said quietly.
+
+She laid the blanket over my legs with care, smoothing it once at my knee like she was tucking in a thought.
+
+Then she sat beside me, close enough that our shoulders almost touched.
+
+Almost.
+
+The lamp in the corner made her skin glow softly, and I understood—fully now—that the peace she’d described wasn’t abstract. It was visible. It lived in her posture, in the unguarded softness at her mouth, in the way she didn’t look like she was bracing for judgement.
+
+I turned my head slightly, and she turned too, as if we were tethered by attention.
+
+“You really are okay,” I murmured.
+
+Charli’s smile trembled at the edges. “Yeah,” she whispered. “I am.”
+
+A small silence settled around us.
+
+In that silence I felt the weight of something I hadn’t admitted to myself during the worst months: how often I’d kept going because there was someone waiting at home. How much *being needed* had steadied me when I didn’t have the luxury of falling apart.
+
+And how little I’d let her see of that.
+
+Charli’s hand rested in her lap. My hand rested on the couch cushion between us, palm down.
+
+A few inches of fabric.
+
+A lifetime of restraint.
+
+I could feel the old instinct rise—*distance is discipline*—and for the first time it didn’t feel like virtue.
+
+It felt like fear.
+
+Not fear of her.
+
+Fear of what I might become if I let myself want what I wanted.
+
+I looked at Charli.
+
+Her gaze held mine without flinching.
+
+“You did all this while I was buried,” I said softly, meaning everything: doctors, appointments, bloods, decisions, the quiet bravery of choosing a life. “And you didn’t make it my job.”
+
+Charli’s eyes shone.
+
+“I didn’t want to add weight,” she whispered.
+
+“You didn’t,” I said. “You added… warmth.”
+
+Her breath caught.
+
+I hesitated—just long enough to make the next thing clean—and then I asked, simply:
+
+“Can I hold you.”
+
+Charli went very still.
+
+Not alarmed.
+
+As if her body was trying to decide whether it was safe to believe in the sentence.
+
+Her voice came out small, but steady.
+
+“Yes,” she whispered.
+
+So I moved.
+
+Not fast. Not possessive. Not like hunger.
+
+Like coming home.
+
+I opened my arms, and Charli leaned in. She fit against me with a softness that made my chest ache—not because she was fragile now, but because she didn’t feel she had to pretend she wasn’t.
+
+I held her.
+
+And for a long moment I did nothing but breathe with her, cheek near her hair, my hand resting lightly between her shoulder blades.
+
+Charli exhaled, a deep, shaky release, and her arms slid around my waist as if she’d been taught she wasn’t allowed and was finally permitted.
+
+“I’m here,” I murmured, not as reassurance but as fact.
+
+Charli’s voice was muffled against my shoulder. “I know.”
+
+The words were simple.
+
+They were everything.
+
+I tightened the hug slightly—just enough to let her feel I meant it—and then, because I couldn’t help it and because it felt like truth rather than indulgence, I pressed a small kiss to the top of her head.
+
+Charli went utterly still for half a second.
+
+Then she softened further into me, a quiet sound in her throat like relief turning into something sweeter.
+
+My eyes burned.
+
+I blinked hard, keeping it contained—not because tears were forbidden, but because I didn’t want my emotion to become her responsibility.
+
+Charli lifted her face a fraction, close enough that I could feel her breath.
+
+“Celeste,” she whispered, and there was a question in my name.
+
+I didn’t let it become a cliff edge.
+
+I answered the question underneath it.
+
+“I’m not going anywhere,” I said, voice low. “Not tonight. Not because you’re easy to love. Because you’re… you.”
+
+Charli’s eyes shimmered.
+
+A laugh flickered on her mouth—astonished, disbelieving, warm.
+
+“You’re tired,” she whispered.
+
+“I am,” I admitted.
+
+“Then let me,” she said softly, and her hand rose, tentative, and hovered near my face—asking without words.
+
+I nodded once.
+
+Charli touched my cheek with the back of her fingers, the same way she’d done at the door.
+
+A small, reverent gesture.
+
+Not taking.
+
+Giving.
+
+“I’m glad you’re done,” she whispered. “I missed you.”
+
+The sentence pierced me.
+
+Because I’d been here the whole time.
+
+And she’d still missed me.
+
+I pulled her back against my chest.
+
+We stayed like that—quiet, breathing, the lamp light warm on our skin—until the world felt less sharp.
+
+After a while Charli murmured, half-asleep: “Do you want the rest of your wine.”
+
+I huffed a laugh into her hair. “No.”
+
+“Good,” she whispered, pleased. “Then you can sleep.”
+
+I should have argued. I should have said something about being responsible, about not falling asleep on the couch, about needing to tidy up the kitchen properly.
+
+Instead I let my eyes close.
+
+And with Charli in my arms—safe, warm, real—I let myself rest.
+
+Not as discipline.
+
+As trust.
+
+---
+
+If you want to end the scene on an even more understated note, we can clip the final paragraph at **“Then you can sleep.”** It’s a perfect soft landing.
+
+And if you’d like a *tiny* follow-on line for the next chapter opener: Celeste waking at 2am on the couch with Charli still tucked against her, the lamp still on, and that shock of tenderness — I can write that too. 🌙💛
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Notes26-01-25e3
+### Opener
+
+<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-25]
+
+✨ The Brush ✨
+Of course 💛🌙 Here’s a **next-scene opener** that picks up at 2am, keeps the tone hushed, and lets the tenderness land without turning into a declaration.
+
+---
+
+## Next Scene Opener (Celeste POV, past tense)
+
+I woke at two-something to the wrong kind of quiet.
+
+Not danger. Just… awareness.
+
+The lamp was still on, the light soft and tired, as if it had been keeping watch in my place. My neck ached faintly from the angle of the couch. My exam brain, trained to bolt upright at any sign of failure, tried to do the same.
+
+It couldn’t.
+
+Charli was still tucked against me, warm and heavy in the best possible way. Her cheek rested just below my collarbone. One of her hands had slipped up in her sleep and curled into the fabric of my shirt like it belonged there.
+
+I lay still, barely breathing, afraid that moving would break the spell—afraid that if I shifted even a centimetre she would startle and apologise and pull herself away.
+
+She didn’t.
+
+She exhaled, long and even. A sound so peaceful it almost hurt.
+
+In the dim light I could see her face properly: the softened cheek, the relaxed mouth, the faint crease between her brows finally gone. She looked younger asleep, less vigilant, like her body had forgotten for a while that it used to be on trial.
+
+My throat tightened.
+
+For months I’d been telling myself that distance was discipline. That keeping my hands to myself was the only way to keep power clean.
+
+But this—this warm weight of her trust, her unguarded ease—didn’t feel like power.
+
+It felt like permission.
+
+And it frightened me, not because it was wrong, but because it was right in a way I hadn’t planned for.
+
+Charli shifted slightly, a tiny nuzzle closer, and her fingers tightened once at my shirt. Not waking. Just choosing me again in sleep.
+
+Something in my chest gave way, quiet as a seam finally relaxing under steam.
+
+I lowered my chin to the crown of her head and let my eyes close again.
+
+If this was what it meant to be someone’s safe place, then I would learn how to deserve it.
+
+---
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## m 
+### mm
+
+<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-25 Kiss
 
 <img src="/assets/images/notes26a/N260103av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[26-01-26]
+[26-01-25]
 
 Here it is, with context:
 
@@ -549,8 +1379,7 @@ I didn’t touch her again immediately. I let her breathe.
 
 
 
-## Scene 36
-### After Exams
+## After Exams
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 

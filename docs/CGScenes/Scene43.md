@@ -1,5 +1,442 @@
 # Scene 43
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Notes26-01-23e
+### Scene 43
+
+<img src="/assets/images/notes26a/N260116ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-23]
+
+**Scene 43 — “Saturday” (Sarah POV)**
+
+Saturday happened the way I prefer things to happen:
+
+in daylight.
+
+In public.
+
+With exits.
+
+I chose the café, obviously. Neutral territory. Big windows. Plenty of foot traffic. A place where the tables are close enough that a man has to behave like a civilised mammal or everyone hears it.
+
+I arrived five minutes early because I’m not going to be the woman who gets there and starts scanning the room like prey.
+
+Carl was already there.
+
+Of course he was.
+
+He stood when he saw me—not dramatically, not “gentlemanly,” just polite—and offered a small smile that didn’t try to claim anything.
+
+“Hi,” he said.
+
+“Hi,” I replied.
+
+He didn’t lean in for a hug. He didn’t touch my arm. He didn’t do the thing where men treat greeting as a test of access.
+
+He just… existed at a respectful distance.
+
+It was, frankly, unnerving.
+
+We ordered coffee at the counter. He paid for his. I paid for mine. He didn’t argue about it.
+
+That alone probably qualified him for sainthood.
+
+We sat at a table by the window.
+
+Carl asked, “Is this seat okay?” before he sat down.
+
+I stared at him for half a beat.
+
+“Yes,” I said. “You can sit. I’m not a queen.”
+
+He smiled, faint. “Good. I didn’t want to guess wrong.”
+
+That phrase—guess wrong—landed with a quiet thud.
+
+Men usually guess. They guess because they assume it’s safer for them to risk your discomfort than risk their pride.
+
+Carl was not guessing.
+
+He was checking.
+
+I took a sip of coffee and told myself not to be impressed by basic decency. The bar is on the floor. We should not be applauding men for stepping over it.
+
+Still.
+
+It was… a relief.
+
+We talked.
+
+Not the interview kind of talking, where a man tries to discover which version of himself you’d like and then shapeshifts accordingly.
+
+Actual talking.
+
+He told me he did electrical work for the Faire and a few local businesses. He liked fixing old things. He’d moved back to town after his dad got sick. He baked because it was cheaper than buying food and because it stopped his brain spinning at night.
+
+I listened, alert for the hidden tells.
+
+There weren’t many.
+
+He didn’t complain about women. He didn’t complain about his ex. He didn’t imply he was “nice” in a way that made you brace for the invoice.
+
+He asked questions that didn’t feel like fishing.
+
+“What do you do when you’re not here?”
+“Do you like living in town?”
+“Do you have siblings?”
+
+Normal.
+
+I answered enough to be polite, but not so much that I’d be handing him my internal wiring diagram.
+
+It was… okay.
+
+More than okay, technically.
+
+The problem was not Carl.
+
+The problem was me.
+
+Because halfway through the coffee, with the sun bright through the windows and his hands wrapped around his mug—steady, clean, capable—I realised something with a clarity that made me want to swear.
+
+I didn’t want him.
+
+Not in the sense that matters.
+
+Not in the gut. Not in the chest. Not in the place that tilts you toward someone without negotiation.
+
+I liked him.
+
+I respected him.
+
+I could even imagine being friends with him, which is the cruelest category of all.
+
+But the part of me that had watched Bree and Lily glow didn’t wake up.
+
+It stayed asleep, stubborn, unmoved.
+
+Carl said something—some gentle joke about the Faire lights being “temperamental divas”—and I laughed genuinely.
+
+Then my laugh stopped and I thought, sharply:
+
+*If he leaned across the table and kissed me right now, I would tolerate it like a dentist appointment.*
+
+That was my answer.
+
+My phone buzzed with a message. Bree.
+
+> **Bree:** HOW IS IT
+> Blink twice if you need rescuing
+
+I stared at it for a second, then typed back:
+
+> **Me:** No rescue. He’s fine. I’m the problem.
+
+I didn’t send the second part. I deleted it and sent:
+
+> **Me:** He’s on time. No red flags. Shut up.
+
+Carl watched my face in that unobtrusive way decent people do.
+
+“Everything okay?” he asked.
+
+“Yes,” I said automatically.
+
+Then, because he’d earned it by behaving like a grown man, I added: “You’re… surprisingly normal.”
+
+Carl’s mouth twitched. “That’s either a compliment or a warning.”
+
+“It’s both,” I said.
+
+He laughed, and it was warm, uncomplicated.
+
+He didn’t reach for me.
+
+He didn’t fill the pause.
+
+He let the conversation breathe.
+
+That’s what made it worse.
+
+Because it was harder to justify leaving.
+
+When a man is awful, ending it is easy. It’s a clean moral decision.
+
+When a man is decent, ending it feels like you’re throwing away something you’re *supposed* to want.
+
+Carl checked his watch—brief, polite.
+
+“I’ve got about twenty minutes before I have to go,” he said. “No rush, but I wanted to be upfront.”
+
+Upfront.
+
+Another competence.
+
+I felt my irritation spike—not at him, at the world.
+
+At the way I’d been trained to interpret “decent” as “good enough.”
+
+At the way women are expected to accept a kind man like he’s a prize, regardless of whether their bodies agree.
+
+Carl watched me for a moment, thoughtful.
+
+“Can I ask you something?” he said.
+
+“Depends,” I replied.
+
+He nodded, accepting the boundary like it was normal.
+
+“You seem… tense,” he said carefully. “Not because I’m here. Just—generally. If this is too much, you can tell me. I’m not trying to push.”
+
+It was such a reasonable sentence that it made my throat tighten.
+
+I had a choice right then.
+
+Lie, keep it going, let it drift into something that would eventually become messy.
+
+Or be honest early, before I’d created obligations.
+
+I didn’t want to hurt him.
+
+But I hated the idea of using his decency as a place to hide while I figured myself out.
+
+So I said the truth I actually had.
+
+“I’m not sure what I want,” I said, and kept my voice steady. “And I’m not going to make that your problem.”
+
+Carl’s expression shifted—small, controlled. He didn’t flinch, but I saw the sting land anyway.
+
+He nodded slowly.
+
+“Okay,” he said. “Thank you for saying it.”
+
+I blinked.
+
+Of course he thanked me.
+
+Decent men thank you for honesty even when it hurts.
+
+Which makes you feel like a villain anyway.
+
+“I’m not saying ‘never,’” I added quickly, because guilt is stupid and fast.
+
+Carl’s eyes met mine.
+
+His voice stayed gentle. “Sarah,” he said, “don’t offer me a maybe because you feel bad.”
+
+I stared at him.
+
+He gave a small shrug.
+
+“I’d rather you say no,” he continued, “than say yes out of obligation. I don’t want to be the kind of man you tolerate.”
+
+There was a quiet dignity in that sentence that made my chest ache.
+
+And in that ache, I felt something else—something clarifying.
+
+It wasn’t fear of repeat performance.
+
+It wasn’t trauma.
+
+It wasn’t “men are bad.”
+
+It was simpler.
+
+I just… wasn’t attracted to him.
+
+Which meant the kindest thing I could do was to stop pretending it might change.
+
+I exhaled.
+
+“Okay,” I said, and forced myself to make it clean. “Then… no.”
+
+Carl’s face tightened for a fraction. He swallowed. Then he nodded, once.
+
+“Okay,” he said. “That’s clear. Thank you.”
+
+He stood, picked up his mug, and took it to the counter like a man who had practiced not making women responsible for his feelings.
+
+When he came back, he didn’t linger.
+
+“I’m glad I met you,” he said. “Even if it’s not… that.”
+
+I held his gaze. “You’re a good man,” I said. “That’s not nothing.”
+
+Carl’s smile was faint and sad.
+
+“I know,” he said quietly. “And it still stings.”
+
+Honesty. Again.
+
+Then he nodded once—no attempt at a hug, no touch, no lingering—and walked out into the sunlight.
+
+I watched him go, throat tight, coffee cold in front of me.
+
+I should have felt relieved.
+
+Instead I felt… guilty.
+
+Because I could tell I’d hurt him.
+
+Not because he’d done anything wrong.
+
+Because decency doesn’t protect you from rejection.
+
+I sat there another minute, staring at my reflection in the café window, and thought, with grim, reluctant clarity:
+
+*Well. That settles that.*
+
+Then my phone buzzed again. Bree.
+
+> **Bree:** DID HE TRY TO KISS YOU
+> I will bite him
+
+I stared at it.
+
+And to my own surprise, I laughed.
+
+A real laugh.
+
+Then I typed back:
+
+> **Me:** He didn’t touch me once.
+> He’s decent.
+> I’m… not into it.
+
+I sent it.
+
+And as I walked out into the daylight, guilt riding my shoulders like a stupid animal, I realised the worst part wasn’t rejecting a good man.
+
+The worst part was that rejecting him had made the other truth harder to ignore:
+
+Whatever I wanted, it wasn’t him.
+
+And the shape of that “not him” was starting to look suspiciously like… her.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-23eb
+### Scene 43 Bridge
+
+[26-01-23]
+
+## **Bridge — “Ski Gear” (Sarah POV)**
+
+I didn’t go straight home after Carl.
+
+I walked for a while, because walking keeps me from doing something stupid. It gives my brain time to catch up with my body.
+
+It wasn’t even that he was attractive. He was—fine. He was clean. He was competent. He didn’t touch me. He didn’t push. He didn’t make my boundaries his personal enemy.
+
+He was the kind of man you’re meant to feel grateful for.
+
+And that was the problem.
+
+Because I wasn’t grateful.
+
+I was just… blank.
+
+Like my nervous system had looked at him and said, *Nope. Not you.* And then refused to provide further details.
+
+I kept thinking: maybe it’s fear. Maybe it’s Ethan residue. Maybe it’s just my brain being dramatic because it doesn’t know how to be normal.
+
+But fear doesn’t feel like blankness.
+
+Fear feels like vigilance. Tight shoulders. Exit planning.
+
+What I felt with Carl wasn’t fear.
+
+It was absence.
+
+Which is when the memory hit me, sideways, as if my brain had been waiting for the exact wrong moment to pull it off a shelf.
+
+Year ten. Assembly hall. A girl with dark hair and quick hands and a laugh that made my chest do something embarrassing. I’d watched her for months the way you watch fire, pretending it was curiosity and not the stupid, soft thing under it.
+
+I’d never told her. Not properly. I’d tried once, badly. A clumsy confession disguised as a joke.
+
+She’d smiled—kind, puzzled—and said something like, “Aw, you’re sweet.”
+
+And then she’d gone back to her friends.
+
+No cruelty. No scandal.
+
+Just… not returned.
+
+It had been enough.
+
+Enough to teach me that wanting like that was pointless. Risky. Public.
+
+So I’d packed it away like you pack away ski gear in a town that doesn’t snow: shoved to the back of the closet, forgotten on purpose, mildly embarrassing when you rediscover it.
+
+I hadn’t thought about her in years.
+
+Not properly.
+
+But now—now, after sitting across from a good man and feeling nothing—I could feel that old crush as clearly as if it had happened last week.
+
+The heat. The pull. The stupid, traitorous eagerness.
+
+Not for him.
+
+For her.
+
+For *girls.*
+
+I stopped walking and stood on the footpath, suddenly furious.
+
+Not at the girl from year ten.
+
+At myself.
+
+At the way I’d treated that part of me like a hobby I’d outgrown rather than a truth I’d postponed.
+
+At the way the world makes it so easy to interpret “unrequited” as “wrong.”
+
+I took a breath, sharp and cold, and felt the inconvenience of it settle in my ribs.
+
+So that was it.
+
+Not men.
+
+Not trauma.
+
+Not “I can’t do relationships.”
+
+Just… that.
+
+A buried part of me, choosing the most inconvenient moment to knock.
+
+And because I’m Sarah—because I’m excellent at many things and awful at being gentle with myself—I did what I always do when something tender reappears unexpectedly.
+
+I tried to drown it.
+
+---
+
+If you want, I can now continue directly into **Scene 44** (the drink, the solo night out, the sudden illness, the panic call to Lauren, the night at Lauren’s, and the morning realisation—*not a blanket*). I’ll keep the spiking moment handled exactly as we discussed: sensory, uncertain, no procedural detour, full focus on Sarah’s fear + Lauren’s competent care. 💛
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 <!--
 

@@ -1,5 +1,317 @@
 # Scene 38
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-22e
+### Scene 38
+
+<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+**Scene 38 — “Weaponised Helplessness” (Sarah POV)**
+
+[Ethan 26-01-22]
+
+There are men who are genuinely incompetent.
+
+And then there are men who are competent enough to *choose* incompetence, because it’s such an efficient way to outsource their lives.
+
+Ethan—of course his name is Ethan—falls firmly into the second category.
+
+I realise it on a Tuesday, which is rude. Tuesday is supposed to be neutral. Tuesday is supposed to be emails and decent coffee and fabric that behaves.
+
+Instead, I’m standing in his kitchen watching him hold a saucepan like it’s a live animal.
+
+“I don’t really… cook,” he says, as if that’s a personality trait, not a survival skill.
+
+The fridge behind him is full of things that aren’t meals. Milk. Eggs. Sauce bottles. A container labelled *Mum’s lasagne* in handwriting so obviously not his that I almost laugh.
+
+“You live alone,” I say.
+
+He grins. “Yeah, but Mum—”
+
+“—does it,” I finish for him.
+
+He blinks. “She likes helping.”
+
+Ah. That familiar line. The one that translates as: *I’ve trained a woman into my domestic life and I’m looking for a replacement model.*
+
+There are other tells.
+
+The way he hands me a plate to wash without asking, like my hands are a service he’s entitled to activate.
+
+The way he says “I’m terrible at laundry” like it’s cute.
+
+The way he brings up moving in together after six weeks, and it’s not because he loves me. It’s because he’s spotted an upgrade path: from Mum to Girlfriend Mum.
+
+At one point he looks genuinely confused that I’m not charmed.
+
+“You’re really organised,” he says. “I like that about you.”
+
+I stare at him.
+
+That’s not a compliment. That’s a job description.
+
+I go home and lie in bed, staring at the ceiling, and I feel something in my chest settle into a hard, clean shape.
+
+I am over him.
+
+Not “thinking about being over him.”
+
+Over him. Done.
+
+So the next day, I do it properly.
+
+I call him. Not text. Not a long message he can forward to his mates for sport.
+
+A call. Clear. Brief. Unambiguous.
+
+“Hi,” I say, and keep my voice neutral. “This isn’t working for me. I’m ending it. I’m not interested in continuing, and I’m not changing my mind.”
+
+There’s a pause on the line where he tries to find the angle.
+
+“Is this about that kitchen thing?” he asks, laughing slightly, like it’s banter.
+
+“It’s about compatibility,” I say. “We’re not compatible.”
+
+Another pause.
+
+Then the tone shifts.
+
+“Oh,” he says, slowly. “So what, you’re just… dumping me.”
+
+“Yes,” I say, because men love euphemisms when they’re losing. “I am.”
+
+He exhales sharply, offended. “Right. Okay. Wow. I didn’t think you were like that.”
+
+I blink.
+
+Like what? A woman with a spine?
+
+“I’m being clear,” I say.
+
+He tries a new tactic. Softness. “Sarah, come on. I just need you to tell me what I did wrong.”
+
+“I’m not your coach,” I say, calm as a surgeon. “Goodbye, Ethan.”
+
+And I end the call.
+
+I don’t block him immediately.
+
+That’s not optimism. That’s evidence-gathering.
+
+It’s not my first rodeo.
+
+---
+
+At Wardrobe, I don’t announce any of this. I don’t want a round of sympathy from women who could weaponise empathy with a single raised eyebrow.
+
+I do, however, allow myself one confession: to Bree, because Bree can make anything bearable by laughing at it without minimising it.
+
+She’s at the big table sorting a bag of pins like they’ve personally offended her.
+
+“How’s Mr. Tuesday?” she asks without looking up.
+
+I drop my tote on the floor and exhale.
+
+“He’s been returned to sender.”
+
+Bree looks up, delighted. “Ooh. That bad?”
+
+“He doesn’t cook,” I say.
+
+Bree’s eyebrows lift. “Like… doesn’t cook as in doesn’t enjoy it? Or doesn’t cook as in would starve without a woman?”
+
+“As in,” I say, “his fridge contains *Mum’s lasagne* and a faith-based relationship with Uber Eats.”
+
+Bree snorts. “Oh no.”
+
+“Oh yes,” I say. “And he’s got that thing. That *thing* where he looks at you like you’re a solution to his life.”
+
+Bree winces. “Replacement mum.”
+
+“Replacement mum,” I confirm. “Like I’ve got ‘domestic manager’ stamped on my forehead.”
+
+Bree taps the pin tray once. “I’d rather chew glass.”
+
+“Exactly.”
+
+Charli is nearby, at the cap table, adjusting ties with that new calm she wears like it belongs to her. She’s listening without looking like she’s listening, which is a skill women develop early.
+
+Bree, with perfect timing, says, “Honestly, babe. Women are just… better.”
+
+She says it jokingly—mostly. Bree always says jokes like she means them and means things like they’re jokes.
+
+I roll my eyes. “Oh, here we go.”
+
+Charli, without looking up, drops in with a deadpan that makes me choke on my own air.
+
+“I’m a fan.”
+
+Bree *howls*, delighted. Tahlia makes a choking noise behind a sleeve. Even Lucy’s mouth twitches as if her face is briefly considering humour before rejecting it on principle.
+
+I glare at them all, purely for show.
+
+“Oh, shut up,” I say. “All of you.”
+
+Charli smiles—real, unguarded—and goes back to tying her knot like she hasn’t just thrown a grenade of charm into my morning.
+
+It’s infuriating how likeable she’s become.
+
+Bree wipes her eyes. “So,” she says, recovering. “He took it well?”
+
+“He took it like a man who’s never been told no without being offered a biscuit afterwards,” I say.
+
+Bree’s expression shifts—still amused, but alert. “Meaning?”
+
+“Meaning he tried sad,” I say. “Then tried offended. Then tried making it my fault.”
+
+Bree points a pin at me. “And you?”
+
+“I was clear,” I say. “No explanation. No negotiation.”
+
+Bree’s approving nod is small but fierce. “Good girl.”
+
+I give her a look.
+
+Bree grins. “Sorry. Bad habit.”
+
+“Mm.”
+
+I should stop there. Wrap it up. Move on.
+
+But my phone buzzes in my pocket like a warning.
+
+I pull it out.
+
+A message from Ethan.
+
+> **Ethan:** Wow. Okay. So that’s it? After everything?
+> **Ethan:** I’m outside. We need to talk.
+
+I go very still.
+
+Bree’s smile fades when she sees my face.
+
+“He’s not,” Bree says quietly. “He’s not outside here.”
+
+I look toward the front windows. Nothing. No man at the gate. No shape lingering.
+
+“No,” I say. “Not here.”
+
+Charli’s head lifts slightly. Not panicked. Just attentive. The room’s temperature changes by half a degree—women becoming aware.
+
+I keep my voice calm because I refuse to bring chaos into Wardrobe.
+
+“He’s at my place,” I say.
+
+Bree’s mouth tightens. “Do you want me to call someone?”
+
+“No,” I say. “Not yet.”
+
+I take one breath. Then I do what Mara would do.
+
+I handle it clean.
+
+I type one message back. No emotion. No opening. No softness he can grab.
+
+> **Me:** Do not come to my home. Do not wait for me. Do not contact me again.
+> **Me:** If you come near me or my work, I will treat it as harassment and I will act accordingly.
+
+I hit send.
+
+Then, because I’m not daft, I screenshot it.
+
+I create a folder.
+
+**Ethan — dates**
+
+It’s grim how quickly that feels normal.
+
+Bree watches me do it and nods once, approval like a stamp.
+
+Charli’s eyes stay on my face for a beat—quietly concerned, quietly present—then she drops her gaze back to her work, giving me privacy without withdrawing support.
+
+That’s Wardrobe culture in action: *you are not alone, but you are not made into a spectacle.*
+
+The kettle clicks. The iron hisses. Mara’s shears bite through fabric.
+
+Life continues.
+
+My phone buzzes again.
+
+I don’t look at it immediately.
+
+I finish what my hands are doing first, because control is sometimes as simple as choosing the order of actions.
+
+Then I pick it up.
+
+Another message.
+
+> **Ethan:** You can’t do this to me.
+> **Ethan:** I just want to talk. Stop being dramatic.
+
+I stare at the words for a moment, feeling something cold and familiar settle in my ribs.
+
+There it is.
+
+The entitlement, plain as daylight.
+
+*Access* framed as *need.*
+My boundary framed as *drama.*
+
+Bree’s voice is low. “Sarah.”
+
+“I know,” I say.
+
+I don’t reply.
+
+Not now.
+
+Because the next reply will be the kind that changes the game. The kind that invites escalation if you do it wrong.
+
+I slide my phone back into my pocket and lift my chin.
+
+“Work,” I say, mostly to myself.
+
+Bree’s grin returns—smaller, harder. “Work,” she echoes.
+
+And Charli, from the cap table, says quietly, almost under her breath:
+
+“You won’t get used to that.”
+
+I glance at her.
+
+She meets my eyes with a calm that isn’t pity and isn’t fear.
+
+Just truth.
+
+I exhale once, slow.
+
+“No,” I agree. “I won’t.”
+
+And I go back to the table, letting the room hold steady around me, while somewhere outside of it a man realises—too late—that I am not his mother, and I am not his solution.
+
+I am his boundary.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
 
 <!--
 

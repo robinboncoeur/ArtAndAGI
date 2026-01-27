@@ -1,6 +1,269 @@
 # Scene 37
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
+
+
+
+## Notes26-01-22e
+### Scene 37
+
+<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+**Scene 37 — “Sarah’s Eyes” (Sarah POV)**
+
+Wardrobe in the morning is a lie you tell yourself in order to function.
+
+You walk in and pretend it’s just work—just fabric, just scissors, just steam and chalk and numbers—and if you do it well enough, you can almost forget that the room is actually a living thing that keeps score.
+
+I arrive on time because I’m not feral.
+
+Also because arriving early in Wardrobe is a type of currency, and I’m not in the mood to spend mine when I don’t need to.
+
+The room is already doing its morning inhale: kettle click, iron hiss, Mara’s presence like a weather front you can feel before you see it. Celeste is at the ledger, of course. She looks annoyingly composed, the way she always looks when she’s holding three plans in her head and refusing to let anyone smell it.
+
+Then Charli comes in.
+
+And I *know*.
+
+Not because she’s wearing something dramatic—she isn’t. Not because she’s suddenly strutting—she’s not. It’s subtler than that, which is why it’s so obvious.
+
+It’s in the way she enters the room as if she expects the floor to hold her.
+
+It’s in the way she hangs her bag without that tiny flinch, the old reflex of “am I in the way?” It’s in the way she washes her hands like it’s a ritual, not a penance.
+
+Most of all it’s in her face.
+
+Not prettier. Not different in any cheap, male-gaze way.
+
+Just… settled.
+
+Like someone’s turned down the background alarm.
+
+I perch on my stool with my coffee and watch her move.
+
+Charli goes straight to the cap station, checks the tie tension without fuss, and adjusts the knot by a millimetre like she’s been doing it her whole life. No apology. No looking around for permission. No waiting for someone to tell her she’s doing it right.
+
+She already knows the standard.
+
+That’s the entire difference.
+
+A girl who believes she belongs behaves like a girl who belongs. Revolutionary concept, honestly.
+
+I flick my eyes over to Celeste.
+
+Celeste is writing in the ledger. Her face is neutral. Her posture is “adult.” Her whole body is saying: *Nothing to see here, everyone, please return to your assigned competence.*
+
+And yet.
+
+There’s a softness in her attention that wasn’t there before. Not the kind you can accuse her of. Not the kind that would get her hauled into some HR nightmare.
+
+It’s more like a gravitational shift.
+
+Like she’s orienting herself around Charli without letting anyone hear the click.
+
+That’s how you know it’s serious.
+
+Celeste doesn’t do sloppy.
+
+Mara barks an instruction. Lucy passes a pattern. Tahlia mutters something about seam allowance like it’s a religion. The room keeps moving.
+
+Charli keeps moving with it.
+
+And the glow—yes, glow, I’ll say it because I’m not afraid of the word—doesn’t look like excitement.
+
+It looks like safety.
+
+Which is when it hits me, with the kind of clarity that makes me slightly annoyed:
+
+They’ve crossed the line.
+
+Not the obvious one. Not the scandal one. The *real* line.
+
+The line where it stops being “we’re keeping her safe” and becomes “we’re keeping each other.”
+
+I sip my coffee and watch Celeste’s hands.
+
+I’ve watched those hands do brutal kindness. I’ve watched her set standards that make men wilt and women straighten. I’ve watched her make decisions that hold the room together without asking anyone’s permission.
+
+If she’s chosen Charli, it won’t be accidental.
+
+It also won’t be messy.
+
+Which means I have only one question, really.
+
+Is it clean?
+
+I wait for the tell.
+
+It comes a few minutes later, almost nothing: Charli passes close to Celeste’s table, pauses half a beat, and says softly, “Morning.”
+
+Celeste doesn’t look up right away.
+
+She finishes writing first.
+
+Then she looks up, meets Charli’s eyes for exactly the length of time that is *appropriate*, and says, “Morning.”
+
+No lingering. No smile that could be called indulgent. No warmth used like candy.
+
+But Charli’s face changes—just a fraction—as if that single, controlled acknowledgement has landed somewhere deep and stabilising.
+
+Charli moves on.
+
+Celeste returns to the ledger.
+
+And I understand, with reluctant admiration: yes.
+
+Clean.
+
+Off the clock, on the clock, it stays separate. Whatever they’re building, it isn’t being built on Charli’s neediness or Celeste’s power.
+
+It’s being built on structure.
+
+On consent.
+
+On rules.
+
+Which, in this room, is the closest thing we have to romance anyway.
+
+I hop down from my stool and drift over to the ledger table because I’m me, and because if I don’t say something, my tongue will rot.
+
+I lean an elbow on the edge—casual, but not careless. Mara would murder me if I left a coffee ring.
+
+Celeste doesn’t look up.
+
+“Interesting morning,” I say lightly.
+
+Celeste’s pen continues moving. “Is it.”
+
+“Yes,” I say. “You’re doing that thing where you pretend the room isn’t a room.”
+
+That earns me a glance. Cool. Patient. Slightly murderous.
+
+“Sarah,” she says, like a warning.
+
+I hold up a hand. “Relax. I’m not asking for details.”
+
+Celeste’s eyes narrow. “Good.”
+
+I take a sip of coffee like I’ve got all day.
+
+I lower my voice, because I’m not a monster.
+
+“She looks good,” I say. “Properly good.”
+
+Celeste’s pen pauses for the smallest moment.
+
+Then resumes.
+
+“Yes,” she says, flat.
+
+I tilt my head. “And you?”
+
+Celeste finally looks up fully.
+
+Her face is calm. Too calm.
+
+“Me,” she says, “am doing my job.”
+
+I hum. “Mm. And your job is… what? Keeping distance forever? Or keeping it safe?”
+
+Celeste’s gaze holds mine.
+
+It’s not defensive.
+
+It’s… sharp. Considered.
+
+“Keeping it safe,” she says.
+
+There it is.
+
+No confession. No romance novel nonsense.
+
+Just a woman stating her intention like a policy.
+
+It should be cold.
+
+It isn’t.
+
+It’s devotion expressed in the only language Celeste trusts: responsibility.
+
+I nod once.
+
+“Good,” I say. “Because if you hurt her—”
+
+“I won’t,” Celeste cuts in.
+
+Not angry. Not dramatic.
+
+Certain.
+
+And I believe her.
+
+Because I’ve watched her build a whole room out of certainty.
+
+I let the threat dissolve into something more useful.
+
+“I’m not worried you’ll hurt her,” I say, honest now. “I’m worried you’ll forget you’re allowed to want her.”
+
+Celeste’s expression flickers—annoyance, maybe. Or recognition.
+
+“Go back to your work, Sarah,” she says, and it’s the closest thing to tenderness she’s ever offered me.
+
+I grin. “Gladly.”
+
+I start to turn away, then pause.
+
+“One more thing,” I add, softer.
+
+Celeste sighs like she’s suffering.
+
+I keep my eyes on the room, not on her.
+
+“If she’s glowing,” I say, “it’s because she finally believes us.”
+
+Celeste’s voice comes quiet, almost to herself.
+
+“I know.”
+
+I walk back to my stool and sit down.
+
+Charli is at the table now, pinning cleanly, speaking easily to Bree, laughing without snatching the laugh back. She looks like a girl who has stopped waiting for the trap.
+
+And Celeste—Celeste sits at the ledger with her spine straight and her face calm, doing her best impression of a woman who has everything under control.
+
+Which, frankly, is adorable.
+
+Because I can see the truth anyway.
+
+The room has shifted.
+
+The story has shifted.
+
+And I, Sarah of the sharp tongue and the excellent instincts, will be damned if I don’t keep one eye on it—not to interfere, not to gossip, but to make sure the rules stay what they are:
+
+No hooks.
+
+No spectacle.
+
+No men’s ideas of romance.
+
+Just two women doing the only thing that matters.
+
+Keeping it clean.
+
+Keeping her safe.
+
+And letting love grow the way it should:
+
+Quietly.
+
+Deliberately.
+
+Like a seam you don’t notice until you realise the whole garment finally fits.
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 <!--
 
 

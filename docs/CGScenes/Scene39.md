@@ -1,5 +1,403 @@
 # Scene 39
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Notes26-01-22e
+### Scene 39
+
+<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-22]
+
+**Scene 39 — “Pear-Shaped” (Sarah POV)**
+
+It’s amazing how quickly a man can turn your boundary into his *personal tragedy*.
+
+It’s also amazing how many of them genuinely believe that if they feel bad enough, the world will be obligated to comfort them.
+
+Ethan doesn’t reply for an hour.
+
+Which should have been a gift.
+
+Instead it’s the quiet before the weather front.
+
+By lunch I’ve had three missed calls.
+
+By mid-afternoon he’s discovered email.
+
+By four, there’s a notification from my building manager.
+
+**Someone is downstairs asking for you. Says it’s urgent.**
+
+I don’t even need to ask who.
+
+My stomach doesn’t drop anymore. It goes cold. Efficient. Clinical.
+
+I don’t leave my station. I don’t bolt. I don’t make it theatre.
+
+I walk to Lauren’s corner of the room—because Lauren is the adult in the civilian world the way Mara is the adult in fabric—and I keep my voice low.
+
+“He’s at my building,” I say.
+
+Lauren’s face changes. Not into panic. Into calculation.
+
+“Do you feel unsafe right now?” she asks.
+
+“No,” I say. “But he’s escalating.”
+
+Lauren nods once. “Okay. You’re not going home alone.”
+
+“I’m not going home at all,” I say.
+
+Lauren’s eyes flick to Mara, then back to me, as if checking what kind of support this room is allowed to give without turning into a rescue fantasy.
+
+“Bree,” Lauren calls, matter-of-fact. Not loud. Just… inevitable.
+
+Bree appears instantly, like she was waiting.
+
+Lauren’s voice stays calm. “Sarah’s got a boundary issue. You’re her buddy for the rest of the shift. She doesn’t walk to her car alone. She doesn’t go anywhere alone. Clear?”
+
+Bree’s grin is gone now. “Clear.”
+
+Mara doesn’t look up. She taps her pen once against the ledger—tick, tick—as if she’s underlining Lauren’s sentence in her own language: **standards.**
+
+Charli is at the cap table, and I feel her attention land on me like a soft hand. She doesn’t come over. She doesn’t insert herself.
+
+She just… holds the room steady by existing in it.
+
+Which is a strange kind of comfort.
+
+I text the building manager back.
+
+**Do not let him up. Tell him to leave. If he refuses, call police.**
+
+Then I screenshot that too.
+
+Evidence-gathering. Boring. Miraculous.
+
+An hour later, another message comes in—this time from Ethan, of course.
+
+> **Ethan:** You’re being insane.
+> **Ethan:** I’m not leaving until you talk to me.
+> **Ethan:** Don’t make me do something stupid.
+
+There it is.
+
+The classic line that tries to turn his behaviour into *my* responsibility.
+
+My hands don’t shake. That’s the gift of being furious.
+
+I show Lauren the screen.
+
+Lauren’s jaw tightens, and she says, very quietly, “Nope.”
+
+Not “oh no.”
+
+Not “are you okay?”
+
+Just: **nope.**
+
+The word of a woman who has seen this move before and has zero intention of playing.
+
+“Right,” she says. “We go formal.”
+
+I blink. “Already?”
+
+Lauren’s gaze is steady. “Sarah, he’s using implied threat language and turning up at your home. That’s already formal.”
+
+I exhale slowly, because she’s right, and because I hate being right about men.
+
+Lauren pulls her phone out, taps once, twice.
+
+“Leave it with me,” she says. “You keep screenshots. Dates. Times. Don’t reply. Don’t explain. Don’t negotiate.”
+
+It’s such a Lauren sentence: a list that becomes a lifeline.
+
+Bree leans in beside me. “I’ll stay at yours tonight,” she says, like it’s nothing, like she’s offering to water a plant. “Or you stay at mine. Dealer’s choice.”
+
+I look at her, touched in a way that is infuriating.
+
+“I’m fine,” I say automatically.
+
+Bree raises an eyebrow. “You’re not fine, babe. You’re just competent.”
+
+Fair.
+
+---
+
+By the time the shift ends, I have a plan.
+
+Not a dramatic plan.
+
+A boring plan.
+
+Lauren drives, Bree in the passenger seat, me in the back like a teenager being escorted home after a questionable party.
+
+It’s humiliating.
+
+Which means it’s good for me.
+
+We don’t go to my building. We don’t reward his persistence with my presence. We go to Bree’s place first, because Bree has the kind of tiny apartment where a man would look ridiculous standing outside.
+
+Lauren calls my building manager while we’re parked.
+
+Her tone is polite enough to pass, steel enough to cut glass.
+
+“Yes, thank you… no, I understand… please document that in your log… yes, call immediately if he returns… yes, we will be taking further steps.”
+
+She ends the call and looks at me.
+
+“He left,” she says. “But he’ll come back. So we close the loop.”
+
+I swallow. “What loop.”
+
+“The one where he thinks access is negotiable,” Lauren says.
+
+We spend the next hour doing paperwork in the most unromantic way possible: names, times, screenshots, a short statement that says exactly what happened and nothing more.
+
+Lauren doesn’t embellish. She doesn’t plead. She doesn’t tell a story.
+
+She gives facts.
+
+It’s terrifying how effective facts are when a woman uses them like a blade.
+
+By the end of the night, I have an interim safety plan, a number to call, and a list of instructions so dull they could be a laundry guide.
+
+Bree makes tea. Not to soothe. To keep us upright.
+
+When Lauren finally stands to leave, she pauses at the door.
+
+“Sarah,” she says, and her voice softens just a notch. “This isn’t your fault.”
+
+I roll my eyes because I need to.
+
+“I know.”
+
+Lauren’s gaze doesn’t let me wriggle away.
+
+“No,” she repeats gently. “*Really* know.”
+
+I look away. Then back.
+
+“I know,” I say again, and this time I mean it.
+
+Lauren nods once, satisfied.
+
+“I’ll check on you tomorrow,” she says. “And if he appears at Wardrobe, Mara will eat him alive.”
+
+“Delicately,” Bree adds.
+
+Lauren’s mouth twitches. “With a fork.”
+
+She leaves.
+
+Bree locks the door behind her, then looks at me with something like a sister’s appraisal.
+
+“You want to go out tomorrow night?” she asks. “Just… shake it off?”
+
+I huff. “You think I need shaking off.”
+
+Bree points at me. “You need reminding that your life doesn’t belong to some man who can’t boil pasta.”
+
+I hate that she’s right.
+
+So I say, “Fine.”
+
+---
+
+The next night, I dress like myself.
+
+Not sexy. Not soft. Not “approachable.”
+
+I put on black jeans and boots and a top that says: **I know where my keys are**.
+
+We go to a place Bree likes—music, crowd, women who laugh like they own their lungs.
+
+For the first hour, it works.
+
+I loosen. I laugh. I even forget to look at the door.
+
+Then a man slides into our orbit like smoke.
+
+He’s not Ethan. He’s the *same type*, just with better hair.
+
+He talks to Bree as if I’m invisible, then talks to me as if I’m a resource. He’s charming in the way men are charming when they’re used to women smoothing the awkward parts for them.
+
+I can feel myself tensing—old instincts waking up.
+
+Bree clocks it and leans into my ear.
+
+“Want me to bite him?” she whispers.
+
+“I want you to set him on fire,” I mutter.
+
+Bree snorts.
+
+I decide to handle it like an adult.
+
+I say, clear and calm, “We’re not interested.”
+
+He smiles as if I’ve flirted.
+
+“Aw, come on,” he says. “Don’t be like that.”
+
+I feel the rage flicker—cold, familiar.
+
+“Like what,” I say, sweetly. “A woman who said no?”
+
+His smile tightens.
+
+“Oh,” he says. “You’re one of those.”
+
+Bree’s eyes flash. “And you’re one of *those*,” she replies, bright as a knife.
+
+He laughs like we’re entertainment. He reaches for my elbow.
+
+My whole body goes still.
+
+Not fear.
+
+History.
+
+I step back.
+
+“Don’t touch me,” I say.
+
+He lifts both hands in mock surrender.
+
+“Relax.”
+
+Bree’s hand is suddenly on my back, steady.
+
+“We’re leaving,” she says.
+
+And we do.
+
+We walk out into the night air, and it’s like walking from heat into cold water.
+
+My hands are shaking now.
+
+Bree looks at me. “You okay?”
+
+I open my mouth to say yes.
+
+Instead I say, “I’m furious.”
+
+Bree nods, satisfied. “Good. Fury’s honest.”
+
+We should go home.
+
+We don’t.
+
+Because I’m stubborn, and because part of me wants to prove I’m not a woman who has to retreat.
+
+So when Bree suggests a quieter bar two streets over, I say yes.
+
+And there—there is where I make my mistake.
+
+I drink too fast.
+
+Not because I’m trying to get drunk.
+
+Because my nervous system is trying to come down and I’m sick of being vigilant.
+
+One drink becomes two. Two becomes three.
+
+My body softens before my mind is ready for it.
+
+And then my phone buzzes.
+
+A blocked number.
+
+My stomach clenches.
+
+Another buzz.
+
+Another.
+
+Bree’s face tightens when she sees mine.
+
+“It’s him,” I say.
+
+Bree grabs my hand. “We’re going. Now.”
+
+But the street tilts a little when I stand. Not dramatic. Just enough.
+
+Bree swears softly. “Okay. Okay. We’re fine. We get a rideshare—”
+
+My brain does a quick, ugly calculation: my address, my building, Ethan’s persistence, the risk of being dropped at the wrong place, the risk of fumbling keys.
+
+I do the only competent thing left.
+
+I call the most competent woman I know who will not ask questions first.
+
+Lauren.
+
+She answers on the second ring.
+
+“Sarah?”
+
+My voice comes out too careful.
+
+“Lauren,” I say. “I need you.”
+
+There’s no sigh. No judgement. No lecture.
+
+Just immediate clarity.
+
+“Where are you?” she asks.
+
+I tell her.
+
+“Stay where you are,” she says. “With Bree?”
+
+“Yes.”
+
+“Good. I’m coming.”
+
+I blink hard, suddenly close to tears, which is ridiculous.
+
+“Thank you,” I manage.
+
+Lauren’s voice stays firm.
+
+“No thanks,” she says. “Just sit down and wait. I’ll be there.”
+
+The line clicks off.
+
+Bree wraps an arm around my shoulders, guiding me to a bench like I weigh nothing.
+
+“You did good,” she says.
+
+I laugh once, sharp and humourless.
+
+“I called someone’s mum.”
+
+Bree grins. “Better than becoming someone’s mum.”
+
+I close my eyes for a second and breathe in the night.
+
+And in the small, humiliating quiet of needing help, something in me loosens—something stubborn and old.
+
+Maybe competence isn’t never needing anyone.
+
+Maybe it’s knowing exactly which woman to call when the world goes pear-shaped.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 
 <!--
 

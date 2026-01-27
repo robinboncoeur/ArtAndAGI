@@ -9,10 +9,286 @@
 
 
 
-## Commute 1st Go
+
+
+## Notes26-01-22e
+### ✨ Allowed ✨
+
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-22]
+
+**Scene 33 — “Allowed” (Celeste POV)**
+
+The first thing I noticed was that Charli stopped arriving like she was borrowing air.
+
+Not all at once. Not like a switch.
+
+More like a tide that had turned and, day by day, refused to go back out.
+
+Wardrobe hadn’t changed. The room was the room: steam in the kettle, scissors waking, the long tables holding their familiar clutter of tools and half-finished things. Mara’s ledger still sat where it belonged, heavy with names and notes and the neat violence of accountability. Labels still existed. Rules still did.
+
+But Charli—Charli started to move through it as if the rules were no longer a door she had to beg to be opened.
+
+They were the shape of the house.
+
+She came in early, as usual, bag on the same hook, hands washed the same thorough way. The ritual stayed. What changed was the energy underneath it.
+
+The early-ness used to feel like payment. A quiet offering, an attempt to earn her right to be there.
+
+Now it felt like preference.
+
+Ownership.
+
+She didn’t flinch when someone spoke her name. She didn’t tighten when footsteps came up behind her. She didn’t shrink into herself when the room looked at her; she held her place inside it like she had learned that place was not conditional.
+
+It wasn’t bravado. It wasn’t performance.
+
+It was peace.
+
+And it did something to me every time I saw it, in the same infuriating way the wrong seam line will bother you until you fix it: a quiet insistence that I acknowledge what I was looking at.
+
+Charli wasn’t “improving.”
+
+She was *settling.*
+
+Mara gave her a task that morning without looking up from the table.
+
+“Cap test,” she said. “Again.”
+
+Charli nodded once. No apology. No “sorry.” No explanation.
+
+“Okay,” she said.
+
+The word should not have been a victory.
+
+It was.
+
+She moved to the shelf, took the cap and kerchief combination we’d refined, and set it out like someone who understood it wasn’t a favour to us. It was work.
+
+Lucy was pinning a cuff. Tahlia was measuring a hem. Sarah sat on her stool, watching in the way she watched anything that might become a social fact.
+
+Charli went to the mirror and began to fold her hair into the shape it needed to be, quick and practised.
+
+No hovering.
+
+No uncertainty.
+
+No waiting for permission.
+
+Her fingers still weren’t perfect—she still had that slightly too-tight twist when she got anxious—but she corrected it herself without being told, loosening it by a fraction until the cap would sit properly.
+
+I watched my own reaction with a kind of clinical annoyance.
+
+I wanted to step in.
+
+Not because she couldn’t do it.
+
+Because I wanted my hands in her hair again.
+
+Because I wanted the intimacy of being allowed to fix her.
+
+Because I wanted to feel her trust as a physical thing.
+
+It was absurd. It was inconvenient. It was mine to manage.
+
+So I didn’t move.
+
+Charli pinned the coil down, set the cap, tied the kerchief, and turned her head left and right like she was checking the fit because it mattered—not because she feared being laughed at.
+
+Sarah’s voice drifted across the room.
+
+“Look at you,” she said, pleased. “Like you’ve been doing it your whole life.”
+
+Charli’s mouth curved.
+
+Not small. Not apologetic.
+
+A real smile.
+
+And then—this was new—she held the smile. She didn’t snatch it back the second she became aware it was visible.
+
+“Thanks,” she said easily.
+
+Sarah’s eyebrows lifted, as if she’d just witnessed a minor miracle.
+
+Lucy didn’t look up. “If you tighten the knot, it’ll dig by lunchtime.”
+
+Charli touched the tie, adjusted it by a hair. “Better?”
+
+Lucy glanced once. “Better.”
+
+No fuss. No praise. No performance.
+
+Just women calibrating a thing together.
+
+Charli turned slightly, checking herself in the mirror.
+
+And for a second—only a second—I saw the exact moment something inside her settled.
+
+It was almost imperceptible: the way her shoulders dropped, the way her chin lifted, the way her own gaze met her reflection and did not recoil.
+
+As if she’d finally decided she believed us.
+
+Not just that we were *being nice.*
+
+That we meant it.
+
+That when we said she belonged, we weren’t making an exception.
+
+We were recognising a fact.
+
+Mara looked over, took in the fit, and gave a curt nod.
+
+“Move,” she said. “Prove it.”
+
+Charli did.
+
+She bent to reach fabric on the lower shelves, turned quickly, lifted her arms, moved through the narrow spaces between tables. The cap held. The kerchief held. The pins did their job.
+
+Her body moved like someone who had stopped fighting itself.
+
+Not in an athletic way. In a permission way.
+
+As if she’d been given, finally, the right to occupy her own skin without flinching at every edge.
+
+Bree appeared in the doorway mid-test, carrying a tote bag full of something that looked like lace and chaos.
+
+She stopped dead when she saw Charli.
+
+“Oh,” Bree said, delighted. “You look… you look *proper*, babe.”
+
+Charli flushed—still bashful, still Charli—but she didn’t fold in on herself the way she used to. She didn’t try to vanish.
+
+She lifted her chin, pink-cheeked, and kept moving.
+
+Bree clapped once. “Yes! That’s it. That’s *it.*”
+
+Tahlia smirked. “She’s been upgraded.”
+
+“She’s been allowed,” Sarah said, too quick, too sharp to be accidental.
+
+The room went quiet for half a beat at that—just long enough for the words to land.
+
+Not in a mystical sense. Not in a fantasy sense.
+
+In the real sense: *allowed* by systems and women and paperwork and boring appointments and a mother who did not blink.
+
+Allowed by the world finally meeting her halfway.
+
+Charli heard it. I saw it in the way her breath hitched, the way her hands paused for the smallest moment before they continued.
+
+She didn’t look at Sarah.
+
+She looked—briefly—at me.
+
+Not pleading. Not apologising.
+
+Checking.
+
+As if she needed one more confirmation from the person whose gaze had become… weighty to her. Reliable. Defining.
+
+I gave her a small nod. Calm. Professional.
+
+And inside that calm, something dangerous warmed.
+
+Because the look she gave me—quiet, grateful, trusting—didn’t feel like a subordinate checking a supervisor.
+
+It felt like a girl checking whether the woman she loved was still there.
+
+The thought landed in me like a dropped needle.
+
+I didn’t react.
+
+I turned back to the table and wrote in the ledger with a steadiness I had to manufacture:
+
+**Cap + kerchief test: holds under movement. No slip. Adjust knot tension. Approved.**
+
+Mara’s pen made a hard line underneath my note.
+
+“Good,” she said.
+
+Then, without looking up, she added, “Tell Lauren I want the constraints updated if anything changes.”
+
+“I will,” I replied.
+
+Charli kept moving through the room, finishing her test, returning the cap to the table, hands calm.
+
+She didn’t ask if she’d done it right.
+
+She didn’t apologise for existing.
+
+She didn’t look like she was waiting to be punished for being happy.
+
+When she passed me, she hesitated a fraction—not enough to call attention, just enough to be felt—and said quietly, “Thanks.”
+
+“For what?” I asked, too quickly.
+
+Charli’s eyes lifted. Clearer than they used to be. Less afraid.
+
+“For… not making it a big thing,” she said.
+
+I felt my chest tighten.
+
+Because it *was* a big thing.
+
+It was becoming a big thing in me, whether I wanted it to or not.
+
+I kept my face steady.
+
+“That’s what we do,” I said, and hated myself for how close it came to tenderness.
+
+Charli nodded once, satisfied, and walked away.
+
+Not to escape.
+
+Just… to go back to work.
+
+The room turned around her with its ordinary sounds: scissors, fabric, laughter, low talk. The day continued the way it always did.
+
+And yet, in the middle of all of it, I could feel the shift like a new seam line you can’t unsee once it’s there.
+
+Charli’s belonging wasn’t tentative anymore.
+
+It wasn’t borrowed. It wasn’t conditional.
+
+It was real enough to show in her body.
+
+Real enough to show in her smile.
+
+Real enough to make my own composure cost more than it used to.
+
+Because now, when I looked at her, I wasn’t only seeing what I’d seen all along.
+
+I was feeling it.
+
+And the longer she glowed—quietly, naturally, without apology—the harder it became to pretend my investment was merely professional.
+
+I could still be the adult.
+
+I could still hold the line.
+
+But the line was no longer drawn against her.
+
+It was drawn against myself.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-25e
 ### Emily Commute
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-25]
 
 ✨ Commute ✨
 
@@ -248,11 +524,12 @@ A shared understanding that the next true thing could be done together.
 
 
 
-
-## Scene 33 End
+## Notes26-01-25eb
 ### Emily 33 End
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-25]
 
 ✨ 33 Ending ✨
 
@@ -312,15 +589,7 @@ It felt like a place we were about to begin.
 
 
 
-## w
-### ww
 
-<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 

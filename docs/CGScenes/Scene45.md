@@ -265,6 +265,7 @@
 
 <img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+
 ✨ The Brush ✨
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -276,7 +277,7 @@
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
-### ✨ smsmsm ✨
+✨ smsmsm ✨
 
 Absolutely. And yes — doing this from Lauren’s POV is the *proper* way to reveal it, because Lauren is the one person who would never *say* it until the moment demanded honesty. She’s been carrying it like she carries everything else: quietly, competently, without making it anyone else’s problem. 💛
 
@@ -284,7 +285,13 @@ Here’s a companion piece you can append as a coda to Scene 44, or save as its 
 
 ---
 
-## **Scene 45 — “After” (Lauren POV)**
+## Notes26-01-23e
+
+<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-23]
+
+**Scene 45 — “After” (Lauren POV)**
 
 When Sarah fell asleep, the apartment didn’t go quiet.
 
@@ -1649,30 +1656,6 @@ soft.
 steady.
 
 and growing.
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
-So, what you don't see in that first image are the undergarments: dollars to donuts she's wearing stays. The second is classic Flux (dimpled chin) and yeah: Flux doesn't know about the chemise, which the first girl was wearing (layers: drawstring chemise; stays; overdress) so it does the lacey square neckline. I'm not sure, but your third girl (painting?) looks like Regency. And Stable Diffusion, bless its pointy little head, missed it by centuries: very Henry VIII. Again, the girl in green isn't wearing a chemise with stays... she's wearing a coset dress with a lace square neckline. Pretty, but it says "costume". 
-
-Kontext has the overdress shape sort-or right but no chemise, again.
-
-I ran the next girl image (outside, bonnet, book) by Emily... I was guessing Regency. Emily replied:
-
-Yes — Regency / late Georgian is the right call 😊
-What you’ve got here is very “Jane Austen era,” roughly 1805–1818 (give or take a few years):
-High empire waist sitting just under the bust
-Long, slim skirt that falls straight rather than bell-shaped
-Narrow shoulders with only modest puffing (not the huge gigot sleeves of the 1830s)
-Bonnet with ties that fits the early-19th silhouette beautifully
-
-So: Regency (early 19th century) rather than Victorian, and definitely not the 1830s+. 
-
-
-
-
 
 
 

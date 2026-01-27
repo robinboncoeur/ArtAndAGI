@@ -1,6 +1,264 @@
 # Scene 35
 
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
+
+
+
+
+
+## Notes26-01-22e
+### Scene 35
+
+<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+## **Scene 35 — “Morning Rules” (Celeste POV)**
+
+Wardrobe in the morning had a particular honesty to it.
+
+Not the theatrical kind—no speeches, no declarations. Just the plain truth of women doing work: steam, chalk, fabric laid flat like a decision.
+
+I arrived early, as I always did.
+
+The room was cool and dim, lights half-on, the big tables waiting. I hung my bag on my hook. I washed my hands. I took the ledger out and opened it to the page we’d been living in all week.
+
+Same rituals. Same body.
+
+But something in me had shifted, and it made everything feel slightly louder.
+
+I had slept. I had not slept. Both were true in different places.
+
+Charli’s mouth, warm and brief against mine, was still in my nervous system like a held note.
+
+I did not smile at it.
+
+I catalogued it.
+
+*Off the clock,* I reminded myself. *No secrets. No hooks.*
+
+If I let warmth leak into the room, it would become currency.
+
+I would not do that to her.
+
+The kettle clicked on. The iron woke. The building began its daily inhale.
+
+Mara arrived without greeting, as usual, coat off, sleeves rolled, face already in the work. She glanced at the ledger.
+
+“Cap notes,” she said.
+
+“I wrote them,” I replied.
+
+Mara nodded once, then moved on as if I’d told her the sky was blue.
+
+Tahlia drifted in next, carrying a roll of tape and a bag of pins. Lucy followed, expression unreadable. Bree arrived with a tote bag that looked like it could contain either lace or a small animal.
+
+Sarah came in last, unhurried, coffee in hand, eyes bright with the kind of alertness that made me mildly want to ban her from the building.
+
+She perched on her stool like it belonged to her and watched the room assemble.
+
+Charli arrived five minutes after.
+
+Not late. Not early enough to look like she was paying a fine.
+
+Just… on time.
+
+That, in itself, would have been unremarkable.
+
+Except I saw it.
+
+I felt it.
+
+She came in with her scarf tied back neatly, hair smoothed into the shape the cap required. Her shoulders were down. Her breathing was even. She hung her bag on the hook and washed her hands, careful and thorough.
+
+When she turned, her gaze met mine for half a beat.
+
+No panic.
+
+No “what are we now?”
+
+Just a small steadiness, like she’d accepted the rules and trusted me to keep them.
+
+I held her gaze for exactly the amount of time that was appropriate.
+
+Then I looked back down at the ledger.
+
+“Morning,” I said.
+
+“Morning,” Charli replied.
+
+Her voice was normal.
+
+The absence of tremor felt like a gift.
+
+Or a trap.
+
+I refused both interpretations.
+
+Mara set a pattern down on the table with a flat slap.
+
+“Stomacher fit,” she said. “Charli. You’re on pins and marking.”
+
+Charli stepped forward immediately, hands ready.
+
+“Yes,” she said.
+
+Not “sorry.”
+
+Not “okay, if that’s alright.”
+
+Just yes.
+
+Lucy slid the pattern across with the efficiency of someone passing a tool.
+
+Charli took it and began to work, pinning cleanly, checking alignment, chalk marking with a steadiness that would have been impossible a month ago. Her fingers moved like she was no longer afraid of making contact with the work.
+
+Her body moved like it wasn’t waiting to be told it was allowed to occupy space.
+
+I forced myself to keep my attention where it belonged—on the ledger, on the workflow, on the morning’s tasks.
+
+And still, my mind offered me images like sabotage:
+
+The bench. The park. My hand hovering. Charli leaning in without flinching. The soft sound she made when I said *allowed.*
+
+I wrote a note harder than I needed to.
+
+Bree leaned over to Charli, stage-whispering.
+
+“You look very… sorted today.”
+
+Charli’s mouth curved. “I feel sorted.”
+
+The words were simple.
+
+The meaning was not.
+
+Tahlia snorted. “Careful. Sorted’s addictive.”
+
+Charli laughed—quiet, real—and kept working.
+
+Sarah watched all of it with the satisfaction of someone watching a kettle reach the moment before boil.
+
+She sipped her coffee slowly, eyes moving between Charli and me like she was reading a ledger that wasn’t on paper.
+
+I did not look up.
+
+I could feel her seeing anyway.
+
+Mara called, “Celeste.”
+
+I looked up immediately, grateful.
+
+“Tell Lauren,” Mara said, “I want updated constraints if anything changes. Mood. Energy. Faintness. Anything.”
+
+“I will,” I replied.
+
+Charli’s hand paused on a pin for a fraction, then continued.
+
+The fact that she heard Mara’s word—constraints—and didn’t flinch was another small miracle.
+
+Not because she wasn’t sensitive.
+
+Because she was no longer interpreting structure as rejection.
+
+She was interpreting it as inclusion.
+
+Sarah’s voice floated across the room.
+
+“Awfully responsible of you,” she said, to no one in particular.
+
+I didn’t respond.
+
+I didn’t need to. Sarah’s remarks were less communication than weather.
+
+She hopped down from her stool and drifted toward the cutting table, casual as a cat, and stood beside me as if she’d always intended to.
+
+“Interesting,” she murmured, under her breath, just for me.
+
+I kept my eyes on the page. “What is.”
+
+Sarah leaned slightly closer, coffee breath and mischief.
+
+“Your posture,” she said. “It’s almost… saintly.”
+
+I turned a page. Slowly. Deliberately.
+
+“Don’t,” I said, quietly.
+
+Sarah’s mouth twitched. “Oh, I’m not saying anything,” she replied, far too pleased.
+
+I wrote. I didn’t look at her.
+
+Sarah let the silence hang a moment longer, then softened her voice into something almost kind.
+
+“She’s happy,” she said. “Properly happy.”
+
+I felt my throat tighten.
+
+“Yes,” I said, and kept it flat. “And she’s safe.”
+
+Sarah’s eyes flicked toward Charli, who was bent over the pattern, focused, calm.
+
+“She’s safer than she’s ever been,” Sarah murmured. “Because she’s got women who mean it.”
+
+The remark landed like a compliment and a warning at the same time.
+
+I finally looked at Sarah then.
+
+Her expression was not mocking now. It was sharp, sure. Protective in her own acerbic way.
+
+“As long as you keep your rules,” she added.
+
+My pulse thudded once, irritated at being understood.
+
+“I intend to,” I said.
+
+Sarah held my gaze for half a beat, then lifted her cup in a small salute.
+
+“Good,” she said, and wandered off as if she hadn’t just named my private war.
+
+Charli finished the marking, handed the pattern back to Lucy, and moved to the next task without hovering.
+
+As she passed my table, she didn’t touch me.
+
+She didn’t glance at me too long.
+
+She simply said, very quietly, “See you later,” like it was normal.
+
+It was normal now.
+
+It had to be.
+
+“Later,” I replied, and kept my voice steady.
+
+Charli walked away.
+
+The room continued: scissors, chalk, small laughter, fabric sliding under palms.
+
+Mara’s pen moved across the ledger like it always did. No drama. No indulgence. Only work.
+
+And I stood in the middle of it, holding the rules like a scaffold I’d built with my own hands:
+
+Off the clock.
+
+No secrets.
+
+No hooks.
+
+No warmth used as currency.
+
+I could do this.
+
+I would do this.
+
+Because the romance—when it came—would not be something I *took*.
+
+It would be something I chose carefully, with both of us fully awake.
+
+And that morning, watching Charli move through Wardrobe as if she belonged there by right, I felt the truth of it settle in my chest, steady and relentless:
+
+The hardest part wasn’t wanting her.
+
+The hardest part was making wanting her safe.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
@@ -10,7 +268,25 @@
 
 
 
-## Emily Scene 35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-25e
 ### Full Scene
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
