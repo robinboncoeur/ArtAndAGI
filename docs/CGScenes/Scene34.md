@@ -55,7 +55,7 @@ And stood normally.
 
 We started walking.
 
-Not toward her place. Not toward mine. Just… away.
+Not toward her place. Not toward mine. Just... away.
 
 It wasn’t a decision I announced. It was a direction my body took before my mind could turn it into policy.
 
@@ -67,7 +67,7 @@ Charli kept her hands on her bag strap, fingers curled tight. She wasn’t tremb
 
 “You did well today,” I said.
 
-Charli gave a small laugh. “At… hats?”
+Charli gave a small laugh. “At... hats?”
 
 “At existing,” I said before I could stop myself.
 
@@ -79,7 +79,7 @@ I kept my voice even.
 
 “You don’t apologise as much,” I said. “That’s progress.”
 
-Charli’s mouth softened. “I try,” she said. Then, after a beat: “It’s easier when I’m not… scared all the time.”
+Charli’s mouth softened. “I try,” she said. Then, after a beat: “It’s easier when I’m not... scared all the time.”
 
 The words sat between us.
 
@@ -93,7 +93,7 @@ Instead, I heard myself say, quieter than I intended:
 
 Charli’s gaze stayed on my face. Not darting away. Not bracing for correction.
 
-Just… looking.
+Just... looking.
 
 It made my throat tighten.
 
@@ -111,11 +111,11 @@ Charli swallowed. “Thank you.”
 
 “For calling your mum?”
 
-“For… not letting me keep doing something stupid,” she said, and the faintest smile flickered. “Even when I hated you for it.”
+“For... not letting me keep doing something stupid,” she said, and the faintest smile flickered. “Even when I hated you for it.”
 
 I looked at her. “You hated me?”
 
-Charli’s eyes widened, horrified. “No— I mean— not you. Not *you.* Just… the feeling. The idea of it stopping.”
+Charli’s eyes widened, horrified. “No— I mean— not you. Not *you.* Just... the feeling. The idea of it stopping.”
 
 I nodded once. I understood.
 
@@ -123,7 +123,7 @@ I nodded once. I understood.
 
 Charli let out a breath—half laugh, half sob she didn’t let happen.
 
-“I thought you’d… be disgusted,” she whispered.
+“I thought you’d... be disgusted,” she whispered.
 
 The word landed hard.
 
@@ -153,7 +153,7 @@ Instead I heard my own voice—slow, deliberate—like I was stepping onto a flo
 
 Charli’s mouth trembled.
 
-“I… admire you,” I added, and felt the word pull something open in my chest. “You were alone with something frightening, and you still kept walking. You didn’t stop trying.”
+“I... admire you,” I added, and felt the word pull something open in my chest. “You were alone with something frightening, and you still kept walking. You didn’t stop trying.”
 
 Charli blinked fast. Her hands tightened on her strap.
 
@@ -273,7 +273,7 @@ I didn’t touch her again immediately. I let her breathe.
 
 Charli made a sound that was half laugh, half sob, and this time I let my thumb wipe the corner of her mouth, light as air.
 
-“You’re… sure?” she whispered.
+“You’re... sure?” she whispered.
 
 I felt my own smile—small, steady.
 
@@ -436,7 +436,7 @@ And stood normally.
 
 We started walking.
 
-Not toward her place. Not toward mine. Just… away.
+Not toward her place. Not toward mine. Just... away.
 
 It wasn’t a decision I announced. It was a direction my body took before my mind could turn it into policy.
 
@@ -448,7 +448,7 @@ Charli kept her hands on her bag strap, fingers curled tight. She wasn’t tremb
 
 “You did well today,” I said.
 
-Charli gave a small laugh. “At… hats?”
+Charli gave a small laugh. “At... hats?”
 
 “At existing,” I said before I could stop myself.
 
@@ -460,7 +460,7 @@ I kept my voice even.
 
 “You don’t apologise as much,” I said. “That’s progress.”
 
-Charli’s mouth softened. “I try,” she said. Then, after a beat: “It’s easier when I’m not… scared all the time.”
+Charli’s mouth softened. “I try,” she said. Then, after a beat: “It’s easier when I’m not... scared all the time.”
 
 The words sat between us.
 
@@ -474,7 +474,7 @@ Instead, I heard myself say, quieter than I intended:
 
 Charli’s gaze stayed on my face. Not darting away. Not bracing for correction.
 
-Just… looking.
+Just... looking.
 
 It made my throat tighten.
 
@@ -488,7 +488,7 @@ Then Charli spoke, softly.
 
 “Checking what?”
 
-“On me,” she said, and the embarrassment was faint, but real. “All week. At work. Not… obvious. Just—” She made a small motion with her fingers, as if miming a glance she didn’t want to name.
+“On me,” she said, and the embarrassment was faint, but real. “All week. At work. Not... obvious. Just—” She made a small motion with her fingers, as if miming a glance she didn’t want to name.
 
 Heat rose in my face again. Annoyance, mostly.
 
@@ -508,7 +508,7 @@ Not afraid.
 
 Listening.
 
-“I didn’t want you to feel watched,” I added, and heard, belatedly, how intimate that sounded. “But I needed to know you were… okay.”
+“I didn’t want you to feel watched,” I added, and heard, belatedly, how intimate that sounded. “But I needed to know you were... okay.”
 
 Charli’s breath hitched once. “I am,” she whispered.
 
@@ -528,7 +528,7 @@ Charli swallowed. “Thank you,” she said, and her voice was steadier than it 
 
 I looked at her. “You hated me.”
 
-Charli’s eyes widened, horrified. “No— I mean— not you. Not *you.* Just… the feeling. The idea of it stopping.”
+Charli’s eyes widened, horrified. “No— I mean— not you. Not *you.* Just... the feeling. The idea of it stopping.”
 
 I nodded once. I understood.
 
@@ -536,7 +536,7 @@ I nodded once. I understood.
 
 Charli let out a breath—half laugh, half sob she didn’t let happen.
 
-“I thought you’d… be disgusted,” she whispered.
+“I thought you’d... be disgusted,” she whispered.
 
 The word landed hard.
 
@@ -566,7 +566,7 @@ Instead I heard my own voice—slow, deliberate—like I was stepping onto a flo
 
 Charli’s mouth trembled.
 
-“I… admire you,” I added, and felt the word pull something open in my chest. “You were alone with something frightening, and you still kept walking. You didn’t stop trying.”
+“I... admire you,” I added, and felt the word pull something open in my chest. “You were alone with something frightening, and you still kept walking. You didn’t stop trying.”
 
 Charli blinked fast, holding herself together. “You’re the one who kept me,” she whispered.
 
@@ -684,7 +684,7 @@ I didn’t touch her again immediately. I let her breathe.
 
 Charli made a sound that was half laugh, half sob, and this time I let my thumb wipe the corner of her mouth, light as air.
 
-“You’re… sure?” she whispered.
+“You’re... sure?” she whispered.
 
 I felt my own smile—small, steady.
 
@@ -827,25 +827,25 @@ For a while we stayed in the quiet—kettle, fridge hum, the distant sound of so
 
 Then Charli spoke without looking at me.
 
-“My mum…” Her voice caught. She swallowed. “She said she could learn.”
+“My mum...” Her voice caught. She swallowed. “She said she could learn.”
 
 I nodded. “She meant it.”
 
 Charli’s fingers worried the hem of her sleeve.
 
-“And you…” She hesitated, almost angry at herself for asking. “You said you noticed me.”
+“And you...” She hesitated, almost angry at herself for asking. “You said you noticed me.”
 
 “Yes,” I said.
 
 She looked up then, and her eyes were bright—not drama, not performance. Just the raw edge of a day that had asked too much of her.
 
-“I don’t know what I am,” she whispered. “I just know what I can’t be. And I—” Another swallow. “I don’t want to keep… fighting words.”
+“I don’t know what I am,” she whispered. “I just know what I can’t be. And I—” Another swallow. “I don’t want to keep... fighting words.”
 
 I didn’t move. I let the silence hold, the way Wardrobe held silence when someone needed space to be real.
 
 Charli’s voice dropped even lower, like she was testing whether the air would punish her.
 
-“But with you…” she began, then stopped, and something in her face tightened with fear. “Is it… stupid if I say it?”
+“But with you...” she began, then stopped, and something in her face tightened with fear. “Is it... stupid if I say it?”
 
 My throat tightened.
 
@@ -861,7 +861,7 @@ A bridge.
 
 I let a breath out slowly, careful not to make it sound like relief at having “won” anything.
 
-“Not stupid,” I said. “Just… brave.”
+“Not stupid,” I said. “Just... brave.”
 
 Charli blinked hard. One tear slid down her cheek and she didn’t wipe it away.
 
@@ -879,7 +879,7 @@ She looked up quickly, startled by the simplicity.
 
 Charli’s breath hitched.
 
-“And… outside?” she asked.
+“And... outside?” she asked.
 
 I shook my head once. “Outside is yours to decide. We don’t rush language into places where it can be used against you.”
 
@@ -918,15 +918,15 @@ This is written to match your tone and the arc we’ve just built (post-clinic, 
 
 Charli stood by the sink with the mug between her hands, as if the warmth was something she needed permission to keep.
 
-“My mum…” she started, then stopped. Her throat moved. “She said she could learn.”
+“My mum...” she started, then stopped. Her throat moved. “She said she could learn.”
 
 “She meant it,” I said.
 
-Charli looked down at the tea. “She’s trying. It’s just…” Her mouth tightened. “It’s hard for her to say.”
+Charli looked down at the tea. “She’s trying. It’s just...” Her mouth tightened. “It’s hard for her to say.”
 
 I nodded once. I could have said a dozen things about Lauren’s blindness, about grief grooves and old pronouns, but tonight wasn’t for judging Lauren. Tonight was for keeping Charli intact.
 
-Charli’s voice dropped. “Was it… weird for you. When Wardrobe started calling me *she*.”
+Charli’s voice dropped. “Was it... weird for you. When Wardrobe started calling me *she*.”
 
 The question carried something underneath it: *Did I fool you too?*
 
@@ -936,7 +936,7 @@ She blinked up at me.
 
 I kept my voice level, the way you do when you’re handling something fragile and real.
 
-“When I met you, ‘Charles’ didn’t fit,” I said. “Not because of a theory. Because of… you. The way you moved. The way you held yourself. The way you kept trying to be good in a room that was already reading you as something else.”
+“When I met you, ‘Charles’ didn’t fit,” I said. “Not because of a theory. Because of... you. The way you moved. The way you held yourself. The way you kept trying to be good in a room that was already reading you as something else.”
 
 Charli’s hands tightened around the mug.
 
@@ -946,7 +946,7 @@ Charli’s hands tightened around the mug.
 
 Her breath hitched.
 
-“The room didn’t invent it,” I added, quieter. “It just… finally said out loud what I’d been noticing for a long time.”
+“The room didn’t invent it,” I added, quieter. “It just... finally said out loud what I’d been noticing for a long time.”
 
 Charli stared at me as if she didn’t trust the kindness in it.
 
@@ -958,7 +958,7 @@ Then I said the part that mattered.
 
 Her eyes went bright again.
 
-“You really… saw me,” she whispered.
+“You really... saw me,” she whispered.
 
 “Yes,” I said. “From the beginning.”
 
@@ -996,7 +996,7 @@ I didn’t move. I didn’t lean in like this was a confession I was entitled to
 
 Charli blinked rapidly, as if even that choice was too much kindness.
 
-“I don’t know,” she said. “It’s… dangerous.”
+“I don’t know,” she said. “It’s... dangerous.”
 
 I nodded once. I let her hear that I believed her.
 
@@ -1016,13 +1016,13 @@ I softened my tone—not into vagueness, into steadiness.
 
 Charli stared at the mug between her hands as if it was the only solid thing in the room.
 
-“I just… I don’t want to be—” Her voice cracked. “I don’t want to be pushed into the other thing.”
+“I just... I don’t want to be—” Her voice cracked. “I don’t want to be pushed into the other thing.”
 
 “Okay,” I said. “So we don’t push. We don’t force. We don’t make declarations to satisfy anyone. We just tell the truth in small pieces, as you can carry it.”
 
 She breathed out, shaky.
 
-“What if the truth is…” She stopped, cheeks flushing with shame that didn’t belong to her.
+“What if the truth is...” She stopped, cheeks flushing with shame that didn’t belong to her.
 
 I waited.
 
@@ -1064,95 +1064,59 @@ This sets up Charli *maybe* saying “girl” next, or maybe not yet — and eit
 
 **Scene 34 — “Here” (Celeste POV, past tense)**
 
-Home didn’t greet us with anything dramatic.
-
-Just the familiar quiet: the fridge hum, the faint creak in the hallway floorboard, the smell of yesterday’s laundry powder trapped in the cushions. Ordinary life, holding its shape. The kind of ordinary that can feel like mercy when your day has been a series of doors and forms and questions.
+Home greeted us with the reassuringly familiar quiet: the fridge hum, the faint creak in the hallway floorboard, the smell of yesterday’s laundry powder trapped in the cushions. Ordinary life, holding its lines. The kind of ordinary that feels merciful, soothing when your day has been a series of doors and forms and questions.
 
 Charli kicked her shoes off carefully near the mat—as if she’d been trained to be apologetic even to a pair of sneakers—then stood there for a second too long with her tote still on her shoulder.
 
-As if setting it down would make the day real.
-
 I didn’t rush her.
 
-I didn’t say *how are you*, because that question was too large and too loose. It would invite either a collapse or a lie.
+I didn’t say *how are you*, because that question was too large and too loose. It would invite either a collapse or a lie. I gave her something smaller. Something she could do.
 
-I gave her something smaller. Something she could do.
+“Wash your hands,” I said, and I let the instruction sound like care, not control. “Then have a glass of water.”
 
-“Wash your hands,” I said, and I let the instruction sound like care, not control. “Then water.”
+Her shoulders eased a fraction at the familiarity of procedure. She moved to the sink. Turned the tap. Soap. Palms, backs, fingers, nails: meticulous, the way she always was. She expressed competence as a kind of prayer. I filled a glass and slid it onto the counter within reach. When she finished, she took it without looking at me and drank in small, obedient sips. Proof she was still inside her body.
 
-Her shoulders eased a fraction at the familiarity of procedure.
-
-She moved to the sink. Turned the tap. Soap. Palms, backs, fingers, nails—meticulous, the way she always was. Competence as a kind of prayer.
-
-I filled a glass and slid it onto the counter within reach. When she finished, she took it without looking at me and drank in small, obedient sips.
-
-Good. Hydration. Grounding. Proof she was still inside her body.
-
-I put the kettle on. Not tea as a symbol, not tea as a hug—tea as heat, routine, and an excuse for silence to be allowed.
-
-While the water warmed, Charli sat at the kitchen table and placed the folded papers from the appointment neatly beside her tote. She stared at them as if they might change shape if she blinked wrong.
-
-I didn’t comment on the papers. I didn’t ask what the doctor said.
+I put the kettle on. Not tea as a hug: tea as heat, routine, and an excuse for the solace of silence. While the water warmed, Charli sat at the kitchen table and placed the folded papers from the appointment neatly beside her tote. She stared at them wordlessly.
 
 I made toast.
 
-Two slices, plain. Butter, no drama. The smell rose quietly, and the kitchen began to feel less like a place where something had almost gone wrong, and more like a place where something could be made right.
+Two slices, plain. Butter, vegemite. The smell rose quietly, and the kitchen began to feel less like a place where betrayals can happen, and more like a place where solutions can be found.
 
 When I set the plate down, she flinched—tiny, automatic—as if she expected the gesture to come with a price.
 
 “Eat,” I said simply.
 
-She obeyed. Took one bite. Chewed too carefully.
+She obeyed and took a bite. Chewed too carefully. I waited. Let the kettle hiss and the toast do its slow work. After a minute, she spoke without lifting her eyes.
 
-I waited. Let the kettle hiss and the toast do its slow work.
+“My mum said ‘Don’t,’” she whispered. “In the car,” she added, voice thin. “When I said I was scared about... stuff.”
 
-After a minute, she spoke without lifting her eyes.
+I didn’t pretend to misunderstand. I nodded, giving her the dignity of being believed. Charli swallowed hard. Her hands tightened around the edge of the plate.
 
-“My mum said ‘Don’t,’” she whispered.
+“I know she didn’t mean it like...” She shook her head, frustrated. “She wasn’t trying to be mean.”
 
-I didn’t pretend to misunderstand.
+No. Lauren wasn’t being meaan. Lauren was terrified. And afraid of anything that sounded like a cliff edge.
 
-“In the car,” she added, voice thin. “When I said I was scared about… the future.”
+“She meant ‘don’t borrow pain that hasn’t happened yet,’” I said quietly. Charli’s breath hitched, like the sentence gave her a rung to stand on.
 
-I nodded once, giving her the dignity of being believed.
-
-Charli swallowed hard. Her hands tightened around the edge of the plate.
-
-“I know she didn’t mean it like…” She shook her head, frustrated. “She wasn’t trying to be cruel.”
-
-No. Lauren wasn’t cruel.
-
-Lauren was terrified. And organised. And afraid of anything that sounded like a cliff edge.
-
-“She meant ‘don’t borrow pain that hasn’t happened yet,’” I said quietly.
-
-Charli’s breath hitched, like the sentence gave her a rung to stand on.
-
-“But it still…” Her voice cracked. “It still made me stop talking.”
+“But it still...” Her voice cracked. “It still made me stop talking.”
 
 I felt my throat tighten.
 
 “Yeah,” I said. “Because ‘don’t’ can sound like *shut up*, even when it’s meant as protection.”
 
-Charli stared at the toast. Her eyes were bright again, unperformed.
-
-She blinked fast, and for once she didn’t apologise for it.
+Charli stared at the toast. Her eyes were bright again, unperformed. She blinked fast, and for once she didn’t apologise for it.
 
 The kettle clicked off.
 
-I poured the water, set a mug down in front of her, then sat opposite her—close enough to be present, far enough to not crowd her.
+I poured the water, set a mug down in front of her, then sat opposite her: close enough to be present, far enough to not crowd her. I didn’t reach across the table. I didn’t touch her hand.
 
-I didn’t reach across the table. I didn’t touch her hand.
+I held the space. Charli swallowed again. 
 
-I held the space.
+“I don’t want to upset her.”
 
-Charli swallowed again. “I don’t want to upset her.”
+“You don’t have to manage your mother’s feelings by disappearing.”
 
-“You don’t have to manage your mother’s feelings by disappearing,” I said. Not sharp. Just true.
-
-Her eyes flicked up to mine, startled—as if the concept had never been presented so plainly.
-
-I softened my voice. “She’s allowed to have feelings. You’re allowed to exist anyway.”
+Her eyes flicked up to mine. I softened my voice. “She’s allowed to have feelings. You’re allowed to exist anyway.”
 
 Charli’s mouth trembled. She looked down quickly.
 
@@ -1160,7 +1124,7 @@ The silence stretched. Not empty. Working.
 
 Then she said, so quietly it almost didn’t carry:
 
-“I think… there’s something else.”
+“I think... there’s something else.”
 
 I didn’t move.
 
@@ -1174,7 +1138,7 @@ I nodded. “All right.”
 
 Charli’s fingers worried the corner of a napkin. Again. Again.
 
-“It’s… dangerous,” she said.
+“It’s... dangerous,” she said.
 
 I let that land. I didn’t dismiss it. I didn’t minimise it into *you’re safe here* like a slogan.
 
@@ -1204,7 +1168,7 @@ Charli stared at the mug. Her voice came out rough.
 
 I nodded. “Good. That’s true.”
 
-“And I don’t want…” She winced as if the next word could bite her. “I don’t want ‘son.’”
+“And I don’t want...” She winced as if the next word could bite her. “I don’t want ‘son.’”
 
 The word made the air feel heavier.
 
@@ -1214,11 +1178,11 @@ I didn’t flinch.
 
 Charli’s breath left her in a trembling exhale.
 
-“And…” She stopped.
+“And...” She stopped.
 
 I waited.
 
-“And there’s a word that…” Her eyes squeezed shut for a second, as if she was bracing for impact. “There’s a word that feels… like it might fit.”
+“And there’s a word that...” Her eyes squeezed shut for a second, as if she was bracing for impact. “There’s a word that feels... like it might fit.”
 
 My heart thudded once, hard. I kept my face neutral, because this couldn’t be about my anticipation. It had to be about her courage.
 
@@ -1274,7 +1238,7 @@ I let the tear be what it was: evidence that her body had found a truth it could
 
 Charli’s laugh broke into something that wasn’t quite a laugh—more like a cracked sound of disbelief.
 
-“But… if I say it,” she whispered, “then it’s real.”
+“But... if I say it,” she whispered, “then it’s real.”
 
 I chose my next words carefully, because this was the hinge.
 
@@ -1294,7 +1258,7 @@ Charli’s eyes flicked to mine again. Searching.
 
 A beat.
 
-Then she whispered, “I think… I want it.”
+Then she whispered, “I think... I want it.”
 
 The sentence was so quiet it would have been easy to miss.
 
@@ -1334,7 +1298,7 @@ Charli’s voice came out muffled behind her hand.
 
 I nodded, slow. “That’s a real fear.”
 
-She lowered her hand, eyes wet. “And if I don’t say it, I’ll lose…” She faltered. “Me.”
+She lowered her hand, eyes wet. “And if I don’t say it, I’ll lose...” She faltered. “Me.”
 
 The sentence hit like a bell. Clear. Final.
 
@@ -1348,7 +1312,7 @@ I continued, calm as structure. “We keep it here. We practise saying it in saf
 
 She blinked, and something in her face softened.
 
-“You’re not… disappointed,” she whispered.
+“You’re not... disappointed,” she whispered.
 
 “No,” I said. “I’m relieved you told someone the truth before it turned into another secret.”
 
@@ -1362,7 +1326,7 @@ When she opened them again, she looked smaller. Not diminished.
 
 Just unarmoured.
 
-“Can I…” she began, then stopped.
+“Can I...” she began, then stopped.
 
 I didn’t interrupt. I waited.
 
@@ -1428,21 +1392,17 @@ Home met us the way it always did: quietly.
 
 The hallway smelled faintly of detergent and warm timber. The living room lamp cast a soft pool of light that didn’t demand anything of you. Even the fridge hum felt like background reassurance—*life is still normal, you’re still in it.*
 
-Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down.
+Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down. 
 
-I didn’t say anything for a second.
-
-Then I stepped beside her—not in front, not behind—and kept my voice low.
+I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
 
 “You’re home,” I said. “You did the hard part.”
 
-Her breath left her in a small tremor.
+Her breath left her in a small tremor. I nodded toward the kitchen.
 
-I nodded toward the kitchen. “Come on. Tea. Water. Something in your stomach.”
+“Come on. Tea. Water. Something in your stomach.”
 
-She followed. Not because I was commanding her—because she knew I meant it. Because the bus ride home had already taught her that my steadiness wasn’t a trap.
-
-At the sink she washed her hands the way she always did: meticulous, thorough, almost ritual. I watched without comment, because that kind of care was one of the ways she kept herself intact.
+She followed, because the bus ride home had already taught her that my steadiness wasn’t a trap. At the sink she washed her hands the way she always did: meticulous, thorough, almost ritual. I watched without comment, because that kind of care was one of the ways she kept herself intact.
 
 I filled a glass and set it down.
 
@@ -1450,17 +1410,11 @@ I filled a glass and set it down.
 
 She did. Small sips, obedient at first—then a longer one, like her body remembered it had permission to be looked after.
 
-“Good,” I murmured.
-
 I put the kettle on.
 
-The click and hiss of it felt like a signal to the room: *we’re not in the clinic anymore. We’re not in the car anymore. We’re in a place where you don’t have to be brave in public.*
+The click and hiss of it felt like a signal to the room: *we’re not in the clinic anymore. We’re not in the car anymore. We’re in a place where you don’t have to be brave in public.* Charli sat at the table. She took the folded paper from the appointment and placed it beside her tote as neatly as if tidiness could keep it from being frightening.
 
-Charli sat at the table. She took the folded paper from the appointment and placed it beside her tote as neatly as if tidiness could keep it from being frightening.
-
-I set toast down in front of her—plain, buttered, unambitious.
-
-Her eyes flicked to it, then to me. A question without words: *Is it okay to need this?*
+I set toast down in front of her—plain, buttered, unambitious. Her eyes flicked to it, then to me. A question without words: *Is it okay to need this?*
 
 “It’s okay,” I said, answering it. “Eat what you can.”
 
@@ -1478,11 +1432,11 @@ Then Charli spoke, staring into her tea mug like it might hold an answer.
 
 I felt my chest tighten—not anger, not judgement. Understanding.
 
-“In the car,” she added. “When I started talking about the… future.”
+“In the car,” she added. “When I started talking about the... future.”
 
 I nodded once.
 
-“She didn’t mean it like…” Charli’s voice cracked. “She wasn’t trying to be cruel.”
+“She didn’t mean it like...” Charli’s voice cracked. “She wasn’t trying to be cruel.”
 
 “No,” I said gently. “She wasn’t.”
 
@@ -1500,7 +1454,7 @@ I didn’t flinch away from it.
 
 “I think she meant,” I added, “don’t borrow pain that hasn’t happened. But she said it with fear in her mouth.”
 
-Charli swallowed. “It felt like… I wasn’t allowed to say the scary thing.”
+Charli swallowed. “It felt like... I wasn’t allowed to say the scary thing.”
 
 “You are allowed,” I said, and my voice warmed around the sentence. “You’re allowed to say it here.”
 
@@ -1528,7 +1482,7 @@ She blinked rapidly, the kindness of that choice almost too much.
 
 She stared at the table.
 
-“It’s… dangerous,” she said.
+“It’s... dangerous,” she said.
 
 I let that stand. I didn’t rush to contradict it.
 
@@ -1554,7 +1508,7 @@ Charli’s voice came out rough.
 
 “Okay,” I said, steady. “That’s true.”
 
-“And I don’t want…” She flinched. “I don’t want ‘son.’”
+“And I don’t want...” She flinched. “I don’t want ‘son.’”
 
 The word made her look smaller, as if it pressed her down.
 
@@ -1564,7 +1518,7 @@ Her breath shuddered out.
 
 A pause. Then:
 
-“There’s a word that…” She stopped, cheeks warming with shame that didn’t belong to her. “There’s a word that feels… like it might fit.”
+“There’s a word that...” She stopped, cheeks warming with shame that didn’t belong to her. “There’s a word that feels... like it might fit.”
 
 My heart thudded once, hard. I kept my face neutral—not because I wasn’t moved, but because this couldn’t turn into my reaction.
 
@@ -1688,7 +1642,7 @@ After a minute I reached for the butter knife and the plate—quiet domestic tid
 
 Charli shook her head. Then, after a beat, surprised herself.
 
-“Maybe… later.”
+“Maybe... later.”
 
 “Whenever you want,” I said.
 
@@ -1699,6 +1653,8 @@ And the sip this time wasn’t obedience.
 It was trust.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 <!--
