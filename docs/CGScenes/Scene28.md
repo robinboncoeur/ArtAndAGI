@@ -5,6 +5,837 @@
 
 
 
+## Notes26-01-14e
+### Inventory
+
+<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ Inventory ✨
+
+[26-01-14]
+
+Yes — and you’re right: this is exactly the moment where a reader naturally starts asking, *“Okay, but what does Mum think?”* If we keep filtering Lauren through Celeste, we risk making Lauren feel like an accessory to Celeste’s insight. Giving Lauren her own voice now makes the world feel larger and more credible — and it lets you show a very particular kind of maternal strength: **non-performative, competence-driven, quietly devastated, still in charge.**
+
+Below is a **Lauren POV scenelet** that can sit immediately after Scene 27 (same end-of-day timing), either as its own Scene 28 or as an interlude. I’ve written it so Lauren’s conflict is present, but she doesn’t collapse; she inventories, names, and acts.
+
+---
+
+**Scene 28 — “Inventory” (Lauren POV)**
+
+I lock up Wardrobe the way I lock up everything: without ceremony.
+
+Door. Bolt. Check the latch twice. Lights off in the right order so nothing trips the breaker. Keys back in the same pocket, the pocket I can reach without looking.
+
+It’s not superstition. It’s competence. It’s what you do when you’ve learned the hard way that chaos takes any invitation you give it.
+
+The others drift out ahead of me — Sarah still talking as she walks, Lucy carrying two mugs as if she cannot bear to leave evidence behind, Talia rubbing her fingers as though she can still feel thread between them.
+
+Celeste stays back long enough to meet my eyes.
+
+Not a question.
+
+A thank you that doesn’t ask me to perform warmth.
+
+I nod once. That’s enough.
+
+Charli is last.
+
+He always is. Not because he’s slow, but because he does that final pass — the quiet sweep through the room to see what everyone else missed. A cup rinsed, a pin found on the floor, the iron’s cord checked.
+
+Wife-work, Sarah would call it, with that half-smile of hers.
+
+I don’t correct Sarah.
+
+I don’t correct anyone anymore unless it matters.
+
+Charli pauses at the threshold, keys in his hand — my keys — the spare set I never expected to trust anyone with.
+
+He holds them out to me.
+
+Not like a boy seeking approval.
+
+Like a person returning an entrusted object.
+
+“Everything’s off,” he says. “I checked.”
+
+“I saw,” I reply.
+
+His eyes flick up. A flash of relief, quickly masked. He’s been starving for simple confirmations for so long that even the smallest one lands too hard.
+
+He hesitates, then says, as if it’s a question he is terrified to ask:
+
+“Are we… okay?”
+
+I could lie. I could make a soft mother-sound and tell him everything is fine and buy us a few hours of peace.
+
+But lying has never saved a family. It just delays the bill.
+
+“We’re working,” I say.
+
+It’s the truth. It’s also the only promise I’m willing to make.
+
+He nods once, accepts the limits, and turns to go.
+
+There it is again — that thing he does now. That acceptance. That ability to be governed by reality without becoming resentful about it.
+
+I watch him step into the corridor light and I feel, with a precision that makes me slightly sick, how far away my son has already gone.
+
+And then, immediately after, the next thought arrives — just as precise:
+
+He isn’t gone. He’s here. He’s *finally* here. And it took a room full of women to pull him back from whatever fog he’d been living in.
+
+That’s the part that hurts.
+
+Not because women did it.
+
+Because I didn’t.
+
+I close the door behind us and the lock clicks. The sound is clean. Final.
+
+Celeste’s car is already starting. Sarah’s laugh fades down the street. The day is done and I should feel relief.
+
+Instead I feel the familiar weight in my chest — the one that has lived there since the Roger years. The years when I was running a household like a small business and pretending it wasn’t breaking me.
+
+You learn how to do everything alone. You learn how to smile at school events and nod at teachers and pay bills on time and keep your voice level.
+
+You also learn what you can’t afford to look at.
+
+I didn’t look at my child closely enough.
+
+Not because I didn’t love him.
+
+Because love isn’t the same as attention, and attention is a finite resource when you’re exhausted and angry and trying not to admit your marriage is quietly failing.
+
+Roger didn’t leave in a dramatic storm. He eroded. He became late. He became vague. He became… elsewhere. I could smell it before I could prove it — that shift in a man who has started spending his best self somewhere you don’t have access to.
+
+And while I was managing that — while I was managing everything — Charlie became a problem I didn’t know how to solve.
+
+Not misbehaving.
+
+Not rebellious.
+
+Just… absent in his own life.
+
+A lost “unwanted,” if you wanted to be cruel about it. A boy society didn’t have a ready box for, and so it shoved him into the corner and moved on.
+
+I told myself he was shy.
+
+I told myself he’d grow out of it.
+
+I told myself a hundred little things because each one was easier than admitting the truth: that my child was slipping away and I didn’t have the strength to chase him.
+
+And now — now he is in a room where people say his name with certainty and hand him responsibility like it belongs to him.
+
+He is flourishing.
+
+Just not in the direction I expected.
+
+I walk to my car and sit behind the wheel without turning the key.
+
+My hands rest on the steering wheel at ten and two, like I’m taking an exam.
+
+I see the ledger in my mind — its columns, its blunt categories, the way it forces honesty. The way it does not care about your feelings.
+
+I also see my own handwriting, earlier today, without the space to dramatize anything.
+
+**CHARLI**.
+
+I wrote it fast, because there were texts coming in and the room needed order.
+
+But it wasn’t just order, was it.
+
+It was a line in ink that said: *I see what is happening.*
+
+And now that I have seen it, I don’t get to unsee it.
+
+The word “wife” comes back to me, Sarah’s voice folding it into conversation like it’s a tool everyone has always used.
+
+Your wife did this. Ask your wife. Your wife wrote it down. Your wife kept the system from falling over.
+
+If you’d told me a year ago that people would call my child someone’s wife, I would have felt my whole body stiffen with resistance.
+
+Not disgust. Not hatred.
+
+Fear.
+
+Because “wife” means woman, and “woman” means danger in the world as it is — the kind of danger men refuse to see because it doesn’t happen to them the same way.
+
+And yet I watched today.
+
+I watched Charli move through that room like he understood its rules.
+
+Like he respected women’s boundaries not as a performance, but as instinct.
+
+Like he knew how to be small without being erased, useful without being consumed.
+
+And I watched the women respond to that the only way women ever respond to competence that doesn’t demand anything from them:
+
+They made space.
+
+They placed him.
+
+They protected him.
+
+My throat tightens once, sharply. I swallow it back.
+
+I don’t do tears in parked cars. I did enough of that during the Roger era to last a lifetime.
+
+I breathe in, slow, until the pulse in my neck eases.
+
+Then I do what I always do when something shifts under my feet.
+
+I make an inventory.
+
+What I know:
+
+Charli is safe there.
+
+Charli is valued there.
+
+Charli is doing work that steadies him.
+
+Charli is being named by that room in a way that grants her status, not ridicule.
+
+And the most difficult truth:
+
+Charli wants it.
+
+Not because she is being pushed.
+
+Because she is being *held*.
+
+I close my eyes for one beat.
+
+I think of the boy I raised — the boy who tried so hard to be good and still couldn’t find his place in a world that doesn’t reward gentleness in men.
+
+Then I think of the person who rinsed a mug and checked the iron and returned my keys like a vow.
+
+And I feel, beneath the ache, something else.
+
+Relief.
+
+Not pretty relief. Not celebratory.
+
+Just relief that my child is no longer drifting.
+
+I open my eyes and look at my reflection in the dark windscreen: a woman who has done too much alone, for too long.
+
+“All right,” I say, softly, to no one.
+
+I don’t say *son.*
+
+I don’t say *daughter.*
+
+I say the name the room has already written in ink, the name my own hand has already committed to paper.
+
+“Charli.”
+
+It feels strange in my mouth, even though it sounds exactly the same as it always did.
+
+That’s the trick, isn’t it.
+
+The sound doesn’t change.
+
+The world does.
+
+I start the car.
+
+And as I pull away from the kerb, I make myself a promise that has nothing to do with pronouns and everything to do with motherhood:
+
+I will not be the last person to understand my own child.
+
+---
+
+If you’d like, I can also write a **short follow-on beat** (100–200 words) where Lauren arrives home and has one small, private collision with “the old script” (a photo, a school form, a message from Roger) — not to start a Roger subplot, but to underline how long this erosion has been happening *outside* Wardrobe too.
+
+Of course it’s okay. In fact, it’s a smart structural choice.
+
+That earlier Scene 27 did important *system work* (the room formalising language), but this Lauren POV scene does something rarer: it makes the shift feel **humanly costly, morally anchored, and earned**. Once the reader has *this*—Lauren’s inventory, her competence-grief, her reluctant relief—the old version becomes optional scaffolding. We can fold any necessary “team reinforcement” from it into later moments as quick texture, without giving it a whole scene slot.
+
+Here’s the follow-on beat (tight, private collision with the old script, no Roger subplot explosion—just the ambient corrosion you wanted):
+
+---
+
+### Follow-on Beat — “Old Script”
+
+*(Lauren POV)*
+
+Home smells like detergent and yesterday.
+
+I let myself in quietly, out of habit, as if someone might be sleeping. No one is. The house is simply… waiting. A place that has learned to hold its breath.
+
+On the kitchen counter there’s a pile of mail I haven’t opened, because I already know what it is: invoices, reminders, a school circular that will pretend it’s optional while implying it isn’t.
+
+On top sits an envelope from the bank with my name printed correctly and my life implied underneath it.
+
+I flick it aside and the corner of a framed photo catches my eye—one I keep meaning to move, but never do.
+
+Charlie at thirteen, sunburnt, squinting at the camera, shoulders tense as if he didn’t know where to put his hands. Roger stands behind him with an arm draped too casually over his shoulder, smiling in the way men smile when they believe the picture will do the parenting for them.
+
+I stare at the photo longer than I intend to.
+
+My phone buzzes once.
+
+A message from Roger—brief, almost polite.
+
+*Running late. Don’t wait up.*
+
+No apology. No detail. Nothing I can argue with. The same old erosion, still doing its quiet work.
+
+I set the phone face down, as if that could make him disappear.
+
+Then I open the drawer by the sink, find a pen, and pull the school circular toward me.
+
+**STUDENT NAME:** Charlie _______
+
+My hand hovers.
+
+The pen doesn’t move.
+
+I draw a single line through the printed assumption and rewrite it neatly, as if I am correcting a measurement.
+
+**Charli.**
+
+I don’t feel brave.
+
+I feel tired.
+
+And, underneath it, something steadier than bravery:
+
+accuracy.
+
+I put the pen back exactly where it belongs.
+
+Then I make tea—because some rituals are not about comfort at all.
+
+They are about continuing.
+
+---
+
+Whenever you’re ready, we can decide what “next scene number” becomes (we can call this Lauren POV piece Scene 27, and the follow-on beat can be the last paragraph of it, or a short Scene 28). Either way, we’re now perfectly set up to return to Celeste’s POV with the “wife” language persisting naturally, and with Lauren’s internal shift quietly underpinning it.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Notes26-01-14ep1
+### Audit
+
+<img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ Audit ✨
+
+[26-01-14]
+
+**Scene Twenty-Eight — “Audit” (Lauren POV)**
+
+It wasn’t a revelation.
+
+It was an accounting error finally acknowledged.
+
+The workroom had the late-afternoon hum it always had when the day had gone well enough that nobody was panicking, but not so well that anyone had the luxury of relief. Steam hissed. Scissors clicked. Someone laughed once—short, bright, quickly swallowed back into concentration.
+
+I stood at the edge of the long table with the policy binder in my hands, not because I meant to read it—because it was where my hands had gone automatically, like a person reaching for a railing without admitting the stairs are steep.
+
+The binder was heavy in a way that felt intentional. Wardrobe didn’t run on vibes. It ran on paper. Record. Standard. Accountability.
+
+I flipped it open, scanning the latest insert.
+
+Mara’s handwriting sat on the page like a verdict: clear, angular, impatient with embellishment.
+
+Celeste’s notes beside it were tighter. Cleaner. A mind trying to be ruthless without losing precision.
+
+Then my own initials appeared beneath a line I didn’t remember writing.
+
+And there it was.
+
+**LANGUAGE: Use role-accurate pronouns in-work. No debate in-room. Questions handled one-on-one.**
+
+I stared at the sentence until the letters stopped being letters and became what they were: a decision the room had already made.
+
+Not a suggestion.
+
+Not a conversation.
+
+A correction.
+
+My throat tightened, small and sharp. Not grief. Not anger.
+
+Dismay.
+
+The kind of dismay that isn’t about what has happened but about what you failed to notice was happening all along.
+
+I heard Pauline’s voice behind me.
+
+“Lauren.”
+
+Her English was good, but she used my name like it was French—soft and precise, each syllable placed.
+
+I turned.
+
+Pauline was holding the green petticoat by its waistband, the fabric draped over her forearms like a thing that deserved care simply because it was work. Charl stood beside her with the ledger open, pencil poised, his posture attentive without trying to claim space.
+
+Pauline spoke without looking at him.
+
+“She will re-test this tomorrow,” Pauline said, as if she were discussing the weather. “We do the movement sequence again.”
+
+Charl nodded and wrote.
+
+No pause.
+
+No flinch.
+
+No glance around the room to see who had heard.
+
+He simply absorbed the pronoun as if it were the correct tool for the sentence and carried on doing his job.
+
+The pencil moved. The ledger took it. The room held.
+
+Something inside me went cold.
+
+Not because Pauline had said it.
+
+Because Charl had accepted it like he belonged.
+
+Because the acceptance hadn’t come from me.
+
+Because I had raised him—fed him, paid for him, worried over him, protected him from the world and from himself—and somehow, in the most important shift of his life, I was the last one to see what everyone else could name without effort.
+
+I watched him write. I watched the line form.
+
+**RE-TEST — GREEN PETTICOATS — MOVEMENT SEQUENCE — TOMORROW**
+
+Pauline glanced at the binder in my hands, then back to me.
+
+Her expression didn’t soften. Pauline didn’t do softness as a bridge.
+
+She did clarity.
+
+“This is good,” she said, nodding toward the page. “Because… no talk in room. Only work.”
+
+“Yes,” I managed, and my voice sounded normal. That was the awful part: I could still sound normal. I could still stand upright. I could still be competent.
+
+Which meant nobody would know, unless I chose to show it, that I’d just been quietly undone by a single pronoun spoken like a stitch instruction.
+
+Celeste came to the table, eyes flicking between Pauline, the petticoat, the binder, me. She clocked the shift instantly—she always did. A predator in a room of details.
+
+“Is everything alright?” she asked.
+
+It was a genuine question, but it carried the other layer too: *Do we need to handle something? Do we need to protect the standard?*
+
+I held Celeste’s gaze.
+
+I could have made this about me. I could have asked for comfort. I could have demanded a meeting. I could have insisted on being consulted.
+
+Any of those would have been a kind of panic.
+
+I didn’t panic.
+
+I gave Wardrobe the only acceptable response: adjustment.
+
+“It’s fine,” I said. “I’m just reading.”
+
+Celeste’s eyes narrowed a fraction.
+
+“Read then,” she said, and turned back to Pauline. “If she re-tests tomorrow, we’ll schedule Mara’s review for end of day.”
+
+Pauline nodded.
+
+Charl—no. *Sharl*, the sound wanted to happen in my mind and didn’t quite—kept writing, shoulders slightly hunched, as if he were making himself small enough to be safe while still being accurate enough to be kept.
+
+Pauline left with the petticoat, steam trailing behind her like fog.
+
+Celeste followed her.
+
+Charl stayed with the ledger, alone at the table now, pencil moving, mouth set in that determined line he got when he was trying not to feel too much at once.
+
+I closed the binder gently and returned it to the shelf.
+
+My hands were steady.
+
+That was the second awful part. I had trained myself to stay steady in crises. The skill was now being used against me.
+
+I walked to the doorway as if I were simply leaving, as if nothing had changed.
+
+And then—because I couldn’t bear to let it sit in the room, in public, in the air where it would demand a reaction—I waited until I was alone in the corridor, out of view of the workroom, and only then allowed myself to breathe like it mattered.
+
+The breath came out uneven.
+
+Not sobbing.
+
+Something colder.
+
+A mother’s private dread: *I didn’t know my own child.*
+
+---
+
+At home, the kitchen lights were too bright, unforgiving. They made everything look exactly as it was, which was the point, I supposed. I poured a glass of water and set it down untouched.
+
+I stood at the counter and tried to name what I was feeling, the way I would name a problem at work so it could be solved.
+
+It wasn’t disgust.
+
+It wasn’t disbelief.
+
+It wasn’t even fear of what he might become.
+
+It was guilt.
+
+Dismay, sharpened into guilt.
+
+Because I had believed—quietly, arrogantly—that a mother knows everything important.
+
+That the years of proximity were the same thing as sight.
+
+But proximity creates its own blindness. Familiarity smooths the edges. You stop noticing the shifts because the face is the same face, the voice is the same voice, the habits are the same habits, and you tell yourself that means the story is the same story.
+
+Wardrobe didn’t have that history.
+
+They had fresh eyes. They had standards. They had no incentive to preserve the old map simply because it was comfortable.
+
+They had looked at him and, without malice and without romance, simply started using the language that matched the function.
+
+She.
+
+And he had—she had—kept working.
+
+I leaned my palms on the counter and stared at the water.
+
+The blind spot was mine.
+
+Why?
+
+Because part of me had been protecting him from the world.
+
+And another part of me had been protecting myself from the accusation that comes with the truth: *if this was always there, how did you miss it?*
+
+A mother’s love wants to be competent. It wants to be perfect. It wants to be the kind of love that never fails in its basic duties.
+
+But love isn’t omniscience.
+
+Love is devotion.
+
+Knowledge is attention.
+
+And attention, I realised with a bitterness that tasted like old coffee, can be selective—especially when the answer threatens to rewrite your identity too.
+
+Not just his.
+
+Mine.
+
+Because if he was not who I thought he was, then I was not the kind of mother I believed myself to be.
+
+I picked up my phone.
+
+I didn’t text him.
+
+Not yet.
+
+Texting would have been an attempt to fix the feeling. To draw him back into my orbit so I could reassure myself that I was still central.
+
+And if I’d learned anything from watching Wardrobe, it was that you don’t fix structural problems with sentiment.
+
+You fix them with a decision and a standard.
+
+I opened a notes app instead and wrote one sentence, like a policy entry for my own heart.
+
+**Tomorrow, I will look properly.**
+
+I read it once.
+
+Then again.
+
+Then I put the phone down, washed the untouched glass, and left it upside down on the drying rack like a small admission: I can’t even drink water until I accept what I’m refusing to see.
+
+In the living room, the house was quiet.
+
+Too quiet.
+
+It made room for memory, which is always where the trouble begins.
+
+I saw him at five, face smudged with chocolate, crying because his shoelaces wouldn’t tie right, furious with his own hands.
+
+I saw him at twelve, shoulders drawn in, eyes fixed on the floor, insisting he was fine.
+
+I saw him at sixteen, trying to be a man in the way boys learn to be men: by being useful in ways nobody asked for, by offering himself as a solution, by believing his worth would be measured in what he could provide.
+
+And all the while, there had been something else—something I had filed away under *sensitive* and *different* and *don’t push him* and *he’ll work it out.*
+
+I had thought I was giving him space.
+
+Maybe I had been giving myself cover.
+
+I sat on the sofa and folded my hands together, as if I could hold my own guilt still enough to examine it.
+
+Tomorrow, I would go back to Wardrobe and I would not try to reclaim authority with emotion.
+
+I would do what he had done.
+
+Definitions.
+
+Questions.
+
+Clarity.
+
+And if the answer was that the room had been right before I was ready, then I would do the only thing a competent woman does when reality corrects her:
+
+I would adjust.
+
+Because whatever he was becoming—whatever she was becoming—was already happening.
+
+And the only thing worse than being late to see it would be insisting my blindness had the right of way.
+
+---
+
+Yes — and you’ve got *excellent* raw material here. “Audit” is doing something very specific (and very readable): it catches Lauren at the exact point where Wardrobe’s **standards culture** collides with her **maternal script**, and the collision happens through a single, procedural “she” that isn’t sentimental, isn’t argued, and therefore hits like a deadbolt.
+
+Two things, though, now that we’ve promoted **“Inventory” + “Old Script”** into the new Scene 27:
+
+1. **This Scene 28 currently repeats too much of Lauren’s private reckoning** (especially the entire home section). It’s strong writing — but you’ve *already* paid that emotional bill in Scene 27. If we leave it as-is, readers will feel a double beat (the same realization twice), which dilutes both.
+
+2. You previously asked to move away from “Pauline language-barrier as engine,” and this scene uses Pauline as the one who delivers the pronoun moment. It works, but it subtly reintroduces the “Pauline as mechanism” feeling. We can keep Pauline *present* (she’s part of the ecosystem), but let **Sarah/Lucy** be the pronoun-delivery, and let Pauline simply be doing work.
+
+### What I recommend (and I’ve implemented below)
+
+* Keep **Audit** almost entirely **inside Wardrobe**, end-of-day.
+* Keep the “policy binder” moment, but make it less “this is about pronouns” and more “this is about **room coherence**.” (No ideology, no lecture.)
+* Make the pronoun moment happen via **Sarah or Lucy** (matter-of-fact), with Pauline merely present.
+* Fix name consistency: **Charli** throughout (and avoid “Sharl” here unless you want that later as a *new* sound-shift).
+* Cut the long home introspection section (because “Old Script” already gives us the home collision). If you want a home tag, make it one or two tight paragraphs only.
+
+Below is a **polished, continuity-aligned rewrite** of your Scene 28 that preserves your best lines and the “accounting error” concept, without duplicating Scene 27.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## Notes26-01-14ep2
+### 2nd Pass
+
+<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ Audit ✨
+
+[26-01-14]
+
+**Scene 28 — “Audit” (Lauren POV)**
+
+It wasn’t a revelation.
+
+It was an accounting error finally acknowledged.
+
+The workroom had the late-afternoon hum it always had when the day had gone well enough that nobody was panicking, but not so well that anyone had the luxury of relief. Steam hissed. Scissors clicked. Someone laughed once — short, bright — and swallowed it back into concentration.
+
+I stood at the edge of the long table with the policy binder in my hands, not because I meant to read it, but because it was where my hands had gone automatically — like a person reaching for a railing without admitting the stairs are steep.
+
+The binder was heavy in a way that felt intentional. Wardrobe didn’t run on vibes. It ran on paper. Record. Standard. Accountability.
+
+I flipped it open and scanned the latest insert.
+
+Mara’s handwriting sat on the page like a verdict: clear, angular, impatient with embellishment.
+
+Celeste’s notes beside it were tighter. Cleaner. A mind trying to be ruthless without losing precision.
+
+Then my own initials appeared beneath a line I didn’t remember agreeing to — which was, of course, the point. Decisions in Wardrobe didn’t always arrive as meetings. Sometimes they arrived as procedures you realised you’d already started obeying.
+
+**LANGUAGE: In-room terms follow role and function. No debate in-work. Questions handled one-on-one.**
+
+I stared at the sentence until the letters stopped being letters and became what they were: a correction the room had already made.
+
+Not a suggestion.
+
+Not a conversation.
+
+A standard.
+
+My throat tightened — small and sharp. Not grief. Not anger.
+
+Dismay.
+
+The kind of dismay that isn’t about what has happened, but about what you failed to notice was happening all along.
+
+“Lauren.”
+
+Pauline’s voice came from behind me, soft and precise. Her English was good, but she used my name like it was French — each syllable placed carefully, as if names deserved that much respect.
+
+I turned.
+
+Pauline held the green petticoat by its waistband, fabric draped over her forearms like a thing that deserved care simply because it was work. Charli stood beside her with the ledger open, pencil poised, posture attentive without trying to claim space.
+
+He looked up when I looked at him. Not defensive. Not pleading. Just… present.
+
+Pauline didn’t look at him when she spoke. She didn’t need to. In this room, tasks didn’t require permission; they required clarity.
+
+“We do movement sequence again,” Pauline said. “Tomorrow.”
+
+Sarah, passing behind them with a tray of folded tape lengths, didn’t even slow down.
+
+“Good,” she said, as if she were confirming a delivery time. “She can re-test first thing, then.”
+
+It was the smallest sentence.
+
+It wasn’t performative. It wasn’t a correction, because no one had said anything wrong aloud.
+
+It was simply the room’s language, used the way a seam ripper is used: efficiently, without drama, to keep the work clean.
+
+Charli nodded once and wrote.
+
+No pause.
+
+No flinch.
+
+No glance around the room to see who had heard.
+
+He simply absorbed the pronoun as if it were the correct tool for the sentence and carried on doing his job.
+
+The pencil moved. The ledger accepted it. The room held.
+
+Something inside me went cold.
+
+Not because Sarah had said it.
+
+Because Charli had taken it as ordinary.
+
+Because the acceptance hadn’t come from me.
+
+Because I had raised him — fed him, paid for him, worried over him, protected him from the world and from himself — and somehow, in the most important shift of his life, I was the last person to understand what everyone else could name without effort.
+
+I watched him write. I watched the line form.
+
+**RE-TEST — GREEN PETTICOAT — MOVEMENT SEQUENCE — TOMORROW**
+
+Pauline glanced at the binder in my hands, then back to me. Her expression didn’t soften. Pauline didn’t do softness as a bridge.
+
+She did clarity.
+
+“This is good,” she said, nodding toward the page. “Because no talk in room. Only work.”
+
+“Yes,” I managed.
+
+My voice sounded normal.
+
+That was the awful part. I could still stand upright. I could still be competent. Which meant nobody would know — unless I chose to show it — that I’d just been quietly undone by one pronoun spoken like a stitch instruction.
+
+Celeste came to the table, eyes flicking between Pauline, the petticoat, the binder, me. She clocked the shift instantly — she always did. A predator in a room of details.
+
+“Everything alright?” she asked.
+
+It was genuine. But it carried the second layer too: *Do we need to handle something? Do we need to protect the standard?*
+
+I held Celeste’s gaze.
+
+I could have made this about me. I could have asked for comfort. I could have insisted on being consulted.
+
+Any of those would have been a kind of panic.
+
+I didn’t panic.
+
+I gave Wardrobe the only acceptable response: adjustment.
+
+“It’s fine,” I said. “I’m just reading.”
+
+Celeste’s eyes narrowed a fraction.
+
+“Read, then,” she said, and turned back to Pauline. “Re-test tomorrow. We’ll slot Mara’s review end of day.”
+
+Pauline nodded, satisfied.
+
+Sarah leaned a hip against the table and looked at me as if she could see straight through my ribs.
+
+Not cruel.
+
+Not even particularly sympathetic.
+
+Just… certain.
+
+“This place does better when we stop pretending,” she said, lightly, as if she were commenting on the weather.
+
+Then she walked away, leaving the sentence behind like a pin you would find later and realise it had been holding something crucial all along.
+
+Charli kept writing, shoulders slightly hunched, as if he were making himself small enough to be safe while still being accurate enough to be kept.
+
+I closed the binder gently and returned it to the shelf.
+
+My hands were steady.
+
+That was the second awful part. I had trained myself to stay steady in crises. The skill was now being used against me.
+
+I moved toward the doorway as if I were simply leaving, as if nothing had changed.
+
+And then — because I couldn’t bear to let it sit in the room, in public, in the air where it would demand a reaction — I waited until I was alone in the corridor, out of view of the workroom, and only then allowed myself to breathe like it mattered.
+
+The breath came out uneven.
+
+Not sobbing.
+
+Something colder.
+
+A mother’s private dread:
+
+*I didn’t know my own child.*
+
+From inside the room, someone laughed again — quick, bright — and then the hum resumed: steam, scissors, the smooth tyranny of work.
+
+The world kept going.
+
+Of course it did.
+
+I straightened my shoulders, found the version of my face that passed for calm, and went back in.
+
+Because whatever this was becoming, I would not handle it by breaking down in a hallway like a woman who hadn’t learned anything at all.
+
+I would handle it the only way Wardrobe respected.
+
+Definitions.
+
+Clarity.
+
+And the courage to correct an error once you’d finally admitted it was there.
+
+---
+
+### Why this version fits your new arc
+
+* It gives Lauren the **pronoun “deadbolt” moment** *without* redoing her whole private reckoning (which we already delivered in “Inventory/Old Script”).
+* It keeps pronoun usage **minimal** and doing “room work,” not “theme work.”
+* It retains Pauline as part of the ecosystem, but removes her as the *mechanism*.
+* It sets up the next step naturally: Lauren’s **tomorrow I will look properly** standard (already in your Scene 27), now reinforced by this “Audit” moment.
+
+If you like, we can now place **Audit** as Scene 28 cleanly, then return to Celeste POV for Scene 29 with “wife” persisting as a functional honorific — and with Lauren now visibly adjusting in the background rather than being dragged into emotional speeches.
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1018,3 +1849,230 @@ It was as if the word *she* had stopped being a risk and started being a home.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
+
+<!--
+
+
+
+
+
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## w
+### ww
+
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## v
+### vv
+
+<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## u
+### uu
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## t
+### tt
+
+<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## s
+### ss
+
+<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## r
+### rr
+
+<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## q
+### qq
+
+<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## p
+### pp
+
+<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## o
+### oo
+
+<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## n
+### nn
+
+<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## m 
+### mm
+
+<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## l
+### ll
+
+<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+/-->

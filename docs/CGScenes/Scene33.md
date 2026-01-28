@@ -1,7 +1,5 @@
 # Scene 33
 
-
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
@@ -156,7 +154,7 @@ Bree appeared in the doorway mid-test, carrying a tote bag full of something tha
 
 She stopped dead when she saw Charli.
 
-“Oh,” Bree said, delighted. “You look… you look *proper*, babe.”
+“Oh,” Bree said, delighted. “You look... you look *proper*, babe.”
 
 Charli flushed—still bashful, still Charli—but she didn’t fold in on herself the way she used to. She didn’t try to vanish.
 
@@ -186,7 +184,7 @@ Not pleading. Not apologising.
 
 Checking.
 
-As if she needed one more confirmation from the person whose gaze had become… weighty to her. Reliable. Defining.
+As if she needed one more confirmation from the person whose gaze had become... weighty to her. Reliable. Defining.
 
 I gave her a small nod. Calm. Professional.
 
@@ -226,7 +224,7 @@ When she passed me, she hesitated a fraction—not enough to call attention, jus
 
 Charli’s eyes lifted. Clearer than they used to be. Less afraid.
 
-“For… not making it a big thing,” she said.
+“For... not making it a big thing,” she said.
 
 I felt my chest tighten.
 
@@ -242,7 +240,7 @@ Charli nodded once, satisfied, and walked away.
 
 Not to escape.
 
-Just… to go back to work.
+Just... to go back to work.
 
 The room turned around her with its ordinary sounds: scissors, fabric, laughter, low talk. The day continued the way it always did.
 
@@ -284,7 +282,7 @@ It was drawn against myself.
 
 
 ## Notes26-01-25e
-### Emily Commute
+### Emily: Commute
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -328,7 +326,7 @@ I didn’t pretend not to know who she meant.
 
 Charli nodded once.
 
-“She was… steady,” she added, like it surprised her. Like she’d expected anger or humiliation or punishment and had instead found a mother who did something much harder: held the line and stayed.
+“She was... steady,” she added, like it surprised her. Like she’d expected anger or humiliation or punishment and had instead found a mother who did something much harder: held the line and stayed.
 
 I felt something ease in my chest.
 
@@ -336,7 +334,7 @@ I felt something ease in my chest.
 
 Charli’s throat moved. She swallowed.
 
-“She looked at me like…” She stopped. Started again. “Like she was trying to see me properly.”
+“She looked at me like...” She stopped. Started again. “Like she was trying to see me properly.”
 
 The words landed softly, and the ache in them was sharp.
 
@@ -344,13 +342,13 @@ The words landed softly, and the ache in them was sharp.
 
 Charli’s fingers tightened on the tote strap.
 
-“And she…” Her voice got thinner. “She said she could learn.”
+“And she...” Her voice got thinner. “She said she could learn.”
 
 I glanced at her, careful.
 
 “That’s not nothing,” I said.
 
-“No.” Another swallow. “It’s just… the way she said it. Like she didn’t hate it, but… she didn’t—” Charli’s breath hitched, frustrated by her own lack of language. “It’s new in her mouth.”
+“No.” Another swallow. “It’s just... the way she said it. Like she didn’t hate it, but... she didn’t—” Charli’s breath hitched, frustrated by her own lack of language. “It’s new in her mouth.”
 
 I could hear Lauren saying it. Could hear the honesty that hurt and still kept the power clean.
 
@@ -370,7 +368,7 @@ I turned my head just enough to look at her properly.
 
 Her shoulders rose and fell, once. Like she’d been holding her breath since yesterday.
 
-“I didn’t want to be… difficult,” she whispered.
+“I didn’t want to be... difficult,” she whispered.
 
 There it was again—the learned apology for existing.
 
@@ -382,7 +380,7 @@ Charli made a sound that might have been a laugh in another life. It died before
 
 “I don’t feel brave.”
 
-“Most people don’t,” I said. “They just… do the next thing.”
+“Most people don’t,” I said. “They just... do the next thing.”
 
 She stared out at the passing houses.
 
@@ -404,7 +402,7 @@ She nodded, tiny, then said it—flat, honest, unornamented:
 
 I felt my jaw tighten, the reflex of anger at a world that could press a word into someone like a stamp.
 
-“And I don’t want…” Her fingers knotted around the strap. “I don’t want *son*.”
+“And I don’t want...” Her fingers knotted around the strap. “I don’t want *son*.”
 
 There was a pause, and in it I heard what she didn’t say: *and I don’t know what that makes me.*
 
@@ -458,7 +456,7 @@ I turned toward her then. Fully. Not dramatic. Just honest.
 
 She stared at the seat in front of her as if it might protect her from the look in my eyes.
 
-“I kept my distance,” I went on, and my voice stayed controlled even as something in me softened. “Because you’re young. Because I didn’t want you to confuse structure with… attachment. And because I didn’t trust myself.”
+“I kept my distance,” I went on, and my voice stayed controlled even as something in me softened. “Because you’re young. Because I didn’t want you to confuse structure with... attachment. And because I didn’t trust myself.”
 
 Charli blinked fast.
 
@@ -480,7 +478,7 @@ Charli’s mouth trembled.
 
 “I thought you were disappointed in me,” she said.
 
-“No,” I said. “I was… careful.”
+“No,” I said. “I was... careful.”
 
 Her eyes filled. She didn’t wipe them away. She just let them sit there, bright and unspectacular.
 
@@ -502,7 +500,7 @@ I let it be what it was: evidence.
 
 When the doors closed again, she spoke without looking at me.
 
-“So,” she said, voice thin, “you don’t think I’m… pretending.”
+“So,” she said, voice thin, “you don’t think I’m... pretending.”
 
 There it was. The fear of being accused of theatre.
 
@@ -525,7 +523,7 @@ A shared understanding that the next true thing could be done together.
 
 
 ## Notes26-01-25eb
-### Emily 33 End
+### Emily: 33 End
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -585,17 +583,6 @@ It felt like a place we were about to begin.
 
 
 <!--
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -792,121 +779,82 @@ It felt like a place we were about to begin.
 
 
 
-##
-###
+## Notes26-01-28rv1
+### My Edits
 
 <img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+✨ Commute ✨
 
+[26-01-28]
 
-### ✨ smsmsm ✨
-
-
-([Past chat][1])([Past chat][1])([Past chat][2])([Past chat][3])([Past chat][4])
-
-Perfect — and since we *haven’t* pinned down car vs public transport, we can make that ambiguity work *for* you instead of against you. 😊🌿
-
-### Quick decision (so you can write cleanly)
-
-You’ve got two strong options, and both support the emotional intent:
-
-**A) Public transport (bus/train)**
-
-* Gives you **contained intimacy without “date vibe”**.
-* Natural pauses (stops, announcements) let Celeste choose her words carefully.
-* Charli can look out the window instead of being “on the spot,” which suits her.
-
-**B) Shared car ride (Celeste drives)**
-
-* More private, more intense.
-* But it can read as “couple-coded” earlier than you want, unless you keep it matter-of-fact (rideshare, roster convenience).
-
-Given you want *end-of-day, not-at-home yet, first heart-to-heart*, I’d pick **public transport**. It keeps Celeste’s restraint believable while still letting tenderness leak through.
-
-Below is a full Scene 33 built around that. Lauren is present as an *echo* (not a participant), and Celeste’s feelings arrive in the right order: **respect → care → honesty**.
-
----
-
-## Scene 33 — “Commute” (Celeste POV, past tense)
+**Scene 33 — “Commute” (Celeste POV, past tense)**
 
 We left Wardrobe the way women leave a place that has held them all day: quietly, efficiently, without ceremony.
 
-The workroom behind us was still full of breath—steam residue, starch, the faint sweetness of fabric warmed by irons—but the corridor outside had that cooler, emptied feel. End of day. Lights not yet dimmed, but already less intimate. The building exhaled.
+The workroom behind us was still full of breath—steam residue, starch, the faint sweetness of fabric warmed by irons—but the corridor outside had that cooler, emptied feel. End of day, lights not yet dimmed, but already less intimate. The building exhaled.
 
-Charli walked beside me with her tote hugged close to her hip. She’d been steady all afternoon—competent hands, quiet yeses—but there was a softness to her face now that read like aftermath. Not fragility exactly.
+Charli walked beside me with her tote hugged close to her hip. She’d been steady all afternoon, with hercompetent hands and quiet yeses, but there was a softness to her face now that read like aftermath. 
 
-More like she was still holding herself together by habit.
+Not fragility exactly: more like she was still holding herself together by habit.
 
-I didn’t ask about the appointment. Not in the work corridor, not where anyone could come around a corner and hear a private thing turn into gossip by accident. And because I could still hear last night in my head: *Some things belong to mother and daughter alone.*
+I didn’t ask about the appointment. Not in the work corridor, not where anyone could come around a corner and hear a private thing turn into gossip by accident. And because I could still hear last night in my head: 
 
-Outside, the air had cooled. We stood at the stop with two other commuters and a woman on her phone, and Charli kept her eyes on the road as if she could summon the bus by will.
+*Some things belong to mother and daughter alone.*
 
-When it arrived, we climbed aboard. I tapped on. Charli followed. We took the pair of seats near the back where the ride was smoother and fewer eyes lingered.
+Outside, the air had cooled. We stood at the stop with two other commuters and a woman on her phone, and Charli kept her eyes on the road as if the bus arriving depended on her watchfulness. When it arrived, we climbed aboard. I tapped on. Charli followed. We took the pair of seats near the back where the ride was smoother and fewer eyes lingered.
 
 She sat by the window.
 
 Of course she did.
 
-For a while we said nothing. The bus rocked gently over patched bitumen. The city slid by in pieces: shopfronts, trees, a mechanic’s yard, a school oval gone gold in the late light. The ordinary world doing its ordinary thing, indifferent to the fact that inside this bus a seventeen-year-old had just walked out of a clinic holding a folded piece of paper that felt like a map out of the dark.
+For a while we said nothing. The bus rocked gently over patched bitumen as it sped away from the Faire. The city came into view in pieces: shopfronts, trees, a mechanic’s yard, a school oval gone gold in the late light: the ordinary world doing its ordinary thing, indifferent to the fact that inside this bus a eighteen-year-old had just walked out of a clinic holding a folded piece of paper that felt like a map out of a cave.
 
-Charli smoothed the edge of her tote strap with her thumb. Again. Again.
+Charli smoothed the edge of her tote strap with her thumb. Her thumb moved again. And again. I watched her hands because watching her face felt like asking too much of her. After three stops she spoke, still looking out the window.
 
-I watched her hands because watching her face felt like asking too much of her.
-
-After three stops she spoke, still looking out the window.
-
-“She didn’t say much,” she said.
+“She didn’t say much.”
 
 I didn’t pretend not to know who she meant.
 
-“Lauren,” I said quietly.
+“Your mum,” I said quietly. Charli nodded.
 
-Charli nodded once.
-
-“She was… steady,” she added, like it surprised her. Like she’d expected anger or humiliation or punishment and had instead found a mother who did something much harder: held the line and stayed.
-
-I felt something ease in my chest.
+“She was... steady,” she added, like it surprised her. Like she’d expected anger or humiliation or punishment and had instead found a mother who did something much harder: held the line and stayed. I felt something ease in my chest.
 
 “Your mum’s good at being an adult,” I said. “Even when it hurts.”
 
 Charli’s throat moved. She swallowed.
 
-“She looked at me like…” She stopped. Started again. “Like she was trying to see me properly.”
+“She looked at me like...” She paused, biting her lip. “Like she was trying to see me properly.”
 
-The words landed softly, and the ache in them was sharp.
+The words landed softly, but the ache in them was jagged.
 
-“Yes,” I said. “That’s what she was doing.”
+“Yes,” I said with an acknowledging tip of my head. “That’s your mum.”
 
 Charli’s fingers tightened on the tote strap.
 
-“And she…” Her voice got thinner. “She said she could learn.”
+“And she said...” Her voice got thinner. “She said she could learn.”
 
 I glanced at her, careful.
 
-“That’s not nothing,” I said.
+“That’s not nothing.”
 
-“No.” Another swallow. “It’s just… the way she said it. Like she didn’t hate it, but… she didn’t—” Charli’s breath hitched, frustrated by her own lack of language. “It’s new in her mouth.”
+“No.” Another swallow. “It’s just... the way she said it. Like she didn’t hate it, but... she didn’t—” Charli’s breath hitched, frustrated by her own lack of language. “She sid it was new in her mouth.”
 
-I could hear Lauren saying it. Could hear the honesty that hurt and still kept the power clean.
+I could hear Lauren saying it, with an honesty that hurt and yet, still managing to keep her authority intact.
 
-“I think she did the best version of truth,” I said. “The kind you can stand on.”
+“I think she did the best version of truth,” I stated carefully. “The kind you can stand on.”
 
-Charli’s eyes shone in the window reflection. She blinked and looked away before the tears could turn into a thing she had to manage.
+Charli’s eyes shone in the window reflection. She blinked and looked away before tears were another thing she had to manage. A few moments passed. Then she asked, so small I almost didn’t hear it over the engine noise:
 
-A few moments passed.
+> “Do you think I made it worse?”
 
-Then she asked, so small it almost didn’t make it over the engine noise:
+> I turned my head just enough to look at her properly.
 
-“Do you think I made it worse.”
-
-I turned my head just enough to look at her properly.
-
-“No,” I said, and it came out clean. “You made it visible.”
+> “No,” I said, and it came out clean. “You made it visible.”
 
 Her shoulders rose and fell, once. Like she’d been holding her breath since yesterday.
 
-“I didn’t want to be… difficult,” she whispered.
+“I didn’t want to be... difficult,” she whispered.
 
 There it was again—the learned apology for existing.
 
@@ -918,7 +866,7 @@ Charli made a sound that might have been a laugh in another life. It died before
 
 “I don’t feel brave.”
 
-“Most people don’t,” I said. “They just… do the next thing.”
+“Most people don’t,” I said. “They just... do the next thing.”
 
 She stared out at the passing houses.
 
@@ -940,7 +888,7 @@ She nodded, tiny, then said it—flat, honest, unornamented:
 
 I felt my jaw tighten, the reflex of anger at a world that could press a word into someone like a stamp.
 
-“And I don’t want…” Her fingers knotted around the strap. “I don’t want *son*.”
+“And I don’t want...” Her fingers knotted around the strap. “I don’t want *son*.”
 
 There was a pause, and in it I heard what she didn’t say: *and I don’t know what that makes me.*
 
@@ -994,7 +942,7 @@ I turned toward her then. Fully. Not dramatic. Just honest.
 
 She stared at the seat in front of her as if it might protect her from the look in my eyes.
 
-“I kept my distance,” I went on, and my voice stayed controlled even as something in me softened. “Because you’re young. Because I didn’t want you to confuse structure with… attachment. And because I didn’t trust myself.”
+“I kept my distance,” I went on, and my voice stayed controlled even as something in me softened. “Because you’re young. Because I didn’t want you to confuse structure with... attachment. And because I didn’t trust myself.”
 
 Charli blinked fast.
 
@@ -1016,7 +964,7 @@ Charli’s mouth trembled.
 
 “I thought you were disappointed in me,” she said.
 
-“No,” I said. “I was… careful.”
+“No,” I said. “I was... careful.”
 
 Her eyes filled. She didn’t wipe them away. She just let them sit there, bright and unspectacular.
 
@@ -1038,7 +986,7 @@ I let it be what it was: evidence.
 
 When the doors closed again, she spoke without looking at me.
 
-“So,” she said, voice thin, “you don’t think I’m… pretending.”
+“So,” she said, voice thin, “you don’t think I’m... pretending.”
 
 There it was. The fear of being accused of theatre.
 
