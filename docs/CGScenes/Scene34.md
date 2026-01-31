@@ -1110,9 +1110,7 @@ The kettle clicked off.
 
 I poured the water, set a mug down in front of her, then sat opposite her: close enough to be present, far enough to not crowd her. I didn’t reach across the table. I didn’t touch her hand.
 
-I held the space. Charli swallowed again. 
-
-“I don’t want to upset her.”
+I held the space. Charli swallowed again.“I don’t want to upset her.”
 
 “You don’t have to manage your mother’s feelings by disappearing.”
 
@@ -1392,9 +1390,7 @@ Home met us the way it always did: quietly.
 
 The hallway smelled faintly of detergent and warm timber. The living room lamp cast a soft pool of light that didn’t demand anything of you. Even the fridge hum felt like background reassurance—*life is still normal, you’re still in it.*
 
-Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down. 
-
-I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
+Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down.I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
 
 “You’re home,” I said. “You did the hard part.”
 
@@ -1657,7 +1653,6 @@ It was trust.
 
 
 
-<!--
 
 
 
@@ -1665,169 +1660,10 @@ It was trust.
 
 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
-
-
-
-
-
-## t
-### tt
-
-<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## s
-### ss
-
-<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## r
-### rr
-
-<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## q
-### qq
-
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## p
-### pp
-
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## o
-### oo
-
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## n
-### nn
-
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## m 
-### mm
-
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## l
-### ll
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
 
 ## Notes26-01-25rv1
 ### ✨ Here ✨
@@ -1842,9 +1678,7 @@ Home met us the way it always did: quietly.
 
 The hallway smelled faintly of detergent and warm timber. The living room lamp cast a soft pool of light that didn’t demand anything of you. Even the fridge hum felt like background reassurance—*life is still normal, you’re still in it.*
 
-Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down. 
-
-I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
+Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down.I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
 
 “You’re home,” I said. “You did the hard part.”
 
@@ -1966,9 +1800,7 @@ A tear slid down her cheek. She didn’t wipe it away. Something in my chest pul
 
 “May I come closer?”
 
-Charli blinked at me, then gave a quick nod. Tiny. Shy. 
-
-I stood and moved around the table slowly, as if speed might frighten her. I didn’t touch her right away. I just sat beside her, close enough that she could feel I was there. Charli’s hands trembled around the mug.
+Charli blinked at me, then gave a quick nod. Tiny. Shy.I stood and moved around the table slowly, as if speed might frighten her. I didn’t touch her right away. I just sat beside her, close enough that she could feel I was there. Charli’s hands trembled around the mug.
 
 “You’re not in trouble,” I murmured softly. “Not with me.” Her breath hitched again. She stared unseeing at her mug. “You’re allowed,” I said, gentle as silk, “to say the word that helps.”
 
@@ -2022,12 +1854,6 @@ They said trust.
 
 
 
-
-
-
-
-
-
 ## Notes26-01-25rv3
 ### ✨ Here ✨
 
@@ -2045,9 +1871,7 @@ Home met us the way it always did: quietly.
 
 The hallway smelled faintly of detergent and warm timber. The living room lamp cast a soft pool of light that didn’t demand anything of you. Even the fridge hum felt like background reassurance—*life is still normal, you’re still in it.*
 
-Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down. 
-
-I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
+Charli took her shoes off at the door, careful, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down.I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
 
 “You’re home,” I said. “You did the hard part.”
 
@@ -2163,9 +1987,7 @@ A tear slid down her cheek. She didn’t wipe it away. Something in my chest pul
 
 “May I come closer?”
 
-Charli blinked at me, then gave a quick nod. Tiny. Shy. 
-
-I stood and moved around the table slowly, as if speed might frighten her. I didn’t touch her right away. I just sat beside her, close enough that she could feel I was there. Charli’s hands trembled around the mug.
+Charli blinked at me, then gave a quick nod. Tiny. Shy.I stood and moved around the table slowly, as if speed might frighten her. I didn’t touch her right away. I just sat beside her, close enough that she could feel I was there. Charli’s hands trembled around the mug.
 
 “You’re not in trouble,” I murmured softly. “Not with me.” Her breath hitched again. She stared unseeing at her mug. “You’re allowed,” I said, gentle as silk, “to say the word that helps.”
 
@@ -2231,9 +2053,7 @@ Charli blinked. “I’m not— I wasn’t—”
 
 Her gaze dropped to her mug.
 
-“I don’t sleep well,” she admitted. The sentence landed with a kind of abashment, as if bad sleep was another way she was failing. I kept my voice warm. 
-
-“Right, then. So we don’t aim for perfect. We aim for better than last night.”
+“I don’t sleep well,” she admitted. The sentence landed with a kind of abashment, as if bad sleep was another way she was failing. I kept my voice warm.“Right, then. So we don’t aim for perfect. We aim for better than last night.”
 
 She let out a breath that was almost a laugh. I nodded toward the hallway.
 
@@ -2247,9 +2067,7 @@ Her eyes flicked up, surprised by the thoughtfulness. I walked to the bathroom a
 
 “You can leave that here,” I said, mindful of what had happened the last time she left her tote unattended. “Nothing is going to happen to it.”
 
-Charli swallowed, then set it down by the chair without looking at me. A small surrender: trust. I held that trust, because it mattered. She headed to her room, then paused in the hallway as if she’d forgotten to tell me something. 
-
-A minute later she returned in clean trackies and an old t-shirt that had seen too many washes. Her hair was brushed, contained. She looked younger—less put-together, less defended. She hovered at the edge of the living room.
+Charli swallowed, then set it down by the chair without looking at me. A small surrender: trust. I held that trust, because it mattered. She headed to her room, then paused in the hallway as if she’d forgotten to tell me something.A minute later she returned in clean trackies and an old t-shirt that had seen too many washes. Her hair was brushed, contained. She looked younger—less put-together, less defended. She hovered at the edge of the living room.
 
 I was on the couch with a folded blanket over my lap, not reading, not scrolling—just present. I looked up and patted the other end of the couch.
 
@@ -2329,9 +2147,7 @@ A tiny, fragile smile flickered.
 
 “Tomorrow we do bloods,” I said. “We follow the plan, step by step. You don’t try to find your own solutions anymore. Deal?”
 
-Charli swallowed. Then she nodded, small and sincere. 
-
-“Deal.”
+Charli swallowed. Then she nodded, small and sincere.“Deal.”
 
 I reached for the glass of water on the coffee table and nudged it closer to her. She took it and drank. After a moment she spoke again, almost inaudible.
 
@@ -2347,6 +2163,344 @@ This wasn’t me losing discipline. It was me learning a better kind — the kin
 
 The kind that could make a girl feel—maybe for the first time—that she didn’t have to be brave alone.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-01-25rp
+### ✨ Here ✨
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ Here ✨
+
+[Published]
+
+[celeste]
+
+Home met us the way it always did: quietly.
+
+The hallway smelled faintly of detergent and warm timber. The living room lamp cast a soft pool of light that didn’t demand anything of you. Even the fridge hum felt like background reassurance:
+
+life is still normal, you’re still in it.
+
+Charli took her shoes off at the door, carefully, as if she didn’t quite trust herself not to make a mess of the floor. She still had her tote on her shoulder. She stood there with it, not moving, like the day might collapse if she set it down.  I didn’t say anything for a second. Then I stepped beside her, keeping my voice low.
+
+“You’re home,” I said. “You did the hard part.”
+
+Her breath left her in a small tremor. I nodded toward the kitchen.
+
+“Come on. Tea. Water. Something in your stomach.”
+
+She followed: the bus ride home had given her the assurance that my steadiness wasn’t a trap. At the sink she washed her hands the way she always did: meticulous, thorough, almost ritual. It was one of the ways she kept herself intact. I filled a glass and set it down.
+
+“Drink,” I said, gently. “Just a few sips.”
+
+She did. Small sips, obedient at first, then a longer one, like her body remembered it had permission to be looked after.
+
+I put the kettle on.
+
+The click and hiss of it felt like a signal to the room:
+
+we’re not in the clinic anymore.We’re not in the car anymore.We’re in a place where you don’t have to be brave.
+
+Charli sat at the table. She took the folded paper from the appointment and placed it on the table, squaring the paper’s edge to the table like she was aligning a seam, as if tidiness could keep it from being frightening.
+
+I set toast down in front of her—plain, buttered, unambitious. Her eyes flicked to it, then to me.
+
+“It’s okay,” I said, answering it. “Eat what you can.”
+
+She took a bite. Chewed carefully. Swallowed like it cost her something. I sat opposite her. Not across like a judge: across like someone who intended to stay.
+
+The kettle whispered.
+
+For a while we let silence do what silence can do when it’s safe: soften the edges. Then Charli spoke, staring into her tea mug like it might hold an answer.
+
+“My mum said ‘Don’t,’” she whispered. I felt my chest tighten. “In the car,” she added. “When I started talking about the... future.” She paused, sighed. “She didn’t mean it like... she wasn’t trying to be mean.”
+
+“No,” I said gently. “She wasn’t.”
+
+Charli’s fingers pinched the edge of her sleeve.
+
+“It still made me stop,” she admitted. I leaned forward slightly, careful not to crowd her.
+
+“Yeah,” I said softly. “Because when you’re scared, ‘don’t’ can sound like a door being slammed shut.” Charli looked up at me quickly, eyes bright. “I think what she meant was,” I added, “don’t borrow pain that hasn’t happened.”
+
+Charli swallowed. “It felt like... I wasn’t allowed to say the... scary thing.”
+
+“You’re allowed to say it here.” My voice warmed around the sentence. “You need to understand: she’s scared too.”
+
+Her breath hitched.
+
+“It’s different, here,” I repeated, not as a slogan, as a promise. “This house doesn’t punish honesty.”
+
+Charli’s shoulders lowered a fraction, the tiniest exhale. The kettle clicked off. I poured the water, set the mug closer to her hands, and waited until she wrapped her fingers around it. Heat. Proof. She stared at the mug for a long moment, then said, quietly:
+
+“There’s something I haven’t said.”
+
+“Okay,” I said. I didn’t move. “Do you want me to just listen, or do you want help finding words.”
+
+She blinked rapidly, the kindness of that choice almost too much.
+
+“Words,” she whispered.
+
+“All right.”
+
+She stared at the table.
+
+“It’s... dangerous,” she began and stopped.
+
+“Then we treat it carefully.”
+
+Charli’s eyes flicked to mine.
+
+“We keep it small,” I continued. “We keep it private. You don’t have to take it outside. You don’t have to take it to your mum. You don’t have to take it anywhere you don’t feel safe.”
+
+She swallowed hard.
+
+“And you won’t—.” She hesitated.
+
+“I won’t do anything with your words,” I said. “You tell me what you can. I’ll hold it with you.”
+
+Her throat bobbed. “Okay.”
+
+“Start with what you know.”
+
+Charli’s voice came out rough.
+
+“I know I don’t want ‘sir.’ Or ‘son.’”
+
+The words made her look smaller, as if they were delivering an insult. I kept my tone soft.
+
+“Then we don’t use those words.”
+
+She sat silent for a while. Finally, she took in a breath.
+
+“There’s a word that...” She stopped, cheeks warming with a misplaced chagrin. “There’s a word that feels... like it might fit.”
+
+I heard my heart in my ears. I kept my face neutral and just stayed there, steady as a table leg.
+
+“What word?”
+
+Charli stared at the tabletop like she was weighing danger. Then, so softly it was almost air:
+
+“Girl.”
+
+The word sat on the table between us. No fanfare. Just... present. Charli glanced up at me—quick, terrified—and then looked away, braced for me to make it something. Anything. I didn’t. I let my voice warm instead.
+
+“Yes. Girl.”
+
+Her head jerked slightly, surprised. I softened further.
+
+
+
+“How does it feel when you say it?”
+
+She bit her lip. “I don’t know.”
+
+“That’s fine,” I said. “You don’t have to know what it means yet. Just what it does to you.” Her eyes shone. “Does it hurt,” I asked, quietly, “or does it help?”
+
+Charli’s breath caught.
+
+“It helps,” she whispered, and the admission looked like it cost her months. I nodded.
+
+“Then it’s worth listening to.”
+
+A tear slid down her cheek. She didn’t wipe it away. Something in my chest pulled hard. I hesitated—then asked, softly, like a courtesy and a vow in one:
+
+“May I come closer?”
+
+Charli blinked at me, then gave a quick nod. Tiny. Shy.I stood and moved around the table slowly, as if speed might frighten her. I didn’t touch her right away. I just sat beside her, close enough that she could feel I was there. Charli’s hands trembled around the mug.
+
+“You’re not in trouble,” I murmured softly. “Not with me.”
+
+Her breath hitched again. She stared unseeing before me, as if she didn’t dare look at me.
+
+“You’re allowed,” I said, gentle as silk, “to say the word that helps.”
+
+Charli’s lips trembled. Then she whispered again, barely audible:
+
+“Girl.”
+
+I didn’t echo it back like a stamp. I answered it like an ally.
+
+“All right.” I nodded. “Girl.”
+
+To hear the word coming from me seemed almost too much for her. She let out a sound that was almost a sob, and her shoulders shook. As tempted as I was, I didn’t pull her in: I didn’t claim her. Instead, I offered one hand on the table between us, palm up.
+
+“If you want,” I said, “you can take my hand. If you don’t, that’s fine too.”
+
+Charli looked at my hand like it was something sacred. Then she placed her fingers into my palm.
+
+Warm. Light. Real.
+
+I closed my hand around hers: not tight, just enough to say I’ve got you. I saw her body soften, and something in me loosened, like I’d been holding my own breath and only just noticed.
+
+Charli’s tears slid silently.
+
+“I’m scared.”
+
+“I know.”
+
+“And I don’t want to lose everyone.”
+
+“You won’t lose me,” I said, immediate and simple. Then, softer: “And we’re not going to rush your words into unfamiliar places. We do this step by step, like the doctor said.”
+
+Charli’s grip tightened slightly on my fingers. After a moment she whispered, “Can I say it again?”
+
+“Yes,” I said. “If you want.”
+
+She breathed in, shaky, then let the word out like a small lantern in a dark room:
+
+“Girl.”
+
+Her eyes met mine. And for the first time all day, her eyes said she believed me.
+
+They said trust.
+
+---
+
+Later, the apartment settled.
+
+Not into silence exactly but into the soft domestic hum of an evening that had decided not to fall apart. The kettle cooled. The bench dried where I’d wiped it down. A neighbour’s footsteps passed in the corridor, then faded. Somewhere outside, a car door slammed and the sound rolled away like a wave retreating.
+
+Charli stayed at the table longer than she needed to, mug between her hands. Shoulders no longer up around her ears, but still held carefully, as if she didn’t quite trust the room not to change its mind.
+
+I started doing the next small things, because small things are how you keep the world lawful. I rinsed the mugs. I packed away the toast plate. I set the pathology form and papers into a neat stack and placed them on the corner of the bench... contained.
+
+When I turned back, Charli was watching me. Not that anxious quiver of lips, but with a quiet, almost grateful attention you give someone when you realise they’re not going anywhere.
+
+“You don’t have to stay up to prove anything.”
+
+Charli blinked. “I’m not— I wasn’t—”
+
+“I know,” I said. “I’m not accusing you. I’m just... suggesting you rest.”
+
+Her gaze dropped to her mug.
+
+“I don’t sleep well,” she admitted. The sentence emerged with a kind of abashment, as if bad sleep was another way she was failing. I kept my voice warm.“Right, then. So we don’t aim for perfect. We aim for better than last night.”
+
+She let out a breath that was almost a laugh. I nodded toward the hallway.
+
+“Do you want a shower, or do you want to treat your skin gently and just change?”
+
+Charli hesitated, then said softly, “Just change.”
+
+“I’ll go put the heater on low in the bathroom anyway. Warm air helps, even if you don’t have a shower.”
+
+
+
+I walked to the bathroom and clicked it on. The little fan whirred to life, a modest, steady sound. As I came back, I kept my steps unhurried, as if the pace itself could teach safety. Charli stood slowly, tote strap still looped around her wrist like an anchor.
+
+“You can leave that here,” I said, mindful of what had happened the last time she left her tote unattended. “Nothing is going to happen to it.”
+
+Charli swallowed, then set it down by the chair without looking at me. A small surrender: trust. I held that trust close: it mattered. She headed to her room, then paused in the hallway as if she’d forgotten to tell me something.A minute later she returned in clean trackies and an old t-shirt that had seen too many washes. Her hair was brushed, contained. She looked younger—less put-together, less defended. She hovered at the edge of the living room.
+
+I was on the couch with a folded blanket over my lap, not reading, not scrolling—just present. I looked up and patted the other end of the couch.
+
+An offer.
+
+“If you want,” I said. “You can sit there. We don’t have to talk.”
+
+Charli’s throat moved. She nodded and sat, carefully, leaving a polite gap between us like she didn’t want to take up space she hadn’t earned. I let the gap be, for now. The lamp made a small warm circle. Outside, the streetlight threw pale bands across the curtains. After a long minute, Charli spoke without looking at me.
+
+“Do you think I did something... crazy?”
+
+I pressed my lips together, then relaxed.
+
+“No,” I said finally. “You did something unsafe. That’s different.”
+
+Charli’s hands twisted in her lap.
+
+“I didn’t want it to stop,” she whispered. Wardrobe. Her happy place. I didn’t correct her. I didn’t argue the logic. Not tonight.
+
+“I know.”
+
+She turned her face slightly, as if she wanted to look at me but couldn’t bear it.
+
+“And now...” Her voice thinned. “Now it’s like everything is... watching.”
+
+I nodded, slow. “It can feel like that.”
+
+Charli swallowed. “Even you.”
+
+That one hit. I kept my voice soft, honest.
+
+“Yes,” I said, “because you matter, and because you’ve been alone in this for too long.”
+
+She blinked rapidly, the tears welling in her eyes again—quiet, unspectacular. Charli wiped her cheek quickly with the back of her hand and bit her lip, glancing furtively at me. I didn’t rush to fix it: I just... stayed. Finally, I asked:
+
+“Would a hug help?”
+
+Charli’s body went silent, her eyes wide, pleading.
+
+“A hug,” she whispered. The words barely made it out, as if she dare not hope.
+
+I shifted closer slowly, carefully, and opened my arms—not pulling her in, just making the option visible. Charli cautiously leaned into me with a wariness that broke my heart. Did she expect, at any second, to be told she was doing it wrong? I wrapped my arms around her and held her the way you hold someone you need to keep safe: firm enough to be real, gentle enough to breathe inside.
+
+Charli made a small sound—half breath, half sob—and then her body softened against mine, like something stubbornly alive finally finding daylight. I kept my cheek near her hair, and I didn’t say anything for a moment, just letting the hug speak.
+
+“You’re not alone.”
+
+Her fingers gripped the fabric at my side for a second, then eased. A long minute passed. As her breathing steadied, I loosened the hug—enough to check in, not enough to abandon.
+
+“Still okay?”
+
+Charli nodded against my shoulder.
+
+I held her a little longer, then released her slowly, like letting go was something you did with care. She stayed close, her shoulder still against mine. The gap she’d left when she sat down was gone.
+
+Not because I’d taken it.
+
+Because she’d crossed it.
+
+I reached for the blanket and laid it over her legs, tucking it in lightly at the knee. Charli looked down at it, then up at me.
+
+“You’re... nice,” she said, like it was a discovery and a risk. Something in me warmed painfully.
+
+“I can be,” I said. “I just... don’t want you to mistake nice for a signal that you have to earn it by hurting yourself.”
+
+Her mouth trembled, and she nodded. She had been living that sentence.
+
+“I won’t,” she whispered.
+
+I believed her—and I also knew she didn’t yet know what she’d do when terror returned. So I made a plan: small and survivable.
+
+“Tonight,” I said, “we do one thing: sleep. That’s it. No solving your whole life.”
+
+A tiny, fragile smile flickered.
+
+“And tomorrow?”
+
+“Tomorrow we do bloods,” I said. “We follow the plan, step by step. And you don’t try to find your own solutions anymore. Deal?”
+
+Charli swallowed. Then she nodded, small and sincere.“Deal.”
+
+I reached for the glass of water on the coffee table and nudged it closer to her. She took it and drank. After a moment she spoke again, almost inaudible.
+
+“Can I... stay out here for a bit.”
+
+“You can,” I said. “As long as you want.”
+
+She looked at the lamp, the blanket, the quiet room—like she was memorising the shape of safety. Then she leaned her head lightly against my shoulder. Not asking or performing: choosing.
+
+I let my own breath out slowly, careful and steady. In the soft domestic hush, I realised something with a clarity that didn’t frighten me for once: This wasn’t me losing discipline. It was me learning a better kind — the kind that could hold her without putting her into a cage.
+
+The kind that could make a girl feel—maybe for the first time—that she didn’t have to be brave alone.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
