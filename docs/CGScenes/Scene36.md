@@ -4461,41 +4461,31 @@ Charli went still. Then with a sigh, nodded, the way someone nods when truth lan
 
 Charli stared at her water.
 
-“That sounds...” she began.
+“That sounds…” she began.
 
-“Unfair?” Sarah offered.
+“Inevitable?” Sarah offered.
 
 Charli’s mouth twitched. “Yes.”
 
 Sarah nodded, grim.
 
-“Yeah. The world trains people whether it means to or not.”
-
-She took another sip and then said, casual as if discussing stock levels:
+“We didn’t see a boy failing,” Sarah said. “We saw one of us surviving.” She took another sip. “So we did what women do: we made space. And we protected, quietly.” Finally, she added, casual as if discussing stock levels:
 
 “We didn’t correct people in real time. Not at first.”
 
-Charli looked up. I looked up too.
+Charli looked up. I looked up too. Sarah met my eyes.
 
-Sarah met my eyes.
+“We did it the way Mara does,” she said. “No fanfare. So Charli didn’t have to carry the fight.”
 
-“We did it the way Mara does,” she said. “Quietly. So Charli didn’t have to carry the fight.”
+Charli’s throat moved. She swallowed. The weight of this revelation sat in the room like a stone. Sarah went on:
 
-Charli’s throat moved. She swallowed.
+“Charli was already carrying enough,” she said. “And because—look—some people correct a pronoun like it’s public property. They turn it into a performance. They make the person the stage.”
 
-Sarah went on—still without drama, but the weight of it sat in the room like a stone.
+Recognition tightened in me. I’d seen that. And hated it. Sarah’s gaze dropped to her glass.
 
-“Because she was already carrying enough,” Sarah said. “And because—look—some people correct a pronoun like it’s a public virtue. They make it a performance. They make the person the stage.”
+“So we decided,” she said, “that if anyone was going to take the heat, it wasn’t going to be Charli.”
 
-Recognition tightened in me. I’d seen that. I’d hated it.
-
-Sarah’s gaze dropped to her glass.
-
-“So we decided,” she said, “that if anyone was going to make a scene, it wasn’t going to be Charli.”
-
-Charli’s eyes went glassy. She blinked hard and looked away, refusing to cry in front of someone she hadn’t officially filed as safe—yet.
-
-I leaned forward, elbows on knees, and spoke quietly.
+Charli’s eyes went glassy. She blinked hard and looked away. I leaned forward, elbows on knees, and spoke quietly.
 
 “You protected her.”
 
@@ -4503,13 +4493,9 @@ Sarah shrugged, uncomfortable with praise.
 
 “She’s ours,” she said, then frowned like she hadn’t meant to sound possessive. “I mean—Wardrobe’s. The workroom.”
 
-Charli looked back at her, startled, and then—very slowly—smiled. Not small this time. Not careful. Just... real.
+Charli looked back at her, eyes wide, and then—very slowly—smiled. Not small this time. Not careful. Just... real. Sarah watched her and softened further, heat making her lazy, aircon making her plucky.
 
-Sarah watched her and softened further, heat making her lazy, aircon making her brave.
-
-“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
-
-I held her gaze.
+“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.” I held her gaze.
 
 “I didn’t think it was,” I said.
 
@@ -4519,7 +4505,7 @@ Sarah let out a breath, relieved I hadn’t misread her.
 
 “Irritation?” Charli echoed.
 
-“Yes,” Sarah said, fierce and amused. “Because you kept doing that thing where you apologised for existing. And it was, quite honestly, rude. Like you didn’t trust us to handle you.”
+“Yes,” Sarah said, fierce and amused. “Because you kept doing that thing where you apologised for existing. And it was, quite honestly, rude. Like you didn’t trust us to be there for you.”
 
 Charli’s face went pink.
 
@@ -4529,27 +4515,17 @@ Sarah lifted a hand, cutting her off gently.
 
 “I know,” she said. “You were surviving. But still. It made Lucy want to shake you.”
 
-Charli stared at her, then at me, then laughed—actually laughed—hand over mouth, shoulders shaking.
+Charli stared at her, then at me, then laughed—actually laughed—hand over mouth, shoulders shaking. Not fragile laughter. Not relief that could snap. Joy. 
 
-And there it was.
+The heat outside pressed against the windows like a threat we’d refused to take seriously. Inside, the air was cool. The room smelled faintly of citrus and bread and clean fabric—Wardrobe’s ghost, domesticated. Sarah leaned back, satisfied, and took a slow sip of her drink.
 
-Not fragile laughter. Not relief that could snap. Joy.
-
-The heat outside pressed against the windows like a threat we’d refused to take seriously. Inside, the air was cool. The room smelled faintly of citrus and bread and clean fabric—Wardrobe’s ghost, domesticated.
-
-Sarah leaned back, satisfied, and took a slow sip of her drink.
-
-“You’re different here,” she said to Charli, observing.
-
-Charli glanced at me before she answered—not for permission, for orientation, like a compass checking north.
+“You know, you’re different here,” she said to Charli. Charli glanced at me before she answered—not for permission, for orientation, like a compass checking north.
 
 When she spoke, her voice was quiet. Certain.
 
 “I don’t have to be careful here.”
 
-Sarah’s eyes flicked to me.
-
-And I did something I almost never did in front of other people: I let my restraint loosen just enough that the truth showed.
+Sarah’s eyes flicked to me. And I did something I almost never did in front of other people: I let my restraint loosen just enough that the truth showed.
 
 “That,” I said, “is the entire point.”
 
@@ -4558,6 +4534,15 @@ Outside, the heat raged on.
 Inside, we sat in the shade and let the world be wrong without letting it touch her.
 
 ---
+
+
+
+
+
+
+
+
+
 
 **Scene 37 — “After the Door Clicks” (Celeste POV)**
 
