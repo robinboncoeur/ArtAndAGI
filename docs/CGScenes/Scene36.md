@@ -50,7 +50,7 @@ This was private.
 
 This was a girl in her own quiet, choosing comfort.
 
-She looked... fully herself.
+She looked… fully herself.
 
 Not because the chemise was magic. Because she was no longer carrying the old tension of *am I allowed?* in every muscle.
 
@@ -86,7 +86,7 @@ Quiet enough to hear herself think.
 
 Charli’s hands rested in her lap. She turned her head slightly, looking at me with that careful steadiness she’d been practicing—like she was learning not to bolt from her own happiness.
 
-“I... don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not... that.”
+“I… don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not… that.”
 
 Her cheeks warmed.
 
@@ -98,7 +98,7 @@ I simply nodded, as if she’d reported the weather.
 
 Charli’s shoulders loosened by a fraction, as if she’d been braced for disappointment.
 
-“I just—” She swallowed. “I want to be... with you.”
+“I just—” She swallowed. “I want to be… with you.”
 
 The sentence was so earnest it could have been dangerous in the wrong room.
 
@@ -194,7 +194,7 @@ Charli’s voice came again, half-asleep.
 
 “For what?”
 
-“For... being sure,” she said. “All the time.”
+“For… being sure,” she said. “All the time.”
 
 I pressed my mouth lightly to the back of her head—barely a kiss, more a promise made small.
 
@@ -245,7 +245,7 @@ And I let that be enough.
 
 **Three Months Later — Winter (Celeste POV)**
 
-Yes... that’s a *beautifully* sound emotional landing pad — and it solves the tonal problem you flagged. You can’t have the park kiss and then return to “cold austerity” at home without the reader feeling whiplash. Home has to become **soft structure**: still guided by Celeste, still safe, but *livable*. 💛
+Yes… that’s a *beautifully* sound emotional landing pad — and it solves the tonal problem you flagged. You can’t have the park kiss and then return to “cold austerity” at home without the reader feeling whiplash. Home has to become **soft structure**: still guided by Celeste, still safe, but *livable*. 💛
 
 One small craft note before I write: I’m going to keep this **tender, non-sexual, consent-forward**—the “sleepover spoon” you described. And I’ll frame it as **two adults** in a private, off-the-clock setting, so the intimacy is ethically clean and tonally true to Wardrobe’s standards.
 
@@ -283,7 +283,7 @@ This was private.
 
 This was a girl in her own quiet, choosing comfort.
 
-She looked... fully herself.
+She looked… fully herself.
 
 Not because the chemise was magic. Because she was no longer carrying the old tension of *am I allowed?* in every muscle.
 
@@ -319,7 +319,7 @@ Quiet enough to hear herself think.
 
 Charli’s hands rested in her lap. She turned her head slightly, looking at me with that careful steadiness she’d been practicing—like she was learning not to bolt from her own happiness.
 
-“I... don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not... that.”
+“I… don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not… that.”
 
 Her cheeks warmed.
 
@@ -331,7 +331,7 @@ I simply nodded, as if she’d reported the weather.
 
 Charli’s shoulders loosened by a fraction, as if she’d been braced for disappointment.
 
-“I just—” She swallowed. “I want to be... with you.”
+“I just—” She swallowed. “I want to be… with you.”
 
 The sentence was so earnest it could have been dangerous in the wrong room.
 
@@ -427,7 +427,7 @@ Charli’s voice came again, half-asleep.
 
 “For what?”
 
-“For... being sure,” she said. “All the time.”
+“For… being sure,” she said. “All the time.”
 
 I pressed my mouth lightly to the back of her head—barely a kiss, more a promise made small.
 
@@ -511,7 +511,7 @@ This was private.
 
 This was a girl in her own quiet, choosing comfort.
 
-She looked... fully herself.
+She looked… fully herself.
 
 Not because the chemise was magic. Because she was no longer carrying the old tension of *am I allowed?* in every muscle.
 
@@ -547,7 +547,7 @@ Quiet enough to hear herself think.
 
 Charli’s hands rested in her lap. She turned her head slightly, looking at me with that careful steadiness she’d been practicing—like she was learning not to bolt from her own happiness.
 
-“I... don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not... that.”
+“I… don’t really want anything,” she said, and then frowned, worried she’d said it wrong. “I mean— I want things. Just not… that.”
 
 Her cheeks warmed.
 
@@ -559,7 +559,7 @@ I simply nodded, as if she’d reported the weather.
 
 Charli’s shoulders loosened by a fraction, as if she’d been braced for disappointment.
 
-“I just—” She swallowed. “I want to be... with you.”
+“I just—” She swallowed. “I want to be… with you.”
 
 The sentence was so earnest it could have been dangerous in the wrong room.
 
@@ -655,7 +655,7 @@ Charli’s voice came again, half-asleep.
 
 “For what?”
 
-“For... being sure,” she said. “All the time.”
+“For… being sure,” she said. “All the time.”
 
 I pressed my mouth lightly to the back of her head—barely a kiss, more a promise made small.
 
@@ -707,7 +707,7 @@ And I let that be enough.
 [26-01-25]
 
 ✨ The Brush ✨
-Perfect. That locks the continuity in place beautifully: **no secrets**, just a delayed *noticing* because Celeste has been running on fumes for months. 🌿✨ And yes — Charli’s tone can absolutely turn **honeyed, wife-like** now... not as a payment, not as “thank you” theatre, but as **joyful caretaking** she’s finally safe to enjoy.
+Perfect. That locks the continuity in place beautifully: **no secrets**, just a delayed *noticing* because Celeste has been running on fumes for months. 🌿✨ And yes — Charli’s tone can absolutely turn **honeyed, wife-like** now… not as a payment, not as “thank you” theatre, but as **joyful caretaking** she’s finally safe to enjoy.
 
 Here’s how to make that *feel* true without becoming transactional:
 
@@ -753,13 +753,13 @@ She guided me—not by taking my arm, not by steering my body, but by placing on
 
 The table was set.
 
-Not formal. Not performative. Just... intentional. Two plates, cutlery in the right place, a cloth napkin. A small vase—one flower, not a bouquet, as if she’d wanted something living but hadn’t wanted to make a fuss about it.
+Not formal. Not performative. Just… intentional. Two plates, cutlery in the right place, a cloth napkin. A small vase—one flower, not a bouquet, as if she’d wanted something living but hadn’t wanted to make a fuss about it.
 
 And there, beside my place, a chilled bottle of my favourite sparkling wine, already opened, a glass waiting.
 
 My throat tightened.
 
-“Charli...” I started.
+“Charli…” I started.
 
 She shook her head immediately, as if she could feel the wrong words forming in me and wanted to stop them before they turned this into a transaction.
 
@@ -781,7 +781,7 @@ She poured the wine with careful hands and slid the glass toward me. She didn’
 
 “You’re not having any?” I asked, already knowing the answer.
 
-Charli smiled. “Still tastes like... fizzy sadness to me.”
+Charli smiled. “Still tastes like… fizzy sadness to me.”
 
 I huffed a tired laugh. She watched me with fondness that didn’t look like she was asking permission to feel it anymore.
 
@@ -799,7 +799,7 @@ I looked up sharply, blinking it back, and Charli’s expression changed—gentl
 
 I shook my head once, unable to explain how being cared for can sometimes hurt more than being alone, because it reminds you how long you’ve been living without it.
 
-“It’s just...” I swallowed. “You’re... good.”
+“It’s just…” I swallowed. “You’re… good.”
 
 Charli’s smile returned—slow, pleased, almost shy.
 
@@ -819,7 +819,7 @@ Not one thing.
 
 A collection.
 
-Her cheeks had a softness I didn’t remember. Her skin looked... calmer. There was a gentle bloom in her face like she’d learned how to sleep. Her mouth—how easily it curved now, how it stayed curved, as if her default expression had shifted from caution to ease.
+Her cheeks had a softness I didn’t remember. Her skin looked… calmer. There was a gentle bloom in her face like she’d learned how to sleep. Her mouth—how easily it curved now, how it stayed curved, as if her default expression had shifted from caution to ease.
 
 And her eyes.
 
@@ -835,7 +835,7 @@ Charli noticed immediately. “What.”
 
 I laughed under my breath, stunned by my own suddenness.
 
-“You’re...” I searched for a word that wouldn’t make her flinch. “You’re glowing.”
+“You’re…” I searched for a word that wouldn’t make her flinch. “You’re glowing.”
 
 Her face changed—softening, then something like bashfulness. She glanced down at her plate.
 
@@ -843,9 +843,9 @@ Her face changed—softening, then something like bashfulness. She glanced down 
 
 My chest tightened.
 
-“I’ve been...” I started, then admitted it simply: “I’ve been so busy.”
+“I’ve been…” I started, then admitted it simply: “I’ve been so busy.”
 
-“I know,” she said, and there was no reproach in it. Only acceptance. “You were surviving. And I was... quietly becoming.”
+“I know,” she said, and there was no reproach in it. Only acceptance. “You were surviving. And I was… quietly becoming.”
 
 The phrase went through me like a shiver.
 
@@ -853,7 +853,7 @@ The phrase went through me like a shiver.
 
 Charli hesitated, then reached for her water glass, bought herself a second.
 
-“I didn’t want to dump it on you during exams,” she said. “Not because it was a secret. Just because... you were already carrying so much.”
+“I didn’t want to dump it on you during exams,” she said. “Not because it was a secret. Just because… you were already carrying so much.”
 
 I nodded. That was Charli: protecting people by default.
 
@@ -871,7 +871,7 @@ I felt my eyes burn again—harder this time.
 
 She kept going before I could interrupt her with reassurance.
 
-“The doctor... and then the endocrinologist,” she said, careful with the words, as if she wanted them to be accurate. “They didn’t treat me like I was silly. Or confused. They treated me like... I was describing a real thing.”
+“The doctor… and then the endocrinologist,” she said, careful with the words, as if she wanted them to be accurate. “They didn’t treat me like I was silly. Or confused. They treated me like… I was describing a real thing.”
 
 My throat tightened.
 
@@ -889,7 +889,7 @@ My whole body went still.
 
 Charli’s smile trembled at the edges, but it held.
 
-“I told them I wanted to live as a girl,” she said. “Not as an idea. Not as a costume. As... my life.”
+“I told them I wanted to live as a girl,” she said. “Not as an idea. Not as a costume. As… my life.”
 
 The room went quiet around us.
 
@@ -907,7 +907,7 @@ I reached across the table and placed my hand on the cloth near her fingers—no
 
 Charli’s shoulders dropped, a small release.
 
-“They started me on HRT months ago,” she said. “Five. And I kept waiting for it to feel... complicated. For it to feel like I was borrowing someone else’s life.”
+“They started me on HRT months ago,” she said. “Five. And I kept waiting for it to feel… complicated. For it to feel like I was borrowing someone else’s life.”
 
 Her eyes lifted to mine.
 
@@ -931,7 +931,7 @@ I took a breath, slow, careful.
 
 Charli nodded, eyes bright, smiling through it.
 
-“And...” she said, almost shy now. “And I’ve been wanting to take care of you too. Because I can. Because I... like it.”
+“And…” she said, almost shy now. “And I’ve been wanting to take care of you too. Because I can. Because I… like it.”
 
 Not repayment.
 
@@ -993,7 +993,7 @@ Here’s that next beat — *small intimacy, understated, earned*, and still cle
 
 For a moment we just looked at each other across the table, the air between us humming with all the things we weren’t saying.
 
-Charli’s smile stayed on her mouth like it belonged there now. Not a flare. Not a plea. Just... her.
+Charli’s smile stayed on her mouth like it belonged there now. Not a flare. Not a plea. Just… her.
 
 My fingers rested on the cloth near hers. Close enough to touch if she wanted. Not touching yet.
 
@@ -1065,7 +1065,7 @@ Charli’s eyes shone.
 
 “I didn’t want to add weight,” she whispered.
 
-“You didn’t,” I said. “You added... warmth.”
+“You didn’t,” I said. “You added… warmth.”
 
 Her breath caught.
 
@@ -1123,7 +1123,7 @@ I didn’t let it become a cliff edge.
 
 I answered the question underneath it.
 
-“I’m not going anywhere,” I said, voice low. “Not tonight. Not because you’re easy to love. Because you’re... you.”
+“I’m not going anywhere,” I said, voice low. “Not tonight. Not because you’re easy to love. Because you’re… you.”
 
 Charli’s eyes shimmered.
 
@@ -1206,7 +1206,7 @@ Of course 💛🌙 Here’s a **next-scene opener** that picks up at 2am, keeps 
 
 I woke at two-something to the wrong kind of quiet.
 
-Not danger. Just... awareness.
+Not danger. Just… awareness.
 
 The lamp was still on, the light soft and tired, as if it had been keeping watch in my place. My neck ached faintly from the angle of the couch. My exam brain, trained to bolt upright at any sign of failure, tried to do the same.
 
@@ -1417,13 +1417,13 @@ She guided me—not by taking my arm, not by steering my body, but by placing on
 
 The table was set.
 
-Not formal. Not performative. Just... intentional. Two plates, cutlery in the right place, a cloth napkin. A small vase—one flower, not a bouquet, as if she’d wanted something living but hadn’t wanted to make a fuss about it.
+Not formal. Not performative. Just… intentional. Two plates, cutlery in the right place, a cloth napkin. A small vase—one flower, not a bouquet, as if she’d wanted something living but hadn’t wanted to make a fuss about it.
 
 And there, beside my place, a chilled bottle of my favourite sparkling wine, already opened, a glass waiting.
 
 My throat tightened.
 
-“Charli...” I started.
+“Charli…” I started.
 
 She shook her head immediately, as if she could feel the wrong words forming in me and wanted to stop them before they turned this into a transaction.
 
@@ -1445,7 +1445,7 @@ She poured the wine with careful hands and slid the glass toward me. She didn’
 
 “You’re not having any?” I asked, already knowing the answer.
 
-Charli smiled. “Still tastes like... fizzy sadness to me.”
+Charli smiled. “Still tastes like… fizzy sadness to me.”
 
 I huffed a tired laugh. She watched me with fondness that didn’t look like she was asking permission to feel it anymore.
 
@@ -1463,7 +1463,7 @@ I looked up sharply, blinking it back, and Charli’s expression changed—gentl
 
 I shook my head once, unable to explain how being cared for can sometimes hurt more than being alone, because it reminds you how long you’ve been living without it.
 
-“It’s just...” I swallowed. “You’re... good.”
+“It’s just…” I swallowed. “You’re… good.”
 
 Charli’s smile returned—slow, pleased, almost shy.
 
@@ -1483,7 +1483,7 @@ Not one thing.
 
 A collection.
 
-Her cheeks had a softness I didn’t remember. Her skin looked... calmer. There was a gentle bloom in her face like she’d learned how to sleep. Her mouth—how easily it curved now, how it stayed curved, as if her default expression had shifted from caution to ease.
+Her cheeks had a softness I didn’t remember. Her skin looked… calmer. There was a gentle bloom in her face like she’d learned how to sleep. Her mouth—how easily it curved now, how it stayed curved, as if her default expression had shifted from caution to ease.
 
 And her eyes.
 
@@ -1499,7 +1499,7 @@ Charli noticed immediately. “What.”
 
 I laughed under my breath, stunned by my own suddenness.
 
-“You’re...” I searched for a word that wouldn’t make her flinch. “You’re glowing.”
+“You’re…” I searched for a word that wouldn’t make her flinch. “You’re glowing.”
 
 Her face changed—softening, then something like bashfulness. She glanced down at her plate.
 
@@ -1507,9 +1507,9 @@ Her face changed—softening, then something like bashfulness. She glanced down 
 
 My chest tightened.
 
-“I’ve been...” I started, then admitted it simply: “I’ve been so busy.”
+“I’ve been…” I started, then admitted it simply: “I’ve been so busy.”
 
-“I know,” she said, and there was no reproach in it. Only acceptance. “You were surviving. And I was... quietly becoming.”
+“I know,” she said, and there was no reproach in it. Only acceptance. “You were surviving. And I was… quietly becoming.”
 
 The phrase went through me like a shiver.
 
@@ -1517,7 +1517,7 @@ The phrase went through me like a shiver.
 
 Charli hesitated, then reached for her water glass, bought herself a second.
 
-“I didn’t want to dump it on you during exams,” she said. “Not because it was a secret. Just because... you were already carrying so much.”
+“I didn’t want to dump it on you during exams,” she said. “Not because it was a secret. Just because… you were already carrying so much.”
 
 I nodded. That was Charli: protecting people by default.
 
@@ -1535,7 +1535,7 @@ I felt my eyes burn again—harder this time.
 
 She kept going before I could interrupt her with reassurance.
 
-“The doctor... and then the endocrinologist,” she said, careful with the words, as if she wanted them to be accurate. “They didn’t treat me like I was silly. Or confused. They treated me like... I was describing a real thing.”
+“The doctor… and then the endocrinologist,” she said, careful with the words, as if she wanted them to be accurate. “They didn’t treat me like I was silly. Or confused. They treated me like… I was describing a real thing.”
 
 My throat tightened.
 
@@ -1553,7 +1553,7 @@ My whole body went still.
 
 Charli’s smile trembled at the edges, but it held.
 
-“I told them I wanted to live as a girl,” she said. “Not as an idea. Not as a costume. As... my life.”
+“I told them I wanted to live as a girl,” she said. “Not as an idea. Not as a costume. As… my life.”
 
 The room went quiet around us.
 
@@ -1571,7 +1571,7 @@ I reached across the table and placed my hand on the cloth near her fingers—no
 
 Charli’s shoulders dropped, a small release.
 
-“They started me on HRT months ago,” she said. “Five. And I kept waiting for it to feel... complicated. For it to feel like I was borrowing someone else’s life.”
+“They started me on HRT months ago,” she said. “Five. And I kept waiting for it to feel… complicated. For it to feel like I was borrowing someone else’s life.”
 
 Her eyes lifted to mine.
 
@@ -1595,7 +1595,7 @@ I took a breath, slow, careful.
 
 Charli nodded, eyes bright, smiling through it.
 
-“And...” she said, almost shy now. “And I’ve been wanting to take care of you too. Because I can. Because I... like it.”
+“And…” she said, almost shy now. “And I’ve been wanting to take care of you too. Because I can. Because I… like it.”
 
 Not repayment.
 
@@ -1645,7 +1645,7 @@ I’d just finally stopped running long enough to see it.
 
 For a moment we just looked at each other across the table, the air between us humming with all the things we weren’t saying.
 
-Charli’s smile stayed on her mouth like it belonged there now. Not a flare. Not a plea. Just... her.
+Charli’s smile stayed on her mouth like it belonged there now. Not a flare. Not a plea. Just… her.
 
 My fingers rested on the cloth near hers. Close enough to touch if she wanted. Not touching yet.
 
@@ -1717,7 +1717,7 @@ Charli’s eyes shone.
 
 “I didn’t want to add weight,” she whispered.
 
-“You didn’t,” I said. “You added... warmth.”
+“You didn’t,” I said. “You added… warmth.”
 
 Her breath caught.
 
@@ -1775,7 +1775,7 @@ I didn’t let it become a cliff edge.
 
 I answered the question underneath it.
 
-“I’m not going anywhere,” I said, voice low. “Not tonight. Not because you’re easy to love. Because you’re... you.”
+“I’m not going anywhere,” I said, voice low. “Not tonight. Not because you’re easy to love. Because you’re… you.”
 
 Charli’s eyes shimmered.
 
@@ -1856,7 +1856,7 @@ Of course 💛🌙 Here’s a **next-scene opener** that picks up at 2am, keeps 
 
 I woke at two-something to the wrong kind of quiet.
 
-Not danger. Just... awareness.
+Not danger. Just… awareness.
 
 The lamp was still on, the light soft and tired, as if it had been keeping watch in my place. My neck ached faintly from the angle of the couch. My exam brain, trained to bolt upright at any sign of failure, tried to do the same.
 
@@ -2038,7 +2038,7 @@ When I came back, Sarah was leaning in slightly, speaking low enough that she wa
 
 “So,” she said, “how’s it feel? Holiday schedule. No Wardrobe. No Mara looming like a vengeful goddess.”
 
-Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She... stands.”
+Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She… stands.”
 
 Sarah laughed. “That’s the most Charli sentence I’ve ever heard.”
 
@@ -2120,11 +2120,11 @@ Charli turned to her with a bright, simple certainty.
 
 “Shoes off,” she said, then, softer, “It’s cooler.”
 
-That was Charli at home: not timid. Not apologetic. Just... specific. Clear. As if comfort was a practical matter she could solve.
+That was Charli at home: not timid. Not apologetic. Just… specific. Clear. As if comfort was a practical matter she could solve.
 
 I handed Sarah a cold glass of water before she’d even fully crossed the threshold. She took it, took a long drink, and made a sound that was half relief and half something like gratitude.
 
-“God,” she said. “This is... civilized.”
+“God,” she said. “This is… civilized.”
 
 Charli’s mouth twitched.
 
@@ -2164,7 +2164,7 @@ They moved around each other easily: two women in a kitchen, hands busy, convers
 
 In Wardrobe, Charli was always doing *enough*. Enough to be useful. Enough to not be a burden. Enough to be allowed.
 
-Here, she did what she wanted because she wanted it. The difference was... everything.
+Here, she did what she wanted because she wanted it. The difference was… everything.
 
 Lunch was simple and cold—salad, bread, something salty, fruit—things chosen not for performance but for survival. The sort of meal you make on a day when the world is too hot to be dramatic.
 
@@ -2202,7 +2202,7 @@ Sarah stretched her legs out and sighed.
 
 Charli smiled, small.
 
-“It’s... quieter,” she said, like she was still surprised the world could be.
+“It’s… quieter,” she said, like she was still surprised the world could be.
 
 Sarah’s gaze flicked to her.
 
@@ -2222,7 +2222,7 @@ Sarah exhaled.
 
 “The first week,” she said, “Lucy clocked it before any of us had the language.”
 
-Charli’s eyes widened slightly. Not offended. More like... *how?*
+Charli’s eyes widened slightly. Not offended. More like… *how?*
 
 Sarah shrugged.
 
@@ -2232,7 +2232,7 @@ Charli huffed a laugh.
 
 Sarah continued, slow, careful, as if she’d learned from Mara how to tell the truth without making it theatre.
 
-“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice, though—sorry—your voice shifted a bit when you stopped trying to do the... ‘boy polite’ thing.”
+“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice, though—sorry—your voice shifted a bit when you stopped trying to do the… ‘boy polite’ thing.”
 
 Charli blushed. I watched her start to fold inward, and I cut it off gently.
 
@@ -2242,11 +2242,11 @@ Charli went still, then nodded once, the way someone nods when a truth lands.
 
 Sarah’s mouth softened. She looked at me for half a second—something like relief flickering there—then kept going.
 
-“It was your... orientation,” Sarah said. “You moved like you were trying not to take up space, but also like you were used to being watched. Like you’d learned the female version of caution without being taught it directly.”
+“It was your… orientation,” Sarah said. “You moved like you were trying not to take up space, but also like you were used to being watched. Like you’d learned the female version of caution without being taught it directly.”
 
 Charli stared at her water.
 
-“That sounds...” she began.
+“That sounds…” she began.
 
 “Unfair?” Sarah offered.
 
@@ -2300,7 +2300,7 @@ It was the kind of smile that says, *I didn’t know I was allowed to belong som
 
 Sarah watched her and softened further, the heat making her lazy, the aircon making her brave.
 
-“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
+“And… Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
 
 I held her gaze.
 
@@ -2308,7 +2308,7 @@ I held her gaze.
 
 Sarah let out a breath, relieved I hadn’t misread her.
 
-“It was... irritation,” she admitted, and the word was so Sarah it made Charli laugh again.
+“It was… irritation,” she admitted, and the word was so Sarah it made Charli laugh again.
 
 “Irritation?” Charli echoed.
 
@@ -2414,7 +2414,7 @@ Sarah left when the light outside started to soften, when the worst of the heat 
 
 She stood at the door with her bag slung over one shoulder, hair slightly frizzed from the day, cheeks flushed from the drink and the talking and the sheer luxury of not being in Wardrobe for a few hours. She looked happier than she would ever admit to being.
 
-“This was...” she began, then stopped, as if complimenting my home might count as sentiment.
+“This was…” she began, then stopped, as if complimenting my home might count as sentiment.
 
 “Civilised,” I offered.
 
@@ -2452,7 +2452,7 @@ Charli finally turned, and the expression on her face was so carefully blank it 
 
 “Okay?” I echoed.
 
-She nodded once. “She didn’t... it wasn’t weird.”
+She nodded once. “She didn’t… it wasn’t weird.”
 
 “No,” I said, gentle. “It wasn’t.”
 
@@ -2472,7 +2472,7 @@ Not fast. Not dramatic. Just close enough that my presence changed the air aroun
 
 Charli’s eyes flicked to mine.
 
-“There’s a difference,” I continued. “Watched is... appraisal. Hunting for error. Witnessed is... someone seeing you and staying.”
+“There’s a difference,” I continued. “Watched is… appraisal. Hunting for error. Witnessed is… someone seeing you and staying.”
 
 Her throat moved again.
 
@@ -2500,7 +2500,7 @@ I smiled. Not wide. Not theatrical. Just the truth.
 
 Charli’s mouth opened, then shut again. She tried to make a joke out of it and failed.
 
-“I... made lunch,” she said, like she had to name the concrete thing.
+“I… made lunch,” she said, like she had to name the concrete thing.
 
 “You directed lunch,” I corrected. “You sat us down like you owned the kitchen.”
 
@@ -2520,7 +2520,7 @@ I lifted my other hand to her jaw, gently, guiding her to look at me.
 
 Charli’s voice was almost nothing.
 
-“It felt like... if I messed it up, it would spill back into work.”
+“It felt like… if I messed it up, it would spill back into work.”
 
 Ah.
 
@@ -2542,7 +2542,7 @@ Her breath hitched.
 
 Then she did something that made my heart do a quiet, stupid thing: she leaned forward and rested her forehead against my shoulder.
 
-Not clinging. Not pleading. Just... yielding.
+Not clinging. Not pleading. Just… yielding.
 
 I slid my arms around her and held her, and the way her body melted into mine was so immediate it was almost heartbreaking.
 
@@ -2554,7 +2554,7 @@ Charli’s voice was muffled against me.
 
 “Do what?”
 
-“Be... like this,” she said. “And have someone see it. And not... feel like I have to apologise.”
+“Be… like this,” she said. “And have someone see it. And not… feel like I have to apologise.”
 
 I kissed the top of her head, and something in me softened so much it startled me.
 
@@ -2570,11 +2570,11 @@ Her eyes were bright now—too bright—and her mouth curved in a small, shy smi
 
 Charli’s cheeks went pink again. She hesitated, and I watched the internal debate move across her face: the old fear fighting with the new desire to be bold.
 
-Then she whispered, almost accusing, “You were... different today.”
+Then she whispered, almost accusing, “You were… different today.”
 
 I raised a brow. “Was I?”
 
-“Yes.” Charli looked down at my hand on her waist, then back up. “You weren’t... work-you.”
+“Yes.” Charli looked down at my hand on her waist, then back up. “You weren’t… work-you.”
 
 “That’s because I wasn’t at work,” I said.
 
@@ -2586,7 +2586,7 @@ I waited. Let her find it.
 
 Charli’s voice dropped.
 
-“You... liked having her see us.”
+“You… liked having her see us.”
 
 It wasn’t a question. It was an observation, and it made heat bloom low in my belly in a way that had nothing to do with the weather.
 
@@ -2600,15 +2600,15 @@ Charli’s breath caught.
 
 I brushed my thumb lightly along her jaw, the most intimate kind of casual.
 
-“Because I’m tired of people only knowing you as a function,” I said. “Because you’re not a secret. And because...” I paused, then told her the truth, simple and sharp, “I wanted someone else to see what I get.”
+“Because I’m tired of people only knowing you as a function,” I said. “Because you’re not a secret. And because…” I paused, then told her the truth, simple and sharp, “I wanted someone else to see what I get.”
 
 Charli went still.
 
 The words hit her like a wave. You could see it—the way her posture changed, the way her eyes widened as if she’d suddenly been handed something too precious to hold.
 
-“Celeste...” she breathed.
+“Celeste…” she breathed.
 
-I kissed her again. A little slower this time. Still not obscene. Just... enough.
+I kissed her again. A little slower this time. Still not obscene. Just… enough.
 
 When I pulled back, I rested my forehead against hers.
 
@@ -2618,7 +2618,7 @@ Charli’s hands slid up my arms, tentative at first, then firmer, as if she was
 
 “I can stay,” she whispered.
 
-“Yes,” I said, and my voice went softer, almost teasing, because the room was ours again. “And now that Sarah’s gone...”
+“Yes,” I said, and my voice went softer, almost teasing, because the room was ours again. “And now that Sarah’s gone…”
 
 Charli blinked. “Now that Sarah’s gone?”
 
@@ -2697,7 +2697,7 @@ I didn’t pretend not to understand.
 
 Charli’s blush rose, immediate. Her fingers worried at the seam of her shirt, then stopped—as if she’d caught herself doing the old nervous thing and refused it.
 
-“The...” She swallowed. “The part where you—where you said you wanted her to see—”
+“The…” She swallowed. “The part where you—where you said you wanted her to see—”
 
 Her voice stumbled, and she looked away like she couldn’t bear to watch me react.
 
@@ -2759,7 +2759,7 @@ I pulled back just enough to look at her.
 
 Her eyes were wide. Her pupils blown.
 
-She looked... undone. And also gloriously alive.
+She looked… undone. And also gloriously alive.
 
 “Hey,” I murmured, thumb brushing her jaw again. “Stay with me.”
 
@@ -2819,13 +2819,13 @@ Charli stared at me. You could practically hear her mind spinning: a lifetime of
 
 I waited. Patient. Still.
 
-Finally she whispered, “I want you to... keep looking at me like that.”
+Finally she whispered, “I want you to… keep looking at me like that.”
 
 My smile returned, slow.
 
 “Like what?”
 
-“Like I’m...” She swallowed. “Like I’m not going to break.”
+“Like I’m…” She swallowed. “Like I’m not going to break.”
 
 I felt something soften in my chest—fondness edged with steel.
 
@@ -2841,7 +2841,7 @@ Charli made a tiny sound—almost a laugh, almost a sigh.
 
 Then she did the bravest thing yet.
 
-She shifted closer until her thigh pressed against mine, and she whispered, “Tell me again. The... ‘what you get’ part.”
+She shifted closer until her thigh pressed against mine, and she whispered, “Tell me again. The… ‘what you get’ part.”
 
 I exhaled, amused and a little wicked.
 
@@ -2853,7 +2853,7 @@ But she didn’t retreat.
 
 She lifted her chin, barely, like she was offering me her mouth again, and her eyes stayed on mine.
 
-That—right there—was the new Charli. Not loud. Not performative. Just... choosing.
+That—right there—was the new Charli. Not loud. Not performative. Just… choosing.
 
 I let my gaze drop to her lips.
 
@@ -2877,13 +2877,13 @@ She whispered, “I’m not optional.”
 
 She stared at me as if she was trying to memorise the sentence.
 
-Then, timidly—so timidly it nearly broke my heart—she asked, “Can I... ask for one more thing?”
+Then, timidly—so timidly it nearly broke my heart—she asked, “Can I… ask for one more thing?”
 
 “Yes,” I said immediately. No hesitation. No tests.
 
 Charli leaned in until her forehead rested against my shoulder again—her favourite place, apparently—and her voice was a small warm thread against my skin.
 
-“Hold me,” she whispered. “Like you did at the door. But... longer.”
+“Hold me,” she whispered. “Like you did at the door. But… longer.”
 
 So I did.
 
@@ -2893,7 +2893,7 @@ She let out a long breath, the kind that comes from somewhere deep—like her ri
 
 And I held her there, kissing the top of her head again, slow and ordinary, like this—*this*—was what love looked like when it wasn’t trying to impress anybody.
 
-After a while, Charli lifted her head just enough to murmur, “I think... today was the first time I didn’t leave part of myself at the door.”
+After a while, Charli lifted her head just enough to murmur, “I think… today was the first time I didn’t leave part of myself at the door.”
 
 I kissed her temple.
 
@@ -2998,7 +2998,7 @@ When I came back, Sarah was leaning in slightly, speaking low enough that she wa
 
 “So,” she said, “how’s it feel? Holiday schedule. No Wardrobe. No Mara looming like a vengeful goddess.”
 
-Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She... stands.”
+Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She… stands.”
 
 Sarah laughed. “That’s the most Charli thing I’ve ever heard.”
 
@@ -3062,11 +3062,11 @@ Charli kicked her shoes off at the door. Sarah followed, less sure, like she was
 
 “Shoes off,” she said, then, softer, “It’s cooler.”
 
-That was Charli at home: not timid. Not apologetic. Just... specific. Clear. As if comfort was a practical matter she could solve.
+That was Charli at home: not timid. Not apologetic. Just… specific. Clear. As if comfort was a practical matter she could solve.
 
 I handed Sarah a cold glass of water before she’d even fully crossed the threshold. She took it, took a long drink, and made a sound that was half relief and half something like gratitude.
 
-“God,” she said. “This is... civilized.”
+“God,” she said. “This is… civilized.”
 
 Charli’s mouth twitched.
 
@@ -3102,7 +3102,7 @@ Sarah sat at the counter, and started tearing herbs without being asked. Charli 
 
 In Wardrobe, you always got the feeling Charli was perpetually doing *enough*: enough to be useful. Enough to not be a burden. Enough to be allowed. Here, she did what she wanted because she wanted it.
 
-The difference was... everything.
+The difference was… everything.
 
 Lunch was simple and cold—salad, bread, something salty, fruit—things chosen not for performance but because when it's hot that all one is in the mood for. The sort of meal you make on a day when the world is too hot to be piquant.
 
@@ -3136,7 +3136,7 @@ Sarah stretched her legs out and sighed.
 
 Charli smiled, small.
 
-“It’s... quieter,” she said, like she was still surprised the world could be.
+“It’s… quieter,” she said, like she was still surprised the world could be.
 
 Sarah’s gaze flicked to her.
 
@@ -3154,7 +3154,7 @@ Sarah exhaled.
 
 “The first week,” she said, “Lucy clocked it before any of us had the language.”
 
-Charli’s eyes widened slightly. Not offended. More like... *how?*
+Charli’s eyes widened slightly. Not offended. More like… *how?*
 
 Sarah shrugged.
 
@@ -3164,7 +3164,7 @@ Charli huffed a laugh.
 
 Sarah continued, slow, careful, as if she’d learned from Mara how to tell the truth without making it theatre.
 
-“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice, though—sorry—your voice shifted a bit when you stopped trying to do the... ‘boy’ thing.”
+“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice, though—sorry—your voice shifted a bit when you stopped trying to do the… ‘boy’ thing.”
 
 Charli blushed. I watched her start to fold inward, and I cut it off gently.
 
@@ -3172,11 +3172,11 @@ Charli blushed. I watched her start to fold inward, and I cut it off gently.
 
 Charli went still, then nodded, the way someone nods when a truth lands. Sarah’s mouth softened. She looked at me for half a second—something like relief flickering there—then kept going.
 
-“It was your... orientation,” Sarah said. “You moved like you were trying not to take up space, but also like you were used to being watched. Like you’d learned the female version of caution without being taught it directly.”
+“It was your… orientation,” Sarah said. “You moved like you were trying not to take up space, but also like you were used to being watched. Like you’d learned the female version of caution without being taught it directly.”
 
 Charli stared at her water.
 
-“That sounds...” she began.
+“That sounds…” she began.
 
 “Unfair?” Sarah offered.
 
@@ -3214,7 +3214,7 @@ Sarah shrugged, uncomfortable with praise.
 
 Charli looked back at her, startled, and then—very slowly—smiled. It wasn’t small this time. It was the kind of smile that says, *I didn’t know I was allowed to belong somewhere. I didn’t know it could be simple.* Sarah watched her and softened further, the heat making her lazy, the aircon making her brave.
 
-“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
+“And… Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
 
 I held her gaze.
 
@@ -3222,7 +3222,7 @@ I held her gaze.
 
 Sarah let out a breath, relieved I hadn’t misread her.
 
-“It was... irritation,” she admitted, and the word was so Sarah it made Charli laugh again.
+“It was… irritation,” she admitted, and the word was so Sarah it made Charli laugh again.
 
 “Irritation?” Charli echoed.
 
@@ -3278,7 +3278,7 @@ Sarah left when the light outside started to soften, when the worst of the heat 
 
 She stood at the door with her bag slung over one shoulder, hair slightly frizzed from the day, cheeks flushed from the drink and the talking and the sheer luxury of not being in Wardrobe for a few hours. She looked happier than she would ever admit to being.
 
-“This was...” she began, then stopped, as if complimenting my home might count as sentiment.
+“This was…” she began, then stopped, as if complimenting my home might count as sentiment.
 
 “Civilised,” I offered.
 
@@ -3310,7 +3310,7 @@ I didn’t speak immediately. I let the silence do the work. I let her come back
 
 “Okay?” I echoed.
 
-She nodded once. “She didn’t... it wasn’t weird.”
+She nodded once. “She didn’t… it wasn’t weird.”
 
 “No,” I said, gentle. “It wasn’t.”
 
@@ -3318,11 +3318,11 @@ Charli swallowed.
 
 Then the words came out in a rush, as if she could only say them if she didn’t look at them too closely.
 
-“I know it wasn’t a performance,” she said. “But it felt like... like I was under a microscope. Watched.”
+“I know it wasn’t a performance,” she said. “But it felt like… like I was under a microscope. Watched.”
 
 Her voice cracked on the last word, and she looked away, instantly ashamed of needing reassurance in her own home. I moved close enough that my presence changed the air around her.
 
-“You were being witnessed,” I said, precise. “Not watched.” Charli’s eyes flicked to mine. “There’s a difference,” I continued. “Watched is... appraisal. Hunting for error. Witnessed is... someone seeing you and staying.”
+“You were being witnessed,” I said, precise. “Not watched.” Charli’s eyes flicked to mine. “There’s a difference,” I continued. “Watched is… appraisal. Hunting for error. Witnessed is… someone seeing you and staying.”
 
 Her throat moved again.
 
@@ -3344,7 +3344,7 @@ I smiled, slow and steady.
 
 Charli’s mouth opened, then shut again. She tried to make a joke out of it.
 
-“I... made lunch,” she said, like she had to name the concrete thing.
+“I… made lunch,” she said, like she had to name the concrete thing.
 
 “You *directed* lunch,” I corrected. “You sat us down like you owned the kitchen.”
 
@@ -3362,7 +3362,7 @@ I lifted my other hand to her jaw, gently, guiding her to look at me.
 
 Charli’s voice was almost nothing.
 
-“It felt like... if I messed it up, it would spill back into work.”
+“It felt like… if I messed it up, it would spill back into work.”
 
 Ah. There it was. The fear underneath: that safety was a fragile thing, and one wrong gesture would break it.
 
@@ -3378,7 +3378,7 @@ Charli swallowed. “But—”
 
 Her breath hitched. Then she did something that made my heart do a quiet, stupid thing: she leaned forward and rested her forehead against my shoulder.
 
-That... yielding made me close my eyes. Breathe. I slid my arms around her and held her, and the way her body melted into mine was so immediate it was almost heartbreaking. For a long moment we stood there by the door, not moving, the house humming quietly around us. The aircon kicked on and off. The afternoon light shifted. Outside, some neighbour’s dog barked once and then went quiet.
+That… yielding made me close my eyes. Breathe. I slid my arms around her and held her, and the way her body melted into mine was so immediate it was almost heartbreaking. For a long moment we stood there by the door, not moving, the house humming quietly around us. The aircon kicked on and off. The afternoon light shifted. Outside, some neighbour’s dog barked once and then went quiet.
 
 Charli’s voice was muffled against me.
 
@@ -3386,7 +3386,7 @@ Charli’s voice was muffled against me.
 
 “Do what?”
 
-“Be... like this,” she said. “And have someone be this... with me. And not... feel like I have to apologise.”
+“Be… like this,” she said. “And have someone be this… with me. And not… feel like I have to apologise.”
 
 I kissed the top of her head, and something in me softened so much it unsettled me. Another breath, with an effort.
 
@@ -3398,11 +3398,11 @@ Charli’s head lifted. Her eyes were bright now—too bright—and her mouth cu
 
 “She did.”
 
-Charli’s cheeks went pink again. She hesitated, and I watched the internal debate move across her face: the old fear fighting with the new desire to be bold. Then she whispered, almost cheeky, “You were... different today.”
+Charli’s cheeks went pink again. She hesitated, and I watched the internal debate move across her face: the old fear fighting with the new desire to be bold. Then she whispered, almost cheeky, “You were… different today.”
 
 I raised a brow. “Was I?”
 
-“Yes.” Charli looked down at my hand on her waist, then back up. “You weren’t... work-you.”
+“Yes.” Charli looked down at my hand on her waist, then back up. “You weren’t… work-you.”
 
 “That’s because I wasn’t at work.”
 
@@ -3412,7 +3412,7 @@ Charli’s eyes narrowed slightly—playful suspicion.
 
 I waited. Let her find it. Charli’s voice dropped.
 
-“You... *liked* having her see us.”
+“You… *liked* having her see us.”
 
 It wasn’t a question but an observation. The tone in her voice made heat bloom low in my belly in a way that had nothing to do with the weather.
 
@@ -3426,13 +3426,13 @@ Charli’s breath caught.
 
 I brushed my thumb lightly along her jaw, the most intimate kind of casual.
 
-“Because I’m tired of people only knowing you as a function,” I said. “Because you’re not a secret. And because...” I paused, then told her the truth, simple and sharp, “I wanted someone else to see what I get about you.”
+“Because I’m tired of people only knowing you as a function,” I said. “Because you’re not a secret. And because…” I paused, then told her the truth, simple and sharp, “I wanted someone else to see what I get about you.”
 
 Charli went still. The words hit her like a wave. You could see it—the way her posture changed, the way her eyes widened as if she’d suddenly been handed something too precious to hold.
 
-“Celeste...” she breathed.
+“Celeste…” she breathed.
 
-I kissed her again. A little slower this time. Still not sensual: just... enough. When I pulled back, I rested my forehead against hers.
+I kissed her again. A little slower this time. Still not sensual: just… enough. When I pulled back, I rested my forehead against hers.
 
 “All I'm asking is,” I said, “for you to stay with me on this.”
 
@@ -3440,7 +3440,7 @@ Charli’s hands slid up my arms, tentative at first, then firmer, as if she was
 
 “I can stay,” she whispered.
 
-“Yes,” I said, and my voice went softer, almost teasing, because the room was ours again. “And now that Sarah’s gone...”
+“Yes,” I said, and my voice went softer, almost teasing, because the room was ours again. “And now that Sarah’s gone…”
 
 Charli blinked. “Now that Sarah’s gone?”
 
@@ -3484,7 +3484,7 @@ I didn’t pretend not to understand.
 
 “What part?” I asked, and let my tone carry a teasing edge. Charli’s blush rose, immediate. Her fingers worried at the seam of her shirt, then stopped, as if she’d caught herself doing the old nervous thing and refused it.
 
-“The...” She swallowed. “The part where you.. where you said you wanted her to see—”
+“The…” She swallowed. “The part where you.. where you said you wanted her to see—”
 
 Her voice stumbled, and she looked away like she couldn’t bear to watch me react. That would have been the moment, in someone else's reality, for a man to get clever or dismissive: make her feel silly, make her regret wanting anything.
 
@@ -3530,7 +3530,7 @@ I angled my head, caught her lower lip lightly, and deepened it with a steadines
 
 A soft sound escaped her—half surprise, half relief. I pulled back just enough to look at her. Her eyes were wide. Her pupils blown.
 
-She looked... delightfully undone. And, gloriously alive.
+She looked… delightfully undone. And, gloriously alive.
 
 “Hey,” I murmured, thumb brushing her jaw again. “Stay with me.”
 
@@ -3570,13 +3570,13 @@ Charli stared at me. You could practically hear her mind spinning: a lifetime of
 
 I waited. Patient. Still. Finally she whispered,
 
-“I want you to... keep looking at me like that.”
+“I want you to… keep looking at me like that.”
 
 My smile returned, slow.
 
 “Like what?”
 
-“Like I’m...” She swallowed. “Like I’m not going to break.”
+“Like I’m…” She swallowed. “Like I’m not going to break.”
 
 I felt something soften in my chest: fondness edged with steel.
 
@@ -3588,7 +3588,7 @@ Charli made a tiny sound: almost a giggle, mostly a sigh.
 
 Then she did the most spirited thing yet. She shifted closer until her thigh pressed against mine, and she whispered:
 
-“Tell me again. The... ‘what you get’ part.”
+“Tell me again. The… ‘what you get’ part.”
 
 I exhaled, amused and a little wicked.
 
@@ -3596,7 +3596,7 @@ I exhaled, amused and a little wicked.
 
 Charli’s blush went nuclear, but she didn’t retreat. She lifted her chin, barely, like she was offering me her mouth again, and her wide, bright eyes stayed on mine.
 
-That—right there—was the new Charli. Not loud. Not performative. Just... choosing.
+That—right there—was the new Charli. Not loud. Not performative. Just… choosing.
 
 I let my gaze drop to her lips.
 
@@ -3614,13 +3614,13 @@ She whispered, “I’m not optional.”
 
 She stared at me as if she was trying to memorise the sentence.
 
-Then, timidly—so timidly it nearly broke my heart—she asked, “Can I... ask for one more thing?”
+Then, timidly—so timidly it nearly broke my heart—she asked, “Can I… ask for one more thing?”
 
 “Yes,” I said immediately. No hesitation. No tests.
 
 Charli leaned in until her forehead rested against my shoulder again—clearly, her favourite place—and her voice was a small warm thread against my skin.
 
-“Hold me,” she whispered. “Like you did at the door. But... longer.”
+“Hold me,” she whispered. “Like you did at the door. But… longer.”
 
 So I did.
 
@@ -3628,7 +3628,7 @@ I wrapped my arms around her and pulled her in until her whole body aligned with
 
 After a while, Charli lifted her head just enough to murmur, 
 
-“I think... today was the first time I didn’t leave part of myself at the door.”
+“I think… today was the first time I didn’t leave part of myself at the door.”
 
 I kissed her temple.
 
@@ -3714,7 +3714,7 @@ When I came back, Sarah was leaning in slightly, speaking low enough that she wa
 
 “So,” she said, “how’s it feel? Holiday schedule. No Wardrobe. No Mara looming like a vengeful goddess.”
 
-Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She... stands.”
+Charli’s mouth curved. “Mara doesn’t loom,” she said carefully, as if she was being tested. “She… stands.”
 
 Sarah laughed. “That’s the most Charli thing I’ve ever heard.”
 
@@ -3792,7 +3792,7 @@ That was Charli at home: not timid, not apologetic—just specific. Clear. As if
 
 I handed Sarah a cold glass of water before she’d fully crossed the threshold. She took a long drink and made a sound that was half relief, half something like gratitude.
 
-“God,” she said. “This is... civilized.”
+“God,” she said. “This is… civilized.”
 
 Charli’s mouth twitched.
 
@@ -3824,7 +3824,7 @@ Sarah sat at the counter and started tearing herbs without being asked. Charli s
 
 In Wardrobe, you always got the feeling Charli was perpetually doing *enough*: enough to be useful, enough to not be a burden, enough to be allowed. Here, she did what she wanted because she wanted it.
 
-The difference was... everything.
+The difference was… everything.
 
 Lunch was simple and cold—salad, bread, something salty, fruit—chosen not for performance but because when it’s hot that’s all you want. The sort of meal you make on a day when the world is too hot to be clever.
 
@@ -3862,7 +3862,7 @@ Sarah stretched her legs out and sighed.
 
 Charli smiled, small.
 
-“It’s... quieter,” she said, like she was still surprised the world could be.
+“It’s… quieter,” she said, like she was still surprised the world could be.
 
 Sarah’s gaze flicked to her.
 
@@ -3890,7 +3890,7 @@ Charli huffed a laugh.
 
 Sarah continued, slow and careful, like she’d learned from Mara how to tell the truth without making it theatre.
 
-“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice—sorry—your voice shifted a bit when you stopped trying to do the... ‘boy’ thing.”
+“It wasn’t your clothes,” she said to Charli. “It wasn’t even your voice—sorry—your voice shifted a bit when you stopped trying to do the… ‘boy’ thing.”
 
 Charli blushed. I watched her start to fold inward, and I cut it off gently.
 
@@ -3904,7 +3904,7 @@ Sarah’s mouth softened. She glanced at me for half a second—something like r
 
 Charli stared at her water.
 
-“That sounds...” she began.
+“That sounds…” she began.
 
 “Unfair?” Sarah offered.
 
@@ -3946,11 +3946,11 @@ Sarah shrugged, uncomfortable with praise.
 
 “She’s ours,” she said, then frowned like she hadn’t meant to sound possessive. “I mean—Wardrobe’s. The workroom.”
 
-Charli looked back at her, startled, and then—very slowly—smiled. Not small this time. Not careful. Just... real.
+Charli looked back at her, startled, and then—very slowly—smiled. Not small this time. Not careful. Just… real.
 
 Sarah watched her and softened further, heat making her lazy, aircon making her brave.
 
-“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
+“And… Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.”
 
 I held her gaze.
 
@@ -3958,7 +3958,7 @@ I held her gaze.
 
 Sarah let out a breath, relieved I hadn’t misread her.
 
-“It was... irritation,” she admitted—and the word was so Sarah it made Charli laugh.
+“It was… irritation,” she admitted—and the word was so Sarah it made Charli laugh.
 
 “Irritation?” Charli echoed.
 
@@ -4008,7 +4008,7 @@ Sarah left when the light outside started to soften—when the worst of the heat
 
 She stood at the door with her bag slung over one shoulder, hair slightly frizzed from the day, cheeks flushed from the drink and the talking and the sheer luxury of not being in Wardrobe for a few hours. She looked happier than she would ever admit to being.
 
-“This was...” she began, then stopped, as if complimenting my home might count as sentiment.
+“This was…” she began, then stopped, as if complimenting my home might count as sentiment.
 
 “Civilised,” I offered.
 
@@ -4044,13 +4044,13 @@ Charli finally turned, and her expression was so carefully blank it was almost f
 
 “Okay?” I echoed.
 
-She nodded once. “She didn’t... it wasn’t weird.”
+She nodded once. “She didn’t… it wasn’t weird.”
 
 “No,” I said. “It wasn’t.”
 
 The words came out fast, as if she could only say them if she didn’t look too closely.
 
-“I know it wasn’t a performance,” she said. “But it felt like... like I was under a microscope. Watched.”
+“I know it wasn’t a performance,” she said. “But it felt like… like I was under a microscope. Watched.”
 
 Her voice cracked on the last word. She looked away immediately, ashamed of needing reassurance in her own home.
 
@@ -4060,7 +4060,7 @@ I moved close enough that my presence changed the air around her.
 
 Charli’s eyes flicked to mine.
 
-“Watched is appraisal,” I went on. “Hunting for error. Witnessed is... someone seeing you and staying.”
+“Watched is appraisal,” I went on. “Hunting for error. Witnessed is… someone seeing you and staying.”
 
 Her throat moved.
 
@@ -4086,7 +4086,7 @@ I smiled—slow, steady.
 
 Charli’s mouth opened, then shut again. She tried to name something concrete, like she could pin the feeling to a task.
 
-“I... made lunch.”
+“I… made lunch.”
 
 “You directed lunch,” I corrected. “You sat us down like you owned the kitchen.”
 
@@ -4102,7 +4102,7 @@ Charli blinked hard. Her eyes went glossy, and for a second she looked like she 
 
 Then she swallowed and said, small and honest:
 
-“It felt like... if I messed it up, it would spill back into work.”
+“It felt like… if I messed it up, it would spill back into work.”
 
 Ah.
 
@@ -4138,7 +4138,7 @@ Charli’s voice was muffled against me.
 
 “Do what?”
 
-“Be... like this,” she said. “And have someone be this... with me. And not feel like I have to apologise.”
+“Be… like this,” she said. “And have someone be this… with me. And not feel like I have to apologise.”
 
 I kissed the top of her head, and something in me softened so much it unsettled me—because it wasn’t just tenderness. It was decision.
 
@@ -4154,11 +4154,11 @@ Charli hesitated, and I watched the internal debate move across her face: the ol
 
 Then she whispered, almost accusing—almost undone by the audacity of it:
 
-“You were... different today.”
+“You were… different today.”
 
 I raised a brow. “Was I?”
 
-“Yes.” Her gaze dropped to my hand at her waist, then back up. “You weren’t... work-you.”
+“Yes.” Her gaze dropped to my hand at her waist, then back up. “You weren’t… work-you.”
 
 “That’s because I wasn’t at work.”
 
@@ -4168,7 +4168,7 @@ I waited. Let her find it. Let her learn there was no penalty for wanting langua
 
 Charli’s voice went smaller.
 
-“You... liked having her see.”
+“You… liked having her see.”
 
 The heat that bloomed low in my belly had nothing to do with the weather.
 
@@ -4192,7 +4192,7 @@ Not of me.
 
 Of being wanted.
 
-“You want... me?” she whispered.
+“You want… me?” she whispered.
 
 I felt the words scrape on the way out, as if my own good judgement tried to block them.
 
@@ -4251,7 +4251,9 @@ If you want, next pass we can do **one more very Wardrobe thing**: insert a *sin
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ Coffee, Then Shade ✨
+
+
+[26-02-01]-[26-02-02]
 
 Happy Days, indeed 🥹🪡☕️ — and yes, you’re absolutely right: split them. Once you do, each movement gets to *land* instead of competing for oxygen.
 
@@ -4260,6 +4262,10 @@ Below are **Scene 36 (firmed)** and **Scene 37 (romance, after Sarah leaves)**, 
 ---
 
 **Scene 36 — “Coffee, Then Shade” (Celeste POV)**
+
+☕️ Coffee, Then Shade ☕️
+
+[Celeste]
 
 I invited Sarah the way you invite someone to a meeting you’re pretending isn’t a meeting.
 
@@ -4273,7 +4279,7 @@ Sarah had smiled without looking up from her stitching, all mouth and mischief.
 
 “I’m always sociable,” she'd said. “It’s the rest of you who are difficult.”
 
-Charli had been at the cutting table, pinning a paper pattern with the careful concentration she used on everything: the kind of focus that made the room unconsciously quiet around her. When Sarah spoke, Charli’s mouth twitched, like she wanted to laugh but didn’t know if laughing was permitted outside our home's safe zone.
+Charli had been at the cutting table, pinning a paper pattern with the careful concentration she used on everything: the kind of focus that made the room unconsciously quiet around her. When Sarah spoke, Charli’s mouth twitched, like she wanted to laugh but didn’t know if laughing was permitted outside our safe zone at home.
 
 I looked at her. Small nod.
 
@@ -4299,7 +4305,7 @@ When I came back, Sarah was leaning in, studying her with those thoughtful, rais
 
 “So,” she said, “how’s it feel? Holiday schedule. No Wardrobe. No Mara looming like a vengeful goddess.”
 
-Charli’s mouth curved. “Mara doesn’t loom,” she said carefully. “She... stands.”
+Charli’s mouth curved. “Mara doesn’t loom,” she said carefully. “She… stands.”
 
 Sarah laughed. “That’s the most Charli thing I’ve ever heard.”
 
@@ -4327,7 +4333,7 @@ I reached under the table and pressed my fingertips lightly against her knee for
 
 She blinked, then nodded with a quick little sigh. Sarah saw it—she always saw things—but she didn’t comment. She took a sip of her coffee and let the moment stay private.
 
-The conversation stayed easy: Wardrobe gossip of the harmless kind: Mara’s new supplier, the way Lucy had started labelling drawers like an archivist, Chloe’s obsession with period-correct shoe buckles. Sarah told a story about a tourist who’d asked whether the atelier women “actually knew how to sew,” as if they were a themed attraction rather than trained craftspeople.
+The conversation stayed easy. Wardrobe gossip of the harmless kind: Mara’s new supplier, the way Lucy had started labelling drawers like an archivist, Chloe’s obsession with period-correct shoe buckles. Sarah told a story about a tourist who’d asked whether the atelier women “actually knew how to sew,” as if they were a themed attraction rather than trained craftspeople.
 
 “I nearly put a needle in his hand,” Sarah said, eyes bright. “Just to watch male confidence meet physics.”
 
@@ -4365,9 +4371,9 @@ Charli kicked her shoes off at the door. Sarah followed, less sure, like she was
 
 “Shoes off,” she said. Then, softer: “The wood floor feels nice and cool.”
 
-That was Charli at home: not timid, not apologetic—just gracious. Practical: as s if it was her place to look after a guest. I handed Sarah a cold glass of water before she’d fully crossed the threshold. She took a long drink and made a sound that was half relief, half something like gratitude.
+That was Charli at home: not timid, not apologetic—just gracious. Practical: as if it was her place to look after a guest. I handed Sarah a cold glass of water before she’d fully crossed the threshold. She took a long drink and made a sound that was half relief, half something like gratitude.
 
-“Well then,” she said. “This is... civilized.”
+“Well then,” she said. “This is… civilized.”
 
 Charli’s mouth twitched.
 
@@ -4377,7 +4383,7 @@ Charli’s mouth twitched.
 
 Charli’s eyes flicked to mine — Wardrobe irony. I didn’t smile widely. I let myself smile enough.
 
-Charli moved through the kitchen like she belonged to it... not in the sexist way people mean when they say that, but in the way competence makes any space yours. She opened the fridge, assessed ingredients, pulled things out with the quick calm of someone who’d already made a plan before her hands moved.
+Charli moved through the kitchen like she belonged to it… not in the sexist way people mean when they say that, but in the way competence makes any space yours. She opened the fridge, assessed ingredients, pulled things out with the quick calm of someone who’d already made a plan before her hands moved.
 
 “Lunch?” I said, more question than command.
 
@@ -4391,19 +4397,19 @@ Sarah’s grin widened.
 
 “She’s efficient.”
 
-Charli’s shoulders dropped again, the brief tension leaving her like a coat sliding off.
+Charli’s shoulders dropped again, the brief moment of tension leaving her like a coat sliding off.
 
 Sarah sat at the counter and started tearing herbs without being asked. Charli slid the cutting board toward her and didn’t thank her like it was charity, just accepted the help. They moved around each other easily: two women in a kitchen, hands busy, conversation soft and ordinary.
 
 In Wardrobe, you always got the feeling Charli was perpetually doing her version of *enough*: enough to be useful, enough to not be a burden, enough to be allowed. Here, she did what she wanted because she wanted to.
 
-The difference was... everything.
+The difference was… everything.
 
 Lunch was simple and cold—salad, bread, something salty, fruit—chosen because when it’s hot that’s all you want: the sort of meal you make on a day when the world is too hot to be clever. We ate at the table near the coolest part of the room. Charli sat with one leg tucked under her without thinking. Her laugh came easily now. Her gaze met mine without flinching.
 
 Sarah watched it all with the quiet attention she used on seams.
 
-After lunch I nearly did the polite thing—sent Sarah back into the heat. Then my phone pinged: heatwave peak, trams crawling, avoid travel. I wanted her to stay; the world gave me permission. I looked at Sarah, who had collected her purse.
+After lunch I nearly did the polite thing—sent Sarah back into the heat. Then my phone pinged: heatwave peak, trams crawling, avoid travel. I wanted her to stay; the world gave me permission. I looked at Sarah—who had already collected her purse—and shook my head.
 
 “No,” I said, before she could begin.
 
@@ -4419,11 +4425,11 @@ We settled into the lounge where the air was coolest. Outside, sunlight was whit
 
 Conversation drifted. It had room to drift. That was the gift of not being at work—machines silent, nobody measuring you, no rules about what you were allowed to feel. Sarah stretched her legs out and sighed.
 
-“This,” she said, gesturing vaguely at the room, the cold air, the quiet, “is delicious.”
+“This,” she said, gesturing vaguely at the room, the cold air, the quiet, her drink, “is delicious.”
 
 Charli smiled, small.
 
-“It’s... quiet,” she said, is if noise were an assault.
+“It’s… quiet,” she said, as if noise were an assault.
 
 Sarah’s gaze flicked to her.
 
@@ -4431,35 +4437,123 @@ Sarah’s gaze flicked to her.
 
 There was a pause, the kind that pulls tight without anyone touching it. Sarah’s fingers turned her glass a fraction. She looked at me, then—carefully—back at Charli.
 
-“I didn’t realise at first,” she said. “I mean, I didn’t realise how quickly it clicked—for all of us.”
+Sarah’s gaze held on Charli for a moment longer than politeness required, as if she were checking a hemline for strain. Then she looked at me: not accusing or teasing. Measuring.
 
-Charli’s fingers tightened around her water glass. Words mattered. I kept my face neutral: 
+“Right,” she said. “I’m going to say something and you’re not allowed to make it dramatic.”
 
-*You can talk. You’re not on trial.*
+“I don’t do dramatic,” I said automatically.
 
-Sarah exhaled.
+Sarah’s mouth twitched. “That’s what you tell yourself.”
 
-“The first week,” she said, “Lucy clocked it before any of us had words for it.”
+Charli’s fingers tightened around her glass. I kept my face neutral, the way you do when someone is about to name the thing you’ve been skirting for months. Sarah exhaled slowly, as if she’d made a decision.
 
-Charli’s eyes widened slightly. Not offended. More like: *How?*
+“I didn’t realise at first,” she said, “how quickly it clicked—for all of us. Not as a single moment. More like… weeks of little moments. Enough small tells that your brain stops arguing with itself.”
 
-Sarah shrugged.
+Charli’s eyes flicked up. Listening.
 
-“That’s just Lucy. She sees patterns. It’s annoying.”
+“The first week,” Sarah went on, “Lucy clocked it before any of us had words for it.”
 
-Charli huffed a laugh. Sarah continued, slow and careful, like she’d learned from Mara how to tell the truth without making it theatre.
+“Clocked what?” As soon as it was out, I realised I’d asked a rhetorical question. We both looked at Charli, who made a tiny sound and looked down in bewilderment.
 
-“It certainly wasn’t your clothes,” she said to Charli, “or your voice, although—sorry—your voice did shift a bit when you stopped trying to do the... ‘boy’ thing.”
+“*How?*” she finally managed.
 
-Charli blushed. I watched her start to fold inward, and I cut it off gently.
+Sarah shrugged. “That’s just Lucy. She sees patterns. It’s annoying.”
 
-“Stop,” I said simply. “In this house, you don’t shrink.”
+I waited. My throat felt tight, like it knew what was coming before I did.
 
-Charli went still. Then with a sigh, nodded, the way someone nods when truth lands. Sarah’s mouth softened. She glanced at me for half a second—relief flickering—then kept going.
+“It wasn’t your clothes,” Sarah said to Charli. “Or your voice—though, sorry, your voice did shift a bit once you stopped trying to do the whole ‘boy’ thing.”
 
-“It was your adaptability,” Sarah said. “You moved like you didn’t want to take up space—like you’d lived with eyes on you. Like you’d picked up that girl-kind of caution—before you even had words for it.”
+Charli’s cheeks went pink. I saw the reflex—the inward fold—and I cut it off gently.
 
-Charli stared at her water.
+“Stop,” I said. “In this house, you don’t shrink.”
+
+Charli went still. Then nodded once, like truth landing. Sarah glanced at me—brief, relieved—then continued, softer.
+
+“It was the way you moved,” she said. “The way you watched exits. The way you made yourself small without being asked. That girl-kind of caution. And the way you were always… managing yourself. Like being noticed cost you something.”
+
+Charli stared at her water as if it might tell her what to say.
+
+Sarah’s fingers turned her glass a fraction on the coaster. One small circle. Another. When she spoke again, her voice was ordinary. That was the trick: she was making the truth safe by refusing to make it theatrical.
+
+“So we did what women do,” she said. “We tested.”
+
+I blinked. “Tested?”
+
+Sarah nodded. “You know: little things. Not mean. Not humiliating. Just… practical.”
+
+She ticked them off on her fingers, as if she were listing stock.
+
+“Can she hear ‘no’ without sulking? Can she take a joke without turning it into punishment? Does she stare? Does she try to get access and then act entitled to it? Does she go quiet in that way men do when they’re angry but want you to work out why?”
+
+Charli’s shoulders lowered by a millimetre with each one—not because she was being accused, but because she recognised the world these questions came from.
+
+“And she didn’t,” Sarah said simply. “She didn’t do any of it. She just… kept trying to be good. Kept trying to be useful. Kept apologising for taking up oxygen.”
+
+Her eyes shifted to Charli then, and her irritation softened into something almost protective.
+
+“The girl kept calling out to us,” Sarah said. “We couldn’t say no.”
+
+The room went quiet around that sentence. Even the aircon sounded distant.
+
+Sarah cleared her throat as if she’d accidentally shown too much. She looked back at me.
+
+“And before you ask,” she said, “yes. We kept it from you.”
+
+There it was: clean as a cut. I held her gaze, because I wasn’t going to flinch out of pride.
+
+“Why?” I asked, and I kept my voice level. Public-Celeste, still. Even here. Sarah didn’t hesitate. 
+
+“Because we didn’t know what you’d do with it.”
+
+I felt my spine straighten. “I wouldn’t have—”
+
+“I know,” she said, quick, not unkind. “That’s not what I mean.” She searched for the exact angle of it, like lining up a seam. “You’re perceptive, Celeste. But you’re also a force. You decide things. You name things. And for months you were keeping your distance.”
+
+“I was trying not to intrude.”
+
+“And in your head,” Sarah replied, “that was respectful.” Her gaze didn’t waver. “In the room,” she said, “it looked like indifference.”
+
+The word stung because it wasn’t cruel. It was accurate. It was what someone would conclude if they didn’t have access to my motives. Sarah exhaled.
+
+“So we built the net quietly,” she said. “Around her. Not around you. Because she was the one shrinking, and you weren’t. We didn’t want her to have to carry the fight. And we didn’t want her to start performing for you—trying to be what you expected—before she even believed she belonged.”
+
+I swallowed. “And Lauren?”
+
+Sarah’s mouth tilted. “Lauren protects with policy. With rules. With ‘official.’ We love her for it, but Charli didn’t need official first. She needed… ordinary. Safe. Boring.”
+
+Charli’s fingers unclenched from her glass as if the word *boring* was permission. Sarah’s voice gentled, just a fraction.
+
+“And yes,” she added, like she was placing something fragile down between us, “we were also… watching you. A bit.”
+
+I didn’t move. I let her say it.
+
+“Not because we thought you were evil,” Sarah said. “Because power can be dangerous without meaning to be. And you were keeping her at arm’s length, and none of us could tell whether that was boundaries… or disinterest.”
+
+My mouth went dry. Across the room, Charli made a sound—barely there. A small inhale. Sarah looked at her. Then, carefully, back to me.
+
+“So we didn’t tell you,” she said. “We waited. We watched. We tiptoed.”
+
+The word made something click in my head—Sarah’s earlier line, *we can finally stop tiptoeing*—and suddenly the months rearranged themselves into a shape I could see.
+
+“And then,” Sarah continued, “you said ‘wife’, like it slipped out before you could polish it.”
+
+Charli’s cheeks coloured again. Not embarrassment this time—something tender, private. Sarah smiled despite herself.
+
+“And the room went—” She made a little exhale, almost a laugh. “Whew. We can finally stop tiptoeing. Because that wasn’t you being indifferent. That was you choosing.”
+
+My throat tightened. I hated how much I wanted to argue. I hated more that I couldn’t. I forced my voice steady.
+
+“So you started calling her ‘she’.”
+
+Sarah nodded. “Not as a declaration. It just… happened. Quietly. Where it was safe.”
+
+Charli’s eyes lifted to mine for a second, then dropped again. A confession without words. She’d been living it. Not only thinking it. Not only hoping it. Living it—here, with them—while I was still holding myself outside the net, calling it ethics.
+
+The hurt arrived—not rage, not drama. Something cleaner and worse: *Why wasn’t I safe enough to be told?*
+
+“It was your adaptability,” Sarah said to Charli. “You moved like you didn’t want to take up space—like you’d lived with eyes on you. Like you’d picked up that girl-kind of caution—before you even had words for it.”
+
+Charli stared at her glass.
 
 “That sounds…” she began.
 
@@ -4477,7 +4571,11 @@ Charli looked up. I looked up too. Sarah met my eyes.
 
 “We did it the way Mara does,” she said. “No fanfare. So Charli didn’t have to carry the fight.”
 
-Charli’s throat moved. She swallowed. The weight of this revelation sat in the room like a stone. Sarah went on:
+Charli’s throat moved. She swallowed. I watched it register on Charli’s face: not shame or sadness, but something like recalibration. She’d been carrying her safety as if it were luck: a series of kind accidents she didn’t deserve to trust.
+
+Now she could see the structure beneath it. Not improvisation: Wardrobe. The same quiet competence the room ran on every day: small choices, aligned; hands moving without announcement; a system built to hold. A net, made on purpose, by women who didn’t ask permission to protect one of their own. 
+
+Sarah went on:
 
 “Charli was already carrying enough,” she said. “And because—look—some people correct a pronoun like it’s public property. They turn it into a performance. They make the person the stage.”
 
@@ -4491,23 +4589,23 @@ Charli’s eyes went glassy. She blinked hard and looked away. I leaned forward,
 
 Sarah shrugged, uncomfortable with praise.
 
-“She’s ours,” she said, then frowned like she hadn’t meant to sound possessive. “I mean—Wardrobe’s. The workroom.”
+“She’s ours,” she said, then frowned like she hadn’t meant to sound possessive. “I mean… Wardrobe’s. The workroom.”
 
-Charli looked back at her, eyes wide, and then—very slowly—smiled. Not small this time. Not careful. Just... real. Sarah watched her and softened further, heat making her lazy, aircon making her plucky.
+Charli looked back at her, eyes wide, and then—very slowly—smiled. Not small this time. Not careful. Just, real. Sarah watched her and softened further, heat making her lazy, aircon making her plucky.
 
-“And... Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.” I held her gaze.
+“And… Celeste,” she added, voice dropping, “just so you know, it wasn’t pity. None of it was.” I held her gaze.
 
-“I didn’t think it was,” I said.
+“I didn’t think it was.”
 
-Sarah let out a breath, relieved I hadn’t misread her.
+Sarah let out a breath, relieved I hadn’t misread her. She gave a quiet little huff.
 
-“It was... irritation,” she admitted—and the word was so Sarah it made Charli laugh.
+“Actually, it was… irritation.” The word was so Sarah it coaxed a laugh from Charli.
 
 “Irritation?” Charli echoed.
 
 “Yes,” Sarah said, fierce and amused. “Because you kept doing that thing where you apologised for existing. And it was, quite honestly, rude. Like you didn’t trust us to be there for you.”
 
-Charli’s face went pink.
+Charli’s face went pink again.
 
 “I didn’t—”
 
@@ -4515,13 +4613,11 @@ Sarah lifted a hand, cutting her off gently.
 
 “I know,” she said. “You were surviving. But still. It made Lucy want to shake you.”
 
-Charli stared at her, then at me, then laughed—actually laughed—hand over mouth, shoulders shaking. Not fragile laughter. Not relief that could snap. Joy. 
+Charli stared at her, then at me, then laughed—actually laughed out loud—hand over mouth, shoulders shaking. Not fragile laughter. Not relief that could snap. Joy. 
 
-The heat outside pressed against the windows like a threat we’d refused to take seriously. Inside, the air was cool. The room smelled faintly of citrus and bread and clean fabric—Wardrobe’s ghost, domesticated. Sarah leaned back, satisfied, and took a slow sip of her drink.
+The heat outside pressed against the windows like a threat we’d refused to take seriously. Inside, the air was cool. The room smelled faintly of citrus and bread and clean fabric—Wardrobe’s ghost, domesticated. Sarah leaned back, thoughtful, and took a slow sip of her drink.
 
-“You know, you’re different here,” she said to Charli. Charli glanced at me before she answered—not for permission, for orientation, like a compass checking north.
-
-When she spoke, her voice was quiet. Certain.
+“You know, you’re different here,” she said to Charli. Charli glanced at me before she answered—not for permission, for orientation, like a compass checking north. When she spoke, her voice was quiet. Certain.
 
 “I don’t have to be careful here.”
 
@@ -4550,7 +4646,7 @@ Sarah left when the light outside started to soften—when the worst of the heat
 
 She stood at the door with her bag slung over one shoulder, hair slightly frizzed from the day, cheeks flushed from the drink and the talking and the sheer luxury of not being in Wardrobe for a few hours. She looked happier than she would ever admit to being.
 
-“This was...” she began, then stopped, as if complimenting my home might count as sentiment.
+“This was…” she began, then stopped, as if complimenting my home might count as sentiment.
 
 “Civilised,” I offered.
 
@@ -4586,13 +4682,13 @@ Charli finally turned, and her expression was so carefully blank it was almost f
 
 “Okay?” I echoed.
 
-She nodded once. “She didn’t... it wasn’t weird.”
+She nodded once. “She didn’t… it wasn’t weird.”
 
 “No,” I said. “It wasn’t.”
 
 The words came out fast, as if she could only say them if she didn’t look too closely.
 
-“I know it wasn’t a performance,” she said. “But it felt like... like I was under a microscope. Watched.”
+“I know it wasn’t a performance,” she said. “But it felt like… like I was under a microscope. Watched.”
 
 Her voice cracked on the last word. She looked away immediately, ashamed of needing reassurance in her own home.
 
@@ -4602,7 +4698,7 @@ I moved close enough that my presence changed the air around her.
 
 Charli’s eyes flicked to mine.
 
-“Watched is appraisal,” I went on. “Hunting for error. Witnessed is... someone seeing you and staying.”
+“Watched is appraisal,” I went on. “Hunting for error. Witnessed is… someone seeing you and staying.”
 
 Her throat moved.
 
@@ -4628,7 +4724,7 @@ I smiled—slow, steady.
 
 Charli’s mouth opened, then shut again. She tried to name something concrete, like she could pin the feeling to a task.
 
-“I... made lunch.”
+“I… made lunch.”
 
 “You directed lunch,” I corrected. “You sat us down like you owned the kitchen.”
 
@@ -4644,7 +4740,7 @@ Charli blinked hard. Her eyes went glossy, and for a second she looked like she 
 
 Then she swallowed and said, small and honest:
 
-“It felt like... if I messed it up, it would spill back into work.”
+“It felt like… if I messed it up, it would spill back into work.”
 
 Ah.
 
@@ -4680,7 +4776,7 @@ Charli’s voice was muffled against me.
 
 “Do what?”
 
-“Be... like this,” she said. “And have someone be this... with me. And not feel like I have to apologise.”
+“Be… like this,” she said. “And have someone be this… with me. And not feel like I have to apologise.”
 
 I kissed the top of her head, and something in me softened so much it unsettled me—because it wasn’t just tenderness. It was decision.
 
@@ -4696,11 +4792,11 @@ Charli hesitated, and I watched the internal debate move across her face: the ol
 
 Then she whispered, almost accusing—almost undone by the audacity of it:
 
-“You were... different today.”
+“You were… different today.”
 
 I raised a brow. “Was I?”
 
-“Yes.” Her gaze dropped to my hand at her waist, then back up. “You weren’t... work-you.”
+“Yes.” Her gaze dropped to my hand at her waist, then back up. “You weren’t… work-you.”
 
 “That’s because I wasn’t at work.”
 
@@ -4710,7 +4806,7 @@ I waited. Let her find it. Let her learn there was no penalty for wanting langua
 
 Charli’s voice went smaller.
 
-“You... liked having her see.”
+“You… liked having her see.”
 
 The heat that bloomed low in my belly had nothing to do with the weather.
 
@@ -4734,7 +4830,7 @@ Not of me.
 
 Of being wanted.
 
-“You want... me?” she whispered.
+“You want… me?” she whispered.
 
 I felt the words scrape on the way out, as if my own good judgement tried to block them.
 
