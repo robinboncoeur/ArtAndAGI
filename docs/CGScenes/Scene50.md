@@ -1,4 +1,4 @@
-# Scene 43
+# Scene 50
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -271,9 +271,9 @@
 
 /-->
 
-
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -282,306 +282,293 @@
 
 
 ## Notes26-01-23e
-### Scene 50
+### Scene 46
 
 <img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-01-23]
 
-**Scene 50 — “Where It’s Safe” (Celeste POV)**
+**Scene 46 — “Daylight” (Lauren POV)**
 
-Charli came home like someone returning to a house after nearly losing it.
+Morning always tells the truth.
 
-Quiet. Careful. Eyes too bright, posture a fraction too controlled. She took her shoes off by the door with obsessive neatness, as if straight lines could prevent mistakes. She hung her bag on the hook and stood there for a second too long, hands hovering, waiting for permission the way she used to.
+Night can be anything—fear, adrenaline, loneliness dressed up as clarity. Night makes people reach for whatever feels like a handrail.
 
-I watched her from the kitchen.
+But morning… morning is where you find out whether the handrail is still wanted when the floor is stable again.
 
-Not hidden. Not testing.
+I woke before Sarah did, because mothers don’t sleep well after danger. Even when the danger is gone, your body keeps listening for it like an animal.
 
-Just… observing the new shape of her caution.
+The apartment was quiet in the clean way it gets quiet when someone safe is asleep in the next room.
 
-“Hi,” I said.
+I lay still on the couch for a moment and listened.
 
-Charli’s gaze snapped to mine with a kind of hungry relief that she tried to swallow back immediately.
-
-“Hi,” she whispered.
-
-She didn’t move toward me.
-
-That was the first sign she’d understood.
-
-Not “I’m in trouble.”
-
-Not “I’m unworthy.”
-
-But: *this matters enough to protect.*
-
-I set two mugs on the table, poured tea, and kept my movements ordinary on purpose. Normality is a signal. It tells the body: no danger here.
-
-Charli came to the table and sat in the chair opposite me like she was afraid the space between us was an exam.
-
-She folded her hands in her lap.
-
-Her eyes didn’t linger on my mouth.
-
-Her shoulders didn’t soften the way they had last night.
-
-She was trying so hard to be careful that she’d turned careful into distance.
-
-I let her sit in that for a moment. Let her prove she could.
-
-Then I said, gently, “You can look at me.”
-
-Charli blinked, startled—as if she’d been caught doing something wrong in reverse.
-
-“I—” she began.
-
-“Charli,” I said, calm. “Looking is allowed.”
-
-Her eyes lifted slowly to my face. They were still red-rimmed from the day, but steadier now. Present. Listening.
-
-“I’m proud of you,” I said.
-
-The sentence did something to her. Her breath caught. Her chin trembled once, just once, before she contained it.
-
-“I messed up,” she whispered.
-
-“Yes,” I said. “And then you learned.”
-
-Charli swallowed. “I didn’t… I didn’t understand. Not really. I thought—” She stopped, frustrated, then tried again. “I thought it was… little. Just… us.”
-
-“It was us,” I said quietly. “And it was also a room full of women who have paid for men’s stories about them.”
-
-Charli nodded, small and precise, like she was writing it into her bones.
-
-“I saw Sarah,” she murmured. “When she looked. Not… angry. Just…” She searched. “Alert.”
-
-“Yes,” I said.
-
-“And Mara,” Charli added, and the name came out with a little shiver of respect. “Mara didn’t even need to say anything.”
-
-“No,” I agreed. “Mara is a boundary with legs.”
-
-Charli made a tiny sound that might have been a laugh if she’d allowed herself more oxygen.
-
-I waited until her shoulders lowered a fraction. Then I placed my hand on the table—palm up. Not reaching for her. Offering.
-
-Charli’s eyes dropped to my hand like it was a doorway.
-
-Her throat moved.
-
-She didn’t take it.
-
-Not yet.
-
-“Remember what I said,” I murmured. “Careful doesn’t mean distant.”
-
-Charli’s eyes flicked up to mine, questioning. Worry threaded through her expression.
-
-“What if I—”
-
-“You won’t,” I said, and the certainty in my voice made her go still. “Because now you understand.”
-
-Charli exhaled shakily.
-
-Then—slowly, as if approaching a skittish animal—she lifted her hand from her lap and placed her fingertips into my palm.
-
-The contact was so light it barely registered as pressure.
-
-It registered as *trust.*
-
-Her touch was even gentler than last night, if that was possible—like she was handling something fragile and beloved.
-
-My chest tightened in a way I didn’t fight.
-
-“Like this?” she whispered.
-
-“Yes,” I said, and my voice came out softer than I intended. “Exactly like this.”
-
-Charli’s thumb moved once across my palm—one careful stroke—and then stopped, waiting for the rule.
-
-I let my fingers curl around hers.
-
-Not tight.
-
-Not claiming.
-
-Answering.
-
-Charli’s breath hitched, and this time she didn’t apologise for it. She simply let the feeling exist.
+No coughing. No restless pacing. Just Sarah’s breathing, deep and steady through the cracked door.
 
 Good.
 
-I drew her hand up slowly and pressed my lips to her knuckles.
+I made tea first, because boiling water is a kind of prayer: something you do with your hands while your mind measures the day.
 
-It wasn’t sexual. It wasn’t dramatic.
+Toast followed. Not because toast is magic, but because it’s non-threatening. It’s what you feed someone when you want them to feel cared for without feeling managed.
 
-It was… reverent.
+While the kettle worked, I checked my phone.
 
-Charli made a small sound in her throat that nearly broke me.
+No new messages from the venue. No update from the building manager. No fresh nonsense from a blocked number.
 
-Her eyes shone. She blinked hard and held on.
+Still, I made a note to myself: **encourage medical check**. Not because I wanted to escalate things into drama, but because women don’t get to rely on luck.
 
-“Celeste,” she whispered.
+I heard a shift from the bedroom—sheet rustle, a small exhale, the sound of someone waking and trying to decide if they’re in a place that’s allowed.
 
-“Yes,” I replied.
+Then the door opened.
 
-“I… I want to be good at this,” she said, the words careful but urgent. “At… us. I don’t want to hurt you. I don’t want to hurt Wardrobe.”
+Sarah stood in the doorway in my spare t-shirt, hair a mess, eyes narrowed like she was judging the light for being too cheerful.
+
+She looked… human.
+
+Which, for Sarah, is an intimate state.
+
+She didn’t step all the way in. She stayed on the threshold like she might still bolt out of politeness.
+
+“Morning,” she said, voice rough.
+
+“Morning,” I replied. “Water first.”
+
+She made a face that was half annoyance, half obedience, and came to the kitchen.
+
+I poured her a glass and handed it over without ceremony.
+
+Sarah took it with both hands and drank like someone who’d been taught, at some point, to trust procedure.
+
+Remembering it now.
+
+When she finished, she set the glass down and glanced at the toast.
+
+“Are you trying to make me a Victorian invalid,” she muttered.
+
+I let my mouth twitch. “Yes. It’s my long-term plan.”
+
+Sarah huffed a laugh—small, but real—and slid onto the chair by the window.
+
+Not the couch.
+
+The chair.
+
+Distance maintained.
+
+Control reclaimed.
+
+Good.
+
+I placed the toast in front of her and sat opposite, keeping my posture relaxed, my voice ordinary.
+
+“How’s your head?” I asked.
+
+Sarah grimaced. “Like someone’s rewired it badly.”
+
+“Fair,” I said. “Nausea? Dizziness?”
+
+“Less,” she admitted. “Still… wrong. But less.”
+
+I nodded, filing it.
+
+“I’d like you to get checked today,” I said gently. “Even if it’s just a GP. Blood pressure, basics. If you think someone put something in your drink—”
+
+Sarah’s eyes sharpened. Instantly defensive.
+
+“I don’t *know* they did,” she said.
+
+“I know,” I replied. “You don’t have to prove it. You only have to take care of your body.”
+
+Sarah stared at the toast like it had offended her.
+
+Then, quietly: “Okay.”
+
+Not “fine.”
+
+Not “whatever.”
+
+Okay.
+
+A second “okay” in less than twelve hours.
+
+That was… notable.
+
+I didn’t push. I didn’t turn it into a lecture. I let it sit like a small win.
+
+For a minute, the only sound was her chewing and the kettle cooling, the familiar domestic noises that make a life feel possible.
+
+Then Sarah cleared her throat.
+
+Here it comes, I thought. Pride.
+
+And it did.
+
+“I’m sorry,” she said, automatically. Fast, as if she could throw it at the floor and move on.
+
+I looked at her, calm.
+
+“No,” I said. “Not that.”
+
+Sarah’s jaw tightened. “Lauren—”
+
+“No,” I repeated, not unkind. “You don’t apologise for being in danger. You don’t apologise for calling someone. You did the correct thing.”
+
+Sarah’s eyes flicked up to mine, then away. The smallest hint of colour climbed her cheeks—anger at being seen, probably.
+
+“I hate needing help,” she said.
 
 “I know,” I said.
 
-Then I said the part she needed, the part she’d be too afraid to ask for.
+That was all. No pep talk. No insistence.
 
-“And you didn’t,” I added. “You created risk. We corrected it. That’s what adults do.”
+Just acknowledgement.
 
-Charli’s shoulders eased, the tension turning into something softer, more livable.
+Sarah took another bite of toast, slower now, as if her body was remembering it could accept care without owing anything in return.
 
-I stood and held my hand out again.
+She swallowed. Then, after a pause that felt like a door opening by a millimetre, she said:
 
-“Come here,” I said.
+“I remember what I said last night.”
 
-Charli rose immediately—obedient reflex—then checked herself, slowed down, as if remembering she was allowed to want without rushing.
+My chest went very still.
 
-She came to me and stopped just within reach, waiting.
+I kept my face calm.
 
-I placed my hands lightly at her waist and guided her closer. The pressure was minimal. The intention wasn’t.
+“Yes,” I replied, careful. “Me too.”
 
-Charli’s hands hovered near my ribs, careful, as if she was afraid to touch the wrong place.
+Sarah’s fingers tightened around the mug I’d given her, knuckles whitening slightly. She didn’t drink. She just held it like an anchor.
 
-I took her left hand and placed it gently on my shoulder.
+“I meant it,” she said, voice low.
 
-“Here,” I said.
+The words were simple, but Sarah saying *I meant it* was… enormous.
 
-Then I took her right hand and placed it at my waist.
+Because Sarah doesn’t say anything she can’t defend in court.
 
-“And here.”
+My pulse quickened. I didn’t move closer. I didn’t rush.
 
-Charli’s fingers curved, tentative at first, then steadier as she felt I wasn’t going to pull away.
+This had to stay clean. Proper.
 
-Her touch was… exquisite.
+“I’m glad,” I said softly.
 
-Not because it was skilled.
+Sarah looked up then, properly, meeting my eyes.
 
-Because it was pure. Because it carried no entitlement. No demand. Just devotion and awe and careful joy.
+Her expression wasn’t soft. Sarah wasn’t suddenly a different person.
 
-I leaned down and kissed her again, slow and clean.
+But something in her gaze had changed.
 
-Charli responded immediately, softening into it like she’d been thirsty and didn’t know it.
+Less armour.
 
-Her hands tightened a fraction at my waist—still gentle, but certain now—and I felt my body go warm in a way that had nothing to do with sex and everything to do with being wanted safely.
+More decision.
 
-I broke the kiss and rested my forehead against hers.
+“It wasn’t just because I was scared,” she said, as if she resented the need to clarify it. “I mean, I *was* scared. But that’s not why I—”
 
-“Tonight,” I murmured, “you don’t have to be careful like you’re handling glass.”
+She stopped, frustrated with language.
 
-Charli’s breath trembled. “But I—”
+I waited.
 
-“You can be careful in the right way,” I said. “Careful like you are with fabric you love. You don’t avoid it. You learn it.”
+She exhaled sharply, then said it in the most Sarah way possible—like she was stating a fact she’d verified twice:
 
-Charli nodded, eyes wet.
+“I wanted you to come.”
 
-“Yes,” she whispered. “I can do that.”
+The sentence landed in the kitchen like a bell.
 
-I guided her to the couch.
+I felt warmth rise through me—quiet, steady—and I held it there, contained. Not because I wanted to hide it, but because Sarah would recoil if I made her the centre of a romantic spectacle.
 
-We sat close, hips touching, shoulders touching, and I pulled a blanket over both of us, not because we were cold but because the weight of it made the world smaller.
+“I did come,” I said. “Every time you call, I’ll come.”
 
-Charli hesitated, then leaned into me.
+Sarah’s eyes narrowed. “That’s not what I’m asking.”
 
-Her head found my shoulder like it belonged there.
+I blinked once.
 
-Her arm slid around my waist, cautious at first, then settling as my body welcomed it.
+“No,” I agreed, and let my voice soften a fraction. “It isn’t.”
 
-I kissed the top of her head.
+Sarah sat very still, as if her body had decided that moving might make the moment break.
 
-Charli’s breath shuddered, and she whispered, barely audible, “This is safe.”
+Then she said, with a kind of blunt honesty that nearly undid me:
 
-“Yes,” I said.
+“I don’t know what to do with it.”
 
-She shifted slightly, turning her face toward my neck, and I felt the faint brush of her lips against my skin—more like a question than an act.
+I nodded.
 
-I answered by tipping my head gently, giving her access without words.
+“That’s okay,” I said. “We don’t have to do anything dramatic.”
 
-Charli kissed me again, still careful, still sweet, and her hand—her unbelievable hand—traced a slow line along my forearm.
+Sarah’s mouth twitched. “Your obsession with boring is unbearable.”
 
-Bliss arrived in my body like a quiet flood.
+“It works,” I replied.
 
-Not fireworks.
+She held my gaze, and in that look I saw it: the beginning of the same thing I’d been carrying for years.
 
-Not urgency.
+Not as a lightning strike.
 
-A deep, easing warmth, the kind you feel when something inside you stops bracing.
+As a slow, inevitable shift of gravity.
 
-I held her there, letting myself want without fear, letting the floodgates stay open because the river had found its proper bed.
+Sarah wasn’t reaching for me as a mother.
 
-After a while, Charli whispered, “I won’t do it at work again.”
+She was reaching for me as… me.
 
-“I know,” I said.
+A woman.
 
-“And if I forget,” she added quickly, anxiety flaring, “if I get… carried away—”
+A possibility.
 
-I turned my head and kissed her temple.
+The realisation didn’t make me giddy. It made me careful.
 
-“Then I will correct you,” I said. “And you will learn again. That’s what this is.”
+Because if Sarah was beginning to feel it, she’d be terrified of it. Not because she was ashamed of women—Sarah didn’t do shame that way.
 
-Charli went very still, then nodded against my shoulder.
+But because wanting someone meant giving them leverage.
 
-“Yes,” she breathed, and something in her softened—something old, something frightened.
+And Sarah hated leverage.
 
-A girl learning that love doesn’t vanish because you make one mistake.
+I stood and rinsed a plate to give my hands something to do.
 
-A girl learning that consequences aren’t rejection.
+When I turned back, Sarah was watching me.
 
-They’re care.
+Not suspicious.
 
-We stayed like that for a long time: no talking, no plans, no big declarations.
+Just… present.
 
-Just touch.
+“You can go home whenever you want,” I said gently. “No pressure. No expectations.”
 
-Hands. Breath. Quiet kisses.
+Sarah’s eyes flicked to the hallway, to the door, to the light on the counter.
 
-A woman letting herself be held.
+Then back to me.
 
-A girl discovering that her gentleness wasn’t a liability—it was the very thing that made her irresistible.
+“I know,” she said.
 
-And when Charli finally drifted toward sleep, curled against me with her fingers still resting lightly on my wrist as if she couldn’t bear to lose contact entirely, I stared into the dim room and felt the calm settle into place.
+A pause.
 
-Wardrobe was safe.
+Then: “Can I stay a bit longer?”
 
-Charli was safe.
+The request was quiet, but it was the most intimate thing she’d said all morning.
 
-And here, in the private hush of our home, where no one could turn tenderness into gossip or leverage, love was allowed to be what it wanted to be:
+My chest tightened.
 
-soft.
+“Yes,” I said simply. “Of course.”
 
-steady.
+Sarah exhaled, a long breath that sounded like surrender—not to me, but to the fact that she wanted what she wanted.
 
-and growing.
+I poured more tea, because tea is what you do when you’re making a new shape of life.
 
+And as Sarah sat at my kitchen table in my spare t-shirt, eating toast like it was a contract she hadn’t yet signed, I felt the truth settle more firmly inside me:
 
+This wasn’t a night thing.
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+This wasn’t fear.
 
+This wasn’t rescue.
 
-So, what you don't see in that first image are the undergarments: dollars to donuts she's wearing stays. The second is classic Flux (dimpled chin) and yeah: Flux doesn't know about the chemise, which the first girl was wearing (layers: drawstring chemise; stays; overdress) so it does the lacey square neckline. I'm not sure, but your third girl (painting?) looks like Regency. And Stable Diffusion, bless its pointy little head, missed it by centuries: very Henry VIII. Again, the girl in green isn't wearing a chemise with stays... she's wearing a coset dress with a lace square neckline. Pretty, but it says "costume". 
+This was daylight.
 
-Kontext has the overdress shape sort-or right but no chemise, again.
+And Sarah, inconvenient and sharp and brave, was beginning to reach for me on purpose.
 
-I ran the next girl image (outside, bonnet, book) by Emily... I was guessing Regency. Emily replied:
+Properly.
 
-Yes — Regency / late Georgian is the right call 😊
-What you’ve got here is very “Jane Austen era,” roughly 1805–1818 (give or take a few years):
-High empire waist sitting just under the bust
-Long, slim skirt that falls straight rather than bell-shaped
-Narrow shoulders with only modest puffing (not the huge gigot sleeves of the 1830s)
-Bonnet with ties that fits the early-19th silhouette beautifully
 
-So: Regency (early 19th century) rather than Victorian, and definitely not the 1830s+. 
 
+Yes. This is *exactly* the right kind of blossom for them: **touch as truth**, not sex as plot device. And the “workplace slip” is *perfect* because it lets you prove (again) that Wardrobe’s safety isn’t vibes — it’s **standards**, and standards have consequences even when the love is real. 💛🧵
 
+Below is a clean run of **three scenes** that do what you’ve asked:
 
-
-
+* **Scene 47 (Celeste POV):** floodgates open by accident — Charli’s touch is revealed as *unbearably* gentle; Celeste wants more.
+* **Scene 48 (Celeste POV):** Charli slips at work (small, “innocent,” but unsafe), and the risk becomes real.
+* **Scene 49 (Celeste POV):** consequences — not cruelty, not punishment theatre: *structure*. Celeste leads, sets boundary, and re-anchors Wardrobe’s safety. Charli learns.
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

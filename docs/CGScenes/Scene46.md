@@ -1,277 +1,259 @@
-# Scene 43
+# Scene 46
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
+## Notes25-01-05??
 
-<!--
+<img src="/assets/images/notes26a/N260116ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+**Scene 42 — “Carl” (Sarah POV)**
 
+The annoying thing about having a small awakening is that the world doesn’t stop to let you process it.
 
+Bree and Lily glow their way through Wardrobe like a private weather system, and then the next minute you’re back to pinning hems and pretending you didn’t just witness a version of happiness that made your stomach do a weird, traitorous little flip.
 
-## z
-### zz
+I tried to file it under **Not My Problem**.
 
-<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+It didn’t stay filed.
 
-✨ The Brush ✨
+For the rest of the week, I kept catching myself watching them—tiny touches, shared looks, that relaxed certainty between them. Not performative. Not defensive. Not asking permission.
 
+Just… two women who were done negotiating whether their wanting was valid.
+
+Every time I noticed it, I felt the same thought arrive, uninvited, like a notification you can’t swipe away:
+
+*That looks nice.*
+
+Which was a ridiculous thing to think, because I was in the middle of the Ethan aftermath and my nervous system still had that “every door might have a man behind it” edge.
+
+So, naturally, the universe offered me a man who was… fine.
+
+Not “fine” as in attractive. Fine as in: not a walking hazard. Not an entitled toddler in an adult body. Not a replacement-mum seeker.
+
+Fine as in: decent.
+
+His name was Carl.
+
+I met him on a Thursday in a way so ordinary it almost felt staged.
+
+The Faire had sent someone to check on the lighting in the small dressing corridor—the one that always flickered when the iron was on, the one Mara had been muttering about for days like it was a personal insult. We’d been told “an electrician” was coming. Which, in my experience, can mean anything from “competent professional” to “man who explains wires to women as if we’re newborn calves.”
+
+Carl walked in carrying a tool bag and a clipboard and the sort of calm that doesn’t feel like a performance.
+
+He paused at the threshold—not swaggering, not barging—and looked around like he was assessing the room the way you assess a dog: with respect.
+
+“Hi,” he said. “I’m Carl. I’m here for the corridor lights.”
+
+Lauren looked up. “Great. Thank you. It’s that corridor—second door on the right.”
+
+Carl nodded. “No worries. Is anyone using it right now?”
+
+The sentence was so innocuous that it took my brain a second to recognise why it felt… notable.
+
+He’d asked.
+
+He hadn’t assumed the space was his because he had tools.
+
+Lauren pointed. “We can reroute for ten minutes.”
+
+“Perfect,” Carl said, and he smiled in a polite, non-invasive way. “I’ll be quick.”
+
+He didn’t look at anyone’s body.
+
+He didn’t linger.
+
+He didn’t do the thing where men scan a room to see who might be impressed by them.
+
+He went to the corridor and started working.
+
+I found myself watching him, purely out of suspicion. Suspicion is my love language, unfortunately.
+
+Carl pulled the panel off, tested something, frowned—not dramatically, just thoughtfully.
+
+Then he called back into the room, voice normal.
+
+“Hey—who’s been running the iron off this circuit?”
+
+Mara didn’t look up. “We run everything off everything. Fix it.”
+
+Carl chuckled once—one of those quick, genuine laughs—and said, “Right. Okay. I’ll reroute. Give me five.”
+
+Mara grunted, which for Mara is basically a poem.
+
+Ten minutes later the corridor lights were steady. No flicker. No drama.
+
+Carl came back into the room, wiped his hands on a rag, and said to Lauren, “All done. I moved the iron load off the corridor. Should be stable now.”
+
+Lauren nodded. “Thank you.”
+
+Carl hesitated, then added, “If it flickers again, text the number on the work order. Don’t wait. It’s easier to fix early.”
+
+Again: *he asked*, *he explained*, *he gave a solution*, and then he stopped talking.
+
+It was… disconcerting.
+
+As he turned to leave, his gaze met mine for half a second. Not lingering. Not hungry. Just human.
+
+He gave a small nod.
+
+I nodded back, because I am not feral either.
+
+And then he said, as if he’d debated it and decided not to be weird:
+
+“Sorry—are you Sarah?”
+
+I froze, instantly.
+
+Men knowing my name without me giving it to them is a known trigger. A small one. But real.
+
+Carl clocked my stillness immediately.
+
+He lifted his hands slightly, palms open—not theatrical, just reflexively reassuring.
+
+“Bree mentioned you,” he said. “Only because I asked who handles the staff passes. She said you’re the one who knows where everything is.”
+
+Ah. Bree. Of course.
+
+I exhaled slowly, annoyed at my own body for being so quick to brace.
+
+“What did she tell you,” I said, dry.
+
+Carl’s mouth twitched. “That you’re terrifying,” he said, equally dry. “And that if I needed anything, I should ask politely and leave you alone.”
+
+I snorted—an actual, involuntary sound—and felt, irritatingly, my shoulders loosen.
+
+“Well,” I said, “Bree’s not wrong.”
+
+Carl nodded like he’d just received a useful manual. “Good to know.”
+
+Then he did something genuinely rare.
+
+He didn’t push.
+
+He didn’t use that opening to wedge himself into my day.
+
+He simply added, “Anyway. Nice to meet you. I’ll get out of your way.”
+
+And he left.
+
+No lingering. No “maybe I’ll see you around.” No invitation snuck in under a joke.
+
+Just… gone.
+
+I stared after him for a moment, unsettled.
+
+Bree appeared beside me like a cat, grin already loaded.
+
+“You’re welcome,” she said.
+
+I glared. “For what.”
+
+“For Carl,” Bree said, smug. “He’s a nice bloke. I pre-approved him.”
+
+“You don’t get to pre-approve men,” I said.
+
+Bree shrugged. “I do when they’re harmless.”
+
+“Harmless men are a myth,” I muttered.
+
+Bree leaned closer, conspiratorial. “He bakes.”
+
+I turned slowly. “That’s not a personality.”
+
+“It’s a domestic competency,” Bree corrected. “Which, apparently, is your love language now.”
+
+I rolled my eyes so hard I nearly saw my own brain.
+
+“Stop trying to set me up,” I said.
+
+Bree’s grin widened. “I’m not. He asked about you. I answered. If he asks you out, that’s on him.”
+
+“I am not a charity,” I said.
+
+Bree held up a hand. “Agreed. Which is why he’s the only man I know who might survive your standards.”
+
+I wanted to argue.
+
+But the irritating part was: I didn’t feel a need to.
+
+That evening, as I was locking up my car, my phone buzzed.
+
+Unknown number.
+
+I almost didn’t answer. Then the text came through first.
+
+> **Carl:** Hi Sarah—Carl here (electrician from today). Bree gave me your number *only if* I promised not to be a pest.
+> If you’d ever like a coffee, I’d enjoy that. No pressure either way.
+
+I stared at it.
+
+The “no pressure” could have been a tactic.
+
+But it didn’t read like a tactic.
+
+It read like a man who understood that pressure is exactly how you lose a woman like me.
+
+I typed. Deleted. Typed again.
+
+I could feel my own resistance rising, automatic and familiar.
+
+A man wants something. Therefore I must prepare for him to take it.
+
+Except… that’s not what this was.
+
+This was an invitation with an exit built in.
+
+Which is, frankly, a rare competence.
+
+I found myself thinking of Bree and Lily—radiant and unashamed—and the way their wanting didn’t come with a hidden invoice.
+
+Then I thought of Ethan, and how quickly wanting had turned into entitlement.
+
+And then I realised: the real question wasn’t “is Carl safe?”
+
+It was:
+
+*Am I even interested?*
+
+I didn’t know.
+
+Which annoyed me, because I like knowing.
+
+Still, there was another truth sitting underneath my irritation:
+
+I wanted to see what it felt like to be around a man who didn’t make my boundary management a full-time job.
+
+So I replied, short and clear.
+
+> **Me:** Coffee is fine. One hour. Public. Saturday afternoon.
+> If you’re late, I leave.
+
+The reply came quickly.
+
+> **Carl:** Perfect. Saturday. I’ll be early.
+> And thank you.
+
+I blinked.
+
+Thank you?
+
+Not for agreeing. Not for giving him a chance.
+
+Thank you for being clear.
+
+I stared at the screen for a moment, then put my phone away and locked my car.
+
+As I walked toward my building, I felt… cautious.
+
+Not hopeful. Not giddy.
+
+But cautiously curious.
+
+And that, for me, was almost romantic.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## y
-### yy
-
-<img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## x
-### xx
-
-<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## w
-### ww
-
-<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## v
-### vv
-
-<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## u
-### uu
-
-<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## t
-### tt
-
-<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## s
-### ss
-
-<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## r
-### rr
-
-<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## q
-### qq
-
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## p
-### pp
-
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## o
-### oo
-
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## n
-### nn
-
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## m 
-### mm
-
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## l
-### ll
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -282,293 +264,258 @@
 
 
 ## Notes26-01-23e
-### Scene 46
+### Scene 42
 
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260116ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-01-23]
 
-**Scene 46 — “Daylight” (Lauren POV)**
+**Scene 42 — “Carl” (Sarah POV)**
 
-Morning always tells the truth.
+The annoying thing about having a small awakening is that the world doesn’t stop to let you process it.
 
-Night can be anything—fear, adrenaline, loneliness dressed up as clarity. Night makes people reach for whatever feels like a handrail.
+Bree and Lily glow their way through Wardrobe like a private weather system, and then the next minute you’re back to pinning hems and pretending you didn’t just witness a version of happiness that made your stomach do a weird, traitorous little flip.
 
-But morning… morning is where you find out whether the handrail is still wanted when the floor is stable again.
+I tried to file it under **Not My Problem**.
 
-I woke before Sarah did, because mothers don’t sleep well after danger. Even when the danger is gone, your body keeps listening for it like an animal.
+It didn’t stay filed.
 
-The apartment was quiet in the clean way it gets quiet when someone safe is asleep in the next room.
+For the rest of the week, I kept catching myself watching them—tiny touches, shared looks, that relaxed certainty between them. Not performative. Not defensive. Not asking permission.
 
-I lay still on the couch for a moment and listened.
+Just… two women who were done negotiating whether their wanting was valid.
 
-No coughing. No restless pacing. Just Sarah’s breathing, deep and steady through the cracked door.
+Every time I noticed it, I felt the same thought arrive, uninvited, like a notification you can’t swipe away:
 
-Good.
+*That looks nice.*
 
-I made tea first, because boiling water is a kind of prayer: something you do with your hands while your mind measures the day.
+Which was a ridiculous thing to think, because I was in the middle of the Ethan aftermath and my nervous system still had that “every door might have a man behind it” edge.
 
-Toast followed. Not because toast is magic, but because it’s non-threatening. It’s what you feed someone when you want them to feel cared for without feeling managed.
+So, naturally, the universe offered me a man who was… fine.
 
-While the kettle worked, I checked my phone.
+Not “fine” as in attractive. Fine as in: not a walking hazard. Not an entitled toddler in an adult body. Not a replacement-mum seeker.
 
-No new messages from the venue. No update from the building manager. No fresh nonsense from a blocked number.
+Fine as in: decent.
 
-Still, I made a note to myself: **encourage medical check**. Not because I wanted to escalate things into drama, but because women don’t get to rely on luck.
+His name was Carl.
 
-I heard a shift from the bedroom—sheet rustle, a small exhale, the sound of someone waking and trying to decide if they’re in a place that’s allowed.
+I met him on a Thursday in a way so ordinary it almost felt staged.
 
-Then the door opened.
+The Faire had sent someone to check on the lighting in the small dressing corridor—the one that always flickered when the iron was on, the one Mara had been muttering about for days like it was a personal insult. We’d been told “an electrician” was coming. Which, in my experience, can mean anything from “competent professional” to “man who explains wires to women as if we’re newborn calves.”
 
-Sarah stood in the doorway in my spare t-shirt, hair a mess, eyes narrowed like she was judging the light for being too cheerful.
+Carl walked in carrying a tool bag and a clipboard and the sort of calm that doesn’t feel like a performance.
 
-She looked… human.
+He paused at the threshold—not swaggering, not barging—and looked around like he was assessing the room the way you assess a dog: with respect.
 
-Which, for Sarah, is an intimate state.
+“Hi,” he said. “I’m Carl. I’m here for the corridor lights.”
 
-She didn’t step all the way in. She stayed on the threshold like she might still bolt out of politeness.
+Lauren looked up. “Great. Thank you. It’s that corridor—second door on the right.”
 
-“Morning,” she said, voice rough.
+Carl nodded. “No worries. Is anyone using it right now?”
 
-“Morning,” I replied. “Water first.”
+The sentence was so innocuous that it took my brain a second to recognise why it felt… notable.
 
-She made a face that was half annoyance, half obedience, and came to the kitchen.
+He’d asked.
 
-I poured her a glass and handed it over without ceremony.
+He hadn’t assumed the space was his because he had tools.
 
-Sarah took it with both hands and drank like someone who’d been taught, at some point, to trust procedure.
+Lauren pointed. “We can reroute for ten minutes.”
 
-Remembering it now.
+“Perfect,” Carl said, and he smiled in a polite, non-invasive way. “I’ll be quick.”
 
-When she finished, she set the glass down and glanced at the toast.
+He didn’t look at anyone’s body.
 
-“Are you trying to make me a Victorian invalid,” she muttered.
+He didn’t linger.
 
-I let my mouth twitch. “Yes. It’s my long-term plan.”
+He didn’t do the thing where men scan a room to see who might be impressed by them.
 
-Sarah huffed a laugh—small, but real—and slid onto the chair by the window.
+He went to the corridor and started working.
 
-Not the couch.
+I found myself watching him, purely out of suspicion. Suspicion is my love language, unfortunately.
 
-The chair.
+Carl pulled the panel off, tested something, frowned—not dramatically, just thoughtfully.
 
-Distance maintained.
+Then he called back into the room, voice normal.
 
-Control reclaimed.
+“Hey—who’s been running the iron off this circuit?”
 
-Good.
+Mara didn’t look up. “We run everything off everything. Fix it.”
 
-I placed the toast in front of her and sat opposite, keeping my posture relaxed, my voice ordinary.
+Carl chuckled once—one of those quick, genuine laughs—and said, “Right. Okay. I’ll reroute. Give me five.”
 
-“How’s your head?” I asked.
+Mara grunted, which for Mara is basically a poem.
 
-Sarah grimaced. “Like someone’s rewired it badly.”
+Ten minutes later the corridor lights were steady. No flicker. No drama.
 
-“Fair,” I said. “Nausea? Dizziness?”
+Carl came back into the room, wiped his hands on a rag, and said to Lauren, “All done. I moved the iron load off the corridor. Should be stable now.”
 
-“Less,” she admitted. “Still… wrong. But less.”
+Lauren nodded. “Thank you.”
 
-I nodded, filing it.
+Carl hesitated, then added, “If it flickers again, text the number on the work order. Don’t wait. It’s easier to fix early.”
 
-“I’d like you to get checked today,” I said gently. “Even if it’s just a GP. Blood pressure, basics. If you think someone put something in your drink—”
+Again: *he asked*, *he explained*, *he gave a solution*, and then he stopped talking.
 
-Sarah’s eyes sharpened. Instantly defensive.
+It was… disconcerting.
 
-“I don’t *know* they did,” she said.
+As he turned to leave, his gaze met mine for half a second. Not lingering. Not hungry. Just human.
 
-“I know,” I replied. “You don’t have to prove it. You only have to take care of your body.”
+He gave a small nod.
 
-Sarah stared at the toast like it had offended her.
+I nodded back, because I am not feral either.
 
-Then, quietly: “Okay.”
+And then he said, as if he’d debated it and decided not to be weird:
 
-Not “fine.”
+“Sorry—are you Sarah?”
 
-Not “whatever.”
+I froze, instantly.
 
-Okay.
+Men knowing my name without me giving it to them is a known trigger. A small one. But real.
 
-A second “okay” in less than twelve hours.
+Carl clocked my stillness immediately.
 
-That was… notable.
+He lifted his hands slightly, palms open—not theatrical, just reflexively reassuring.
 
-I didn’t push. I didn’t turn it into a lecture. I let it sit like a small win.
+“Bree mentioned you,” he said. “Only because I asked who handles the staff passes. She said you’re the one who knows where everything is.”
 
-For a minute, the only sound was her chewing and the kettle cooling, the familiar domestic noises that make a life feel possible.
+Ah. Bree. Of course.
 
-Then Sarah cleared her throat.
+I exhaled slowly, annoyed at my own body for being so quick to brace.
 
-Here it comes, I thought. Pride.
+“What did she tell you,” I said, dry.
 
-And it did.
+Carl’s mouth twitched. “That you’re terrifying,” he said, equally dry. “And that if I needed anything, I should ask politely and leave you alone.”
 
-“I’m sorry,” she said, automatically. Fast, as if she could throw it at the floor and move on.
+I snorted—an actual, involuntary sound—and felt, irritatingly, my shoulders loosen.
 
-I looked at her, calm.
+“Well,” I said, “Bree’s not wrong.”
 
-“No,” I said. “Not that.”
+Carl nodded like he’d just received a useful manual. “Good to know.”
 
-Sarah’s jaw tightened. “Lauren—”
+Then he did something genuinely rare.
 
-“No,” I repeated, not unkind. “You don’t apologise for being in danger. You don’t apologise for calling someone. You did the correct thing.”
+He didn’t push.
 
-Sarah’s eyes flicked up to mine, then away. The smallest hint of colour climbed her cheeks—anger at being seen, probably.
+He didn’t use that opening to wedge himself into my day.
 
-“I hate needing help,” she said.
+He simply added, “Anyway. Nice to meet you. I’ll get out of your way.”
 
-“I know,” I said.
+And he left.
 
-That was all. No pep talk. No insistence.
+No lingering. No “maybe I’ll see you around.” No invitation snuck in under a joke.
 
-Just acknowledgement.
+Just… gone.
 
-Sarah took another bite of toast, slower now, as if her body was remembering it could accept care without owing anything in return.
+I stared after him for a moment, unsettled.
 
-She swallowed. Then, after a pause that felt like a door opening by a millimetre, she said:
+Bree appeared beside me like a cat, grin already loaded.
 
-“I remember what I said last night.”
+“You’re welcome,” she said.
 
-My chest went very still.
+I glared. “For what.”
 
-I kept my face calm.
+“For Carl,” Bree said, smug. “He’s a nice bloke. I pre-approved him.”
 
-“Yes,” I replied, careful. “Me too.”
+“You don’t get to pre-approve men,” I said.
 
-Sarah’s fingers tightened around the mug I’d given her, knuckles whitening slightly. She didn’t drink. She just held it like an anchor.
+Bree shrugged. “I do when they’re harmless.”
 
-“I meant it,” she said, voice low.
+“Harmless men are a myth,” I muttered.
 
-The words were simple, but Sarah saying *I meant it* was… enormous.
+Bree leaned closer, conspiratorial. “He bakes.”
 
-Because Sarah doesn’t say anything she can’t defend in court.
+I turned slowly. “That’s not a personality.”
 
-My pulse quickened. I didn’t move closer. I didn’t rush.
+“It’s a domestic competency,” Bree corrected. “Which, apparently, is your love language now.”
 
-This had to stay clean. Proper.
+I rolled my eyes so hard I nearly saw my own brain.
 
-“I’m glad,” I said softly.
+“Stop trying to set me up,” I said.
 
-Sarah looked up then, properly, meeting my eyes.
+Bree’s grin widened. “I’m not. He asked about you. I answered. If he asks you out, that’s on him.”
 
-Her expression wasn’t soft. Sarah wasn’t suddenly a different person.
+“I am not a charity,” I said.
 
-But something in her gaze had changed.
+Bree held up a hand. “Agreed. Which is why he’s the only man I know who might survive your standards.”
 
-Less armour.
+I wanted to argue.
 
-More decision.
+But the irritating part was: I didn’t feel a need to.
 
-“It wasn’t just because I was scared,” she said, as if she resented the need to clarify it. “I mean, I *was* scared. But that’s not why I—”
+That evening, as I was locking up my car, my phone buzzed.
 
-She stopped, frustrated with language.
+Unknown number.
 
-I waited.
+I almost didn’t answer. Then the text came through first.
 
-She exhaled sharply, then said it in the most Sarah way possible—like she was stating a fact she’d verified twice:
+> **Carl:** Hi Sarah—Carl here (electrician from today). Bree gave me your number *only if* I promised not to be a pest.
+> If you’d ever like a coffee, I’d enjoy that. No pressure either way.
 
-“I wanted you to come.”
+I stared at it.
 
-The sentence landed in the kitchen like a bell.
+The “no pressure” could have been a tactic.
 
-I felt warmth rise through me—quiet, steady—and I held it there, contained. Not because I wanted to hide it, but because Sarah would recoil if I made her the centre of a romantic spectacle.
+But it didn’t read like a tactic.
 
-“I did come,” I said. “Every time you call, I’ll come.”
+It read like a man who understood that pressure is exactly how you lose a woman like me.
 
-Sarah’s eyes narrowed. “That’s not what I’m asking.”
+I typed. Deleted. Typed again.
 
-I blinked once.
+I could feel my own resistance rising, automatic and familiar.
 
-“No,” I agreed, and let my voice soften a fraction. “It isn’t.”
+A man wants something. Therefore I must prepare for him to take it.
 
-Sarah sat very still, as if her body had decided that moving might make the moment break.
+Except… that’s not what this was.
 
-Then she said, with a kind of blunt honesty that nearly undid me:
+This was an invitation with an exit built in.
 
-“I don’t know what to do with it.”
+Which is, frankly, a rare competence.
 
-I nodded.
+I found myself thinking of Bree and Lily—radiant and unashamed—and the way their wanting didn’t come with a hidden invoice.
 
-“That’s okay,” I said. “We don’t have to do anything dramatic.”
+Then I thought of Ethan, and how quickly wanting had turned into entitlement.
 
-Sarah’s mouth twitched. “Your obsession with boring is unbearable.”
+And then I realised: the real question wasn’t “is Carl safe?”
 
-“It works,” I replied.
+It was:
 
-She held my gaze, and in that look I saw it: the beginning of the same thing I’d been carrying for years.
+*Am I even interested?*
 
-Not as a lightning strike.
+I didn’t know.
 
-As a slow, inevitable shift of gravity.
+Which annoyed me, because I like knowing.
 
-Sarah wasn’t reaching for me as a mother.
+Still, there was another truth sitting underneath my irritation:
 
-She was reaching for me as… me.
+I wanted to see what it felt like to be around a man who didn’t make my boundary management a full-time job.
 
-A woman.
+So I replied, short and clear.
 
-A possibility.
+> **Me:** Coffee is fine. One hour. Public. Saturday afternoon.
+> If you’re late, I leave.
 
-The realisation didn’t make me giddy. It made me careful.
+The reply came quickly.
 
-Because if Sarah was beginning to feel it, she’d be terrified of it. Not because she was ashamed of women—Sarah didn’t do shame that way.
+> **Carl:** Perfect. Saturday. I’ll be early.
+> And thank you.
 
-But because wanting someone meant giving them leverage.
+I blinked.
 
-And Sarah hated leverage.
+Thank you?
 
-I stood and rinsed a plate to give my hands something to do.
+Not for agreeing. Not for giving him a chance.
 
-When I turned back, Sarah was watching me.
+Thank you for being clear.
 
-Not suspicious.
+I stared at the screen for a moment, then put my phone away and locked my car.
 
-Just… present.
+As I walked toward my building, I felt… cautious.
 
-“You can go home whenever you want,” I said gently. “No pressure. No expectations.”
+Not hopeful. Not giddy.
 
-Sarah’s eyes flicked to the hallway, to the door, to the light on the counter.
+But cautiously curious.
 
-Then back to me.
+And that, for me, was almost romantic.
 
-“I know,” she said.
-
-A pause.
-
-Then: “Can I stay a bit longer?”
-
-The request was quiet, but it was the most intimate thing she’d said all morning.
-
-My chest tightened.
-
-“Yes,” I said simply. “Of course.”
-
-Sarah exhaled, a long breath that sounded like surrender—not to me, but to the fact that she wanted what she wanted.
-
-I poured more tea, because tea is what you do when you’re making a new shape of life.
-
-And as Sarah sat at my kitchen table in my spare t-shirt, eating toast like it was a contract she hadn’t yet signed, I felt the truth settle more firmly inside me:
-
-This wasn’t a night thing.
-
-This wasn’t fear.
-
-This wasn’t rescue.
-
-This was daylight.
-
-And Sarah, inconvenient and sharp and brave, was beginning to reach for me on purpose.
-
-Properly.
-
-
-
-Yes. This is *exactly* the right kind of blossom for them: **touch as truth**, not sex as plot device. And the “workplace slip” is *perfect* because it lets you prove (again) that Wardrobe’s safety isn’t vibes — it’s **standards**, and standards have consequences even when the love is real. 💛🧵
-
-Below is a clean run of **three scenes** that do what you’ve asked:
-
-* **Scene 47 (Celeste POV):** floodgates open by accident — Charli’s touch is revealed as *unbearably* gentle; Celeste wants more.
-* **Scene 48 (Celeste POV):** Charli slips at work (small, “innocent,” but unsafe), and the risk becomes real.
-* **Scene 49 (Celeste POV):** consequences — not cruelty, not punishment theatre: *structure*. Celeste leads, sets boundary, and re-anchors Wardrobe’s safety. Charli learns.
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
+

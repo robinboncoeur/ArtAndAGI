@@ -99,6 +99,11 @@ nav:
     - Scene49: CGScenes/Scene49.md
     - Scene50: CGScenes/Scene50.md
     - Scene51: CGScenes/Scene51.md
+    - Scene52: CGScenes/Scene52.md
+    - Scene53: CGScenes/Scene53.md
+    - Scene54: CGScenes/Scene54.md
+    - Scene55: CGScenes/Scene55.md
+
   - Dev:
     - Dev/index.md
     - AI-Illustrious: Dev/ai-Illust.md
@@ -168,6 +173,7 @@ nav:
       - Emily/2602/index.md
       - Emily 26.02.01: Emily/2602/Notes2026-02-01.md
       - Emily 26.02.02: Emily/2602/Notes2026-02-02.md
+      - Emily 26.02.03: Emily/2602/Notes2026-02-03.md
       - Emily Template-A: Emily/2602/Notes2026-20-0a.md
       - Emily Template-B: Emily/2602/Notes2026-20-0b.md
 
