@@ -399,17 +399,277 @@ Maybe it’s knowing exactly which woman to call when the world goes pear-shaped
 
 
 
-<!--
 
 
 
 
-## z
+
+## Notes26-02-04ev1
 ### zz
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-04]
+
+**Scene 44 — “Keys” (Lauren POV, past tense)**
+
+---
+
+The next morning, Sarah didn’t ask how Lauren had slept.
+
+She looked at her once—eyes sharp, assessing—and said, “Eat.”
+
+Lauren sat at the small table, hands wrapped around a mug, trying to make her body behave like it was a normal Tuesday. The toast was warm. The air was already bright with Queensland sun, the kind that made you sweat just thinking about leaving the house.
+
+Sarah moved through the kitchen like a woman who had decided fear did not get to run the schedule. Kettle. Plates. Knife. No dithering, no emotional fog.
+
+Lauren took a bite because Sarah was watching her mouth, not in a controlling way, but in the way you watched someone you were determined to keep upright.
+
+Sarah’s phone buzzed once, then again. A message.
+
+Sarah glanced at it, expression shifting into that controlled stillness—predatory calm, not panic. She didn’t pick it up straight away. She finished what she was doing first, as if demonstrating that urgency didn’t own her.
+
+Then she read the message.
+
+A faint, humourless smile appeared at one corner of her mouth.
+
+“Oh,” Sarah said. “That’s *interesting*.”
+
+Lauren’s stomach tightened. “What is?”
+
+Sarah leaned her hip against the counter and looked at Lauren the way she did when she was about to deliver a fact that would change how you moved through the day.
+
+“Lucy just told me why Roger suddenly came home,” she said.
+
+Lauren blinked. The words felt too casual for what they implied.
+
+“Why?”
+
+Sarah’s eyes narrowed, amused and contemptuous at once.
+
+“Because he got dumped,” she said. “By his ‘friend.’”
+
+Lauren stared at her, not quite understanding at first—the idea felt absurd, almost cartoonish, until it landed properly.
+
+“Dumped,” Lauren repeated.
+
+Sarah nodded, brisk. “She told him she wasn’t interested anymore. Probably realised he wasn’t a romance; he was a liability.” A pause. “He’s told Lucy, apparently. Confided. Like Lucy is his priest.”
+
+Lauren made a sound that wasn’t a laugh, exactly. It came out thin and stunned.
+
+“So… he came back because—”
+
+“Because he lost his second option,” Sarah finished. Her tone made the truth feel clean, like a surface wiped down. “Not because he found his conscience.”
+
+Lauren felt something twist inside her. Not heartbreak. Not jealousy. A kind of cold clarity—almost relief.
+
+It was so grotesquely ordinary, the logic of it.
+
+Lauren’s gaze dropped to the table. She stared at a crumb as if it were an interesting document.
+
+Sarah’s voice softened slightly—not into sympathy, but into resolve.
+
+“Two losses close together,” Sarah said. “That makes a man like Roger desperate. And desperate men do stupid things.”
+
+Lauren’s throat tightened. “He knows where I work.”
+
+“I know,” Sarah said. “He also knows where I live. And where Lucy lives. He dropped us home once, after that staff party.” Sarah’s mouth curved. “Which also answers your other question about how he got my number. Men are very good at collecting access.”
+
+Lauren flinched at the accuracy. She thought of Roger’s casual confidence—his assumptions that other people’s boundaries were negotiable if he just pushed with enough entitlement.
+
+Sarah set her mug down with a quiet clink that sounded like a decision.
+
+“Right,” she said. “Here’s what’s happening.”
+
+Lauren looked up.
+
+Sarah pointed the butter knife toward the front door—not threatening, just emphatic.
+
+“You’re staying here,” Sarah said. “Until the dust settles.”
+
+Lauren’s voice came out small. “But I have to—”
+
+“No,” Sarah cut in. “You don’t have to do anything except leave safely.” She held Lauren’s gaze. “Today you go back to the house while he’s at work and you get your essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then you leave. Completely.”
+
+Lauren’s hands tightened around the mug.
+
+“What about… furniture? Appliances?” Lauren asked, and the words tasted ridiculous as soon as they left her mouth. She had spent years treating objects like anchors because she couldn’t imagine having none.
+
+Sarah’s eyes were flat.
+
+“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
+
+Lauren’s breath hitched.
+
+Sarah’s voice lowered. “Lauren, listen to me. Men like Roger designed the paperwork for this exact moment. Everything in his name so you’d feel trapped. That’s the trick.”
+
+Lauren swallowed. The shame rose and tried to take up space.
+
+Sarah saw it and cut it off before it could speak.
+
+“You’re not stupid,” Sarah said. “You were strategic. You were surviving.”
+
+Lauren’s eyes stung.
+
+Sarah continued, calm and ruthless in her practicality.
+
+“You get your essentials out today,” Sarah said. “You hand in your keys in a way that’s final. And after that you do not go back alone. Ever. If you need more later, we go as a group. Or we go with police. But you do not go back like a good little wife trying to be civil. Civil is how he gets you back in the room.”
+
+Lauren stared at her.
+
+There was no softness in Sarah’s plan. No sentimental fantasy of “closure.” Just the clean architecture of safety.
+
+It was frightening.
+
+It was also… intoxicating.
+
+Lauren heard her own voice come out steadier than she expected.
+
+“Okay,” she said.
+
+Sarah nodded once, satisfied. “Good.”
+
+She turned her attention to logistics, because Sarah could not sit in emotion for long without turning it into something useful.
+
+“Your car,” Sarah said. “Fuel?”
+
+“Half,” Lauren replied automatically.
+
+“Top it up first,” Sarah ordered. “Not later. First. Then house. Then straight back here.” A pause. “And keep your phone on. If he calls, you don’t answer. If he texts, you screenshot. If he turns up at Wardrobe, you tell Celeste and you leave with someone.”
+
+Lauren nodded again.
+
+Sarah’s expression flickered—something like approval.
+
+“And Lauren?” Sarah added.
+
+“Yes?”
+
+Sarah’s voice went a fraction quieter, which in Sarah was basically a hug.
+
+“This is not you taking things,” she said. “This is you taking yourself.”
+
+Lauren’s throat tightened so hard she couldn’t answer properly. She just nodded and looked down at her toast until her vision cleared.
+
+---
+
+By late morning, the Hyundai i20 was running and the air inside it smelled faintly of old fabric and the vanilla air freshener Lauren had hung years ago. The steering wheel was warm under her hands.
+
+She drove to the house like she was driving to a place she used to live, not a place she belonged.
+
+The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzing somewhere distant like a reminder that other people’s lives were still happening.
+
+Lauren parked, sat for a moment, and listened to her own breathing.
+
+Her hands were steady.
+
+That surprised her most.
+
+Inside, the house felt exactly the way it always had: too neat in places, too neglected in others, the subtle imbalance of a home built around one person’s comfort.
+
+Roger wasn’t there. Thank God.
+
+Lauren moved quickly—not frantic, just efficient.
+
+Bedroom: clothes into a bag. Toiletries. Her own shampoo, her own face cream, the small items she’d once treated as “extras” because she was always saving money “just in case.”
+
+In the study she took papers she could find—anything with her name on it, anything that looked important, anything that she might need to prove later that she existed in this marriage as more than a shadow.
+
+Her hands didn’t linger on the furniture. The television. The framed photos.
+
+They were objects that had been allowed to pretend they were stability.
+
+Now, under this light, they looked like props.
+
+And in the middle of the stripping-down, Lauren had a sudden, unexpected sensation:
+
+Freedom.
+
+Not the triumphant kind.
+
+The quieter kind that came from realising that if everything of value was in Roger’s name by design—then leaving with nothing but her own belongings wasn’t humiliation.
+
+It was escape.
+
+Her most expensive asset was the little Hyundai.
+
+That and a few dresses and shoes she’d bought over the years when she’d been trying to remember she was allowed to look nice.
+
+That and her body, her mind, her ability to earn.
+
+That was enough.
+
+When she was finished, the house looked barely disturbed. Lauren almost laughed at the irony: she was leaving, and the place still wore the same mask.
+
+At the front door, she paused.
+
+The keys were in her palm. Warm from her skin.
+
+She walked back to the kitchen table—the same table where she’d once served dinner like a peace offering—and placed the keys down gently, as if returning something she’d borrowed too long.
+
+Then she went to the door.
+
+She locked it from the inside, the way you could, if you knew the trick. A final act, done on her terms.
+
+She stepped out, pulled the door closed behind her, and felt the click echo in her chest.
+
+For a moment she stood on the doorstep and looked at the house.
+
+It didn’t look like a battlefield.
+
+That was the point. The most vicious wars often didn’t leave scorch marks. They left habits.
+
+Lauren turned away.
+
+She walked to her car.
+
+She drove back to Sarah’s with the sun hot on the bonnet and the air-conditioning doing its earnest best, and she didn’t once check the rear-view mirror for Roger’s car, because she refused to rehearse fear before it arrived.
+
+---
+
+Sarah opened the door before Lauren had even reached it, as if she’d been watching the clock with the kind of vigilance that wasn’t anxiety so much as commitment.
+
+“Good?” Sarah asked.
+
+Lauren lifted the bags slightly. “Essentials.”
+
+Sarah’s eyes flicked over the bags like an inventory, then she nodded once, approving.
+
+“Perfect,” she said. “Come in.”
+
+Lauren stepped inside and felt the cool of the hallway wrap around her like a held breath released.
+
+Sarah took one bag and carried it down the hall, then returned and held out her hand.
+
+In her palm was a key.
+
+Not Roger’s key.
+
+Not a borrowed key that implied temporary mercy.
+
+A simple spare key on an unremarkable ring.
+
+“Yours,” Sarah said.
+
+Lauren stared at it.
+
+Sarah’s voice was matter-of-fact, but her eyes were steady, unmistakable.
+
+“You’re not a guest,” Sarah said. “You’re safe.”
+
+Lauren took the key.
+
+It was small. Ordinary. Heavy with meaning.
+
+She stood there for a moment with the metal warming in her palm, looking at it as if it might dissolve.
+
+Then she closed her fingers around it.
+
+Not tightly.
+
+Just… deliberately.
+
+*End Scene 44.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

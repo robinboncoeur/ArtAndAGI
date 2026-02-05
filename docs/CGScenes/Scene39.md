@@ -1304,7 +1304,6 @@ We did.
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-<!--
 
 
 
@@ -1315,12 +1314,147 @@ We did.
 
 
 
-## w
-### ww
+
+## Notes26-02-04ev1
+### 
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-04]
+
+**Scene 39 — “The Golf Course Call” (Sarah POV, past tense)**
+
+---
+
+The morning light was mean.
+
+It came in flat and bright through the blinds and made everything look too honest—discarded clothes, rumpled sheets, the empty space beside her like an accusation. Sarah sat on the edge of the bed and drank water straight from the glass, as if hydration could fix the taste he’d left in the room.
+
+Her phone lay on the bedside table.
+
+She stared at it.
+
+It wasn’t rage that moved her, not really. Rage was messy. Rage implied investment.
+
+This was simpler.
+
+This was the quiet certainty of a woman realising she’d accepted something beneath her standards—and feeling, not shame, but irritation that she’d let it waste an evening of her life.
+
+She thumbed her contacts. Found his name. Tapped.
+
+It rang longer than it should’ve. Then the background noise came through—wind, men’s laughter, the hollow echo of open space.
+
+“Hey,” he said, voice bright. Pleased with himself. “You alright?”
+
+Sarah closed her eyes for a beat. Let his tone tell her everything she needed to know.
+
+“Yep,” she said. “I’m ending this.”
+
+A pause. Like he hadn’t heard her correctly.
+
+“What?”
+
+“I’m ending it,” Sarah repeated. She kept her voice calm on purpose. The calm was the point. “This relationship. Whatever we were pretending it was.”
+
+His laugh came out wrong—too quick, too defensive. “What? Because of last night? Sarah—come on—”
+
+Behind him someone called his name, muffled by distance.
+
+“Mate, you teeing off or what?”
+
+He lowered his voice. “Listen, you’re overthinking it. We’re good. We had fun. Don’t do this on the phone.”
+
+Sarah looked at her own bare feet on the carpet. The ordinary domesticity of the moment almost amused her.
+
+“This is actually the perfect place to do it,” she said. “You’re with your mates. You’ll recover. Quickly.”
+
+He exhaled hard. “This is insane.”
+
+“No,” Sarah said softly. “What’s insane is you thinking you get to argue about it.”
+
+She could hear him shifting, moving away from the others. The wind buffeted the mic.
+
+“Sarah, seriously—what do you *want* from me?” he demanded, like she was a faulty appliance.
+
+The question was so revealing she almost thanked him.
+
+“Tenderness,” she said, and let the single word sit there between them like a dropped glass.
+
+He didn’t reply.
+
+Not properly.
+
+He did what men did when they were offered a feeling they couldn’t quantify.
+
+He tried to bargain.
+
+“I can be— I mean, I *am*—look, we can work on that.”
+
+Sarah smiled without humour.
+
+“That,” she said, “is the problem. It’s not a renovation project.”
+
+He made a sound—frustrated, affronted. “So you’re just… done?”
+
+“Yes.”
+
+“I thought you liked me.”
+
+“I do,” Sarah said, which was true in the limited way you liked someone who never made you feel unsafe. “But liking you isn’t the same thing as wanting this. And I don’t date to fill space.”
+
+Another pause.
+
+Then his voice softened—not tender, just tactical. “We can talk about it tonight.”
+
+“No,” Sarah said, and the word came out like a door closing.
+
+“Sarah—don’t be like that.”
+
+She looked at the phone as if it had said something stupid.
+
+“Like what?”
+
+“Cold.”
+
+Sarah’s brow lifted.
+
+“Cold,” she repeated, tasting it. “Right. Sure.”
+
+She could hear him breathing now, a little faster. The first crack in his confidence.
+
+“I’m not cold,” she said. “I’m finished.”
+
+He started talking again—too many words, too urgent, suddenly desperate to keep the thing he’d assumed would always be available.
+
+Sarah didn’t let him get momentum.
+
+She hung up.
+
+Not dramatically. Not triumphantly.
+
+Just… clean.
+
+The silence that followed wasn’t empty like last night’s had been. It was spacious. It was relief.
+
+Her phone buzzed almost immediately: a missed call. Then another. Then a text, then two.
+
+Sarah put it face-down on the bedside table and went to make coffee.
+
+Outside, a magpie warbled like it was gossiping about her.
+
+She felt an unexpected little laugh rise in her throat.
+
+He would cling for a bit.
+
+Of course he would.
+
+That was fine.
+
+Clinging was not the same thing as being right.
+
+And Sarah had finally remembered the difference.
+
+*End Scene 39.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

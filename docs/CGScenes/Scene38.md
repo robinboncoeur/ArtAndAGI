@@ -1152,6 +1152,203 @@ It meant being known.
 
 
 
+
+
+
+
+## Notes26-02-04ev1
+### ss
+
+<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+## Scene 38 — “Heat, With Teeth” (Celeste POV, past tense)
+
+The heat had its own personality tonight—clingy, impatient, insinuating itself under skin and into thought. The pedestal fan moved left to right like an indifferent metronome, pushing warm air around rather than removing it.
+
+Sarah’s lipstick mark still ghosted one mug on the table.
+
+Celeste stared at it for a moment longer than necessary, then turned away as if that tiny stain had said something insulting.
+
+Charli was on the couch, knees drawn up, hands busy with the edge of the throw. She looked like someone waiting for a verdict.
+
+Celeste sat beside her, close enough that their thighs touched—contact made quiet and ordinary, not a dramatic claim. Charli’s breath hitched anyway. There it was, that old reflex: brace, shrink, behave.
+
+Celeste put two fingers to Charli’s pulse—lightly, deliberately—feeling the quick thrum that betrayed her before words could.
+
+“Look at me,” she said.
+
+Not sharp. Not soft. Simply *true*.
+
+Charli’s eyes lifted.
+
+It was always startling, how open her face was when she surrendered the habit of hiding. Not just pretty—though she was, in that gentle, almost startled way—but *unguarded*. As if the world had never taught her to weaponise herself.
+
+Celeste’s mouth curved once.
+
+“I’m not angry with you,” Celeste said. “I’m angry I missed you.”
+
+Charli blinked, lashes damp. She tried for a sentence and failed.
+
+Celeste leaned in and kissed her—right on the mouth, no preamble. Not because she was impatient. Because she refused to make this into a hearing.
+
+The kiss wasn’t rough. It wasn’t rushed. But it had no apology in it.
+
+Charli froze for the length of a heartbeat, then softened—melted—like the question had finally been asked in a language she understood.
+
+Celeste tasted coffee on her, the faint sweetness of whatever Sarah had insisted they try, and underneath that the heat of Charli’s own body. The warmth was not incidental; it was invitation.
+
+Celeste kissed again, deeper. Charli made a small sound that was not practiced and not performative—purely involuntary.
+
+Celeste pulled back only enough to see her.
+
+Charli’s lips were parted. Her pupils were wide. She looked dazed with relief and with wanting, as if she hadn’t quite believed she was allowed to want anything without first being useful.
+
+Celeste felt something shift low in her belly—an iron certainty dressed in silk.
+
+“Do you want this?” she asked, quiet and direct.
+
+Charli nodded fast, then caught herself as if enthusiasm might be punishable. “Yes.”
+
+The “yes” landed like a key turning.
+
+Celeste kissed her again, and this time she didn’t manage the kiss like a careful woman tidying up her own feelings. She let her desire show—through the firmness of her hand at Charli’s jaw, the way she guided the angle of her mouth, the calm insistence of *stay with me*.
+
+Charli’s fingers clutched at Celeste’s sleeve, then loosened, then returned—as if her body kept checking whether the warmth was real.
+
+Celeste slid her hand to Charli’s throat again, thumb resting over the pulse. It wasn’t a hold. It was a signal: *I can feel you. I’m here. You don’t have to disappear.*
+
+Charli shivered—this time not with fear, but with recognition.
+
+The fan clicked as it turned. The clock kept counting. Somewhere outside a car passed with its windows down, music leaking into the night like somebody else’s life.
+
+Celeste didn’t care.
+
+She moved them—not dragging, not manoeuvring—simply guiding Charli down along the couch so Charli could lie back properly, supported, comfortable. Charli let herself be placed, pliant in the most disarming way. Not passive—trusting.
+
+Celeste paused, watching Charli’s face.
+
+“Still yes?” she asked.
+
+Charli’s reply was breathy, certain. “Yes.”
+
+The second yes felt different: not a plea, but consent with confidence.
+
+Good girl, Celeste thought—not as praise for obedience, but as a private recognition of Charli’s courage. Of her willingness to remain present.
+
+Celeste bent and kissed her again, slower now, letting her mouth wander—cheek, the corner of her lips, the hollow beneath her ear. Charli’s head tipped back on instinct, giving her access as if her body already understood what her mind was still catching up to.
+
+And then Celeste’s hunger rose—clean, focused, unapologetic.
+
+Not the hunger of taking.
+
+The hunger of *choosing*.
+
+She kissed Charli with more pressure, more certainty, and Charli answered with a soft, broken sound that went straight through Celeste like a spark.
+
+Charli’s hands found Celeste—hesitant at first, then braver. Fingers at her shoulder, her arm, the side of her ribs—touching as if confirming Celeste was real. As if astonished Celeste wanted her like this: not as a duty, not as an ethical project, but as a woman wanting a woman.
+
+Celeste lifted her head and looked down at Charli’s face.
+
+Charli looked utterly undone—eyes glossy, mouth pink from kissing, expression open in a way Celeste could only describe as *relieved to be wanted*.
+
+It made Celeste go very still.
+
+Not because she didn’t want her.
+
+Because she wanted her so fiercely she needed to be careful with it.
+
+“You’re not going to vanish on me,” Celeste said, her voice low. “Not in my house. Not with me.”
+
+Charli’s throat worked. “I’m here.”
+
+Celeste brushed a kiss to the corner of her mouth—almost tender again, almost gentle.
+
+Then she spoke against Charli’s lips, and there was a smile in it, a small, dangerous warmth.
+
+“Good,” she murmured. “Stay.”
+
+Charli’s eyes fluttered shut as if the word had weight.
+
+Celeste kissed her, and this time she didn’t keep herself politely in check. She let the heat in her body translate into touch—still respectful, still attentive, but unmistakably hungry. She let Charli feel it: *I want you, and I am not ashamed of that.*
+
+Charli arched into her with a soft sound, and Celeste felt the moment Charli stopped holding herself apart from pleasure.
+
+There was no dramatics. No performance.
+
+Just a gradual, beautiful surrender.
+
+Charli’s breathing changed—deeper, more ragged. Her hands tightened, then softened, then held Celeste with a kind of reverence that made Celeste’s chest ache.
+
+Celeste pressed her forehead briefly to Charli’s, and for a moment the hunger eased into something like awe.
+
+“I’m going to pay attention,” Celeste said again, quieter now, the vow settling into place. “Properly. I’m not outsourcing you to anyone.”
+
+Charli’s eyes opened, wet and shining. “Okay,” she whispered.
+
+Celeste kissed her once more—slow, sealing.
+
+And when Charli finally exhaled, she did it like someone who had been bracing for years and had, at last, been allowed to rest.
+
+Celeste held her there, close and claimed, until the fan swung back again and the room remembered how to breathe.
+
+*End Scene 38.*
+
+---
+
+## Scene 39 — opener (Sarah POV, past tense)
+
+He left like a man who believed the world was fundamentally in order.
+
+Not hurried. Not sneaking. Not tender either—just the satisfied efficiency of someone who’d taken what he came for and now felt pleasantly finished with the evening, like a person putting a glass into the sink after a drink.
+
+Sarah lay on her back and listened to the small sounds of his departure: the soft thud of shoes near the door, the faint jingle of keys, the brief pause as he decided whether to say something meaningful and then—predictably—didn’t.
+
+The latch clicked.
+
+Silence settled over the bedroom in a way that didn’t feel peaceful. It felt… vacant. Like the room had been drained of something it hadn’t been holding much of to begin with.
+
+Sarah stared at the ceiling fan as it rotated lazily through the warm dark. The air was still thick with heat and the faint, bland smell of him—soap and deodorant and that particular male confidence that always seemed to assume it was welcome.
+
+She could have called it “fine.”
+
+The act itself had been fine. Adequate. Not violent, not rude, not even particularly selfish in a way that would be easy to name.
+
+But that was the problem: it hadn’t been *anything*.
+
+No tenderness. No afterglow. No lingering hand on her waist as if her body was worth remembering. No kiss that said, *I liked being near you*, instead of *I enjoyed what you did for me.*
+
+He’d been happy. Of course he had.
+
+Sarah wasn’t even angry at the sex. She was irritated by the emptiness around it—the way he’d risen afterward and resumed being a person with plans, while she remained… a surface the night had happened on.
+
+She let out a breath that wasn’t quite a laugh.
+
+Men were astonishing like that: perfectly capable of taking pleasure and mistaking it for intimacy.
+
+Sarah rolled onto her side and stared at the patch of sheet he’d left behind—already cooling, already irrelevant.
+
+Her fingers flexed once against the fabric, restless.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+Sarah’s mouth tightened.
+
+She thought of Celeste—of that calm, watchful competence that occasionally slipped into something more dangerous when it was provoked. She thought of Charli—soft, earnest, heartbreakingly grateful for kindness.
+
+And Sarah felt the same irritation rise again, not at the man who’d just left, but at the wider pattern: the way tenderness was treated like an optional extra, the way women were expected to settle for “fine” and call it romance.
+
+“No,” Sarah said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like a promise.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
 <!--
 
 

@@ -324,17 +324,184 @@ And I would do it without apology.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-<!--
 
 
 
 
-## z
-### zz
+
+
+
+
+## Notes26-02-04ev1
+### 
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-04]
+
+**Scene 40 — “The Good One” (Sarah POV, past tense)**
+
+---
+
+He turned up at Wardrobe with a tool belt and a polite expression.
+
+Sarah noticed both.
+
+Not because she was shallow—she wasn’t—but because years of navigating men had taught her that competence came in different flavours: loud competence that wanted applause, and quiet competence that just got on with the job.
+
+This one had the second kind.
+
+Mara pointed him toward the back wall where the lights had been flickering like a haunted house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
+
+Sarah found herself watching him between stitches.
+
+Not in a hungry way.
+
+In a curious way.
+
+When he finished, he wiped his hands on a rag and looked at Mara—not at Celeste, not at Sarah, not at whichever woman happened to be nearest—as if the authority in the room was obvious to him.
+
+“All sorted,” he said. “That fitting room circuit was loose. I re-terminated it. Should be stable now.”
+
+Mara’s nod was brief, approving. “Good.”
+
+He smiled—small, contained. “Carl.”
+
+Sarah gave him a look. “Sarah.”
+
+His gaze flicked to her hands—needle, thread, the precision of her work—then back to her face.
+
+“You make that look… easy,” he said.
+
+Sarah snorted. “It’s not.”
+
+“I figured,” he said, and there was no condescension in it. Just respect. “Still. It’s good work.”
+
+He didn’t overdo it. He didn’t flirt like it was a performance. He didn’t scan her body as if he was shopping.
+
+He just… spoke to her like she was a person.
+
+Which, depressingly, narrowed the field.
+
+Later—because Celeste had the subtlety of a freight train when she wanted something to happen—there was an invitation that wasn’t exactly an invitation.
+
+“Come out with us,” Celeste said, as if she were scheduling a meeting. “Saturday. Somewhere with shade. Sarah needs feeding. You too, if you’re not feral.”
+
+Carl’s eyebrows went up, amused. “That’s an option?”
+
+“It’s always an option,” Celeste said. “Most people choose better.”
+
+Sarah rolled her eyes, but she found herself saying, “Alright then,” as if she wasn’t curious.
+
+The date—if it could be called that—was easy.
+
+Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When Sarah teased him, he laughed without trying to win.
+
+And Sarah, to her surprise, didn’t feel like she had to armour herself.
+
+The trouble began about twenty minutes in, when Celeste texted:
+
+**where are you**
+
+Sarah stared at it.
+
+Of course.
+
+She hadn’t even replied when Bree sent a photo: Bree and Lily somewhere bright and smug, holding iced coffees like trophies.
+
+**You better not be having fun without us 😘**
+
+Sarah looked up to find Carl watching her with mild curiosity, not suspicion.
+
+“Your… friends?” he asked.
+
+Sarah sighed. “My… workplace. It’s a women’s atelier. They behave like a flock.”
+
+Carl’s smile was warm. “Sounds… intense.”
+
+“It is,” Sarah said. “And occasionally delightful.”
+
+A minute later, Celeste and Charli actually *appeared*—not on purpose, Sarah suspected, but as if the universe itself had decided Sarah wasn’t allowed one uncomplicated experience.
+
+Celeste spotted them and did that crisp, predatory pause she did when she was assessing a scene.
+
+Charli hovered half a step behind, polite as a ghost.
+
+Bree and Lily arrived shortly after, laughing too loudly and immediately taking control of the table arrangement as if it were a military operation.
+
+Carl stood when they came over. He introduced himself. He shook hands. He didn’t leer, didn’t interrupt, didn’t puff up.
+
+He was… good.
+
+A decent bloke.
+
+The kind of man you could bring home to a mother who was difficult to impress.
+
+And Sarah sat there, watching him hold his own without pushing, watching him make space for the women without vanishing, and realised the truth with a kind of quiet inevitability:
+
+He wasn’t wrong.
+
+He just wasn’t *hers*.
+
+Because the warmth she felt tonight—what steadied her, what made her softer—wasn’t Carl’s attention.
+
+It was the way Charli leaned into Celeste’s shoulder when Celeste murmured something at her ear.
+
+It was the way Celeste reached for Charli’s water glass without thinking, refilled it, slid it back—care like muscle memory.
+
+It was the flicker in Bree’s eyes when Lily touched her wrist.
+
+It was woman-shaped. Woman-made. Woman-understood.
+
+Sarah felt her stomach drop a fraction—not with dread, but with clarity.
+
+Carl glanced at her as the others argued about dessert.
+
+“You alright?” he asked quietly, like he’d noticed the shift.
+
+Sarah looked at him.
+
+He deserved honesty. The real kind, not the kind that patted a man on the head and sent him away confused.
+
+“I am,” she said. Then she inhaled, steady. “But I need to tell you something, before this turns into… anything.”
+
+Carl’s face changed—subtle, bracing. “Okay.”
+
+Sarah let herself be blunt. It was kinder.
+
+“You’re lovely,” she said. “You’ve done everything right. You’re not a jerk.”
+
+A flicker of pain crossed his mouth anyway. He tried to hide it. He wasn’t very good at lying.
+
+Sarah continued, not rushing.
+
+“But my happiness,” she said, and her voice softened despite herself, “is not shaped like you.”
+
+Carl held her gaze.
+
+For a second he looked like he wanted to bargain. Then he exhaled, long and controlled, and nodded once.
+
+“Right,” he said. “Thank you for telling me straight.”
+
+Sarah’s chest loosened with relief so sharp it almost hurt.
+
+He gave a small, honest smile. “Still… I’m glad I met you.”
+
+Sarah returned it. “Me too.”
+
+And because he was decent, he didn’t make it ugly.
+
+Because she was Sarah, she didn’t pretend it was anything but what it was.
+
+Not all blokes were jerks.
+
+Some were genuinely good.
+
+But goodness wasn’t the same thing as *right*.
+
+And Sarah had finally decided she wasn’t going to confuse the two ever again.
+
+*End Scene 40.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

@@ -504,18 +504,257 @@ Like everything else in our world that mattered. 💛
 
 
 
-<!--
 
 
 
 
-## z
-### zz
+
+## Notes26-02-04ev1
+### 
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-04]
 
+**Scene 48 — “Not Temporary” (Lauren POV, past tense)**
+
+---
+
+Sarah’s kitchen was narrow in the way older houses often were—designed for one person to work efficiently, not for two adults to hover in each other’s gravity.
+
+Lauren followed her in anyway.
+
+Sarah set her coffee down on the counter with a decisive clink and opened the fridge.
+
+“Right,” she said, rummaging. “I’ve got eggs, salad stuff, cheese, and… something I’m fairly sure is still edible.”
+
+Lauren leaned on the doorframe, watching. It felt strange to be in someone else’s kitchen and not feel like she had to perform usefulness to justify her presence.
+
+“Do you want help?” Lauren asked, careful.
+
+Sarah didn’t look up. “Yes.”
+
+No softening. No false modesty. Sarah didn’t do the polite dance where women pretended they didn’t need anyone.
+
+She pulled out a carton of eggs, a bunch of greens, and a small tub of something that might have been hummus or might have been an experiment.
+
+“Wash the salad,” Sarah said. “And don’t argue with me about how you’d wash it at home. This is my house. I am in charge of bacteria here.”
+
+Lauren let out a laugh.
+
+“Understood,” she said, and moved to the sink.
+
+The tap water ran cool over her fingers. The sound of it was immediately calming, as if the nervous system recognised domestic tasks as safe terrain.
+
+Sarah cracked eggs into a bowl with one hand, stirring with brisk competence. The rhythm was soothing—tap, split, pour, toss shell, repeat.
+
+Lauren dried her hands and reached for a tea towel, folding it neatly out of habit.
+
+Sarah noticed, of course.
+
+“You’re one of those people,” Sarah said, a faint smile in her voice.
+
+Lauren blinked. “One of what people?”
+
+“The ones who fold tea towels like it’s a moral position,” Sarah replied.
+
+Lauren laughed again, but her cheeks warmed. “It’s just… tidier.”
+
+Sarah’s eyes flicked to her briefly—amused, affectionate in a way Sarah probably didn’t realise she’d started to show.
+
+“Mm,” she said. “Keep it. It’ll be useful when the world collapses.”
+
+Lauren moved around the counter to put the salad into a bowl.
+
+The space between them was small. Too small to be neutral.
+
+Their shoulders brushed—light contact, a soft collision of fabric and warmth.
+
+Lauren’s breath caught, absurdly.
+
+Sarah didn’t startle. She didn’t apologise. She simply shifted a fraction closer to make room for Lauren rather than moving away from her.
+
+The gesture felt… pointed.
+
+Lauren’s heart did that odd, tender stumble again, like it was learning a new tempo.
+
+She focused on the salad, on the neatness of leaves, on the ordinary purpose of a bowl.
+
+Sarah slid a pan onto the stove and turned the heat on. The blue flame caught and steadied.
+
+“Sit,” Sarah said over her shoulder.
+
+Lauren blinked. “I’m fine.”
+
+Sarah’s gaze cut to her. “Lauren.”
+
+There was no anger in it. Just a quiet insistence that Lauren stop trying to earn her right to exist in the room.
+
+Lauren pulled out a stool and sat at the little breakfast bar, hands folded in her lap. The posture was strangely intimate—like being allowed to be idle while someone else cared for you.
+
+Sarah plated the eggs, then set two plates down with firm hands.
+
+“Eat,” she said. “And if you say ‘I’m not hungry’ I will assume you’re lying and respond accordingly.”
+
+Lauren smiled and picked up her fork. The first bite tasted like butter and pepper and something clean and simple.
+
+Sarah ate too, standing for a moment before sitting opposite her, elbows on the counter.
+
+For a minute they just… ate. No crisis. No planning. No messages.
+
+Lauren felt her shoulders lower a fraction with each swallow.
+
+The day began to feel possible.
+
+Then Sarah’s phone buzzed again.
+
+A text, not a call.
+
+Sarah glanced at it and huffed.
+
+“Still him?” Lauren asked, heart tightening.
+
+Sarah shook her head once. “Different idiot. But yes, he’s still blocked. He can shout into the void. I’m not his void.”
+
+Lauren exhaled. She hadn’t realised she’d been holding her breath.
+
+Sarah watched her face, and Lauren felt it—Sarah’s attention, that sharp awareness that could be cutting in the workroom but was somehow different here.
+
+More… personal.
+
+“Tell me something,” Sarah said.
+
+Lauren’s fork paused. “Okay.”
+
+Sarah’s eyes narrowed slightly, thoughtful.
+
+“When you touched that spare key earlier,” Sarah said, “what was that?”
+
+Lauren’s face warmed instantly. “I didn’t— I wasn’t—”
+
+Sarah lifted a hand, stopping the spiral with a gesture. “No. I’m not accusing you. I’m asking.”
+
+Lauren swallowed, throat suddenly tight.
+
+“It’s just…” Lauren began, then faltered because the truth was embarrassingly simple.
+
+Sarah waited without filling the silence.
+
+Lauren forced herself to keep going.
+
+“It was symbolic,” Lauren admitted softly. “It made me feel… like I wasn’t trespassing.”
+
+Sarah’s expression changed—small, subtle, but real.
+
+She looked almost… pleased. Not smug. Not triumphant. Something gentler than either.
+
+“Good,” Sarah said.
+
+Lauren blinked. “Good?”
+
+Sarah set her fork down and leaned forward slightly, forearms on the counter, voice lower now.
+
+“Yes,” Sarah said. “Because you’re not.”
+
+Lauren’s heart thudded hard.
+
+Sarah held her gaze, steady as a lighthouse.
+
+“You know you’re not a temporary situation, right?” Sarah said.
+
+Lauren froze.
+
+The words were simple, almost casual. But they were loaded—like a door left open on purpose.
+
+Lauren’s mouth went dry. “Sarah…”
+
+Sarah’s expression stayed calm, but Lauren could see it now: the quiet recalculation behind her eyes. The possibility forming. The idea that intimacy might not be a man-shaped inevitability but a woman-shaped choice.
+
+Sarah spoke again before Lauren could drown in the moment.
+
+“I’m not saying you have to decide your whole life this week,” Sarah said. “I’m saying: while you’re here, you’re *here*. You’re not a guest. You’re not a burden. You’re not on probation.”
+
+Lauren’s eyes stung.
+
+“I don’t want to—” she started automatically.
+
+Sarah’s gaze sharpened.
+
+“Don’t,” Sarah said, gentle but firm. “Don’t minimise. Not in my kitchen.”
+
+Lauren laughed softly, half sob, half relief.
+
+Sarah’s mouth curved. “There we go.”
+
+Lauren stared at her, heart full of something bright and frightening.
+
+“But you—” Lauren began again, the old question rising like a reflex.
+
+Sarah’s eyebrow lifted. “Yes?”
+
+Lauren swallowed. “You said you date men.”
+
+Sarah’s smile was slow this time, and it did something to Lauren’s stomach—something warm and dizzy.
+
+“I said I’ve dated men,” Sarah corrected. “Past tense. Context. History.”
+
+Lauren’s breath caught.
+
+Sarah’s fingers tapped once on the counter—restless energy contained.
+
+“I didn’t say that was the shape of my future,” Sarah said quietly.
+
+The sentence landed like a small explosion—silent, but it changed the air in the room.
+
+Lauren’s hands trembled in her lap.
+
+She wanted to reach across the counter and touch Sarah. Just a hand over her wrist. A brush of fingers. Something tiny and honest.
+
+But she didn’t. She couldn’t trust herself not to want more.
+
+Sarah saw the hesitation anyway. Of course she did.
+
+She stood, walked around the counter—close, close enough that Lauren felt her warmth—and paused beside her stool.
+
+Lauren looked up, heart hammering.
+
+Sarah reached down and, with an almost offhand gentleness, tucked a loose strand of Lauren’s hair behind her ear.
+
+The touch was brief.
+
+But it was intimate in a way that had nothing to do with sex.
+
+It was care with precision. Presence with intention.
+
+Lauren went utterly still.
+
+Sarah’s voice dropped, private.
+
+“One step at a time,” she murmured.
+
+Lauren nodded, unable to speak.
+
+Sarah’s mouth curved—just a little—and she walked back to her side of the kitchen as if she hadn’t just tilted Lauren’s world on its axis.
+
+She picked up her plate.
+
+“Right,” Sarah said briskly, because she couldn’t linger in tenderness too long without turning it into action. “Eat. Then we make a list of what you still need from the house. And then—” she glanced at Lauren, eyes bright “—we get you through this like a woman who’s done being managed.”
+
+Lauren stared at her plate, then up at Sarah again.
+
+The air felt different now.
+
+Not charged with danger.
+
+Charged with possibility.
+
+Lauren took another bite of eggs and tasted, for the first time in a long time, something that felt almost like appetite.
+
+Not just for food.
+
+For life.
+
+*End Scene 48.*
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 

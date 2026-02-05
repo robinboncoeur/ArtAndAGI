@@ -314,17 +314,307 @@ I am his boundary.
 
 
 
-<!--
 
 
 
 
-## z
-### zz
+
+## Notes26-02-04ev1
+### 
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-04]
+
+**Scene 42 — “The Door That Locks” (Lauren POV, past tense)**
+
+Sarah’s place smelled like citrus cleaner and warm fabric—like someone lived there with intention.
+
+Not showy intention. Not a magazine. The kind that said: *I will not be at the mercy of chaos if I can help it.*
+
+Lauren stood just inside the front door with her overnight bag on the floor by her feet, her shoulders still held too high. Her body had not yet understood that she’d crossed a threshold.
+
+Sarah shut the door behind her and didn’t speak immediately. She didn’t launch into sympathy. She didn’t ask for a recap, as if Lauren’s pain needed to audition for its right to exist.
+
+Instead she did something almost aggressively ordinary.
+
+She turned the lock.
+
+Then—because she meant it—she turned it again.
+
+Two clicks. Final.
+
+“There,” Sarah said. “Now he can’t just… walk in.”
+
+Lauren’s throat tightened so quickly she had to look away. She stared at a framed print on the wall—something botanical, sharp-lined, beautiful in a restrained way—until her eyes stopped shining.
+
+“I didn’t bring much,” Lauren managed.
+
+Sarah glanced at the bag as if doing an inventory. “You brought enough.”
+
+It wasn’t praise. It was permission.
+
+Sarah took the bag and carried it like it had weight, like Lauren’s life wasn’t an inconvenience. She walked ahead down the hall and flicked on a lamp so the light came up soft and warm instead of harsh overhead. It made Sarah’s hair look almost gold at the edges.
+
+“Shoes off,” Sarah said, then added, because she wasn’t a tyrant, “if you want. I don’t care. I just… prefer it.”
+
+Lauren slipped her shoes off automatically. Her hands were shaking again now that she’d stopped moving. It was as if her body had waited for safety to begin misbehaving.
+
+Sarah noticed. Of course she did.
+
+She didn’t point it out.
+
+She went to the kitchen and filled the kettle, the way you did when you needed something to happen that didn’t require feelings.
+
+“I’m making tea,” she said. “It will help. Whether you believe in tea or not.”
+
+Lauren made a sound that might have been a laugh. It came out thin.
+
+Sarah’s mouth curved briefly—satisfied at having extracted a reaction—then she turned back to the kettle with brisk competence.
+
+Lauren stood at the end of the hallway, unsure where to put herself. She felt like a guest in a life she’d never imagined stepping into.
+
+It wasn’t that Sarah’s home was grand. It wasn’t.
+
+It was… contained. Clear. Every object seemed to have been chosen by someone who refused to settle for things that didn’t work.
+
+Lauren thought, suddenly and stupidly, of Roger’s house habits—half-finished jobs, doors that didn’t quite close, the way he left things as if a woman would quietly tidy the world behind him.
+
+Her chest tightened again.
+
+Sarah returned holding a mug with both hands, like it mattered.
+
+She handed it to Lauren and didn’t let go straight away. Her fingers stayed on the ceramic for one beat longer than necessary, steadying it—steadying Lauren—without saying so.
+
+“Sit,” Sarah said, nodding to the couch. “You look like you’re about to evaporate.”
+
+Lauren sat.
+
+The couch was firm, not sinking. Clean. A throw folded neatly at one end—not thrown there, placed there.
+
+Sarah sat in the armchair opposite, not too close. Not far. A deliberate distance that said: *I’m here, but you’re not trapped.*
+
+Lauren held the mug and tried to make her breathing normal.
+
+The tea smelled like chamomile and something sharper—ginger, maybe. Sarah had probably chosen it because it did a job.
+
+They sat like that for a moment, the only sound the kettle cooling and the faint tick of the clock in the kitchen.
+
+Then Sarah said, very calmly, “Is he going to come here?”
+
+Lauren blinked. The question was not emotional. It was tactical.
+
+“I… I don’t think so,” Lauren said. “He doesn’t—he won’t want people seeing—”
+
+Sarah’s eyes narrowed. “That’s not an answer.”
+
+Lauren swallowed. She felt foolish, suddenly, for how long she’d been trained to soften the truth.
+
+“He might,” she admitted. “If he thinks he can bully me. Or… shame me.”
+
+Sarah nodded once, like she’d expected that.
+
+“Right,” she said. “Then we do a plan. You don’t negotiate with a man who thinks the world is a debate he gets to win.”
+
+Lauren’s hands tightened around the mug.
+
+Sarah stood and went to a small side table by the door. She picked up her phone and tapped the screen, then placed it back down carefully.
+
+“My ringers are on,” she said. “I don’t normally do that. But tonight, they’re on.”
+
+Lauren stared at her. “You don’t have to—”
+
+“Yes I do,” Sarah said. Not harshly. Like it was the simplest thing. “You’re here. That changes the rules.”
+
+Lauren’s chest did something painful and bright.
+
+Sarah returned to her chair and crossed one leg over the other, posture composed. She looked for all the world like a woman who could handle anything.
+
+And yet she was watching Lauren’s face with a kind of alert quietness—as if she understood that the most dangerous part of leaving wasn’t the argument, it was the aftermath. The moment your body realised you’d stepped out of the familiar cage and now had no script for the open air.
+
+Lauren’s voice came out smaller than she intended. “Thank you.”
+
+Sarah made a face, impatient with gratitude.
+
+“I’m not doing this for points,” she said. Then, a beat later, she added, more softly, “You don’t have to earn safety.”
+
+Lauren looked down into her tea.
+
+There it was again: the way Sarah said something that sounded like a rebuke, and yet landed like care.
+
+Lauren’s eyes stung.
+
+Sarah didn’t pretend not to notice.
+
+She stood, walked over, and sat down beside Lauren on the couch—not pressed against her, but close enough that Lauren could feel her warmth. The proximity was a question. It was also a choice.
+
+Sarah reached for the throw and unfolded it with brisk precision, then laid it across Lauren’s lap as if tucking in a child who wasn’t allowed to be a child.
+
+“There,” Sarah said. “You’re cold.”
+
+“I’m not,” Lauren started automatically, trained to minimise.
+
+Sarah gave her a look that stopped the lie mid-breath.
+
+“Lauren,” she said. “Please don’t do that here.”
+
+Lauren’s mouth closed.
+
+The heat behind her eyes broke a little.
+
+“I’m sorry,” she whispered, and immediately hated herself for apologising again.
+
+Sarah’s expression flickered—irritation, yes, but not at Lauren. At the reflex. At the years that had installed it.
+
+“Don’t,” Sarah said, quieter. “Not tonight.”
+
+Lauren’s breath hitched.
+
+Sarah’s hand landed on her knee on top of the throw. Firm. Warm. Not tentative. Not sexual. Simply grounding.
+
+Lauren went still.
+
+Sarah didn’t move her hand away.
+
+And in that stillness Lauren realised something that made her dizzy: she had been starving for contact that wasn’t a claim.
+
+A hand that didn’t demand.
+
+A touch that didn’t take.
+
+Lauren’s eyes filled. She stared at the throw because if she looked at Sarah she might… do something. Say something.
+
+Sarah’s thumb moved once, a small stroke through the fabric.
+
+“I’m going to ask you a question,” Sarah said. Her voice was low now, careful in a way it rarely was. “And you can say no. And I will be normal about it.”
+
+Lauren’s heart thudded.
+
+“Okay,” she managed.
+
+“Do you want a hug?” Sarah asked.
+
+It was such a simple sentence. It hit Lauren like a wave.
+
+Lauren’s mouth opened. No sound came out.
+
+Sarah waited, utterly still. No pressure. No coaxing. Just the clean offer.
+
+Lauren nodded once, sharp and helpless.
+
+Sarah exhaled like she’d been holding herself back from something.
+
+Then she pulled Lauren in.
+
+It wasn’t a delicate hug. It wasn’t the awkward pat-pat of social obligation.
+
+It was firm and full-bodied—arms around shoulders, hand cradling the back of Lauren’s head for a second as if Sarah was making a point: *You’re not alone. You are not ridiculous. You are not asking too much.*
+
+Lauren made a small, broken sound into Sarah’s shoulder that embarrassed her immediately.
+
+Sarah didn’t flinch. She didn’t recoil. She only held her tighter.
+
+“It’s alright,” Sarah said, and the words were blunt, as if tenderness embarrassed her too. “Let it out. He doesn’t get to keep it all inside you.”
+
+Lauren cried then. Quietly. Ugly. The way you cried when you’d spent years being careful not to.
+
+Sarah stayed.
+
+Sarah kept her arms around her.
+
+When Lauren’s breathing finally slowed, Sarah didn’t pull away abruptly. She loosened the hold gradually, letting Lauren’s body decide when to stop leaning.
+
+Lauren wiped her face with the heel of her hand, mortified.
+
+Sarah tilted her head. “You’re not going to apologise.”
+
+Lauren swallowed. “I wasn’t going to.”
+
+Sarah’s mouth twitched. “Good.”
+
+They sat there, shoulder to shoulder.
+
+Lauren could feel her own heartbeat still racing, could feel the warmth of Sarah’s thigh beside hers, the steadiness of her presence like a wall that didn’t move.
+
+In the kitchen, the clock ticked on.
+
+Outside, a night insect buzzed briefly and stopped.
+
+Sarah leaned forward to pick up Lauren’s mug and set it on the coffee table, then did the same with her own.
+
+“Right,” she said. “Practicalities.”
+
+Lauren blinked. “Now?”
+
+“Yes,” Sarah said, already standing. “Because your brain will spin if I let it. Come on.”
+
+She led Lauren down the hall to the spare room.
+
+The bed was made with crisp sheets. A folded towel sat at the end like a promise. A small lamp glowed warmly on the bedside table. On the pillow was a spare toothbrush in its packet, placed there as if Sarah had simply manifested it.
+
+Lauren stared.
+
+Sarah shrugged as if this wasn’t intimacy at all, just logistics. “I keep spares. People have emergencies.”
+
+Lauren’s throat tightened again.
+
+Sarah reached past her to draw the curtains, shutting out the streetlight. Then she checked the window latch with a click.
+
+Then—still not looking at Lauren—she said, “If he shows up, you don’t answer. You don’t explain. You don’t negotiate. You stay in here. I’ll handle it.”
+
+Lauren’s voice came out thin. “What if—”
+
+Sarah turned and looked at her fully now, eyes sharp as a seam ripper.
+
+“Lauren,” she said, “you have spent too long being the reasonable one.”
+
+Lauren’s breath caught.
+
+Sarah stepped closer.
+
+Her expression softened—not much, but enough.
+
+“You can be unreasonable here,” Sarah said. “You can be scared here. You can be… whatever you are. I won’t think less of you.”
+
+Lauren’s face warmed. She tried to speak. Failed.
+
+Sarah’s gaze flicked to Lauren’s hands, still trembling slightly.
+
+“You need sleep,” Sarah said, and then, as if it cost her something, she added, “I’ll be right across the hall.”
+
+Lauren nodded.
+
+Sarah reached out and touched Lauren’s shoulder—brief, firm. A punctuation mark, not a lingering caress.
+
+Then she paused at the door.
+
+“I meant what I said,” Sarah said.
+
+“What?”
+
+“The door that locks,” Sarah replied. “Not just the actual one.”
+
+And then she left, and closed the door with care—no click of a lock this time, because Lauren needed to feel free—but the sound of it settling into place was somehow just as reassuring.
+
+Lauren sat on the edge of the bed, listening.
+
+She heard Sarah’s footsteps in the hall. The faint sound of a kettle being refilled. The soft clink of something put away.
+
+Normal.
+
+Safe.
+
+Lauren lay down and pulled the sheet up to her chest, and for the first time all day she felt her body begin to unclench—not because her life was solved, but because she had, finally, placed herself within reach of women who would not let the world swallow her.
+
+She closed her eyes.
+
+And in the dark, the peace that had seemed impossible at home came to her in a new shape:
+
+Not the quiet of a man being absent.
+
+The quiet of a woman being present.
+
+*End Scene 42.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

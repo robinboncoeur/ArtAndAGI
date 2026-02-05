@@ -515,6 +515,602 @@ But cautiously curious.
 
 And that, for me, was almost romantic.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## Notes26-02-04ev1
+### 
+
+<img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-04]
+
+**Scene 46 — “Test Fit” (Lauren POV, past tense)**
+
+---
+
+By late afternoon Wardrobe smelled like steam and chalk and the faint metallic bite of scissors that had worked all day.
+
+The Les Mis order had turned the workroom into a machine—pattern paper everywhere, fabrics in disciplined stacks, four different costumes hanging on mannequins like a small chorus of lives waiting to be worn. Every woman in the room moved with that particular tired focus that felt almost holy: bodies exhausted, minds still sharp.
+
+Mara stood at the central rack with her arms folded, eyes flicking from hem to seam to neckline like she was reading a story. Celeste hovered beside her, pencil behind one ear, hair slightly disordered—her favourite state, Lauren had noticed, the one she wore when she was building something.
+
+Charli was at the dress form, pinning with careful hands, lips pressed together in concentration. Her posture had that quiet certainty now—still gentle, still deferential, but no longer apologetic for existing.
+
+And Lucy—Lucy had come out of the fitting room holding up a garment that was unmistakably for a bloke.
+
+Not a dainty piece. Not something you could “adapt” into a feminine silhouette with a bit of ribbon and optimism. It had breadth. Weight. A coat shape with authority in it. A costume meant for a man who took up space.
+
+Lucy grinned like she’d found a new sport.
+
+“I’ll do it,” she announced.
+
+The whole room paused, collectively, as if someone had said the wrong line in rehearsal.
+
+Bree blinked. “You’ll… do what?”
+
+Lucy lifted the coat higher, unfazed. “Test it.”
+
+Sarah looked up from where she was unpicking a seam with surgical patience. “Lucy,” she said, voice careful, “are you feeling unwell?”
+
+Lucy shot her a look. “Don’t be dramatic.”
+
+Celeste’s eyes narrowed with interest. “Since when do you volunteer for blokes’ costumes?”
+
+Lucy shrugged, entirely too casual. “Since I realised I’ve never actually tried one.”
+
+Bree’s mouth curved. “Is this a *gender* thing, or a *you like attention* thing?”
+
+Lucy’s grin widened. “Yes.”
+
+Charli made a small sound that could have been a laugh. It was soft and brief and surprisingly unguarded.
+
+Lauren felt her own mouth twitch.
+
+It was such a neat little inversion that it almost felt scripted: Lucy, who had once been relieved when Charlie—back when he was still presenting as a bloke—had been willing to do the dress-testing she didn’t want to do… now eager to try the man’s costume herself, like she was reclaiming a missed chapter.
+
+Readers would love it, Lauren thought, and immediately corrected herself: *I’m not a reader. I’m in it.*
+
+Mara, who rarely indulged theatrics, simply nodded once. “Do it properly,” she said. “If we’re making men’s coats now, we make them with standards.”
+
+Lucy made a mock salute. “Yes, Captain.”
+
+And then, with perfect timing, Lily leaned in at Lucy’s side and murmured something low enough that only Lucy could hear it.
+
+Lucy’s grin softened—just a fraction—into something warmer, less performative.
+
+Bree saw it too. Her eyes flicked between them, amused and knowing.
+
+Sarah didn’t comment, which meant she’d noticed.
+
+Of course she had.
+
+By the time the coat was on, Lucy was standing in front of the mirror with her shoulders squared, chin lifted, hands in the pockets like she’d been born in a barricade scene.
+
+“Oh,” Lucy said, assessing her reflection. “That’s… horrifying.”
+
+Bree cackled. “You look like you’re about to unionise.”
+
+Lucy turned slightly, watching the coat move. “The fit is actually… good.”
+
+Celeste stepped forward, eyes bright, and adjusted the lapel with two quick motions. “It’s excellent,” she said. “And you’re right—this weight will be unbearable in Queensland unless we line it differently.”
+
+Charli pointed with her pin. “If we shift the seam here, it’ll sit cleaner on the shoulder.”
+
+Lucy looked at Charli, impressed. “See? This is why I keep you.”
+
+Charli blinked, startled, then smiled—tiny, involuntary.
+
+Sarah’s eyes flicked to Charli for half a second and softened.
+
+Lauren saw it.
+
+Then saw herself seeing it.
+
+And felt, strangely, a little ache—gentle and confusing—as if the room was full of truths moving quietly through the air and Lauren’s body was beginning to recognise them before her mind could.
+
+When the day finally loosened its grip—when the last seams were pinned, the notes written, the fabric bundled for tomorrow—Lauren gathered her things with the careful efficiency of a woman who did not want to be the last one left in a room.
+
+Sarah was already pulling her hair free from its pin, shaking it out once like she was shedding the workday from her scalp.
+
+“You ready?” Sarah asked, voice brisk.
+
+Lauren nodded. “Yep.”
+
+She said it too quickly.
+
+Sarah’s eyes flicked over her face, and Lauren felt the familiar discomfort of being seen too clearly.
+
+They walked out together, the bell chiming behind them, the evening air warm and soft as a hand on the back.
+
+The parking area was half-lit. The sky held that late glow Queensland did so well—blue fading into gold, the heat easing but not disappearing.
+
+Lauren’s i20 waited a few rows away, modest and faithful, like it had never once judged her for staying too long.
+
+Sarah walked beside her, not close enough to touch. Not far enough to feel like distance.
+
+Lauren found herself paying attention to the small things: the swing of Sarah’s arm, the way her shoulders rolled when she was tired, the faint mark the elastic had left at her wrist from a hair tie.
+
+Hungry for touch, Lauren thought suddenly, and the phrase startled her with its bluntness.
+
+It wasn’t lust, exactly. It was… longing for contact that felt safe. Contact that didn’t come with obligation. A hand on her back, a brief press of fingers to her elbow, a shoulder leaned into her own.
+
+She wanted it so badly she didn’t dare ask.
+
+Because asking felt like crossing an invisible line.
+
+And because—Lauren reminded herself firmly—Sarah dated men.
+
+Sarah had always dated men.
+
+Sarah’s lovers were men.
+
+Lauren’s heart gave a small, idiotic twist at that.
+
+They reached the car. Lauren unlocked it. The interior was warm and smelled faintly of old vanilla and the sun-baked plastic of a decade-old dashboard.
+
+Sarah slid into the passenger seat with a sigh that sounded like someone putting down armour.
+
+Lauren started the engine. The air conditioner coughed, then did its earnest best.
+
+They pulled out of the parking area and merged into the gentle evening traffic.
+
+For a few minutes they spoke about work—fabric, deadlines, Mara’s standards, Celeste’s relentless optimism.
+
+Sarah said, “We’ll do it,” in that decisive tone she used when she refused to entertain doubt.
+
+Lauren nodded and found herself smiling despite herself.
+
+Then, as the road opened slightly and the car settled into a steady speed, Sarah’s voice shifted.
+
+“Tell me about high school,” she said.
+
+Lauren blinked. “What?”
+
+Sarah glanced out the window as if it were casual. “You keep referencing it like it’s a scar you still poke. So. Tell me.”
+
+Lauren’s hands tightened on the steering wheel. She felt her heartbeat kick up in a way that had nothing to do with traffic.
+
+“I—” she began, and stopped.
+
+Sarah looked at her now, not quite smiling. “Lauren. I’m not asking for a memoir. I’m asking for context.”
+
+Lauren let out a breath that was almost a laugh. “You’re very… direct.”
+
+“Mm,” Sarah said. “It saves time.”
+
+Lauren hesitated, then started with the safe bits—boys who were unkind, the way girls learned early to perform friendliness, the quiet dread of being judged for everything. She spoke in fragments, steering the story around the worst parts without naming them.
+
+Sarah listened without interrupting.
+
+That, Lauren realised, was a kind of intimacy on its own.
+
+At a red light, Sarah said, “And did you date?”
+
+Lauren’s mouth went dry.
+
+“Yes,” Lauren said carefully. “A bit. Nothing… significant until Roger.”
+
+Sarah made a small sound—half disapproval, half acknowledgment. “So you went from nothing to *that*.”
+
+Lauren’s fingers tightened. “I thought it was stability.”
+
+Sarah didn’t argue.
+
+She just said, “I know.”
+
+The light turned green. Lauren drove on.
+
+The conversation should have stayed on that track. It should have remained safe.
+
+Instead, a thought rose in Lauren’s mind like a bubble she couldn’t push back down:
+
+*Tell her.*
+
+She felt it as a physical urge—words pressing behind her teeth, a truth that wanted air.
+
+But telling Sarah felt dangerous.
+
+Not because the truth was shameful.
+
+Because Sarah mattered.
+
+Lauren glanced at Sarah’s profile—strong nose, steady jaw, the faint tiredness at the corner of her eyes. She looked, for the first time, like someone Lauren could imagine in her future.
+
+The thought made Lauren’s chest tighten.
+
+Sarah dated men, Lauren reminded herself again, as if repetition could make longing behave.
+
+So Lauren pulled back, mid-thought.
+
+She changed lanes a little too sharply.
+
+Sarah noticed. Of course she did.
+
+“What were you about to say?” Sarah asked.
+
+“Nothing,” Lauren said too quickly.
+
+Sarah turned her head to look at her properly.
+
+“No,” Sarah said, and there was no softness in it. “That wasn’t nothing.”
+
+Lauren felt heat creep up her neck.
+
+“It’s… silly,” she said.
+
+Sarah’s mouth curved slightly. “Try me.”
+
+Lauren gripped the steering wheel. Her voice came out smaller than she wanted.
+
+“I had a crush,” she said.
+
+Sarah waited.
+
+Lauren swallowed. “On a girl.”
+
+There. Said.
+
+The cabin went very still.
+
+Lauren’s heart hammered. She kept her eyes on the road because looking at Sarah felt like stepping off a cliff.
+
+Sarah’s voice, when it came, was calm.
+
+“And?” she asked.
+
+Lauren blinked, startled.
+
+“And… what?”
+
+“And what happened?” Sarah said, as if Lauren had confessed to liking chocolate.
+
+Lauren let out a shaky breath.
+
+“Nothing,” she admitted. “I never told her. I didn’t— I didn’t even really tell myself. I just…” Her voice caught. “I just kept it locked away.”
+
+Sarah was quiet for a beat.
+
+Then she said, very matter-of-fact, “That’s not silly.”
+
+Lauren dared a glance.
+
+Sarah was watching her, and there was something in her expression that made Lauren’s throat tighten again—not pity, not judgement.
+
+Understanding.
+
+And something else, quieter.
+
+As if Sarah was recalculating a future she’d assumed had a certain shape.
+
+Lauren’s pulse skittered.
+
+“But you—” Lauren began, then stopped, mortified.
+
+Sarah’s eyebrow lifted. “I what?”
+
+Lauren’s voice came out in a rush, embarrassed by its own honesty.
+
+“But you date guys,” she said.
+
+Sarah stared at her for a second, then let out a small, incredulous laugh.
+
+“Oh,” Sarah said, and the word was amused and thoughtful at once. “Do I?”
+
+Lauren’s hands went cold on the wheel.
+
+Sarah leaned back in the seat and looked out the window again, but her voice stayed low, controlled.
+
+“I’ve dated men,” Sarah said. “Yes.”
+
+Lauren’s throat tightened. “So—”
+
+“So that means what, exactly?” Sarah asked, and now there was a tiny edge of challenge in it. “That I’m only allowed one kind of happiness because that’s what I’ve done so far?”
+
+Lauren couldn’t answer.
+
+She didn’t know the rules.
+
+Sarah’s mouth curved—briefly, and not unkindly.
+
+“You don’t have anything to worry about,” Sarah said.
+
+Lauren swallowed. “I wasn’t— I mean— I don’t want to jeopardise—”
+
+“I know,” Sarah cut in. Her voice softened, almost imperceptibly. “You’re terrified of ruining something good.”
+
+Lauren’s eyes stung.
+
+Sarah’s hand moved then—small, deliberate—across the narrow space between them.
+
+She didn’t grab Lauren’s hand.
+
+She didn’t force anything.
+
+She simply rested her fingers lightly on Lauren’s forearm for one brief second—warmth through fabric, a touch that said: *You are safe to be true here.*
+
+Then she withdrew, as if showing Lauren that touch could be offered without demand.
+
+Lauren’s breath caught.
+
+The red light up ahead glowed, and Lauren slowed the car, heart still pounding, mind full of a new kind of possibility that felt too bright to stare at directly.
+
+Sarah spoke again, voice dry, as if she needed humour to keep the moment from becoming too naked.
+
+“And for the record,” she said, “I’m not exactly the poster girl for making good choices with men.”
+
+Lauren’s laugh escaped—small, startled.
+
+Sarah’s smile widened, and this time it reached her eyes.
+
+“See?” Sarah said, satisfaction threading through the words. “Nothing to worry about.”
+
+Lauren stopped at the light.
+
+The engine idled.
+
+The evening air hummed outside.
+
+And inside the car Lauren sat with her hands on the wheel and a strange, tender puzzlement in her chest—like she had just been handed a truth and wasn’t sure yet how to hold it without dropping it.
+
+She didn’t say anything more.
+
+Neither did Sarah.
+
+But Sarah’s smile lingered a little too long for it to be nothing.
+
+And Lauren realised, as the light turned green and she drove them home, that the future—quietly, without fanfare—was beginning to look… woman-shaped.
+
+*End Scene 46.*
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## x
+### xx
+
+<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## w
+### ww
+
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## v
+### vv
+
+<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## u
+### uu
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## t
+### tt
+
+<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## s
+### ss
+
+<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## r
+### rr
+
+<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+## q
+### qq
+
+<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## p
+### pp
+
+<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## o
+### oo
+
+<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## n
+### nn
+
+<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## m 
+### mm
+
+<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## l
+### ll
+
+<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
