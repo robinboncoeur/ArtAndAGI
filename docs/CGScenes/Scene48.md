@@ -770,7 +770,277 @@ For life.
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+Perfect choice — and for exactly the right reason. 💛
+Variant C makes Sarah *more* attractive, not less: she’s decisive **and** disciplined, protective without being patronising. That’s very “Sarah,” and it honours Lauren’s fragility without turning her into a patient.
+
+Here’s **Scene 48** rewritten with the *Variant C* calibration, seamlessly (Lauren POV, 1st person, past tense). I’ve kept your rhythms, your domestic sensory beats, and the “bacteria dictatorship” humour, but I’ve re-anchored the “not temporary” line so it lands as **sanctuary + structure**, with the romantic possibility held in **restraint and precision**.
+
+---
+
+## **Scene 48 — “Not Temporary” (Lauren POV, 1st person, past tense)**
+
+Sarah’s kitchen was narrow in the way older houses often were—designed for one person to work efficiently, not for two adults to hover in each other’s gravity.
+
+I followed her in anyway.
+
+She set her coffee down on the counter with a decisive clink and opened the fridge.
+
+“Right,” she said, rummaging. “I’ve got eggs, salad stuff, cheese, and… something I’m fairly sure is still edible.”
+
+I leaned on the doorframe, watching. It felt strange to be in someone else’s kitchen and not feel like I had to perform usefulness to justify my presence.
+
+“Do you want help?” I asked, careful.
+
+Sarah didn’t look up. “Yes.”
+
+No softening. No false modesty. Sarah didn’t do the polite dance where women pretended they didn’t need anyone.
+
+She pulled out a carton of eggs, a bunch of greens, and a small tub of something that might have been hummus or might have been an experiment.
+
+“Wash the salad,” she said. “And don’t argue with me about how you’d wash it at home. This is my house. I am in charge of bacteria here.”
+
+A laugh slipped out of me before I could stop it.
+
+“Understood,” I said, and moved to the sink.
+
+The tap water ran cool over my fingers. The sound of it was immediately calming, as if my nervous system recognised domestic tasks as safe terrain.
+
+Behind me, Sarah cracked eggs into a bowl with one hand, stirring with brisk competence. The rhythm was soothing—tap, split, pour, toss shell, repeat.
+
+I dried my hands and reached for a tea towel, folding it neatly out of habit.
+
+Sarah noticed, of course.
+
+“You’re one of those people,” she said, faint amusement threading through her voice.
+
+I blinked. “One of what people?”
+
+“The ones who fold tea towels like it’s a moral position,” she replied.
+
+I laughed again, cheeks warming. “It’s just… tidier.”
+
+Her eyes flicked to me briefly—amused in a way that felt dangerously close to affectionate.
+
+“Mm,” she said. “Keep it. It’ll be useful when the world collapses.”
+
+I moved around the counter to put the salad into a bowl.
+
+The space between us was small. Too small to be neutral.
+
+Our shoulders brushed—light contact, fabric and warmth—and my breath caught, absurdly, like my body had been waiting all day for the smallest permission.
+
+Sarah didn’t startle. She didn’t apologise. She simply shifted a fraction closer to make room for me rather than moving away.
+
+The gesture felt… deliberate.
+
+My heart did that odd, tender stumble again, like it was learning a new tempo and hating itself for how quickly it wanted to follow.
+
+I focused on the salad. On the neatness of leaves. On the ordinary purpose of a bowl.
+
+Sarah slid a pan onto the stove and turned the heat on. The blue flame caught and steadied.
+
+“Sit,” she said over her shoulder.
+
+“I’m fine,” I said automatically.
+
+Her gaze cut to me. “Lauren.”
+
+There was no anger in it. Just a quiet insistence that I stop auditioning for my place in the room.
+
+I pulled out a stool and sat at the little breakfast bar, hands folded in my lap. The posture felt strangely intimate—being allowed to be idle while someone else cared for me.
+
+Sarah plated the eggs and set two plates down with firm hands.
+
+“Eat,” she said. “And if you say ‘I’m not hungry,’ I’ll assume you’re lying and respond accordingly.”
+
+I smiled, picked up my fork, and took a bite.
+
+Butter. Pepper. Something clean and simple.
+
+Sarah ate too, standing for a moment before sitting opposite me, elbows on the counter.
+
+For a minute we just… ate. No crisis. No planning. No messages.
+
+I felt my shoulders lower a fraction with each swallow, like my body was being reminded that survival didn’t have to be constant.
+
+Then her phone buzzed again.
+
+A text, not a call.
+
+She glanced at it and huffed.
+
+“Still him?” I asked, my heart tightening before I could stop it.
+
+Sarah shook her head once. “Different idiot. But yes, he’s still blocked. He can shout into the void. I’m not his void.”
+
+I exhaled. I hadn’t realised I’d been holding my breath.
+
+Sarah watched my face—really watched it—and I felt that familiar discomfort: being seen too clearly, too quickly.
+
+“Tell me something,” she said.
+
+My fork paused. “Okay.”
+
+Her eyes narrowed slightly, thoughtful.
+
+“When you touched that spare key earlier,” she said, “what was that?”
+
+Heat rushed into my face.
+
+“I didn’t— I wasn’t—”
+
+She lifted a hand, stopping the spiral. “No. I’m not accusing you. I’m asking.”
+
+I swallowed, throat suddenly tight.
+
+“It’s just…” I began, and faltered because the truth was embarrassingly simple.
+
+Sarah waited without filling the silence.
+
+I forced myself to keep going.
+
+“It was symbolic,” I admitted softly. “It made me feel like I wasn’t trespassing.”
+
+Her expression changed—small, subtle, but real. Not smug. Not triumphant.
+
+Pleased.
+
+“Good,” she said.
+
+I blinked. “Good?”
+
+Sarah set her fork down and leaned forward slightly, forearms on the counter, voice lower.
+
+“Yes,” she said. “Because you’re not.”
+
+My heart thudded hard.
+
+She held my gaze—steady as a lighthouse—and then she said it, plain and decisive, as if she’d been waiting for the right moment to make it a rule.
+
+“You are not a temporary situation.”
+
+The words hit me, and panic rose immediately—my mind trying to turn them into a story it hadn’t earned.
+
+Sarah saw it on my face and sighed.
+
+“Not like that,” she said bluntly, kind in the same breath. “I mean: you’re not couch-surfing. You’re not a guest who has to earn air. You’re not on probation.”
+
+My eyes stung.
+
+“I don’t want to—” I started automatically.
+
+Her gaze sharpened. “Don’t.”
+
+The single word landed like a hand on my shoulder.
+
+“Don’t minimise,” she said. “Not in my kitchen.”
+
+A laugh escaped me that was half sob, half relief.
+
+Sarah’s mouth curved. “There we go.”
+
+I stared at her, heart full of something bright and frightening and utterly unfamiliar: being cared for without negotiation.
+
+Then I heard myself say it—the practical objection my brain grabbed like a life raft.
+
+“But… won’t I get in your way?” I asked, voice tight. “Your dating. Your life.”
+
+Sarah blinked at me, then looked almost offended.
+
+“Lauren,” she said slowly, “are you trying to manage my personal life while you’re actively falling apart?”
+
+“I’m not—” I began, mortified.
+
+She exhaled through her nose, a laugh that wasn’t unkind. “God.”
+
+Then she leaned back in her chair, studying me like she was deciding whether to say something she’d been holding in her mouth for weeks.
+
+“All right,” she said. “Since you’ve brought it up.”
+
+My pulse skittered.
+
+“I’ve dated men,” she said. “That’s history.”
+
+I swallowed, trying to keep my face neutral.
+
+“But I’ve been watching women at Wardrobe,” she continued, and there was something quietly intent in her voice now—less banter, more truth. “Bree and Lily. Celeste and Charli.”
+
+I went very still.
+
+“It looks… better,” Sarah said, almost grudging about the honesty. “It looks safer. It looks like people actually *see* each other. No tests. No transactions. No stupid power games.”
+
+My throat tightened.
+
+“And yes,” she added, meeting my eyes without flinching, “it has appeal.”
+
+My mind went into overdrive so fast I almost felt dizzy.
+
+This was the same Sarah who’d spent years armouring herself in sarcasm and standards. The same Sarah who could cut a man down with two words and then go back to pinning a hem like he’d never existed.
+
+And here she was, in her narrow kitchen, calmly admitting she’d been noticing something else. Something woman-shaped.
+
+I stared at her as if she’d shifted the world a few degrees.
+
+Sarah pushed back her chair and stood.
+
+She walked around the counter toward me—close, close enough that I could feel her warmth—and stopped beside my stool.
+
+I looked up, heart hammering.
+
+Her gaze flicked to my mouth, then back to my eyes.
+
+For a second I was certain she was going to kiss me.
+
+Instead, she reached down and tucked a loose strand of hair behind my ear.
+
+The touch was brief.
+
+Intimate in a way that had nothing to do with sex.
+
+Care with precision. Presence with intention.
+
+I went utterly still.
+
+“That,” she murmured, “is as far as I’m going tonight.”
+
+My breath shook. “Why?”
+
+Sarah’s mouth twitched—not amused. Disciplined.
+
+“Because you’re raw,” she said. “And because I’m not taking advantage of the part of you that’s starving for kindness.”
+
+My eyes filled instantly.
+
+She held my gaze, steady.
+
+“One step at a time,” she said. “Eat. Sleep. Tomorrow we deal with Roger. Then—” a deliberate pause “—then we’ll see what we both want when you’re not in survival mode.”
+
+I couldn’t speak. I could only nod.
+
+Sarah stepped back, the air cooling where her warmth had been.
+
+And then, because she could never leave tenderness unbalanced for too long, she pointed at my plate with mock sternness.
+
+“Eat,” she ordered. “I’m not having you faint dramatically in my kitchen. I’ll never hear the end of it.”
+
+A shaky laugh broke out of me, startled and real.
+
+Sarah’s grin flashed. “There she is.”
+
+I took another bite of eggs and tasted, for the first time in a long time, something that felt almost like appetite.
+
+Not just for food.
+
+For life.
+
+*End Scene 48.*
+
+---
+
+If you like, I can now **re-tune Scene 47 → Scene 48 transition** with one or two tiny “bridge” lines so Sarah’s “watching Wardrobe” observation feels even more seeded (without making it obvious). Just a couple of micro-glances or a throwaway remark earlier in 47 that retroactively supports this moment. 😊
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -788,7 +1058,125 @@ For life.
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+Yes — lovely catch. 😊 And you’re right to flag the “dating men” line: it’s *very* easy for it to sound like a manifesto (or like Sarah is rewriting her identity on the spot) when what we want is **Sarah being precise, grounded, and a bit allergic to grand declarations**.
+
+Below are:
+
+1. **Two tiny bridge inserts** for **Scene 47** (micro-seeding, not obvious)
+2. **One tiny bridge insert** for the top of **Scene 48** (to carry the thread cleanly)
+3. A **replacement set** for the “men” line(s), in **three tonal options**, so Sarah stays Sarah.
+
+You can mix-and-match — but I’ve written them so they slot in cleanly.
+
+---
+
+# 1) Scene 47 micro-seeds (choose 1–2)
+
+## Insert A — at Wardrobe, *after* Lucy in the coat / before the wrap-up
+
+This plants the “Sarah has been watching women” idea without spelling it out.
+
+> As Lucy turned in the coat, Bree drifted closer, still laughing, and Lily’s hand landed at Lucy’s back—brief, unthinking, perfectly placed.
+>
+> Sarah’s eyes flicked there. Just a flick.
+>
+> Something in her face shifted—too quick to name—before she went back to her seam as if she hadn’t seen a thing.
+
+## Insert B — in the car, *after* Sarah says “We’ll do it,” before she asks about high school
+
+This makes Sarah’s later line feel like it’s been simmering in her mind all day.
+
+> Sarah watched the road for a moment, then said, almost to herself, “You know what I like about that place?”
+>
+> “Wardrobe?” I asked.
+>
+> “Mm.” A pause. “Women. Getting on with it. No theatre. Just… solid.”
+>
+> I didn’t know what to do with that, so I nodded and kept driving.
+
+Either of those makes Scene 48’s “I’ve been watching…” feel earned.
+
+---
+
+# 2) Scene 48 bridge line (top-of-scene carryover)
+
+Right after: *“Sarah’s kitchen was narrow…”* add this:
+
+> The quiet followed us in like a third person—settling, not intruding—like the house knew how to hold women gently after a hard day.
+
+It ties the “Wardrobe safety” feeling to “Sarah’s home safety” in one breath.
+
+---
+
+# 3) Fixing the “dating men” line(s)
+
+I suspect the bit that feels off is this in the revised Scene 48:
+
+> “I’ve dated men,” she said. “That’s history.”
+
+It risks sounding a little… *speechy* or like Sarah is issuing an identity statement. She’d more likely **de-centre men entirely** (very Sarah) and speak in **behavioural/values terms**: what she wants, what she won’t tolerate, what she’s been noticing.
+
+Here are three options, from most “Sarah” (dry/grounded) to most emotionally revealing — all still controlled.
+
+## Option 1 — Dry, precise, de-centres men (my favourite)
+
+Replace the whole mini-exchange with:
+
+> Sarah blinked at me, then looked almost offended.
+>
+> “Lauren,” she said slowly, “are you trying to manage my love life while you’re actively falling apart?”
+>
+> “I’m not—” I began, mortified.
+>
+> She exhaled through her nose. “God.”
+>
+> Then, because she couldn’t leave it alone, she added, “I’ll date whoever I please. But I’m not currently taking applications.”
+>
+> My stomach dropped in a way that wasn’t disappointment exactly—more like vertigo.
+>
+> Sarah’s gaze held mine. “What I *am* doing is paying attention to what looks sane. And what looks safe.”
+>
+> A pause. Deliberate.
+>
+> “And lately,” she said, “that’s been women.”
+
+This keeps her strong, non-performative, and it’s not “I am X,” it’s “I’m noticing Y.”
+
+## Option 2 — Still grounded, but references her past without making it the centre
+
+If you want her to acknowledge history without sounding like a TED talk:
+
+> “I’ve spent years defaulting to men because that was the path of least resistance,” Sarah said.
+>
+> She shrugged once, like she hated that this counted as self-disclosure.
+>
+> “But I’m not obligated to keep repeating the same pattern just because it’s familiar.”
+
+It’s less “identity” and more “pattern recognition” — very Sarah.
+
+## Option 3 — Softest / most intimate, but still disciplined
+
+If you want it to feel like a rare, honest reveal:
+
+> “I used to think men were… inevitable,” Sarah said quietly.
+>
+> Her mouth twitched, humourless. “Like weather.”
+>
+> She met my eyes. “Turns out that’s not true. Turns out I get to choose.”
+
+Still not a declaration — a **permission statement**.
+
+---
+
+# Quick recommendation (so it stays consistent)
+
+* Use **Insert A** (Wardrobe micro-glance) + **Option 1** (de-centre men)
+  That combo makes Sarah feel *most* like herself: sharp, protective, quietly radical — without “coming out” in a way that feels sudden or performative.
+
+If you paste the exact sentence you’re reacting to (or even just tell me “it was the line beginning with…”), I’ll do a **surgical rewrite** of that paragraph so it drops in flawlessly with your exact wording around it. 💛
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

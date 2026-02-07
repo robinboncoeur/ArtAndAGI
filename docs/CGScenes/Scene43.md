@@ -791,13 +791,410 @@ But it no longer had the whole house to itself.
 
 
 
-## x
-### xx
+## Notes26-02-06ev1
+### A&B 1st Person
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
 
+**Scene 43 — “Morning, With Clean Edges” (Lauren POV, 1st person, past tense)**
+
+---
+
+I woke to the smell of toast and something sharp—lemon, maybe.
+
+For a moment I didn’t remember where I was. The spare room looked too calm. The curtains were drawn in a way that kept the light soft. The air felt cooler than it had any right to in the middle of a Queensland heat wave, as if Sarah’s house had been trained to behave.
+
+Then memory arrived in a rush: Roger’s face in the study, the scrape of his chair, the sound of drawers being yanked open, Sarah’s message—**I’m offering you a door that locks**—and the weight of Sarah’s arms around me in the living room.
+
+I sat up slowly.
+
+My body felt strange: not relaxed exactly, but less braced. Like a muscle that had been clenched for years and had finally been allowed to let go a fraction without being punished for it.
+
+I padded down the hall and paused at the kitchen doorway.
+
+Sarah was there, hair clipped up messily, wearing a t-shirt and shorts, moving with brisk confidence in the small space—kettle on, toast popping, a plate already set. The radio played low in the background, something talky. Information, not emotion.
+
+She glanced over her shoulder.
+
+“Morning,” she said, as if I’d slept over because it was convenient.
+
+My throat tightened anyway.
+
+Sarah pointed with the knife she was buttering toast with. “Sit.”
+
+I sat at the small table. A glass of water appeared beside my hand before I’d even thought to ask for it.
+
+Sarah slid a plate across: toast, fruit, a smear of marmalade. Not fancy. Not fussy. Just… prepared. Like I was worth preparing things for.
+
+I stared at it.
+
+Sarah lifted an eyebrow. “Eat.”
+
+I tried. My mouth was dry. I took a sip of water first, then a cautious bite.
+
+The first swallow made my eyes sting—an absurd physical reaction to being fed like someone expected me to still be here in an hour.
+
+Sarah sat opposite with her own toast and watched me over the rim of her mug without staring.
+
+“You sleep?” she asked.
+
+“A bit,” I said. Then, because honesty felt less dangerous in this house, I added, “More than I thought I would.”
+
+Sarah nodded once. “Good.”
+
+I attempted a smile and it came out wobbly. “You’re… very organised.”
+
+Her mouth twitched. “I’m allergic to chaos.”
+
+My gaze dropped to her hands—capable hands, practical hands. Hands that had held me and asked for nothing back.
+
+Sarah followed my gaze and, as if deciding to misread it on purpose, slid a small box across the table.
+
+“What’s that?” I asked.
+
+“Spare phone charger,” she said. “Tiny toiletry kit. Hair tie. I don’t know what you lot do with hair, but you always need something.”
+
+A laugh tried to arrive and got tangled with gratitude.
+
+“You didn’t have to—”
+
+Sarah cut me off with a look. “I did. Because you’re here.”
+
+There it was again: her stubborn refusal to let care be optional.
+
+I ate another bite. The toast sat heavier in my stomach than it should have, like it was anchoring me to the day.
+
+Sarah’s phone buzzed on the counter.
+
+I felt my body do its old thing—spike, brace, fix it before it got worse.
+
+Sarah didn’t flinch. She glanced at the screen, her face going still in a way I recognised now: predatory calm.
+
+She didn’t touch the phone immediately. She finished her sip of tea first, as if demonstrating that urgency did not run this house.
+
+Then she picked it up and looked properly.
+
+“It’s him,” she said.
+
+My fingers tightened around my mug. “Roger?”
+
+Sarah nodded.
+
+“I should—” I began, the reflex loud in my mouth.
+
+Sarah lifted a hand. “No.”
+
+The single syllable was a door slamming on an old habit.
+
+“You shouldn’t do anything,” she continued. “Eat your toast.”
+
+I stared at her, bewildered. “But—”
+
+Sarah walked to the window, lifted the curtain an inch, and looked out like she was checking weather.
+
+“He’s not here,” she said. “He’s trying to get you back on the hook. Sit. Breathe. Don’t volunteer yourself for stress.”
+
+My throat tightened. I hated how easy it was to obey her. I hated how much relief came with it.
+
+Sarah came back, set the phone down screen-away—small courtesy—and looked at me.
+
+“You want to see what he’s doing?” she asked.
+
+The question wasn’t permission-seeking. It was control handed back to me.
+
+“I’m asking because you’re allowed to decide what you can handle,” she said, before I could answer. “Not because you owe me transparency.”
+
+I nodded once, cautious.
+
+Sarah turned the phone toward me and kept her own hand over the screen, controlling how long I had to look.
+
+A string of messages.
+
+**ROGER:** Where are you.
+**ROGER:** This is ridiculous.
+**ROGER:** You can’t take my wife away from me.
+**ROGER:** Tell her to come home.
+**ROGER:** This is between me and her.
+**ROGER:** I’m coming over.
+
+My stomach dropped.
+
+Sarah’s thumb tapped once, and more appeared.
+
+**ROGER:** You always fill her head with crap.
+**ROGER:** She’s not thinking straight.
+**ROGER:** I’ll speak to you like a man if I have to.
+
+I swallowed hard. My voice came out faint. “I’m sorry.”
+
+Sarah’s eyes snapped to mine.
+
+“No,” she said, like a rule. “Don’t apologise for a man being a man.”
+
+Heat rose behind my eyes. I blinked it back and hated myself for needing to.
+
+Sarah stood, went to the front door, and checked the lock with a practised hand.
+
+One click.
+
+Then the second click.
+
+She came back and sat down as if she’d just adjusted a lamp.
+
+“What are you going to do?” I asked.
+
+“I’m going to respond once,” Sarah said. “Only once. Then I’m going to ignore him. That’s how you teach a man he doesn’t own your time.”
+
+My breath went shallow.
+
+Sarah’s eyes softened, just a fraction.
+
+“And you,” she added, “are going to finish breakfast.”
+
+My hands shook so badly the toast tore instead of bit.
+
+Sarah didn’t comment. She picked up her phone and typed with fast certainty.
+
+I watched.
+
+**SARAH:** She’s safe. She’s not speaking to you today. Do not come here. If you arrive, I will call the police.
+
+Sarah hit send. Then—without drama—blocked his number.
+
+I blinked. “Just like that?”
+
+“Just like that,” she said.
+
+“But what if he—”
+
+“He’ll try,” Sarah said. “He’s used to you managing his feelings. He’ll escalate until he finds a lever.” She took another sip of tea. “He won’t find it here.”
+
+My eyes stung again. It was humiliating, how close I was to tears all the time.
+
+Sarah reached across the table and pressed her hand over mine for a moment—firm, warm, grounding—then let go as if she’d only been checking temperature.
+
+“You’re doing the hardest part,” she said, quieter. “You’ve left.”
+
+Something in my chest twisted.
+
+“And if you go back,” she added, “it won’t be because you’re weak. It’ll be because he frightened you into forgetting who you are. I won’t let him do that.”
+
+A thought rose, dangerous and private: *No one has ever spoken to me like that.*
+
+Not even me.
+
+“I don’t want to go back,” I said, and it came out raw.
+
+Sarah nodded once, satisfied. “Good.”
+
+Then—because she couldn’t tolerate too much tenderness without deflecting—she stood and picked up my empty plate.
+
+“More tea?” she asked briskly. “Or are you one of those people who pretends coffee is personality?”
+
+A laugh escaped me, shaky and startled.
+
+Sarah’s mouth curved. The day, somehow, had begun.
+
+I almost believed, briefly, that the worst was behind me.
+
+That was when the knock came.
+
+It wasn’t polite.
+
+It wasn’t friendly.
+
+Three hard raps—commanding, male, familiar.
+
+My whole body froze mid-step. My heart slammed like it was trying to get out first.
+
+Sarah’s head lifted from the sink. For a beat she didn’t look at me.
+
+She looked at the door.
+
+Then she stood.
+
+“Stay here,” she said.
+
+“Sarah—” My voice cracked on her name.
+
+She cut across me gently, not unkind. “Lauren. Kitchen. Now.”
+
+It wasn’t bossy. It was protective command.
+
+I obeyed before my pride could intervene, because my pride had never once kept me safe.
+
+Sarah walked to the front door and did not open it.
+
+She didn’t call through with *Who is it?* as if she needed confirmation.
+
+She spoke clearly through the wood.
+
+“Roger,” she said. “Leave.”
+
+Silence.
+
+Then his voice—too loud, pitched for intimidation. “I need to speak to my wife.”
+
+Sarah replied immediately, flat. “She’s not speaking to you.”
+
+“I know she’s in there,” Roger snapped. “Open the door.”
+
+Sarah’s voice didn’t rise to meet him. It stayed calm, which somehow made it worse—for him.
+
+“No.”
+
+In the kitchen my hands shook so hard my mug sloshed. I set it down before I dropped it.
+
+“This is none of your business,” he said.
+
+Sarah’s laugh was brief, incredulous. “She’s in my house. That makes it my business.”
+
+Roger tried the strategy that used to work—the one designed for women trained to be reasonable.
+
+“Tell her I just want to talk. This is all a misunderstanding.”
+
+Sarah waited a beat—just long enough that the pause felt like judgement.
+
+Then she said, “Roger. Leave. Or I’m calling the police.”
+
+I heard him move closer to the door, a body leaning toward wood.
+
+“You don’t get to threaten me,” he said, low, intimate.
+
+“Oh, I do,” Sarah replied. And there it was—steel. “Because I’m not scared of you.”
+
+My breath hitched.
+
+“You’re poisoning her against me,” he snapped.
+
+Sarah’s voice stayed calm. “You did that yourself.”
+
+A harsh exhale.
+
+Then he shouted, “Lauren! Open the door!”
+
+My name through someone else’s house hit me like a hook. My body flinched before I could stop it.
+
+Sarah’s voice cut in instantly, hard. “Do not shout her name in my house.”
+
+Silence.
+
+My eyes burned. I stared at the kitchen tiles as if they could tell me what to do with my hands.
+
+Sarah continued, slower, like she was teaching a child who’d missed the lesson.
+
+“She’s safe. She’s leaving you. You don’t get an argument. You don’t get a scene. You don’t get closure on your timeline.”
+
+“You can’t keep her from me,” Roger said.
+
+“I’m not keeping her,” Sarah said. “I’m giving her a moment to remember she has legs.”
+
+My knees went weak. I put a hand on the counter to stay upright.
+
+Roger swore—quiet, vicious—then thumped the door once, hard enough that I jumped.
+
+Sarah didn’t.
+
+“That’s assault,” Sarah said, clear as a bell. “I’m calling now.”
+
+For the first time, Roger hesitated. I could hear the calculation in the silence: risk, consequence, witnesses.
+
+“This is unbelievable,” he said, wounded outrage pretending it was moral principle.
+
+Sarah sounded almost bored. “Then be unbelievable somewhere else.”
+
+A pause.
+
+Then footsteps retreating. A car door. An engine. The sound of him leaving in a hurry he’d arrived without.
+
+Sarah waited until the engine faded.
+
+Only then did she turn the lock twice, as if sealing the last inch of safety back into place.
+
+Two clicks.
+
+Final.
+
+She came into the kitchen.
+
+I was standing very still, as if any movement would break me.
+
+Sarah looked at me properly, eyes steady.
+
+“You alright?” she asked, and it was the first time her voice had softened all morning.
+
+My mouth opened. Nothing came.
+
+Sarah exhaled and stepped closer—not crowding. Present.
+
+“You did not do anything wrong,” she said. “He came here because he thought fear would bring you back.”
+
+My voice emerged as a whisper. “It used to.”
+
+Sarah nodded once, grim. “I know.”
+
+The tears I’d been holding back all morning finally slipped loose.
+
+Sarah didn’t wait for permission. She pulled me into a hug—strong, anchoring—and held me until the shaking eased.
+
+When she released me, her hands stayed on my shoulders.
+
+“You’re learning,” she said. “That’s why it feels like this. Your body is unlearning the lie.”
+
+I sniffed and wiped my cheeks.
+
+Sarah’s mouth twitched.
+
+“And for the record,” she added, dry as ever, “he’s not coming back today. Men like him don’t like police reports. They like private rooms and plausible deniability.”
+
+A tiny, broken laugh escaped me.
+
+Sarah’s expression softened—briefly. Then she straightened, brisk again, because that was how she kept the world in order.
+
+“Tea,” she said. “Then we call Celeste. And Mara, if you want. And we do this in a way that doesn’t leave you alone with paperwork.”
+
+I nodded.
+
+The fear in my chest didn’t vanish.
+
+But it no longer had the whole house to itself.
+
+*End Scene 43.*
+
+---
+
+If you want one extra sharp Lauren line to cap it (still in her voice), I can add a final thought like: *“He didn’t come for love. He came for access.”* It’s clean, brutal, and it pairs beautifully with the “door that locks” motif.
+
+Oh good — that line is *exactly* the right kind of brutal clarity for Lauren right here. 💛🫶
+Here are **three options**, all Lauren-voiced, sharp, and thematically tied to *access / entitlement / doors*. Pick one (or I’ll splice two).
+
+### Option 1 — cleanest, most surgical (my top pick)
+
+The thing that landed—cold and unmistakable—was that he hadn’t come for love.
+He’d come for access.
+
+### Option 2 — ties directly to the door motif
+
+He hadn’t come because he missed me.
+He’d come because a door had closed and he couldn’t stand not being able to open it.
+
+### Option 3 — a touch more Lauren-manager, ledger-like
+
+It wasn’t grief that brought him to Sarah’s door.
+It was loss of control—of routine, of entitlement, of access.
+
+#### Where to place it
+
+Right after:
+
+> The fear in my chest didn’t vanish.
+> But it no longer had the whole house to itself.
+
+Add one of the above as a final beat, then *End Scene 43.*
+
+If you tell me which option you love most, I can do a micro-adjust on the preceding line so the cadence lands like a gavel.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 

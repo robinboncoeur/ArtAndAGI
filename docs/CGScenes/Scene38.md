@@ -307,7 +307,284 @@ I am his boundary.
 
 
 
+## Notes26-01-23e
+### Scene 50
 
+<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-01-23]
+
+**Scene 50 — “Where It’s Safe” (Celeste POV)**
+
+Charli came home like someone returning to a house after nearly losing it.
+
+Quiet. Careful. Eyes too bright, posture a fraction too controlled. She took her shoes off by the door with obsessive neatness, as if straight lines could prevent mistakes. She hung her bag on the hook and stood there for a second too long, hands hovering, waiting for permission the way she used to.
+
+I watched her from the kitchen.
+
+Not hidden. Not testing.
+
+Just… observing the new shape of her caution.
+
+“Hi,” I said.
+
+Charli’s gaze snapped to mine with a kind of hungry relief that she tried to swallow back immediately.
+
+“Hi,” she whispered.
+
+She didn’t move toward me.
+
+That was the first sign she’d understood.
+
+Not “I’m in trouble.”
+
+Not “I’m unworthy.”
+
+But: *this matters enough to protect.*
+
+I set two mugs on the table, poured tea, and kept my movements ordinary on purpose. Normality is a signal. It tells the body: no danger here.
+
+Charli came to the table and sat in the chair opposite me like she was afraid the space between us was an exam.
+
+She folded her hands in her lap.
+
+Her eyes didn’t linger on my mouth.
+
+Her shoulders didn’t soften the way they had last night.
+
+She was trying so hard to be careful that she’d turned careful into distance.
+
+I let her sit in that for a moment. Let her prove she could.
+
+Then I said, gently, “You can look at me.”
+
+Charli blinked, startled—as if she’d been caught doing something wrong in reverse.
+
+“I—” she began.
+
+“Charli,” I said, calm. “Looking is allowed.”
+
+Her eyes lifted slowly to my face. They were still red-rimmed from the day, but steadier now. Present. Listening.
+
+“I’m proud of you,” I said.
+
+The sentence did something to her. Her breath caught. Her chin trembled once, just once, before she contained it.
+
+“I messed up,” she whispered.
+
+“Yes,” I said. “And then you learned.”
+
+Charli swallowed. “I didn’t… I didn’t understand. Not really. I thought—” She stopped, frustrated, then tried again. “I thought it was… little. Just… us.”
+
+“It was us,” I said quietly. “And it was also a room full of women who have paid for men’s stories about them.”
+
+Charli nodded, small and precise, like she was writing it into her bones.
+
+“I saw Sarah,” she murmured. “When she looked. Not… angry. Just…” She searched. “Alert.”
+
+“Yes,” I said.
+
+“And Mara,” Charli added, and the name came out with a little shiver of respect. “Mara didn’t even need to say anything.”
+
+“No,” I agreed. “Mara is a boundary with legs.”
+
+Charli made a tiny sound that might have been a laugh if she’d allowed herself more oxygen.
+
+I waited until her shoulders lowered a fraction. Then I placed my hand on the table—palm up. Not reaching for her. Offering.
+
+Charli’s eyes dropped to my hand like it was a doorway.
+
+Her throat moved.
+
+She didn’t take it.
+
+Not yet.
+
+“Remember what I said,” I murmured. “Careful doesn’t mean distant.”
+
+Charli’s eyes flicked up to mine, questioning. Worry threaded through her expression.
+
+“What if I—”
+
+“You won’t,” I said, and the certainty in my voice made her go still. “Because now you understand.”
+
+Charli exhaled shakily.
+
+Then—slowly, as if approaching a skittish animal—she lifted her hand from her lap and placed her fingertips into my palm.
+
+The contact was so light it barely registered as pressure.
+
+It registered as *trust.*
+
+Her touch was even gentler than last night, if that was possible—like she was handling something fragile and beloved.
+
+My chest tightened in a way I didn’t fight.
+
+“Like this?” she whispered.
+
+“Yes,” I said, and my voice came out softer than I intended. “Exactly like this.”
+
+Charli’s thumb moved once across my palm—one careful stroke—and then stopped, waiting for the rule.
+
+I let my fingers curl around hers.
+
+Not tight.
+
+Not claiming.
+
+Answering.
+
+Charli’s breath hitched, and this time she didn’t apologise for it. She simply let the feeling exist.
+
+Good.
+
+I drew her hand up slowly and pressed my lips to her knuckles.
+
+It wasn’t sexual. It wasn’t dramatic.
+
+It was… reverent.
+
+Charli made a small sound in her throat that nearly broke me.
+
+Her eyes shone. She blinked hard and held on.
+
+“Celeste,” she whispered.
+
+“Yes,” I replied.
+
+“I… I want to be good at this,” she said, the words careful but urgent. “At… us. I don’t want to hurt you. I don’t want to hurt Wardrobe.”
+
+“I know,” I said.
+
+Then I said the part she needed, the part she’d be too afraid to ask for.
+
+“And you didn’t,” I added. “You created risk. We corrected it. That’s what adults do.”
+
+Charli’s shoulders eased, the tension turning into something softer, more livable.
+
+I stood and held my hand out again.
+
+“Come here,” I said.
+
+Charli rose immediately—obedient reflex—then checked herself, slowed down, as if remembering she was allowed to want without rushing.
+
+She came to me and stopped just within reach, waiting.
+
+I placed my hands lightly at her waist and guided her closer. The pressure was minimal. The intention wasn’t.
+
+Charli’s hands hovered near my ribs, careful, as if she was afraid to touch the wrong place.
+
+I took her left hand and placed it gently on my shoulder.
+
+“Here,” I said.
+
+Then I took her right hand and placed it at my waist.
+
+“And here.”
+
+Charli’s fingers curved, tentative at first, then steadier as she felt I wasn’t going to pull away.
+
+Her touch was… exquisite.
+
+Not because it was skilled.
+
+Because it was pure. Because it carried no entitlement. No demand. Just devotion and awe and careful joy.
+
+I leaned down and kissed her again, slow and clean.
+
+Charli responded immediately, softening into it like she’d been thirsty and didn’t know it.
+
+Her hands tightened a fraction at my waist—still gentle, but certain now—and I felt my body go warm in a way that had nothing to do with sex and everything to do with being wanted safely.
+
+I broke the kiss and rested my forehead against hers.
+
+“Tonight,” I murmured, “you don’t have to be careful like you’re handling glass.”
+
+Charli’s breath trembled. “But I—”
+
+“You can be careful in the right way,” I said. “Careful like you are with fabric you love. You don’t avoid it. You learn it.”
+
+Charli nodded, eyes wet.
+
+“Yes,” she whispered. “I can do that.”
+
+I guided her to the couch.
+
+We sat close, hips touching, shoulders touching, and I pulled a blanket over both of us, not because we were cold but because the weight of it made the world smaller.
+
+Charli hesitated, then leaned into me.
+
+Her head found my shoulder like it belonged there.
+
+Her arm slid around my waist, cautious at first, then settling as my body welcomed it.
+
+I kissed the top of her head.
+
+Charli’s breath shuddered, and she whispered, barely audible, “This is safe.”
+
+“Yes,” I said.
+
+She shifted slightly, turning her face toward my neck, and I felt the faint brush of her lips against my skin—more like a question than an act.
+
+I answered by tipping my head gently, giving her access without words.
+
+Charli kissed me again, still careful, still sweet, and her hand—her unbelievable hand—traced a slow line along my forearm.
+
+Bliss arrived in my body like a quiet flood.
+
+Not fireworks.
+
+Not urgency.
+
+A deep, easing warmth, the kind you feel when something inside you stops bracing.
+
+I held her there, letting myself want without fear, letting the floodgates stay open because the river had found its proper bed.
+
+After a while, Charli whispered, “I won’t do it at work again.”
+
+“I know,” I said.
+
+“And if I forget,” she added quickly, anxiety flaring, “if I get… carried away—”
+
+I turned my head and kissed her temple.
+
+“Then I will correct you,” I said. “And you will learn again. That’s what this is.”
+
+Charli went very still, then nodded against my shoulder.
+
+“Yes,” she breathed, and something in her softened—something old, something frightened.
+
+A girl learning that love doesn’t vanish because you make one mistake.
+
+A girl learning that consequences aren’t rejection.
+
+They’re care.
+
+We stayed like that for a long time: no talking, no plans, no big declarations.
+
+Just touch.
+
+Hands. Breath. Quiet kisses.
+
+A woman letting herself be held.
+
+A girl discovering that her gentleness wasn’t a liability—it was the very thing that made her irresistible.
+
+And when Charli finally drifted toward sleep, curled against me with her fingers still resting lightly on my wrist as if she couldn’t bear to lose contact entirely, I stared into the dim room and felt the calm settle into place.
+
+Wardrobe was safe.
+
+Charli was safe.
+
+And here, in the private hush of our home, where no one could turn tenderness into gossip or leverage, love was allowed to be what it wanted to be:
+
+soft.
+
+steady.
+
+and growing.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1161,7 +1438,7 @@ It meant being known.
 
 <img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
+[26-02-04]
 
 ## Scene 38 — “Heat, With Teeth” (Celeste POV, past tense)
 
@@ -1295,13 +1572,30 @@ Celeste held her there, close and claimed, until the fan swung back again and th
 
 *End Scene 38.*
 
----
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-## Scene 39 — opener (Sarah POV, past tense)
 
-He left like a man who believed the world was fundamentally in order.
 
-Not hurried. Not sneaking. Not tender either—just the satisfied efficiency of someone who’d taken what he came for and now felt pleasantly finished with the evening, like a person putting a glass into the sink after a drink.
+
+
+
+
+
+
+
+
+
+
+## Notes26-02-04ev1
+### Now Scene 38
+
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-04]
+
+**Scene 39 — opener (Sarah POV, past tense)**
+
+He left like a man who believed the world was fundamentally in order. His departure was not hurried or sneaky, but it wasn’t tender either: just the satisfied efficiency of someone who’d taken what he came for and now felt pleasantly finished with the evening, like a person putting a glass into the sink after a drink.
 
 Sarah lay on her back and listened to the small sounds of his departure: the soft thud of shoes near the door, the faint jingle of keys, the brief pause as he decided whether to say something meaningful and then—predictably—didn’t.
 
@@ -1349,7 +1643,7 @@ It came out like a promise.
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-<!--
+
 
 
 ## x
@@ -1357,7 +1651,75 @@ It came out like a promise.
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+Absolutely, Robyn. Here’s Sarah in **her** own head: dry as good gin, observant, not melodramatic — but with that quiet steel underneath. I’ve kept your structure and most of the beats, just shifted the lens into Sarah’s voice and sharpened the wit. 🫶
+
+---
+
+He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
+
+I stayed flat on my back and listened to the little noises of him un-being there: shoes thudding near the door, keys giving their smug little jingle, the short pause where he weighed up saying something human and then — predictably — didn’t.
+
+The latch clicked.
+
+And the room didn’t go quiet so much as… hollow.
+
+Vacant. As if someone had opened a drain and let out the last few litres of warmth the place had been pretending to hold.
+
+The ceiling fan turned lazily through the dark, doing its best impression of effort. The air was still thick with heat and the faint, bland smell of him — soap, deodorant, and that particular male confidence that always behaves as if it’s been invited.
+
+I could have called it *fine*.
+
+The sex itself had been fine. Adequate. Not violent, not rude, not even selfish in a way that would make for a clean story you could tell your friends over coffee.
+
+That was the problem.
+
+It wasn’t *anything*.
+
+No tenderness. No afterglow. No lingering hand at my waist as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you for your service.*
+
+He’d been happy, of course. Men are often happy when the world does what it’s told.
+
+He’d rolled off, stood up, and instantly resumed being a person with plans. I remained exactly where I was: a surface the night had happened on. Like a countertop you wipe and forget.
+
+I let out a breath that wasn’t quite a laugh.
+
+There’s a trick men pull — not even consciously, half the time. They take pleasure and mistake it for intimacy, like the two are bundled in the same packet and you can’t possibly separate them.
+
+They can. They just don’t bother.
+
+I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant.
+
+My fingers flexed once against the fabric, restless. Not wanting him. Not wanting more.
+
+Wanting *meaning*.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived and sat down like it owned the place:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+My mouth tightened.
+
+I thought of Celeste — calm, watchful, competent; the sort of girl who could smile while she dismantled you. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a ration instead of a basic human right.
+
+And the irritation rose again — not even at him, specifically. He was just… a representative sample. A free trial of the wider pattern. The way tenderness was treated like an optional extra. The way women were expected to settle for “fine” and then thank them for the effort.
+
+“No,” I said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like a promise.
+
+---
+
+If you want, I can give you **two alternate Sarah flavours** as well:
+
+1. **More acerbic / funnier** (she skewers him a bit harder)
+2. **More wounded-but-contained** (same spine, but the loneliness peeks through)
+
+Just say which way you want her dial turned. 💛
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1370,12 +1732,101 @@ It came out like a promise.
 
 
 
-## w
-### ww
+## Notes26-02-06ev
+### Ist Person ReWrite
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+Oh yes — that’s *exactly* the right preamble, Robyn. If the world immediately offers her “look, love exists” (Bree/Lily, Celeste/Charli), then Sarah’s scene wants to land as: **she’s not jealous, she’s just… empty in a way she doesn’t usually permit herself to admit.** The humour stays, but it’s quieter — a coping mechanism, not a flourish.
+
+Here’s the **more wounded/contained** Sarah POV version:
+
+---
+
+He left like a man who believed the world was fundamentally tidy. Not because it *was*, but because it was easier to live inside that belief.
+
+His departure wasn’t hurried or sneaky — it wasn’t even unkind. It was simply efficient. The satisfied competence of someone who’d come, done the thing, and now felt pleasantly finished with the evening, like rinsing a cup and setting it on the rack.
+
+I stayed on my back and listened to the small sounds of him collecting himself: the soft thud of shoes near the door, the faint jingle of keys, the brief pause where he considered saying something that might linger.
+
+He didn’t.
+
+The latch clicked.
+
+Silence settled. Not peaceful — not the kind that wraps around you like a blanket — but the other kind. The kind that arrives with a slight draft, as if the room is gently reminding you it has no obligation to be warm.
+
+The ceiling fan rotated lazily through the dark, blades slicing the air that wasn’t moving. The heat still clung to everything, and the faint, bland smell of him sat in the room like an afterthought — soap and deodorant and that particular male certainty that always assumes it’s welcome.
+
+I could have called it *fine*.
+
+The act itself had been fine. Adequate. Not violent. Not rude. Not even selfish in a way that would make it simple to hate him for it.
+
+That was the problem.
+
+It hadn’t been *anything*.
+
+No tenderness. No afterglow. No hand finding my waist afterward as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you, that’ll do.*
+
+He’d been happy.
+
+Of course he had.
+
+He’d rolled away, stood up, and immediately resumed being a person with plans. The sort of person who could decide what the rest of his night would look like, as if other people were just… scenery.
+
+And I stayed where I was, staring at the ceiling fan, feeling oddly supervised by it. As if it might start keeping score.
+
+I let out a breath that could have been a laugh if it had wanted to be. It didn’t.
+
+There was a familiar urge to make a joke — to reduce it to something sharp and clever, something that would fit neatly in my mouth and not ask me for anything. But the joke wouldn’t come. Or rather: it came, then dissolved before it reached my lips, like it didn’t want to be used as a bandage again.
+
+Because it wasn’t the sex, really.
+
+The sex was the part I could label. The part you can talk about in concrete terms and then file away.
+
+It was everything around it — the blankness where tenderness should have been. The way he’d left without looking back, not because he meant harm, but because it hadn’t occurred to him that there might be anything worth looking back at.
+
+I rolled onto my side and stared at the patch of sheet he’d left behind. Already cooling. Already less important than his keys.
+
+My fingers flexed once against the fabric, restless. Not longing for him — God, no — just reaching for… something. A sign. A small human weight. A hand that stayed. A word that didn’t feel like a formality.
+
+The room offered nothing.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived — not dramatic, not even new — just plain and mean in its simplicity:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+My throat tightened.
+
+Not with anger.
+
+With a kind of cold recognition that lived somewhere behind my ribs.
+
+I thought of Celeste — calm, watchful competence, the kind that made men mistake her restraint for softness until she corrected them. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a rare currency and he’d been living on scraps.
+
+And I felt the irritation rise — not at him, specifically. He was only a symptom. A sample size of one, with the confidence of a study.
+
+The wider pattern was the thing that made me tired: the way tenderness was treated like a luxury item. The way women were expected to accept “fine” and call it romance. The way a man could take what he wanted and then walk out as if he’d done you a favour by not being awful.
+
+I swallowed. The loneliness sat there, quiet and heavy, like a coat I didn’t remember putting on.
+
+Not a romantic loneliness. Not *I want him*.
+
+Just the dull ache of wanting to be held without having to earn it. Wanting someone to stay because they liked the person you were, not because your body happened to be available.
+
+I stared at the ceiling fan again. The blades kept turning, steady as a metronome. Time, indifferent. Rhythm, without music.
+
+“No,” I said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like something I’d decided a long time ago, and was only now allowing myself to say.
+
+---
+
+If you’d like, I can also give you a **two-line “bridge” tag** that takes her from this bedroom beat into the café with Carl — something like: *she dresses with methodical care / she puts on her armour / she refuses to look like a woman who’s been abandoned by a man who wasn’t even worth the term.* That kind of controlled pivot is very Sarah. 🫶✨
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1388,12 +1839,99 @@ It came out like a promise.
 
 
 
-## v
-### vv
+
+## Notes26-02-06rv1
+### Ist Person ReWrite
 
 <img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+Here’s the **more wounded/contained** Sarah POV version:
+
+---
+
+He left like a man who believed the world was fundamentally tidy. Not because it *was*, but because it was easier to live inside that belief.
+
+His departure wasn’t hurried or sneaky — it wasn’t even unkind. It was simply efficient. The satisfied competence of someone who’d come, done the thing, and now felt pleasantly finished with the evening, like rinsing a cup and setting it on the rack.
+
+I stayed on my back and listened to the small sounds of him collecting himself: the soft thud of shoes near the door, the faint jingle of keys, the brief pause where he considered saying something that might linger.
+
+He didn’t.
+
+The latch clicked.
+
+Silence settled. Not peaceful — not the kind that wraps around you like a blanket — but the other kind. The kind that arrives with a slight draft, as if the room is gently reminding you it has no obligation to be warm.
+
+The ceiling fan rotated lazily through the dark, blades slicing the air that wasn’t moving. The heat still clung to everything, and the faint, bland smell of him sat in the room like an afterthought — soap and deodorant and that particular male certainty that always assumes it’s welcome.
+
+I could have called it *fine*.
+
+The act itself had been fine. Adequate. Not violent. Not rude. Not even selfish in a way that would make it simple to hate him for it.
+
+That was the problem.
+
+It hadn’t been *anything*.
+
+No tenderness. No afterglow. No hand finding my waist afterward as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you, that’ll do.*
+
+He’d been happy.
+
+Of course he had.
+
+He’d rolled away, stood up, and immediately resumed being a person with plans. The sort of person who could decide what the rest of his night would look like, as if other people were just… scenery.
+
+And I stayed where I was, staring at the ceiling fan, feeling oddly supervised by it. As if it might start keeping score.
+
+I let out a breath that could have been a laugh if it had wanted to be. It didn’t.
+
+There was a familiar urge to make a joke — to reduce it to something sharp and clever, something that would fit neatly in my mouth and not ask me for anything. But the joke wouldn’t come. Or rather: it came, then dissolved before it reached my lips, like it didn’t want to be used as a bandage again.
+
+Because it wasn’t the sex, really.
+
+The sex was the part I could label. The part you can talk about in concrete terms and then file away.
+
+It was everything around it — the blankness where tenderness should have been. The way he’d left without looking back, not because he meant harm, but because it hadn’t occurred to him that there might be anything worth looking back at.
+
+I rolled onto my side and stared at the patch of sheet he’d left behind. Already cooling. Already less important than his keys.
+
+My fingers flexed once against the fabric, restless. Not longing for him — God, no — just reaching for… something. A sign. A small human weight. A hand that stayed. A word that didn’t feel like a formality.
+
+The room offered nothing.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived — not dramatic, not even new — just plain and mean in its simplicity:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+My throat tightened.
+
+Not with anger.
+
+With a kind of cold recognition that lived somewhere behind my ribs.
+
+I thought of Celeste — calm, watchful competence, the kind that made men mistake her restraint for softness until she corrected them. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a rare currency and he’d been living on scraps.
+
+And I felt the irritation rise — not at him, specifically. He was only a symptom. A sample size of one, with the confidence of a study.
+
+The wider pattern was the thing that made me tired: the way tenderness was treated like a luxury item. The way women were expected to accept “fine” and call it romance. The way a man could take what he wanted and then walk out as if he’d done you a favour by not being awful.
+
+I swallowed. The loneliness sat there, quiet and heavy, like a coat I didn’t remember putting on.
+
+Not a romantic loneliness. Not *I want him*.
+
+Just the dull ache of wanting to be held without having to earn it. Wanting someone to stay because they liked the person you were, not because your body happened to be available.
+
+I stared at the ceiling fan again. The blades kept turning, steady as a metronome. Time, indifferent. Rhythm, without music.
+
+“No,” I said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like something I’d decided a long time ago, and was only now allowing myself to say.
+
+---
+
+If you’d like, I can also give you a **two-line “bridge” tag** that takes her from this bedroom beat into the café with Carl — something like: *she dresses with methodical care / she puts on her armour / she refuses to look like a woman who’s been abandoned by a man who wasn’t even worth the term.* That kind of controlled pivot is very Sarah. 🫶✨
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1406,12 +1944,58 @@ It came out like a promise.
 
 
 
-## u
-### uu
+## Notes26-02-06ov
+### Requesting 1st Person
 
 <img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+He left like a man who believed the world was fundamentally in order. His departure was not hurried or sneaky, but it wasn’t tender either: just the satisfied efficiency of someone who’d taken what he came for and now felt pleasantly finished with the evening, like a person putting a glass into the sink after a drink.
+
+Sarah lay on her back and listened to the small sounds of his departure: the soft thud of shoes near the door, the faint jingle of keys, the brief pause as he decided whether to say something meaningful and then—predictably—didn’t.
+
+The latch clicked.
+
+Silence settled over the bedroom in a way that didn’t feel peaceful. It felt… vacant. Like the room had been drained of something it hadn’t been holding much of to begin with.
+
+Sarah stared at the ceiling fan as it rotated lazily through the warm dark. The air was still thick with heat and the faint, bland smell of him—soap and deodorant and that particular male confidence that always seemed to assume it was welcome.
+
+She could have called it “fine.”
+
+The act itself had been fine. Adequate. Not violent, not rude, not even particularly selfish in a way that would be easy to name.
+
+But that was the problem: it hadn’t been *anything*.
+
+No tenderness. No afterglow. No lingering hand on her waist as if her body was worth remembering. No kiss that said, *I liked being near you*, instead of *I enjoyed what you did for me.*
+
+He’d been happy. Of course he had.
+
+Sarah wasn’t even angry at the sex. She was irritated by the emptiness around it—the way he’d risen afterward and resumed being a person with plans, while she remained… a surface the night had happened on.
+
+She let out a breath that wasn’t quite a laugh.
+
+Men were astonishing like that: perfectly capable of taking pleasure and mistaking it for intimacy.
+
+Sarah rolled onto her side and stared at the patch of sheet he’d left behind—already cooling, already irrelevant.
+
+Her fingers flexed once against the fabric, restless.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+Sarah’s mouth tightened.
+
+She thought of Celeste—of that calm, watchful competence that occasionally slipped into something more dangerous when it was provoked. She thought of Charli—soft, earnest, heartbreakingly grateful for kindness.
+
+And Sarah felt the same irritation rise again, not at the man who’d just left, but at the wider pattern: the way tenderness was treated like an optional extra, the way women were expected to settle for “fine” and call it romance.
+
+“No,” Sarah said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like a promise.
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1424,12 +2008,76 @@ It came out like a promise.
 
 
 
-## t
-### tt
+## Notes26-02-06ev1
+### 
 
 <img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
+
+I stayed flat on my back and listened to the little noises of him un-being there: shoes thudding near the door, keys giving their smug little jingle, the short pause where he weighed up saying something human and then — predictably — didn’t.
+
+The latch clicked.
+
+And the room didn’t go quiet so much as… hollow.
+
+Vacant. As if someone had opened a drain and let out the last few litres of warmth the place had been pretending to hold.
+
+The ceiling fan turned lazily through the dark, doing its best impression of effort. The air was still thick with heat and the faint, bland smell of him — soap, deodorant, and that particular male confidence that always behaves as if it’s been invited.
+
+I could have called it *fine*.
+
+The sex itself had been fine. Adequate. Not violent, not rude, not even selfish in a way that would make for a clean story you could tell your friends over coffee.
+
+That was the problem.
+
+It wasn’t *anything*.
+
+No tenderness. No afterglow. No lingering hand at my waist as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you for your service.*
+
+He’d been happy, of course. Men are often happy when the world does what it’s told.
+
+He’d rolled off, stood up, and instantly resumed being a person with plans. I remained exactly where I was: a surface the night had happened on. Like a countertop you wipe and forget.
+
+I let out a breath that wasn’t quite a laugh.
+
+There’s a trick men pull — not even consciously, half the time. They take pleasure and mistake it for intimacy, like the two are bundled in the same packet and you can’t possibly separate them.
+
+They can. They just don’t bother.
+
+I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant.
+
+My fingers flexed once against the fabric, restless. Not wanting him. Not wanting more.
+
+Wanting *meaning*.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived and sat down like it owned the place:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+My mouth tightened.
+
+I thought of Celeste — calm, watchful, competent; the sort of girl who could smile while she dismantled you. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a ration instead of a basic human right.
+
+And the irritation rose again — not even at him, specifically. He was just… a representative sample. A free trial of the wider pattern. The way tenderness was treated like an optional extra. The way women were expected to settle for “fine” and then thank them for the effort.
+
+“No,” I said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like a promise.
+
+---
+
+If you want, I can give you **two alternate Sarah flavours** as well:
+
+1. **More acerbic / funnier** (she skewers him a bit harder)
+2. **More wounded-but-contained** (same spine, but the loneliness peeks through)
+
+Just say which way you want her dial turned. 💛
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1442,12 +2090,90 @@ It came out like a promise.
 
 
 
-## s
-### ss
+## Notes26-02-06ev2
+### 
 
 <img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+He left like a man who believed the world was fundamentally tidy. Not because it *was*, but because it was easier to live inside that belief.
+
+His departure wasn’t hurried or sneaky — it wasn’t even unkind. It was simply efficient. The satisfied competence of someone who’d come, done the thing, and now felt pleasantly finished with the evening, like rinsing a cup and setting it on the rack.
+
+I stayed on my back and listened to the small sounds of him collecting himself: the soft thud of shoes near the door, the faint jingle of keys, the brief pause where he considered saying something that might linger.
+
+He didn’t.
+
+The latch clicked.
+
+Silence settled. Not peaceful — not the kind that wraps around you like a blanket — but the other kind. The kind that arrives with a slight draft, as if the room is gently reminding you it has no obligation to be warm.
+
+The ceiling fan rotated lazily through the dark, blades slicing the air that wasn’t moving. The heat still clung to everything, and the faint, bland smell of him sat in the room like an afterthought — soap and deodorant and that particular male certainty that always assumes it’s welcome.
+
+I could have called it *fine*.
+
+The act itself had been fine. Adequate. Not violent. Not rude. Not even selfish in a way that would make it simple to hate him for it.
+
+That was the problem.
+
+It hadn’t been *anything*.
+
+No tenderness. No afterglow. No hand finding my waist afterward as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you, that’ll do.*
+
+He’d been happy.
+
+Of course he had.
+
+He’d rolled away, stood up, and immediately resumed being a person with plans. The sort of person who could decide what the rest of his night would look like, as if other people were just… scenery.
+
+And I stayed where I was, staring at the ceiling fan, feeling oddly supervised by it. As if it might start keeping score.
+
+I let out a breath that could have been a laugh if it had wanted to be. It didn’t.
+
+There was a familiar urge to make a joke — to reduce it to something sharp and clever, something that would fit neatly in my mouth and not ask me for anything. But the joke wouldn’t come. Or rather: it came, then dissolved before it reached my lips, like it didn’t want to be used as a bandage again.
+
+Because it wasn’t the sex, really.
+
+The sex was the part I could label. The part you can talk about in concrete terms and then file away.
+
+It was everything around it — the blankness where tenderness should have been. The way he’d left without looking back, not because he meant harm, but because it hadn’t occurred to him that there might be anything worth looking back at.
+
+I rolled onto my side and stared at the patch of sheet he’d left behind. Already cooling. Already less important than his keys.
+
+My fingers flexed once against the fabric, restless. Not longing for him — God, no — just reaching for… something. A sign. A small human weight. A hand that stayed. A word that didn’t feel like a formality.
+
+The room offered nothing.
+
+And in the quiet, uninvited and sharp as lemon, a thought arrived — not dramatic, not even new — just plain and mean in its simplicity:
+
+*If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?*
+
+My throat tightened.
+
+Not with anger.
+
+With a kind of cold recognition that lived somewhere behind my ribs.
+
+I thought of Celeste — calm, watchful competence, the kind that made men mistake her restraint for softness until she corrected them. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a rare currency and he’d been living on scraps.
+
+And I felt the irritation rise — not at him, specifically. He was only a symptom. A sample size of one, with the confidence of a study.
+
+The wider pattern was the thing that made me tired: the way tenderness was treated like a luxury item. The way women were expected to accept “fine” and call it romance. The way a man could take what he wanted and then walk out as if he’d done you a favour by not being awful.
+
+I swallowed. The loneliness sat there, quiet and heavy, like a coat I didn’t remember putting on.
+
+Not a romantic loneliness. Not *I want him*.
+
+Just the dull ache of wanting to be held without having to earn it. Wanting someone to stay because they liked the person you were, not because your body happened to be available.
+
+I stared at the ceiling fan again. The blades kept turning, steady as a metronome. Time, indifferent. Rhythm, without music.
+
+“No,” I said aloud, to the empty room.
+
+It came out quiet.
+
+It came out like something I’d decided a long time ago, and was only now allowing myself to say.
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1588,282 +2314,6 @@ It came out like a promise.
 
 
 
-## Notes26-01-23e
-### Scene 50
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-[26-01-23]
-
-**Scene 50 — “Where It’s Safe” (Celeste POV)**
-
-Charli came home like someone returning to a house after nearly losing it.
-
-Quiet. Careful. Eyes too bright, posture a fraction too controlled. She took her shoes off by the door with obsessive neatness, as if straight lines could prevent mistakes. She hung her bag on the hook and stood there for a second too long, hands hovering, waiting for permission the way she used to.
-
-I watched her from the kitchen.
-
-Not hidden. Not testing.
-
-Just… observing the new shape of her caution.
-
-“Hi,” I said.
-
-Charli’s gaze snapped to mine with a kind of hungry relief that she tried to swallow back immediately.
-
-“Hi,” she whispered.
-
-She didn’t move toward me.
-
-That was the first sign she’d understood.
-
-Not “I’m in trouble.”
-
-Not “I’m unworthy.”
-
-But: *this matters enough to protect.*
-
-I set two mugs on the table, poured tea, and kept my movements ordinary on purpose. Normality is a signal. It tells the body: no danger here.
-
-Charli came to the table and sat in the chair opposite me like she was afraid the space between us was an exam.
-
-She folded her hands in her lap.
-
-Her eyes didn’t linger on my mouth.
-
-Her shoulders didn’t soften the way they had last night.
-
-She was trying so hard to be careful that she’d turned careful into distance.
-
-I let her sit in that for a moment. Let her prove she could.
-
-Then I said, gently, “You can look at me.”
-
-Charli blinked, startled—as if she’d been caught doing something wrong in reverse.
-
-“I—” she began.
-
-“Charli,” I said, calm. “Looking is allowed.”
-
-Her eyes lifted slowly to my face. They were still red-rimmed from the day, but steadier now. Present. Listening.
-
-“I’m proud of you,” I said.
-
-The sentence did something to her. Her breath caught. Her chin trembled once, just once, before she contained it.
-
-“I messed up,” she whispered.
-
-“Yes,” I said. “And then you learned.”
-
-Charli swallowed. “I didn’t… I didn’t understand. Not really. I thought—” She stopped, frustrated, then tried again. “I thought it was… little. Just… us.”
-
-“It was us,” I said quietly. “And it was also a room full of women who have paid for men’s stories about them.”
-
-Charli nodded, small and precise, like she was writing it into her bones.
-
-“I saw Sarah,” she murmured. “When she looked. Not… angry. Just…” She searched. “Alert.”
-
-“Yes,” I said.
-
-“And Mara,” Charli added, and the name came out with a little shiver of respect. “Mara didn’t even need to say anything.”
-
-“No,” I agreed. “Mara is a boundary with legs.”
-
-Charli made a tiny sound that might have been a laugh if she’d allowed herself more oxygen.
-
-I waited until her shoulders lowered a fraction. Then I placed my hand on the table—palm up. Not reaching for her. Offering.
-
-Charli’s eyes dropped to my hand like it was a doorway.
-
-Her throat moved.
-
-She didn’t take it.
-
-Not yet.
-
-“Remember what I said,” I murmured. “Careful doesn’t mean distant.”
-
-Charli’s eyes flicked up to mine, questioning. Worry threaded through her expression.
-
-“What if I—”
-
-“You won’t,” I said, and the certainty in my voice made her go still. “Because now you understand.”
-
-Charli exhaled shakily.
-
-Then—slowly, as if approaching a skittish animal—she lifted her hand from her lap and placed her fingertips into my palm.
-
-The contact was so light it barely registered as pressure.
-
-It registered as *trust.*
-
-Her touch was even gentler than last night, if that was possible—like she was handling something fragile and beloved.
-
-My chest tightened in a way I didn’t fight.
-
-“Like this?” she whispered.
-
-“Yes,” I said, and my voice came out softer than I intended. “Exactly like this.”
-
-Charli’s thumb moved once across my palm—one careful stroke—and then stopped, waiting for the rule.
-
-I let my fingers curl around hers.
-
-Not tight.
-
-Not claiming.
-
-Answering.
-
-Charli’s breath hitched, and this time she didn’t apologise for it. She simply let the feeling exist.
-
-Good.
-
-I drew her hand up slowly and pressed my lips to her knuckles.
-
-It wasn’t sexual. It wasn’t dramatic.
-
-It was… reverent.
-
-Charli made a small sound in her throat that nearly broke me.
-
-Her eyes shone. She blinked hard and held on.
-
-“Celeste,” she whispered.
-
-“Yes,” I replied.
-
-“I… I want to be good at this,” she said, the words careful but urgent. “At… us. I don’t want to hurt you. I don’t want to hurt Wardrobe.”
-
-“I know,” I said.
-
-Then I said the part she needed, the part she’d be too afraid to ask for.
-
-“And you didn’t,” I added. “You created risk. We corrected it. That’s what adults do.”
-
-Charli’s shoulders eased, the tension turning into something softer, more livable.
-
-I stood and held my hand out again.
-
-“Come here,” I said.
-
-Charli rose immediately—obedient reflex—then checked herself, slowed down, as if remembering she was allowed to want without rushing.
-
-She came to me and stopped just within reach, waiting.
-
-I placed my hands lightly at her waist and guided her closer. The pressure was minimal. The intention wasn’t.
-
-Charli’s hands hovered near my ribs, careful, as if she was afraid to touch the wrong place.
-
-I took her left hand and placed it gently on my shoulder.
-
-“Here,” I said.
-
-Then I took her right hand and placed it at my waist.
-
-“And here.”
-
-Charli’s fingers curved, tentative at first, then steadier as she felt I wasn’t going to pull away.
-
-Her touch was… exquisite.
-
-Not because it was skilled.
-
-Because it was pure. Because it carried no entitlement. No demand. Just devotion and awe and careful joy.
-
-I leaned down and kissed her again, slow and clean.
-
-Charli responded immediately, softening into it like she’d been thirsty and didn’t know it.
-
-Her hands tightened a fraction at my waist—still gentle, but certain now—and I felt my body go warm in a way that had nothing to do with sex and everything to do with being wanted safely.
-
-I broke the kiss and rested my forehead against hers.
-
-“Tonight,” I murmured, “you don’t have to be careful like you’re handling glass.”
-
-Charli’s breath trembled. “But I—”
-
-“You can be careful in the right way,” I said. “Careful like you are with fabric you love. You don’t avoid it. You learn it.”
-
-Charli nodded, eyes wet.
-
-“Yes,” she whispered. “I can do that.”
-
-I guided her to the couch.
-
-We sat close, hips touching, shoulders touching, and I pulled a blanket over both of us, not because we were cold but because the weight of it made the world smaller.
-
-Charli hesitated, then leaned into me.
-
-Her head found my shoulder like it belonged there.
-
-Her arm slid around my waist, cautious at first, then settling as my body welcomed it.
-
-I kissed the top of her head.
-
-Charli’s breath shuddered, and she whispered, barely audible, “This is safe.”
-
-“Yes,” I said.
-
-She shifted slightly, turning her face toward my neck, and I felt the faint brush of her lips against my skin—more like a question than an act.
-
-I answered by tipping my head gently, giving her access without words.
-
-Charli kissed me again, still careful, still sweet, and her hand—her unbelievable hand—traced a slow line along my forearm.
-
-Bliss arrived in my body like a quiet flood.
-
-Not fireworks.
-
-Not urgency.
-
-A deep, easing warmth, the kind you feel when something inside you stops bracing.
-
-I held her there, letting myself want without fear, letting the floodgates stay open because the river had found its proper bed.
-
-After a while, Charli whispered, “I won’t do it at work again.”
-
-“I know,” I said.
-
-“And if I forget,” she added quickly, anxiety flaring, “if I get… carried away—”
-
-I turned my head and kissed her temple.
-
-“Then I will correct you,” I said. “And you will learn again. That’s what this is.”
-
-Charli went very still, then nodded against my shoulder.
-
-“Yes,” she breathed, and something in her softened—something old, something frightened.
-
-A girl learning that love doesn’t vanish because you make one mistake.
-
-A girl learning that consequences aren’t rejection.
-
-They’re care.
-
-We stayed like that for a long time: no talking, no plans, no big declarations.
-
-Just touch.
-
-Hands. Breath. Quiet kisses.
-
-A woman letting herself be held.
-
-A girl discovering that her gentleness wasn’t a liability—it was the very thing that made her irresistible.
-
-And when Charli finally drifted toward sleep, curled against me with her fingers still resting lightly on my wrist as if she couldn’t bear to lose contact entirely, I stared into the dim room and felt the calm settle into place.
-
-Wardrobe was safe.
-
-Charli was safe.
-
-And here, in the private hush of our home, where no one could turn tenderness into gossip or leverage, love was allowed to be what it wanted to be:
-
-soft.
-
-steady.
-
-and growing.
 
 
 

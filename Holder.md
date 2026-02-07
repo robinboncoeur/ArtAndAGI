@@ -1,12 +1,9 @@
-Sure thing, Robyn 😊 Here’s a short carry-over summary you can paste into the next thread:
+David Hamilton style photo of two young women sharing a tender kiss while sitting closely together on a cozy, gray leather sofa in an intimate living room setting. 
 
-**Context summary (Scenes 36–37 + recent ComfyUI/Qwen notes)**
+The taller woman on the left has dark-brown hair loosely tied up in a messy updo, wearing a white satin shell top paired with high-waisted, close-fitted grey linen trousers. The shorter woman on the right has wavy light-brown hair in a neat high ponytail and wears a soft, light pink cap-sleeve top and dark blue form-fitting skinny jeans. 
 
-* We drafted a long new scene initially combining **Coffee With Sarah** + **after Sarah leaves** romance, and identified the structural problem: two distinct emotional arcs were being mashed together.
+They are holding hands between them, and the taller woman has her other arm wrapped around the shorter woman's shoulder. A paisley-patterned, fringed black and beige throw blanket covers their laps. 
 
-* Decision: split into **Scene 36** and **Scene 37**.
+The room is warmly lit by the soft, diffused glow of the evening setting sun through a window in the left throwing light patterns on a dark wooden bookshelf filled with books and small framed pictures on the right. From the large window a breeze blows a sheer curtain in their direction. 
 
-  * **Scene 36 (“Coffee, Then Shade”)**: Heatwave Sunday; café + tram + Celeste’s home as refuge. Sarah witnesses Charli’s “home self,” and explicitly reveals Wardrobe’s women quietly protected Charli’s pronouns/space *without making her the stage* (“watched vs witnessed”). We firmed the prose: tightened opening philosophy, removed repetition, corrected typos, trimmed description density, and ended the scene on the strongest chord: **“I don’t have to be careful here.” / “That is the entire point.”**
-  * **Scene 37 (“After the Door Clicks”)**: private aftermath once Sarah leaves. Charli admits she felt “under a microscope”; Celeste reframes it as being *witnessed*, reassures that “home-self doesn’t endanger work-self,” and their intimacy begins safely—anchoring, consent-forward, non-performative. Key line: Charli’s overwhelmed **“You want… me?”** and Celeste’s answer (“Yes… and you’re still free”). Romance is separated from the “women’s competence net” beat to keep both arcs clean and resonant.
-
-* Next up: you’re working on **Scene 36/37 onward** (Coffee with Sarah, lunch/heatwave, aftermath), planning another firming pass; guardrail remains: **stay in Wardrobe’s lane** (competence, safety, consent, consequences, no spectacle).
+The overall mood is romantic, peaceful, and very cozy. The foreground features a dark wooden coffee table with a picture book of places to travel yo and a small vase with petunias. Particles of magical, soft, glowing light dust float gently in the air throughout the scene. Soft focus, high detail, warm color palette.

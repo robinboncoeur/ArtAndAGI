@@ -912,9 +912,7 @@ I nodded and smiled—slow, steady.
 
 Charli’s mouth opened, then shut again. She tried to name something concrete, like she could pin the feeling to a task.
 
-“I… made lunch,” she murmured with a self-deprecating wave. 
-
-“You directed lunch,” I corrected. “You sat us down like you owned the kitchen.”
+“I… made lunch,” she murmured with a self-deprecating wave.“You directed lunch,” I corrected. “You sat us down like you owned the kitchen.”
 
 A flush rose in her cheeks—different this time. Less chagrin. More spark.
 
@@ -2786,9 +2784,7 @@ Charli looked as if she might faint. “I… I didn’t know if—”
 
 Charli nodded.
 
-I held her gaze and said, very plainly, 
-
-“Yes.”
+I held her gaze and said, very plainly,“Yes.”
 
 The word hit her like sunlight.
 
@@ -2845,108 +2841,141 @@ Tonight, I will not be late again.
 
 
 
-## q
-### qq
+## Published
 
 <img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+🫦 After the Visit 🫦
 
+[Celeste]
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+Sarah left my house the same way she did most things: like the air was luckier for having been in her lungs. The front door shut. Not slammed—Sarah wasn’t vulgar—but closed with that precise, decisive click that felt like punctuation.
 
+For a moment the hallway held its own hush: the tick of a wall clock, the faint hum of the fridge, the soft, persistent whirr of the ceiling fan—aircon off, windows open. The air smelled different in the evening: someone's steak on the barbie, chlorine from a nearby pool and that faint, sweet-sour note of summer skin.
 
+I stood where I’d been left: hand still resting on the back of the dining chair Sarah had commandeered, fingers curled as if the timber could lend me composure.
 
+On the table were two glasses: mine, almost empty. Sarah’s half-finished, lipstick smudge on the rim like a signature. A plate with the last crisp snapped in half. The sweating glass jug of water I had meant as hospitality and now regarded as evidence.
 
+Charli was at the far end of the couch, knees tucked up under her like she was trying to make herself smaller than the cushions would allow. The throw rug was bunched in her lap. She had one corner of it pinched between her fingers and kept worrying it—roll, unroll, roll—quietly, rhythmically, the way some people played scales when they didn’t know where to put the feeling.
 
+She didn’t look at me.
 
+I stood there for a beat, watching her hands worry the throw like it could absorb consequence. I crossed the room slowly and sat beside her, close enough that my thigh brushed hers through the fabric. Charli’s breath hitched.
 
+“I should have seen sooner.”
 
+“It wasn’t—” she started.
 
-## p
-### pp
+“I know.” I turned my head slightly. “I’m not angry at you. I’m annoyed at me.”
 
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+Charli’s fingers froze on the throw.
 
-✨ The Brush ✨
+Good. Attention.
 
+I touched her cheek—two fingers, light as a test—and watched her go utterly still. There it was again:
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+don’t move, don’t ruin it, don’t make her change her mind.
 
+I removed my hand. Charli blinked, confused: like she’d been bracing for a push and got a pause. I leaned in and kissed her temple. A brief, clean kiss. Not romance, exactly.
 
+A message.
 
+You’re safe.
 
+Charli shuddered.
 
+And I let my mouth curve, just slightly, because I couldn’t help noticing something.
 
+“You know,” I said, calm as ever, “you look like you think you’re going to be punished for breathing.”
 
+Charli went red. “I—”
 
+“Mm.” I cut her off gently. “Don’t apologise. It’s boring.”
 
-## o
-### oo
+Her eyes snapped up—relieved. I shifted, turning my body toward her, and held my hand out. Palm up. Wrist offered. Charli stared at it like it was a trap.
 
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+“It’s real, Charli,” I said. “An invitation.”
 
-✨ The Brush ✨
+Charli’s throat bobbed as her fingers hovered. I raised my eyebrows the tiniest amount.
 
+“Charli,” I said, and let the word land like a key. “If you want to touch me, touch me. Just do it properly.”
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+“Properly?” Her voice cracked.
 
+“Slow,” I said. “Careful. And you check.”
 
+Charli nodded, almost feverishly grateful for rules. Her fingertips tentatively touched my wrist. The contact was so gentle it was almost absurd, like she was afraid my skin might bruise from attention. I let my breathing change on purpose, just enough that she’d hear it.
 
+Charli’s eyes widened.
 
+“Oh,” she whispered, as if she hadn’t expected a reaction. I tilted my head slightly, offering the line under my ear, and watched Charli swallow.
 
+“You’re studying it with your eyes,” I said quietly, “Now, use your lips.”
 
+Charli made a small sound—half laugh, half panic—and leaned in, pressing a careful kiss to my jaw.
 
+I didn’t chase her. I didn’t meet her halfway. I let her discover she was allowed to come to me. She tried again, a little higher, and I closed my eyes for a moment because the honesty of it went straight through me.
 
+Charli paused like she’d done something wrong.
 
-## n
-### nn
+I opened my eyes.
 
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+“Why did you stop?” I asked.
 
-✨ The Brush ✨
+Charli looked as if she might faint. “I… I didn’t know if—”
 
+“If I wanted you to?” I supplied.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+Charli nodded.
 
+I held her gaze and said, very plainly,“Yes. I do.”
 
+The words hit her like sunlight. I closed my eyes for a brief moment, then asked softly, already knowing what her answer would be:
 
+“Do you want to take care of me, Charli?”
 
+It wasn’t a question: it was permission. Charli’s eyes went huge. Pure obsidian.
 
+“Yes,” she breathed.
 
+I leaned back against the couch—deliberate, unhurried, a queen granting her the stage. Charli moved, touch attentive and reverent in the way she handled cloth in the atelier: reading me, learning me, not rushing.
 
+I let her.
 
+I let myself be still. And every so often, when she faltered, I gave her exactly what she needed.
 
-## m 
-### mm
+Direction.
 
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+“There.”
 
-✨ The Brush ✨
+Permission.
 
+“Yes.”
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+Confirming.
 
 
 
+“That’s it.”
 
 
 
+Small, private rewards—and my final slow exhale.
 
+ The room went on being a room—the fan turning, the clock counting, the street noises coming and going—while something in us reorganised itself into a new shape. When Charli finally looked up and my breathing had slowed—both of us dazed, our eyes bright with our audacity—I smoothed two fingers along her cheek.
 
+Not to soothe her.
 
-## l
-### ll
+To claim the moment.
 
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
+“I’m going to pay attention,” I said. “Properly. To you.”
 
-✨ The Brush ✨
+Charli closed her eyes, her head resting in my lap. “Okay.”
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+I bent over and kissed her—slow, sealing—and thought, with steel wrapped in silk:
 
-/-->
-
-
+I will not be late again.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
@@ -2954,13 +2983,130 @@ Tonight, I will not be late again.
 
 
 
+## 🇮🇹🫦 Italiano 🫦🇮🇹
 
+Sarah è uscita di casa mia come faceva la maggior parte delle cose: come se l’aria fosse più fortunata per essere passata nei suoi polmoni. La porta d’ingresso si è chiusa. Non sbattuta — Sarah non era volgare — ma richiusa con quel click preciso e definitivo che sembrava un punto fermo.
 
+Per un momento il corridoio ha trattenuto il suo silenzio: il ticchettio dell’orologio a parete, il ronzio lieve del frigo, il frullare costante e morbido del ventilatore a soffitto — aria condizionata spenta, finestre aperte. La sera l’aria aveva un odore diverso: la bistecca di qualcuno sulla griglia, cloro da una piscina vicina e quella nota dolce-acida, appena percettibile, di pelle d’estate.
 
+Sono rimasta dove mi aveva lasciata: la mano ancora appoggiata allo schienale della sedia da pranzo che Sarah si era presa, le dita chiuse come se il legno potesse prestarmi un po’ di compostezza.
 
+Sul tavolo c’erano due bicchieri: il mio, quasi vuoto. Quello di Sarah a metà, una sbavatura di rossetto sul bordo come una firma. Un piatto con l’ultima patatina spezzata in due. La caraffa di vetro piena d’acqua, appannata di condensa — che avevo messo lì come ospitalità e che adesso guardavo come una prova.
 
+Charli era all’estremità del divano, le ginocchia raccolte sotto di sé come se stesse cercando di diventare più piccola di quanto i cuscini le permettessero. La copertina era ammucchiata in grembo. Ne teneva un angolo pizzicato tra le dita e lo tormentava — arrotola, srotola, arrotola — piano, ritmicamente, come certe persone suonano le scale quando non sanno dove mettere ciò che sentono.
 
+Non mi guardava.
 
+Sono rimasta un attimo così, a guardare quelle dita lavorare la coperta come se potesse assorbire le conseguenze. Ho attraversato la stanza lentamente e mi sono seduta accanto a lei, abbastanza vicino da sfiorarle la coscia attraverso il tessuto. Il respiro di Charli si è spezzato.
 
+«Avrei dovuto capirlo prima.»
+
+«Non era—» ha iniziato.
+
+«Lo so.» Ho girato appena la testa. «Non sono arrabbiata con te. Sono irritata con me.»
+
+Le dita di Charli si sono fermate sulla coperta.
+
+Bene. Attenzione.
+
+Le ho toccato la guancia — due dita, leggere come un test — e l’ho guardata irrigidirsi del tutto. Eccolo di nuovo:
+
+non muoverti, non rovinarlo, non farla cambiare idea.
+
+Ho tolto la mano. Charli ha battuto le palpebre, confusa: come se si fosse preparata a una spinta e avesse ricevuto una pausa. Mi sono piegata e le ho baciato la tempia. Un bacio breve, pulito. Non proprio романтика.
+
+Un messaggio.
+
+Sei al sicuro.
+
+Charli ha tremato.
+
+E mi si è incurvata la bocca, appena, perché non potevo non notare una cosa.
+
+«Sai,» ho detto, calma come sempre, «sembri una che pensa di essere punita per il fatto di respirare.»
+
+Charli è diventata rossa. «Io—»
+
+«Mm.» L’ho interrotta con dolcezza. «Non scusarti. È noioso.»
+
+I suoi occhi sono scattati su di me — sollevati. Mi sono spostata, girando il corpo verso di lei, e ho teso la mano. Palmo in su. Polso offerto. Charli l’ha fissata come se fosse una trappola.
+
+«È vero, Charli,» ho detto. «È un invito.»
+
+Le si è mosso il pomo d’Adamo mentre le dita restavano sospese. Ho alzato le sopracciglia di un millimetro.
+
+«Charli,» ho detto, e ho lasciato che la parola cadesse come una chiave. «Se vuoi toccarmi, toccami. Però fallo come si deve.»
+
+«Come… si deve?» La voce le si è spezzata.
+
+«Piano,» ho detto. «Con cura. E controlli.»
+
+Charli ha annuito, quasi febbrile — grata per delle regole. La punta delle sue dita ha toccato il mio polso. Era un contatto così gentile da essere quasi assurdo, come se avesse paura che la mia pelle potesse lividarsi per l’attenzione. Ho cambiato respiro di proposito, appena quanto bastava perché lei lo sentisse.
+
+Gli occhi di Charli si sono allargati.
+
+«Oh,» ha sussurrato, come se non si aspettasse una reazione. Ho inclinato leggermente la testa, offrendo la linea sotto l’orecchio, e ho guardato Charli deglutire.
+
+«Lo stai studiando con gli occhi,» ho detto piano. «Adesso usa le labbra.»
+
+Charli ha fatto un suono piccolo — mezzo riso, mezzo panico — e si è chinata, posando un bacio attento sulla mia mandibola.
+
+Non l’ho inseguita. Non le sono andata incontro. Le ho lasciato scoprire che era autorizzata a venire da me. Ci ha provato di nuovo, un po’ più su, e ho chiuso gli occhi per un istante perché la sincerità di quel gesto mi è passata attraverso senza chiedere permesso.
+
+Charli si è fermata, come se avesse fatto qualcosa di sbagliato.
+
+Ho riaperto gli occhi.
+
+«Perché ti sei fermata?» ho chiesto.
+
+Charli sembrava sul punto di svenire. «Io… non sapevo se—»
+
+«Se lo volevo?» ho completato.
+
+Charli ha annuito.
+
+Le ho tenuto lo sguardo e ho detto, molto semplicemente: «Sì. Lo voglio.»
+
+Le parole l’hanno colpita come luce. Ho chiuso gli occhi un momento, poi ho chiesto piano — sapendo già quale sarebbe stata la risposta:
+
+«Vuoi prenderti cura di me, Charli?»
+
+Non era una domanda: era un permesso. Gli occhi di Charli sono diventati enormi. Ossidiana pura.
+
+«Sì,» ha respirato.
+
+Mi sono appoggiata allo schienale del divano — deliberata, senza fretta, una regina che le concede la scena. Charli si è mossa, attenta e reverente come quando maneggia la stoffa in atelier: mi leggeva, mi imparava, senza correre.
+
+L’ho lasciata fare.
+
+Mi sono lasciata stare ferma. E ogni tanto, quando esitava, le davo esattamente quello di cui aveva bisogno.
+
+Direzione.
+
+«Lì.»
+
+Permesso.
+
+«Sì.»
+
+Conferma.
+
+«Così.»
+
+Piccole ricompense private — e il mio ultimo, lento espiro.
+
+La stanza continuava a essere una stanza — il ventilatore che girava, l’orologio che contava, i rumori della strada che andavano e venivano — mentre qualcosa tra noi si riorganizzava in una forma nuova. Quando Charli finalmente ha alzato lo sguardo e il mio respiro si era fatto lento — entrambe stordite, gli occhi lucidi per la nostra audacia — le ho fatto scorrere due dita lungo la guancia.
+
+Non per calmarla.
+
+Per rivendicare l’istante.
+
+«Starò attenta,» ho detto. «Come si deve. A te.»
+
+Charli ha chiuso gli occhi, la testa appoggiata sulle mie gambe. «Va bene.»
+
+Mi sono chinata e l’ho baciata — lento, sigillante — e ho pensato, con acciaio avvolto nella seta:
+
+Non arriverò più tardi.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
