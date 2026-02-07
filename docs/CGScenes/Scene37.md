@@ -2843,7 +2843,7 @@ Tonight, I will not be late again.
 
 ## Published
 
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/260207a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 🫦 After the Visit 🫦
 
@@ -2984,6 +2984,10 @@ I will not be late again.
 
 
 ## 🇮🇹🫦 Italiano 🫦🇮🇹
+### For Anna
+
+<img src="/assets/images/notes26a/260207a.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
 
 Sarah è uscita di casa mia come faceva la maggior parte delle cose: come se l’aria fosse più fortunata per essere passata nei suoi polmoni. La porta d’ingresso si è chiusa. Non sbattuta — Sarah non era volgare — ma richiusa con quel click preciso e definitivo che sembrava un punto fermo.
 
