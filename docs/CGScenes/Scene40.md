@@ -701,12 +701,182 @@ And I’d finally decided I wasn’t going to confuse the two ever again.
 
 
 
-## x
-### xx
+## Notes26-02-06rv1
+### 1st Person
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-07]
+
+**Scene 40 — “Not Shaped Like You” (Sarah POV, 1st person, past tense)**
+
+He turned up at Wardrobe with a tool belt and a polite expression.
+
+I noticed both.
+
+Not because I was shallow—please—but because years of navigating men had taught me competence came in different flavours: loud competence that wanted a medal, and quiet competence that just got on with the job.
+
+This one looked like the second kind.
+
+Mara pointed him toward the back wall where the lights had been flickering like a haunted-house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
+
+I found myself watching him between stitches.
+
+Not in a hungry way.
+
+In a curious way. Like: *Is this what it looks like when a bloke is normal?* Because the bar was low enough to trip over.
+
+When he finished, he wiped his hands on a rag and looked at Mara—not at Celeste, not at me, not at whichever woman happened to be nearest—as if the authority in the room was obvious to him.
+
+“All sorted,” he said. “That fitting-room circuit was loose. I re-terminated it. Should be stable now.”
+
+Mara gave him a brief nod. “Good.”
+
+He smiled—small, contained. “Carl.”
+
+I gave him a look. “Sarah.”
+
+His gaze flicked to my hands—needle, thread, the precision of my work—then back to my face.
+
+“You make that look… easy,” he said.
+
+I snorted. “It’s not.”
+
+“I figured,” he said, and there was no condescension in it. Just respect. “Still. It’s good work.”
+
+He didn’t overdo it. He didn’t flirt like it was a performance. He didn’t scan my body like he was shopping.
+
+He just… spoke to me like I was a person.
+
+Which, depressingly, narrowed the field.
+
+Later—because Celeste had the subtlety of a freight train when she wanted something to happen—there was an invitation that wasn’t exactly an invitation.
+
+“Come out with us,” Celeste said, like she was scheduling a meeting. “Saturday. Somewhere with shade. Sarah needs feeding. You too, if you’re not feral.”
+
+Carl’s eyebrows went up, amused. “That’s an option?”
+
+“It’s always an option,” Celeste said. “Most people choose better.”
+
+I rolled my eyes, but I heard myself say, “Alright then,” as if I wasn’t curious.
+
+The date—if that’s what it was—was easy.
+
+Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When I teased him, he laughed without trying to win.
+
+And to my surprise, I didn’t feel like I had to armour myself.
+
+That should’ve felt like a relief.
+
+Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
+
+The trouble began about twenty minutes in, when Celeste texted:
+
+**where are you**
+
+I stared at it.
+
+Of course.
+
+I hadn’t even replied when Bree sent a photo: Bree and Lily somewhere bright and smug, holding iced coffees like trophies.
+
+**You better not be having fun without us 😘**
+
+I looked up to find Carl watching me with mild curiosity, not suspicion.
+
+“Your… friends?” he asked.
+
+I exhaled. “My… workplace. It’s a women’s atelier. They behave like a flock.”
+
+Carl’s smile was warm. “Sounds… intense.”
+
+“It is,” I said. “And occasionally delightful.”
+
+A minute later, Celeste and Charli actually appeared—because apparently the universe had decided I wasn’t allowed one uncomplicated experience.
+
+Celeste spotted us and did that crisp, predatory pause she did when she was assessing a scene.
+
+Charli hovered half a step behind, polite as a ghost.
+
+Bree and Lily arrived shortly after, laughing too loudly and immediately taking control of the table arrangement as if it were a military operation. Chairs scraped. Bags moved. Decisions made.
+
+Carl stood when they came over. He introduced himself. He shook hands. He didn’t leer, didn’t interrupt, didn’t puff up.
+
+He was… good.
+
+A decent bloke.
+
+The kind of man you could bring home to a mother who was difficult to impress.
+
+I watched him hold his own without pushing. I watched him make space for the women without vanishing. I watched him listen with his whole face, like he was used to women having opinions and didn’t take it personally.
+
+And then the truth arrived, quiet as gravity.
+
+He wasn’t wrong.
+
+He just wasn’t *mine*.
+
+Because the warmth I felt that night—what steadied me, what made something in my chest soften—wasn’t Carl’s attention.
+
+It was the way Charli leaned into Celeste’s shoulder when Celeste murmured something at her ear.
+
+It was the way Celeste reached for Charli’s water glass without thinking, refilled it, slid it back—care like muscle memory.
+
+It was the flicker in Bree’s eyes when Lily touched her wrist. The way Lily’s thumb stayed there half a second longer than necessary, like the world could be held in that tiny contact.
+
+It was woman-shaped. Woman-made. Woman-understood.
+
+My stomach dropped a fraction—not with dread, exactly.
+
+With clarity.
+
+Carl glanced at me as the others began arguing about dessert like it was a constitutional matter.
+
+“You alright?” he asked quietly, like he’d noticed the shift.
+
+I looked at him.
+
+He deserved honesty. The real kind, not the kind that patted a man on the head and sent him away confused.
+
+“I am,” I said. Then I inhaled, steady. “But I need to tell you something, before this turns into… anything.”
+
+His face changed—subtle, bracing. “Okay.”
+
+I let myself be blunt. It was kinder.
+
+“You’re lovely,” I said. “You’ve done everything right. You’re not a jerk.”
+
+A flicker of pain crossed his mouth anyway. He tried to hide it. He wasn’t very good at lying.
+
+I didn’t rush.
+
+“But my happiness,” I said, and my voice softened despite myself, “is not shaped like you.”
+
+He held my gaze.
+
+For a second he looked like he wanted to bargain. Then he exhaled, long and controlled, and nodded once.
+
+“Right,” he said. “Thank you for telling me straight.”
+
+Relief loosened in my chest so sharply it almost hurt. Not because I’d won. Because I hadn’t lied.
+
+He gave a small, honest smile. “Still… I’m glad I met you.”
+
+I returned it. “Me too.”
+
+And because he was decent, he didn’t make it ugly.
+
+Because I was me, I didn’t pretend it was anything but what it was.
+
+Not all blokes were jerks.
+
+Some were genuinely good.
+
+But goodness wasn’t the same thing as *right*.
+
+And I’d finally decided I wasn’t going to confuse the two ever again.
+
+*End Scene 40.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -719,12 +889,199 @@ And I’d finally decided I wasn’t going to confuse the two ever again.
 
 
 
-## w
-### ww
+## Notes26-02-07ev1
+### 
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+Done. Here’s the **same Scene 40**, but with the **silvery laughter moment sharpened into a physical, involuntary “tell”**—throat, ribs, skin, pulse—so it reads like a body answering before Sarah can be civil about it. 🖤✨
+
+---
+
+## **Scene 40 — “Not Shaped Like You” (Sarah POV, 1st person, past tense)**
+
+He turned up at Wardrobe with a tool belt and a polite expression.
+
+I noticed both.
+
+Not because I was shallow—please—but because years of navigating men had taught me competence came in different flavours: loud competence that wanted a medal, and quiet competence that just got on with the job.
+
+This one looked like the second kind.
+
+Mara pointed him toward the back wall where the lights had been flickering like a haunted-house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
+
+I found myself watching him between stitches.
+
+Not in a hungry way.
+
+In a *measuring* way. Like: *Is this what it looks like when a bloke is normal?* Because the bar was low enough to trip over.
+
+When he finished, he wiped his hands on a rag and looked at Mara—not at Celeste, not at me, not at whichever woman happened to be nearest—as if the authority in the room was obvious to him.
+
+“All sorted,” he said. “That fitting-room circuit was loose. I re-terminated it. Should be stable now.”
+
+Mara gave him a brief nod. “Good.”
+
+He smiled—small, contained. “Carl.”
+
+I gave him a look. “Sarah.”
+
+His gaze flicked to my hands—needle, thread, the precision of my work—then back to my face.
+
+“You make that look… easy,” he said.
+
+I snorted. “It’s not.”
+
+“I figured,” he said, and there was no condescension in it. Just respect. “Still. It’s good work.”
+
+He didn’t overdo it. He didn’t flirt like it was a performance. He didn’t scan my body like he was shopping.
+
+He just spoke to me like I was a person.
+
+Which, depressingly, narrowed the field.
+
+Later—because Mara had her own kind of matchmaking impulse, blunt as a gavel—she said, without looking up from her cutting:
+
+“Buy her a coffee.”
+
+I blinked. “Excuse me?”
+
+Mara’s shears made their soft, decisive bite through fabric. “You heard me.”
+
+Carl glanced between us, like this was the most normal instruction in the world. “If that’s allowed.”
+
+“It’s allowed,” Mara said. “She needs feeding. You look like you do too.”
+
+I rolled my eyes because it was that or smile, and smiled because apparently I was curious.
+
+So we agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
+
+The date—if that’s what it was—was easy.
+
+Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When I teased him, he laughed without trying to win.
+
+To my surprise, I didn’t feel like I had to armour myself.
+
+That should’ve felt like a relief.
+
+Instead it felt like standing in warm water and realising you’d forgotten what warm felt like.
+
+Not because the water was wrong.
+
+Because I was standing there, and my body was doing… nothing.
+
+I watched him talk—hands steady around his mug, eyes on my face, not my chest. He listened like listening was a real action, not a pause before his turn.
+
+He was, objectively, about as good as they came.
+
+And I felt… flat.
+
+Not disgust. Not fear. Not irritation.
+
+Just the quiet absence of *pull*.
+
+It wasn’t even sadness at first. It was information, arriving the way a seam tells you it’s off by a millimetre: subtle, undeniable, impossible to argue with once you’ve seen it.
+
+Carl smiled at something I said, and there was a soft warmth in it—care that didn’t ask to be applauded.
+
+I tried to let my body meet it.
+
+It didn’t.
+
+Then, from a table behind us, I heard it.
+
+A woman’s laugh—silvery, unselfconscious, the kind that made the air lift.
+
+It wasn’t loud. It wasn’t even near. It was just… *alive.*
+
+And my body answered before my mind could tidy it up.
+
+A quickening low in my ribs. A small heat-flash under my skin. My throat tightened the way it did when I heard a perfect note land.
+
+I swallowed, irritated—because it was instant, because it was honest, because it was mine.
+
+The laugh came again, softer, followed by a murmur—another woman’s voice, close and fond—and something in me leaned toward it like a compass needle deciding north.
+
+Not romantically, not as a daydream.
+
+As recognition.
+
+As want.
+
+I sat there with my coffee cooling and realised, with a strange softness, that the sadness rising in me wasn’t for myself.
+
+It was for Carl.
+
+Because he’d done nothing wrong.
+
+He’d turned up with quiet competence. He’d treated women like people. He’d been present, steady, decent.
+
+And the decisive part of what I wanted—what my body wanted, what my future wanted—was not shaped like him.
+
+Carl’s gaze sharpened a fraction, not suspicious, just attentive. He’d noticed the shift. He was the kind of man who noticed things because he paid attention, not because he wanted leverage.
+
+“You alright?” he asked quietly.
+
+I looked at him.
+
+He deserved honesty. The real kind, not the kind that patted a man on the head and sent him away confused.
+
+“I am,” I said. Then I inhaled, steady. “But I need to tell you something, before this turns into… anything.”
+
+His face changed—subtle, bracing. “Okay.”
+
+I kept my voice level. It was kinder.
+
+“You’re lovely,” I said. “You’ve done everything right. You’re not a jerk.”
+
+A flicker of pain crossed his mouth anyway. He tried to hide it. He wasn’t very good at lying.
+
+I didn’t rush.
+
+“But my happiness,” I said, and my voice softened despite myself, “is not shaped like you.”
+
+He held my gaze.
+
+For a second he looked like he wanted to bargain—not because he was entitled, but because people reached for the tools they had when something slipped. Then he exhaled, long and controlled, and nodded once.
+
+“Right,” he said. “Thank you for telling me straight.”
+
+Relief loosened in my chest so sharply it almost hurt. Not because I’d won.
+
+Because I hadn’t lied.
+
+He gave a small, honest smile. “Still… I’m glad I met you.”
+
+I returned it. “Me too.”
+
+We stood outside in the clean afternoon light. He offered his hand, straightforward and old-fashioned.
+
+I took it.
+
+The handshake was firm, respectful. No theatrics. No punishment. No attempt to make it mean more than it did.
+
+Then he stepped back, gave me one last nod, and walked away without making it ugly.
+
+And because I was me, I didn’t pretend it was anything but what it was.
+
+Not all blokes were jerks.
+
+Some were genuinely good.
+
+But goodness wasn’t the same thing as *right*.
+
+And now I knew—properly knew—that what I wanted wasn’t simply “a relationship” to fill space.
+
+It was a kind of warmth. A kind of beauty. A kind of yes.
+
+My future was woman-shaped.
+
+*End Scene 40.*
+
+---
+
+If you’d like an even sharper needle, we can make the bodily tell *one notch quieter* (less “heat-flash,” more micro-reactive: a pulse in the wrist, a breath catching) — but this version already reads like **involuntary truth** without melodrama.
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -742,7 +1099,162 @@ And I’d finally decided I wasn’t going to confuse the two ever again.
 
 <img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+## Notes26-02-07ev1
+### 
+
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+Done. Here’s the **same Scene 40**, but with the **silvery laughter moment sharpened into a physical, involuntary “tell”**—throat, ribs, skin, pulse—so it reads like a body answering before Sarah can be civil about it. 🖤✨
+
+---
+
+## **Scene 40 — “Not Shaped Like You” (Sarah POV, 1st person, past tense)**
+
+He turned up at Wardrobe with a tool belt and a polite expression.
+
+I noticed both.
+
+Not because I was shallow—please—but because years of navigating men had taught me competence came in different flavours: loud competence that wanted a medal, and quiet competence that just got on with the job.
+
+This one looked like the second kind.
+
+Mara pointed him toward the back wall where the lights had been flickering like a haunted-house feature. He listened. He nodded. He asked one sensible question. Then he got to work without making anyone’s day harder than it already was.
+
+I found myself watching him between stitches: not in a hungry but *measuring* way. Like: *Is this what it looks like when a bloke is normal?* Because the bar was low enough to trip over.
+
+When he finished, he wiped his hands on a rag and looked at Mara—not at Celeste, not at me, not at whichever woman happened to be nearest—as if the authority in the room was obvious to him.
+
+“All sorted,” he said. “That fitting-room circuit was loose. I re-terminated it. Should be stable now.”
+
+Mara gave him a brief nod. “Good.”
+
+He glanced at me, smiled—small, contained. “Carl.”
+
+I gave him a look without turning my head. “Sarah.”
+
+His gaze flicked to my hands—needle, thread, the precision of my work—then back to my face.
+
+“You make that look… easy.”
+
+I snorted. “It’s not.”
+
+“Yeah, I reckon,” he said, and there was no condescension in it, just respect. “Still. It’s good work.”
+
+He didn’t overdo it. He didn’t flirt like it was a performance. He didn’t scan my body like he was shopping. He actually spoke to me like I was a person, which, depressingly, narrowed the field.
+
+Mara had her own kind of matchmaking impulse. She said, without looking up from her cutting, blunt as a gavel:
+
+“Buy her a coffee.”
+
+I blinked. “Excuse me?”
+
+Mara’s shears made a soft, decisive bite through fabric, then stopped. She looked directly at Carl.
+
+“You heard me.”
+
+Carl glanced between us.
+
+“If that’s allowed.”
+
+“It’s allowed,” Mara said. “She needs feeding. You look like you do too.”
+
+I rolled my eyes because it was that or smile, and then, smiled because I was curious. We agreed on Saturday. Daylight. Somewhere with shade. Somewhere public enough that my life couldn’t accidentally become a man’s idea of “progress.”
+
+The date—if that’s what it was—was easy.
+
+Carl picked a place that wasn’t trying too hard. He arrived on time. He asked questions and actually waited for answers. He didn’t fill silence like it was a threat. When I teased him, he laughed, genuine. I didn’t feel like I had to armour myself.
+
+That should’ve felt like a relief. Instead it felt like standing in warm water and realising you’d forgotten what warm felt like. Not because the water was wrong.
+
+Because I was standing there, and my body was doing… nothing.
+
+I watched him talk—hands steady around his mug, eyes on my face, not my chest. He listened like listening was a real action, not a pause before his turn. He was, objectively, about as good a man as a woman could ever hope for.
+
+And I felt… nothing.
+
+Not the absence of disgust or fear.
+
+Just a quiet absence of *pull*.
+
+I carefully studied the frank, friendly face before me. Kindness, gentleness, openness: it was all there.
+
+And I felt… nothing.
+
+Carl smiled at something I said, and there was a soft warmth in it—care that didn’t ask to be applauded.
+
+I tried to let my body meet it.
+
+It didn’t.
+
+Then, from a table behind us, I heard it. A woman’s laugh—silvery, unselfconscious, the kind that made the air lift. It wasn’t loud. It wasn’t even near. It was just… *alive.* And my body answered before my mind could tidy it up.
+
+A quickening low in my ribs. A small heat-flash under my skin. My throat tightened the way it did when I heard a perfect note land. I swallowed, irritated—because it was instant, because it was honest, because it was mine.
+
+The laugh came again, softer, followed by a murmur—another woman’s voice, close and fond—and something in me leaned toward it like a compass needle deciding north. Not romantically, not as a daydream but sadly: as recognition.
+
+As want.
+
+It wasn’t even sadness at first. It was information, arriving the way a seam tells you it’s off by a millimetre: subtle, undeniable, impossible to argue with once you’ve seen it.
+
+I sat there with my coffee cooling and realised, with a strange softness, that the sadness rising in me wasn’t for myself.
+
+It was for Carl.
+
+Because he’d done things… correctly. He had turned up with quiet competence. He treated women like people. He was *there*, in the present, steady, decent.
+
+And the decisive part of what I wanted—what my body wanted, what my future wanted—was not shaped like him.
+
+Carl’s gaze sharpened a fraction, not suspicious, just attentive. He’d noticed the shift. He was the kind of man who noticed things because he paid attention, not because he wanted leverage.
+
+“You right?” he asked quietly. I looked at him. 
+
+He deserved honesty. The real kind, not the kind that patted a man on the head and sent him away confused.
+
+“I am,” I said with a quick nod. Then I inhaled. “But I need to tell you something, before we go much further.”
+
+His face changed—subtle, bracing. “Okay.”
+
+I kept my voice level. It was kinder.
+
+“You’re a lovely man, Carl,” I said. “You do everything… right.”
+
+A flicker of pain crossed his mouth anyway. He tried to hide it. He wasn’t very good at lying.
+
+I didn’t rush.
+
+“But my happiness,” I said, and my voice softened despite myself, “is not shaped like you.”
+
+He held my gaze.
+
+For a second he looked like he wanted to bargain: not because he was entitled, but because people reached for the tools they had when something slipped. Then he exhaled, long and controlled, and nodded once.
+
+“Right,” he said. “Thank you for telling me straight.”
+
+Relief loosened in my chest so sharply it almost hurt. He gave a small, honest smile. 
+
+“Still… I’m glad I met you.”
+
+I returned it. “Me too.”
+
+We stood outside in the clean afternoon light. He offered his hand, straightforward and old-fashioned.
+
+I took it.
+
+The handshake was firm, respectful. No theatrics or punishment, no attempt to make it mean more than it did. Then he stepped back, gave me one last nod, and walked away without making it ugly. And because I was me, I didn’t pretend it was anything but what it was.
+
+Not all blokes were jerks.
+
+Some were genuinely good.
+
+But goodness wasn’t the same thing as *right*.
+
+And now I knew—properly knew—that what I wanted wasn’t simply “a relationship” to fill space.
+
+It was a kind of warmth. A kind of beauty. A kind of yes.
+
+And that yes was woman-shaped.
+
+*End Scene 40.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

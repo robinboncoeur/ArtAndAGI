@@ -2235,7 +2235,7 @@ If you want, I can also adjust one subtle thing that often strengthens 1st-perso
 
 <img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[26-02-06]
+[26-02-07]
 
 📱 The Golf Course Call 📱
 
@@ -2243,55 +2243,51 @@ If you want, I can also adjust one subtle thing that often strengthens 1st-perso
 
 The morning light was mean.
 
-It came in flat and bright through the blinds and made everything look too honest—discarded clothes, rumpled sheets, the empty space beside me like an accusation. I sat on the edge of the bed and drank water straight from the glass, as if hydration could fix the taste he’d left in the room.
+It came in flat and bright through the blinds and turned everything blunt—discarded clothes, rumpled sheets, the empty space beside me like an accusation. I sat on the edge of the bed and drank last night's now-tepid water, as if hydration could fix the taste he’d left in the room. I was annoyed at him. I was more annoyed at myself.
 
-My phone lay on the bedside table.
+My phone lay on the bedside table. I stared at it.
 
-I stared at it.
+It wasn’t rage that moved me. Rage is messy. Rage implies investment. 
 
-It wasn’t rage that moved me. Rage is messy. Rage implies investment.
-
-This was simpler.
-
-This was the quiet certainty of realising I’d accepted something beneath my standards—and feeling, not shame, but irritation that I’d let it waste an evening of my life.
+This was simpler: the quiet certainty of realising I’d accepted something beneath my standards—and feeling, not shame, but irritation that I’d let it waste even one evening of my life.
 
 I thumbed my contacts, found his name, and tapped.
 
-It rang longer than it should have. Then sound flooded in—wind, men’s laughter, that hollow openness you only got outdoors when men were congratulating themselves for being outside.
+It rang longer than it should have. Then sound flooded in: wind, men’s laughter, that hollow openness you only got outdoors when men were congratulating themselves for being outside.
 
-“Hey,” he said, voice bright. Pleased with himself. “You alright?”
+“Hey,” he said, voice bright. Pleased with himself. A pause. “You right?”
 
-I closed my eyes for a beat and let his tone tell me everything I needed to know.
+I closed my eyes for a beat.
 
 “Yep,” I said. “I’m ending this.”
 
-A pause. A genuine one. Like the words had reached his ears but couldn’t find a place to land.
+A pause, this time, his. Like the words had reached his ears but couldn’t find a place to land.
 
-“What?”
+“Sorry, what?”
 
-“I’m ending it,” I repeated, calm on purpose. The calm was the point. “This. Whatever we were pretending it was.”
+“I’m ending this,” I repeated, confidently calm. “Whatever we were pretending it was.”
 
-His laugh came out wrong—too quick, too defensive. “What, because of last night? Sarah—come on—”
+His laugh came out wrong—quick, defensive. “Wait, what? Because of… why? Sarah, come on—”
 
 Behind him, someone called his name, muffled by distance.
 
 “Mate, you teeing off or what?”
 
-He lowered his voice, as if privacy would make him sound more reasonable. “Listen, you’re overthinking it. We’re good. We had fun. Don’t do this on the phone.”
+He lowered his voice, as if privacy would make him sound more reasonable. “Listen, you’re overthinking things. We’re good. We have fun!” Another pause. “Look, don’t do this on the phone.”
 
 I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
 
-“This is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
+“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
 
-He exhaled hard. “This is insane.”
+He exhaled hard. 
+
+“This is insane.”
 
 “No,” I said softly. “What’s insane is you thinking you get to argue about it.”
 
-I heard him moving—steps on grass, the shift of him putting distance between himself and the audience. Wind buffeted the mic. Somewhere behind him, a club clinked against something solid.
+I heard him moving: steps on grass, the shift of him putting distance between himself and the audience. Wind buffeted the mic. Somewhere behind him, a club clinked against something solid.
 
-“Sarah, seriously—what do you *want* from me?” he demanded, like I was a faulty appliance he’d been patient with.
-
-The question was so revealing I almost thanked him.
+“Sarah, seriously—what do you *want* from me?” he demanded, like I was a faulty appliance he’d been patient with. The question was so revealing I almost thanked him.
 
 “Tenderness,” I said, and let the single word sit there between us like a dropped glass.
 
@@ -2299,19 +2295,17 @@ Silence.
 
 Not thoughtful silence. Not *I hear you* silence.
 
-Just… blank.
+Just… blank. Then he did what men did when they were offered a feeling they couldn’t quantify: he tried to bargain.
 
-Then he did what men did when they were offered a feeling they couldn’t quantify.
-
-He tried to bargain.
-
-“I can be— I mean, I *am*—look, we can work on that.”
+“Look, I can be— I mean, I *am*… look, we can work on that.”
 
 I smiled without humour.
 
 “That,” I said, “is the problem. It’s not a renovation project.”
 
-A small sound—frustration, offence. The first hint he’d expected me to be easier than this. “So you’re just… done?”
+A small sound: frustration, offence. The first hint he’d expected me to be easier than this. 
+
+“So you’re just… done?”
 
 “Yes.”
 
@@ -2319,15 +2313,13 @@ A small sound—frustration, offence. The first hint he’d expected me to be ea
 
 “I do,” I said, because it was true in the limited way you liked someone who never made you feel unsafe. “But liking you isn’t the same thing as wanting this. And I don’t date to fill space.”
 
-I didn’t add: I’ve tried. It never works.
+Another pause. A longer one. I could almost hear his brain searching for the correct lever. Then his voice softened—tactical, not tender.
 
-Another pause. A longer one. I could almost hear his brain searching for the correct lever.
-
-Then his voice softened—tactical, not tender. “We can talk about it tonight.”
+“We can talk about it tonight.”
 
 “No,” I said, and the word landed like a door closing.
 
-“Sarah—don’t be like that.”
+“*Sarah*… don’t be like that.”
 
 I glanced at the phone as if it had said something stupid.
 
@@ -2335,54 +2327,27 @@ I glanced at the phone as if it had said something stupid.
 
 “Cold.”
 
-My brow lifted.
-
-“Cold,” I repeated, tasting it. “Right. Sure.”
-
-I heard his breathing now, a little faster. The first crack in his confidence. Not remorse—just the unpleasant realisation that the thing he’d assumed would remain available was, in fact, capable of walking away.
+My brow lifted. I heard his breathing now, a little faster. The first crack in his confidence. Not remorse—just the unpleasant realisation that the thing he’d assumed would remain available was, in fact, capable of walking away.
 
 “I’m not cold,” I said. “I’m finished.”
 
-He started talking again—too many words, too urgent, suddenly desperate to keep what he’d never learned how to hold properly.
+He spoke again. I didn’t listen for meaning. I listened for habit.
 
-I didn’t let him build momentum.
+Then I hung up.
 
-I hung up.
+The quiet after was immediate, like a room after a door clicks shut.
 
-Not dramatically. Not triumphantly.
+My phone buzzed—missed call. Another.
 
-Just… clean.
+I turned it over, face-down, and went to make coffee.
 
-The silence that followed wasn’t empty like last night’s had been. It was spacious. It was relief.
+The magpie outside warbled, pleased with itself.
 
-My phone buzzed almost immediately: a missed call. Then another. Then a text, then two.
+I smiled.
 
-I put it face-down on the bedside table and went to make coffee.
-
-Outside, a magpie warbled like it was gossiping about me.
-
-An unexpected little laugh rose in my throat.
-
-He would cling for a bit.
-
-Of course he would.
-
-That was fine.
-
-Clinging was not the same thing as being right.
-
-And I’d finally remembered the difference.
+Done meant done.
 
 *End Scene 39.*
-
----
-
-If you want, I can also adjust one subtle thing that often strengthens 1st-person: swap a couple of “I heard / I looked” for **immediate sensory fragments** (keeps it inside her body even more). But this version is already properly Sarah-**I**, not omniscient. 💛
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
