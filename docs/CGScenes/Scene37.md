@@ -2977,7 +2977,7 @@ I bent over and kissed her—slow, sealing—and thought, with steel wrapped in 
 
 I will not be late again.
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+<hr style="height:24px;border-width:0;color:green;background-color:green">
 
 
 

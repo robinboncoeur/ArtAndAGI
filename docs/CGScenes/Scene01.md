@@ -118,17 +118,15 @@ I’m very good at inspiring that reaction.
 
 I have to be careful with it.
 
-<hr style="height:24px;border-width:0;color:blue;background-colorblue">
+<hr style="height:24px;border-width:0;color:blue;background-color:blue">
 
-Not too long at all 😊 — it *reads* long because it’s doing several jobs at once (atmosphere → incident → assessment → control → exit), but it moves cleanly, and the escalation is beautifully paced.
 
-If you wanted to trim, it’d be *micro-trims*, not structural: a couple of repeats of “still / caught / gaze” could be shaved. But honestly? For a “first encounter + power dynamic crystallises” moment, this length feels earned.
 
-Below is a **French version** that keeps your tone: cool intelligence, controlled empathy, and that quiet, decisive “I determine what happens next.” I’ve gone with **tu** between teenagers (it keeps her dominance natural and modern), and I’ve kept the rhythm slightly literary without turning it “roman traduit”. ✨🇫🇷
 
----
 
-## Traduction française (brouillon ton-faithful)
+## 🇨🇵🫦 Française 🫦🇨🇵
+
+<img src="/assets/images/notes26a/260207a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Je ne passe presque jamais par ce couloir.
 
@@ -234,42 +232,16 @@ Je suis très douée pour provoquer ce genre de réaction.
 
 Je dois faire attention avec ça.
 
----
-
-## Mini “voice bible” FR (version 1)
-
-**Narratrice (Celeste / Lauren selon ta structure)**
-
-* **Présent de décision** même au passé : phrases nettes, actions posées, peu de modalisation.
-* **Vocabulaire :** précis, contemporain, pas précieux. Une touche littéraire via le rythme, pas via des mots rares.
-* **Contrôle :** elle ne “se soucie” pas — elle “calibre”, “décide”, “gère”, “dirige”.
-* **Humour :** sec, minimal, utilisé comme outil (désamorcer / cadrer).
-
-**Dialogue**
-
-* Entre ados : **tu** (dominance douce, naturelle).
-* Les injonctions restent courtes : “Stop. Respire.” / “Compris ?”
-
-## Glossaire de départ (à compléter)
-
-* *I’m handling this.* → **Je gère.** / **Laisse, je m’en occupe.** (selon contexte)
-* *I determined what would happen next.* → **J’ai décidé de ce qui allait se passer ensuite.**
-* *It isn’t arrogance, it’s choreography.* → **Ce n’est pas de l’arrogance : c’est de la chorégraphie.**
-* *girls’ toilets / ladies’* → **toilettes des filles** (ados) / **toilettes des femmes** (adulte)
-* *caught* (deer/headlights) → **pris au piège / surpris** ; *chevreuil et phares* marche très bien en FR.
-
----
-
-If you’d like, next step: I can extract **10–15 “signature lines”** from this excerpt (your motifs) and we lock their French once, so Scene 50+ stays consistent. 😊
-
-
-
-
-
 <hr style="height:24px;border-width:0;color:green;background-color:green">
 
 
 
+
+
+## 🇮🇹🫦 Italiano 🫦🇮🇹
+### For Anna
+
+<img src="/assets/images/notes26a/260207a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 
 Di solito non passo affatto da quel corridoio.
