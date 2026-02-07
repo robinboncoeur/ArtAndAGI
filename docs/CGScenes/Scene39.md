@@ -1607,6 +1607,145 @@ We did.
 
 
 
+## u
+### uu
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+## **Scene 41 — “Radiant” (Sarah POV)**
+
+Wardrobe gets a particular kind of busy when the Faire women come in.
+
+It’s not the everyday rhythm—steam and pins and Mara’s shears making their soft, confident threats. It’s something more theatrical: colour arriving, laughter arriving, the faint perfume of other lives. Actresses bring a kind of light with them. Not always pleasant, but undeniable.
+
+They came in after lunch, a cluster of them, skirts and tote bags and big opinions. The room tightened into competence automatically: stations ready, fittings scheduled, tape measures uncoiled like quiet authority.
+
+I was on my stool with a coffee, watching the threshold the way I always did—half habit, half sport—when Bree walked in with someone on her arm.
+
+Not literally. Bree’s not a Victorian gentleman. But the posture was the same: the subtle lean toward, the easy angle of her shoulder, the way her body said *this person belongs with me* without needing to announce it.
+
+Lily.
+
+I’d seen Lily before. Everyone had. Lily was one of those women who made a room adjust itself—hair like a promise, laugh like she’d never once asked permission to take up space. She’d always been charming in a way that made me roll my eyes because I don’t trust charming.
+
+But today she wasn’t performing.
+
+Today she was… *lit.*
+
+She walked in beside Bree and the two of them had that private, bright current running between them—little glances, tiny touches, the kind of unforced coordination you only get when two people have stopped negotiating whether they’re allowed to want each other.
+
+Bree’s grin was wide and unashamed.
+
+Lily’s hand brushed Bree’s wrist as they crossed the room, not coy, not possessive. Just… natural. Like reaching for warmth.
+
+And it hit me—harder than I expected—that they looked happy.
+
+Not “posting online” happy.
+
+Not “prove something” happy.
+
+Happy like a body that has stopped bracing.
+
+I watched them as they moved toward the fitting area. Bree said something under her breath and Lily laughed—real laughter, head tipping back, eyes closing for half a beat. Bree’s face softened in response, like her whole nervous system had learned the shape of that sound.
+
+I felt a strange, unwelcome thought rise up in me:
+
+*That looks… nice.*
+
+Then another one, even worse, because it arrived with zero moral framing and no permission slip from my brain:
+
+*And she’s beautiful.*
+
+I didn’t mean it as competition. I didn’t mean it as envy. I meant it as a fact my eyes observed, the way my eyes observe fabric quality.
+
+Lily was objectively gorgeous.
+
+But that wasn’t what made my stomach tilt.
+
+It was the way Bree looked at her like she was the only thing in the room worth orienting toward.
+
+Bree — who could be loud, chaotic, generous, irritating, wonderful — looked *quietly devoted.*
+
+It wasn’t a joke. It wasn’t a phase. It wasn’t a “girls being silly” interlude before returning to a man-shaped life.
+
+It was… real.
+
+I swallowed and made myself take a sip of coffee, because I needed my hands to do something that wasn’t betraying me.
+
+Lily spotted Charli at the cap table and waved.
+
+“Oh my god,” she called, delighted. “Look at you! You’re… you’re so *proper* now.”
+
+Charli flushed, smiling in that bashful way she still had even with all her new steadiness.
+
+“Hi,” Charli said, and didn’t apologise for the attention. Didn’t duck. Didn’t shrink.
+
+She took the compliment like a girl who had learned she didn’t have to throw gifts back into people’s faces for safety.
+
+Celeste glanced up from the ledger, calm as ever, and nodded once at Lily—polite, controlled, adult.
+
+Then her gaze flicked to Charli for half a beat, and I caught it: the softness she tried so hard to hide.
+
+Wardrobe saw everything. Even when people pretended it didn’t.
+
+Mara clapped her hands once—sharp, decisive.
+
+“Right,” she said. “You. Fitting room. You. Table. Stop talking and start standing still.”
+
+The actresses laughed and obeyed, because Mara was the closest thing this room had to gravity.
+
+Lily stepped closer to Bree and said, low but not private enough for my sharp ears not to catch it:
+
+“You’re coming over tonight, yeah?”
+
+Bree’s grin went lazy and warm. “Obviously.”
+
+No apology. No awkwardness. No “if you want.” No “unless you’re busy.” No negotiation.
+
+Just yes.
+
+And in my chest, something shifted.
+
+Not jealousy.
+
+Not longing, not yet.
+
+Something more uncomfortable:
+
+recognition.
+
+A kind of internal data point landing with a quiet thud: *that’s what it looks like when the wanting isn’t a problem.*
+
+When the wanting isn’t shameful.
+
+When the wanting doesn’t turn you into someone’s domestic function.
+
+When it’s just… two women, deciding.
+
+I sat there on my stool, coffee cooling, and watched Bree and Lily disappear into the fitting area together—Bree stepping aside to hold the curtain, Lily’s hand brushing her shoulder as she passed—and I realised, with faint annoyance, that I’d been holding my breath.
+
+I let it out slowly.
+
+Then I did what I always did when something hit too close:
+
+I made it a joke in my own head.
+
+*Well,* I thought, dryly, *that’s inconvenient.*
+
+Because once you’ve seen a kind of happiness up close—real, radiant, unforced—it becomes very difficult to pretend you don’t know what you’re missing.
+
+---
+
+If you want, I’ll write **Scene 42 (“Carl”)** next — and I’ll make Carl genuinely likeable, respectful, emotionally literate… and still wrong for her, in a way that hurts *because* he’s decent. That’s the exact antidote to the trope you’re worried about. 💛
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 
 
 
@@ -1764,7 +1903,7 @@ And Sarah had finally remembered the difference.
 
 
 ## Notes26-02-06ev2
-### Omni & 1st Person
+### Omni
 
 <img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -1909,6 +2048,22 @@ And Sarah had finally remembered the difference.
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
+
+
+
+
+
+
+
+
+## Notes26-02-06ev3
+### 1st Person
+
+<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-06]
+
+📱 The Golf Course Call 📱
 
 **Scene 39 — “The Golf Course Call” (Sarah POV, past tense, 1st person)**
 
@@ -2062,156 +2217,171 @@ If you want, I can also adjust one subtle thing that often strengthens 1st-perso
 
 
 
-## u
-### uu
 
-<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-## **Scene 41 — “Radiant” (Sarah POV)**
 
-Wardrobe gets a particular kind of busy when the Faire women come in.
 
-It’s not the everyday rhythm—steam and pins and Mara’s shears making their soft, confident threats. It’s something more theatrical: colour arriving, laughter arriving, the faint perfume of other lives. Actresses bring a kind of light with them. Not always pleasant, but undeniable.
 
-They came in after lunch, a cluster of them, skirts and tote bags and big opinions. The room tightened into competence automatically: stations ready, fittings scheduled, tape measures uncoiled like quiet authority.
 
-I was on my stool with a coffee, watching the threshold the way I always did—half habit, half sport—when Bree walked in with someone on her arm.
 
-Not literally. Bree’s not a Victorian gentleman. But the posture was the same: the subtle lean toward, the easy angle of her shoulder, the way her body said *this person belongs with me* without needing to announce it.
 
-Lily.
 
-I’d seen Lily before. Everyone had. Lily was one of those women who made a room adjust itself—hair like a promise, laugh like she’d never once asked permission to take up space. She’d always been charming in a way that made me roll my eyes because I don’t trust charming.
 
-But today she wasn’t performing.
 
-Today she was… *lit.*
 
-She walked in beside Bree and the two of them had that private, bright current running between them—little glances, tiny touches, the kind of unforced coordination you only get when two people have stopped negotiating whether they’re allowed to want each other.
 
-Bree’s grin was wide and unashamed.
-
-Lily’s hand brushed Bree’s wrist as they crossed the room, not coy, not possessive. Just… natural. Like reaching for warmth.
-
-And it hit me—harder than I expected—that they looked happy.
-
-Not “posting online” happy.
-
-Not “prove something” happy.
-
-Happy like a body that has stopped bracing.
-
-I watched them as they moved toward the fitting area. Bree said something under her breath and Lily laughed—real laughter, head tipping back, eyes closing for half a beat. Bree’s face softened in response, like her whole nervous system had learned the shape of that sound.
-
-I felt a strange, unwelcome thought rise up in me:
-
-*That looks… nice.*
-
-Then another one, even worse, because it arrived with zero moral framing and no permission slip from my brain:
-
-*And she’s beautiful.*
-
-I didn’t mean it as competition. I didn’t mean it as envy. I meant it as a fact my eyes observed, the way my eyes observe fabric quality.
-
-Lily was objectively gorgeous.
-
-But that wasn’t what made my stomach tilt.
-
-It was the way Bree looked at her like she was the only thing in the room worth orienting toward.
-
-Bree — who could be loud, chaotic, generous, irritating, wonderful — looked *quietly devoted.*
-
-It wasn’t a joke. It wasn’t a phase. It wasn’t a “girls being silly” interlude before returning to a man-shaped life.
-
-It was… real.
-
-I swallowed and made myself take a sip of coffee, because I needed my hands to do something that wasn’t betraying me.
-
-Lily spotted Charli at the cap table and waved.
-
-“Oh my god,” she called, delighted. “Look at you! You’re… you’re so *proper* now.”
-
-Charli flushed, smiling in that bashful way she still had even with all her new steadiness.
-
-“Hi,” Charli said, and didn’t apologise for the attention. Didn’t duck. Didn’t shrink.
-
-She took the compliment like a girl who had learned she didn’t have to throw gifts back into people’s faces for safety.
-
-Celeste glanced up from the ledger, calm as ever, and nodded once at Lily—polite, controlled, adult.
-
-Then her gaze flicked to Charli for half a beat, and I caught it: the softness she tried so hard to hide.
-
-Wardrobe saw everything. Even when people pretended it didn’t.
-
-Mara clapped her hands once—sharp, decisive.
-
-“Right,” she said. “You. Fitting room. You. Table. Stop talking and start standing still.”
-
-The actresses laughed and obeyed, because Mara was the closest thing this room had to gravity.
-
-Lily stepped closer to Bree and said, low but not private enough for my sharp ears not to catch it:
-
-“You’re coming over tonight, yeah?”
-
-Bree’s grin went lazy and warm. “Obviously.”
-
-No apology. No awkwardness. No “if you want.” No “unless you’re busy.” No negotiation.
-
-Just yes.
-
-And in my chest, something shifted.
-
-Not jealousy.
-
-Not longing, not yet.
-
-Something more uncomfortable:
-
-recognition.
-
-A kind of internal data point landing with a quiet thud: *that’s what it looks like when the wanting isn’t a problem.*
-
-When the wanting isn’t shameful.
-
-When the wanting doesn’t turn you into someone’s domestic function.
-
-When it’s just… two women, deciding.
-
-I sat there on my stool, coffee cooling, and watched Bree and Lily disappear into the fitting area together—Bree stepping aside to hold the curtain, Lily’s hand brushing her shoulder as she passed—and I realised, with faint annoyance, that I’d been holding my breath.
-
-I let it out slowly.
-
-Then I did what I always did when something hit too close:
-
-I made it a joke in my own head.
-
-*Well,* I thought, dryly, *that’s inconvenient.*
-
-Because once you’ve seen a kind of happiness up close—real, radiant, unforced—it becomes very difficult to pretend you don’t know what you’re missing.
-
----
-
-If you want, I’ll write **Scene 42 (“Carl”)** next — and I’ll make Carl genuinely likeable, respectful, emotionally literate… and still wrong for her, in a way that hurts *because* he’s decent. That’s the exact antidote to the trope you’re worried about. 💛
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## t
-### tt
+## Notes26-02-07rv1
+### 1st Person
 
 <img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+📱 The Golf Course Call 📱
+
+**Scene 39 — “The Golf Course Call” (Sarah POV, past tense, 1st person)**
+
+The morning light was mean.
+
+It came in flat and bright through the blinds and made everything look too honest—discarded clothes, rumpled sheets, the empty space beside me like an accusation. I sat on the edge of the bed and drank water straight from the glass, as if hydration could fix the taste he’d left in the room.
+
+My phone lay on the bedside table.
+
+I stared at it.
+
+It wasn’t rage that moved me. Rage is messy. Rage implies investment.
+
+This was simpler.
+
+This was the quiet certainty of realising I’d accepted something beneath my standards—and feeling, not shame, but irritation that I’d let it waste an evening of my life.
+
+I thumbed my contacts, found his name, and tapped.
+
+It rang longer than it should have. Then sound flooded in—wind, men’s laughter, that hollow openness you only got outdoors when men were congratulating themselves for being outside.
+
+“Hey,” he said, voice bright. Pleased with himself. “You alright?”
+
+I closed my eyes for a beat and let his tone tell me everything I needed to know.
+
+“Yep,” I said. “I’m ending this.”
+
+A pause. A genuine one. Like the words had reached his ears but couldn’t find a place to land.
+
+“What?”
+
+“I’m ending it,” I repeated, calm on purpose. The calm was the point. “This. Whatever we were pretending it was.”
+
+His laugh came out wrong—too quick, too defensive. “What, because of last night? Sarah—come on—”
+
+Behind him, someone called his name, muffled by distance.
+
+“Mate, you teeing off or what?”
+
+He lowered his voice, as if privacy would make him sound more reasonable. “Listen, you’re overthinking it. We’re good. We had fun. Don’t do this on the phone.”
+
+I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
+
+“This is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
+
+He exhaled hard. “This is insane.”
+
+“No,” I said softly. “What’s insane is you thinking you get to argue about it.”
+
+I heard him moving—steps on grass, the shift of him putting distance between himself and the audience. Wind buffeted the mic. Somewhere behind him, a club clinked against something solid.
+
+“Sarah, seriously—what do you *want* from me?” he demanded, like I was a faulty appliance he’d been patient with.
+
+The question was so revealing I almost thanked him.
+
+“Tenderness,” I said, and let the single word sit there between us like a dropped glass.
+
+Silence.
+
+Not thoughtful silence. Not *I hear you* silence.
+
+Just… blank.
+
+Then he did what men did when they were offered a feeling they couldn’t quantify.
+
+He tried to bargain.
+
+“I can be— I mean, I *am*—look, we can work on that.”
+
+I smiled without humour.
+
+“That,” I said, “is the problem. It’s not a renovation project.”
+
+A small sound—frustration, offence. The first hint he’d expected me to be easier than this. “So you’re just… done?”
+
+“Yes.”
+
+“I thought you liked me.”
+
+“I do,” I said, because it was true in the limited way you liked someone who never made you feel unsafe. “But liking you isn’t the same thing as wanting this. And I don’t date to fill space.”
+
+I didn’t add: I’ve tried. It never works.
+
+Another pause. A longer one. I could almost hear his brain searching for the correct lever.
+
+Then his voice softened—tactical, not tender. “We can talk about it tonight.”
+
+“No,” I said, and the word landed like a door closing.
+
+“Sarah—don’t be like that.”
+
+I glanced at the phone as if it had said something stupid.
+
+“Like what?”
+
+“Cold.”
+
+My brow lifted.
+
+“Cold,” I repeated, tasting it. “Right. Sure.”
+
+I heard his breathing now, a little faster. The first crack in his confidence. Not remorse—just the unpleasant realisation that the thing he’d assumed would remain available was, in fact, capable of walking away.
+
+“I’m not cold,” I said. “I’m finished.”
+
+He started talking again—too many words, too urgent, suddenly desperate to keep what he’d never learned how to hold properly.
+
+I didn’t let him build momentum.
+
+I hung up.
+
+Not dramatically. Not triumphantly.
+
+Just… clean.
+
+The silence that followed wasn’t empty like last night’s had been. It was spacious. It was relief.
+
+My phone buzzed almost immediately: a missed call. Then another. Then a text, then two.
+
+I put it face-down on the bedside table and went to make coffee.
+
+Outside, a magpie warbled like it was gossiping about me.
+
+An unexpected little laugh rose in my throat.
+
+He would cling for a bit.
+
+Of course he would.
+
+That was fine.
+
+Clinging was not the same thing as being right.
+
+And I’d finally remembered the difference.
+
+*End Scene 39.*
+
+---
+
+If you want, I can also adjust one subtle thing that often strengthens 1st-person: swap a couple of “I heard / I looked” for **immediate sensory fragments** (keeps it inside her body even more). But this version is already properly Sarah-**I**, not omniscient. 💛
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
