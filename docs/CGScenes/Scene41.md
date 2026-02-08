@@ -832,7 +832,7 @@ I lifted my hand.
 
 “Don’t,” I said again, and the second time it wasn’t borrowed strength. It was mine. Roger stood so suddenly his chair scraped the floor.
 
-“You think you’re better than me now?” he snapped. “Because you’ve got some little women’s club and a job playing dress-ups?”
+“You think you’re better than me now?” he snapped. “Just because you’ve in some little women’s club and a job playing dress-ups?”
 
 My throat tightened, because they were so revealing. I saw Wardrobe in my mind as clearly as if I were still there: the racks, the pattern paper, the girls’ hands moving with skill. Celeste’s quiet authority. Sarah’s sharp honesty. The way Charli had begun, slowly, to exist without flinching.
 
@@ -866,7 +866,7 @@ A message from Sarah.
 
 My eyes stung.
 
-I hadn’t told Sarah anything specific. But she’d noticed me all day: noticed the way my smile had been too careful, the way I kept swallowing the same thought.
+I hadn’t told Sarah anything specific. But she’d been noticing me all day: noticing the way my smile had been too careful, the way I kept swallowing the same thought.
 
 My fingers hovered over the keyboard. I tried to type *I’m fine* and couldn’t. Instead I wrote:
 
@@ -916,7 +916,7 @@ Then it arrived.
 
 I swallowed.
 
-From the family room came the sound of Roger moving—cupboards opening, something thrown, the heavy-footed performance of a man making sure I heard his anger. My body flinched before my mind could stop it.
+From the family room came the sound of Roger moving—cupboards being slammed, something thrown, the heavy-footed performance of a man making sure I heard his anger. My body flinched before my mind could stop it.
 
 And that, more than anything, decided it.
 
