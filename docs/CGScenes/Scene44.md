@@ -2471,25 +2471,15 @@ Deliberately.
 
 
 
-## v
-### vv
+## Notes26-02-08ev2
 
 <img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-Blithely is *exactly* the right word for it 😄🧵💛 And yes—Scene 44 is already doing a lot of heavy lifting with a light hand: Sarah’s competence, Lauren’s growing agency, and that key at the end as a *material symbol* of belonging. Gorgeous.
+😄🧵💛
 
-I’ve done a **full typo + punctuation + micro-flow** pass, keeping your voice and structure intact. I’ve only changed things that were:
+[26-02-08]
 
-* spelling/grammar errors
-* punctuation that snagged when spoken aloud
-* a few phrases that were slightly unidiomatic or unclear
-* a handful of repeat-beats that could be tightened **without changing meaning**
-
-Below is a **cleaned, paste-ready Scene 44**.
-
----
-
-## **Scene 44 — “Keys” (Lauren POV, 1st person, past tense)**
+**Scene 44 — “Keys” (Lauren POV, 1st person, past tense)**
 
 The next morning, Sarah didn’t ask how I’d slept.
 
@@ -2569,7 +2559,7 @@ I felt my breath force its way out: a sharp puff. Her voice lowered.
 
 Sarah had her finger on the pulse. Humiliation rose automatically, eager to do its job. She saw it and cut it off before it could speak.
 
-“You’re not stupid,” she said. “You were outmanoeuvred. Women have to do things to survive in this world.”
+“You’re not stupid,” she said. “You were outmanoeuvred. Women sometimes have to do things against their better judgement to survive in this world.”
 
 My eyes stung. Sarah kept going, calm and ruthless in her practicality.
 
@@ -2577,9 +2567,9 @@ My eyes stung. Sarah kept going, calm and ruthless in her practicality.
 
 I shook my head firmly. I needed to do this alone.
 
-“Fine. So do it now. Forget Wardrobe today: you have bigger fish to fry. I’ll update Celeste and Mara. You just focus on getting your essentials out. And hand in your keys on your way out, so it’s final.” Her eyes sharpened. “Keep your phone on you. Is it charged?”
+“Fine. Then do it now. Forget Wardrobe today: you have bigger fish to fry. I’ll update Celeste and Mara. You just focus on getting your essentials out. And hand in your keys on your way out, so it’s final.” Her eyes sharpened. “Keep your phone on you. Is it charged?”
 
-There was no softness in Sarah’s voice, just a cold, hard, ruthless plan of action, with built-in escape routes. It steadied me. I heard my own voice come out clearer than I expected.
+There was gentleness in Sarah’s voice, but it had a honed edge: a cold, hard plan of action, with escape routes already built in. It steadied me. I heard my own voice come out clearer than I expected.
 
 “Yes. And I won’t hesitate to call triple zero if I have to.”
 
@@ -2605,23 +2595,21 @@ My throat locked so hard I couldn’t answer properly. I dipped my head and look
 
 By late morning, my little Hyundai i20 was topped up. The balmy morning air made the smell of old fabric and the vanilla air freshener I’d hung years ago all the more welcome. The steering wheel was warm under my hands.
 
-I drove to the house like I was driving to a place I used to live, not a place I belonged.
+I drove thoughtfully to the house. I was driving to a space I used to live in, not a place where I belonged.
 
-The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzed somewhere distant, like a reminder that other people’s lives were still happening. I parked, sat for a moment, and listened to my own breathing.
+The street was quiet. Neighbours’ curtains were drawn. A lawnmower droned somewhere. I parked and sat for a moment, listening to my own breathing.
 
 My hands were steady. That surprised me most.
 
-Happily, nobody was home. Inside, the house felt exactly the way it always had: too neat in places, sadly neglected in others, the subtle imbalance of a home built around one person’s comfort.
+Happily, nobody was home. Inside, the house felt exactly the way it always had: meticulous in places, sadly neglected in others, the subtle imbalance of a home built around one person’s comfort.
 
 I moved quickly—not frantic, just efficient. Bedroom: clothes into a bag. Toiletries. My shampoo, my face cream, the small items I’d once treated as “extras” because I was always saving money just in case. In the study I took papers I could find—anything with my name on it, anything that looked important, anything I might need later to prove I’d existed in this marriage as more than a shadow.
 
 My hands didn’t linger on the furniture. The television. The framed photos. They were objects that had been allowed to pretend they were stability. Now, they looked like props.
 
-And in the middle of the stripping-down, a quiet understanding settled in me:
+Somewhere in the stripping-down, a quiet understanding settled in me: this was freedom. A woman moving efficiently through a world that had taught me to make myself small—a lesson I’d never meant to pass on. Take what mattered. Keep moving.
 
-Freedom looked like a woman moving efficiently through a dwelling that had trained her to be small. She was taking only what mattered, and refusing to apologise for it.
-
-My most expensive assets were my little Hyundai as well as a few dresses and shoes I’d bought over the years when I’d been trying to remember I was allowed to look nice. That and my body, my mind, my ability to earn.
+My most expensive assets were my little Hyundai, and a few dresses and shoes I’d bought over the years—back when I’d been trying to remember I was allowed to look nice. And beyond that: my body, my mind, my ability to earn.
 
 That was enough.
 

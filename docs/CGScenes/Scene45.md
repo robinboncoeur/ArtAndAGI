@@ -426,13 +426,13 @@ And that—Lauren thought, as her pen moved across the page again—was the firs
 
 
 
-## y
+## Notes26-02-06ev1
 ### yy
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[26-02-06
-]
+[26-02-06]
+
 **Scene 45 — “A House Can Burn, A Woman Doesn’t” (Lauren POV, 1st person, past tense)**
 
 The workroom was already hot by eight-thirty.
@@ -721,12 +721,207 @@ Whenever you’re ready, tell me what Scene 46 is meant to *do* (plot beat + emo
 
 
 
-## x
-### xx
+
+## Notes26-02-09rv1
+### 1st Revision
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-06]
+
+**Scene 45 — “Do Not Follow Her” (Lauren POV, 1st person, past tense)**
+
+The workroom was already hot by eight-thirtyhot by eight-thirty, and not just here in Victoria. The new Queensland Faire had dropped the order like a dare.
+
+*Les Misérables.*
+
+It sat on the central table in printouts and reference images and rough sketches that multiplied like rabbits: nineteenth-century silhouettes, worn hems, patched elbows, bodices that had to look lived-in without looking sloppy. Fabrics chosen not just for accuracy but for survival—breathable, light, forgiving under stage heat.
+
+And the numbers.
+
+The numbers were the part that made you swallow. Mara had taken one look at the quantity list and said, “Right,” in that calm voice she used when she was about to do something difficult without drama.
+
+Celeste had gone still for half a second—then leaned forward, eyes bright, like the sheer scale had flicked a switch in her. The switch that turned stress into focus.
+
+“This is doable,” she’d said, and it hadn’t been optimism. It had been a decision. “We just don’t do it the way we’ve always done it.”
+
+Sarah arrived with her hair pinned up and a coffee that looked lethal. She glanced at the fabric swatches and said, “Right then. I’m sick of the pretence that everyone in the nineteenth century was comfortable.”
+
+And Charli—Charli was at the cutting table with pattern paper spread out like a map, pencil in hand, brow furrowed in concentration. I watched her for a moment longer than I meant to. My brain kept doing that quiet recalibration it had been doing for months now. A daughter. My daughter.
+
+Charli moved differently these days. There was nothing flamboyant about her, nothing you could point at. She was just… softer at the edges, less braced. More present. Her hands were always steady now, and when Celeste leaned in to murmur something—an adjustment, a suggestion—Charli’s shoulders no longer jumped. She didn’t shy away from attention, but absorbed it like sunlight.
+
+It still startled me sometimes, how much safety can change a person.
+
+And, how quickly.
+
+“How many Fantines?” Bree called from the other side of the room, voice bright with mischief.
+
+“Not enough,” Sarah called back. “We’ll do a whole chorus of suffering. They’re up in Queensland, where everyone’s already sweating.”
+
+Bree laughed. Lily’s laugh followed—lower, softer—like the two of them shared a private frequency.
+
+I took a breath and moved into the rhythm of the workroom, clipboard in hand, brain shifting into logistics. Measurements. Material. Labour hours. Triage. Who could do what fastest without sacrificing quality.
+
+I was halfway through writing *linen blend, breathable, midweight* when Celeste looked up.
+
+“Lauren.” Her voice always sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I need options by lunch.”
+
+“On it.”
+
+I turned toward the desk, already reaching for my phone, when the front bell chimed. It was a bright little sound, usually cheerful. Today it landed like a warning.
+
+I looked up and saw Roger in the doorway.
+
+For a moment my mind refused to process it. The sight of him felt wrong in this space, like mud on clean fabric. He stood just inside, scanning the room with that same proprietary look he used in our house, as if the world was made of things he could walk into and claim.
+
+He had remembered to put on the polite face. That was what made my stomach tighten. Polite faces meant performance.
+
+Sarah saw him too. 
+
+Her whole posture changed—shoulders squared, chin slightly lifted, eyes sharpening to a point.
+
+Mara didn’t look flustered. She simply set her scissors down and stood, very still, very solid.
+
+Celeste’s gaze flicked to me, not seeking direction but checking: 
+
+*Are you safe? What do you want?*
+
+My heart hammered.
+
+But I was not alone: that was the difference. Roger took a step forward. 
+
+“Lauren.”
+
+Hearing my name in his voice, in *this* room, made something in me recoil. I felt the old reflex—smooth it over, contain it, manage the optics—rise like a ghost.
+
+Sarah moved first.
+
+“Hi,” she said, tone flat, unfriendly in the most civil way. “No.”
+
+Roger’s eyes snapped to her. He tried to smile. It didn’t reach his eyes.
+
+“This is between me and my wife.”
+
+Sarah’s mouth twitched. “Everything men do is apparently between them and their wives.”
+
+Roger’s jaw tightened. He turned back to me as if Sarah wasn’t worth engaging. That dismissiveness—so automatic, so entitled—made my hands curl around the clipboard.
+
+“Lauren,” he said, voice dropping into that intimate threat that had worked for years. “We need to talk.”
+
+My mouth went dry.
+
+Mara stepped forward—not aggressively, just occupying space like a fact.
+
+“This is a workplace,” she said. “You can state your business or you can leave.”
+
+Roger looked at Mara like he was surprised she existed. Something in my chest cooled into clarity. I was in Wardrobe. He could not trap me here.
+
+I took one step forward—just enough to be seen as the one speaking. I didn’t go too close. I didn’t offer him proximity.
+
+“What do you want, Roger?”
+
+His eyes narrowed. He’d expected fluster. Tears. Pleading. He didn’t get it, so he leaned into anger instead.
+
+“I want you to understand what you’ve done,” he said with ill-concealed fury. “You’ve embarrassed me. You’ve made me look like—”
+
+I raised a hand, calm.
+
+“I’m not interested in your feelings,” I said. “Come to the point.”
+
+His nostrils flared. He swallowed, then delivered the weapon he thought would work every time.
+
+“Fine,” he snapped. “I’m just warning you: selling the house. You’ll get nothing. And you can’t do anything about it.”
+
+His face shone with triumph—financial ruin as punishment. Still in control, with a vengeance. A small laugh threatened at the back of my throat. He it was *so* predictable, like a four-year old brandishing a stick and insisting it was a sword. I looked at him steadily.
+
+“I suppose you think that’s a win?”
+
+His triumphant look clouded over. “Sorry, what?”
+
+I could feel the closeness of women behind me—strong, silent, fiercely *present*. The workroom’s air was warm and busy and full of competence. Fabric lay in orderly stacks. Pattern paper waited like a plan.
+
+The house, the past, his dominance—all of it suddenly, felt very far away.
+
+“You think selling the house hurts me more than what you’ve already done?” I said. I kept my tone calm on purpose. “Roger, that’s property. It’s… bricks and grass.”
+
+His face reddened. “It’s everything we have.”
+
+My eyes didn’t flicker.
+
+“It’s everything *you* have,” I corrected. “You made sure of that. And now, it’s *all* you have.”
+
+His mouth opened, and I saw the moment he realised his strategy—the one that had always worked—of holding goods as security over my head was failing. Epically. In front of witnesses.
+
+His anger sharpened.
+
+“I’ll make sure you regret this!”
+
+My heart thudded once—then settled, as if some part of me recognised a flawed pattern and stopped recoiling. I spoke slowly, choosing each word for maximum accuracy.
+
+“You know what you’ve really lost?” I said, still calm. “Your relationship with your child.”
+
+He scoffed immediately—dismissive, reflexive. 
+
+“Don’t be dramatic.”
+
+I didn’t rise to it. I didn’t explain. I didn’t offer detail. He didn’t deserve it.
+
+I continued, colder now—not cruel, just finished.
+
+“And you lost me,” I said. “Ages ago.”
+
+For a fraction of a second he looked genuinely wrong-footed—as if he’d expected me to fight, to bargain, to claw for his approval the way I used to.
+
+Then his face changed.
+
+A flash of something ugly crossed it—a blend of rage, humiliation, the visceral shock of being unmasked in public. He went very still in the way angry men do when they’re deciding what they can get away with.
+
+The women behind me didn’t speak, but the room rearranged itself—Mara’s shoulder, Sarah’s step, Celeste’s voice finding my name.
+
+“Lauren.” It wasn’t a question. It was a directive. “Inside.”
+
+I didn’t hesitate. I stepped backward—one step, then another—retreating into the workroom’s bright safety, into the circle of women who did not negotiate with men who tried to explode.
+
+Roger took a step after me.
+
+Sarah’s voice cut like a blade.
+
+“Do not follow her.”
+
+“You can’t stop me—”
+
+“Yes,” Mara said. “We can. And we will.”
+
+Roger’s breathing was harsh. His hands flexed. Then—because even men like him remember consequences when women aren’t alone—he spat a final line. Something about lawyers. Something about regret. Something about being ungrateful.
+
+The bell chimed again—bright, cheerful.
+
+Roger’s car door slammed. The engine started, then faded. 
+
+Gone.
+
+Inside Wardrobe, the tension unhooked. Celeste turned to the table and tapped the pattern paper, crisp. 
+
+“Right,” she said. “Back to work.”
+
+I walked back to the central table where the *Les Mis* patterns were spread and looked down at the sketches again. Nineteenth-century seams. Hardship made costume. A company of women among the Faire-goers, wearing what we’d cut and stitched here. 
+
+Charli stood with pencil poised mid-line. Her eyes were wide, but steady. She looked at me—question in her face, compassion held back so it wouldn’t overwhelm. 
+
+I realised, unexpectedly, that I was not shaking. My hands were steady on the clipboard. The confrontation hadn’t stolen my competence.
+
+Sarah lifted her coffee and took a calm sip.
+
+“Let him sell his precious house,” she said, “or not. He’ll need somewhere to keep pretending objects are love.”
+
+A small laugh went around the room. Relief, and a reset. And I felt fulfillment: the assurance of woman-fashioned solidarity.
+
+Roger could sell the house and pocket the proceeds. He could keep every possession he had ever collected as proof of power.
+
+But he no longer possessed me.
+
+*End Scene 45.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">

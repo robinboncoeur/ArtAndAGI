@@ -657,8 +657,7 @@ Then she followed Sarah into the kitchen, heart quiet for the first time all day
 
 
 
-## y
-### yy
+## Notes26-02-06ev1
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -871,12 +870,148 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 
 
-## x
-### xx
+
+## Notes26-02-09rv1
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-02-09]
+
+**Scene 47 — “A Bowl for Keys” (Lauren POV, 1st person, past tense)**
+
+---
+
+Sarah’s front door stuck slightly on humid nights.
+
+Not much—just enough that you had to lift the handle a fraction and give it a firm push, like the house required you to arrive with resolve. I followed her in, carrying two takeaway cups because Sarah had insisted on stopping for coffee on the way home, even though she had also insisted she didn’t *need* coffee to function.
+
+She kicked her sandals off near the mat—neat, but not precious about it—then reached into her pocket and pulled out her keys. She dropped them into a shallow ceramic bowl on the hall console. The sound was small.
+
+A brief clink.
+
+But it hit me with unexpected force.
+
+Keys had become a language lately, a vocabulary of who had access. Who had permission. Who was safe. Sarah’s keys sat there in the bowl like a quiet fact: this place had a system, and Sarah had built it on purpose.
+
+Sarah turned, took the coffee from my hand, and gave me a quick, approving look.
+
+“Good,” she said. “You didn’t spill.”
+
+I huffed a laugh. “I’m not a child.”
+
+Her mouth twitched. “You’d be amazed how many adults fail at cups.”
+
+She walked toward the kitchen, coffee in one hand, the other pushing her hair back from her face in a tired gesture I’d started to notice too often—because noticing Sarah had become my little fixation. I stood in the hallway for a moment, holding my own cup, watching her move away.
+
+The house was quiet. Not a silence of vacancy, but the quiet of a well-run space: orderly, contained, not waiting for a man to fill it with noise.
+
+I felt something fill me—something so long absent I’d thought it had disappeared.
+
+Longing.
+
+Not lust, not exactly. Just a simple craving to be touched—gently, warmly. A hunger that lived in my shoulders, in the back of my neck, in the place between my ribs where I’d been holding my breath for years.
+
+I tried to swallow it down. I could do that. I’d had years of practice.
+
+But now, my body didn’t cooperate. My eyes stung suddenly, stupidly. The coffee cup warmed my fingers and made me feel very, very human. Sarah paused at the kitchen doorway, as if she’d felt a change in the air, then turned and looked at me properly.
+
+“Lauren?”
+
+I gulped. “It’s okay. It’s nothing.”
+
+Her face remained steady. “Nothing.”
+
+I hated how easy it was to be found out around her.
+
+“I’m fine,” I tried again.
+
+Sarah tilted her head slightly. The gesture was precise—an appraisal. Then she walked back into the hallway, crossing over to me with an enigmatic soft smile. I held very still, terrified of doing the wrong thing.
+
+She stopped a step away and looked at my hands.
+
+“Why don’t you put the coffee down,” she said carefully.
+
+I stared at her. “Why?”
+
+“Because you’re white-knuckling a paper cup like it’s going to run off with your coffee,” she replied.
+
+My throat tightened. I set the cup down carefully on the console beside the key bowl, hands moving with exaggerated calm. Sarah watched me do it, then moved closer—closing the space enough that I could feel her warmth.
+
+My heart thudded.
+
+Her voice lowered slightly.
+
+“Lauren,” she said, “you’re allowed to feel whatever you feel.”
+
+I swallowed. “I don’t want to be—”
+
+“Don’t,” she cut in, gentle but firm. “Those days are behind you. No more making yourself small. Have your feelings.”
+
+My eyes flashed up, startled.
+
+“My… feelings?” I repeated, almost offended by the accuracy.
+
+Sarah’s mouth curved once. Not mocking. Almost… pleased.
+
+“Yes,” she said. “Those.”
+
+My face warmed. “I wasn’t— I didn’t—”
+
+She stepped even closer, so close that her breath reached me in an unexpected place. But she paused, as if at a door she would not enter without an invitation.
+
+“I’m going to offer you something,” she said. “And you can say no.”
+
+I could scarcely breathe. “Okay,” I managed.
+
+She held my gaze.
+
+“Come.”
+
+One simple word.
+
+A quiet assumption that I deserved contact. My eyes filled instantly. I tucked my chin down, helplessly, and let myself melt against her. Sarah pulled me into her warmth—more encompassing than last night’s, less urgent, like a shelter made of her. My forehead pressed against her shoulder. She smelled like soap and warm air and coffee.
+
+I was afraid to exhale, fearing it would all vanish. But I finally did… and she was still there. I let myself be held.
+
+I felt her hand on the back of my head—fingers spreading through my hair like a promise. I leaned my head into her fingers, long-lost feelings taking nourishment from her tenderness.
+
+“You’re good, Lauren,” she said, voice as soft as down. “I’ve got you.”
+
+The words were so simple, so unadorned, yet I felt them flow through me as if they’d gone straight past my head and into my bones. I clung to her—lightly, carefully—fingers curling into the fabric of her t-shirt, as if I still couldn’t quite believe I was allowed. Sarah tightened her arms in response. My heart slowed in my chest.
+
+The house stayed quiet around us. Quiet with no edge to it.
+
+After a long moment she loosened her hold, but she didn’t let go completely, drawing back just enough to look at my face. I couldn’t quite meet her eyes. Her thumb brushed once along my forearm, the smallest touch, and my skin prickled with it. Sarah’s gaze was steady, thoughtful; her smile, mysterious.
+
+“Better?”
+
+I didn’t recognise my voice. “Yes.”
+
+She nodded, satisfied, and—because she could never leave tenderness unbalanced—added, dryly, “Good. Because I’m starving and I refuse to be emotionally profound on an empty stomach.”
+
+My laugh broke out, surprised and real.
+
+Sarah’s mouth curved into a grin.
+
+“There she is.”
+
+I blinked at the phrase. 
+
+*There she is.* 
+
+As if I’d been lost somewhere inside my own restraint and Sarah had simply… found me. She stepped away and picked up her coffee again, then nodded toward the kitchen.
+
+“Come on,” she said. “Let’s eat. You can tell me what you’re thinking, if you want. But right now, you need food.”
+
+I glanced at the key bowl as I followed her down the hall. Sarah’s keys sat there, ordinary, heavy. And beside them, my spare key—Sarah’s gift—rested on its ring like a small, undeniable truth.
+
+I reached out, almost without thinking, and touched it lightly with my fingertip.
+
+Just to feel it.
+
+Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
+
+*End Scene 47.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
