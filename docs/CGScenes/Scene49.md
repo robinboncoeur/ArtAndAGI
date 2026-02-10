@@ -1877,8 +1877,8 @@ Not the dramatic moments—the door locks, the blocked numbers, the way you lear
 
 No. It was smaller than that.
 
-It was how Lauren hovered half a second longer when I passed her in the hallway.
-How her eyes tracked my hands when I put a mug down.
+It was how Lauren hovered half a second longer when I passed her in the hallway.  
+How her eyes tracked my hands when I put a mug down.  
 How she recalibrated her distance—one step closer, then one step back—as if she was testing an invisible fence with the tip of her toe.
 
 I’d seen hunger before. Men carried it like a claim. Like they were owed.
@@ -1893,161 +1893,129 @@ It would’ve been easy to call it a rebound and wash my hands of it. Neat label
 
 The only thing that had happened recently was that she’d finally stepped out of the freezer.
 
-I could handle the practical parts. Safety plans. Logistics. Buddy systems. Door locks turned twice.
+I could handle the practical parts. Safety plans. Logistics. Buddy systems. Door locks turned twice. What I wasn’t used to was this: warmth that wanted to become… something else.
 
-What I wasn’t used to was this: warmth that wanted to become… something else.
+And the fact that I wanted it too. That was the part I hadn’t planned for.
 
-And the fact that I wanted it too.
-
-That was the part I hadn’t planned for.
-
-That was the part that made me feel—ridiculously—like a teenager.
-
-I’d always been on the receiving end of initiation. Men decided. Men pressed. Men assumed. Even the decent ones still arrived with a kind of forward momentum, like intimacy was a track they expected you to step onto.
+That was the part that made me feel—ridiculously—like a teenager. I’d always been on the receiving end of initiation. Men decided. Men pressed. Men assumed. Even the decent ones still arrived with a kind of forward momentum, like intimacy was a track they expected you to step onto.
 
 Women didn’t do that to me. Not in my life.
 
 And now, if I wanted this to be woman-shaped, it meant I had to do something I’d never done before:
 
-I had to lead without pushing.
-I had to offer without taking.
-I had to be brave, but not loud about it.
+I had to lead without pushing.  
+I had to offer without taking.  
+I had to be brave, but not loud about it.  
 
-That night, after dinner, the house settled into its quiet. Lauren had showered and come out in one of my old t-shirts—soft, oversized, sleeves too long. Her hair was still slightly damp at the ends. She looked younger like that, not in age, but in vulnerability—like someone who hadn’t yet learned that comfort was allowed.
+That night, after dinner, the house settled into its quiet. Lauren had showered and come out in one of my old t-shirts—soft, oversized, sleeves too long. Her hair was still slightly damp at the ends. She looked younger like that, not in age, but in vulnerability, like someone who hadn’t yet learned that comfort wasn't only permitted but encouraged.
 
-I watched her cross the lounge room and sit at the far end of the couch.
+I watched her cross the lounge room and sit at the far end of the couch. Far enough to be polite. I sat down too, close enough to feel her heat, and still didn’t move. The television murmured some forgettable show. Neither of us watched it.
 
-Far enough to be polite.
+Lauren’s hands were folded in her lap like she was waiting for instructions. 
 
-Not far enough to be true.
+I felt something hot rise in my chest and I didn’t like what it wanted.
 
-I sat down too, leaving space between us, because I wasn’t a monster and I wasn’t an idiot. The television murmured some forgettable show. Neither of us watched it.
+Protective, I told myself.
 
-Lauren’s hands were folded in her lap like she was waiting for instructions.
+No.
 
-I felt something hot and protective in my chest.
-
-No. Not protective.
+That wasn’t it.
 
 Possessive.
 
-That word startled me, so I corrected it immediately—because I didn’t do that. I didn’t own people. I didn’t keep them. I didn’t make love into a transaction.
+The word startled me. I pushed back against it immediately—hard.
 
-But I could want her.
+Not my style. Not my rules.
 
-I could want her and still do this properly.
+And yet I wanted her so badly it made my thoughts snag. Could I want her and still be good?
 
-I turned my head and looked at her.
+I turned my head to look at her.
 
-She was staring at the screen without seeing it, breathing shallow, shoulders held too high. Even safe, her body was still practising danger.
+She was staring at the screen without seeing it, breathing shallow, shoulders as if on a hangar. Even safe, her body was still practising danger strategies.
 
-“Lauren,” I said.
+“Lauren.”
 
-She jumped a little, then forced a smile like she was about to apologise for existing.
+She jumped a little, then forced a smile, almost guiltily, like she was about to apologise for... something.
 
-“What?” she asked.
+“What?” she asked, a bit quickly, I thought.
 
 I kept my voice calm.
 
-“Come here.”
+“Please come here.”
 
 Her eyes flicked to mine, startled by the certainty.
 
-“I—” she began, then stopped. Her throat moved as she swallowed. “I don’t want to… impose.”
+“Are—” she began, then stopped. Her throat moved as she swallowed. “Are you… sure?”
 
-I felt my jaw tighten.
+That heat was becoming troublesome.
 
-“I am not offering you a couch treaty,” I said. “I’m telling you to come here.”
+“It’s not a couch treaty,” I said. “I’m just asking you to come here.”
 
-The corner of her mouth twitched, half laughter, half nerves. She didn’t move.
+The corner of her mouth twitched, half laughter, half nerves. She didn’t move. I softened it—just a fraction.
 
-I softened it—just a fraction.
-
-“You can say no,” I added. “But I’m not going to pretend I don’t want you closer.”
+“You can say no,” I added. “But I’m not going to pretend I don’t want you closer.” A beat. “Please?” 
 
 That did it.
 
-Not the command. Not the permission.
+Lauren finally saw my door. Unlocked, open. Her breath caught. 
 
-The truth.
-
-Lauren’s breath hitched. She looked down at her hands, then back up at me like she was bracing for consequences.
-
-Then she shifted, slowly, moving along the couch until she was beside me.
-
-Close enough that our shoulders almost touched.
+She looked down at her hands, then back up at me like she was bracing for consequences. Then she rose, slowly, and moved along the couch until she was sitting beside me. Close enough that our shoulders almost touched.
 
 Almost.
 
-She stopped there, perfectly still, like a deer that had wandered into warmth and didn’t trust it.
+She stopped there, perfectly still, like a deer that had wandered into a warmth it wasn’t sure about. I let the silence rest for a moment, feeling her closeness, and looked at her hands. Then I raised my eyes to hers and said, very quietly,
 
-I let the silence sit for a beat.
-
-Then I said, very quietly, “You’re allowed to want things.”
+“You can want things, now.”
 
 Lauren’s eyes brightened instantly. She blinked hard, furious with herself.
 
-“I don’t know what I want,” she whispered.
+“I’ve never felt like this. How can I know what I want?” she whispered.
 
-I did.
+I knew what I wanted: her. But I wanted her willingly entering my open door—not me pushing her in. So I smiled at her eyes and made the simplest offer I could manage.
 
-But I wasn’t going to put my certainty on top of her confusion.
-
-So I said the simplest truth I could manage.
-
-“I want to kiss you,” I said.
+“I want to kiss you.”
 
 Her whole body went still.
 
 The air changed.
 
-Lauren looked at me like she couldn’t decide whether to run or lean in.
+Lauren looked at me, motionless. I forced myself not to move, not to do the thing men did—closing distance as if hesitation was consent. Instead I asked, my voice steady, 
 
-I forced myself not to move. Not to fill the space. Not to do the thing men did—closing distance as if hesitation was consent.
+“Do you want that?”
 
-Instead I asked, blunt and steady, “Do you want that?”
+Lauren pressed her lips together, momentarily, as if biting them, and then her mouth fell open. She nodded once, almost imperceptibly.
 
-Lauren’s throat moved.
+“Yes.”
 
-She nodded once, almost imperceptibly.
+That faint, barely whispered word was the most soothing sound this side of rain falling. I lifted my hand slowly—so she could see every inch of it—and touched the side of her face with my fingertips, light as breath. Lauren leaned into my hand.
 
-Then, as if she didn’t trust her nod, she whispered, “Yes.”
-
-That tiny word hit me harder than any grand confession ever could.
-
-I lifted my hand slowly—so she could see every inch of it—and touched the side of her face with my fingertips, light as breath.
-
-Lauren leaned into my hand like she’d been waiting years for permission to stop holding herself up alone.
-
-That was when something in my chest went dangerously soft.
+Something in my chest went dangerously soft.
 
 I kissed her.
 
-Not fast. Not hungry. Not performative.
+A gentle, careful kiss—asking, not claiming.
 
-A gentle, careful kiss that asked rather than claimed.
-
-Lauren made a sound so small it was barely there, and then she kissed me back—tentative at first, like she was still half expecting the floor to vanish. And then, gradually, she softened. Her shoulders dropped. Her breath deepened. Her whole body sighed into the contact like a door unlocking.
+Lauren made a sound so small it was barely there, and then she kissed me back—tentative at first, like she was still half expecting everything to vanish. And then, gradually, she softened. Her shoulders dropped. Her breath deepened. Her whole body sighed into our closeness.
 
 I pulled back just enough to look at her.
 
 Her eyes were glassy. Her mouth was slightly parted.
 
-She looked stunned.
+She looked sedated.
 
-“You okay?” I asked.
+“You okay?”
 
-Lauren nodded, but tears slipped down anyway, furious little betrayers.
+Lauren huffed and nodded quickly, as tears slipped down, furious little betrayers.
 
-“I’m sorry,” she whispered.
+“I can’t seem to get enough of this—of you,” she whispered.
 
-I felt irritation flare—at the reflex, not at her.
+I felt relief, suddenly. This woman was opening herself to me. To me!
 
-“No,” I said firmly. “Not sorry.”
+“I know.”
 
 Lauren’s lips trembled. “I didn’t realise it would feel like—”
 
-“Like being human?” I supplied.
+“Like a human being?” I supplied.
 
 A laugh broke out of her, watery and disbelieving.
 
@@ -2057,11 +2025,9 @@ I nodded once, satisfied.
 
 Then I said the part that mattered most, the part I needed her to hear.
 
-“We go slow,” I told her. “You don’t owe me anything. You don’t have to be brave for me. If you wake up tomorrow and you want to rewind, we rewind. If you want to stop, we stop. If you want more, you tell me. Clear?”
+“We go at your speed and to meet your needs,” I told her. “Juust know that I can meet you whereever you are. You don’t have to hold back for me. Clear?”
 
-Lauren stared at me, eyes wide.
-
-Then she nodded again, more firmly this time.
+Lauren stared at me, eyes wide. Then she nodded again, more firmly this time.
 
 “Clear,” she whispered.
 
@@ -2069,39 +2035,13 @@ Good.
 
 I shifted closer, and this time our shoulders touched properly.
 
-Lauren leaned into me like she’d forgotten she was allowed.
-
-I draped the throw over us, practical gesture, ordinary. It made the moment safer. It made it real.
-
-Lauren’s head settled against my shoulder.
-
-She stayed there, breathing slowly.
+Lauren leaned into me, comfortably now, assured. I draped the throw over us, a practical gesture. Lauren’s head settled against my shoulder. She stayed there, breathing slowly.
 
 For a while we didn’t speak. The television murmured on. The house held us.
 
-Lauren’s eyelids fluttered.
-
-I felt the change before I saw it—the way her body stopped bracing, the way her weight became honest.
+Lauren’s eyelids fluttered. I felt the change before I saw it—the way her body stopped bracing, the way her weight became honest.
 
 She fell asleep.
-
-Just… fell asleep. Like her nervous system had finally decided it could stop standing guard.
-
-I looked down at her—hair still damp, cheek warm against my shoulder, lips relaxed in a way I’d never seen them relax before.
-
-Something tightened in my chest.
-
-Not panic. Not pressure.
-
-Something like awe.
-
-It was absurdly intimate, having a woman asleep on you like this, trusting you with her unguarded self.
-
-My mind tried to race ahead—to consequences, labels, explanations, the entire bloody future.
-
-I didn’t let it.
-
-I sat there, still as stone, so I wouldn’t wake her.
 
 And in the quiet, I thought—simple and steady, like a promise you didn’t need to announce out loud:
 
