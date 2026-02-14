@@ -276,182 +276,190 @@
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
-
-
-
-
-
 ## Notes26-01-23e
-### Scene 48
+### Scene 49
 
 <img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-01-23]
 
-**Scene 48 — “Unsafe” (Celeste POV)**
+**Scene 49 — “Consequences” (Celeste POV)**
 
-The next day at Wardrobe, I walked in wearing my usual face.
+I waited until lunch.
 
-Calm. Clear. Adult.
+Not because I wanted to punish her with time.
 
-But my body had changed overnight in a way I couldn’t hide from myself: it remembered Charli’s touch.
+Because if I spoke too soon, my voice would carry the wrong emotion.
 
-It wanted it.
+I needed to be the adult.
 
-Even in the bright clatter of morning, even with steam in the air and Mara’s shears already snicking like punctuation, my skin carried the echo of her fingers the way fabric carries perfume.
+And—this was the new part—I needed to be the adult while my body still wanted her hands on my skin.
 
-Charli arrived ten minutes after me.
+That was the discipline now.
 
-She came in quieter than usual, as if she was trying to be respectful of something she didn’t fully understand yet: that intimacy changes gravity.
+After lunch, I sent Charli a single message.
 
-Her eyes met mine for half a beat, and her mouth softened.
+**Back room. Five minutes.**
 
-Not a grin.
+No emoji. No softness. Structure.
 
-Not a performance.
+Charli arrived exactly on time, of course.
 
-Just… a private warmth.
+She stood just inside the door like a schoolgirl, shoulders tight, hands clasped in front of her as if her fingers couldn’t be trusted.
 
-I kept my expression neutral and turned back to the ledger.
+Her eyes were red-rimmed. She’d tried not to cry. She’d failed. Quietly.
 
-We had actresses coming in mid-morning. A fitting schedule. A collar repair. A cap batch that needed tying.
+I didn’t comment on it.
 
-Everything normal.
+I leaned against the table and kept my face calm.
 
-Which meant everything fragile.
+“What happened this morning,” I said, “was unsafe.”
 
-Because Wardrobe isn’t just a workplace. It’s a structure. A shelter. It’s women’s safety engineered into habits.
+Charli flinched.
 
-And safety is not compatible with visible romance.
+“I’m sorry,” she whispered.
 
-Not here.
+“No,” I said, and held up a hand. “Not that word. You don’t apologise to make yourself feel smaller. You listen.”
 
-Not yet.
+Charli’s mouth closed. She nodded once, hard.
 
-Charli moved to the cap table, began sorting ties, checking angles with her new competence. Mara barked a correction; Charli absorbed it without flinching. Lauren strode through with her clipboard. Sarah looked like she’d slept badly but held her posture like a weapon.
+I continued, steady.
 
-I was grateful for the noise. It kept me composed.
+“Wardrobe is a women’s workplace. It is a safe space by design. That design depends on two things: privacy and clarity.”
 
-Then—because life loves irony—an actress arrived early, cheerful and loud, bringing the energy of an audience.
+Charli stared at the floor, breathing shallowly.
 
-“Morning! Oh my god, this place is like a *beehive!*”
+“You touched me in a way that signalled intimacy,” I said. “In front of staff. In front of a client.”
 
-Mara’s mouth tightened. “Stand still. Talk later.”
+Charli’s throat moved. “I didn’t—I didn’t mean to signal—”
 
-The actress laughed, compliant.
+“I know,” I said, and my voice softened *one notch* because it was true. “But intent is not the point.”
 
-Charli turned to fetch something from the shelf behind her, and she brushed past me in the narrow aisle between tables.
+Her head lifted slightly, eyes wet.
 
-I felt her pause.
+“The point,” I continued, “is consequences. In a room like ours, intimacy becomes currency for other people. Gossip. Leverage. Narratives. And women pay for that.”
 
-I didn’t look up.
+Charli’s face crumpled, not theatrically—just honest pain.
 
-Then her fingers—light as breath—touched the back of my hand.
+“I didn’t think,” she whispered.
 
-A tiny, secret stroke. A *private* affection.
+“I know,” I said again. “That’s why we’re talking.”
 
-It lasted less than a second.
+I pushed off the table and stepped closer—not to comfort her, but to anchor her with fact.
 
-It was enough.
+“This is not me rejecting you,” I said, very clearly. “This is me protecting you. And protecting Wardrobe.”
 
-Because my body reacted before my mind could stop it: a small shiver under my skin, a tightening in my throat, a pulse spike that made me suddenly aware of my own mouth.
+Charli’s eyes snapped up.
 
-It was a human response.
+“You’re… not…?” Her voice broke.
 
-Which is exactly why it was dangerous.
+I held her gaze.
 
-Charli’s eyes flicked up to my face, bright with that same hopeful devotion from last night, and she smiled—small, pleased—because she’d felt my reaction and interpreted it as permission.
+“No,” I said. “I’m not.”
 
-I held very still.
+She exhaled shakily, as if she’d been holding her breath since morning.
 
-Across the room, Sarah’s gaze snapped toward us.
+Then the devotion returned—too fast, too eager—and she stepped forward like she wanted to touch me to confirm it.
 
-Not jealous.
+I stopped her with a small gesture.
 
-Not judging.
+Charli froze.
 
-Alert.
+I let the silence do its work.
 
-She had the instincts of a woman who knows what men—and gossip—do with information.
+“This is part of being a woman in a women’s space,” I said. “You don’t get to let your feelings spill wherever they want. You learn where it’s safe.”
 
-And two tables away, the actress’s eyes slid over us with curiosity.
+Charli nodded rapidly, tears slipping now.
 
-The wrong kind.
+“Yes,” she whispered. “Yes. I can. I will.”
 
-A glance too long. A faint tilt of the mouth. Interest.
+“Good,” I said.
 
-Data being collected.
+Then I delivered the consequence, clean and boring, like policy.
 
-I felt my stomach go cold.
+“For the next two weeks,” I said, “you and I behave at work as we always have. Professional. No private signals. No touches. No looks that linger. We don’t feed anyone a story.”
 
-Charli didn’t see any of that. She was still living in the softness of last night, still floating in the relief of being wanted.
+Charli’s face tightened in fear.
 
-She reached—without thinking—and tucked a loose strand of hair behind my ear.
+Two weeks must have sounded like exile.
 
-A gesture so gentle, so domestic, so *girlfriend*, it might as well have been an announcement.
+I watched her carefully.
 
-The room didn’t stop.
+“This is not punishment,” I added, because I meant it. “It’s training. It’s protection. It’s a reset.”
 
-But the temperature changed.
+Charli swallowed.
 
-Sarah’s posture sharpened.
+“Yes,” she whispered, and I could see her trying to be brave.
 
-Lauren’s head lifted.
+“And,” I continued, “if you feel the urge to touch me at work, you redirect it into craft.”
 
-Mara’s eyes flicked up, brief and hard.
+Charli blinked.
 
-And the actress smiled like she’d just found a delicious new subplot.
+I nodded toward the shelves.
 
-I turned my head slowly and looked at Charli.
+“Pins,” I said. “Ties. Tension. You put your devotion into the work. That is how women survive in public.”
 
-Not angry.
+Charli’s breath shuddered.
 
-Not cruel.
+“Yes,” she said again, steadier this time. “I understand.”
 
-But my expression was enough.
+I held her gaze for a long beat, then—because I am not cruel—I gave her one truthful softness.
 
-Charli’s face drained of colour.
+“Last night,” I said quietly, “was real.”
 
-Her hand fell away as if it had been burned.
+Charli’s eyes filled again, but this time the tears looked like relief.
 
-I leaned closer—not to soften it, but to keep it private.
+“And it will continue,” I added. “At home. After hours. Where it is safe.”
 
-“Not here,” I said, low.
+Charli nodded, trembling.
 
-Charli’s eyes widened in horror.
+“Yes,” she breathed. “I’ll be good.”
 
-“I—” she began.
+I sighed—small, controlled.
 
-“Not here,” I repeated, firmer. “Never at work. Do you understand me?”
+“Don’t say ‘good’ like that,” I said. “Say ‘careful.’”
 
-Charli swallowed hard.
+Charli swallowed, corrected herself.
 
-“Yes,” she whispered.
+“I’ll be careful.”
 
-Her voice trembled. Her eyes shone.
+“Better,” I said.
 
-She looked like someone who had just realised she’d walked into traffic.
+I stepped back and opened the door.
 
-I straightened and turned back to the ledger.
+“Now,” I said, returning to the adult voice, “wash your face. Fix your posture. Go back out there. You’re not in trouble. You’re learning.”
 
-The actress chirped, oblivious or pretending to be. “Sorry—am I early?”
+Charli wiped her cheeks with the heel of her hand, nodded, and turned to go.
 
-Lauren answered smoothly, saving the moment like she saved everything.
+At the doorway she paused—hesitated—then looked back at me with a question in her eyes.
 
-“You’re early,” Lauren said pleasantly. “But we’ll take you. Fitting room, please.”
+Not asking for touch.
 
-The actress followed Lauren, still smiling.
+Asking for certainty.
 
-Still storing.
+I gave her a small nod.
 
-Charli stood frozen at the cap table, hands hovering, afraid to touch anything.
+The kind that says: *We are still us. Just not here.*
 
-I didn’t look at her again.
+Charli exhaled and went back into Wardrobe.
 
-Not because I didn’t want to.
+I closed the door and stood alone in the back room for a moment longer than necessary, letting the ache in my chest settle into something I could carry.
 
-Because if I did, I might soften.
+Because this was the new truth:
 
-And softness at the wrong time is how women get hurt.
+I wanted her.
+
+I wanted her touch.
+
+And I would still choose the standards that kept her safe.
+
+Even when it hurt.
+
+Especially when it hurt.
+
+---
+
+If you like, the next scene can be the *evening after this consequence talk* — where Charli, determined to “be careful,” becomes **almost comically** cautious… and Celeste has to guide her back into softness: *“Careful doesn’t mean distant.”* That’s a gorgeous way to show Celeste’s floodgates staying open **in the correct place**. 💛
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

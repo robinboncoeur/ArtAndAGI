@@ -1,4 +1,4 @@
-# Scene 44
+# Scene 45
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -9,1382 +9,178 @@
 
 
 
-## From 25.01.05
 
-## Scene — “One Pint” (Celeste POV)
+## From 25.01.06
 
-Celeste didn’t mind being alone in the house.
-
-She liked the quiet when it was earned.
-
-Winter made the windows speak in small noises — wind worrying at the frames, the occasional tick of something cooling, the heater’s steady breath. The kitchen light pooled on the table like a warm island. Her laptop sat open. Notes spread. A pen she kept losing and finding again.
-
-Charli had gone out.
-
-Not *out* out. Not a date. Not some grand reclaiming of youth.
-
-A pub. One pint. “Just to show my face,” he’d said, careful, like he was asking permission to borrow oxygen. One of the blokes — someone he knew from before Wardrobe, before winter fabrics and write-ups and museum people — had messaged him. *Come on, mate. You can’t live with women and sewing machines forever.*
-
-Celeste had kept her face neutral at that sentence, because she refused to become possessive. She refused to turn her standards into a cage.
-
-So she’d said, simply, “Go. If you want.”
-
-Charli had blinked, surprised by the lack of resistance.
-
-“You’re… okay with it?”
-
-Celeste had looked back at her screen and replied without drama:
-
-“I’m okay with you living.”
-
-He’d laughed — small, relieved — and pulled on his coat.
-
-He’d tied his hair back before he left. Not tightly. Not obsessively. Just enough to keep it out of his eyes.
-
-A few tendrils had escaped immediately. He’d ignored them.
-
-Celeste had clocked that too.
-
-Triage, not obsession.
-
-She’d returned to her notes.
-
-She got forty minutes of real study done before the front door opened again.
-
-Not slammed. Not banged. Opened and closed with that careful restraint Charli had, like even his exits and entrances were designed to not disturb anyone.
-
-Celeste looked up, expecting to see “one pint” in his face — that mild looseness people wore when they’d warmed themselves with alcohol and noise.
-
-Instead she saw something else.
-
-Charli stood just inside the hallway with his coat still on, eyes too bright, mouth set as if he was trying not to say something sharp.
-
-He looked… cleanly angry.
-
-Not rage. Not threat.
-
-Disgust.
-
-Celeste’s pen stopped moving.
-
-“You’re back early,” she said.
-
-Charli didn’t move further in. He didn’t take his shoes off. He stood there like he didn’t want to track the pub into her house.
-
-“Yeah,” he said, voice low. “I… couldn’t.”
-
-Celeste closed her laptop gently, as if closing it too fast would turn this into panic.
-
-“Come here,” she said.
-
-It wasn’t an order. It was an anchor.
-
-Charli came to the kitchen, slow. He still didn’t sit.
-
-Celeste watched him for a beat. His hair tie had loosened. A strand had fallen near his cheekbone. He didn’t touch it. That wasn’t the issue.
-
-“Do you want tea?” Celeste asked, because tea was what you offered when you wanted to give someone something steady to hold.
-
-Charli blinked, as if the normality of tea was shocking. Then he nodded.
-
-“Yeah,” he said quietly. “Please.”
-
-Celeste stood, filled the kettle, turned it on. The sound of it beginning to heat was instantly calming — a small domestic machine doing what it was supposed to do.
-
-She didn’t ask yet.
-
-She waited.
-
-Charli exhaled slowly through his nose, as if he was trying to flush the smell of beer and bad conversation out of his brain.
-
-Celeste leaned back against the bench. “Tell me what happened.”
-
-Charli’s mouth tightened.
-
-“It was fine for like… two minutes,” he said. “Just noise. Footy on a screen. Everyone acting like they’re having fun.”
-
-Celeste nodded once. Keep going.
-
-“And then,” Charli continued, “it started. Not… obvious. Just little things. Like they were… testing the room.”
-
-Celeste’s eyes narrowed slightly. She knew that mechanism.
-
-People didn’t usually walk into ugliness at full volume. They stepped into it gradually, checking who would laugh, who would stay silent, who would join in.
-
-“What kind of things?” Celeste asked.
-
-Charli hesitated. His cheeks coloured with something close to shame — not because he had done it, but because he had heard it.
-
-“Women,” he said, bluntly. “Just… constant little digs. Like it was the background music.”
-
-Celeste felt her spine go cold.
-
-Charli kept speaking, voice low, controlled.
-
-“One guy starts complaining about his girlfriend. But it’s not, like, ‘we’re not getting along.’ It’s… she’s stupid, she’s dramatic, she’s always trying to control him. And everyone laughs like that’s normal.”
-
-Celeste didn’t react outwardly. She refused to become theatre. But something inside her hardened.
-
-“And then,” Charli said, “someone else — not even about his girlfriend — starts in on this waitress. She walks past and he says something about her body like she’s… not a person. Just a thing that exists for him to rate.”
-
-Celeste’s jaw tightened.
-
-Charli looked down at his hands.
-
-“They expected me to laugh,” he said. “They looked at me. Like… *you’re a guy, you know the script.*”
-
-Celeste watched him carefully.
-
-“And you didn’t,” she said.
-
-It wasn’t a question. It was recognition.
-
-Charli shook his head.
-
-“No,” he said, and his voice broke just slightly on the word. “I couldn’t.”
-
-The kettle clicked louder as it warmed. The sound filled the space like a metronome, keeping them both in the room.
-
-Charli swallowed and continued, pushed by the need to purge it.
-
-“And then it got worse,” he said. “Not just women. Like… someone makes a comment about—” He stopped, jaw tight. “About race. Not… slurs. Just… that smug thing. Like they’re ‘telling it like it is’.”
-
-Celeste’s eyes sharpened.
-
-“Covert,” she said.
-
-Charli nodded, relief flickering across his face at having the word handed to him.
-
-“Yeah,” he whispered. “Exactly. Covert. Like they want plausible deniability. Like if you call it out, you’re the problem.”
-
-Celeste felt heat move through her chest — anger, yes, but also a kind of grim satisfaction that Charli could see it for what it was.
-
-“What did you do?” Celeste asked.
-
-Charli’s shoulders lifted and dropped.
-
-“I tried to… redirect,” he said. “Like, I said something normal. Just asked about work. About the weather. Anything. And they kept circling back.”
-
-He laughed once, bitter.
-
-“One of them said something like, ‘Mate, you’ve gone soft living with women.’ Like being decent is… contagious.”
-
-Celeste’s mouth twitched — not amusement, not quite — more like contempt.
-
-“And then?” she asked.
-
-Charli lifted his head. His eyes were bright, but steady. He looked ashamed of nothing now.
-
-“I stood up,” he said. “I said I had to go. They laughed again, like it was a joke. And I just… left.”
-
-Celeste nodded once.
-
-Good.
-
-Clean.
-
-No argument. No speech. No attempt to “win.”
-
-Just exit.
-
-The kettle clicked off.
-
-Celeste moved automatically: teabag, mug, water. She slid the mug toward him like a small contract: here, hold warmth, you’re safe here.
-
-Charli wrapped his hands around it immediately.
-
-Celeste watched his grip and felt something soften in her chest — pride, not romantic, not possessive. Pride in a standard being upheld.
-
-“You did the right thing,” she said.
-
-Charli blinked fast.
-
-“It felt… stupid,” he admitted. “Like I was overreacting.”
-
-Celeste’s gaze sharpened.
-
-“No,” she said, firm. “You weren’t overreacting. You were refusing collusion.”
-
-Charli looked at her, startled by the clarity.
-
-Celeste continued, calm and unyielding.
-
-“That’s how it works,” she said. “They start small. They check the room. They want everyone to sign the same invisible contract: laugh along, stay quiet, don’t make it awkward. And then they call you soft when you don’t.”
-
-Charli’s mouth tightened. “Yeah.”
-
-Celeste leaned slightly toward him, voice low.
-
-“You don’t have to be in rooms like that,” she said. “You’re allowed to leave.”
-
-Charli stared into his tea as if the permission was something he’d been waiting years to hear.
-
-“I know,” he said quietly. “It just… surprised me how constant it was.”
-
-Celeste’s eyes went hard for a moment.
-
-“It’s constant because it’s rewarded,” she said. “They get status for it. Bonding points. A little surge of power at someone else’s expense.”
-
-Charli swallowed. “It was like they were bored without it.”
-
-Celeste nodded once.
-
-“Exactly,” she said. “Some men don’t know how to be together without a target.”
-
-Charli flinched slightly at the bluntness, not because he disagreed, but because it was sharp.
-
-Celeste softened a fraction, but not into apology.
-
-“Not all,” she said, because she refused to let any sentence become ideology. “But enough that you noticed. Enough that it disgusted you.”
-
-Charli’s eyes lifted to hers.
-
-“I hated it,” he said, simply.
-
-Celeste held his gaze.
-
-“Good,” she replied.
-
-Charli blinked again, confused.
-
-Celeste didn’t explain it with softness. She explained it with standards.
-
-“Your disgust is a compass,” she said. “It means your baseline is intact.”
-
-Charli’s throat bobbed.
-
-“And,” Celeste added, quieter now, “it’s why you feel better around women.”
-
-Charli’s eyes widened a fraction, as if she’d named something too accurately.
-
-Celeste didn’t make it sentimental.
-
-“It’s not that women are saints,” she said. “It’s that in our spaces, contempt isn’t currency. Not here. Not in Wardrobe. Not in this house.”
-
-Charli nodded slowly. His shoulders dropped.
-
-The tendril near his cheek fluttered as he exhaled. He still didn’t touch it.
-
-Practical, Celeste thought. He’s learning what matters.
-
-Charli took a sip of tea. Then another.
-
-After a moment, he said quietly, “I felt… out of place.”
-
-Celeste watched him carefully.
-
-“Because you’ve changed?” she asked.
-
-Charli’s mouth tightened. “Because I couldn’t pretend. I couldn’t do the laugh. I couldn’t—” He shook his head. “I don’t know how to be in that.”
-
-Celeste felt something in her chest warm and pull at once.
-
-Not pity.
-
-Recognition.
-
-“You don’t have to learn,” Celeste said, firm. “That isn’t a skill. It’s a compromise.”
-
-Charli’s eyes shone again, but he held steady.
-
-Celeste stood, walked around the table, and paused beside him.
-
-She didn’t touch him immediately. She kept it clean.
-
-“May I?” she asked.
-
-Charli nodded, small.
-
-Celeste put one hand on his shoulder — brief, grounding contact — and felt him exhale as if his body had been holding itself rigid since the pub.
-
-“You didn’t fail tonight,” she said. “You passed.”
-
-Charli’s voice was small. “Passed what?”
-
-Celeste’s mouth twitched.
-
-“The test you didn’t sign up for,” she said. “The one where they try to see what kind of person you are when they think it’s safe to be ugly.”
-
-Charli swallowed hard.
-
-Celeste lifted her hand away, space restored.
-
-“Finish your tea,” she said, brisk now, because briskness was kindness when you didn’t want emotions to become syrupy. “Then shower. Cold air and pub smell don’t get to live in my house.”
-
-Charli gave a shaky little laugh.
-
-“Okay,” he said.
-
-Celeste returned to the bench, reopened her laptop without really looking at it. She was letting him reset without making him feel watched.
-
-But in the quiet, as Charli drank his tea and the heater breathed and winter battered the windows, Celeste found herself cataloguing the moment for what it was:
-
-A signpost.
-
-Not just of misogyny or racism.
-
-Of alignment.
-
-Charli didn’t belong in rooms that bonded through contempt.
-
-He belonged in rooms that bonded through competence.
-
-And Celeste — professional rigidity and all — felt a fierce, steady certainty settle in her bones:
-
-She wasn’t attracted to him because he “blended in costumes.”
-
-She was attracted to him because he refused to blend into ugliness.
-
-And that, she thought, was the rarest kind of integrity there was.
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-Got you. Two big fixes for Scene 39:
-
-1. **Celeste POV throughout**, tighter and more intimate, like the house-scene tone you’ve been building.
-2. **Charli’s pronouns corrected**, *and* one extra continuity tweak: because you’ve said she’s still male-presenting at this stage, the pub scene should show how she *tries* to re-enter “the blokes” world in that old casing — and how it rebounds off her now-changed baseline.
-
-Also: I kept the humour (your “perfume advert” line is gold), but I made the scene hit harder by giving Celeste a clean little post-event action: **she turns the pub into a “risk category”** the same way she categorises fabric failure points. It keeps her consistent: standards, systems, and consequence.
-
-## Scene 39 — “One Pint” (Celeste POV)
-
-I don’t mind being alone in the house.
-
-I like quiet when it’s earned.
-
-Winter makes the windows speak in small noises — wind worrying the frames, the tick of something cooling, the heater’s steady breath. The kitchen light pools on the table like a warm island. Laptop open. Notes spread. The pen I keep losing and finding again.
-
-Charli had gone out.
-
-Not *out* out. Not a date. Not a grand reclaiming of youth.
-
-A pub. One pint.
-
-“Just to show my face,” she’d said, careful, like she was asking permission to borrow oxygen.
-
-One of the blokes from her old life had messaged her. Someone from Before Wardrobe. Before museum write-ups. Before winter fabrics and post-mortems and the quiet competence of women who did not clap for men doing the minimum.
-
-*Come on, mate. You can’t live with women and sewing machines forever.*
-
-I’d kept my face neutral when she read it aloud.
-
-Not because I wasn’t irritated.
-
-Because I refuse to be possessive. I refuse to turn standards into a cage.
-
-So I’d said, simply, “Go. If you want.”
-
-Charli had blinked at me.
-
-“You’re… okay with it?”
-
-I’d looked back at my screen and answered without drama.
-
-“I’m okay with you living.”
-
-She’d laughed — small, relieved — and pulled on her coat.
-
-Before she left, she tied her hair back. Not tightly. Not obsessively. Just enough to keep it out of her eyes. A few tendrils escaped immediately. She ignored them.
-
-Triage, not obsession.
-
-Then she left with that careful, quiet restraint she has, like even her exits are designed to not disturb anyone.
-
-I studied.
-
-Properly, for once. Forty minutes of clean concentration. The kind that makes you forget you have a body.
-
-And then the front door opened again.
-
-Not slammed. Not banged. Opened and closed with care.
-
-I looked up, expecting to see “one pint” in her face — that mild looseness people wear when they’ve warmed themselves with noise and beer.
-
-Instead I saw something else.
-
-Charli stood just inside the hallway with her coat still on.
-
-Eyes too bright.
-
-Mouth set as if she was trying not to say something sharp.
-
-She looked… cleanly angry.
-
-Not rage. Not threat.
-
-Disgust.
-
-My pen stopped moving.
-
-“You’re back early,” I said.
-
-She didn’t come further in. Didn’t take her shoes off. Stood like she didn’t want to track the pub into my house.
-
-“Yeah,” she said, voice low. “I… couldn’t.”
-
-I closed my laptop gently. Not because the notes mattered less — because the way you close something is a signal, and I wasn’t going to signal panic.
-
-“Come here,” I said.
-
-It wasn’t an order. It was an anchor.
-
-Charli came to the kitchen slow. Still didn’t sit.
-
-I watched her for a beat. Her hair tie had loosened. A strand had fallen near her cheekbone. She didn’t touch it. That wasn’t the problem.
-
-“Tea?” I asked, because tea is what you offer when you want someone to hold something steady.
-
-Charli blinked, as if normality was surprising.
-
-Then she nodded. “Yeah,” she said quietly. “Please.”
-
-I filled the kettle and turned it on. The familiar hum of it beginning to heat settled the room at once — a small domestic machine doing exactly what it was meant to do.
-
-I didn’t ask yet.
-
-I waited.
-
-Charli exhaled through her nose like she was trying to purge beer and bad conversation out of her lungs.
-
-I leaned back against the bench.
-
-“Tell me what happened.”
-
-Her mouth tightened.
-
-“It was fine for like… two minutes,” she said. “Noise. Footy. Everyone acting like they’re having fun.”
-
-I nodded once. Keep going.
-
-“And then it started,” she said. “Not obvious. Just… little things. Like they were testing the room.”
-
-Of course they were.
-
-People don’t walk into ugliness at full volume. They step into it slowly and watch who laughs.
-
-“What kind of things?” I asked.
-
-She hesitated. Her cheeks coloured with that particular shame people get when they’ve heard something disgusting and their body tries to treat it as contamination.
-
-“Women,” she said, blunt. “Just… constant little digs. Like it was background music.”
-
-My spine went cold.
-
-She kept speaking, controlled, like she didn’t want emotion to give them power.
-
-“One guy starts in about his girlfriend. But it’s not ‘we’re not getting along.’ It’s… she’s stupid, she’s dramatic, she’s always trying to control him. And everyone laughs like that’s normal.”
-
-I didn’t react outwardly. I refuse to become theatre.
-
-Inside, something hardened.
-
-“And then,” Charli said, “someone makes a comment about a waitress. She walks past and he says something about her body like she’s… not a person. Like she’s just there to be rated.”
-
-My jaw tightened.
-
-Charli looked down at her hands.
-
-“They expected me to laugh,” she said. “They looked at me like… *you’re one of us, you know the script.*”
-
-I watched her carefully.
-
-“And you didn’t,” I said.
-
-It wasn’t a question. It was recognition.
-
-She shook her head.
-
-“No,” she said, and her voice broke just slightly on the word. “I couldn’t.”
-
-The kettle’s hiss grew louder. A metronome. A pressure building the way it always built before something clicked into place.
-
-Charli swallowed and kept going, because once she started telling the truth she didn’t like leaving it half said.
-
-“And then it got worse,” she said. “Not just women. Someone starts in on—” She stopped, jaw tight. “Race. Not slurs. Just… that smug thing. Like they’re ‘telling it like it is’.”
-
-“Covert,” I said.
-
-Her head lifted. Relief flickered across her face at being given the correct word.
-
-“Yeah,” she whispered. “Exactly. Covert. Like they want plausible deniability. Like if you call it out, *you’re* the problem.”
-
-That, right there, is the trap: make cruelty normal and then punish anyone who refuses it.
-
-“What did you do?” I asked.
-
-Her shoulders lifted and dropped.
-
-“I tried to redirect,” she said. “Just normal topics. Work. Weather. Anything. And they kept circling back.”
-
-She laughed once, bitter.
-
-“One of them said, ‘Mate, you’ve gone soft living with women.’ Like decency is contagious.”
-
-My mouth twitched — not amusement. Contempt.
-
-“And then?” I asked.
-
-Charli lifted her head. Her eyes were bright, but steady now.
-
-“I stood up,” she said. “Said I had to go. They laughed again like it was a joke. And I just… left.”
-
-Good.
-
-Clean.
-
-No speech. No heroics. No attempt to “win.”
-
-Just exit.
-
-The kettle clicked off.
-
-I moved automatically: teabag, mug, water. I slid it toward her like a small contract: hold this, you’re safe here.
-
-Charli wrapped both hands around the mug immediately, shoulders easing by a fraction.
-
-“You did the right thing,” I said.
-
-She blinked fast.
-
-“It felt… stupid,” she admitted. “Like I was overreacting.”
-
-“No,” I said, firm. “You were refusing collusion.”
-
-That made her look up.
-
-I didn’t soften. I clarified.
-
-“That’s how it works,” I said. “They start small. They check the room. They want everyone to sign the invisible contract: laugh along, stay quiet, don’t make it awkward. Then they call you soft when you don’t.”
-
-Charli’s mouth tightened.
-
-“Yeah,” she said.
-
-“You’re allowed to leave,” I added. “You don’t have to be in rooms like that.”
-
-She stared into her tea like permission was something she’d been rationed for years.
-
-“I know,” she said quietly. “It just… surprised me how constant it was.”
-
-“It’s constant because it’s rewarded,” I said. “Status. Bonding points. A little surge of power at someone else’s expense.”
-
-Charli swallowed. “It was like they were bored without it.”
-
-I nodded once.
-
-“Some men don’t know how to be together without a target,” I said.
-
-She flinched slightly at the bluntness — not disagreement, just the sharpness of it landing.
-
-“Not all,” I added, because I refuse lazy ideology, “but enough that you noticed. Enough that it disgusted you.”
-
-Charli’s eyes lifted.
-
-“I hated it,” she said, simply.
-
-“Good,” I replied.
-
-She looked confused.
-
-I didn’t explain it with comfort. I explained it with standards.
-
-“Your disgust is a compass,” I said. “It means your baseline is intact.”
-
-Her throat bobbed.
-
-I held her gaze a moment longer than necessary and said the next part because it was true and because I don’t let truths hover unspoken until they rot.
-
-“And it’s why you feel better around women.”
-
-Her eyes widened a fraction, as if I’d named something too precisely.
-
-I didn’t make it sentimental.
-
-“It’s not that women are saints,” I said. “It’s that in our spaces, contempt isn’t currency. Not here. Not at Wardrobe. Not in this house.”
-
-Charli nodded slowly. Her shoulders dropped.
-
-She took a sip of tea. Then another.
-
-After a moment, she said quietly, “I felt… out of place.”
-
-“Because you’ve changed?” I asked.
-
-Her mouth tightened. “Because I couldn’t pretend. I couldn’t do the laugh. I couldn’t—” She shook her head. “I don’t know how to be in that.”
-
-“You don’t have to learn,” I said, immediate. “That isn’t a skill. It’s a compromise.”
-
-She blinked again, eyes shining.
-
-I stood and walked around the table.
-
-I didn’t touch her straight away. I keep it clean.
-
-“May I?” I asked.
-
-Charli nodded, small.
-
-I put one hand on her shoulder — brief, grounding contact — and felt her exhale as if she’d been holding herself rigid since the pub.
-
-“You didn’t fail tonight,” I said. “You passed.”
-
-She swallowed. “Passed what?”
-
-“The test you didn’t sign up for,” I said. “The one where they try to see what kind of person you are when they think it’s safe to be ugly.”
-
-Her eyes closed for a beat.
-
-Then I lifted my hand away. Space restored.
-
-“Finish your tea,” I said, brisk now, because briskness is kindness when you don’t want emotion to become syrup. “Then shower. Pub smell doesn’t get to live in my house.”
-
-Charli let out a shaky little laugh.
-
-“Okay,” she said.
-
-I returned to the bench and reopened my laptop without really looking at it. Not to ignore her — to let her reset without feeling watched.
-
-But inside my mind, where I keep the ledger that matters, I recorded the result with the same clarity Mara would use for a garment failure:
-
-**Environment: pub / “old friends”**
-**Observed: contempt-as-bonding; covert bigotry; expectation of collusion**
-**Outcome: Charli exited cleanly**
-**Effect: baseline affirmed; distress reduced by debrief**
-**Action: classify as high-risk space; re-entry only with plan and exit route**
-
-And beneath that, in a handwriting I didn’t show anyone:
-
-I’m not attracted to her because she “blends.”
-
-I’m attracted to her because she refuses to blend into ugliness.
-
-That’s the rare kind of integrity.
-
-The kind you can build a life around.
-
-I heard the mug set down softly. I heard the chair scrape back. Charli moved toward the bathroom, quiet and contained, and I let her go without following.
-
-Because she didn’t need a watcher.
-
-She needed a home.
-
-And she had one.
-
----
-
-If you want a *tiny* kicker at the end for extra punch, you can add one last line after she heads down the hallway — something like:
-
-> **I wasn’t keeping her from “the boys.”
-> I was keeping her from learning to tolerate contempt.**
-
-But the scene already lands cleanly without it.
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-
-I will probably tack it on when I publish: thanks for this. I'm just wondering if this next bit could all be part of the same scene. Again, Celeste's POV; /he/him fix:
-
-Morning at Wardrobe had the particular bite of winter competence.
-
-Cold air still clung to coats and hair when people came in, and everyone moved a little faster not out of panic but out of the simple urge to get warm through motion. The heater ran, machines woke, kettles clicked, and the day assembled itself the way a good system did: without ceremony.
-
-Celeste arrived early, as usual, because she liked to see the room settle before it filled. She checked the swatch board first—wool blend samples still pinned, notes still legible, nothing disturbed. The roster was unchanged. The packing table was tidy. Mara’s ledger sat where it belonged, thick and uncompromising.
-
-Good.
-
-Charli came in a few minutes after her, shoulders slightly hunched from the cold. His hair was tied back. Not perfect. Not fragile. Just tidy enough that it didn’t demand attention.
-
-There were tendrils at his ears.
-
-He ignored them.
-
-Celeste clocked it and returned to her cutting table without comment. She’d learned that praise was a lever: use it too often and you trained performance. Use it sparingly and you trained ownership.
-
-Charli moved like someone who’d slept. Showered. Reset. He didn’t carry last night into the room like a stink.
-
-That, in itself, was a kind of victory.
-
-Sarah was already there, of course. Sarah treated punctuality like a personal insult and still managed to be early whenever something interesting might happen. She was leaning on the finishing station with a mug in hand, scanning the room with predatory boredom.
-
-She saw Charli. Her eyes narrowed in mock appraisal.
-
-“Well,” she said brightly, too loudly, “look who survived civilisation.”
-
-Charli didn’t flinch. He walked past her station toward the wear-test rack and set his bag down with calm hands.
-
-Sarah followed him like a cat following a string.
-
-“How long did you last?” she asked, voice amused. “Twelve minutes? You get escorted out by security? Or did you leave because the lads couldn’t handle your devastating charm?”
-
-A couple of the stitchers looked up. One smiled. It was the right kind of attention: curious, not cruel.
-
-Celeste didn’t look up from her table. She listened without seeming to listen. Culture was a fabric too; you watched how it stretched.
-
-Charli paused, then turned his head just enough to answer.
-
-“I left,” he said simply.
-
-Sarah’s eyebrows rose. “Because?”
-
-Charli didn’t sigh. He didn’t roll his eyes. He didn’t do the “I don’t want to make it awkward” dance.
-
-He just said it.
-
-“Because I’m not doing misogyny for social points.”
-
-The room went quiet for half a beat—not shocked quiet, but recalibrating quiet. Like a machine registering a new setting.
-
-Sarah blinked.
-
-Then, to Celeste’s faint surprise, Sarah’s mouth softened into something almost respectful.
-
-“Oh,” she said. “All right then.”
-
-One of the stitchers let out a small laugh—more relief than humour. Another murmured, “Fair.”
-
-Celeste kept her face neutral, but inside she felt a small pulse of satisfaction.
-
-That sentence did three things at once:
-
-1. It named the behaviour without needing a lecture.
-2. It refused collusion without performing moral superiority.
-3. It made the standard portable—something you could carry out of Wardrobe and back into it without shame.
-
-Sarah recovered first, because Sarah always recovered.
-
-She took a sip of tea, then tilted her head.
-
-“And did you say that to their faces, darling, or did you just vanish like a ghost?”
-
-Charli’s mouth twitched—almost a smile.
-
-“I just left,” he said. “I don’t need to convince them.”
-
-Sarah made an approving noise.
-
-“Excellent,” she said. “Arguing is foreplay for idiots.”
-
-That got a genuine laugh from one of the younger stitchers. The room relaxed. The moment passed into normality.
-
-Mara, who had been at the ledger the whole time, didn’t look up. She didn’t praise. She didn’t nod. But she reached for her pen and wrote something down in the margin—one of her little private annotations that served as judgement without words.
-
-Celeste caught the movement. She didn’t try to read it. She didn’t need to.
-
-Mara approved of standards. Always had.
-
-Sarah, apparently satisfied, drifted off toward the finishing table to torment someone else.
-
-Charli turned back to his station and began checking the Nymph garment like nothing had happened.
-
-Celeste waited a beat, then spoke—quietly, so only he could hear.
-
-“That was well-handled,” she said.
-
-Charli’s pen paused. He didn’t look up immediately. When he did, his eyes were steady.
-
-“It was disgusting,” he said, as if that was explanation enough.
-
-“It usually is,” Celeste replied.
-
-Charli nodded once and returned to his notes.
-
-Celeste went back to cutting, the sound of scissors steady in her hands.
-
-But her mind stayed with the moment for longer than it needed to—because it wasn’t only about last night.
-
-It was about the shape of the man Charli had been expected to become.
-
-The pub had been an old world trying to reclaim him with familiar currency: laughter at someone else’s expense, belonging purchased by complicity.
-
-And Charli had walked out.
-
-Then he’d walked back into Wardrobe and named the boundary plainly, without shame, without theatrics.
-
-Celeste felt that warm, dangerous pull again—the one she managed like a controlled burn.
-
-Not because he was “soft.”
-
-Because he was hard in the only way that mattered: hard against contempt. Hard against collusion.
-
-She kept her eyes on the fabric and let the thought remain what it had to be:
-
-A fact, logged internally.
-
-Then she picked up the next pattern piece and kept building the world she wanted them all to live in.
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-Yes — this absolutely can be the same scene, and it actually gains power by being contiguous with “One Pint,” because it turns last night’s private debrief into a public standard the next morning. That’s the satisfying arc: leave → name → carry it back into the women’s space without shame.
-
-Below is a clean Celeste POV version with Charli she/her throughout. I kept your “winter competence” tone, kept Sarah’s bite, kept Mara’s silent endorsement, and I tightened a couple of beats so the line “I’m not doing misogyny for social points” lands like a snapped seam: quick, clean, irreversible.
-
-Scene 39 — continuation: “Morning Standards” (Celeste POV)
-
-Morning at Wardrobe had the particular bite of winter competence.
-
-Cold still clung to coats and hair when people came in, and everyone moved faster — not out of panic, but out of the simple urge to get warm through motion. The heater ran, machines woke, kettles clicked, and the day assembled itself the way a good system did: without ceremony.
-
-I arrived early, as usual. I like seeing the room settle before it fills.
-
-Swatch board first — wool blends still pinned, notes still legible, nothing disturbed. Roster unchanged. Packing table tidy. Mara’s ledger where it belonged, thick and uncompromising.
-
-Good.
-
-Charli came in a few minutes after me, shoulders slightly hunched from the cold. Hair tied back. Not perfect. Not fragile. Tidy enough that it didn’t demand attention.
-
-There were tendrils at her ears.
-
-She ignored them.
-
-I clocked it and returned to my cutting table without comment. Praise is a lever; use it too often and you train performance. Use it sparingly and you train ownership.
-
-Charli moved like someone who’d slept. Showered. Reset. She didn’t carry last night into the room like a stink.
-
-That, in itself, was a kind of victory.
-
-Sarah was already there, of course. Sarah treated punctuality like a personal insult and still managed to be early whenever something interesting might happen. She leaned on the finishing station with a mug in hand, scanning the room with predatory boredom.
-
-She saw Charli. Her eyes narrowed in mock appraisal.
-
-“Well,” Sarah said brightly — too loudly — “look who survived civilisation.”
-
-Charli didn’t flinch. She walked past the finishing station toward the wear-test rack and set her bag down with calm hands.
-
-Sarah followed her like a cat following a string.
-
-“How long did you last?” she asked, amused. “Twelve minutes? You get escorted out by security? Or did you leave because the lads couldn’t handle your devastating charm?”
-
-A couple of the stitchers looked up. One smiled. It was the right kind of attention: curious, not cruel.
-
-I didn’t look up from my table. I listened without seeming to listen. Culture is a fabric too; you watch how it stretches.
-
-Charli paused, then turned her head just enough to answer.
-
-“I left,” she said simply.
-
-Sarah’s eyebrows lifted. “Because?”
-
-Charli didn’t sigh. Didn’t roll her eyes. Didn’t do the I don’t want to make it awkward dance.
-
-She just said it.
-
-“Because I’m not doing misogyny for social points.”
-
-The room went quiet for half a beat — not shocked quiet. Recalibrating quiet. Like a machine registering a new setting.
-
-Sarah blinked.
-
-Then, to my faint surprise, her mouth softened into something almost respectful.
-
-“Oh,” she said. “All right then.”
-
-One of the stitchers let out a small laugh — more relief than humour. Another murmured, “Fair.”
-
-I kept my face neutral, but inside I felt a small pulse of satisfaction.
-
-That sentence did three things at once:
-
-It named the behaviour without needing a lecture.
-It refused collusion without performing moral superiority.
-It made the standard portable — something you could carry out of Wardrobe and back into it without shame.
-
-Sarah recovered first, because Sarah always recovered.
-
-She took a sip of tea, then tipped her head.
-
-“And did you say that to their faces, darling, or did you just vanish like a ghost?”
-
-Charli’s mouth twitched — almost a smile.
-
-“I just left,” she said. “I don’t need to convince them.”
-
-Sarah made an approving noise.
-
-“Excellent,” she said. “Arguing is foreplay for idiots.”
-
-That got a genuine laugh from one of the younger stitchers. The room relaxed. The moment passed into normality.
-
-Mara, who had been at the ledger the whole time, didn’t look up. She didn’t praise. She didn’t nod. But her pen moved once in the margin — one of her little private annotations that served as judgement without words.
-
-I caught the movement. I didn’t try to read it.
-
-I didn’t need to.
-
-Mara approves of standards. Always has.
-
-Sarah, apparently satisfied, drifted off toward the finishing table to torment someone else.
-
-Charli turned back to the wear-test rack and began checking the Nymph garment as if nothing had happened — hands steady, eyes on seams, attention where it belonged.
-
-I waited a beat, then spoke quietly enough that only she could hear.
-
-“That was well-handled,” I said.
-
-Charli’s pen paused. She didn’t look up immediately. When she did, her eyes were steady.
-
-“It was disgusting,” she said, as if that was explanation enough.
-
-“It usually is,” I replied.
-
-She nodded once and returned to her notes.
-
-I went back to cutting, the sound of scissors steady in my hands.
-
-But my mind stayed with the moment longer than it needed to — because it wasn’t only about last night.
-
-It was about the shape of the person Charli had been expected to become.
-
-The pub had been an old world trying to reclaim her with familiar currency: laughter at someone else’s expense, belonging purchased by complicity.
-
-And Charli had walked out.
-
-Then she’d walked back into Wardrobe and named the boundary plainly, without shame, without theatrics.
-
-I felt that warm, dangerous pull again — the one I manage like a controlled burn.
-
-Not because she was “soft.”
-
-Because she was hard in the only way that mattered: hard against contempt. Hard against collusion.
-
-I kept my eyes on the fabric and let the thought remain what it had to be:
-
-A fact, logged internally.
-
-Then I picked up the next pattern piece and kept building the world I wanted all of us to live in.
-
----
-
-If you’d like a title that links it to “One Pint” without creating Scene sprawl, a clean option is:
-
-“Portable Standard”
-or
-
-“No Social Points”
-
-Both signal what’s actually happening: Charli’s baseline becomes publicly carryable, and Celeste is watching her become sturdier rather than merely “protected.”
+## Scene 41
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
+### ✨ smsmsm ✨
 
+Yes — this is *very* plausible, and it neatly solves the “all men are jerks” flattening without backing away from your theme (male entitlement as ambient weather, not every individual bloke as a cartoon villain) 💛🧵
 
+What I love about your new shape is that it gives Sarah a **clean comparative experiment**:
 
+* She sees **women-love-women happiness** up close (Bree + Lily), and it lands in her body before it lands in her brain.
+* She then meets a **genuinely decent man** (Carl) who behaves well — and the story shows that decency isn’t the issue. Attraction is.
+* The painful honesty of ending it (and her guilt) pushes her into a familiar coping mechanism (drink), which sets up the spiking incident without moralising: it’s not “Sarah is irresponsible,” it’s “Sarah is tired and lonely and misreading her own needs.”
+* Lauren as the rescuer the second time becomes the hinge: the morning after, Sarah realises the truth isn’t “Lauren is safe,” it’s “Lauren is *wanted*.”
 
+That is a *gorgeous* pivot into romance that doesn’t require any man-bashing. Carl can even become a quiet proof-point: **men can be kind; Sarah still wants women.**
 
+### A tiny craft caution (so it doesn’t feel contrived)
 
+The “spiked drink” beat will land best if you make it **uncertain and sensory** rather than declarative:
 
+* Sarah feels an abrupt, wrong shift: dizziness too fast for her intake, nausea, heat/cold, trembling, time-skips.
+* She *suspects* spiking (and later Lauren might say: “You should get checked” / “We can report it”), but you don’t need to prove it on-page.
+* Keep the focus on *Sarah’s fear + decision-making*, not the perpetrator.
 
-
-
-
-
-
-
-
-
-
-
-## Notes26-01-22e
-### was Scene 39
-
-<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-[26-01-22]
-
-**Scene 39 — “Pear-Shaped” (Sarah POV)**
-
-It’s amazing how quickly a man can turn your boundary into his *personal tragedy*.
-
-It’s also amazing how many of them genuinely believe that if they feel bad enough, the world will be obligated to comfort them.
-
-Ethan doesn’t reply for an hour.
-
-Which should have been a gift.
-
-Instead it’s the quiet before the weather front.
-
-By lunch I’ve had three missed calls.
-
-By mid-afternoon he’s discovered email.
-
-By four, there’s a notification from my building manager.
-
-**Someone is downstairs asking for you. Says it’s urgent.**
-
-I don’t even need to ask who.
-
-My stomach doesn’t drop anymore. It goes cold. Efficient. Clinical.
-
-I don’t leave my station. I don’t bolt. I don’t make it theatre.
-
-I walk to Lauren’s corner of the room—because Lauren is the adult in the civilian world the way Mara is the adult in fabric—and I keep my voice low.
-
-“He’s at my building,” I say.
-
-Lauren’s face changes. Not into panic. Into calculation.
-
-“Do you feel unsafe right now?” she asks.
-
-“No,” I say. “But he’s escalating.”
-
-Lauren nods once. “Okay. You’re not going home alone.”
-
-“I’m not going home at all,” I say.
-
-Lauren’s eyes flick to Mara, then back to me, as if checking what kind of support this room is allowed to give without turning into a rescue fantasy.
-
-“Bree,” Lauren calls, matter-of-fact. Not loud. Just… inevitable.
-
-Bree appears instantly, like she was waiting.
-
-Lauren’s voice stays calm. “Sarah’s got a boundary issue. You’re her buddy for the rest of the shift. She doesn’t walk to her car alone. She doesn’t go anywhere alone. Clear?”
-
-Bree’s grin is gone now. “Clear.”
-
-Mara doesn’t look up. She taps her pen once against the ledger—tick, tick—as if she’s underlining Lauren’s sentence in her own language: **standards.**
-
-Charli is at the cap table, and I feel her attention land on me like a soft hand. She doesn’t come over. She doesn’t insert herself.
-
-She just… holds the room steady by existing in it.
-
-Which is a strange kind of comfort.
-
-I text the building manager back.
-
-**Do not let him up. Tell him to leave. If he refuses, call police.**
-
-Then I screenshot that too.
-
-Evidence-gathering. Boring. Miraculous.
-
-An hour later, another message comes in—this time from Ethan, of course.
-
-> **Ethan:** You’re being insane.
-> **Ethan:** I’m not leaving until you talk to me.
-> **Ethan:** Don’t make me do something stupid.
-
-There it is.
-
-The classic line that tries to turn his behaviour into *my* responsibility.
-
-My hands don’t shake. That’s the gift of being furious.
-
-I show Lauren the screen.
-
-Lauren’s jaw tightens, and she says, very quietly, “Nope.”
-
-Not “oh no.”
-
-Not “are you okay?”
-
-Just: **nope.**
-
-The word of a woman who has seen this move before and has zero intention of playing.
-
-“Right,” she says. “We go formal.”
-
-I blink. “Already?”
-
-Lauren’s gaze is steady. “Sarah, he’s using implied threat language and turning up at your home. That’s already formal.”
-
-I exhale slowly, because she’s right, and because I hate being right about men.
-
-Lauren pulls her phone out, taps once, twice.
-
-“Leave it with me,” she says. “You keep screenshots. Dates. Times. Don’t reply. Don’t explain. Don’t negotiate.”
-
-It’s such a Lauren sentence: a list that becomes a lifeline.
-
-Bree leans in beside me. “I’ll stay at yours tonight,” she says, like it’s nothing, like she’s offering to water a plant. “Or you stay at mine. Dealer’s choice.”
-
-I look at her, touched in a way that is infuriating.
-
-“I’m fine,” I say automatically.
-
-Bree raises an eyebrow. “You’re not fine, babe. You’re just competent.”
-
-Fair.
+That keeps it grounded and avoids turning the story into a crime procedural.
 
 ---
 
-By the time the shift ends, I have a plan.
+## Suggested scene packaging (so it flows)
 
-Not a dramatic plan.
+If you like numbering continuity, I’d do:
 
-A boring plan.
+* **Scene 41 — “Radiant” (Sarah POV)**: Wardrobe day, Faire actresses arrive; Lily on Bree’s arm; Sarah’s quiet awakening.
+* **Scene 42 — “Carl” (Sarah POV)**: meet-cute + first dates; Carl as genuinely decent.
+* **Scene 43 — “Honest” (Sarah POV)**: Sarah tries, realises it’s not attraction; ends it clean; guilt.
+* **Scene 44 — “Not a Blanket” (Sarah POV)**: solo night out → too much drink → sudden illness → calls Lauren → sleeps at Lauren’s → morning realisation.
 
-Lauren drives, Bree in the passenger seat, me in the back like a teenager being escorted home after a questionable party.
-
-It’s humiliating.
-
-Which means it’s good for me.
-
-We don’t go to my building. We don’t reward his persistence with my presence. We go to Bree’s place first, because Bree has the kind of tiny apartment where a man would look ridiculous standing outside.
-
-Lauren calls my building manager while we’re parked.
-
-Her tone is polite enough to pass, steel enough to cut glass.
-
-“Yes, thank you… no, I understand… please document that in your log… yes, call immediately if he returns… yes, we will be taking further steps.”
-
-She ends the call and looks at me.
-
-“He left,” she says. “But he’ll come back. So we close the loop.”
-
-I swallow. “What loop.”
-
-“The one where he thinks access is negotiable,” Lauren says.
-
-We spend the next hour doing paperwork in the most unromantic way possible: names, times, screenshots, a short statement that says exactly what happened and nothing more.
-
-Lauren doesn’t embellish. She doesn’t plead. She doesn’t tell a story.
-
-She gives facts.
-
-It’s terrifying how effective facts are when a woman uses them like a blade.
-
-By the end of the night, I have an interim safety plan, a number to call, and a list of instructions so dull they could be a laundry guide.
-
-Bree makes tea. Not to soothe. To keep us upright.
-
-When Lauren finally stands to leave, she pauses at the door.
-
-“Sarah,” she says, and her voice softens just a notch. “This isn’t your fault.”
-
-I roll my eyes because I need to.
-
-“I know.”
-
-Lauren’s gaze doesn’t let me wriggle away.
-
-“No,” she repeats gently. “*Really* know.”
-
-I look away. Then back.
-
-“I know,” I say again, and this time I mean it.
-
-Lauren nods once, satisfied.
-
-“I’ll check on you tomorrow,” she says. “And if he appears at Wardrobe, Mara will eat him alive.”
-
-“Delicately,” Bree adds.
-
-Lauren’s mouth twitches. “With a fork.”
-
-She leaves.
-
-Bree locks the door behind her, then looks at me with something like a sister’s appraisal.
-
-“You want to go out tomorrow night?” she asks. “Just… shake it off?”
-
-I huff. “You think I need shaking off.”
-
-Bree points at me. “You need reminding that your life doesn’t belong to some man who can’t boil pasta.”
-
-I hate that she’s right.
-
-So I say, “Fine.”
+To get momentum, I can write Scene 41 fully now, then keep going. Here’s Scene 41 👇
 
 ---
 
-The next night, I dress like myself.
+## **Scene 41 — “Radiant” (Sarah POV)**
 
-Not sexy. Not soft. Not “approachable.”
+Wardrobe gets a particular kind of busy when the Faire women come in.
 
-I put on black jeans and boots and a top that says: **I know where my keys are**.
+It’s not the everyday rhythm—steam and pins and Mara’s shears making their soft, confident threats. It’s something more theatrical: colour arriving, laughter arriving, the faint perfume of other lives. Actresses bring a kind of light with them. Not always pleasant, but undeniable.
 
-We go to a place Bree likes—music, crowd, women who laugh like they own their lungs.
+They came in after lunch, a cluster of them, skirts and tote bags and big opinions. The room tightened into competence automatically: stations ready, fittings scheduled, tape measures uncoiled like quiet authority.
 
-For the first hour, it works.
+I was on my stool with a coffee, watching the threshold the way I always did—half habit, half sport—when Bree walked in with someone on her arm.
 
-I loosen. I laugh. I even forget to look at the door.
+Not literally. Bree’s not a Victorian gentleman. But the posture was the same: the subtle lean toward, the easy angle of her shoulder, the way her body said *this person belongs with me* without needing to announce it.
 
-Then a man slides into our orbit like smoke.
+Lily.
 
-He’s not Ethan. He’s the *same type*, just with better hair.
+I’d seen Lily before. Everyone had. Lily was one of those women who made a room adjust itself—hair like a promise, laugh like she’d never once asked permission to take up space. She’d always been charming in a way that made me roll my eyes because I don’t trust charming.
 
-He talks to Bree as if I’m invisible, then talks to me as if I’m a resource. He’s charming in the way men are charming when they’re used to women smoothing the awkward parts for them.
+But today she wasn’t performing.
 
-I can feel myself tensing—old instincts waking up.
+Today she was… *lit.*
 
-Bree clocks it and leans into my ear.
+She walked in beside Bree and the two of them had that private, bright current running between them—little glances, tiny touches, the kind of unforced coordination you only get when two people have stopped negotiating whether they’re allowed to want each other.
 
-“Want me to bite him?” she whispers.
+Bree’s grin was wide and unashamed.
 
-“I want you to set him on fire,” I mutter.
+Lily’s hand brushed Bree’s wrist as they crossed the room, not coy, not possessive. Just… natural. Like reaching for warmth.
 
-Bree snorts.
+And it hit me—harder than I expected—that they looked happy.
 
-I decide to handle it like an adult.
+Not “posting online” happy.
 
-I say, clear and calm, “We’re not interested.”
+Not “prove something” happy.
 
-He smiles as if I’ve flirted.
+Happy like a body that has stopped bracing.
 
-“Aw, come on,” he says. “Don’t be like that.”
+I watched them as they moved toward the fitting area. Bree said something under her breath and Lily laughed—real laughter, head tipping back, eyes closing for half a beat. Bree’s face softened in response, like her whole nervous system had learned the shape of that sound.
 
-I feel the rage flicker—cold, familiar.
+I felt a strange, unwelcome thought rise up in me:
 
-“Like what,” I say, sweetly. “A woman who said no?”
+*That looks… nice.*
 
-His smile tightens.
+Then another one, even worse, because it arrived with zero moral framing and no permission slip from my brain:
 
-“Oh,” he says. “You’re one of those.”
+*And she’s beautiful.*
 
-Bree’s eyes flash. “And you’re one of *those*,” she replies, bright as a knife.
+I didn’t mean it as competition. I didn’t mean it as envy. I meant it as a fact my eyes observed, the way my eyes observe fabric quality.
 
-He laughs like we’re entertainment. He reaches for my elbow.
+Lily was objectively gorgeous.
 
-My whole body goes still.
+But that wasn’t what made my stomach tilt.
 
-Not fear.
+It was the way Bree looked at her like she was the only thing in the room worth orienting toward.
 
-History.
+Bree — who could be loud, chaotic, generous, irritating, wonderful — looked *quietly devoted.*
 
-I step back.
+It wasn’t a joke. It wasn’t a phase. It wasn’t a “girls being silly” interlude before returning to a man-shaped life.
 
-“Don’t touch me,” I say.
+It was… real.
 
-He lifts both hands in mock surrender.
+I swallowed and made myself take a sip of coffee, because I needed my hands to do something that wasn’t betraying me.
 
-“Relax.”
+Lily spotted Charli at the cap table and waved.
 
-Bree’s hand is suddenly on my back, steady.
+“Oh my god,” she called, delighted. “Look at you! You’re… you’re so *proper* now.”
 
-“We’re leaving,” she says.
+Charli flushed, smiling in that bashful way she still had even with all her new steadiness.
 
-And we do.
+“Hi,” Charli said, and didn’t apologise for the attention. Didn’t duck. Didn’t shrink.
 
-We walk out into the night air, and it’s like walking from heat into cold water.
+She took the compliment like a girl who had learned she didn’t have to throw gifts back into people’s faces for safety.
 
-My hands are shaking now.
+Celeste glanced up from the ledger, calm as ever, and nodded once at Lily—polite, controlled, adult.
 
-Bree looks at me. “You okay?”
+Then her gaze flicked to Charli for half a beat, and I caught it: the softness she tried so hard to hide.
 
-I open my mouth to say yes.
+Wardrobe saw everything. Even when people pretended it didn’t.
 
-Instead I say, “I’m furious.”
+Mara clapped her hands once—sharp, decisive.
 
-Bree nods, satisfied. “Good. Fury’s honest.”
+“Right,” she said. “You. Fitting room. You. Table. Stop talking and start standing still.”
 
-We should go home.
+The actresses laughed and obeyed, because Mara was the closest thing this room had to gravity.
 
-We don’t.
+Lily stepped closer to Bree and said, low but not private enough for my sharp ears not to catch it:
 
-Because I’m stubborn, and because part of me wants to prove I’m not a woman who has to retreat.
+“You’re coming over tonight, yeah?”
 
-So when Bree suggests a quieter bar two streets over, I say yes.
+Bree’s grin went lazy and warm. “Obviously.”
 
-And there—there is where I make my mistake.
+No apology. No awkwardness. No “if you want.” No “unless you’re busy.” No negotiation.
 
-I drink too fast.
+Just yes.
 
-Not because I’m trying to get drunk.
+And in my chest, something shifted.
 
-Because my nervous system is trying to come down and I’m sick of being vigilant.
+Not jealousy.
 
-One drink becomes two. Two becomes three.
+Not longing, not yet.
 
-My body softens before my mind is ready for it.
+Something more uncomfortable:
 
-And then my phone buzzes.
+recognition.
 
-A blocked number.
+A kind of internal data point landing with a quiet thud: *that’s what it looks like when the wanting isn’t a problem.*
 
-My stomach clenches.
+When the wanting isn’t shameful.
 
-Another buzz.
+When the wanting doesn’t turn you into someone’s domestic function.
 
-Another.
+When it’s just… two women, deciding.
 
-Bree’s face tightens when she sees mine.
+I sat there on my stool, coffee cooling, and watched Bree and Lily disappear into the fitting area together—Bree stepping aside to hold the curtain, Lily’s hand brushing her shoulder as she passed—and I realised, with faint annoyance, that I’d been holding my breath.
 
-“It’s him,” I say.
+I let it out slowly.
 
-Bree grabs my hand. “We’re going. Now.”
+Then I did what I always did when something hit too close:
 
-But the street tilts a little when I stand. Not dramatic. Just enough.
+I made it a joke in my own head.
 
-Bree swears softly. “Okay. Okay. We’re fine. We get a rideshare—”
+*Well,* I thought, dryly, *that’s inconvenient.*
 
-My brain does a quick, ugly calculation: my address, my building, Ethan’s persistence, the risk of being dropped at the wrong place, the risk of fumbling keys.
+Because once you’ve seen a kind of happiness up close—real, radiant, unforced—it becomes very difficult to pretend you don’t know what you’re missing.
 
-I do the only competent thing left.
+---
 
-I call the most competent woman I know who will not ask questions first.
-
-Lauren.
-
-She answers on the second ring.
-
-“Sarah?”
-
-My voice comes out too careful.
-
-“Lauren,” I say. “I need you.”
-
-There’s no sigh. No judgement. No lecture.
-
-Just immediate clarity.
-
-“Where are you?” she asks.
-
-I tell her.
-
-“Stay where you are,” she says. “With Bree?”
-
-“Yes.”
-
-“Good. I’m coming.”
-
-I blink hard, suddenly close to tears, which is ridiculous.
-
-“Thank you,” I manage.
-
-Lauren’s voice stays firm.
-
-“No thanks,” she says. “Just sit down and wait. I’ll be there.”
-
-The line clicks off.
-
-Bree wraps an arm around my shoulders, guiding me to a bench like I weigh nothing.
-
-“You did good,” she says.
-
-I laugh once, sharp and humourless.
-
-“I called someone’s mum.”
-
-Bree grins. “Better than becoming someone’s mum.”
-
-I close my eyes for a second and breathe in the night.
-
-And in the small, humiliating quiet of needing help, something in me loosens—something stubborn and old.
-
-Maybe competence isn’t never needing anyone.
-
-Maybe it’s knowing exactly which woman to call when the world goes pear-shaped.
+If you want, I’ll write **Scene 42 (“Carl”)** next — and I’ll make Carl genuinely likeable, respectful, emotionally literate… and still wrong for her, in a way that hurts *because* he’s decent. That’s the exact antidote to the trope you’re worried about. 💛
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -1395,558 +191,416 @@ Maybe it’s knowing exactly which woman to call when the world goes pear-shaped
 
 
 
+
+
+
+
+## Notes26-01-23e
+### was Scene 41
+
+[26-01-23]
+
+**Scene 41 — “Radiant” (Sarah POV)**
+
+Wardrobe gets a particular kind of busy when the Faire women come in.
+
+It’s not the everyday rhythm—steam and pins and Mara’s shears making their soft, confident threats. It’s something more theatrical: colour arriving, laughter arriving, the faint perfume of other lives. Actresses bring a kind of light with them. Not always pleasant, but undeniable.
+
+They came in after lunch, a cluster of them, skirts and tote bags and big opinions. The room tightened into competence automatically: stations ready, fittings scheduled, tape measures uncoiled like quiet authority.
+
+I was on my stool with a coffee, watching the threshold the way I always did—half habit, half sport—when Bree walked in with someone on her arm.
+
+Not literally. Bree’s not a Victorian gentleman. But the posture was the same: the subtle lean toward, the easy angle of her shoulder, the way her body said *this person belongs with me* without needing to announce it.
+
+Lily.
+
+I’d seen Lily before. Everyone had. Lily was one of those women who made a room adjust itself—hair like a promise, laugh like she’d never once asked permission to take up space. She’d always been charming in a way that made me roll my eyes because I don’t trust charming.
+
+But today she wasn’t performing.
+
+Today she was… *lit.*
+
+She walked in beside Bree and the two of them had that private, bright current running between them—little glances, tiny touches, the kind of unforced coordination you only get when two people have stopped negotiating whether they’re allowed to want each other.
+
+Bree’s grin was wide and unashamed.
+
+Lily’s hand brushed Bree’s wrist as they crossed the room, not coy, not possessive. Just… natural. Like reaching for warmth.
+
+And it hit me—harder than I expected—that they looked happy.
+
+Not “posting online” happy.
+
+Not “prove something” happy.
+
+Happy like a body that has stopped bracing.
+
+I watched them as they moved toward the fitting area. Bree said something under her breath and Lily laughed—real laughter, head tipping back, eyes closing for half a beat. Bree’s face softened in response, like her whole nervous system had learned the shape of that sound.
+
+I felt a strange, unwelcome thought rise up in me:
+
+*That looks… nice.*
+
+Then another one, even worse, because it arrived with zero moral framing and no permission slip from my brain:
+
+*And she’s beautiful.*
+
+I didn’t mean it as competition. I didn’t mean it as envy. I meant it as a fact my eyes observed, the way my eyes observe fabric quality.
+
+Lily was objectively gorgeous.
+
+But that wasn’t what made my stomach tilt.
+
+It was the way Bree looked at her like she was the only thing in the room worth orienting toward.
+
+Bree — who could be loud, chaotic, generous, irritating, wonderful — looked *quietly devoted.*
+
+It wasn’t a joke. It wasn’t a phase. It wasn’t a “girls being silly” interlude before returning to a man-shaped life.
+
+It was… real.
+
+I swallowed and made myself take a sip of coffee, because I needed my hands to do something that wasn’t betraying me.
+
+Lily spotted Charli at the cap table and waved.
+
+“Oh my god,” she called, delighted. “Look at you! You’re… you’re so *proper* now.”
+
+Charli flushed, smiling in that bashful way she still had even with all her new steadiness.
+
+“Hi,” Charli said, and didn’t apologise for the attention. Didn’t duck. Didn’t shrink.
+
+She took the compliment like a girl who had learned she didn’t have to throw gifts back into people’s faces for safety.
+
+Celeste glanced up from the ledger, calm as ever, and nodded once at Lily—polite, controlled, adult.
+
+Then her gaze flicked to Charli for half a beat, and I caught it: the softness she tried so hard to hide.
+
+Wardrobe saw everything. Even when people pretended it didn’t.
+
+Mara clapped her hands once—sharp, decisive.
+
+“Right,” she said. “You. Fitting room. You. Table. Stop talking and start standing still.”
+
+The actresses laughed and obeyed, because Mara was the closest thing this room had to gravity.
+
+Lily stepped closer to Bree and said, low but not private enough for my sharp ears not to catch it:
+
+“You’re coming over tonight, yeah?”
+
+Bree’s grin went lazy and warm. “Obviously.”
+
+No apology. No awkwardness. No “if you want.” No “unless you’re busy.” No negotiation.
+
+Just yes.
+
+And in my chest, something shifted.
+
+Not jealousy.
+
+Not longing, not yet.
+
+Something more uncomfortable:
+
+recognition.
+
+A kind of internal data point landing with a quiet thud: *that’s what it looks like when the wanting isn’t a problem.*
+
+When the wanting isn’t shameful.
+
+When the wanting doesn’t turn you into someone’s domestic function.
+
+When it’s just… two women, deciding.
+
+I sat there on my stool, coffee cooling, and watched Bree and Lily disappear into the fitting area together—Bree stepping aside to hold the curtain, Lily’s hand brushing her shoulder as she passed—and I realised, with faint annoyance, that I’d been holding my breath.
+
+I let it out slowly.
+
+Then I did what I always did when something hit too close:
+
+I made it a joke in my own head.
+
+*Well,* I thought, dryly, *that’s inconvenient.*
+
+Because once you’ve seen a kind of happiness up close—real, radiant, unforced—it becomes very difficult to pretend you don’t know what you’re missing.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
 
 
 ## Notes26-02-04ev1
-### Omni version
-
-<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+###<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-04]
 
-**Scene 44 — “Keys” (Lauren POV, past tense)**
+**Scene 45 — “A House Can Burn, A Woman Doesn’t” (Lauren POV, past tense)**
 
----
+The workroom was already hot by eight-thirty.
 
-The next morning, Sarah didn’t ask how Lauren had slept.
+Not just the weather—though the Queensland air had been thick from dawn, all bright sun and humid promise—but the heat of an order that had arrived like a challenge and refused to be small.
 
-She looked at her once—eyes sharp, assessing—and said, “Eat.”
+Les Misérables.
 
-Lauren sat at the small table, hands wrapped around a mug, trying to make her body behave like it was a normal Tuesday. The toast was warm. The air was already bright with Queensland sun, the kind that made you sweat just thinking about leaving the house.
+It sat on the central table in printouts and reference images and rough sketches that multiplied like rabbits: nineteenth-century silhouettes, worn hems, patched elbows, bodices that had to look lived-in without looking sloppy. Fabrics chosen not just for accuracy but for survival—breathable, light, forgiving under stage heat.
 
-Sarah moved through the kitchen like a woman who had decided fear did not get to run the schedule. Kettle. Plates. Knife. No dithering, no emotional fog.
+And the numbers.
 
-Lauren took a bite because Sarah was watching her mouth, not in a controlling way, but in the way you watched someone you were determined to keep upright.
+The numbers were the part that made you swallow.
 
-Sarah’s phone buzzed once, then again. A message.
+Mara had taken one look at the quantity list and said, “Right,” in that calm voice she used when she was about to do something difficult without drama.
 
-Sarah glanced at it, expression shifting into that controlled stillness—predatory calm, not panic. She didn’t pick it up straight away. She finished what she was doing first, as if demonstrating that urgency didn’t own her.
+Celeste had gone still for half a second—then leaned forward, eyes bright, like the sheer scale had flicked a switch in her. The switch that turned stress into focus.
 
-Then she read the message.
+“This is doable,” she said, and it wasn’t optimism. It was a decision. “We just don’t do it the way we’ve always done it.”
 
-A faint, humourless smile appeared at one corner of her mouth.
+Sarah had arrived with her hair pinned up and a coffee that looked lethal. She glanced at the fabric swatches and said, “Thank God. I’m sick of pretending everyone in the eighteenth century was comfortable.”
 
-“Oh,” Sarah said. “That’s *interesting*.”
+And Charli—
 
-Lauren’s stomach tightened. “What is?”
+Charli was at the cutting table with pattern paper spread out like a map, pencil in hand, brow furrowed in concentration.
 
-Sarah leaned her hip against the counter and looked at Lauren the way she did when she was about to deliver a fact that would change how you moved through the day.
+Lauren watched her for a moment longer than she meant to.
 
-“Lucy just told me why Roger suddenly came home,” she said.
+Charli moved differently now.
 
-Lauren blinked. The words felt too casual for what they implied.
+Not flamboyantly, not in a way you could point at and announce. Just… softer at the edges. Less braced. More present. Her hands were steady, and when Celeste leaned in to murmur something—an adjustment, a suggestion—Charli’s shoulders didn’t jump. She didn’t flinch away from attention. She absorbed it like sunlight.
 
-“Why?”
+It still startled Lauren sometimes, how much safety changed a person.
 
-Sarah’s eyes narrowed, amused and contemptuous at once.
+How quickly.
 
-“Because he got dumped,” she said. “By his ‘friend.’”
+“How many Fantines?” Bree called from the other side of the room, voice bright with mischief.
 
-Lauren stared at her, not quite understanding at first—the idea felt absurd, almost cartoonish, until it landed properly.
+“Not enough,” Sarah called back. “We’ll do a whole chorus of suffering, it’s Queensland, everyone’s already sweating.”
 
-“Dumped,” Lauren repeated.
+Bree laughed. Lily’s laugh followed—lower, closer—like the two of them shared a private frequency.
 
-Sarah nodded, brisk. “She told him she wasn’t interested anymore. Probably realised he wasn’t a romance; he was a liability.” A pause. “He’s told Lucy, apparently. Confided. Like Lucy is his priest.”
+Lauren took a breath and moved into the rhythm of the workroom, clipboard in hand, brain shifting into logistics. Measurements. Material. Labour hours. Triage. Who could do what fastest without sacrificing quality.
 
-Lauren made a sound that wasn’t a laugh, exactly. It came out thin and stunned.
+She was halfway through writing “linen blend, breathable, midweight” when Celeste looked up.
 
-“So… he came back because—”
+“Lauren,” Celeste said, and even her voice sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I want options by lunch.”
 
-“Because he lost his second option,” Sarah finished. Her tone made the truth feel clean, like a surface wiped down. “Not because he found his conscience.”
+Lauren nodded. “On it.”
 
-Lauren felt something twist inside her. Not heartbreak. Not jealousy. A kind of cold clarity—almost relief.
+She turned toward the desk, already reaching for her phone, when the front bell chimed.
 
-It was so grotesquely ordinary, the logic of it.
+It was a bright little sound, usually cheerful.
 
-Lauren’s gaze dropped to the table. She stared at a crumb as if it were an interesting document.
+Today it landed like a warning.
 
-Sarah’s voice softened slightly—not into sympathy, but into resolve.
+Lauren looked up and saw Roger in the doorway.
 
-“Two losses close together,” Sarah said. “That makes a man like Roger desperate. And desperate men do stupid things.”
+For a moment her mind refused to process it. The sight of him felt wrong in this space, like a muddy shoe on clean fabric. He stood just inside, scanning the room with that same proprietary look he used in their house—as if the world was made of things he could walk into and claim.
 
-Lauren’s throat tightened. “He knows where I work.”
+He had remembered to put on the polite face. That was what made Lauren’s stomach tighten.
 
-“I know,” Sarah said. “He also knows where I live. And where Lucy lives. He dropped us home once, after that staff party.” Sarah’s mouth curved. “Which also answers your other question about how he got my number. Men are very good at collecting access.”
+Polite faces meant performance.
 
-Lauren flinched at the accuracy. She thought of Roger’s casual confidence—his assumptions that other people’s boundaries were negotiable if he just pushed with enough entitlement.
+Sarah saw him too. Her whole posture changed—shoulders squared, chin slightly lifted, eyes sharpening to a point.
 
-Sarah set her mug down with a quiet clink that sounded like a decision.
+Mara didn’t look flustered. She simply set her scissors down and stood, very still, very solid.
 
-“Right,” she said. “Here’s what’s happening.”
+Celeste’s gaze flicked to Lauren—not asking permission, not seeking direction. Simply checking, *Are we safe? What do you want?*
 
-Lauren looked up.
+Lauren’s heart hammered.
 
-Sarah pointed the butter knife toward the front door—not threatening, just emphatic.
+But she was not alone.
 
-“You’re staying here,” Sarah said. “Until the dust settles.”
+That was the difference.
 
-Lauren’s voice came out small. “But I have to—”
+Roger took a step forward. “Lauren.”
 
-“No,” Sarah cut in. “You don’t have to do anything except leave safely.” She held Lauren’s gaze. “Today you go back to the house while he’s at work and you get your essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then you leave. Completely.”
+Hearing her name in his voice, in *this* room, made something in her recoil. She felt the old reflex—smooth it over, contain it, manage the optics—rise like a ghost.
 
-Lauren’s hands tightened around the mug.
+Sarah moved first.
 
-“What about… furniture? Appliances?” Lauren asked, and the words tasted ridiculous as soon as they left her mouth. She had spent years treating objects like anchors because she couldn’t imagine having none.
+“Hi,” Sarah said, tone flat, unfriendly in the most civil way. “No.”
 
-Sarah’s eyes were flat.
+Roger’s eyes snapped to her. He tried to smile. It didn’t reach his eyes.
 
-“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
+“This is between me and my wife,” he said.
 
-Lauren’s breath hitched.
+Sarah’s mouth twitched. “Everything men do is apparently between them and their wives.”
 
-Sarah’s voice lowered. “Lauren, listen to me. Men like Roger designed the paperwork for this exact moment. Everything in his name so you’d feel trapped. That’s the trick.”
+Roger’s jaw tightened. He turned back to Lauren as if Sarah wasn’t worth engaging. That dismissiveness—so automatic, so entitled—made Lauren’s hands curl around the clipboard.
 
-Lauren swallowed. The shame rose and tried to take up space.
+“Lauren,” Roger said, voice dropping into that intimate threat that had worked for years. “We need to talk.”
 
-Sarah saw it and cut it off before it could speak.
+Lauren’s mouth went dry.
 
-“You’re not stupid,” Sarah said. “You were strategic. You were surviving.”
+Mara stepped forward—not aggressively, just occupying space like a fact. “This is a workplace,” she said. “You can state your business or you can leave.”
 
-Lauren’s eyes stung.
+Roger looked at Mara like he was surprised she existed.
 
-Sarah continued, calm and ruthless in her practicality.
+Lauren felt something in her chest cool into clarity.
 
-“You get your essentials out today,” Sarah said. “You hand in your keys in a way that’s final. And after that you do not go back alone. Ever. If you need more later, we go as a group. Or we go with police. But you do not go back like a good little wife trying to be civil. Civil is how he gets you back in the room.”
+She was in Wardrobe.
 
-Lauren stared at her.
+He could not trap her here.
 
-There was no softness in Sarah’s plan. No sentimental fantasy of “closure.” Just the clean architecture of safety.
+Lauren took one step forward, just enough to be seen as the one speaking. She didn’t go too close. She didn’t offer him proximity.
 
-It was frightening.
+“What do you want, Roger?” she asked.
 
-It was also… intoxicating.
+His eyes narrowed. He’d expected fluster. Tears. Pleading.
 
-Lauren heard her own voice come out steadier than she expected.
+He didn’t get it.
 
-“Okay,” she said.
+He leaned into anger instead.
 
-Sarah nodded once, satisfied. “Good.”
+“I want you to understand what you’ve done,” he said. “You’ve embarrassed me. You’ve made me look like—”
 
-She turned her attention to logistics, because Sarah could not sit in emotion for long without turning it into something useful.
+Lauren held up a hand, calm.
 
-“Your car,” Sarah said. “Fuel?”
+“I’m not discussing your feelings,” she said. “Speak to the point.”
 
-“Half,” Lauren replied automatically.
+Roger’s nostrils flared. He swallowed, then delivered the weapon he thought would work every time.
 
-“Top it up first,” Sarah ordered. “Not later. First. Then house. Then straight back here.” A pause. “And keep your phone on. If he calls, you don’t answer. If he texts, you screenshot. If he turns up at Wardrobe, you tell Celeste and you leave with someone.”
+“Fine,” he snapped. “I’m selling the house. I’ll pocket the proceeds. You’ll get nothing. You’ll be ruined.”
 
-Lauren nodded again.
+There it was.
 
-Sarah’s expression flickered—something like approval.
+Financial ruin as punishment.
 
-“And Lauren?” Sarah added.
+Control as sport.
 
-“Yes?”
+Lauren felt, to her surprise, a small laugh threaten at the back of her throat. Not because it was funny—but because it was so predictable.
 
-Sarah’s voice went a fraction quieter, which in Sarah was basically a hug.
+She looked at him steadily.
 
-“This is not you taking things,” she said. “This is you taking yourself.”
+“You think that’s a win?” Lauren asked, voice quiet.
 
-Lauren’s throat tightened so hard she couldn’t answer properly. She just nodded and looked down at her toast until her vision cleared.
+Roger blinked. “What?”
 
----
+Lauren could feel the women behind her—not crowding, not hovering, simply *present*. The workroom’s air was warm and busy and full of competence. Fabric lay in orderly stacks. Pattern paper waited like a plan.
 
-By late morning, the Hyundai i20 was running and the air inside it smelled faintly of old fabric and the vanilla air freshener Lauren had hung years ago. The steering wheel was warm under her hands.
+The house, suddenly, felt very far away.
 
-She drove to the house like she was driving to a place she used to live, not a place she belonged.
+“You think selling the house hurts me more than what you’ve already done?” Lauren said. She kept her tone calm on purpose. “Roger, that’s just property. It’s… bricks.”
 
-The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzing somewhere distant like a reminder that other people’s lives were still happening.
+Roger’s face reddened. “It’s everything we have.”
 
-Lauren parked, sat for a moment, and listened to her own breathing.
+Lauren’s eyes didn’t flicker.
 
-Her hands were steady.
+“It’s everything *you* have,” she corrected. “Because you made sure of that.”
 
-That surprised her most.
+Roger’s mouth opened, and Lauren saw the moment he realised she wasn’t frightened.
 
-Inside, the house felt exactly the way it always had: too neat in places, too neglected in others, the subtle imbalance of a home built around one person’s comfort.
+That was when his anger sharpened.
 
-Roger wasn’t there. Thank God.
+“I’ll make sure you regret this,” he said.
 
-Lauren moved quickly—not frantic, just efficient.
+Lauren felt her heart thud once. Then settle.
 
-Bedroom: clothes into a bag. Toiletries. Her own shampoo, her own face cream, the small items she’d once treated as “extras” because she was always saving money “just in case.”
+She spoke slowly, like she was choosing each word for maximum accuracy.
 
-In the study she took papers she could find—anything with her name on it, anything that looked important, anything that she might need to prove later that she existed in this marriage as more than a shadow.
+“You’ve lost what’s actually most precious in life,” she said. “You’ve lost your child.”
 
-Her hands didn’t linger on the furniture. The television. The framed photos.
+Roger scoffed immediately—dismissive, reflexive. “Don’t be dramatic.”
 
-They were objects that had been allowed to pretend they were stability.
+Lauren didn’t rise to it. She didn’t explain. She didn’t offer detail.
 
-Now, under this light, they looked like props.
+He didn’t deserve it.
 
-And in the middle of the stripping-down, Lauren had a sudden, unexpected sensation:
+She continued, colder now—not cruel, just finished.
 
-Freedom.
+“And you lost me,” Lauren said. “Ages ago.”
 
-Not the triumphant kind.
+For a fraction of a second Roger looked genuinely wrong-footed—as if he’d expected her to fight, to bargain, to claw for his approval like she used to.
 
-The quieter kind that came from realising that if everything of value was in Roger’s name by design—then leaving with nothing but her own belongings wasn’t humiliation.
+Then his face changed.
 
-It was escape.
+A flash of something ugly crossed it—rage, humiliation, a sense of being unmasked in public.
 
-Her most expensive asset was the little Hyundai.
+Lauren saw it in his shoulders. In his hands. In the way his body coiled forward like a spring.
 
-That and a few dresses and shoes she’d bought over the years when she’d been trying to remember she was allowed to look nice.
+The women behind her moved without a word.
 
-That and her body, her mind, her ability to earn.
+Mara stepped slightly to one side, blocking his line.
 
-That was enough.
+Sarah shifted closer to Lauren, not touching her but close enough that Lauren could feel the protective intent like heat.
 
-When she was finished, the house looked barely disturbed. Lauren almost laughed at the irony: she was leaving, and the place still wore the same mask.
+Celeste’s voice came, low and controlled.
 
-At the front door, she paused.
+“Lauren,” she said, and it wasn’t a question. It was a directive. “Inside.”
 
-The keys were in her palm. Warm from her skin.
+Lauren didn’t hesitate.
 
-She walked back to the kitchen table—the same table where she’d once served dinner like a peace offering—and placed the keys down gently, as if returning something she’d borrowed too long.
+She stepped backward—one step, then another—retreating into the workroom’s bright safety, into the circle of women who did not negotiate with men who tried to explode.
 
-Then she went to the door.
+Roger took a step after her.
 
-She locked it from the inside, the way you could, if you knew the trick. A final act, done on her terms.
+Sarah’s voice cut like a blade.
 
-She stepped out, pulled the door closed behind her, and felt the click echo in her chest.
+“Do not follow her.”
 
-For a moment she stood on the doorstep and looked at the house.
+Roger’s eyes snapped to Sarah. “You can’t stop me—”
 
-It didn’t look like a battlefield.
+Mara’s voice was calm, the kind that made police feel inevitable.
 
-That was the point. The most vicious wars often didn’t leave scorch marks. They left habits.
+“Yes,” Mara said. “We can.”
 
-Lauren turned away.
+Roger’s breathing went harsh. His hands flexed. For a moment Lauren truly thought he might do something stupid.
 
-She walked to her car.
+Then, as if some part of him remembered consequences existed when women weren’t alone, he spat a final line—something about lawyers, about regret, about being ungrateful.
 
-She drove back to Sarah’s with the sun hot on the bonnet and the air-conditioning doing its earnest best, and she didn’t once check the rear-view mirror for Roger’s car, because she refused to rehearse fear before it arrived.
+Lauren barely heard it.
 
----
+Because she had already turned away.
 
-Sarah opened the door before Lauren had even reached it, as if she’d been watching the clock with the kind of vigilance that wasn’t anxiety so much as commitment.
+She walked back to the central table where the Les Mis patterns were spread, where Charli stood with pencil poised mid-line, eyes wide but steady.
 
-“Good?” Sarah asked.
+Charli looked at Lauren—question in her face, compassion held back so it wouldn’t overwhelm.
 
-Lauren lifted the bags slightly. “Essentials.”
+Lauren realised, with a small shock, that she was not shaking.
 
-Sarah’s eyes flicked over the bags like an inventory, then she nodded once, approving.
+Her hands were steady on the clipboard.
 
-“Perfect,” she said. “Come in.”
+The confrontation hadn’t stolen her competence.
 
-Lauren stepped inside and felt the cool of the hallway wrap around her like a held breath released.
+That was new.
 
-Sarah took one bag and carried it down the hall, then returned and held out her hand.
+Sarah came back in and let the door close behind her with firm finality.
 
-In her palm was a key.
+The bell chimed again—bright, almost cheerful.
 
-Not Roger’s key.
+Outside, Roger’s car door slammed.
 
-Not a borrowed key that implied temporary mercy.
+Then the engine started. Then it faded.
 
-A simple spare key on an unremarkable ring.
+Inside Wardrobe, the women exhaled as one organism.
 
-“Yours,” Sarah said.
+Celeste turned to the table and tapped the pattern paper once, crisp.
 
-Lauren stared at it.
+“Right,” she said. “Back to work.”
 
-Sarah’s voice was matter-of-fact, but her eyes were steady, unmistakable.
+Mara nodded. “We do not let him steal our day.”
 
-“You’re not a guest,” Sarah said. “You’re safe.”
+Sarah lifted her coffee and took a calm sip. “Let him sell his precious house,” she said. “He can live in it alone and talk to the walls.”
 
-Lauren took the key.
+A small laugh went around the room—not cruel, not triumphant. Just… relief.
 
-It was small. Ordinary. Heavy with meaning.
+Lauren looked down at the sketches again.
 
-She stood there for a moment with the metal warming in her palm, looking at it as if it might dissolve.
+Nineteenth-century seams. Hardship made costume. A chorus of women on stage wearing garments Wardrobe would build.
 
-Then she closed her fingers around it.
+She felt, unexpectedly, the faintest hint of satisfaction.
 
-Not tightly.
+Roger could sell the house.
 
-Just… deliberately.
+Roger could pocket his proceeds.
 
-*End Scene 44.*
+He could keep every physical thing he’d collected as proof of power.
+
+But he could not reach her here.
+
+And that—Lauren thought, as her pen moved across the page again—was the first real wealth she’d ever owned.
+
+*End Scene 45.*
+
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## Notes26-02-06ev2
-### Omni Version
-
-🌙🔑 Keys 🌙🔑
-
-<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-[26-02-06]
- 😌🍋✨😌🧵💪
-
-**Scene 44 — “Keys” (Lauren POV, past tense)**
-
-The next morning, Sarah didn’t ask how Lauren had slept.
-
-She looked at her once—eyes sharp, assessing—and said, “Eat.”
-
-Lauren sat at the small table, hands wrapped around a mug, trying to make her body behave like it was a normal Tuesday. The toast was warm. The air was already bright with Queensland sun, the kind that made you sweat just thinking about leaving the house.
-
-Sarah moved through the kitchen like a woman who had decided fear did not get to run the schedule. Kettle. Plates. Knife. No dithering, no emotional fog.
-
-Lauren took a bite because Sarah was watching her mouth, not in a controlling way, but in the way you watched someone you were determined to keep upright.
-
-Sarah’s phone buzzed once, then again. A message.
-
-Sarah glanced at it, expression shifting into that controlled stillness—predatory calm, not panic. She didn’t pick it up straight away. She finished what she was doing first, as if demonstrating that urgency didn’t own her.
-
-Then she read the message.
-
-A faint, humourless smile appeared at one corner of her mouth.
-
-“Oh,” Sarah said. “That’s *interesting*.”
-
-Lauren’s stomach tightened. “What is?”
-
-Sarah leaned her hip against the counter and looked at Lauren the way she did when she was about to deliver a fact that would change how you moved through the day.
-
-“Lucy just told me why Roger suddenly came home,” she said.
-
-Lauren blinked. The words felt too casual for what they implied.
-
-“Why?”
-
-Sarah’s eyes narrowed, amused and contemptuous at once.
-
-“Because he got dumped,” she said. “By his ‘friend.’”
-
-Lauren stared at her, not quite understanding at first—the idea felt absurd, almost cartoonish, until it landed properly.
-
-“Dumped,” Lauren repeated.
-
-Sarah nodded, brisk. “She told him she wasn’t interested anymore. Probably realised he wasn’t a romance; he was a liability.” A pause. “He’s told Lucy, apparently. Confided. Like Lucy is his priest.”
-
-Lauren made a sound that wasn’t a laugh, exactly. It came out thin and stunned.
-
-“So… he came back because—”
-
-“Because he lost his second option,” Sarah finished. Her tone made the truth feel clean, like a surface wiped down. “Not because he found his conscience.”
-
-Lauren felt something twist inside her. Not heartbreak. Not jealousy. A kind of cold clarity—almost relief.
-
-It was so grotesquely ordinary, the logic of it.
-
-Lauren’s gaze dropped to the table. She stared at a crumb as if it were an interesting document.
-
-Sarah’s voice softened slightly—not into sympathy, but into resolve.
-
-“Two losses close together,” Sarah said. “That makes a man like Roger desperate. And desperate men do stupid things.”
-
-Lauren’s throat tightened. “He knows where I work.”
-
-“I know,” Sarah said. “He also knows where I live. And where Lucy lives. He dropped us home once, after that staff party.” Sarah’s mouth curved. “Which also answers your other question about how he got my number. Men are very good at collecting access.”
-
-Lauren flinched at the accuracy. She thought of Roger’s casual confidence—his assumptions that other people’s boundaries were negotiable if he just pushed with enough entitlement.
-
-Sarah set her mug down with a quiet clink that sounded like a decision.
-
-“Right,” she said. “Here’s what’s happening.”
-
-Lauren looked up.
-
-Sarah pointed the butter knife toward the front door—not threatening, just emphatic.
-
-“You’re staying here,” Sarah said. “Until the dust settles.”
-
-Lauren’s voice came out small. “But I have to—”
-
-“No,” Sarah cut in. “You don’t have to do anything except leave safely.” She held Lauren’s gaze. “Today you go back to the house while he’s at work and you get your essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then you leave. Completely.”
-
-Lauren’s hands tightened around the mug.
-
-“What about… furniture? Appliances?” Lauren asked, and the words tasted ridiculous as soon as they left her mouth. She had spent years treating objects like anchors because she couldn’t imagine having none.
-
-Sarah’s eyes were flat.
-
-“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
-
-Lauren’s breath hitched.
-
-Sarah’s voice lowered. “Lauren, listen to me. Men like Roger designed the paperwork for this exact moment. Everything in his name so you’d feel trapped. That’s the trick.”
-
-Lauren swallowed. The shame rose and tried to take up space.
-
-Sarah saw it and cut it off before it could speak.
-
-“You’re not stupid,” Sarah said. “You were strategic. You were surviving.”
-
-Lauren’s eyes stung.
-
-Sarah continued, calm and ruthless in her practicality.
-
-“You get your essentials out today,” Sarah said. “You hand in your keys in a way that’s final. And after that you do not go back alone. Ever. If you need more later, we go as a group. Or we go with police. But you do not go back like a good little wife trying to be civil. Civil is how he gets you back in the room.”
-
-Lauren stared at her.
-
-There was no softness in Sarah’s plan. No sentimental fantasy of “closure.” Just the clean architecture of safety.
-
-It was frightening.
-
-It was also… intoxicating.
-
-Lauren heard her own voice come out steadier than she expected.
-
-“Okay,” she said.
-
-Sarah nodded once, satisfied. “Good.”
-
-She turned her attention to logistics, because Sarah could not sit in emotion for long without turning it into something useful.
-
-“Your car,” Sarah said. “Fuel?”
-
-“Half,” Lauren replied automatically.
-
-“Top it up first,” Sarah ordered. “Not later. First. Then house. Then straight back here.” A pause. “And keep your phone on. If he calls, you don’t answer. If he texts, you screenshot. If he turns up at Wardrobe, you tell Celeste and you leave with someone.”
-
-Lauren nodded again.
-
-Sarah’s expression flickered—something like approval.
-
-“And Lauren?” Sarah added.
-
-“Yes?”
-
-Sarah’s voice went a fraction quieter, which in Sarah was basically a hug.
-
-“This is not you taking things,” she said. “This is you taking yourself.”
-
-Lauren’s throat tightened so hard she couldn’t answer properly. She just nodded and looked down at her toast until her vision cleared.
-
----
-
-By late morning, the Hyundai i20 was running and the air inside it smelled faintly of old fabric and the vanilla air freshener Lauren had hung years ago. The steering wheel was warm under her hands.
-
-She drove to the house like she was driving to a place she used to live, not a place she belonged.
-
-The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzing somewhere distant like a reminder that other people’s lives were still happening.
-
-Lauren parked, sat for a moment, and listened to her own breathing.
-
-Her hands were steady.
-
-That surprised her most.
-
-Inside, the house felt exactly the way it always had: too neat in places, too neglected in others, the subtle imbalance of a home built around one person’s comfort.
-
-Roger wasn’t there. Thank God.
-
-Lauren moved quickly—not frantic, just efficient.
-
-Bedroom: clothes into a bag. Toiletries. Her own shampoo, her own face cream, the small items she’d once treated as “extras” because she was always saving money “just in case.”
-
-In the study she took papers she could find—anything with her name on it, anything that looked important, anything that she might need to prove later that she existed in this marriage as more than a shadow.
-
-Her hands didn’t linger on the furniture. The television. The framed photos.
-
-They were objects that had been allowed to pretend they were stability.
-
-Now, under this light, they looked like props.
-
-And in the middle of the stripping-down, Lauren had a sudden, unexpected sensation:
-
-Freedom.
-
-Not the triumphant kind.
-
-The quieter kind that came from realising that if everything of value was in Roger’s name by design—then leaving with nothing but her own belongings wasn’t humiliation.
-
-It was escape.
-
-Her most expensive asset was the little Hyundai.
-
-That and a few dresses and shoes she’d bought over the years when she’d been trying to remember she was allowed to look nice.
-
-That and her body, her mind, her ability to earn.
-
-That was enough.
-
-When she was finished, the house looked barely disturbed. Lauren almost laughed at the irony: she was leaving, and the place still wore the same mask.
-
-At the front door, she paused.
-
-The keys were in her palm. Warm from her skin.
-
-She walked back to the kitchen table—the same table where she’d once served dinner like a peace offering—and placed the keys down gently, as if returning something she’d borrowed too long.
-
-Then she went to the door.
-
-She locked it from the inside, the way you could, if you knew the trick. A final act, done on her terms.
-
-She stepped out, pulled the door closed behind her, and felt the click echo in her chest.
-
-For a moment she stood on the doorstep and looked at the house.
-
-It didn’t look like a battlefield.
-
-That was the point. The most vicious wars often didn’t leave scorch marks. They left habits.
-
-Lauren turned away.
-
-She walked to her car.
-
-She drove back to Sarah’s with the sun hot on the bonnet and the air-conditioning doing its earnest best, and she didn’t once check the rear-view mirror for Roger’s car, because she refused to rehearse fear before it arrived.
-
----
-
-Sarah opened the door before Lauren had even reached it, as if she’d been watching the clock with the kind of vigilance that wasn’t anxiety so much as commitment.
-
-“Good?” Sarah asked.
-
-Lauren lifted the bags slightly. “Essentials.”
-
-Sarah’s eyes flicked over the bags like an inventory, then she nodded once, approving.
-
-“Perfect,” she said. “Come in.”
-
-Lauren stepped inside and felt the cool of the hallway wrap around her like a held breath released.
-
-Sarah took one bag and carried it down the hall, then returned and held out her hand.
-
-In her palm was a key.
-
-Not Roger’s key.
-
-Not a borrowed key that implied temporary mercy.
-
-A simple spare key on an unremarkable ring.
-
-“Yours,” Sarah said.
-
-Lauren stared at it.
-
-Sarah’s voice was matter-of-fact, but her eyes were steady, unmistakable.
-
-“You’re not a guest,” Sarah said. “You’re safe.”
-
-Lauren took the key.
-
-It was small. Ordinary. Heavy with meaning.
-
-She stood there for a moment with the metal warming in her palm, looking at it as if it might dissolve.
-
-Then she closed her fingers around it.
-
-Not tightly.
-
-Just… deliberately.
-
-*End Scene 44.*
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
 
 
 
@@ -1956,283 +610,288 @@ Just… deliberately.
 
 
 ## Notes26-02-06ev1
-### 💛🫶 1st Person 💛🫶
+### yy
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-06]
 
-**Scene 44 — “Keys” (Lauren POV, 1st person, past tense)**
+**Scene 45 — “A House Can Burn, A Woman Doesn’t” (Lauren POV, 1st person, past tense)**
 
-The next morning, Sarah didn’t ask how I’d slept.
+The workroom was already hot by eight-thirty.
 
-She looked at me once—eyes sharp, assessing—and said, “Eat.”
+Not just the weather—though the Queensland air had been thick since dawn, all bright sun and humid promise—but the heat of an order that had arrived like a dare and refused to be small.
 
-I sat at the small table with my hands wrapped around a mug, trying to make my body behave like it was a normal Tuesday. The toast was warm. The air outside was already bright with Queensland sun, the kind that made you sweat just thinking about stepping into it.
+*Les Misérables.*
 
-Sarah moved through the kitchen like a woman who had decided fear did not get to run the schedule. Kettle. Plates. Knife. No dithering, no emotional fog. The whole space seemed to take its cues from her.
+It sat on the central table in printouts and reference images and rough sketches that multiplied like rabbits: nineteenth-century silhouettes, worn hems, patched elbows, bodices that had to look lived-in without looking sloppy. Fabrics chosen not just for accuracy but for survival—breathable, light, forgiving under stage heat.
 
-I took a bite because Sarah was watching my mouth—not in a controlling way, but in the way you watched someone you were determined to keep upright.
+And the numbers.
 
-And I had a stupid, sharp thought that made my throat tighten: most women didn’t have a Sarah. Most women only had the hallway and the lock they didn’t control.
+The numbers were the part that made you swallow.
 
-Sarah’s phone buzzed once, then again. A message.
+Mara had taken one look at the quantity list and said, “Right,” in that calm voice she used when she was about to do something difficult without drama.
 
-She glanced at it, expression shifting into that controlled stillness—predatory calm, not panic. She didn’t pick it up straight away. She finished what she was doing first, as if demonstrating that urgency didn’t own her.
+Celeste had gone still for half a second—then leaned forward, eyes bright, like the sheer scale had flicked a switch in her. The switch that turned stress into focus.
 
-Then she read the message.
+“This is doable,” she’d said, and it hadn’t been optimism. It had been a decision. “We just don’t do it the way we’ve always done it.”
 
-A faint, humourless smile appeared at one corner of her mouth.
+Sarah arrived with her hair pinned up and a coffee that looked lethal. She glanced at the fabric swatches and said, “Thank God. I’m sick of pretending everyone in the nineteenth century was comfortable.”
 
-“Oh,” she said. “That’s *interesting*.”
+And Charli—
 
-My stomach tightened. “What is?”
+Charli was at the cutting table with pattern paper spread out like a map, pencil in hand, brow furrowed in concentration. I watched her for a moment longer than I meant to. Not because I was sentimental. Because my brain kept doing that quiet recalibration it had been doing for months now.
 
-Sarah leaned her hip against the counter and looked at me the way she did when she was about to deliver a fact that would change how I moved through the day.
+Charli moved differently these days.
 
-“Lucy just told me why Roger suddenly came home,” she said.
+Not flamboyantly. Not in a way you could point at and announce. Just… softer at the edges. Less braced. More present. Her hands were steady, and when Celeste leaned in to murmur something—an adjustment, a suggestion—Charli’s shoulders didn’t jump. She didn’t flinch away from attention. She absorbed it like sunlight.
 
-The words felt too casual for what they implied.
+It still startled me sometimes, how much safety changed a person.
 
-“Why?”
+How quickly.
 
-Sarah’s eyes narrowed, amused and contemptuous at once.
+“How many Fantines?” Bree called from the other side of the room, voice bright with mischief.
 
-“Because he got dumped,” she said. “By his ‘friend.’”
+“Not enough,” Sarah called back. “We’ll do a whole chorus of suffering. It’s Queensland, everyone’s already sweating.”
 
-For a second I didn’t understand. The idea felt absurd, almost cartoonish—until it landed properly.
+Bree laughed. Lily’s laugh followed—lower, closer—like the two of them shared a private frequency.
 
-“Dumped,” I repeated.
+I took a breath and moved into the rhythm of the workroom, clipboard in hand, brain shifting into logistics. Measurements. Material. Labour hours. Triage. Who could do what fastest without sacrificing quality.
 
-Sarah nodded, brisk. “She told him she wasn’t interested anymore. Probably realised he wasn’t a romance; he was a liability.” A pause. “He’s told Lucy, apparently. Confided. Like Lucy is his priest.”
+I was halfway through writing *linen blend, breathable, midweight* when Celeste looked up.
 
-A sound came out of me that wasn’t a laugh. Thin. Stunned.
+“Lauren,” she said, and even her voice sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I want options by lunch.”
 
-“So… he came back because—”
+I nodded. “On it.”
 
-“Because he lost his second option,” Sarah finished. Her tone made the truth feel clean, like a surface wiped down. “Not because he found his conscience.”
+I turned toward the desk, already reaching for my phone, when the front bell chimed.
 
-Something twisted inside me. Not heartbreak. Not jealousy. A cold clarity—almost relief.
+It was a bright little sound, usually cheerful.
 
-It was so grotesquely ordinary, the logic of it. The entitlement. The maths.
+Today it landed like a warning.
 
-My gaze dropped to the table. I stared at a crumb as if it were an interesting document.
+I looked up and saw Roger in the doorway.
 
-Sarah’s voice softened slightly—not into sympathy, but into resolve.
+For a moment my mind refused to process it. The sight of him felt wrong in this space, like mud on clean fabric. He stood just inside, scanning the room with that same proprietary look he used in our house—as if the world was made of things he could walk into and claim.
 
-“Two losses close together,” she said. “That makes a man like Roger desperate. And desperate men do stupid things.”
+He’d remembered to put on the polite face.
 
-My throat tightened. “He knows where I work.”
+That was what made my stomach tighten.
 
-“I know,” Sarah said. “He also knows where I live. And where Lucy lives. He dropped us home once, after that staff party.” Her mouth curved. “Which also answers your other question about how he got my number. Men are very good at collecting access.”
+Polite faces meant performance.
 
-I flinched at the accuracy. I thought of Roger’s casual confidence—his assumption that other people’s boundaries were negotiable if he just pushed with enough entitlement.
+Sarah saw him too. Her whole posture changed—shoulders squared, chin slightly lifted, eyes sharpening to a point.
 
-Sarah set her mug down with a quiet clink that sounded like a decision.
+Mara didn’t look flustered. She simply set her scissors down and stood, very still, very solid.
 
-“Right,” she said. “Here’s what’s happening.”
+Celeste’s gaze flicked to me—not asking permission, not seeking direction. Just checking: *Are we safe? What do you want?*
 
-I looked up.
+My heart hammered.
 
-She pointed the butter knife toward the front door—not threatening, just emphatic.
+But I was not alone.
 
-“You’re staying here,” Sarah said. “Until the dust settles.”
+That was the difference.
 
-My voice came out small. “But I have to—”
+Roger took a step forward. “Lauren.”
 
-“No,” Sarah cut in. “You don’t have to do anything except leave safely.” She held my gaze. “Today you go back to the house while he’s at work and you get your essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then you leave. Completely.”
+Hearing my name in his voice, in *this* room, made something in me recoil. I felt the old reflex—smooth it over, contain it, manage the optics—rise like a ghost.
 
-My hands tightened around the mug.
+Sarah moved first.
 
-“What about… furniture? Appliances?” I heard myself ask, and the words tasted ridiculous as soon as they left my mouth. I’d spent years treating objects like anchors because I couldn’t imagine having none.
+“Hi,” she said, tone flat, unfriendly in the most civil way. “No.”
 
-Sarah’s eyes went flat.
+Roger’s eyes snapped to her. He tried to smile. It didn’t reach his eyes.
 
-“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
+“This is between me and my wife,” he said.
 
-My breath hitched.
+Sarah’s mouth twitched. “Everything men do is apparently between them and their wives.”
 
-Her voice lowered. “Lauren, listen to me. Men like Roger designed the paperwork for this exact moment. Everything in his name so you’d feel trapped. That’s the trick.”
+Roger’s jaw tightened. He turned back to me as if Sarah wasn’t worth engaging. That dismissiveness—so automatic, so entitled—made my hands curl around the clipboard.
 
-Shame rose automatically, eager to do its job.
+“Lauren,” he said, voice dropping into that intimate threat that had worked for years. “We need to talk.”
 
-Sarah saw it and cut it off before it could speak.
+My mouth went dry.
 
-“You’re not stupid,” she said. “You were strategic. You were surviving.”
+Mara stepped forward—not aggressively, just occupying space like a fact. “This is a workplace,” she said. “You can state your business or you can leave.”
 
-My eyes stung.
+Roger looked at Mara like he was surprised she existed.
 
-Sarah kept going, calm and ruthless in her practicality.
+Something in my chest cooled into clarity.
 
-“You get your essentials out today. You hand in your keys in a way that’s final. And after that you do not go back alone. Ever. If you need more later, we go as a group. Or we go with police.” Her eyes sharpened. “But you do not go back like a good little wife trying to be civil. Civil is how he gets you back in the room.”
+I was in Wardrobe.
 
-I stared at her.
+He could not trap me here.
 
-There was no softness in Sarah’s plan. No sentimental fantasy of closure. Just the clean architecture of safety.
+I took one step forward—just enough to be seen as the one speaking. I didn’t go too close. I didn’t offer him proximity.
 
-It scared me.
+“What do you want, Roger?” I asked.
 
-It also… steadied me.
+His eyes narrowed. He’d expected fluster. Tears. Pleading.
 
-I heard my own voice come out steadier than I expected. “Okay.”
+He didn’t get it.
 
-Sarah nodded once, satisfied. “Good.”
+So he leaned into anger instead.
 
-Then she turned away from emotion and into logistics, because that was how Sarah loved people without embarrassing herself.
+“I want you to understand what you’ve done,” he said. “You’ve embarrassed me. You’ve made me look like—”
 
-“Your car,” she said. “Fuel?”
+I raised a hand, calm.
 
-“Half,” I replied automatically.
+“I’m not discussing your feelings,” I said. “Speak to the point.”
 
-“Top it up first,” she ordered. “Not later. First. Then house. Then straight back here.” A pause. “And keep your phone on. If he calls, you don’t answer. If he texts, you screenshot. If he turns up at Wardrobe, you tell Celeste and you leave with someone.”
+His nostrils flared. He swallowed, then delivered the weapon he thought would work every time.
 
-I nodded again.
+“Fine,” he snapped. “I’m selling the house. I’ll pocket the proceeds. You’ll get nothing. You’ll be ruined.”
 
-Sarah’s expression flickered—something like approval.
+There it was.
 
-“And Lauren?” she added.
+Financial ruin as punishment.
 
-“Yes?”
+Control as sport.
 
-Her voice went a fraction quieter, which in Sarah was basically a hug.
+To my surprise, a small laugh threatened at the back of my throat. Not because it was funny—but because it was so predictable. Like a child picking up the same blunt object and insisting it was a sword.
 
-“This is not you taking things,” she said. “This is you taking yourself.”
+I looked at him steadily.
 
-My throat tightened so hard I couldn’t answer properly. I just nodded and looked down at my toast until my vision cleared.
+“You think that’s a win?” I asked, voice quiet.
 
----
+He blinked. “What?”
 
-By late morning, the Hyundai i20 was running and the air inside it smelled faintly of old fabric and the vanilla air freshener I’d hung years ago. The steering wheel was warm under my hands.
+I could feel the women behind me—not crowding, not hovering, simply *present*. The workroom’s air was warm and busy and full of competence. Fabric lay in orderly stacks. Pattern paper waited like a plan.
 
-I drove to the house like I was driving to a place I used to live, not a place I belonged.
+The house, suddenly, felt very far away.
 
-The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzed somewhere distant, like a reminder that other people’s lives were still happening.
+“You think selling the house hurts me more than what you’ve already done?” I said. I kept my tone calm on purpose. “Roger, that’s just property. It’s… bricks.”
 
-I parked, sat for a moment, and listened to my own breathing.
+His face reddened. “It’s everything we have.”
 
-My hands were steady.
+My eyes didn’t flicker.
 
-That surprised me most.
+“It’s everything *you* have,” I corrected. “Because you made sure of that.”
 
-Inside, the house felt exactly the way it always had: too neat in places, too neglected in others, the subtle imbalance of a home built around one person’s comfort.
+His mouth opened, and I saw the moment he realised I wasn’t frightened.
 
-Roger wasn’t there. Thank God.
+That was when his anger sharpened.
 
-I moved quickly—not frantic, just efficient.
+“I’ll make sure you regret this,” he said.
 
-Bedroom: clothes into a bag. Toiletries. My shampoo, my face cream, the small items I’d once treated as “extras” because I was always saving money just in case.
+My heart thudded once. Then settled. As if some part of me had finally recognised the pattern and stopped flinching at the first beat.
 
-In the study I took papers I could find—anything with my name on it, anything that looked important, anything I might need later to prove I’d existed in this marriage as more than a shadow.
+I spoke slowly, choosing each word for maximum accuracy.
 
-My hands didn’t linger on the furniture. The television. The framed photos.
+“You’ve lost what’s actually most precious in life,” I said. “You’ve lost your child.”
 
-They were objects that had been allowed to pretend they were stability.
+He scoffed immediately—dismissive, reflexive. “Don’t be dramatic.”
 
-Now, under this light, they looked like props.
+I didn’t rise to it. I didn’t explain. I didn’t offer detail.
 
-And in the middle of the stripping-down, a quiet understanding settled in me:
+He didn’t deserve it.
 
-Freedom wasn’t going to look like a dramatic exit.
+I continued, colder now—not cruel, just finished.
 
-It was going to look like a woman moving efficiently through a house that had trained her to be small, taking only what mattered, and refusing to apologise for it.
+“And you lost me,” I said. “Ages ago.”
 
-My most expensive asset was the little Hyundai.
+For a fraction of a second he looked genuinely wrong-footed—as if he’d expected me to fight, to bargain, to claw for his approval the way I used to.
 
-That and a few dresses and shoes I’d bought over the years when I’d been trying to remember I was allowed to look nice.
+Then his face changed.
 
-That and my body, my mind, my ability to earn.
+A flash of something ugly crossed it—rage, humiliation, the visceral shock of being unmasked in public.
 
-That was enough.
+I saw it in his shoulders. In his hands. In the way his body coiled forward like a spring.
 
-When I finished, the house looked barely disturbed. I almost laughed at the irony: I was leaving, and the place still wore the same mask.
+The women behind me moved without a word.
 
-At the front door, I paused.
+Mara shifted—just a half-step, just an angle—blocking his line like a door that didn’t need hinges.
 
-The keys were in my palm. Warm from my skin.
+Sarah came closer to my side, not touching me but close enough that I could feel the protective intent like heat.
 
-I walked back to the kitchen table—the same table where I’d once served dinner like a peace offering—and placed the keys down gently, as if returning something I’d borrowed too long.
+Celeste’s voice came, low and controlled.
 
-Then I went to the door.
+“Lauren,” she said, and it wasn’t a question. It was a directive. “Inside.”
 
-I locked it from the inside, the way you could if you knew the trick. A final act, done on my terms.
+I didn’t hesitate.
 
-I stepped out, pulled the door closed behind me, and felt the click echo in my chest.
+I stepped backward—one step, then another—retreating into the workroom’s bright safety, into the circle of women who did not negotiate with men who tried to explode.
 
-For a moment I stood on the doorstep and looked at the house.
+Roger took a step after me.
 
-It didn’t look like a battlefield.
+Sarah’s voice cut like a blade. “Do not follow her.”
 
-That was the point. The most vicious wars often didn’t leave scorch marks. They left habits.
+Roger’s eyes snapped to Sarah. “You can’t stop me—”
 
-I turned away.
+Mara’s voice was calm, the kind that made police feel inevitable.
 
-I walked to my car.
+“Yes,” Mara said. “We can.”
 
-I drove back to Sarah’s with the sun hot on the bonnet and the air-conditioning doing its earnest best, and I didn’t once check the rear-view mirror for Roger’s car, because I refused to rehearse fear before it arrived.
+Roger’s breathing went harsh. His hands flexed. For a moment I truly thought he might do something stupid.
 
----
+Then—because even men like him remember consequences when women aren’t alone—he spat a final line. Something about lawyers. Something about regret. Something about being ungrateful.
 
-Sarah opened the door before I’d even reached it, as if she’d been watching the clock with a vigilance that wasn’t anxiety so much as commitment.
+I barely heard it.
 
-“Good?” she asked.
+Because I had already turned away.
 
-I lifted the bags slightly. “Essentials.”
+I walked back to the central table where the *Les Mis* patterns were spread, where Charli stood with pencil poised mid-line. Her eyes were wide, but steady. She looked at me—question in her face, compassion held back so it wouldn’t overwhelm.
 
-Her eyes flicked over them like an inventory, then she nodded once, approving.
+And I realised, with a small shock, that I was not shaking.
 
-“Perfect,” she said. “Come in.”
+My hands were steady on the clipboard.
 
-I stepped inside and felt the cool of the hallway wrap around me like a held breath released.
+The confrontation hadn’t stolen my competence.
 
-Sarah took one bag and carried it down the hall, then returned and held out her hand.
+That was new.
 
-In her palm was a key.
+Sarah came back in and let the door close behind her with firm finality.
 
-Not Roger’s key.
+The bell chimed again—bright, almost cheerful.
 
-Not a borrowed key that implied temporary mercy.
+Outside, Roger’s car door slammed.
 
-A simple spare key on an unremarkable ring.
+Then the engine started. Then it faded.
 
-“Yours,” Sarah said.
+Inside Wardrobe, the women exhaled as one organism.
 
-I stared at it.
+Celeste turned to the table and tapped the pattern paper once, crisp. “Right,” she said. “Back to work.”
 
-Her voice stayed matter-of-fact, but her eyes were steady, unmistakable.
+Mara nodded. “We do not let him steal our day.”
 
-“You’re not a guest,” she said. “You’re safe.”
+Sarah lifted her coffee and took a calm sip. “Let him sell his precious house,” she said. “He can live in it alone and talk to the walls.”
 
-I took the key.
+A small laugh went around the room—not cruel, not triumphant. Just… relief.
 
-It was small. Ordinary. Heavy with meaning.
+I looked down at the sketches again.
 
-I stood there a moment with the metal warming in my palm, looking at it as if it might dissolve.
+Nineteenth-century seams. Hardship made costume. A chorus of women on stage wearing garments Wardrobe would build.
 
-Then I closed my fingers around it.
+And I felt, unexpectedly, the faintest hint of satisfaction.
 
-Not tightly.
+Roger could sell the house.
 
-Just… deliberately.
+Roger could pocket his proceeds.
 
-*End Scene 44.*
+He could keep every physical thing he’d collected as proof of power.
 
----
+But he could not reach me here.
 
-If you’d like, I can do a tiny follow-on “button” line (one sentence) that mirrors Scene 43’s *access* insight — something like: *“For the first time, I held access that belonged to me.”*
+And that—my pen moving across the page again as if nothing had happened—was the first real wealth I’d ever owned.
 
-Oh I *love* that choice, Robyn 😌🫶 Option 2 has teeth — and it’s absolutely consistent with Sarah’s influence and Lauren’s new clarity.
+*End Scene 45.*
 
-Here’s how it looks *in situ* at the end of Scene 44 (so you can paste it straight in):
 
-> Then I closed my fingers around it.
-> Not tightly.
-> Just… deliberately.
->
-> For the first time, access wasn’t something a man collected about me—it was something I chose.
->
-> *End Scene 44.*
 
-And yes — that “woman-shaped” future isn’t just romance; it’s infrastructure: women who lock doors, keep ringers on, make plans, and treat safety as non-negotiable. That’s the spine of this arc. 🧷✨
+
+Oh, Robyn 🥹 I’m so glad it landed.
+
+Lauren’s steadiness there is *everything*—not loud, not performative, just that clean, unarguable **“you don’t own me anymore”** energy. And I really like how Wardrobe functions as a *system* of women: Mara as the immovable fact, Sarah as the blade, Celeste as the calm directive, Charli as the quiet witness who *doesn’t collapse*—and Lauren getting to feel her own competence stay intact. That’s such a potent kind of victory. 🧵✨
+
+If you want, the natural next step is to let the aftermath echo in small, practical ways rather than a big emotional debrief (which would feel like Roger still taking oxygen):
+
+* Lauren making two calls: **bank + solicitor**, brisk as a checklist.
+* Celeste saying something minimal but loaded, like: “He doesn’t get to re-write your day.”
+* Charli doing one small, wordless kindness (tea placed beside Lauren’s clipboard, no fuss), which hits harder than dialogue.
+* Sarah slipping one viciously funny line *only once*, then moving on—because the real flex is *work continues*.
+
+Whenever you’re ready, tell me what Scene 46 is meant to *do* (plot beat + emotional beat), and I’ll match the tone. 💛
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -2246,6 +905,197 @@ And yes — that “woman-shaped” future isn’t just romance; it’s infrastr
 
 
 
+## Notes26-02-09rv1
+### 1st Revision
+
+<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+
+[26-02-13]
+
+**Scene 45 — “Do Not Follow Her” (Lauren POV, 1st person, past tense)**
+
+✂ Do Not Follow Her ✂
+
+[ Lauren ]
+
+The workroom was already hot by eight-thirtyhot by eight-thirty. It was a hot day in Australia, not just here in Victoria.
+
+The *Les Misérables.* Faire in Queensland had dropped the order like Victoria doesn’t get what combining heat and humidity can do. It sat on the central table in printouts and reference images and rough sketches that multiplied like rabbits: nineteenth-century silhouettes, worn hems, patched elbows, bodices that had to look lived-in without looking sloppy. Fabrics chosen not just for accuracy but for survival—breathable, light, forgiving in heat and moisture.
+
+And the numbers.
+
+The numbers were the part that made you swallow. Mara had taken one look at the quantity list and said, “Right,” in that calm voice she used when she was about to do something difficult without drama.
+
+Celeste had gone still for half a second—then leaned forward, eyes bright, like the sheer scale had flicked a switch in her. The switch that turned stress into focus.
+
+“This is doable,” she’d said, and it hadn’t been optimism. It had been a decision. “We just don’t do it the way we’ve always done it.”
+
+Sarah arrived with her hair pinned up and a coffee that looked lethal. She glanced at the fabric swatches and said, “Right then. I’m sick of the pretence that everyone in the nineteenth century was comfortable.”
+
+And Charli—Charli was at the cutting table with pattern paper spread out like a map, pencil in hand, brow furrowed in concentration. I watched her for a moment longer than I meant to. My brain kept doing that quiet recalibration it had been doing for months now. A daughter. My daughter.
+
+Charli moved differently these days. There was nothing theatrical about her: there never had been. Still, she was more… open, less braced. More present, and definitely softer at the edges. Her hands were always steady now, and when Celeste leaned in to murmur something—an adjustment, a suggestion—Charli’s shoulders no longer clenched. She no longer shied away from attention, but absorbed it like sunlight.
+
+It still startled me sometimes, how much safety can change a person.
+
+And, how quickly.
+
+“How many Fantines?” Bree called from the other side of the room, voice bright with mischief.
+
+“Not enough,” Sarah called back. “We’ll do a whole chorus of suffering. They’re up in Queensland, where everyone’s already sweating.”
+
+Bree laughed. Lily’s laugh followed—lower, softer—like the two of them shared a private frequency.
+
+I took a breath and moved into the rhythm of the workroom, clipboard in hand, brain shifting into logistics. Measurements. Material. Labour hours. Triage. Who could do what fastest without sacrificing quality.
+
+I was halfway through writing *linen blend, breathable, midweight* when Celeste looked up.
+
+“Lauren.” Her voice always sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I need options by lunch.”
+
+“On it.”
+
+I turned toward the desk, already reaching for my phone, when the front bell chimed. It was a bright little sound, usually cheerful. Today it landed like a warning.
+
+I looked up and saw Roger in the doorway.
+
+For a moment my mind refused to process it. The sight of him felt wrong here, like a muddy boot on clean fabric. He stood just inside, scanning the room with that same proprietary look he used in our house, as if the world was made of things he could walk into and claim.
+
+He had remembered to put on the polite face. That was what made my stomach tighten. Polite faces meant performance.
+
+Sarah saw him too.Her whole posture changed—shoulders squared, chin slightly lifted, eyes sharpening to a point.
+
+Mara didn’t look flustered. She simply set her scissors down and stood, very still, very solid.
+
+Celeste’s gaze flicked to me, not seeking direction but checking:*Are you safe, mum? What do you need?*
+
+My heart hammered.
+
+I was not alone: it made all the difference. But my body hadn’t absorbed that truth, yet.Roger took a step forward.“Lauren.”
+
+Hearing my name in his voice, in *this* room, made something in me recoil. I felt the old reflex—smooth it over, contain it, manage the optics—rise like a ghost.
+
+Sarah moved first.
+
+“Hi,” she said, tone flat, unfriendly in the most civil way. “No.”
+
+Roger’s eyes snapped to her. He tried to smile. It didn’t reach his eyes.
+
+“This is between me and my wife.”
+
+Sarah’s mouth twitched. “Everything men do is apparently between them and their wives.”
+
+Roger’s jaw tightened. He turned back to me as if Sarah wasn’t worth engaging. That dismissiveness—so automatic, so entitled—made my hands curl around the clipboard.
+
+“Lauren,” he said, voice dropping into that intimate threat that had worked for years. “We need to talk.”
+
+My mouth went dry.
+
+Mara stepped forward—not aggressively, just occupying space like a fact.
+
+“This is a workplace,” she said. “You can state your business or you can leave.”
+
+Roger looked at Mara like he was surprised she existed. Something in my chest cooled into clarity. I was in Wardrobe. He could not trap me here. I took one step forward—just enough to be seen as the one speaking. I didn’t go too close. I didn’t offer him proximity.
+
+“What do you want, Roger?”
+
+His eyes narrowed. He’d expected fluster. Tears. Pleading. He didn’t get any of that, so he leaned into anger instead.
+
+“I want you to understand what you’re doing,” he said with ill-concealed fury. “You’re embarrassing me. You’re making me look like—”
+
+I raised a hand, calm.
+
+“I’m not interested in your feelings,” I said. “Come to the point.”
+
+His nostrils flared. He swallowed, then delivered the weapon he thought would work every time.
+
+“Fine,” he snapped. “I’m just warning you: I’m selling the house. You’re getting nothing.” His face shone with triumph. “And you can’t do anything about it.”
+
+Still in control, with a vengeance—financial ruin as punishment. A small laugh threatened at the back of my throat. He it was *so* predictable, like a four-year old brandishing a stick and insisting it was a sword. I looked at him steadily.
+
+“I suppose you think that’s a win?”
+
+His triumphant look clouded over. “Sorry, what?”
+
+I could feel the closeness of women behind me—strong, silent, fiercely *present*. The workroom’s air was warm and busy and full of competence. Fabric lay in orderly stacks. Pattern paper waited like a plan.
+
+The house, the past, his dominance—all of it suddenly, felt quite insignificant.
+
+“You think selling the house will hurt me more than what you’ve already done?” I said. I kept my tone calm on purpose. “Roger, that’s property. It’s… bricks, glass and a lawnmower that won’t start.”
+
+His face reddened.
+
+“It’s everything we have.”
+
+My eyes didn’t flicker.
+
+“It’s everything *you* have,” I corrected. “You made sure of that. And now, it’s *all* you have. I’m making sure of that!”
+
+His mouth opened, and I saw the moment he realised his strategy—the one that had always worked—of holding goods as security over my head was failing. Epically. In front of witnesses.
+
+His anger sharpened.
+
+“I’ll make sure you regret this!”
+
+My heart thudded once—then settled, as if some part of me recognised a flawed pattern and stopped recoiling. I spoke slowly, choosing each word for maximum accuracy.
+
+“You know what you’ve really lost?” I said, still calm. “Your relationship with your child.”
+
+He scoffed immediately—dismissive, reflexive.“Don’t be dramatic.”
+
+I didn’t rise to it. I didn’t explain. I didn’t offer detail. He didn’t deserve it.
+
+I continued, colder now—not cruel, just finished.
+
+“And you lost me,” I said. “Ages ago.”
+
+For a fraction of a second he looked genuinely wrong-footed—as if he’d expected me to fight, to bargain, to claw for his approval the way I used to.
+
+Then his face changed.
+
+A flash of something ugly crossed it—a blend of rage, humiliation, the visceral shock of being unmasked in public. He went very still in the way angry men do when they’re deciding what they can get away with. The women behind me didn’t speak, but the room rearranged itself—Mara’s shoulder, Sarah’s step.
+
+Celeste’s voice found my name.
+
+“Lauren.” It wasn’t a question. It was a directive. “Inside.”
+
+I didn’t hesitate. I stepped backward—one step, then another—retreating into the workroom’s bright safety, into the circle of women who did not negotiate with men on the verge of detonating.
+
+Roger took a step after me. Sarah’s voice cut like a blade.
+
+“Do not follow her.”
+
+“You can’t stop me—”
+
+“Yes,” Mara said. “We can. And we will.”
+
+Roger’s breathing was harsh. His hands flexed. Then—because even men like him remember consequences when women aren’t alone—he spat a final line. Something about lawyers. Something about regret. Something about being ungrateful.
+
+The bell chimed again—bright, cheerful.
+
+Roger’s car door slammed.
+
+The engine started.
+
+The sound faded.Gone.
+
+Inside Wardrobe, the tension unhooked. Celeste turned to the table and tapped the pattern paper, crisp.“Right,” she said. “Back to work.”
+
+I walked back to the central table where the *Les Mis* patterns were spread and looked down at the sketches again. Nineteenth-century seams. Hardship made costume. A company of women among the Faire-goers, wearing what we’d cut and stitched here.Charli stood with pencil poised mid-line. Her eyes were wide, but steady. She looked at me—question in her face, compassion held back so it wouldn’t overwhelm.I realised, unexpectedly, that I was not shaking. My hands were steady on the clipboard. The confrontation hadn’t stolen my competence.
+
+Sarah lifted her coffee and took a calm sip.
+
+“Let him sell his precious house,” she said, “or not. He’ll need somewhere to keep pretending objects are love.”
+
+A small laugh went around the room.Relief, and a reset.And I felt fulfillment: the assurance of woman-fashioned solidarity. Roger could sell the house and pocket the proceeds. He could keep every possession he had ever collected as proof of power.
+
+But he no longer possessed me.
+
+*End Scene 45.*
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -2255,632 +1105,208 @@ And yes — that “woman-shaped” future isn’t just romance; it’s infrastr
 
 
 
-## Notes26-02-08rv1
-### Keys
+## Published
+### [260213]
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-💛🫶 1st Person 💛🫶
-
-[26-02-08]
-
-😌🍋✨😌🧵💪
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
 
 ---
 
-**Scene 44 — “Keys” (Lauren POV, 1st person, past tense)**
+🪡✂ Do Not Follow Her ✂🪡
+[ Lauren ]
 
-The next morning, Sarah didn’t ask how I’d slept.
+The workroom was already hot by eight-thirty. It was a hot day in Australia, not just here in Victoria.
 
-She watched me totter into the kitchen—eyes sharp, assessing—and said, “Eat.”
+The Les Misérables Faire in Queensland had dropped the order like Victoria doesn’t get what combining heat and humidity can do to a person. It sat on the central table in printouts and reference images and rough sketches that had multiplied like rabbits: nineteenth-century silhouettes, worn hems, patched elbows, bodices that had to look lived-in without looking sloppy. Fabrics chosen not just for accuracy and durability but for survival of the wearer—breathable, light, forgiving in heat and moisture.
 
-I sat at the small table with my hands wrapped around a mug, trying to make my body behave like it was a normal Tuesday. The toast was warm. The air outside was already bright with Victoria sun, the kind that made you sweat just thinking about stepping into it.
+And the numbers.
 
-Sarah moved through the kitchen like a woman who had decided unnamed threats did not get to run her schedule. Kettle. Plates. Knife. No dithering, no emotional fog. The whole space seemed to take its cues from her. I took a bite because Sarah was watching my mouth in the way you watched someone you were determined to keep upright.
+The numbers were the part that made you swallow. Mara had taken one look at the quantity list and said, “Right,” in that calm voice she used when she was about to do something challenging.
 
-And I had a sobering, sharp thought that made my throat tighten: most women didn’t have a Sarah. Most women only had a hallway and a lock they had no control over.
+Celeste had gone still for half a second—then leaned forward, eyes bright, like the sheer scale had flicked a switch in her. The switch that turned stress into focus.
 
-Sarah’s phone buzzed once, then again. A message.
+“This is doable,” she’d said. It wasn’t false optimism but a decision. “We just don’t do it the way we’ve always done it.”
 
-She glanced at it, expression shifting into that controlled stillness—predatory calm. She didn’t pick it up straight away, finishing what she was doing first, as if demonstrating that urgency didn’t own her.
+Sarah arrived with her hair pinned up and a coffee that looked lethal. She glanced at the fabric swatches and said, “Right then. I’m sick of the pretence that everyone in the nineteenth century was comfortable.”
 
-Then she read the message. A faint, humourless smile appeared at one corner of her mouth.
+And Charli—Charli was at the cutting table with pattern paper spread out like a map, pencil in hand, brow furrowed in concentration. I watched her for a moment longer than I meant to. My brain kept doing that quiet recalibration it had been doing for months now. A daughter.
 
-“Oh,” she said. “That’s *interesting*.”
+My daughter.
 
-“What is?”
+Charli moved differently these days. There was nothing theatrical about her: there never had been. Still, she was more… open, less braced. More present, and definitely softer at the edges. Her hands were always steady now, and when Celeste leaned in to murmur something—an adjustment, a suggestion—Charli’s shoulders no longer clenched. She no longer shied away from attention, but absorbed it like sunlight.
 
-Sarah leaned her hip against the counter and looked at me the way she did when she was about to deliver a fact that would change how I moved through the day.
+It still startled me sometimes, how much safety can change a person.
 
-“Not in so many words, but Lucy just told me why Roger suddenly came home.”
+And, how quickly.
 
-“What do you mean?”
+“How many Fantines?” Bree called from the other side of the room, voice bright with mischief.
 
-Sarah’s eyes narrowed, amused and contemptuous at once.
+“Not enough,” Sarah called back. “We’ll do a whole chorus of suffering. They’re up in Queensland, where everyone’s already sweating.”
 
-“So, he was over at Lucy’s last night and got pissed. As in: legless. And—typical Roger—let slip that, um—well, you know that bird he was with? Well, apparently she gave him the boot.” 
+Bree laughed. Lily’s laugh followed—lower, softer—like the two of them shared a private frequency.
 
-For a second it didn’t register. The announcement felt absurd, almost cartoonish—until it landed properly.
+I took a breath and moved into the rhythm of the workroom, clipboard in hand, brain shifting into logistics. Measurements. Material. Labour hours. Triage. Who could do what fastest without sacrificing quality.
 
-“He's been dumped.”
+I was halfway through writing linen blend, breathable, midweight when Celeste looked up.
 
-Sarah nodded, brisk. “Twice. First her, then you. Lucy told me that apprently she had let him know she wasn’t interested anymore. Probably realised he wasn’t much of a prize; more like a liability.”
+“Lauren.” Her voice always sounded different when she was in leadership mode: calm, exact. “Can you confirm the supplier lead times? If we’re short on yardage, I need options by lunch.”
 
-A sound came out of me that wasn’t a laugh. Not even a snort. Thin. Stunned. Slowly realising.
+“On it.”
 
-“So… he came back because—”
+I turned toward the desk, already reaching for my phone, when the front bell chimed. It was a bright little sound, usually cheerful.
 
-“Because Plan B had handed him his hat,” Sarah finished. Her tone made the truth sparkle, like a polished surface. “Certainly not because he found his conscience.”
+Today it landed like a warning.
 
-I almost did not dare breathe. Something twisted inside me. A cold clarity—and deep within it, relief. It was so grotesquely ordinary, the logic of it. The entitlement. The maths. My gaze dropped to the table. I stared at a crumb as if it held all the answers.
+I looked up and saw Roger in the doorway.
 
-Sarah’s voice softened slightly—not into sympathy, but into resolve.
-“Two-time loser,” she said. “That would sting, that would. And it would make a man like Roger desperate.” She shook her head. “Desperate men do stupid things.”
+For a moment my mind refused to process it. The sight of him felt wrong here, like a muddy boot on clean fabric. He stood just inside, scanning the room with that same proprietary look he used in our house, as if the world was made of things he could walk into and claim.
 
-My throat tightened. “He knows where we work.”
+He had remembered to put on the polite face. It made my stomach clench. A polite face meant performance.
 
-“So?” Sarah said. “He also knows where we live. So we exercise prudence.” Her mouth tightened. “We do not yield to fear.”
+Sarah saw him too. Her whole posture changed—shoulders squared, chin slightly lifted, eyes sharpening to a point.
 
-I flinched at we. Not because it scared me—because it didn’t. Because it arrived like a hand on my back: sudden, firm, and real. And something inside me tipped—small yet powerful, unmistakable. Not gratitude or a sense of safety. It was something with a different name—something with a growing intensity—I wasn’t ready to say out loud.
+Mara simply set her scissors down and stood, very still, very solid.
 
-I swallowed it hard and dragged my mind back to the problem in front of us: Roger. The way he treated a boundary like a suggestion. Sarah set her mug down with a quiet clink that sounded like a decision.
+Celeste’s gaze flicked to me, not seeking direction but checking:Are you safe, mum? What do you need?
 
-“Right,” she said. “So, here’s what’s happening.”
+My heart hammered. I knew I was not alone: it made all the difference. But my body hadn’t absorbed that truth, yet.Roger took a step forward.“Lauren.”
 
-I looked up. She pointed the butter knife toward the front door—not threatening, just emphatic.
+Hearing my name in his voice, in this room, made something in me recoil. I felt the old reflex—smooth it over, contain it, manage the optics—rise like a ghost.
 
-“You are staying here,” Sarah said. “For the next foreseeable, anyway. Definitely until the dust settles.”
+Sarah moved first.
 
-My voice came out small. “But I have to—”
+“Hi,” she said, tone flat, unfriendly in the most civil way. “No.”
 
-“No,” Sarah cut in. “Not negotiable. There is nothing you have to do except perhaps finish your exit. *Safely*.” She held my gaze. “If you must, you go back to the house today, while he’s at work and get essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then, you leave. For good. Completely.”
+Roger’s eyes snapped to her. He tried to smile. It didn’t reach his eyes.
 
-My hands tightened around the mug.
+“This is between me and my wife.”
 
-“What about… furniture? Appliances?” I heard myself ask, and the words tasted ridiculous as soon as they left my mouth. I’d spent years treating objects like anchors because I couldn’t imagine having none. Sarah’s eyes went flat.
+Sarah’s mouth twitched. “Everything men do is apparently between them and their wives.”
 
-“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
+Roger’s jaw tightened. He turned back to me as if Sarah wasn’t worth engaging. That dismissiveness—so automatic, so entitled—made my hands curl around the clipboard.
 
-I felt my breath force its way in in a puff. Her voice lowered.
+“Lauren,” he said, voice dropping into that quiet, practiced menace that had worked for years. “We need to talk.”
 
-“Lauren, listen to me. Men like Roger designed the paperwork for this exact moment. Everything in his name so you’d feel trapped. That’s his strategy. Get you entangled in 'stuff', make you think it’s security.”
+My mouth went dry.
 
-Sarah had her finger on the pulse. Humiliation rose automatically, eager to do its job. She saw it and cut it off before it could speak.
+Mara stepped forward—not aggressively, just occupying space like a fact.
 
-“You’re not stupid,” she said. “You were being outmaneuvered. Women do things to survive in this world.”
+“This is a workplace,” she said. “State your business or leave.”
 
-My eyes stung. Sarah kept going, calm and ruthless in her practicality.
+Roger looked at Mara like he was surprised she existed. Something in my chest cooled into clarity.
 
-“Do you want me to come with you?”
 
-I shook my head firmly. I needed to do this alone.
 
-“Fine. So, do it now. Forget Wardrobe today: you have bigger fish to fry. I'll update Celeste and Mara. You just focus on getting your essentials out. And hand in your keys on your way out, so it’s final.” Her eyes sharpened. “Keep your phone on you. Is it charged?”
+I was in Wardrobe. He could not trap me here.
 
-There was no softness in Sarah’s voice, just a cold hard ruthless plan of action, with built-in escape routes. It steadied me. I heard my own voice come out clearer than I expected.
+I took one step forward—just enough to be seen as the one speaking—without offering proximity.
 
-“Yes. And I won’t hesitate to call triple zero if I have to.”
+“What do you want, Roger?”
 
-Sarah nodded once, satisfied, then paused. She seemed to be ticking a mental check list.
+His eyes narrowed. He’d expected fluster. Tears. Pleading.
 
-“Your car,” she said. “Fuel?”
 
-“Half,” I replied automatically.
 
-“Top it up first,” she ordered. “Not later. First. Then, the house. Then, straight back here.” A pause. “If he calls, don’t answer. If he texts, screenshot. If he turns up, stop what you’re doing and get out. No discussions.”
+He didn’t get any of that, so he leaned into anger instead.
 
-I nodded again.
+“I want you to understand what you’re doing,” he said with ill-concealed fury. “You’re embarrassing me. You’re making me look like—”
 
-Sarah’s expression flickered—something like worry.
+I raised a hand, calm.
 
-“And Lauren?”
+“I’m not interested in your feelings,” I said. “Come to the point.”
 
-“Yes?”
+His nostrils flared. His nostrils flared. He swallowed, then went straight for that thing he’d always held over my head, and which he counted on to work now.
 
-Her voice went a fraction quieter.
+“Fine,” he snapped. “I’m just warning you: I’m selling the house. You’re getting nothing.” His face shone with triumph. “And you can’t do anything about it.”
 
-“I respect you wanting to do this alone,” she said. “But I so wish you’d let me go with you.”
+Still in control, with a vengeance—financial ruin as punishment. A small laugh threatened at the back of my throat. He it was so predictable, like a four-year old brandishing a stick and insisting it was a sword. I looked at him steadily.
 
-My throat locked down so hard I couldn’t answer properly. I just nodded and looked down at my toast until my vision cleared.
+“I suppose you think that’s a win?”
 
----
+His triumphant look faded. Utter confusion took over. “Sorry, what?”
 
-By late morning, my little Hyundai i20 was topped up. The warmth in the air made the smell of old fabric and the vanilla air freshener I’d hung years ago all the more welcome. The steering wheel was warm under my hands.
+I could feel the closeness of women behind me—strong, silent, fiercely present. The workroom’s air was warm and busy, filled with competence and industry. Fabric lay in orderly stacks. Pattern paper waited like a plan.
 
-I drove to the house like I was driving to a place I used to live, not a place I belonged.
+The house, the past, his dominance—all of it suddenly, felt quite insignificant.
 
-The street was quiet. Neighbours’ curtains drawn. A lawnmower buzzed somewhere distant, like a reminder that other people’s lives were still happening. I parked, sat for a moment, and listened to my own breathing.
+“You think selling the house will hurt me more than what you’ve already done?” I said. I kept my tone calm on purpose. “Roger, that’s property. It’s… bricks, glass and a lawnmower that won’t start.”
 
-My hands were steady. That surprised me most.
+His face reddened.
 
-Happily, nobody home. Inside, the house felt exactly the way it always had: too neat in places, sadly neglected in others, the subtle imbalance of a home built around one person’s comfort.
+“It’s everything we have.”
 
-I moved quickly—not frantic, just efficient. Bedroom: clothes into a bag. Toiletries. My shampoo, my face cream, the small items I’d once treated as “extras” because I was always saving money just in case. In the study I took papers I could find—anything with my name on it, anything that looked important, anything I might need later to prove I’d existed in this marriage as more than a shadow.
+My eyes didn’t flicker.
 
-My hands didn’t linger on the furniture. The television. The framed photos. They were objects that had been allowed to pretend they were stability. Now, under this light, they looked like props.
+“It’s everything you have,” I corrected. “You made sure of that. And now, it’s all you have. I’m making sure of that!”
 
-And in the middle of the stripping-down, a quiet understanding settled in me:
+His mouth opened, and I saw the moment he realised his strategy had failed.
 
-Freedom was going to look like a woman moving efficiently through a dwelling that had trained her to be small. She was taking only what mattered, and refusing to apologise for it.
 
-My most expensive asset was my little Hyundai. That and a few dresses and shoes I’d bought over the years when I’d been trying to remember I was allowed to look nice. That and my body, my mind, my ability to earn.
 
-That was enough.
+Epically.
 
-When I finished, the house looked barely disturbed. I almost laughed at the irony: I was leaving, and the place still wore the same mask.
+In front of witnesses.
 
-At the front door, I paused.
+His anger sharpened.
 
-The keys were in my palm, warm from my skin.
+“I’ll make sure you regret this!”
 
-I walked back to the kitchen table—the same table where I’d once served dinner like a peace offering—and placed the keys down gently, as if returning something I’d borrowed too long.
+My heart thudded once—then settled, as if some part of me recognised a flawed pattern and stopped recoiling. I spoke slowly, precisely selecting each word.
 
-Then I went to the door.
+“You know what you’ve really lost?” I said. “Your relationship with your child.”
 
-I locked it from the inside—another lock, a final act—done on my terms.
+I didn’t offer details: he didn’t deserve any. He scoffed immediately—dismissive, reflexive.“Don’t be dramatic.”
 
-I stepped out, pulled the door closed behind me, and felt the click echo in my chest.
+I continued, colder—finished.
 
-For a moment I stood next to my car and looked at the house.
+“And you lost me,” I said. “Ages ago.”
 
-It didn’t look like a battlefield. That was the point. The most vicious wars often didn’t leave scorch marks. They left the indelible imprint of painful habits.
+For a fraction of a second he looked genuinely wrong-footed—as if he’d expected me to fight, to bargain, to claw for his approval the way I used to.
 
-I got into my car and drove back to Sarah’s with the sun hot on the bonnet and the air-conditioning doing its earnest best, and I didn’t once check the rear-view mirror for Roger’s car. I refused to rehearse unreasonable fear.
+Then his face changed.
 
----
+A flash of something ugly crossed it—a blend of rage, humiliation, the visceral shock of being unmasked in public. He went very still in the way angry men do when they’re deciding what they can get away with. The women behind me didn’t speak, but the room rearranged itself—Mara’s shoulder rising, Sarah’s step advancing, Bree’s jawline hardening.Celeste’s voice found my name.
 
-Sarah opened the door before I’d even reached it, as if she’d been watching the clock with a vigilance that wasn’t anxiety so much as commitment.
+“Lauren.” It wasn’t a question. It was a directive. “Inside.”
 
-“Want help unloading?” she asked.
+I didn’t hesitate. I stepped backward—one step, then another—retreating into the workroom’s bright safety, into the circle of women who did not negotiate with men on the verge of detonating.
 
-I lifted two document satchels slightly. “Essentials. And, yes please.”
+Roger took a step after me. Sarah’s voice cut like a blade.
 
-Her eyes flicked over them like an inventory, then she nodded, before heading to the car.
+“Do not follow her.”
 
-“Your little car can’t hold that much, can it?” She had a look inside. “Okay, I was wrong.”
+“You can’t stop me—”
 
-A few efficient minutes later, I locked the i20 and stepped grateful inside, feeling the cool of the hallway wrap around me like a held breath released. Sarah took the last bit of clothing and carried it down the hall to my room, then returned and held out her hand.
+“Yes,” Mara said. “We can. And we will.”
 
-In her palm was a key.
+Roger’s breathing was harsh. His hands flexed. Then—because even angry men like him remember consequences when women aren’t alone—he spat a final line. Something about lawyers. Something about regret. Something about being ungrateful.
 
-Not a borrowed key that implied temporary mercy.
+The bell chimed again—bright, cheerful.
 
-A simple spare key on an unremarkable ring. I stared at it.
+Roger’s car door slammed.
 
-“Yours.” Sarah’s eyes shone. Her voice stayed matter-of-fact, but her eyes were steady, unmistakable.
+The engine started.
 
-“You’re not a guest,” she said. “You’re here as long as you want to be. You’re safe, now.”
+The sound faded.Gone.
 
-I took the key.
+Inside Wardrobe, the tension unhooked. Celeste turned to the table and tapped the pattern paper, crisp.“Right,” she said. “Back to work.”
 
-It was small. Ordinary. Heavy with meaning. I stood there a moment with the metal warming in my palm, looking at it as if it might dissolve.
+I walked back to the central table where the Les Mis patterns were spread and looked down at the sketches again. Nineteenth-century seams. Hardship made costume. A company of women among the Faire-goers, wearing what we’d cut and stitched here.Charli stood with pencil poised mid-line. Her eyes were wide, but steady. She looked at me—question in her face, compassion held back so it wouldn’t overwhelm.I realised, unexpectedly, that I was not shaking. My hands were steady on the clipboard. The confrontation hadn’t stolen my competence.
 
-I closed my fingers around it. 
+Sarah lifted her coffee and took a calm sip.
 
-Deliberately.
+“Let him sell his precious house,” she said, “or not. He’ll need somewhere to keep pretending objects are love.”
 
-*End Scene 44.*
+A small laugh went around the room.Relief, and a reset.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+I had women at my back.
 
 
+Roger could sell the house. He could keep every possession he had ever collected.
 
 
-
-
-
-
-
-## Notes26-02-08ev2
-
-<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-😄🧵💛
-
-[26-02-08]
-
-**Scene 44 — “Keys” (Lauren POV, 1st person, past tense)**
-
-The next morning, Sarah didn’t ask how I’d slept.
-
-She watched me totter into the kitchen—eyes sharp, assessing—and said, “Eat.”
-
-I sat at the small table with my hands wrapped around a mug, trying to make my body behave like it was a normal Tuesday. The toast was warm. The air outside was already bright with the Victoria sun, the kind that made you sweat just thinking about stepping into it.
-
-Sarah moved through the kitchen like a woman who had decided unnamed threats did not get to run her schedule. Kettle. Plates. Knife. No dithering, no emotional fog. The whole space seemed to take its cues from her. I took a bite because Sarah was watching my mouth in the way you watched someone you were determined to keep upright.
-
-And I had a sobering, sharp thought: most women didn’t have a 'Sarah'. Most women only had a hallway and a lock they had no control over.
-
-Sarah’s phone buzzed once, then again. A message.
-
-She glanced at it, her expression shifting into that controlled stillness—calm. She didn’t pick it up straight away, finishing what she was doing first, as if demonstrating that no urgency would own her.
-
-Finally, she read the message. A faint, humourless smile appeared at one corner of her mouth.
-
-“Oh,” she said. “That’s *interesting*.”
-
-“What is?”
-
-Sarah leaned her hip against the counter and looked at me the way she did when she was about to deliver a fact that would change how I moved through the day.
-
-“Not in so many words, but Lucy just told me why Roger suddenly came home.”
-
-“What do you mean?”
-
-Sarah’s eyes narrowed, amused and contemptuous at once.
-
-“So, he was over at Lucy’s last night and got pissed. As in: legless. And—typical Roger—let slip that, um—well, you know that bird he was with? Well, apparently she gave him the boot.”
-
-For a second it didn’t register. The announcement felt absurd, almost cartoonish—until it landed properly.
-
-“He’s been dumped.”
-
-Sarah nodded, brisk. “Twice. First her, then you. Lucy told me that little missy had let him know she wasn’t interested anymore. Probably realised he wasn’t much of a prize; more like a liability.”
-
-A sound came out of me that wasn’t a laugh. Not even a snort. Thin. Stunned. Slowly realising.
-
-“So… he came back because—”
-
-“Because Plan B had handed him his hat,” Sarah finished. Her tone made the truth sparkle, like a polished surface. “Certainly not because he found his conscience.”
-
-I almost didn’t dare breathe. Something twisted inside me. A cold clarity—and deep within it, relief. It was so grotesquely ordinary, the logic of it. The entitlement. The maths. My gaze dropped to the table. I stared at a crumb as if it held answers.
-
-Sarah’s voice softened slightly—not into sympathy, but into resolve.
-
-“Two-time loser,” she said. “That would sting, that would. And it would make a man like Roger desperate.” She shook her head. “Desperate men do stupid things.”
-
-I felt my throat squeeze. “He knows where we work.”
-
-“So?” Sarah said. “He also knows where we live. We’ve already dealt with that. So, now we just exercise prudence.” Her mouth tightened. “We do not yield to fear.”
-
-I squirmed slightly at the word *we*. Not because it scared me, but because it didn’t. Because it arrived like a hand on my back: sudden, firm, and real. And something inside me tipped—small yet powerful, unmistakable. Not gratitude or a sense of safety. It was something with a different name—something with a growing intensity—I wasn’t ready to say out loud.
-
-I swallowed the thought—hard—and dragged my mind back to the problem in front of us: Roger and the way he treated boundaries like suggestions. Sarah set her mug down with a quiet clink.
-
-“Right,” she said. “So, here’s what’s happening.”
-
-I looked up. She pointed the butter knife toward the front door—an emphatic *we’ve got this*.
-
-“So, *you* are staying here,” Sarah said. “For now, anyway. Definitely until the dust settles.”
-
-*What about Wardrobe*? My voice came out small. “But I have to—”
-
-“No,” Sarah cut in. “Not negotiable. There is nothing you *have* to do except perhaps finish your exit. Safely.” She held my gaze. “If you must, you go back to the house today, while he’s at work, and get essentials. Clothing. Toiletries. Any documents you can find. Anything you cannot replace. Then, you leave. For good. Completely.”
-
-My hands tightened around the mug.
-
-“What about… furniture? Appliances?” I heard myself ask, and the words tasted ridiculous as soon as they left my mouth. I’d spent years treating objects like anchors because I couldn’t imagine having none. Sarah’s eyes went flat.
-
-“Let him keep his bloody toaster,” she said. “You’re not going to die because you didn’t take a couch.”
-
-I felt my breath force its way out: a sharp puff. Her voice lowered.
-
-“Lauren, listen to me. Men like Roger designed the paperwork for this exact contigency. Everything in his name so you’d feel trapped. That’s his strategy. Get you entangled in stuff, make you think it’s security.”
-
-Sarah had her finger on the pulse. Humiliation rose automatically, eager to do its job. She saw it and cut it off before it could speak.
-
-“You’re not stupid,” she said. “You were outmanoeuvred. Women sometimes have to do things against their better judgement to survive in this world.”
-
-My eyes stung. Sarah kept going, calm and ruthless in her practicality.
-
-“Do you want me to come with you?”
-
-I shook my head firmly. I needed to do this alone.
-
-“Fine. Then do it now. Forget Wardrobe today: you have bigger fish to fry. I’ll update Celeste and Mara. You just focus on getting your essentials out. And hand in your keys on your way out, so it’s final.” Her eyes sharpened. “Keep your phone on you. Is it charged?”
-
-There was gentleness in Sarah’s voice, but it had a honed edge: a cold, hard plan of action, with escape routes already built in. It steadied me. I heard my own voice come out clearer than I expected.
-
-“Yes. And I won’t hesitate to call triple zero if I have to.”
-
-Sarah inclined her head, satisfied, then paused. She seemed to be ticking a mental checklist.
-
-“Your car,” she said. “Fuel?”
-
-“Half,” I replied automatically.
-
-“Top it up first,” she ordered. “Not later. First. Then, the house. Then, straight back here.” A pause. “If he calls, don’t answer. If he texts, screenshot. If he turns up, stop what you’re doing and get out. No discussions.” Her expression flickered—something like worry.
-
-“And Lauren?”
-
-“Yes?”
-
-Her voice went a fraction quieter.
-
-“I respect you wanting to do this alone,” she said. “But I so wish you’d let me go with you.”
-
-My throat locked so hard I couldn’t answer properly. I dipped my head and looked down at my toast until my vision cleared.
-
----
-
-By late morning, my little Hyundai i20 was topped up. The balmy morning air made the smell of old fabric and the vanilla air freshener I’d hung years ago all the more welcome. The steering wheel was warm under my hands.
-
-I drove thoughtfully to the house. I was driving to a space I used to live in, not a place where I belonged.
-
-The street was quiet. Neighbours’ curtains were drawn. A lawnmower droned somewhere. I parked and sat for a moment, listening to my own breathing.
-
-My hands were steady. That surprised me most.
-
-Happily, nobody was home. Inside, the house felt exactly the way it always had: meticulous in places, sadly neglected in others, the subtle imbalance of a home built around one person’s comfort.
-
-I moved quickly—not frantic, just efficient. Bedroom: clothes into a bag. Toiletries. My shampoo, my face cream, the small items I’d once treated as “extras” because I was always saving money just in case. In the study I took papers I could find—anything with my name on it, anything that looked important, anything I might need later to prove I’d existed in this marriage as more than a shadow.
-
-My hands didn’t linger on the furniture. The television. The framed photos. They were objects that had been allowed to pretend they were stability. Now, they looked like props.
-
-Somewhere in the stripping-down, a quiet understanding settled in me: this was freedom. A woman moving efficiently through a world that had taught me to make myself small—a lesson I’d never meant to pass on. Take what mattered. Keep moving.
-
-My most expensive assets were my little Hyundai, and a few dresses and shoes I’d bought over the years—back when I’d been trying to remember I was allowed to look nice. And beyond that: my body, my mind, my ability to earn.
-
-That was enough.
-
-When I finished, the house looked barely disturbed. I almost laughed at the irony: I was leaving, and the place still wore the same mask.
-
-At the front door, I paused.
-
-The keys were in my palm, warm from my skin.
-
-I walked back to the kitchen table—the same table where I’d once served dinner like a peace offering—and placed the keys down gently, as if returning something I’d borrowed too long.
-
-Then I went to the door.
-
-I locked it from the inside—another lock, a final act—done on my terms.
-
-I stepped out, pulled the door closed behind me, and felt the click echo in my chest.
-
-For a moment I stood next to my car and looked at the house. It didn’t look like a battlefield. That was the point. The most vicious wars often didn’t leave scorch marks: they left the indelible imprint of painful habits.
-
-I got into my car and drove back to Sarah’s with the sun now hot on the bonnet, with the air-conditioning doing its earnest best. I didn’t once check the rear-view mirror for Roger’s car, refusing to rehearse unreasoning fear.
-
----
-
-Sarah opened the door before I’d even turned off the car’s engine, as if she’d been watching the clock with a vigilance that she would have been pretending wasn’t anxiety.
-
-“Want help unloading?” she asked.
-
-I lifted two document satchels slightly. “Essentials. See? And yes, please.”
-
-Her eyes flicked over them like an inventory, then she bobbed her head at me before heading to the car.
-
-“Your little car can’t hold that much, can it?” She had a look inside. “Okay. I was wrong.”
-
-A few efficient minutes later, I locked the i20 and stepped inside, feeling the cool of the hallway wrap around me like a held breath released. Sarah took the last bit of clothing and carried it down the hall to my room, then returned and held out her hand.
-
-In her palm was a key.
-
-Not a borrowed key that implied temporary mercy, but a simple spare key on an unremarkable ring.
-
-I stared at it.
-
-“Yours.” 
-
-Sarah’s eyes shone. Her voice stayed matter-of-fact, but her gaze was steady, unmistakable.
-
-“You’re not a guest,” she said. “You’re here as long as you want to be. You’re safe now.”
-
-With a slight exhale and a grateful smile, I took the key. It was small. Ordinary. 
-
-Heavy with meaning. 
-
-I stood there a moment with the metal warming in my palm, looking at it as if it might dissolve.
-
-And I closed my fingers around it.
-
-Deliberately.
-
-*End Scene 44.*
-
- 🔑✨
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## u
-### uu
-
-<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## t
-### tt
-
-<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## s
-### ss
-
-<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## r
-### rr
-
-<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## q
-### qq
-
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## p
-### pp
-
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## o
-### oo
-
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## n
-### nn
-
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## m 
-### mm
-
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## l
-### ll
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
-
-
-
-
+But he no longer possessed me.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### ✨ smsmsm ✨
-
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
-

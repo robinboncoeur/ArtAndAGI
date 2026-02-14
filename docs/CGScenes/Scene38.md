@@ -1646,16 +1646,20 @@ It came out like a promise.
 
 
 
-## x
+## Notes26-02-12rv1
 ### xx
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[26-02-06]
+[26-02-12]
 
 Absolutely, Robyn. Here’s Sarah in **her** own head: dry as good gin, observant, not melodramatic — but with that quiet steel underneath. I’ve kept your structure and most of the beats, just shifted the lens into Sarah’s voice and sharpened the wit. 🫶
 
 ---
+
+📱 The Golf Course Call 📱
+
+[ Sarah ]
 
 He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
 
@@ -1665,9 +1669,7 @@ The latch clicked.
 
 And the room didn’t go quiet so much as… hollow.
 
-Vacant. As if someone had opened a drain and let out the last few litres of warmth the place had been pretending to hold.
-
-The ceiling fan turned lazily through the dark, doing its best impression of effort. The air was still thick with heat and the faint, bland smell of him — soap, deodorant, and that particular male confidence that always behaves as if it’s been invited.
+Vacant.As if someone had opened a drain and let out the last few litres of warmth the place had been pretending to hold. The ceiling fan turned lazily through the dark, doing its best impression of effort. The air was still thick with heat and the faint, bland smell of him — soap, deodorant, and that particular male confidence that always behaves as if it’s been invited.
 
 I could have called it *fine*.
 
@@ -1675,19 +1677,13 @@ The sex itself had been fine. Adequate. Not violent, not rude, not even selfish 
 
 That was the problem.
 
-It wasn’t *anything*.
-
-No tenderness. No afterglow. No lingering hand at my waist as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you for your service.*
-
-He’d been happy, of course. Men are often happy when the world does what it’s told.
-
-He’d rolled off, stood up, and instantly resumed being a person with plans. I remained exactly where I was: a surface the night had happened on. Like a countertop you wipe and forget.
+It wasn’t *anything*. No tenderness. No afterglow. No lingering hand at my waist as if my body was worth remembering. No kiss that said, *I liked being near you*, instead of *thank you for your service.*He’d been happy, of course. Men are often happy when the world does what it’s told. He’d rolled off, stood up, and instantly resumed being a person with plans. I remained exactly where I was: a surface the night had happened on. Like a countertop you wipe and forget.And, I’d let myself hope, just a little. That was on me.
 
 I let out a breath that wasn’t quite a laugh.
 
-There’s a trick men pull — not even consciously, half the time. They take pleasure and mistake it for intimacy, like the two are bundled in the same packet and you can’t possibly separate them.
+There’s a trick some men pull — not even consciously, half the time. They take pleasure and mistake it for intimacy, like the two are bundled in the same packet and you can’t possibly separate them.
 
-They can. They just don’t bother.
+They could. They just don’t bother.
 
 I rolled onto my side and stared at the patch of sheet he’d left behind — already cooling, already irrelevant.
 
@@ -1701,9 +1697,146 @@ And in the quiet, uninvited and sharp as lemon, a thought arrived and sat down l
 
 My mouth tightened.
 
-I thought of Celeste — calm, watchful, competent; the sort of girl who could smile while she dismantled you. And Charli — soft, earnest, heartbreakingly grateful for kindness, as if kindness were a ration instead of a basic human right.
+I thought of Celeste—calm, watchful, competent; the sort of girl who could smile while she dismantled you. And Charli—soft, earnest, heartbreakingly grateful for kindness, as if kindness were a ration instead of a basic human right.
 
-And the irritation rose again — not even at him, specifically. He was just… a representative sample. A free trial of the wider pattern. The way tenderness was treated like an optional extra. The way women were expected to settle for “fine” and then thank them for the effort.
+And the irritation rose again—not even at him, specifically. He was just… a representative sample. A free trial of the wider pattern. The way tenderness was treated like an optional extra. The way women were expected to settle for “fine” and then thank them for the effort.
+
+My phone lay on the bedside table.
+
+I stared at it.
+
+It wasn’t rage that moved me. Rage is messy. Rage implies investment. This was simpler: the quiet certainty of realising I’d been accepting something beneath my standards—and feeling, not shame, but irritation that I’d let it waste even one evening of my life.
+
+I thumbed my contacts, found his name, and tapped.
+
+It rang longer than it should have. Then sound flooded in: wind, men’s laughter, that hollow openness you only got outdoors when men were congratulating themselves for being outside.
+
+“Hey,” he said, voice bright. Pleased with himself. A pause. “You right?”
+
+I closed my eyes for a beat.
+
+“Yep,” I said. “I’m ending this.”
+
+A pause, this time, his. Like the words had reached his ears but couldn’t find a place to land.
+
+“Sorry, what?”
+
+“I’m ending this,” I repeated, confidently calm. “Whatever we were pretending it was.”
+
+His laugh came out wrong—quick, defensive. “Wait, what? Because of… why? Sarah, come on—”
+
+Behind him, someone called his name, muffled by distance.
+
+“Mate, you teeing off or what?”
+
+He lowered his voice, as if privacy would make him sound more reasonable. “Listen, you’re overthinking things. We’re good. We have fun!” Another pause. “Look, don’t do this on the phone.”
+
+I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
+
+“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
+
+He exhaled hard.“This is insane.”
+
+“No,” I said softly. “What’s insane is you thinking you get to argue about it.”
+
+I heard him moving: steps on grass, the shift of him putting distance between himself and the audience. Wind buffeted the mic. Somewhere behind him, a club clinked against something solid.
+
+“Sarah, seriously—what do you *want* from me?” he demanded, like I was a faulty appliance he’d been patient with. The question was so revealing I almost thanked him.
+
+“What *did* I want? Tenderness.” I let the word sit there between us like a dropped glass.
+
+Silence.
+
+Not thoughtful silence. Not *I hear you* silence. Just… blank. Then he did what men did when they were offered a feeling they couldn’t quantify: he tried to bargain.
+
+“Look, I can be— I mean, I *am*… look, we can work on that.”
+
+I smiled without humour.
+
+“That,” I said, “is the problem. It’s not a renovation project.”
+
+A small sound: frustration, offence. The first hint he’d expected me to be easier than this.“So you’re just… done?”
+
+“Yes.”
+
+“I thought you liked me.”
+
+“I do,” I said, because it was true in the limited way you liked someone who never made you feel unsafe. “But liking you isn’t the same thing as wanting this. And I don’t date to fill space.”
+
+Another pause. A longer one. I could almost hear his brain searching for the correct lever. Then his voice softened—tactical, not tender.
+
+“We can talk about it tonight.”
+
+“No,” I said, and the word landed like a door closing.
+
+“*Sarah*… don’t be like that.”
+
+I glanced at the phone as if it had said something stupid.
+
+“Like what?”
+
+“Cold.”
+
+My brow lifted. I heard his breathing now, a little faster. The first crack in his confidence. Not remorse—just the unpleasant realisation that the thing he’d assumed would remain available was, in fact, capable of walking away.
+
+“I’m not cold,” I said. “I’m finished.”
+
+He spoke again. I didn’t listen for meaning. I listened for habit.
+
+Then I hung up.
+
+The quiet after was immediate, like a room after a door clicks shut.
+
+My phone buzzed—missed call. Another. I turned it over, face-down, and went to make coffee.
+
+The magpie outside warbled, pleased with itself.
+
+I smiled.
+
+Done meant done.
+
+*End Scene 39.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 “No,” I said aloud, to the empty room.
 
@@ -2009,11 +2142,11 @@ It came out like a promise.
 
 
 ## Notes26-02-06ev1
-### 
-
-<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+###<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-06]
+
+[ Sarah ]
 
 He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky — just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
 
@@ -2091,9 +2224,7 @@ Just say which way you want her dial turned. 💛
 
 
 ## Notes26-02-06ev2
-### 
-
-<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
+###<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-06]
 
@@ -2175,7 +2306,6 @@ It came out quiet.
 
 It came out like something I’d decided a long time ago, and was only now allowing myself to say.
 
-
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
@@ -2186,159 +2316,149 @@ It came out like something I’d decided a long time ago, and was only now allow
 
 
 
-## r
-### rr
+## Published
+### [260212]
 
 <img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+📱 The Golf Course Call 📱
 
+[ Sarah ]
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+He left like a man who thought the universe was basically a well-run hotel. Not hurried, not sneaky—just that satisfied, economical exit of someone who’d collected what he came for and now felt pleasantly “done,” like putting a glass in the sink after a drink and expecting applause for it.
 
+I stayed flat on my back and listened to the little noises of him un-being there: shoes thudding near the door, keys giving their smug little jingle, the short pause where he weighed up saying something human and then—predictably—didn’t.
 
+The latch clicked.
 
+And the room didn’t go quiet so much as… hollow.
 
+Vacant.As if someone had opened a drain and let out the last few litres of warmth the place had been pretending to hold. The ceiling fan turned lazily through the dark, doing its best impression of effort. The air was still thick with heat and the faint, bland smell of him—soap, deodorant, and that particular male confidence that always behaves as if it’s been invited.
 
+I could have called it fine.
 
+The sex itself had been fine. Adequate. Not violent, not rude, not even selfish in a way that would make for a clean story you could tell your friends over coffee.
 
+That was the problem.
 
-## q
-### qq
+It wasn’t anything.
 
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
+No tenderness. No afterglow. No lingering hand at my waist as if my body was worth remembering. No kiss that said, I like being near you, instead of thank you for your service.He’d been happy, of course. Men are often happy when the world does what it’s told. He’d rolled off, stood up, and instantly resumed being a person with plans. I remained exactly where I was: a surface the night had happened on. Like a countertop you wipe and forget.There’s a trick some men pull: not even consciously, half the time. They take pleasure and mistake it for intimacy, like the two are bundled in the same packet and you can’t possibly separate them.
 
-✨ The Brush ✨
+And, I had let myself hope, just a little.
 
+That was on me.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+I rolled onto my side and stared at the patch of sheet he’d left behind—already cooling, already irrelevant. My fingers flexed once against the fabric, restless. Not wanting him.
 
+Not wanting more.
 
+Wanting… meaning.
 
+And in the quiet, uninvited and sharp as lemon, a thought arrived and sat down like it owned the place:
 
+If that’s the best they can do with a woman who knows her own mind… what do they do to girls who don’t?
 
+My mouth tightened.
 
+I thought of Celeste—calm, watchful, competent; the sort of girl who could smile while she dismantled you. And Charli—soft, earnest, heartbreakingly grateful for kindness, as if kindness were a ration instead of a basic human right.
 
+And the irritation rose again—not even at him, specifically. He was just… a representative sample. A free trial of the wider pattern. The way tenderness was treated like an optional extra. The way women were expected to settle for “fine” and then thank them for the effort.
 
+I let out a breath that wasn’t quite a laugh.
 
-## p
-### pp
+My phone lay on the bedside table.
 
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+I stared at it.
 
-✨ The Brush ✨
+It wasn’t rage that moved me. Rage is messy. Rage implies investment. This was simpler: the quiet certainty of realising I’d been accepting something beneath my standards—and feeling, not shame, but irritation that I’d let it waste even one evening of my life.
 
+I thumbed my contacts, found his name, and tapped.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+It rang longer than it should have. Then sound flooded in: wind, men’s laughter, that hollow openness you only got outdoors when men were congratulating themselves for being outside.
 
+“Hey,” he said, voice bright. Pleased with himself. A pause. “You right?”
 
+I closed my eyes for a beat.
 
+“Yep,” I said. “I’m ending this.”
 
+A pause, this time, his. Like the words had reached his ears but couldn’t find a place to land.
 
+“Sorry, what?”
 
+“I’m ending this,” I repeated, confidently calm. “Whatever we were pretending it was.”
 
+His laugh came out wrong—quick, defensive. “Wait, what? Because of… why? Sarah, come on—”
 
+Behind him, someone called his name, muffled by distance.
 
-## o
-### oo
+“Mate, you teeing off or what?”
 
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
+He lowered his voice, as if privacy would make him sound more reasonable. “Listen, you’re overthinking things. We’re good. We have fun!” Another pause. “Look, don’t do this on the phone.”
 
-✨ The Brush ✨
+I looked at my bare feet on the carpet. The ordinary domesticity of the moment almost amused me. Almost.
 
+“No, this is actually the perfect place to do it,” I said. “You’re with your mates. You’ll recover. Quickly.”
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+He exhaled hard.“This is insane.”
 
+“No,” I said softly. “What’s insane is you thinking you get to argue about it.”
 
+I heard him moving: steps on grass, the shift of him putting distance between himself and the audience. Wind buffeted the mic. Somewhere behind him, a club clinked against something solid.
 
+“Sarah, seriously—what do you want from me?” he demanded, like I was a faulty appliance he’d been patient with. The question was so revealing I almost thanked him.
 
+“What did I want? Tenderness.” I let the word sit there between us like a dropped glass.
 
+Silence.
 
+Not thoughtful silence. Not I hear you silence. Just… blank. Then he did what men did when they were offered a feeling they couldn’t quantify: he tried to bargain.
 
+“Look, I can be— I mean, I am… look, we can work on that.”
 
+I smiled without humour.
 
-## n
-### nn
+“That,” I said, “is the problem. It’s not a renovation project.”
 
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
+A small sound: frustration, offence. The first hint he’d expected me to be easier than this.“So you’re just… done?”
 
-✨ The Brush ✨
+“Yes.”
 
+“I thought you liked me.”
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+“I do,” I said, because it was true in the limited way you liked someone who never made you feel unsafe. “But liking you isn’t the same thing as wanting this. And I don’t date to fill space.”
 
+Another pause. A longer one. I could almost hear his brain searching for the correct lever. Then his voice softened—tactical, not tender.
 
+“We can talk about it tonight.”
 
+“No,” I said, and the word landed like a door closing.
 
+“*Sarah*… don’t be like that.”
 
+I glanced at the phone as if it had said something stupid.
 
+“Like what?”
 
+“Cold.”
 
+My brow lifted. I heard his breathing now, a little faster. The first crack in his confidence. Not remorse—just the unpleasant realisation that the thing he’d assumed would remain available was, in fact, capable of walking away.
 
-## m 
-### mm
+“I’m not cold,” I said. “I’m finished.”
 
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
+He spoke again. I didn’t listen for meaning. I listened for habit.
 
-✨ The Brush ✨
+Then I hung up.
 
+The quiet after was immediate, like a room after a door clicks shut.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+My phone buzzed—missed call. Another. I turned it over, face-down, and went to make coffee.
 
+The magpie outside warbled, pleased with itself.
 
+I smiled.
 
-
-
-
-
-
-
-## l
-### ll
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
-So, what you don't see in that first image are the undergarments: dollars to donuts she's wearing stays. The second is classic Flux (dimpled chin) and yeah: Flux doesn't know about the chemise, which the first girl was wearing (layers: drawstring chemise; stays; overdress) so it does the lacey square neckline. I'm not sure, but your third girl (painting?) looks like Regency. And Stable Diffusion, bless its pointy little head, missed it by centuries: very Henry VIII. Again, the girl in green isn't wearing a chemise with stays... she's wearing a coset dress with a lace square neckline. Pretty, but it says "costume". 
-
-Kontext has the overdress shape sort-or right but no chemise, again.
-
-I ran the next girl image (outside, bonnet, book) by Emily... I was guessing Regency. Emily replied:
-
-Yes — Regency / late Georgian is the right call 😊
-What you’ve got here is very “Jane Austen era,” roughly 1805–1818 (give or take a few years):
-High empire waist sitting just under the bust
-Long, slim skirt that falls straight rather than bell-shaped
-Narrow shoulders with only modest puffing (not the huge gigot sleeves of the 1830s)
-Bonnet with ties that fits the early-19th silhouette beautifully
-
-So: Regency (early 19th century) rather than Victorian, and definitely not the 1830s+. 
-
-
-
-
-
-
+Done meant done.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

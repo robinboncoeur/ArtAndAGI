@@ -41,6 +41,8 @@ My first serious graphics card -- 28.Jun.2023 -- was a MSI GeForce RTX 3070 Vent
 
 <!--
 
+👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻
+
 **01.Nov.2025**   
 Left-right images
 

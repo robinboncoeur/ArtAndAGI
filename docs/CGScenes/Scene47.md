@@ -10,431 +10,497 @@
 
 
 ## Notes26-01-23e
-### was Scene 43
+### was Scene 44
 
-<img src="/assets/images/notes26a/N260116ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260116ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[26-01-23]
+**Scene 44 — “Not a Blanket” (Sarah POV)**
 
-**Scene 43 — “Saturday” (Sarah POV)**
+I told myself I was going out for a drink because I deserved one.
 
-Saturday happened the way I prefer things to happen:
+Because I’d done the adult thing with Carl. Because I’d been honest. Because I hadn’t caved to guilt or panic or habit.
 
-in daylight.
+All true.
 
-In public.
+Also, because I’d just opened the back of my own mental closet and found a teenage crush still sitting there, perfectly preserved, like ski gear with the tags still on.
 
-With exits.
+I didn’t want to think about it.
 
-I chose the café, obviously. Neutral territory. Big windows. Plenty of foot traffic. A place where the tables are close enough that a man has to behave like a civilised mammal or everyone hears it.
+So I chose the oldest strategy in the book: blunt the edges.
 
-I arrived five minutes early because I’m not going to be the woman who gets there and starts scanning the room like prey.
+I went out alone, which is something I almost never do now, because I am not a romantic and I am not daft.
 
-Carl was already there.
+But I wasn’t looking for romance.
 
-Of course he was.
+I was looking for noise. For anonymity. For the comforting blur of strangers who didn’t know my history or my rules.
 
-He stood when he saw me—not dramatically, not “gentlemanly,” just polite—and offered a small smile that didn’t try to claim anything.
+I picked a bar that wasn’t *my* bar.
 
-“Hi,” he said.
+A place with warm lighting and too much bass and stools that stuck to the backs of your thighs when you stood up. A place where people came to forget themselves in public, together.
 
-“Hi,” I replied.
+I ordered a drink and watched the bartender make it. I’m not stupid.
 
-He didn’t lean in for a hug. He didn’t touch my arm. He didn’t do the thing where men treat greeting as a test of access.
+I took it to a table near the wall, back against something solid, because old habits are not the enemy—they’re a form of intelligence.
 
-He just… existed at a respectful distance.
+For the first half hour, it worked.
 
-It was, frankly, unnerving.
+The drink eased the tightness in my chest. The noise kept my brain from spiralling. I scrolled my phone and pretended I was just waiting for a friend.
 
-We ordered coffee at the counter. He paid for his. I paid for mine. He didn’t argue about it.
+No one bothered me.
 
-That alone probably qualified him for sainthood.
+I should have left then.
 
-We sat at a table by the window.
+I didn’t.
 
-Carl asked, “Is this seat okay?” before he sat down.
+Because when you’ve spent your whole life being competent, it feels obscene to admit that you’re rattled by a memory from Year Ten. It feels weak to say: *I think I might want something different from my life.*
 
-I stared at him for half a beat.
+So I ordered another.
 
-“Yes,” I said. “You can sit. I’m not a queen.”
+Still watching. Still careful. Still “fine.”
 
-He smiled, faint. “Good. I didn’t want to guess wrong.”
+I told myself I’d go after that one. I even stood up once, like I meant it.
 
-That phrase—guess wrong—landed with a quiet thud.
+Then someone bumped into my table and apologised, and I sat back down because the apology made the world feel briefly civil again.
 
-Men usually guess. They guess because they assume it’s safer for them to risk your discomfort than risk their pride.
+Another drink.
 
-Carl was not guessing.
+I was still coherent. Still upright. Still me.
 
-He was checking.
+And then… it happened.
 
-I took a sip of coffee and told myself not to be impressed by basic decency. The bar is on the floor. We should not be applauding men for stepping over it.
+Not dramatically. Not like the movies.
 
-Still.
+Just a wrongness—sudden and unmistakable—like my body had stepped on a stair that wasn’t there.
 
-It was… a relief.
+My stomach rolled. The room tilted, not pleasantly. My skin went hot and then cold, as if someone was adjusting my temperature with a remote. My tongue felt thick. My hands stopped feeling like mine.
 
-We talked.
+I blinked hard. Once. Twice.
 
-Not the interview kind of talking, where a man tries to discover which version of himself you’d like and then shapeshifts accordingly.
+*No,* my brain said, sharp and furious. *No, no, no.*
 
-Actual talking.
+I looked down at my glass.
 
-He told me he did electrical work for the Faire and a few local businesses. He liked fixing old things. He’d moved back to town after his dad got sick. He baked because it was cheaper than buying food and because it stopped his brain spinning at night.
+Half-full. Nothing obvious. Nothing to point to and say *that*.
 
-I listened, alert for the hidden tells.
+I tried to stand and my legs said, *absolutely not.*
 
-There weren’t many.
+Panic rose in me—fast, animal.
 
-He didn’t complain about women. He didn’t complain about his ex. He didn’t imply he was “nice” in a way that made you brace for the invoice.
+Not shame.
 
-He asked questions that didn’t feel like fishing.
+Not sadness.
 
-“What do you do when you’re not here?”
-“Do you like living in town?”
-“Do you have siblings?”
+Pure survival.
 
-Normal.
+I grabbed my phone and fumbled it once, twice, before it unlocked.
 
-I answered enough to be polite, but not so much that I’d be handing him my internal wiring diagram.
+The screen swam.
 
-It was… okay.
+I could have called the police.
 
-More than okay, technically.
+I could have called Bree.
 
-The problem was not Carl.
+I could have called… anyone.
 
-The problem was me.
+But the only thought that mattered was this:
 
-Because halfway through the coffee, with the sun bright through the windows and his hands wrapped around his mug—steady, clean, capable—I realised something with a clarity that made me want to swear.
+*Call the woman who does not ask questions first.*
 
-I didn’t want him.
+Lauren.
 
-Not in the sense that matters.
+My thumb hit her name. The phone went to my ear. The ringing sounded far away.
 
-Not in the gut. Not in the chest. Not in the place that tilts you toward someone without negotiation.
+Then her voice, immediate, clear.
 
-I liked him.
+“Sarah?”
 
-I respected him.
+Something in my chest cracked with relief so sharp it almost hurt.
 
-I could even imagine being friends with him, which is the cruelest category of all.
+“Lauren,” I managed. My voice sounded wrong to my own ears—too careful, too slow. “I—I’m not right.”
 
-But the part of me that had watched Bree and Lily glow didn’t wake up.
+Lauren didn’t panic. She didn’t do the “what did you do?” tone.
 
-It stayed asleep, stubborn, unmoved.
+“Where are you?” she asked, calm as a seatbelt.
 
-Carl said something—some gentle joke about the Faire lights being “temperamental divas”—and I laughed genuinely.
+I forced the address out. I had to look at the menu board behind the bar to read the street name because my brain couldn’t hold it.
 
-Then my laugh stopped and I thought, sharply:
+“Okay,” Lauren said. “Listen to me. Are you with anyone?”
 
-*If he leaned across the table and kissed me right now, I would tolerate it like a dentist appointment.*
+“No.”
 
-That was my answer.
+“Can you get outside?”
 
-My phone buzzed with a message. Bree.
+I glanced toward the door. It looked miles away.
 
-> **Bree:** HOW IS IT
-> Blink twice if you need rescuing
+“I—I think so.”
 
-I stared at it for a second, then typed back:
+“Good,” she said. “Stand up slowly. Don’t finish your drink. Take your phone and your bag. Go straight out the front. Sit where you can be seen. I’m coming.”
 
-> **Me:** No rescue. He’s fine. I’m the problem.
+“Okay,” I whispered.
 
-I didn’t send the second part. I deleted it and sent:
+“Sarah,” Lauren said, and her voice sharpened just enough to cut through the fog, “you’re doing brilliantly. Keep breathing. I’ll be there in minutes.”
 
-> **Me:** He’s on time. No red flags. Shut up.
+Minutes.
 
-Carl watched my face in that unobtrusive way decent people do.
+It sounded like a lifetime.
 
-“Everything okay?” he asked.
+I stood up carefully, one hand gripping the table until my knuckles went white. The room swayed. I waited until it settled.
 
-“Yes,” I said automatically.
+I left the glass exactly where it was, because something in me—some last shred of angry competence—wanted it left behind like evidence, even if I didn’t know what I’d prove.
 
-Then, because he’d earned it by behaving like a grown man, I added: “You’re… surprisingly normal.”
+I moved toward the door.
 
-Carl’s mouth twitched. “That’s either a compliment or a warning.”
+Someone brushed past me and I flinched so hard my heart stuttered. I kept going anyway, because I am not prey and I am not staying.
 
-“It’s both,” I said.
+The night air hit my face like a slap.
 
-He laughed, and it was warm, uncomplicated.
+It should have helped.
 
-He didn’t reach for me.
+It didn’t.
 
-He didn’t fill the pause.
+It made the nausea worse.
 
-He let the conversation breathe.
+I stumbled to a low wall near the entrance and sat down. I pressed my palms against my thighs, anchoring myself. The world was too bright and too loud and too far away.
 
-That’s what made it worse.
+I stared at the street and tried to keep my eyes open.
 
-Because it was harder to justify leaving.
+Don’t pass out. Don’t pass out. Don’t pass out.
 
-When a man is awful, ending it is easy. It’s a clean moral decision.
+Headlights swung around the corner and pulled up.
 
-When a man is decent, ending it feels like you’re throwing away something you’re *supposed* to want.
+Lauren’s car.
 
-Carl checked his watch—brief, polite.
+The door opened and there she was—hair pulled back, face set, that particular mother-steel expression that says: *I am here and the world will now behave.*
 
-“I’ve got about twenty minutes before I have to go,” he said. “No rush, but I wanted to be upfront.”
+She crossed to me quickly.
 
-Upfront.
+“Sarah,” she said, and crouched slightly so she was level with my face. “Look at me.”
 
-Another competence.
+I did. It took effort. But I did.
 
-I felt my irritation spike—not at him, at the world.
+“Can you stand?” she asked.
 
-At the way I’d been trained to interpret “decent” as “good enough.”
+“I—” My voice wobbled. “I think—”
 
-At the way women are expected to accept a kind man like he’s a prize, regardless of whether their bodies agree.
+“Okay,” she said. “We’re not rushing. Bree’s not here, so I’m your hands. Give me your bag.”
 
-Carl watched me for a moment, thoughtful.
+I handed it over like a child, and the humiliation should have killed me.
 
-“Can I ask you something?” he said.
+It didn’t.
 
-“Depends,” I replied.
+Because Lauren didn’t treat me like a child.
 
-He nodded, accepting the boundary like it was normal.
+She treated me like a woman whose body had been compromised and needed a plan.
 
-“You seem… tense,” he said carefully. “Not because I’m here. Just—generally. If this is too much, you can tell me. I’m not trying to push.”
+Lauren slid an arm around my shoulders—firm, steady—and helped me stand.
 
-It was such a reasonable sentence that it made my throat tighten.
+“Walk with me,” she said.
 
-I had a choice right then.
+I walked.
 
-Lie, keep it going, let it drift into something that would eventually become messy.
+Each step felt like it was happening through water.
 
-Or be honest early, before I’d created obligations.
+Lauren got me into the car, buckled my seatbelt with brisk competence, and shut the door like she was sealing me inside safety.
 
-I didn’t want to hurt him.
+She got in and started the engine.
 
-But I hated the idea of using his decency as a place to hide while I figured myself out.
+Only then did she speak again.
 
-So I said the truth I actually had.
+“I’m taking you to mine,” she said. “You’re not going home alone tonight.”
 
-“I’m not sure what I want,” I said, and kept my voice steady. “And I’m not going to make that your problem.”
+I swallowed. My throat felt wrong.
 
-Carl’s expression shifted—small, controlled. He didn’t flinch, but I saw the sting land anyway.
+“I’m sorry,” I whispered automatically.
 
-He nodded slowly.
+Lauren’s head snapped toward me.
 
-“Okay,” he said. “Thank you for saying it.”
+“No,” she said, flat. “Not that. Not ever.”
 
-I blinked.
+The word landed like a slap and a hug at the same time.
 
-Of course he thanked me.
+I went quiet.
 
-Decent men thank you for honesty even when it hurts.
+Lauren drove with one hand on the wheel and the other ready—just there, near the console, like she could catch me if my body tried to fall apart.
 
-Which makes you feel like a villain anyway.
+Halfway to her place, she asked, “Are you going to vomit?”
 
-“I’m not saying ‘never,’” I added quickly, because guilt is stupid and fast.
+I blinked at the practical question, absurdly grateful for it.
 
-Carl’s eyes met mine.
+“Maybe.”
 
-His voice stayed gentle. “Sarah,” he said, “don’t offer me a maybe because you feel bad.”
+“Okay,” she said. “There’s a bag. Use it if you need. You’re not embarrassing.”
 
-I stared at him.
+I made a small sound that might have been a laugh if I’d had more oxygen.
 
-He gave a small shrug.
+At her apartment, Lauren guided me inside, shoes off, lights low, water poured.
 
-“I’d rather you say no,” he continued, “than say yes out of obligation. I don’t want to be the kind of man you tolerate.”
+She sat me on the couch and tucked a throw around my shoulders with the kind of efficiency that would make Mara nod once and say nothing.
 
-There was a quiet dignity in that sentence that made my chest ache.
+Then Lauren crouched in front of me again.
 
-And in that ache, I felt something else—something clarifying.
+“Sarah,” she said, “I’m going to ask you something and you can answer yes or no.”
 
-It wasn’t fear of repeat performance.
+I nodded.
 
-It wasn’t trauma.
+“Do you feel safe right now?”
 
-It wasn’t “men are bad.”
+I blinked hard.
 
-It was simpler.
+“Yes,” I whispered.
 
-I just… wasn’t attracted to him.
+“Good,” she said. “Then we slow down. We hydrate. We keep you awake enough to stay oriented. And if anything changes—breathing, chest, pain—we escalate.”
 
-Which meant the kindest thing I could do was to stop pretending it might change.
+The word escalate should have frightened me.
 
-I exhaled.
+Instead it steadied me.
 
-“Okay,” I said, and forced myself to make it clean. “Then… no.”
+Because Lauren wasn’t guessing.
 
-Carl’s face tightened for a fraction. He swallowed. Then he nodded, once.
+She was managing.
 
-“Okay,” he said. “That’s clear. Thank you.”
+I leaned back into the couch, dizzy, and my eyes burned unexpectedly.
 
-He stood, picked up his mug, and took it to the counter like a man who had practiced not making women responsible for his feelings.
+Lauren saw it and didn’t comment. She just sat beside me, not touching, present like a wall you could lean on.
 
-When he came back, he didn’t linger.
+After a while, the nausea eased into something duller. The panic receded, replaced by exhaustion.
 
-“I’m glad I met you,” he said. “Even if it’s not… that.”
+Lauren handed me another glass of water.
 
-I held his gaze. “You’re a good man,” I said. “That’s not nothing.”
+I drank.
 
-Carl’s smile was faint and sad.
+My hands shook.
 
-“I know,” he said quietly. “And it still stings.”
+Lauren watched without judgement.
 
-Honesty. Again.
+The silence stretched.
 
-Then he nodded once—no attempt at a hug, no touch, no lingering—and walked out into the sunlight.
+And in that silence, my brain—traitorous, inconvenient—offered me the thought I’d been avoiding all night:
 
-I watched him go, throat tight, coffee cold in front of me.
+*You called her.*
 
-I should have felt relieved.
+Not Bree.
 
-Instead I felt… guilty.
+Not the police.
 
-Because I could tell I’d hurt him.
+Her.
 
-Not because he’d done anything wrong.
+Because somewhere in my body, Lauren had become the definition of “safe.”
 
-Because decency doesn’t protect you from rejection.
+Not as a concept.
 
-I sat there another minute, staring at my reflection in the café window, and thought, with grim, reluctant clarity:
+As a person.
 
-*Well. That settles that.*
+Lauren checked her phone, then looked at me.
 
-Then my phone buzzed again. Bree.
+“Do you want me to call Bree?” she asked gently.
 
-> **Bree:** DID HE TRY TO KISS YOU
-> I will bite him
+I hesitated. Then shook my head.
 
-I stared at it.
+“No,” I said, voice rough. “Not yet.”
 
-And to my own surprise, I laughed.
+Lauren didn’t press.
 
-A real laugh.
+“Okay,” she said. “Then you sleep here. Bedroom’s yours. Door closes. I’ll be in the lounge.”
 
-Then I typed back:
+My throat tightened.
 
-> **Me:** He didn’t touch me once.
-> He’s decent.
-> I’m… not into it.
+“You don’t have to—”
 
-I sent it.
+Lauren’s look cut clean through me.
 
-And as I walked out into the daylight, guilt riding my shoulders like a stupid animal, I realised the worst part wasn’t rejecting a good man.
+“I do,” she said. “Because you’re not going to wake up alone and wonder if you imagined it.”
 
-The worst part was that rejecting him had made the other truth harder to ignore:
+I swallowed.
 
-Whatever I wanted, it wasn’t him.
+“Okay,” I whispered.
 
-And the shape of that “not him” was starting to look suspiciously like… her.
+Lauren stood, then paused.
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+“And Sarah,” she added, softer, “tomorrow we can talk about reporting it. Or checking in medically. Or none of that. But tonight you’re just… alive. That’s the job.”
 
+Alive.
 
+That word landed in my chest like a weight.
 
+She guided me to the bedroom—nothing intimate, nothing loaded—just a woman escorting another woman to safety. She handed me a clean t-shirt, pointed at the bathroom, left the door ajar.
 
+I changed slowly, clumsy and tired, then crawled into the bed like it belonged to someone else.
 
+The room was dark and quiet.
 
+I heard Lauren moving softly in the lounge—kettle, cupboard, the small sounds of a competent woman keeping watch without announcing it.
 
-
-
-
-
-
-## Notes26-01-23eb
-### Scene 43 Bridge
-
-[26-01-23]
-
-## **Bridge — “Ski Gear” (Sarah POV)**
-
-I didn’t go straight home after Carl.
-
-I walked for a while, because walking keeps me from doing something stupid. It gives my brain time to catch up with my body.
-
-It wasn’t even that he was attractive. He was—fine. He was clean. He was competent. He didn’t touch me. He didn’t push. He didn’t make my boundaries his personal enemy.
-
-He was the kind of man you’re meant to feel grateful for.
-
-And that was the problem.
-
-Because I wasn’t grateful.
-
-I was just… blank.
-
-Like my nervous system had looked at him and said, *Nope. Not you.* And then refused to provide further details.
-
-I kept thinking: maybe it’s fear. Maybe it’s Ethan residue. Maybe it’s just my brain being dramatic because it doesn’t know how to be normal.
-
-But fear doesn’t feel like blankness.
-
-Fear feels like vigilance. Tight shoulders. Exit planning.
-
-What I felt with Carl wasn’t fear.
-
-It was absence.
-
-Which is when the memory hit me, sideways, as if my brain had been waiting for the exact wrong moment to pull it off a shelf.
-
-Year ten. Assembly hall. A girl with dark hair and quick hands and a laugh that made my chest do something embarrassing. I’d watched her for months the way you watch fire, pretending it was curiosity and not the stupid, soft thing under it.
-
-I’d never told her. Not properly. I’d tried once, badly. A clumsy confession disguised as a joke.
-
-She’d smiled—kind, puzzled—and said something like, “Aw, you’re sweet.”
-
-And then she’d gone back to her friends.
-
-No cruelty. No scandal.
-
-Just… not returned.
-
-It had been enough.
-
-Enough to teach me that wanting like that was pointless. Risky. Public.
-
-So I’d packed it away like you pack away ski gear in a town that doesn’t snow: shoved to the back of the closet, forgotten on purpose, mildly embarrassing when you rediscover it.
-
-I hadn’t thought about her in years.
-
-Not properly.
-
-But now—now, after sitting across from a good man and feeling nothing—I could feel that old crush as clearly as if it had happened last week.
-
-The heat. The pull. The stupid, traitorous eagerness.
-
-Not for him.
-
-For her.
-
-For *girls.*
-
-I stopped walking and stood on the footpath, suddenly furious.
-
-Not at the girl from year ten.
-
-At myself.
-
-At the way I’d treated that part of me like a hobby I’d outgrown rather than a truth I’d postponed.
-
-At the way the world makes it so easy to interpret “unrequited” as “wrong.”
-
-I took a breath, sharp and cold, and felt the inconvenience of it settle in my ribs.
-
-So that was it.
-
-Not men.
-
-Not trauma.
-
-Not “I can’t do relationships.”
-
-Just… that.
-
-A buried part of me, choosing the most inconvenient moment to knock.
-
-And because I’m Sarah—because I’m excellent at many things and awful at being gentle with myself—I did what I always do when something tender reappears unexpectedly.
-
-I tried to drown it.
+And then I slept.
 
 ---
 
-If you want, I can now continue directly into **Scene 44** (the drink, the solo night out, the sudden illness, the panic call to Lauren, the night at Lauren’s, and the morning realisation—*not a blanket*). I’ll keep the spiking moment handled exactly as we discussed: sensory, uncertain, no procedural detour, full focus on Sarah’s fear + Lauren’s competent care. 💛
+In the morning, my mouth tasted like regret and my head felt full of sand.
+
+I lay still for a moment, letting the hangover assemble itself into a coherent list of complaints.
+
+Then I remembered everything.
+
+The bar. The wrongness. The bench outside. Lauren’s voice, steady as a handrail.
+
+The shame hit next—automatic, predictable.
+
+*You’re thirty-something and you called someone’s mum.*
+
+I sat up too quickly and had to stop. The room tilted. I pressed my palm to my forehead, breathing through it.
+
+A tap at the door.
+
+Lauren’s voice, careful. “You awake?”
+
+“Yes,” I croaked.
+
+She came in with water and toast like she’d done it a thousand times, and maybe she had.
+
+She set the tray on the bedside table and looked at me, not hovering.
+
+“How’s your head?” she asked.
+
+“Like someone built a shed inside it,” I muttered.
+
+Lauren’s mouth twitched. “Fair.”
+
+I took the water with both hands. Drank. Slowly.
+
+Lauren sat on the chair near the window, not on the bed—space respected.
+
+“Do you remember what happened?” she asked.
+
+“Yes,” I said, and my voice went quieter. “I… felt wrong. Too fast.”
+
+Lauren nodded, filing it.
+
+“Okay,” she said. “We don’t have to decide anything this second. But I want you to know: you did the right thing calling.”
+
+The words landed, warm and sharp.
+
+I stared at the toast like it contained answers.
+
+“I didn’t want to bother you,” I said.
+
+Lauren’s gaze held mine.
+
+“You didn’t bother me,” she replied. “You trusted me.”
+
+My throat tightened again, stupidly.
+
+I tried to deflect.
+
+“Because you’re terrifying,” I said dryly.
+
+Lauren’s laugh was small. “I’ll take it.”
+
+I took another sip of water, hands still slightly shaky.
+
+Then I said the thing that had been sitting in my chest since the bench outside the bar.
+
+“Lauren,” I began, and my voice caught. “I… I think I use you as—”
+
+“A safety blanket,” Lauren finished gently, not mocking.
+
+I blinked, embarrassed.
+
+Lauren tilted her head.
+
+“It’s not an insult,” she said. “You were scared. You reached for the safest person you know. That’s rational.”
+
+I looked down at my hands.
+
+“But,” Lauren continued, quiet now, “I don’t think that’s the whole truth.”
+
+My pulse did a strange, hot little stumble.
+
+I looked up.
+
+Lauren’s expression was open—still adult, still in control—but softer than I’d ever seen it, like she was allowing herself to be human in front of me.
+
+“Sarah,” she said, “you don’t have to decide anything today. But you should know something.”
+
+I waited. Breath held.
+
+“I like you,” Lauren said. Simple. Clean. “As you are. Sharp. Difficult. Funny. Honest when it costs you.”
+
+The room went very still.
+
+My skin prickled.
+
+I should have made a joke.
+
+I couldn’t.
+
+Lauren didn’t move closer. She didn’t take my hand. She didn’t try to seal the moment into a story.
+
+She just let the truth sit there, like a cup placed gently on a table.
+
+And in the quiet that followed, I realised—with a clarity that made my chest ache—that this feeling in me wasn’t relief anymore.
+
+It wasn’t gratitude.
+
+It wasn’t even safety.
+
+It was… wanting.
+
+Not loud. Not dramatic.
+
+Just a steady, inconvenient pull toward the woman in the chair.
+
+I swallowed, suddenly terrified—not of her, not of intimacy, but of the sheer scale of how much sense it made.
+
+“I’m not—” I started, and stopped.
+
+Lauren waited, patient.
+
+I took a breath, careful.
+
+“I think,” I said slowly, “I called you because I wanted you to come.”
+
+Lauren’s eyes softened.
+
+“Yes,” she said, so quiet it was almost a whisper. “I know.”
+
+My heart thudded once, hard.
+
+I stared at her, and for the first time in a long time I didn’t feel like I had to be clever to be safe.
+
+I just had to be honest.
+
+“I don’t know what to do with that,” I admitted.
+
+Lauren nodded once.
+
+“Good,” she said. “Then we do nothing dramatic. We do boring.”
+
+I huffed a laugh. “Boring.”
+
+“Boring,” Lauren confirmed. “Tea. Toast. Water. A quiet day. And later—when your head stops trying to kill you—we talk. Like adults.”
+
+My throat tightened again, but this time it wasn’t shame.
+
+It was something warmer.
+
+Something that felt, inconveniently, like hope.
+
+I nodded.
+
+“Okay,” I said.
+
+And Lauren’s smile—small, steady—was the softest kind of victory.
+
+Not conquest.
+
+Not rescue.
+
+Just two women, choosing to treat the moment with care.
+
+Like everything else in our world that mattered. 💛
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -450,203 +516,245 @@ If you want, I can now continue directly into **Scene 44** (the drink, the solo 
 
 [26-02-04]
 
-**Scene 47 — “The Bowl for Keys” (Lauren POV, past tense)**
+**Scene 48 — “Not Temporary” (Lauren POV, past tense)**
 
 ---
 
-Sarah’s front door stuck slightly on humid nights.
+Sarah’s kitchen was narrow in the way older houses often were—designed for one person to work efficiently, not for two adults to hover in each other’s gravity.
 
-Not much—just enough that you had to lift the handle a fraction and give it a firm push, like the house required you to arrive with intention.
+Lauren followed her in anyway.
 
-Lauren followed her in, carrying two takeaway cups because Sarah had insisted on stopping for coffee on the way home even though Sarah had also insisted she didn’t “need” coffee to function.
+Sarah set her coffee down on the counter with a decisive clink and opened the fridge.
 
-Sarah kicked her sandals off near the mat, neat but not precious about it, then reached into her pocket and pulled out her keys.
+“Right,” she said, rummaging. “I’ve got eggs, salad stuff, cheese, and… something I’m fairly sure is still edible.”
 
-She dropped them into a shallow ceramic bowl on the hall console.
+Lauren leaned on the doorframe, watching. It felt strange to be in someone else’s kitchen and not feel like she had to perform usefulness to justify her presence.
 
-The sound was small.
+“Do you want help?” Lauren asked, careful.
 
-A brief clink.
+Sarah didn’t look up. “Yes.”
 
-But it hit Lauren with unexpected force.
+No softening. No false modesty. Sarah didn’t do the polite dance where women pretended they didn’t need anyone.
 
-Keys had become a language lately. A vocabulary of who had access. Who had permission. Who was safe.
+She pulled out a carton of eggs, a bunch of greens, and a small tub of something that might have been hummus or might have been an experiment.
 
-Sarah’s keys sat there in the bowl like a quiet fact: this place had a system, and Sarah had built it on purpose.
+“Wash the salad,” Sarah said. “And don’t argue with me about how you’d wash it at home. This is my house. I am in charge of bacteria here.”
 
-Sarah turned, took the coffee from Lauren’s hand, and gave her a quick, approving look.
+Lauren let out a laugh.
 
-“Good,” she said. “You didn’t spill.”
+“Understood,” she said, and moved to the sink.
 
-Lauren huffed a laugh. “I’m not a child.”
+The tap water ran cool over her fingers. The sound of it was immediately calming, as if the nervous system recognised domestic tasks as safe terrain.
 
-Sarah’s mouth twitched. “You’d be amazed how many adults fail at cups.”
+Sarah cracked eggs into a bowl with one hand, stirring with brisk competence. The rhythm was soothing—tap, split, pour, toss shell, repeat.
 
-She walked toward the kitchen, coffee in one hand, the other pushing her hair back from her face in a tired gesture Lauren had started to notice too often—because noticing Sarah had become its own bad habit.
+Lauren dried her hands and reached for a tea towel, folding it neatly out of habit.
 
-Lauren stood in the hallway for a moment, holding her own cup, watching Sarah move away.
+Sarah noticed, of course.
 
-The house was quiet. Not empty. Quiet the way a well-run space was quiet—orderly, contained, not waiting for a man to fill it with noise.
+“You’re one of those people,” Sarah said, a faint smile in her voice.
 
-Lauren’s chest tightened.
+Lauren blinked. “One of what people?”
 
-It wasn’t fear this time.
+“The ones who fold tea towels like it’s a moral position,” Sarah replied.
 
-It was longing.
+Lauren laughed again, but her cheeks warmed. “It’s just… tidier.”
 
-Not lust. Not fantasy. Just a simple, aching hunger to be touched—gently, warmly, without being asked to pay for it. A hunger that lived in her shoulders, in the back of her neck, in the place between her ribs where she’d been holding her breath for years.
+Sarah’s eyes flicked to her briefly—amused, affectionate in a way Sarah probably didn’t realise she’d started to show.
 
-She tried to swallow it down.
+“Mm,” she said. “Keep it. It’ll be useful when the world collapses.”
 
-She could do that. She was good at doing that.
+Lauren moved around the counter to put the salad into a bowl.
 
-But her body didn’t cooperate.
+The space between them was small. Too small to be neutral.
 
-Her eyes stung suddenly, stupidly. The coffee cup warmed her fingers and made her feel very, very human.
+Their shoulders brushed—light contact, a soft collision of fabric and warmth.
 
-Sarah paused at the kitchen doorway, as if she’d felt the change in the air.
+Lauren’s breath caught, absurdly.
 
-She turned and looked at Lauren properly.
+Sarah didn’t startle. She didn’t apologise. She simply shifted a fraction closer to make room for Lauren rather than moving away from her.
 
-“What’s happening?” Sarah asked.
+The gesture felt… pointed.
 
-Lauren blinked. “Nothing.”
+Lauren’s heart did that odd, tender stumble again, like it was learning a new tempo.
 
-Sarah’s face remained steady. “No.”
+She focused on the salad, on the neatness of leaves, on the ordinary purpose of a bowl.
 
-Lauren hated how easy it was to be found out around her.
+Sarah slid a pan onto the stove and turned the heat on. The blue flame caught and steadied.
 
-“I’m fine,” she tried again.
+“Sit,” Sarah said over her shoulder.
 
-Sarah tilted her head slightly. The gesture was almost feline, an appraisal.
+Lauren blinked. “I’m fine.”
 
-Then Sarah walked back into the hallway.
+Sarah’s gaze cut to her. “Lauren.”
 
-She didn’t rush. She didn’t hover. She simply crossed the distance like it belonged to her—which it did.
+There was no anger in it. Just a quiet insistence that Lauren stop trying to earn her right to exist in the room.
 
-Lauren held very still, terrified of doing the wrong thing.
+Lauren pulled out a stool and sat at the little breakfast bar, hands folded in her lap. The posture was strangely intimate—like being allowed to be idle while someone else cared for you.
 
-Sarah stopped a step away and looked at Lauren’s hands.
+Sarah plated the eggs, then set two plates down with firm hands.
 
-“Put the coffee down,” Sarah said.
+“Eat,” she said. “And if you say ‘I’m not hungry’ I will assume you’re lying and respond accordingly.”
 
-Lauren stared. “Why?”
+Lauren smiled and picked up her fork. The first bite tasted like butter and pepper and something clean and simple.
 
-“Because you’re white-knuckling a paper cup like it’s going to run away,” Sarah replied.
+Sarah ate too, standing for a moment before sitting opposite her, elbows on the counter.
 
-Lauren’s throat tightened. She set the cup down carefully on the console beside the key bowl, hands moving with exaggerated calm.
+For a minute they just… ate. No crisis. No planning. No messages.
 
-Sarah watched her do it, then shifted closer—not crowding, not cornering, just closing the space enough that Lauren could feel her warmth.
+Lauren felt her shoulders lower a fraction with each swallow.
 
-Lauren’s heart thudded.
+The day began to feel possible.
 
-Sarah’s voice lowered slightly, the way it did when she meant something.
+Then Sarah’s phone buzzed again.
 
-“Lauren,” she said, “you’re allowed to have a moment.”
+A text, not a call.
 
-Lauren swallowed. “I don’t want to be—”
+Sarah glanced at it and huffed.
 
-“Don’t,” Sarah cut in, gentle but firm. “Don’t minimise. Don’t make yourself small to protect me from your feelings.”
+“Still him?” Lauren asked, heart tightening.
 
-Lauren’s eyes flashed up, startled.
+Sarah shook her head once. “Different idiot. But yes, he’s still blocked. He can shout into the void. I’m not his void.”
 
-“My… feelings?” she repeated, almost offended by the accuracy.
+Lauren exhaled. She hadn’t realised she’d been holding her breath.
 
-Sarah’s mouth curved once. Not mocking. Almost… pleased.
+Sarah watched her face, and Lauren felt it—Sarah’s attention, that sharp awareness that could be cutting in the workroom but was somehow different here.
 
-“Yes,” Sarah said. “Those.”
+More… personal.
 
-Lauren’s face warmed. “I wasn’t— I didn’t—”
+“Tell me something,” Sarah said.
 
-Sarah stepped closer.
+Lauren’s fork paused. “Okay.”
 
-Then she stopped, very deliberately, as if drawing a line she would not cross without consent.
+Sarah’s eyes narrowed slightly, thoughtful.
 
-“I’m going to offer something,” Sarah said. “And you can say no.”
+“When you touched that spare key earlier,” Sarah said, “what was that?”
 
-Lauren’s breath caught. “Okay.”
+Lauren’s face warmed instantly. “I didn’t— I wasn’t—”
 
-Sarah held her gaze.
+Sarah lifted a hand, stopping the spiral with a gesture. “No. I’m not accusing you. I’m asking.”
 
-“Come here,” Sarah said.
+Lauren swallowed, throat suddenly tight.
 
-Two simple words.
+“It’s just…” Lauren began, then faltered because the truth was embarrassingly simple.
 
-Not *do you want a hug?* this time. Not a question that made Lauren think too much.
+Sarah waited without filling the silence.
 
-An invitation with confidence in it. A quiet assumption that Lauren deserved contact.
+Lauren forced herself to keep going.
 
-Lauren’s eyes filled instantly. She nodded once, helplessly, and stepped forward.
+“It was symbolic,” Lauren admitted softly. “It made me feel… like I wasn’t trespassing.”
 
-Sarah wrapped her arms around her in a firm, steady embrace—more encompassing than last night’s, less urgent, like a woman building a shelter out of her own body.
+Sarah’s expression changed—small, subtle, but real.
 
-Lauren’s forehead pressed against Sarah’s shoulder.
+She looked almost… pleased. Not smug. Not triumphant. Something gentler than either.
 
-Sarah smelled like soap and warm air and coffee.
+“Good,” Sarah said.
 
-Lauren’s breath shuddered out.
+Lauren blinked. “Good?”
 
-She didn’t cry hard. She didn’t collapse. She just… let herself be held.
+Sarah set her fork down and leaned forward slightly, forearms on the counter, voice lower now.
 
-Sarah’s hand came up to the back of her head—brief, grounding, fingers spreading through Lauren’s hair like a promise that she wouldn’t flinch away.
+“Yes,” Sarah said. “Because you’re not.”
 
-“It’s alright,” Sarah said, voice low. “I’ve got you.”
+Lauren’s heart thudded hard.
 
-The words were so simple, so unadorned, that Lauren felt them land all the way down in her body.
+Sarah held her gaze, steady as a lighthouse.
 
-She clung—lightly, carefully—fingers curling into the fabric of Sarah’s t-shirt, as if she still couldn’t quite believe she was allowed.
+“You know you’re not a temporary situation, right?” Sarah said.
 
-Sarah tightened her arms once in response.
+Lauren froze.
 
-Not demanding.
+The words were simple, almost casual. But they were loaded—like a door left open on purpose.
 
-Reassuring.
+Lauren’s mouth went dry. “Sarah…”
 
-Lauren’s heart slowed in her chest.
+Sarah’s expression stayed calm, but Lauren could see it now: the quiet recalculation behind her eyes. The possibility forming. The idea that intimacy might not be a man-shaped inevitability but a woman-shaped choice.
 
-The house stayed quiet around them. The kind of quiet you could live inside.
+Sarah spoke again before Lauren could drown in the moment.
 
-After a long moment Sarah loosened her hold, but she didn’t let go completely. She drew back just enough to look at Lauren’s face.
+“I’m not saying you have to decide your whole life this week,” Sarah said. “I’m saying: while you’re here, you’re *here*. You’re not a guest. You’re not a burden. You’re not on probation.”
 
-Lauren couldn’t quite meet her eyes.
+Lauren’s eyes stung.
 
-Sarah’s thumb brushed once along Lauren’s forearm, the smallest touch, and Lauren’s skin prickled with it.
+“I don’t want to—” she started automatically.
 
-Sarah’s gaze was steady, thoughtful.
+Sarah’s gaze sharpened.
 
-“Better?” Sarah asked.
+“Don’t,” Sarah said, gentle but firm. “Don’t minimise. Not in my kitchen.”
 
-Lauren’s voice came out soft and raw. “Yes.”
+Lauren laughed softly, half sob, half relief.
 
-Sarah nodded, satisfied, and—because she could never leave tenderness unbalanced—she added, dryly, “Good. Because I’m starving and I refuse to be emotionally profound on an empty stomach.”
+Sarah’s mouth curved. “There we go.”
 
-Lauren’s laugh broke out, surprised and real.
+Lauren stared at her, heart full of something bright and frightening.
 
-Sarah’s mouth curved into a grin. “There she is.”
+“But you—” Lauren began again, the old question rising like a reflex.
 
-Lauren blinked at the phrase. *There she is.*
+Sarah’s eyebrow lifted. “Yes?”
 
-As if Lauren had been lost somewhere inside her own restraint and Sarah had simply… called her back.
+Lauren swallowed. “You said you date men.”
 
-Sarah stepped away and picked up her coffee again, then nodded toward the kitchen.
+Sarah’s smile was slow this time, and it did something to Lauren’s stomach—something warm and dizzy.
 
-“Come on,” she said. “We’ll eat. Then you can tell me what you’re thinking. Or not. But you’ll be fed.”
+“I said I’ve dated men,” Sarah corrected. “Past tense. Context. History.”
 
-Lauren glanced at the key bowl as she followed Sarah down the hall.
+Lauren’s breath caught.
 
-Sarah’s keys sat there, ordinary and heavy.
+Sarah’s fingers tapped once on the counter—restless energy contained.
 
-And beside them, Lauren’s spare key—Sarah’s gift—rested on its ring like a small, undeniable truth.
+“I didn’t say that was the shape of my future,” Sarah said quietly.
 
-Lauren reached out, almost without thinking, and touched it lightly with her fingertip.
+The sentence landed like a small explosion—silent, but it changed the air in the room.
 
-Not to take it.
+Lauren’s hands trembled in her lap.
 
-Just to feel it.
+She wanted to reach across the counter and touch Sarah. Just a hand over her wrist. A brush of fingers. Something tiny and honest.
 
-Then she followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind her.
+But she didn’t. She couldn’t trust herself not to want more.
 
-*End Scene 47.*
+Sarah saw the hesitation anyway. Of course she did.
+
+She stood, walked around the counter—close, close enough that Lauren felt her warmth—and paused beside her stool.
+
+Lauren looked up, heart hammering.
+
+Sarah reached down and, with an almost offhand gentleness, tucked a loose strand of Lauren’s hair behind her ear.
+
+The touch was brief.
+
+But it was intimate in a way that had nothing to do with sex.
+
+It was care with precision. Presence with intention.
+
+Lauren went utterly still.
+
+Sarah’s voice dropped, private.
+
+“One step at a time,” she murmured.
+
+Lauren nodded, unable to speak.
+
+Sarah’s mouth curved—just a little—and she walked back to her side of the kitchen as if she hadn’t just tilted Lauren’s world on its axis.
+
+She picked up her plate.
+
+“Right,” Sarah said briskly, because she couldn’t linger in tenderness too long without turning it into action. “Eat. Then we make a list of what you still need from the house. And then—” she glanced at Lauren, eyes bright “—we get you through this like a woman who’s done being managed.”
+
+Lauren stared at her plate, then up at Sarah again.
+
+The air felt different now.
+
+Not charged with danger.
+
+Charged with possibility.
+
+Lauren took another bite of eggs and tasted, for the first time in a long time, something that felt almost like appetite.
+
+Not just for food.
+
+For life.
+
+*End Scene 48.*
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
@@ -663,205 +771,414 @@ Then she followed Sarah into the kitchen, heart quiet for the first time all day
 
 [26-02-06]
 
-**Scene 47 — “The Bowl for Keys” (Lauren POV, 1st person, past tense)**
+Perfect choice — and for exactly the right reason. 💛
+Variant C makes Sarah *more* attractive, not less: she’s decisive **and** disciplined, protective without being patronising. That’s very “Sarah,” and it honours Lauren’s fragility without turning her into a patient.
 
-Sarah’s front door stuck slightly on humid nights.
+Here’s **Scene 48** rewritten with the *Variant C* calibration, seamlessly (Lauren POV, 1st person, past tense). I’ve kept your rhythms, your domestic sensory beats, and the “bacteria dictatorship” humour, but I’ve re-anchored the “not temporary” line so it lands as **sanctuary + structure**, with the romantic possibility held in **restraint and precision**.
 
-Not much—just enough that you had to lift the handle a fraction and give it a firm push, like the house required you to arrive with intention.
+---
 
-I followed her in, carrying two takeaway cups because Sarah had insisted on stopping for coffee on the way home, even though Sarah had also insisted she didn’t *need* coffee to function.
+## **Scene 48 — “Not Temporary” (Lauren POV, 1st person, past tense)**
 
-She kicked her sandals off near the mat—neat, but not precious about it—then reached into her pocket and pulled out her keys.
+Sarah’s kitchen was narrow in the way older houses often were—designed for one person to work efficiently, not for two adults to hover in each other’s gravity.
 
-She dropped them into a shallow ceramic bowl on the hall console.
+I followed her in anyway.
 
-The sound was small.
+She set her coffee down on the counter with a decisive clink and opened the fridge.
 
-A brief clink.
+“Right,” she said, rummaging. “I’ve got eggs, salad stuff, cheese, and… something I’m fairly sure is still edible.”
 
-But it hit me with unexpected force.
+I leaned on the doorframe, watching. It felt strange to be in someone else’s kitchen and not feel like I had to perform usefulness to justify my presence.
 
-Keys had become a language lately. A vocabulary of who had access. Who had permission. Who was safe.
+“Do you want help?” I asked, careful.
 
-Sarah’s keys sat there in the bowl like a quiet fact: this place had a system, and Sarah had built it on purpose.
+Sarah didn’t look up. “Yes.”
 
-Sarah turned, took the coffee from my hand, and gave me a quick, approving look.
+No softening. No false modesty. Sarah didn’t do the polite dance where women pretended they didn’t need anyone.
 
-“Good,” she said. “You didn’t spill.”
+She pulled out a carton of eggs, a bunch of greens, and a small tub of something that might have been hummus or might have been an experiment.
 
-I huffed a laugh. “I’m not a child.”
+“Wash the salad,” she said. “And don’t argue with me about how you’d wash it at home. This is my house. I am in charge of bacteria here.”
 
-Her mouth twitched. “You’d be amazed how many adults fail at cups.”
+A laugh slipped out of me before I could stop it.
 
-She walked toward the kitchen, coffee in one hand, the other pushing her hair back from her face in a tired gesture I’d started to notice too often—because noticing Sarah had become its own bad habit.
+“Understood,” I said, and moved to the sink.
 
-I stood in the hallway for a moment, holding my own cup, watching her move away.
+The tap water ran cool over my fingers. The sound of it was immediately calming, as if my nervous system recognised domestic tasks as safe terrain.
 
-The house was quiet. Not empty. Quiet the way a well-run space was quiet—orderly, contained, not waiting for a man to fill it with noise.
+Behind me, Sarah cracked eggs into a bowl with one hand, stirring with brisk competence. The rhythm was soothing—tap, split, pour, toss shell, repeat.
 
-My chest tightened.
+I dried my hands and reached for a tea towel, folding it neatly out of habit.
 
-It wasn’t fear this time.
+Sarah noticed, of course.
 
-It was longing.
+“You’re one of those people,” she said, faint amusement threading through her voice.
 
-Not lust. Not fantasy. Just a simple, aching hunger to be touched—gently, warmly, without being asked to pay for it. A hunger that lived in my shoulders, in the back of my neck, in the place between my ribs where I’d been holding my breath for years.
+I blinked. “One of what people?”
 
-I tried to swallow it down.
+“The ones who fold tea towels like it’s a moral position,” she replied.
 
-I could do that. I was good at doing that.
+I laughed again, cheeks warming. “It’s just… tidier.”
 
-But my body didn’t cooperate.
+Her eyes flicked to me briefly—amused in a way that felt dangerously close to affectionate.
 
-My eyes stung suddenly, stupidly. The coffee cup warmed my fingers and made me feel very, very human.
+“Mm,” she said. “Keep it. It’ll be useful when the world collapses.”
 
-Sarah paused at the kitchen doorway, as if she’d felt the change in the air.
+I moved around the counter to put the salad into a bowl.
 
-She turned and looked at me properly.
+The space between us was small. Too small to be neutral.
 
-“What’s happening?” she asked.
+Our shoulders brushed—light contact, fabric and warmth—and my breath caught, absurdly, like my body had been waiting all day for the smallest permission.
 
-I blinked. “Nothing.”
+Sarah didn’t startle. She didn’t apologise. She simply shifted a fraction closer to make room for me rather than moving away.
 
-Her face remained steady. “No.”
+The gesture felt… deliberate.
 
-I hated how easy it was to be found out around her.
+My heart did that odd, tender stumble again, like it was learning a new tempo and hating itself for how quickly it wanted to follow.
 
-“I’m fine,” I tried again.
+I focused on the salad. On the neatness of leaves. On the ordinary purpose of a bowl.
 
-Sarah tilted her head slightly. The gesture was almost feline—an appraisal.
+Sarah slid a pan onto the stove and turned the heat on. The blue flame caught and steadied.
 
-Then she walked back into the hallway.
+“Sit,” she said over her shoulder.
 
-She didn’t rush. She didn’t hover. She simply crossed the distance like it belonged to her—which it did.
+“I’m fine,” I said automatically.
 
-I held very still, terrified of doing the wrong thing.
+Her gaze cut to me. “Lauren.”
 
-She stopped a step away and looked at my hands.
+There was no anger in it. Just a quiet insistence that I stop auditioning for my place in the room.
 
-“Put the coffee down,” she said.
+I pulled out a stool and sat at the little breakfast bar, hands folded in my lap. The posture felt strangely intimate—being allowed to be idle while someone else cared for me.
 
-I stared. “Why?”
+Sarah plated the eggs and set two plates down with firm hands.
 
-“Because you’re white-knuckling a paper cup like it’s going to run away,” she replied.
+“Eat,” she said. “And if you say ‘I’m not hungry,’ I’ll assume you’re lying and respond accordingly.”
 
-My throat tightened. I set the cup down carefully on the console beside the key bowl, hands moving with exaggerated calm.
+I smiled, picked up my fork, and took a bite.
 
-Sarah watched me do it, then shifted closer—not crowding, not cornering, just closing the space enough that I could feel her warmth.
+Butter. Pepper. Something clean and simple.
 
-My heart thudded.
+Sarah ate too, standing for a moment before sitting opposite me, elbows on the counter.
 
-Her voice lowered slightly, the way it did when she meant something.
+For a minute we just… ate. No crisis. No planning. No messages.
 
-“Lauren,” she said, “you’re allowed to have a moment.”
+I felt my shoulders lower a fraction with each swallow, like my body was being reminded that survival didn’t have to be constant.
 
-I swallowed. “I don’t want to be—”
+Then her phone buzzed again.
 
-“Don’t,” she cut in, gentle but firm. “Don’t minimise. Don’t make yourself small to protect me from your feelings.”
+A text, not a call.
 
-My eyes flashed up, startled.
+She glanced at it and huffed.
 
-“My… feelings?” I repeated, almost offended by the accuracy.
+“Still him?” I asked, my heart tightening before I could stop it.
 
-Sarah’s mouth curved once. Not mocking. Almost… pleased.
+Sarah shook her head once. “Different idiot. But yes, he’s still blocked. He can shout into the void. I’m not his void.”
 
-“Yes,” she said. “Those.”
+I exhaled. I hadn’t realised I’d been holding my breath.
 
-My face warmed. “I wasn’t— I didn’t—”
+Sarah watched my face—really watched it—and I felt that familiar discomfort: being seen too clearly, too quickly.
 
-She stepped closer.
+“Tell me something,” she said.
 
-Then stopped, very deliberately, as if drawing a line she would not cross without consent.
+My fork paused. “Okay.”
 
-“I’m going to offer something,” she said. “And you can say no.”
+Her eyes narrowed slightly, thoughtful.
 
-My breath caught. “Okay.”
+“When you touched that spare key earlier,” she said, “what was that?”
 
-She held my gaze.
+Heat rushed into my face.
 
-“Come here,” she said.
+“I didn’t— I wasn’t—”
 
-Two simple words.
+She lifted a hand, stopping the spiral. “No. I’m not accusing you. I’m asking.”
 
-Not *do you want a hug?* this time. Not a question that made me think too much.
+I swallowed, throat suddenly tight.
 
-An invitation with confidence in it. A quiet assumption that I deserved contact.
+“It’s just…” I began, and faltered because the truth was embarrassingly simple.
 
-My eyes filled instantly. I nodded once, helplessly, and stepped forward.
+Sarah waited without filling the silence.
 
-Sarah wrapped her arms around me in a firm, steady embrace—more encompassing than last night’s, less urgent, like a woman building a shelter out of her own body.
+I forced myself to keep going.
 
-My forehead pressed against her shoulder.
+“It was symbolic,” I admitted softly. “It made me feel like I wasn’t trespassing.”
 
-She smelled like soap and warm air and coffee.
+Her expression changed—small, subtle, but real. Not smug. Not triumphant.
 
-My breath shuddered out.
+Pleased.
 
-I didn’t cry hard. I didn’t collapse. I just… let myself be held.
+“Good,” she said.
 
-Her hand came up to the back of my head—brief, grounding—fingers spreading through my hair like a promise that she wouldn’t flinch away.
+I blinked. “Good?”
 
-“It’s alright,” she said, voice low. “I’ve got you.”
+Sarah set her fork down and leaned forward slightly, forearms on the counter, voice lower.
 
-The words were so simple, so unadorned, that I felt them land all the way down in my body.
+“Yes,” she said. “Because you’re not.”
 
-I clung—lightly, carefully—fingers curling into the fabric of her t-shirt, as if I still couldn’t quite believe I was allowed.
+My heart thudded hard.
 
-Sarah tightened her arms once in response.
+She held my gaze—steady as a lighthouse—and then she said it, plain and decisive, as if she’d been waiting for the right moment to make it a rule.
 
-Not demanding.
+“You are not a temporary situation.”
 
-Reassuring.
+The words hit me, and panic rose immediately—my mind trying to turn them into a story it hadn’t earned.
 
-My heart slowed in my chest.
+Sarah saw it on my face and sighed.
 
-The house stayed quiet around us. The kind of quiet you could live inside.
+“Not like that,” she said bluntly, kind in the same breath. “I mean: you’re not couch-surfing. You’re not a guest who has to earn air. You’re not on probation.”
 
-After a long moment she loosened her hold, but she didn’t let go completely. She drew back just enough to look at my face.
+My eyes stung.
 
-I couldn’t quite meet her eyes.
+“I don’t want to—” I started automatically.
 
-Her thumb brushed once along my forearm, the smallest touch, and my skin prickled with it.
+Her gaze sharpened. “Don’t.”
 
-Sarah’s gaze was steady, thoughtful.
+The single word landed like a hand on my shoulder.
 
-“Better?” she asked.
+“Don’t minimise,” she said. “Not in my kitchen.”
 
-My voice came out soft and raw. “Yes.”
+A laugh escaped me that was half sob, half relief.
 
-She nodded, satisfied, and—because she could never leave tenderness unbalanced—added, dryly, “Good. Because I’m starving and I refuse to be emotionally profound on an empty stomach.”
+Sarah’s mouth curved. “There we go.”
 
-My laugh broke out, surprised and real.
+I stared at her, heart full of something bright and frightening and utterly unfamiliar: being cared for without negotiation.
 
-Sarah’s mouth curved into a grin. “There she is.”
+Then I heard myself say it—the practical objection my brain grabbed like a life raft.
 
-I blinked at the phrase. *There she is.*
+“But… won’t I get in your way?” I asked, voice tight. “Your dating. Your life.”
 
-As if I’d been lost somewhere inside my own restraint and Sarah had simply… called me back.
+Sarah blinked at me, then looked almost offended.
 
-Sarah stepped away and picked up her coffee again, then nodded toward the kitchen.
+“Lauren,” she said slowly, “are you trying to manage my personal life while you’re actively falling apart?”
 
-“Come on,” she said. “We’ll eat. Then you can tell me what you’re thinking. Or not. But you’ll be fed.”
+“I’m not—” I began, mortified.
 
-I glanced at the key bowl as I followed her down the hall.
+She exhaled through her nose, a laugh that wasn’t unkind. “God.”
 
-Sarah’s keys sat there, ordinary and heavy.
+Then she leaned back in her chair, studying me like she was deciding whether to say something she’d been holding in her mouth for weeks.
 
-And beside them, my spare key—Sarah’s gift—rested on its ring like a small, undeniable truth.
+“All right,” she said. “Since you’ve brought it up.”
 
-I reached out, almost without thinking, and touched it lightly with my fingertip.
+My pulse skittered.
 
-Not to take it.
+“I’ve dated men,” she said. “That’s history.”
 
-Just to feel it.
+I swallowed, trying to keep my face neutral.
 
-Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
+“But I’ve been watching women at Wardrobe,” she continued, and there was something quietly intent in her voice now—less banter, more truth. “Bree and Lily. Celeste and Charli.”
 
-*End Scene 47.*
+I went very still.
+
+“It looks… better,” Sarah said, almost grudging about the honesty. “It looks safer. It looks like people actually *see* each other. No tests. No transactions. No stupid power games.”
+
+My throat tightened.
+
+“And yes,” she added, meeting my eyes without flinching, “it has appeal.”
+
+My mind went into overdrive so fast I almost felt dizzy.
+
+This was the same Sarah who’d spent years armouring herself in sarcasm and standards. The same Sarah who could cut a man down with two words and then go back to pinning a hem like he’d never existed.
+
+And here she was, in her narrow kitchen, calmly admitting she’d been noticing something else. Something woman-shaped.
+
+I stared at her as if she’d shifted the world a few degrees.
+
+Sarah pushed back her chair and stood.
+
+She walked around the counter toward me—close, close enough that I could feel her warmth—and stopped beside my stool.
+
+I looked up, heart hammering.
+
+Her gaze flicked to my mouth, then back to my eyes.
+
+For a second I was certain she was going to kiss me.
+
+Instead, she reached down and tucked a loose strand of hair behind my ear.
+
+The touch was brief.
+
+Intimate in a way that had nothing to do with sex.
+
+Care with precision. Presence with intention.
+
+I went utterly still.
+
+“That,” she murmured, “is as far as I’m going tonight.”
+
+My breath shook. “Why?”
+
+Sarah’s mouth twitched—not amused. Disciplined.
+
+“Because you’re raw,” she said. “And because I’m not taking advantage of the part of you that’s starving for kindness.”
+
+My eyes filled instantly.
+
+She held my gaze, steady.
+
+“One step at a time,” she said. “Eat. Sleep. Tomorrow we deal with Roger. Then—” a deliberate pause “—then we’ll see what we both want when you’re not in survival mode.”
+
+I couldn’t speak. I could only nod.
+
+Sarah stepped back, the air cooling where her warmth had been.
+
+And then, because she could never leave tenderness unbalanced for too long, she pointed at my plate with mock sternness.
+
+“Eat,” she ordered. “I’m not having you faint dramatically in my kitchen. I’ll never hear the end of it.”
+
+A shaky laugh broke out of me, startled and real.
+
+Sarah’s grin flashed. “There she is.”
+
+I took another bite of eggs and tasted, for the first time in a long time, something that felt almost like appetite.
+
+Not just for food.
+
+For life.
+
+*End Scene 48.*
+
+---
+
+If you like, I can now **re-tune Scene 47 → Scene 48 transition** with one or two tiny “bridge” lines so Sarah’s “watching Wardrobe” observation feels even more seeded (without making it obvious). Just a couple of micro-glances or a throwaway remark earlier in 47 that retroactively supports this moment. 😊
+
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
+
+
+
+
+
+
+
+
+## x
+### xx
+
+<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-06]
+
+Yes — lovely catch. 😊 And you’re right to flag the “dating men” line: it’s *very* easy for it to sound like a manifesto (or like Sarah is rewriting her identity on the spot) when what we want is **Sarah being precise, grounded, and a bit allergic to grand declarations**.
+
+Below are:
+
+1. **Two tiny bridge inserts** for **Scene 47** (micro-seeding, not obvious)
+2. **One tiny bridge insert** for the top of **Scene 48** (to carry the thread cleanly)
+3. A **replacement set** for the “men” line(s), in **three tonal options**, so Sarah stays Sarah.
+
+You can mix-and-match — but I’ve written them so they slot in cleanly.
+
+---
+
+# 1) Scene 47 micro-seeds (choose 1–2)
+
+## Insert A — at Wardrobe, *after* Lucy in the coat / before the wrap-up
+
+This plants the “Sarah has been watching women” idea without spelling it out.
+
+> As Lucy turned in the coat, Bree drifted closer, still laughing, and Lily’s hand landed at Lucy’s back—brief, unthinking, perfectly placed.
+>
+> Sarah’s eyes flicked there. Just a flick.
+>
+> Something in her face shifted—too quick to name—before she went back to her seam as if she hadn’t seen a thing.
+
+## Insert B — in the car, *after* Sarah says “We’ll do it,” before she asks about high school
+
+This makes Sarah’s later line feel like it’s been simmering in her mind all day.
+
+> Sarah watched the road for a moment, then said, almost to herself, “You know what I like about that place?”
+>
+> “Wardrobe?” I asked.
+>
+> “Mm.” A pause. “Women. Getting on with it. No theatre. Just… solid.”
+>
+> I didn’t know what to do with that, so I nodded and kept driving.
+
+Either of those makes Scene 48’s “I’ve been watching…” feel earned.
+
+---
+
+# 2) Scene 48 bridge line (top-of-scene carryover)
+
+Right after: *“Sarah’s kitchen was narrow…”* add this:
+
+> The quiet followed us in like a third person—settling, not intruding—like the house knew how to hold women gently after a hard day.
+
+It ties the “Wardrobe safety” feeling to “Sarah’s home safety” in one breath.
+
+---
+
+# 3) Fixing the “dating men” line(s)
+
+I suspect the bit that feels off is this in the revised Scene 48:
+
+> “I’ve dated men,” she said. “That’s history.”
+
+It risks sounding a little… *speechy* or like Sarah is issuing an identity statement. She’d more likely **de-centre men entirely** (very Sarah) and speak in **behavioural/values terms**: what she wants, what she won’t tolerate, what she’s been noticing.
+
+Here are three options, from most “Sarah” (dry/grounded) to most emotionally revealing — all still controlled.
+
+## Option 1 — Dry, precise, de-centres men (my favourite)
+
+Replace the whole mini-exchange with:
+
+> Sarah blinked at me, then looked almost offended.
+>
+> “Lauren,” she said slowly, “are you trying to manage my love life while you’re actively falling apart?”
+>
+> “I’m not—” I began, mortified.
+>
+> She exhaled through her nose. “God.”
+>
+> Then, because she couldn’t leave it alone, she added, “I’ll date whoever I please. But I’m not currently taking applications.”
+>
+> My stomach dropped in a way that wasn’t disappointment exactly—more like vertigo.
+>
+> Sarah’s gaze held mine. “What I *am* doing is paying attention to what looks sane. And what looks safe.”
+>
+> A pause. Deliberate.
+>
+> “And lately,” she said, “that’s been women.”
+
+This keeps her strong, non-performative, and it’s not “I am X,” it’s “I’m noticing Y.”
+
+## Option 2 — Still grounded, but references her past without making it the centre
+
+If you want her to acknowledge history without sounding like a TED talk:
+
+> “I’ve spent years defaulting to men because that was the path of least resistance,” Sarah said.
+>
+> She shrugged once, like she hated that this counted as self-disclosure.
+>
+> “But I’m not obligated to keep repeating the same pattern just because it’s familiar.”
+
+It’s less “identity” and more “pattern recognition” — very Sarah.
+
+## Option 3 — Softest / most intimate, but still disciplined
+
+If you want it to feel like a rare, honest reveal:
+
+> “I used to think men were… inevitable,” Sarah said quietly.
+>
+> Her mouth twitched, humourless. “Like weather.”
+>
+> She met my eyes. “Turns out that’s not true. Turns out I get to choose.”
+
+Still not a declaration — a **permission statement**.
+
+---
+
+# Quick recommendation (so it stays consistent)
+
+* Use **Insert A** (Wardrobe micro-glance) + **Option 1** (de-centre men)
+  That combo makes Sarah feel *most* like herself: sharp, protective, quietly radical — without “coming out” in a way that feels sudden or performative.
+
+If you paste the exact sentence you’re reacting to (or even just tell me “it was the line beginning with…”), I’ll do a **surgical rewrite** of that paragraph so it drops in flawlessly with your exact wording around it. 💛
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -873,145 +1190,233 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 ## Notes26-02-09rv1
 
-<img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-09]
 
-**Scene 47 — “A Bowl for Keys” (Lauren POV, 1st person, past tense)**
-
 ---
 
-Sarah’s front door stuck slightly on humid nights.
+**Scene 48 — “Not Temporary” (Lauren POV, 1st person, past tense)**
 
-Not much—just enough that you had to lift the handle a fraction and give it a firm push, like the house required you to arrive with resolve. I followed her in, carrying two takeaway cups because Sarah had insisted on stopping for coffee on the way home, even though she had also insisted she didn’t *need* coffee to function.
+Sarah’s kitchen was narrow in the way older houses often were—designed for one person to work efficiently, not for two adults to hover in each other’s gravity.
 
-She kicked her sandals off near the mat—neat, but not precious about it—then reached into her pocket and pulled out her keys. She dropped them into a shallow ceramic bowl on the hall console. The sound was small.
+I followed her in anyway.
 
-A brief clink.
+She set her coffee down on the counter with a decisive clink and opened the fridge.
 
-But it hit me with unexpected force.
+“Right,” she said, rummaging. “I’ve got eggs, salad stuff, cheese, and… something I’m fairly sure is still edible.”
 
-Keys had become a language lately, a vocabulary of who had access. Who had permission. Who was safe. Sarah’s keys sat there in the bowl like a quiet fact: this place had a system, and Sarah had built it on purpose.
+I leaned on the doorframe, watching. It felt strange to be in someone else’s kitchen and not feel like I had to perform usefulness to justify my presence.
 
-Sarah turned, took the coffee from my hand, and gave me a quick, approving look.
+“Do you want help?” I asked, careful.
 
-“Good,” she said. “You didn’t spill.”
+Sarah didn’t look up. “Yes.”
 
-I huffed a laugh. “I’m not a child.”
+Sarah didn’t do the polite dance where women pretended they didn’t need anyone. She pulled out a carton of eggs, a bunch of greens, and a small tub of something that might have been hummus or might have been an experiment.
 
-Her mouth twitched. “You’d be amazed how many adults fail at cups.”
+“Wash the salad,” she said. “And don’t argue with me about how you’d wash it at home. This is my house. I am in charge of bacteria here.”
 
-She walked toward the kitchen, coffee in one hand, the other pushing her hair back from her face in a tired gesture I’d started to notice too often—because noticing Sarah had become my little fixation. I stood in the hallway for a moment, holding my own cup, watching her move away.
+A laugh slipped out of me before I could stop it.
 
-The house was quiet. Not a silence of vacancy, but the quiet of a well-run space: orderly, contained, not waiting for a man to fill it with noise.
+“Understood,” I said, and moved to the sink. The tap water ran cool over my fingers. The sound of it was immediately calming, as if my nervous system recognised domestic tasks as safe terrain. Behind me, Sarah cracked eggs into a bowl with one hand, stirring with brisk competence. The rhythm was soothing—tap, split, pour, toss shell, repeat.
 
-I felt something fill me—something so long absent I’d thought it had disappeared.
+I dried my hands and reached for a tea towel, folding it neatly out of habit.
 
-Longing.
+Sarah noticed, of course.
 
-Not lust, not exactly. Just a simple craving to be touched—gently, warmly. A hunger that lived in my shoulders, in the back of my neck, in the place between my ribs where I’d been holding my breath for years.
+“You’re one of those people,” she said, faint amusement threading through her voice.
 
-I tried to swallow it down. I could do that. I’d had years of practice.
+“One of what people?”
 
-But now, my body didn’t cooperate. My eyes stung suddenly, stupidly. The coffee cup warmed my fingers and made me feel very, very human. Sarah paused at the kitchen doorway, as if she’d felt a change in the air, then turned and looked at me properly.
+“The ones who fold tea towels like it’s a moral position,” she replied.
 
-“Lauren?”
+I laughed again, cheeks warming. “It’s just… tidier.”
 
-I gulped. “It’s okay. It’s nothing.”
+Her eyes flicked to me briefly—amused in a way that felt dangerously close to affectionate.
 
-Her face remained steady. “Nothing.”
+“Mm,” she said. “Keep it. It’ll be useful when the world collapses.”
 
-I hated how easy it was to be found out around her.
+I moved around the counter to put the salad into a bowl. The space between us was small. Too small to be neutral. Our shoulders brushed—light contact, fabric and warmth—and my breath caught, absurdly. Sarah shifted a fraction closer to make room for me rather than moving away. The gesture felt… deliberate.
 
-“I’m fine,” I tried again.
+My heart did that odd, tender stumble again, like it was learning a new tempo and hating itself for how quickly it wanted to follow. I focused on the salad. On the neatness of leaves. On the ordinary purpose of a bowl. Sarah slid a pan onto the stove and turned the heat on. The blue flame caught and steadied.
 
-Sarah tilted her head slightly. The gesture was precise—an appraisal. Then she walked back into the hallway, crossing over to me with an enigmatic soft smile. I held very still, terrified of doing the wrong thing.
+“Sit,” she said over her shoulder.
 
-She stopped a step away and looked at my hands.
+“I’m fine,” I said automatically.
 
-“Why don’t you put the coffee down,” she said carefully.
+Her gaze cut to me. “Lauren.”
 
-I stared at her. “Why?”
+There was no anger in it. Just a quiet insistence that I stop auditioning for my place in the room. I pulled out a stool and sat at the little breakfast bar, hands folded in my lap. The posture felt strangely intimate—being allowed to be idle while someone else cared for me. Sarah plated the eggs and set two plates down with firm hands.
 
-“Because you’re white-knuckling a paper cup like it’s going to run off with your coffee,” she replied.
+“Eat,” she said. “And if you say ‘I’m not hungry,’ I’ll assume you’re lying and respond accordingly.”
 
-My throat tightened. I set the cup down carefully on the console beside the key bowl, hands moving with exaggerated calm. Sarah watched me do it, then moved closer—closing the space enough that I could feel her warmth.
+I smiled, picked up my fork, and took a bite. Butter. Pepper. Something clean and simple. Sarah ate too, standing for a moment before sitting opposite me, elbows on the counter.
 
-My heart thudded.
+For a minute we just… ate. No crisis. No planning. No messages.
 
-Her voice lowered slightly.
+I felt my shoulders lower a fraction with each swallow, like my body was being reminded that survival didn’t have to be constant.
 
-“Lauren,” she said, “you’re allowed to feel whatever you feel.”
+Then her phone buzzed again.
 
-I swallowed. “I don’t want to be—”
+A text, not a call. She glanced at it and huffed.
 
-“Don’t,” she cut in, gentle but firm. “Those days are behind you. No more making yourself small. Have your feelings.”
+“Still him?” I asked, my heart tightening before I could stop it. Sarah shook her head once.
 
-My eyes flashed up, startled.
+“Different idiot. But yes, he’s still blocked. He can shout into the void. I’m not his void.”
 
-“My… feelings?” I repeated, almost offended by the accuracy.
+I exhaled. I hadn’t realised I’d been holding my breath. Sarah watched my face—really watched it—and I felt that familiar discomfort: being seen too clearly, too quickly.
 
-Sarah’s mouth curved once. Not mocking. Almost… pleased.
+“Tell me something.”
 
-“Yes,” she said. “Those.”
+My fork paused. “Okay.” Her eyes narrowed slightly, thoughtful.
 
-My face warmed. “I wasn’t— I didn’t—”
+“When you touched that spare key earlier,” she said, “what was that?”
 
-She stepped even closer, so close that her breath reached me in an unexpected place. But she paused, as if at a door she would not enter without an invitation.
+Heat rushed into my face.
 
-“I’m going to offer you something,” she said. “And you can say no.”
+“I didn’t— I wasn’t—”
 
-I could scarcely breathe. “Okay,” I managed.
+She lifted a hand with a quick toss of her blonde hair, stopping the spiral. “I’m just asking.”
 
-She held my gaze.
+I swallowed, throat suddenly tight.
 
-“Come.”
+“It’s just…” I began, and faltered because the truth was embarrassingly simple.
 
-One simple word.
+Sarah waited without filling the silence.
 
-A quiet assumption that I deserved contact. My eyes filled instantly. I tucked my chin down, helplessly, and let myself melt against her. Sarah pulled me into her warmth—more encompassing than last night’s, less urgent, like a shelter made of her. My forehead pressed against her shoulder. She smelled like soap and warm air and coffee.
+I forced myself to keep going.
 
-I was afraid to exhale, fearing it would all vanish. But I finally did… and she was still there. I let myself be held.
+“It was symbolic,” I admitted softly. “It made me feel like I was… part of this. Of here.”
 
-I felt her hand on the back of my head—fingers spreading through my hair like a promise. I leaned my head into her fingers, long-lost feelings taking nourishment from her tenderness.
+Her expression changed—small, subtle, but real.
 
-“You’re good, Lauren,” she said, voice as soft as down. “I’ve got you.”
+Pleased.
 
-The words were so simple, so unadorned, yet I felt them flow through me as if they’d gone straight past my head and into my bones. I clung to her—lightly, carefully—fingers curling into the fabric of her t-shirt, as if I still couldn’t quite believe I was allowed. Sarah tightened her arms in response. My heart slowed in my chest.
+“Good!”
 
-The house stayed quiet around us. Quiet with no edge to it.
+I blinked. “Good?”
 
-After a long moment she loosened her hold, but she didn’t let go completely, drawing back just enough to look at my face. I couldn’t quite meet her eyes. Her thumb brushed once along my forearm, the smallest touch, and my skin prickled with it. Sarah’s gaze was steady, thoughtful; her smile, mysterious.
+Sarah set her fork down and leaned forward slightly, forearms on the counter, voice lower.
 
-“Better?”
+“Yes,” she said. “Because you’re are.”
 
-I didn’t recognise my voice. “Yes.”
+My heart thudded hard. She held my gaze—steady as a lighthouse—and then she said it, plain and decisive, as if she’d been waiting for the right moment to make it a rule.
 
-She nodded, satisfied, and—because she could never leave tenderness unbalanced—added, dryly, “Good. Because I’m starving and I refuse to be emotionally profound on an empty stomach.”
+“You are *not* a temporary situation.”
 
-My laugh broke out, surprised and real.
+The words hit me, and panic rose immediately—my mind trying to turn them into a story it hadn’t earned. Sarah saw it on my face and sighed.
 
-Sarah’s mouth curved into a grin.
+“Not like that,” she said bluntly, kind in the same breath. “I mean: you’re not couch-surfing. You’re not a guest who has to earn air. You’re not on probation.”
 
-“There she is.”
+My eyes stung.
 
-I blinked at the phrase. 
+“I don’t want to—” I started automatically.
 
-*There she is.* 
+Her gaze sharpened. “Don’t.”
 
-As if I’d been lost somewhere inside my own restraint and Sarah had simply… found me. She stepped away and picked up her coffee again, then nodded toward the kitchen.
+The single word landed like a hand on my shoulder.
 
-“Come on,” she said. “Let’s eat. You can tell me what you’re thinking, if you want. But right now, you need food.”
+“Don’t minimise,” she said. “Not in my kitchen.”
 
-I glanced at the key bowl as I followed her down the hall. Sarah’s keys sat there, ordinary, heavy. And beside them, my spare key—Sarah’s gift—rested on its ring like a small, undeniable truth.
+A laugh escaped me that was half sob, half relief.
 
-I reached out, almost without thinking, and touched it lightly with my fingertip.
+Sarah’s mouth curved. “There we go.”
 
-Just to feel it.
+I stared at her, heart full of something bright and frightening and utterly unfamiliar: being cared for without negotiation.
 
-Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
+Then I heard myself say it—the practical objection my brain grabbed like a life raft.
 
-*End Scene 47.*
+“But… won’t I get in your way?” I asked, voice tight. “Your dating. Your life.”
+
+Sarah blinked at me, then looked almost offended.
+
+“Lauren,” she said slowly, “are you trying to manage my personal life while you’re actively falling apart?”
+
+“I’m not—” I began, mortified.
+
+She exhaled through her nose, a laugh that wasn’t unkind. “God.”
+
+Then she leaned back in her chair, studying me like she was deciding whether to say something she’d been holding in her mouth for weeks.
+
+“All right,” she said. “Since you’ve brought it up.”
+
+My pulse skittered.
+
+“I’ve dated men,” she said. “That’s history.”
+
+I swallowed, trying to keep my face neutral.
+
+“But I’ve been watching women at Wardrobe,” she continued, and there was something quietly intent in her voice now—less banter, more truth. “Bree and Lily. Celeste and Charli.”
+
+I went very still.
+
+“It looks… better,” Sarah said, almost grudging about the honesty. “It looks safer. It looks like people actually *see* each other. No tests. No transactions. No stupid power games.”
+
+My throat tightened.
+
+“And yes,” she added, meeting my eyes without flinching, “it has appeal.”
+
+My mind went into overdrive so fast I almost felt dizzy.
+
+This was the same Sarah who’d spent years armouring herself in sarcasm and standards. The same Sarah who could cut a man down with two words and then go back to pinning a hem like he’d never existed.
+
+And here she was, in her narrow kitchen, calmly admitting she’d been noticing something else. Something woman-shaped.
+
+I stared at her as if she’d shifted the world a few degrees.
+
+Sarah pushed back her chair and stood.
+
+She walked around the counter toward me—close, close enough that I could feel her warmth—and stopped beside my stool.
+
+I looked up, heart hammering.
+
+Her gaze flicked to my mouth, then back to my eyes.
+
+For a second I was certain she was going to kiss me.
+
+Instead, she reached down and tucked a loose strand of hair behind my ear.
+
+The touch was brief.
+
+Intimate in a way that had nothing to do with sex.
+
+Care with precision. Presence with intention.
+
+I went utterly still.
+
+“That,” she murmured, “is as far as I’m going tonight.”
+
+My breath shook. “Why?”
+
+Sarah’s mouth twitched—not amused. Disciplined.
+
+“Because you’re raw,” she said. “And because I’m not taking advantage of the part of you that’s starving for kindness.”
+
+My eyes filled instantly.
+
+She held my gaze, steady.
+
+“One step at a time,” she said. “Eat. Sleep. Tomorrow we deal with Roger. Then—” a deliberate pause “—then we’ll see what we both want when you’re not in survival mode.”
+
+I couldn’t speak. I could only nod.
+
+Sarah stepped back, the air cooling where her warmth had been.
+
+And then, because she could never leave tenderness unbalanced for too long, she pointed at my plate with mock sternness.
+
+“Eat,” she ordered. “I’m not having you faint dramatically in my kitchen. I’ll never hear the end of it.”
+
+A shaky laugh broke out of me, startled and real.
+
+Sarah’s grin flashed. “There she is.”
+
+I took another bite of eggs and tasted, for the first time in a long time, something that felt almost like appetite.
+
+Not just for food.
+
+For life.
+
+*End Scene 48.*
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -1024,33 +1429,7 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 
 
-## w
-### ww
 
-<img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## v
-### vv
-
-<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -1076,7 +1455,7 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 
 
-
+<!--
 
 ## t
 ### tt
@@ -1230,429 +1609,1338 @@ Then I followed Sarah into the kitchen, heart quiet for the first time all day, 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
-/-->hr style="height:24px;border-width:0;color:pink;background-color:pink">
+/-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
 ### ✨ smsmsm ✨
 
-## **Scene 43 — “Saturday” (Sarah POV)**
+## **Scene 44 — “Not a Blanket” (Sarah POV)**
 
-Saturday happened the way I prefer things to happen:
+I told myself I was going out for a drink because I deserved one.
 
-in daylight.
+Because I’d done the adult thing with Carl. Because I’d been honest. Because I hadn’t caved to guilt or panic or habit.
 
-In public.
+All true.
 
-With exits.
+Also, because I’d just opened the back of my own mental closet and found a teenage crush still sitting there, perfectly preserved, like ski gear with the tags still on.
 
-I chose the café, obviously. Neutral territory. Big windows. Plenty of foot traffic. A place where the tables are close enough that a man has to behave like a civilised mammal or everyone hears it.
+I didn’t want to think about it.
 
-I arrived five minutes early because I’m not going to be the woman who gets there and starts scanning the room like prey.
+So I chose the oldest strategy in the book: blunt the edges.
 
-Carl was already there.
+I went out alone, which is something I almost never do now, because I am not a romantic and I am not daft.
 
-Of course he was.
+But I wasn’t looking for romance.
 
-He stood when he saw me—not dramatically, not “gentlemanly,” just polite—and offered a small smile that didn’t try to claim anything.
+I was looking for noise. For anonymity. For the comforting blur of strangers who didn’t know my history or my rules.
 
-“Hi,” he said.
+I picked a bar that wasn’t *my* bar.
 
-“Hi,” I replied.
+A place with warm lighting and too much bass and stools that stuck to the backs of your thighs when you stood up. A place where people came to forget themselves in public, together.
 
-He didn’t lean in for a hug. He didn’t touch my arm. He didn’t do the thing where men treat greeting as a test of access.
+I ordered a drink and watched the bartender make it. I’m not stupid.
 
-He just… existed at a respectful distance.
+I took it to a table near the wall, back against something solid, because old habits are not the enemy—they’re a form of intelligence.
 
-It was, frankly, unnerving.
+For the first half hour, it worked.
 
-We ordered coffee at the counter. He paid for his. I paid for mine. He didn’t argue about it.
+The drink eased the tightness in my chest. The noise kept my brain from spiralling. I scrolled my phone and pretended I was just waiting for a friend.
 
-That alone probably qualified him for sainthood.
+No one bothered me.
 
-We sat at a table by the window.
+I should have left then.
 
-Carl asked, “Is this seat okay?” before he sat down.
+I didn’t.
 
-I stared at him for half a beat.
+Because when you’ve spent your whole life being competent, it feels obscene to admit that you’re rattled by a memory from Year Ten. It feels weak to say: *I think I might want something different from my life.*
 
-“Yes,” I said. “You can sit. I’m not a queen.”
+So I ordered another.
 
-He smiled, faint. “Good. I didn’t want to guess wrong.”
+Still watching. Still careful. Still “fine.”
 
-That phrase—guess wrong—landed with a quiet thud.
+I told myself I’d go after that one. I even stood up once, like I meant it.
 
-Men usually guess. They guess because they assume it’s safer for them to risk your discomfort than risk their pride.
+Then someone bumped into my table and apologised, and I sat back down because the apology made the world feel briefly civil again.
 
-Carl was not guessing.
+Another drink.
 
-He was checking.
+I was still coherent. Still upright. Still me.
 
-I took a sip of coffee and told myself not to be impressed by basic decency. The bar is on the floor. We should not be applauding men for stepping over it.
+And then… it happened.
 
-Still.
+Not dramatically. Not like the movies.
 
-It was… a relief.
+Just a wrongness—sudden and unmistakable—like my body had stepped on a stair that wasn’t there.
 
-We talked.
+My stomach rolled. The room tilted, not pleasantly. My skin went hot and then cold, as if someone was adjusting my temperature with a remote. My tongue felt thick. My hands stopped feeling like mine.
 
-Not the interview kind of talking, where a man tries to discover which version of himself you’d like and then shapeshifts accordingly.
+I blinked hard. Once. Twice.
 
-Actual talking.
+*No,* my brain said, sharp and furious. *No, no, no.*
 
-He told me he did electrical work for the Faire and a few local businesses. He liked fixing old things. He’d moved back to town after his dad got sick. He baked because it was cheaper than buying food and because it stopped his brain spinning at night.
+I looked down at my glass.
 
-I listened, alert for the hidden tells.
+Half-full. Nothing obvious. Nothing to point to and say *that*.
 
-There weren’t many.
+I tried to stand and my legs said, *absolutely not.*
 
-He didn’t complain about women. He didn’t complain about his ex. He didn’t imply he was “nice” in a way that made you brace for the invoice.
+Panic rose in me—fast, animal.
 
-He asked questions that didn’t feel like fishing.
+Not shame.
 
-“What do you do when you’re not here?”
-“Do you like living in town?”
-“Do you have siblings?”
+Not sadness.
 
-Normal.
+Pure survival.
 
-I answered enough to be polite, but not so much that I’d be handing him my internal wiring diagram.
+I grabbed my phone and fumbled it once, twice, before it unlocked.
 
-It was… okay.
+The screen swam.
 
-More than okay, technically.
+I could have called the police.
 
-The problem was not Carl.
+I could have called Bree.
 
-The problem was me.
+I could have called… anyone.
 
-Because halfway through the coffee, with the sun bright through the windows and his hands wrapped around his mug—steady, clean, capable—I realised something with a clarity that made me want to swear.
+But the only thought that mattered was this:
 
-I didn’t want him.
+*Call the woman who does not ask questions first.*
 
-Not in the sense that matters.
+Lauren.
 
-Not in the gut. Not in the chest. Not in the place that tilts you toward someone without negotiation.
+My thumb hit her name. The phone went to my ear. The ringing sounded far away.
 
-I liked him.
+Then her voice, immediate, clear.
 
-I respected him.
+“Sarah?”
 
-I could even imagine being friends with him, which is the cruelest category of all.
+Something in my chest cracked with relief so sharp it almost hurt.
 
-But the part of me that had watched Bree and Lily glow didn’t wake up.
+“Lauren,” I managed. My voice sounded wrong to my own ears—too careful, too slow. “I—I’m not right.”
 
-It stayed asleep, stubborn, unmoved.
+Lauren didn’t panic. She didn’t do the “what did you do?” tone.
 
-Carl said something—some gentle joke about the Faire lights being “temperamental divas”—and I laughed genuinely.
+“Where are you?” she asked, calm as a seatbelt.
 
-Then my laugh stopped and I thought, sharply:
+I forced the address out. I had to look at the menu board behind the bar to read the street name because my brain couldn’t hold it.
 
-*If he leaned across the table and kissed me right now, I would tolerate it like a dentist appointment.*
+“Okay,” Lauren said. “Listen to me. Are you with anyone?”
 
-That was my answer.
+“No.”
 
-My phone buzzed with a message. Bree.
+“Can you get outside?”
 
-> **Bree:** HOW IS IT
-> Blink twice if you need rescuing
+I glanced toward the door. It looked miles away.
 
-I stared at it for a second, then typed back:
+“I—I think so.”
 
-> **Me:** No rescue. He’s fine. I’m the problem.
+“Good,” she said. “Stand up slowly. Don’t finish your drink. Take your phone and your bag. Go straight out the front. Sit where you can be seen. I’m coming.”
 
-I didn’t send the second part. I deleted it and sent:
+“Okay,” I whispered.
 
-> **Me:** He’s on time. No red flags. Shut up.
+“Sarah,” Lauren said, and her voice sharpened just enough to cut through the fog, “you’re doing brilliantly. Keep breathing. I’ll be there in minutes.”
 
-Carl watched my face in that unobtrusive way decent people do.
+Minutes.
 
-“Everything okay?” he asked.
+It sounded like a lifetime.
 
-“Yes,” I said automatically.
+I stood up carefully, one hand gripping the table until my knuckles went white. The room swayed. I waited until it settled.
 
-Then, because he’d earned it by behaving like a grown man, I added: “You’re… surprisingly normal.”
+I left the glass exactly where it was, because something in me—some last shred of angry competence—wanted it left behind like evidence, even if I didn’t know what I’d prove.
 
-Carl’s mouth twitched. “That’s either a compliment or a warning.”
+I moved toward the door.
 
-“It’s both,” I said.
+Someone brushed past me and I flinched so hard my heart stuttered. I kept going anyway, because I am not prey and I am not staying.
 
-He laughed, and it was warm, uncomplicated.
+The night air hit my face like a slap.
 
-He didn’t reach for me.
+It should have helped.
 
-He didn’t fill the pause.
+It didn’t.
 
-He let the conversation breathe.
+It made the nausea worse.
 
-That’s what made it worse.
+I stumbled to a low wall near the entrance and sat down. I pressed my palms against my thighs, anchoring myself. The world was too bright and too loud and too far away.
 
-Because it was harder to justify leaving.
+I stared at the street and tried to keep my eyes open.
 
-When a man is awful, ending it is easy. It’s a clean moral decision.
+Don’t pass out. Don’t pass out. Don’t pass out.
 
-When a man is decent, ending it feels like you’re throwing away something you’re *supposed* to want.
+Headlights swung around the corner and pulled up.
 
-Carl checked his watch—brief, polite.
+Lauren’s car.
 
-“I’ve got about twenty minutes before I have to go,” he said. “No rush, but I wanted to be upfront.”
+The door opened and there she was—hair pulled back, face set, that particular mother-steel expression that says: *I am here and the world will now behave.*
 
-Upfront.
+She crossed to me quickly.
 
-Another competence.
+“Sarah,” she said, and crouched slightly so she was level with my face. “Look at me.”
 
-I felt my irritation spike—not at him, at the world.
+I did. It took effort. But I did.
 
-At the way I’d been trained to interpret “decent” as “good enough.”
+“Can you stand?” she asked.
 
-At the way women are expected to accept a kind man like he’s a prize, regardless of whether their bodies agree.
+“I—” My voice wobbled. “I think—”
 
-Carl watched me for a moment, thoughtful.
+“Okay,” she said. “We’re not rushing. Bree’s not here, so I’m your hands. Give me your bag.”
 
-“Can I ask you something?” he said.
+I handed it over like a child, and the humiliation should have killed me.
 
-“Depends,” I replied.
+It didn’t.
 
-He nodded, accepting the boundary like it was normal.
+Because Lauren didn’t treat me like a child.
 
-“You seem… tense,” he said carefully. “Not because I’m here. Just—generally. If this is too much, you can tell me. I’m not trying to push.”
+She treated me like a woman whose body had been compromised and needed a plan.
 
-It was such a reasonable sentence that it made my throat tighten.
+Lauren slid an arm around my shoulders—firm, steady—and helped me stand.
 
-I had a choice right then.
+“Walk with me,” she said.
 
-Lie, keep it going, let it drift into something that would eventually become messy.
+I walked.
 
-Or be honest early, before I’d created obligations.
+Each step felt like it was happening through water.
 
-I didn’t want to hurt him.
+Lauren got me into the car, buckled my seatbelt with brisk competence, and shut the door like she was sealing me inside safety.
 
-But I hated the idea of using his decency as a place to hide while I figured myself out.
+She got in and started the engine.
 
-So I said the truth I actually had.
+Only then did she speak again.
 
-“I’m not sure what I want,” I said, and kept my voice steady. “And I’m not going to make that your problem.”
+“I’m taking you to mine,” she said. “You’re not going home alone tonight.”
 
-Carl’s expression shifted—small, controlled. He didn’t flinch, but I saw the sting land anyway.
+I swallowed. My throat felt wrong.
 
-He nodded slowly.
+“I’m sorry,” I whispered automatically.
 
-“Okay,” he said. “Thank you for saying it.”
+Lauren’s head snapped toward me.
 
-I blinked.
+“No,” she said, flat. “Not that. Not ever.”
 
-Of course he thanked me.
+The word landed like a slap and a hug at the same time.
 
-Decent men thank you for honesty even when it hurts.
+I went quiet.
 
-Which makes you feel like a villain anyway.
+Lauren drove with one hand on the wheel and the other ready—just there, near the console, like she could catch me if my body tried to fall apart.
 
-“I’m not saying ‘never,’” I added quickly, because guilt is stupid and fast.
+Halfway to her place, she asked, “Are you going to vomit?”
 
-Carl’s eyes met mine.
+I blinked at the practical question, absurdly grateful for it.
 
-His voice stayed gentle. “Sarah,” he said, “don’t offer me a maybe because you feel bad.”
+“Maybe.”
 
-I stared at him.
+“Okay,” she said. “There’s a bag. Use it if you need. You’re not embarrassing.”
 
-He gave a small shrug.
+I made a small sound that might have been a laugh if I’d had more oxygen.
 
-“I’d rather you say no,” he continued, “than say yes out of obligation. I don’t want to be the kind of man you tolerate.”
+At her apartment, Lauren guided me inside, shoes off, lights low, water poured.
 
-There was a quiet dignity in that sentence that made my chest ache.
+She sat me on the couch and tucked a throw around my shoulders with the kind of efficiency that would make Mara nod once and say nothing.
 
-And in that ache, I felt something else—something clarifying.
+Then Lauren crouched in front of me again.
 
-It wasn’t fear of repeat performance.
+“Sarah,” she said, “I’m going to ask you something and you can answer yes or no.”
 
-It wasn’t trauma.
+I nodded.
 
-It wasn’t “men are bad.”
+“Do you feel safe right now?”
 
-It was simpler.
+I blinked hard.
 
-I just… wasn’t attracted to him.
+“Yes,” I whispered.
 
-Which meant the kindest thing I could do was to stop pretending it might change.
+“Good,” she said. “Then we slow down. We hydrate. We keep you awake enough to stay oriented. And if anything changes—breathing, chest, pain—we escalate.”
 
-I exhaled.
+The word escalate should have frightened me.
 
-“Okay,” I said, and forced myself to make it clean. “Then… no.”
+Instead it steadied me.
 
-Carl’s face tightened for a fraction. He swallowed. Then he nodded, once.
+Because Lauren wasn’t guessing.
 
-“Okay,” he said. “That’s clear. Thank you.”
+She was managing.
 
-He stood, picked up his mug, and took it to the counter like a man who had practiced not making women responsible for his feelings.
+I leaned back into the couch, dizzy, and my eyes burned unexpectedly.
 
-When he came back, he didn’t linger.
+Lauren saw it and didn’t comment. She just sat beside me, not touching, present like a wall you could lean on.
 
-“I’m glad I met you,” he said. “Even if it’s not… that.”
+After a while, the nausea eased into something duller. The panic receded, replaced by exhaustion.
 
-I held his gaze. “You’re a good man,” I said. “That’s not nothing.”
+Lauren handed me another glass of water.
 
-Carl’s smile was faint and sad.
+I drank.
 
-“I know,” he said quietly. “And it still stings.”
+My hands shook.
 
-Honesty. Again.
+Lauren watched without judgement.
 
-Then he nodded once—no attempt at a hug, no touch, no lingering—and walked out into the sunlight.
+The silence stretched.
 
-I watched him go, throat tight, coffee cold in front of me.
+And in that silence, my brain—traitorous, inconvenient—offered me the thought I’d been avoiding all night:
 
-I should have felt relieved.
+*You called her.*
 
-Instead I felt… guilty.
+Not Bree.
 
-Because I could tell I’d hurt him.
+Not the police.
 
-Not because he’d done anything wrong.
+Her.
 
-Because decency doesn’t protect you from rejection.
+Because somewhere in my body, Lauren had become the definition of “safe.”
 
-I sat there another minute, staring at my reflection in the café window, and thought, with grim, reluctant clarity:
+Not as a concept.
 
-*Well. That settles that.*
+As a person.
 
-Then my phone buzzed again. Bree.
+Lauren checked her phone, then looked at me.
 
-> **Bree:** DID HE TRY TO KISS YOU
-> I will bite him
+“Do you want me to call Bree?” she asked gently.
 
-I stared at it.
+I hesitated. Then shook my head.
 
-And to my own surprise, I laughed.
+“No,” I said, voice rough. “Not yet.”
 
-A real laugh.
+Lauren didn’t press.
 
-Then I typed back:
+“Okay,” she said. “Then you sleep here. Bedroom’s yours. Door closes. I’ll be in the lounge.”
 
-> **Me:** He didn’t touch me once.
-> He’s decent.
-> I’m… not into it.
+My throat tightened.
 
-I sent it.
+“You don’t have to—”
 
-And as I walked out into the daylight, guilt riding my shoulders like a stupid animal, I realised the worst part wasn’t rejecting a good man.
+Lauren’s look cut clean through me.
 
-The worst part was that rejecting him had made the other truth harder to ignore:
+“I do,” she said. “Because you’re not going to wake up alone and wonder if you imagined it.”
 
-Whatever I wanted, it wasn’t him.
+I swallowed.
 
-And the shape of that “not him” was starting to look suspiciously like… her.
+“Okay,” I whispered.
+
+Lauren stood, then paused.
+
+“And Sarah,” she added, softer, “tomorrow we can talk about reporting it. Or checking in medically. Or none of that. But tonight you’re just… alive. That’s the job.”
+
+Alive.
+
+That word landed in my chest like a weight.
+
+She guided me to the bedroom—nothing intimate, nothing loaded—just a woman escorting another woman to safety. She handed me a clean t-shirt, pointed at the bathroom, left the door ajar.
+
+I changed slowly, clumsy and tired, then crawled into the bed like it belonged to someone else.
+
+The room was dark and quiet.
+
+I heard Lauren moving softly in the lounge—kettle, cupboard, the small sounds of a competent woman keeping watch without announcing it.
+
+And then I slept.
 
 ---
 
-Not too trope-ish at all — it’s actually one of the *cleanest* ways to make Sarah’s arc feel psychologically inevitable rather than “sudden sexuality plot.” 💛
+In the morning, my mouth tasted like regret and my head felt full of sand.
 
-What makes it *not* tropey is how you’re framing it:
+I lay still for a moment, letting the hangover assemble itself into a coherent list of complaints.
 
-* It’s not “Sarah discovers she’s gay because a man was mean.”
-* It’s “Sarah finally admits an old truth because she just met a man who behaved well — and the absence of danger removed her excuses.”
+Then I remembered everything.
 
-That’s sharp, adult, and very Wardrobe-aligned: **truth emerges when the room becomes safe enough.**
+The bar. The wrongness. The bench outside. Lauren’s voice, steady as a handrail.
 
-Also: the high-school crush being unreturned is perfect, because it explains why she packed it away without melodrama. The ski-gear metaphor is so Sarah it hurts. 😌
+The shame hit next—automatic, predictable.
 
-If you like, we can stitch this introspection into the end of Scene 43 or make it the opening of Scene 44. I’d do it as a short **bridge beat**: Sarah alone after the café, guilt humming, memory unspooling, then the choice to go out for a drink.
+*You’re thirty-something and you called someone’s mum.*
 
-Here’s that bridge beat in Sarah’s voice:
+I sat up too quickly and had to stop. The room tilted. I pressed my palm to my forehead, breathing through it.
+
+A tap at the door.
+
+Lauren’s voice, careful. “You awake?”
+
+“Yes,” I croaked.
+
+She came in with water and toast like she’d done it a thousand times, and maybe she had.
+
+She set the tray on the bedside table and looked at me, not hovering.
+
+“How’s your head?” she asked.
+
+“Like someone built a shed inside it,” I muttered.
+
+Lauren’s mouth twitched. “Fair.”
+
+I took the water with both hands. Drank. Slowly.
+
+Lauren sat on the chair near the window, not on the bed—space respected.
+
+“Do you remember what happened?” she asked.
+
+“Yes,” I said, and my voice went quieter. “I… felt wrong. Too fast.”
+
+Lauren nodded, filing it.
+
+“Okay,” she said. “We don’t have to decide anything this second. But I want you to know: you did the right thing calling.”
+
+The words landed, warm and sharp.
+
+I stared at the toast like it contained answers.
+
+“I didn’t want to bother you,” I said.
+
+Lauren’s gaze held mine.
+
+“You didn’t bother me,” she replied. “You trusted me.”
+
+My throat tightened again, stupidly.
+
+I tried to deflect.
+
+“Because you’re terrifying,” I said dryly.
+
+Lauren’s laugh was small. “I’ll take it.”
+
+I took another sip of water, hands still slightly shaky.
+
+Then I said the thing that had been sitting in my chest since the bench outside the bar.
+
+“Lauren,” I began, and my voice caught. “I… I think I use you as—”
+
+“A safety blanket,” Lauren finished gently, not mocking.
+
+I blinked, embarrassed.
+
+Lauren tilted her head.
+
+“It’s not an insult,” she said. “You were scared. You reached for the safest person you know. That’s rational.”
+
+I looked down at my hands.
+
+“But,” Lauren continued, quiet now, “I don’t think that’s the whole truth.”
+
+My pulse did a strange, hot little stumble.
+
+I looked up.
+
+Lauren’s expression was open—still adult, still in control—but softer than I’d ever seen it, like she was allowing herself to be human in front of me.
+
+“Sarah,” she said, “you don’t have to decide anything today. But you should know something.”
+
+I waited. Breath held.
+
+“I like you,” Lauren said. Simple. Clean. “As you are. Sharp. Difficult. Funny. Honest when it costs you.”
+
+The room went very still.
+
+My skin prickled.
+
+I should have made a joke.
+
+I couldn’t.
+
+Lauren didn’t move closer. She didn’t take my hand. She didn’t try to seal the moment into a story.
+
+She just let the truth sit there, like a cup placed gently on a table.
+
+And in the quiet that followed, I realised—with a clarity that made my chest ache—that this feeling in me wasn’t relief anymore.
+
+It wasn’t gratitude.
+
+It wasn’t even safety.
+
+It was… wanting.
+
+Not loud. Not dramatic.
+
+Just a steady, inconvenient pull toward the woman in the chair.
+
+I swallowed, suddenly terrified—not of her, not of intimacy, but of the sheer scale of how much sense it made.
+
+“I’m not—” I started, and stopped.
+
+Lauren waited, patient.
+
+I took a breath, careful.
+
+“I think,” I said slowly, “I called you because I wanted you to come.”
+
+Lauren’s eyes softened.
+
+“Yes,” she said, so quiet it was almost a whisper. “I know.”
+
+My heart thudded once, hard.
+
+I stared at her, and for the first time in a long time I didn’t feel like I had to be clever to be safe.
+
+I just had to be honest.
+
+“I don’t know what to do with that,” I admitted.
+
+Lauren nodded once.
+
+“Good,” she said. “Then we do nothing dramatic. We do boring.”
+
+I huffed a laugh. “Boring.”
+
+“Boring,” Lauren confirmed. “Tea. Toast. Water. A quiet day. And later—when your head stops trying to kill you—we talk. Like adults.”
+
+My throat tightened again, but this time it wasn’t shame.
+
+It was something warmer.
+
+Something that felt, inconveniently, like hope.
+
+I nodded.
+
+“Okay,” I said.
+
+And Lauren’s smile—small, steady—was the softest kind of victory.
+
+Not conquest.
+
+Not rescue.
+
+Just two women, choosing to treat the moment with care.
+
+Like everything else in our world that mattered. 💛
+
+<hr style="height:8px;border-width:0;color:red;background-color:red">
+
+
+
+
+
+
+
+
+
+
+
+
+## Scenes Replaced
 
 ---
 
-## **Bridge — “Ski Gear” (Sarah POV)**
-
-I didn’t go straight home after Carl.
-
-I walked for a while, because walking keeps me from doing something stupid. It gives my brain time to catch up with my body.
-
-It wasn’t even that he was attractive. He was—fine. He was clean. He was competent. He didn’t touch me. He didn’t push. He didn’t make my boundaries his personal enemy.
-
-He was the kind of man you’re meant to feel grateful for.
-
-And that was the problem.
-
-Because I wasn’t grateful.
-
-I was just… blank.
-
-Like my nervous system had looked at him and said, *Nope. Not you.* And then refused to provide further details.
-
-I kept thinking: maybe it’s fear. Maybe it’s Ethan residue. Maybe it’s just my brain being dramatic because it doesn’t know how to be normal.
-
-But fear doesn’t feel like blankness.
-
-Fear feels like vigilance. Tight shoulders. Exit planning.
-
-What I felt with Carl wasn’t fear.
-
-It was absence.
-
-Which is when the memory hit me, sideways, as if my brain had been waiting for the exact wrong moment to pull it off a shelf.
-
-Year ten. Assembly hall. A girl with dark hair and quick hands and a laugh that made my chest do something embarrassing. I’d watched her for months the way you watch fire, pretending it was curiosity and not the stupid, soft thing under it.
-
-I’d never told her. Not properly. I’d tried once, badly. A clumsy confession disguised as a joke.
-
-She’d smiled—kind, puzzled—and said something like, “Aw, you’re sweet.”
-
-And then she’d gone back to her friends.
-
-No cruelty. No scandal.
-
-Just… not returned.
-
-It had been enough.
-
-Enough to teach me that wanting like that was pointless. Risky. Public.
-
-So I’d packed it away like you pack away ski gear in a town that doesn’t snow: shoved to the back of the closet, forgotten on purpose, mildly embarrassing when you rediscover it.
-
-I hadn’t thought about her in years.
-
-Not properly.
-
-But now—now, after sitting across from a good man and feeling nothing—I could feel that old crush as clearly as if it had happened last week.
-
-The heat. The pull. The stupid, traitorous eagerness.
-
-Not for him.
-
-For her.
-
-For *girls.*
-
-I stopped walking and stood on the footpath, suddenly furious.
-
-Not at the girl from year ten.
-
-At myself.
-
-At the way I’d treated that part of me like a hobby I’d outgrown rather than a truth I’d postponed.
-
-At the way the world makes it so easy to interpret “unrequited” as “wrong.”
-
-I took a breath, sharp and cold, and felt the inconvenience of it settle in my ribs.
-
-So that was it.
-
-Not men.
-
-Not trauma.
-
-Not “I can’t do relationships.”
-
-Just… that.
-
-A buried part of me, choosing the most inconvenient moment to knock.
-
-And because I’m Sarah—because I’m excellent at many things and awful at being gentle with myself—I did what I always do when something tender reappears unexpectedly.
-
-I tried to drown it.
+**All previous scene versions are no longer being considered. The following scene will be published as Scene 48.**
 
 ---
 
-If you want, I can now continue directly into **Scene 44** (the drink, the solo night out, the sudden illness, the panic call to Lauren, the night at Lauren’s, and the morning realisation—*not a blanket*). I’ll keep the spiking moment handled exactly as we discussed: sensory, uncertain, no procedural detour, full focus on Sarah’s fear + Lauren’s competent care. 💛
+<hr style="height:8px;border-width:0;color:red;background-color:red">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-02-10rv1
+### There’s Always Tomorrow
+
+<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-10]
+
+**Scene 49 — “There’s Always Tomorrow” (Sarah POV, past tense)**
+
+---
+
+I noticed it in the stupid, domestic gaps.
+
+Not the dramatic moments—the door locks, the blocked numbers, the way you learn to breathe again after a man has spent years teaching your body to cringe.
+
+No. It was smaller than that.
+
+It was how Lauren hovered half a second longer when I passed her in the hallway.  
+How her eyes tracked my hands when I put a mug down.  
+How she recalibrated her distance—one step closer, then one step back—as if she was testing an invisible fence with the tip of her toe.
+
+I’d seen hunger before. Men carried it like a claim, like they were owed.
+
+Lauren’s was different.
+
+Lauren’s was the kind that didn’t want to take anything. It wanted to be given something and not feel guilty for receiving it.
+
+That was what undid me.
+
+It would’ve been easy to call it a rebound and be done with it. Neat label, tidy reasoning. But nothing about Lauren’s marriage had ended last week. It had ended slowly, years ago—ended in thousands of small moments where affection didn’t arrive, where kindness wasn’t the default, where she’d learned to survive on silence.
+
+The only thing that had happened recently was that she’d finally stepped out of the freezer.
+
+I could handle the practical parts. Safety plans. Logistics. Buddy systems. Door locks turned twice. What I wasn’t used to was this: warmth that wanted to become… something else.
+
+And the fact that I wanted it too. That was the part I hadn’t planned for.
+
+That was the part that made me feel—ridiculously—like a teenager. I’d always been on the receiving end of initiation. Men decided. Men pressed. Men assumed. Even the decent ones still arrived with a kind of forward momentum, like intimacy was a track they expected you to step onto.
+
+Women didn’t do that to me. Not in my life.
+
+And now, if I wanted this to be woman-shaped, it meant I had to do something I’d never done before:
+
+I had to lead without pushing.  
+I had to offer without taking.  
+I had to be brave, but not loud about it.  
+
+That night, after dinner, the house settled into its quiet. Lauren had showered and come out in one of my old t-shirts—soft, oversized, sleeves too long. Her hair was still slightly damp at the ends. She looked younger like that, not in age, but in vulnerability, like someone who hadn’t yet learned that comfort wasn't only permitted but encouraged.
+
+I watched her cross the lounge room and sit at the far end of the couch. Far enough to be polite. I sat down too, close enough to feel her heat, and still didn’t move. The television murmured some forgettable show. Neither of us watched it.
+
+Lauren’s hands were folded in her lap like she was waiting for instructions. 
+
+I felt something hot rise in my chest and I didn’t like what it wanted.
+
+Protective, I told myself.
+
+No.
+
+That wasn’t it.
+
+Possessive.
+
+The word startled me. I pushed back against it immediately—hard.
+
+Not my style. Not my rules.
+
+And yet I wanted her so badly it made my thoughts snag. Could I want her and still be good?
+
+I turned my head to look at her.
+
+She was staring at the screen without seeing it, breathing shallow, shoulders as if on a hangar. Even safe, her body was still practising danger strategies.
+
+“Lauren.”
+
+She jumped a little, then forced a smile, almost guiltily, like she was about to apologise for... something.
+
+“What?” she asked, a bit quickly, I thought.
+
+I kept my voice calm.
+
+“Please come here.”
+
+Her eyes flicked to mine, startled by the certainty.
+
+“Are—” she began, then stopped. Her throat moved as she swallowed. “Are you… sure?”
+
+That heat was becoming troublesome.
+
+“It’s not a couch treaty,” I said. “I’m just asking you to come here.”
+
+The corner of her mouth twitched, half laughter, half nerves. She didn’t move. I softened it—just a fraction.
+
+“You can say no,” I added. “But I’m not going to pretend I don’t want you closer.” A beat. “Please?” 
+
+That did it.
+
+Lauren finally saw my door. Unlocked, open. Her breath caught. 
+
+She looked down at her hands, then back up at me like she was bracing for consequences. Then she rose, slowly, and moved along the couch until she was sitting beside me. Close enough that our shoulders almost touched.
+
+Almost.
+
+She stopped there, perfectly still, like a deer that had wandered into a warmth it wasn’t sure about. I let the silence rest for a moment, feeling her closeness, and looked at her hands. Then I raised my eyes to hers and said, very quietly,
+
+“You can want things, now.”
+
+Lauren’s eyes brightened instantly. She blinked hard, furious with herself.
+
+“I’ve never felt like this. How can I know what I want?” she whispered.
+
+I knew what I wanted: her. But I wanted her willingly entering my open door—not me pushing her in. So I smiled at her eyes and made the simplest offer I could manage.
+
+“I want to kiss you.”
+
+Her whole body went still.
+
+The air changed.
+
+Lauren looked at me, motionless. I forced myself not to move, not to do the thing men did—closing distance as if hesitation was consent. Instead I asked, my voice steady, 
+
+“Do you want that?”
+
+Lauren pressed her lips together, momentarily, as if biting them, and then her mouth fell open. She nodded once, almost imperceptibly.
+
+“Yes.”
+
+That faint, barely whispered word was the most soothing sound this side of rain falling. I lifted my hand slowly—so she could see every inch of it—and touched the side of her face with my fingertips, light as breath. Lauren leaned into my hand.
+
+Something in my chest went dangerously soft.
+
+I kissed her.
+
+A gentle, careful kiss—asking, not claiming.
+
+Lauren made a sound so small it was barely there, and then she kissed me back—tentative at first, like she was still half expecting everything to vanish. And then, gradually, she softened. Her shoulders dropped. Her breath deepened. Her whole body sighed into our closeness.
+
+I pulled back just enough to look at her.
+
+Her eyes were glassy. Her mouth was slightly parted.
+
+She looked sedated.
+
+“You okay?”
+
+Lauren huffed and nodded quickly, as tears slipped down, furious little betrayers.
+
+“I can’t seem to get enough of this—of you,” she whispered.
+
+I felt relief, suddenly. This woman was opening herself to me. To me!
+
+“I know.”
+
+Lauren’s lips trembled. “I didn’t realise it would feel like—”
+
+“Like a human being?” I supplied.
+
+A laugh broke out of her, watery and disbelieving.
+
+“Yes,” she breathed. “Like being… human.”
+
+I nodded once, satisfied.
+
+Then I said the part that mattered most, the part I needed her to hear.
+
+“We go at your speed and to meet your needs,” I told her. “Juust know that I can meet you whereever you are. You don’t have to hold back for me. Clear?”
+
+Lauren stared at me, eyes wide. Then she nodded again, more firmly this time.
+
+“Clear,” she whispered.
+
+Good.
+
+I shifted closer, and this time our shoulders touched properly.
+
+Lauren leaned into me, comfortably now, assured. I draped the throw over us, a practical gesture. Lauren’s head settled against my shoulder. She stayed there, breathing slowly.
+
+For a while we didn’t speak. The television murmured on. The house held us.
+
+Lauren’s eyelids fluttered. I felt the change before I saw it—the way her body stopped bracing, the way her weight became honest.
+
+She fell asleep.
+
+And in the quiet, I thought—simple and steady, like a promise you didn’t need to announce out loud:
+
+There’s always tomorrow.
+
+*End Scene 49.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Notes260212rv1
+### Revised
+
+<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+<!--
+
+Oh, this is strong already. Very strong. 💛
+But yes — some of it now belongs to the *previous* understanding of the scene. We’re going to keep the spine and shift the centre of gravity.
+
+What we are doing now:
+
+* Remove over-explanation.
+* Remove verbal assurances that flatten tension.
+* Preserve consent, but make it quieter.
+* Let Sarah be swept up before she regulates.
+* Make the modulation embodied, not verbal.
+* Replace “We go at your speed” with “I will hold the shape of this.”
+
+And crucially:
+
+No didactic lines about pace.
+No “Clear?”
+No managerial tone.
+
+Leadership becomes physical attunement.
+
+/-->
+
+[260212]
+
+**Reframed Scene (Trimmed, Deepened, Realigned)**
+
+---
+
+I noticed it in the little things.
+
+Not the clear desisions or change in direction, like blocked numbers or relearning how to breathe.
+
+No—little. Subtle.
+
+Like, the way Lauren hovered half a second too long in doorways.  
+Or, how her eyes followed my hands when I set something down.  
+Even the way she recalibrated distance like she was testing invisible borders.
+
+When Lauren first got here, she had been sorting her life out in real time, and I’d been doing what I do: keeping the day functional while she did it.
+
+But somewhere in the last twenty-four hours, it stopped being only that, in the way a pattern changes and you don’t notice until you’re already adjusting to it. 
+
+I started thinking in her. I started measuring the house by where she was. I started hearing quiet and taking it personally. I told myself it was temporary.
+
+I didn’t believe myself.
+
+I’d seen hunger before. Men wore it like a claim.
+
+Lauren’s wasn’t like that.
+
+Hers felt like something carefully folded away for so long that it's unsure who owns it.
+
+And I wanted it.
+
+That was the part I hadn’t anticipated.
+
+It would’ve been easy to call it timing, rebound, proximity. None of that fit. Nothing about her marriage had ended recently. It had eroded years ago. The only recent thing was that she’d stepped into warmth.
+
+And warmth does things to a body.
+
+That night the house settled into quiet. Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
+
+Polite distance.
+
+I sat down too. Closer than polite. Still didn’t move.
+
+The television murmured. Neither of us watched it.
+
+Her hands were folded like she was waiting to be told something.
+
+Heat rose in my chest.
+
+Protective.
+
+No.
+
+Possessive.
+
+The word annoyed me.
+
+I didn’t own people. I didn’t take what wasn’t offered.
+
+But I wanted her.
+
+I turned my head.
+
+“Lauren.”
+
+She startled slightly. “What?”
+
+“Come here.”
+
+No flourish. No drama.
+
+Her throat moved. “Are you sure?”
+
+“Yes.”
+
+She moved slowly along the couch until our shoulders nearly touched. Stopped there, like proximity had edges.
+
+I let the silence sit. Then, softer:
+
+“You don’t have to hold yourself like that.”
+
+Her breath shifted.
+
+I reached up, slow enough that she could see it coming, and touched her face. Just fingertips.
+
+She leaned in.
+
+That undid me.
+
+“I want to kiss you,” I said.
+
+She didn’t hesitate this time.
+
+“Yes.”
+
+So I kissed her.
+
+Careful at first. Measured. Asking.
+
+She answered just as carefully.
+
+And then something changed.
+
+Her hands stopped hovering. They settled at my waist. Firmer. Certain.
+
+The kiss deepened.
+
+I felt the current and stepped into it willingly. Pulled her closer. Let the heat climb. Let myself forget for a second that I was supposed to be the steady one.
+
+Her breath shortened.
+
+Mine did too.
+
+The space between us disappeared.
+
+Lauren pressed in harder — not frantic, just sure. Hungry in a way that felt startlingly honest.
+
+God, I wanted that.
+
+I matched her.
+
+For one dangerous beat, I stopped measuring.
+
+Her fingers tightened at my back. The kiss tipped — not wrong, not wild — just fast. Fast enough that I could feel where it would lead if we didn’t slow it.
+
+And I wanted to keep going.
+
+That was the problem.
+
+Instead, I changed the air.
+
+I inhaled deeply, deliberately. Held it. Let it out slower than the moment required, warm against her cheek.
+
+Kept my hand firm at her back, but stilled the other. Changed the angle of my mouth. Slowed the pressure, not the closeness.
+
+Stayed.
+
+Lauren’s breath stuttered at the shift — not pulling away, just recalibrating.
+
+I touched my forehead lightly to her temple.
+
+“Stay with me,” I murmured.
+
+Not correction. Invitation.
+
+Her hands softened.
+
+Her mouth followed mine.
+
+The urgency didn’t vanish. It deepened.
+
+Heat without scramble.
+
+Her breath turned heavier now, slower, warmer against my skin. I could smell soap and something faintly electric underneath it — the kind of scent that only shows up when someone stops pretending.
+
+I kissed her again, slower this time. Intentional. Thorough.
+
+Not rushing to the end of anything.
+
+Letting it build properly.
+
+She made a quiet sound — different now. Not startled. Not overwhelmed.
+
+Present.
+
+When I finally drew back a fraction, she didn’t look ashamed.
+
+She looked lit.
+
+I brushed my thumb along her jaw.
+
+“There’s no rush,” I said quietly. Not a warning. A promise.
+
+Her eyes held mine. Steady.
+
+“I’m not going anywhere.”
+
+That was the gift.
+
+She leaned into me again, not urgently now. Willingly.
+
+And this time, when I draped the throw over us and she settled against my shoulder, the weight of her felt chosen, not collapsed.
+
+Her breathing evened out slowly.
+
+She fell asleep.
+
+And I stayed there, feeling the warmth of her, knowing exactly how close we’d come to tumbling, and exactly why we hadn’t.
+
+There’s always tomorrow.
+
+**End Scene 47.**  *...was 38 and 39*
+
+<!--
+
+### What Changed
+
+* Removed managerial “Clear?” tone.
+* Removed instructional language about speed.
+* Allowed Sarah to be swept up.
+* Made the near-fall tangible through breath and pressure.
+* Made the slowdown embodied.
+* Preserved Lauren’s dignity.
+* Shifted from “We go at your speed” to “There’s no rush / I’m not going anywhere.”
+* Leadership became containment, not instruction.
+
+This version says:
+
+I want you.
+I almost lost myself in it.
+I chose depth over speed.
+And I’m staying.
+
+That’s adult.
+That’s woman-shaped.
+That preserves agency.
+
+Now tell me — does this feel aligned? Or do you want the near-miss to feel even closer to the edge?
+
+/-->
+
+
+
+
+
+
+## Notes26-02-13ev1
+### [260213]
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+
+[260213]
+
+✨ The Brush ✨🔥💛🌿😏😭💛✅😈💛
+
+**Scene 47 — “There’s Always Tomorrow”**  
+*(Sarah POV, 1st person, past tense)*
+
+
+<!--
+Ohhh yes, that makes total sense 🫶
+You’re right: what you pasted is lovely, but it’s reading more like a general “state of the union” monologue than **Sarah reacting to *tonight*** — car, key, hug, tears, Lauren’s “yes” if she’d tilted her chin. Let’s make it about *that*.
+
+I’ll rewrite the **opening of 47** so it:
+
+* starts with the key bowl (symbol),
+* folds in the car + hug + Lauren’s vulnerability,
+* and shows Sarah actively deciding how she wants to proceed.
+
+You can then bolt it straight onto your couch/kiss section from before.
+
+
+---
+
+---
+
+From here you can go straight into your existing:
+
+> Heat rose in my chest.
+>
+> Protective.
+>
+> No.
+>
+> Possessive.
+> …
+
+and on to “I want to kiss you” / “Yes” / “There’s always tomorrow.”
+
+This version:
+
+* pulls the **car** and **hallway hug** right into the foreground,
+* shows Sarah consciously **choosing not** to tilt Lauren’s chin, *because* she knows it would be a yes,
+* uses the **key bowl** as the emotional anchor (not a random detail),
+* and very clearly shows Sarah making a decision:
+  *I want her; I will still pace this; I am not pretending this is just rescue anymore.*
+
+If you paste your full Scene 47 together with this opening, we can do a final tiny pass just for rhythm — but emotionally, this now sits exactly where the two of them are after 45 + 46. 💛
+
+
+
+
+---
+
+**Scene 47 — opening rewrite (Sarah POV, 1st person, past tense)**
+
+Oh this is *so* close already 😍 — the emotional logic is spot-on. It just needs a tiny bit of tightening and a couple of grammar fixes so it flows as cleanly as it *feels*.
+
+Here’s a lightly polished version of what you wrote, same content, same Sarah, just smoothed:
+
+
+---
+
+Tiny things I changed, just so your brain doesn’t itch later:
+
+* Fixed the grammar bumps:
+
+  * “Was that was why I didn’t? I did promised” → “Was that why I didn’t? I’d promised…”
+* “as relevant as last week’s casserole” → kept, just added “felt” so the simile sits cleanly in Sarah’s thought.
+* “The scheme did not even consider…” → “The scheme hadn’t even considered…” to match conversational Sarah.
+
+Emotionally, this now does exactly what you wanted:
+
+* pulls in the *actual events* (car line, key, hug, almost-kiss)
+* shows Sarah consciously trying to keep to “her speed” and already doubting what that means
+* reframes the “scheme” as something built to keep Lauren safe *even from Sarah* — and then cheerfully blown up by mutual hunger
+
+From here, dropping into “We ate. We talked about safe things…” and then moving to the couch flows beautifully. It’s very, very clear this is *Sarah in the aftermath of 45 + 46*, not some generic state-of-the-union voiceover. 💛
+
+/-->
+
+**Scene 47 — opening rewrite (Sarah POV, 1st person, past tense)**
+
+---
+
+💋 There’s Always Tomorrow 💋
+
+[ Sarah ]
+
+I heard the keys settle before the house did.
+
+Lauren’s fingers brushed her spare key on the way past the bowl, a tiny, unconscious gesture, and then the sound of the door swinging closed folded the day in on itself. The kitchen light came on. The house exhaled.
+
+So did I.
+
+In the car, it had been her voice. *It feels so… wonderful to be alive, because my future includes Sarah.*
+
+Ridiculous, reckless sentence. I’d felt it land in my chest, changing my breathing and making my mouth dry.
+
+In the hallway, it had been her body. The way she’d put the coffee down because I’d asked; the way she’d come into my arms like she was falling into something she hadn’t realised was for her. The way she’d clung, light but real, like she was afraid wanting too much might break the spell.
+
+And the way I’d almost—*almost*—tilted her chin up.
+
+If I had, she wouldn’t have stopped me—her eyes had told me as much. Was that why I didn’t? I’d promised her we’d go at her speed. Tonight, I thought that meant holding her until her breathing slowed, feeling her melt and then carefully, deliberately, letting the moment end with both of us still upright.
+
+But later, I wasn’t so sure.
+
+I noticed a lot about her in little things.
+
+Not the clear decisions or changes in direction, like blocked numbers or relearning how to breathe.
+
+No—little. Subtle.
+
+The way her eyes followed my hands while I rinsed plates, like my wrists held answers.
+The way she hovered half a second too long in the doorway before following me into the kitchen.
+The way she recalibrated distance around me, as if she was testing invisible borders she wasn’t sure about.
+
+When Lauren first got here, she had been sorting her life out in real time, and I’d been doing what I do: keeping the day functional while she did it.
+
+But tonight, all that felt about as relevant as last week’s casserole.
+
+Somewhere between the red light on the drive home, the key dropping into the bowl, and her face pressed into my shoulder while she tried not to cry, the axis shifted. I started thinking in her. I started measuring the house by where she was. I started hearing quiet and taking it personally.
+
+I’d told myself her stay with me was temporary. That it was about keeping Lauren safe. Nothing else mattered.
+
+And all that carefully designed scheme—one designed specifically to keep her safe, even from me—evaporated when I saw the hunger in her eyes. A raw, deep, clean hunger.
+
+I’d seen hunger before. Men wore it like a claim.
+
+Lauren’s wasn’t like that.
+
+Hers felt like something carefully folded away for so long that it wasn’t sure who owned it. When she leaned into me, when her fingers curled in my shirt, it came out in little, frightened pieces—no demand, just a plea not to be sent back.
+
+The scheme hadn’t even considered hunger as a possibility. Need as something to address. Want as a factor you didn’t get to ignore.
+
+And the real reason it vanished?
+
+I wanted it. I wanted her.
+
+That was the part I hadn’t anticipated: that holding her together in my hallway would make me want to take her apart somewhere softer, slower, with no one watching but us.
+
+We ate. We talked about safe things—Charli, the solicitor, whether Wardrobe could bully the real estate agent into co-operating. She was still shaken from the day, but there were more laughs than flinches now. Every time she smiled at me across the table, I could feel that key in the bowl behind her like a small, heavy fact: she wasn’t just passing through.
+
+Later, when the dishes were done and the cups were rinsed and the house settled into its night-quiet, Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
+
+Polite distance.
+
+I sat down too. Closer than polite. I still didn’t move.
+
+The television murmured. Neither of us watched it.
+
+Her hands were folded like she was waiting to be told something.
+
+Heat rose in my chest…
+
+
+It would’ve been easy to call it timing, rebound, proximity. None of that fit. Nothing about her marriage had ended recently. It had eroded years ago. The only recent thing was that she’d stepped into warmth.
+
+And warmth does things to a body.
+
+We ate. We talked about safe things for a while—Charli, work, the solicitor, the way the sun hit the Wardrobe windows in the late afternoon. She was still a little shell-shocked from the day, but there were more laughs than flinches now. Every time she laughed, I could hear the echo of that moment in the car, the way she’d looked at me like her future had just grown a new room.
+
+Later, when the dishes were done and the cups were rinsed and the house settled into its night-quiet, Lauren crossed the lounge room in one of my old shirts, sleeves long, hair still damp at the ends. She sat at the far end of the couch.
+
+Polite distance.
+
+I sat down too. Closer than polite. I still didn’t move.
+
+The television murmured. Neither of us watched it.
+
+Her hands were folded like she was waiting to be told something.
+
+Heat rose in my chest.
+
+Protective.
+
+No.
+
+Possessive.
+
+The word annoyed me.
+
+I didn’t own people. I didn’t take what wasn’t offered.
+
+But I wanted her. That hadn’t changed since the red light and her heart-stopping, ridiculous honesty in the car. If anything, the key in the bowl and the way she’d folded into my arms had made it worse—in the best possible way.
+
+I turned my head.
+
+“Lauren.”
+
+She startled slightly. “Yes?”
+
+“Come here.”
+
+Her throat moved. “Are you sure?”
+
+“Yes.”
+
+She moved slowly along the couch until our shoulders nearly touched. Stopped there, like proximity had edges.
+
+I let the silence sit. Then, softer:
+
+“You don’t have to hold yourself like that.”
+
+I reached up, slow enough that she could see it coming, and touched her face. Just fingertips. She leaned in.
+
+That undid me.
+
+“I want to kiss you,” I said.
+
+She didn’t hesitate this time.
+
+“Yes.”
+
+So I kissed her.
+
+Careful at first. Measured. Asking.
+
+She answered just as carefully.
+
+And then something changed. Her hands stopped hovering. They settled at my waist. Firmer. Certain.
+
+The kiss deepened.
+
+I felt the rush of the current and stepped into it. Pulled her closer. Felt the heat climb, let it. Let myself forget for a second that I’d intended to be the steady one.
+
+Her breath shortened.
+
+So did mine.
+
+The space between us disappeared. Lauren pressed in more insistently—not frantic, just sure. Hungry in a way that felt startlingly honest. Every part of me wanted that.
+
+I matched her honesty.
+
+For a dangerous few moments, I stopped measuring. I let myself move with her in the rushing current. Her fingers tightened at my back. And then the kiss tipped—not wild—just fast. Fast enough that I could feel where it would lead if we didn’t slow it.
+
+I *so* wanted to keep going.
+
+But instead, I changed the air. I inhaled deeply, deliberately. Held it. Let it out slower than the moment required, warm against her cheek. Kept my hand firm at her back, but stilled the other. Eased the angle of my mouth. Slowed the pressure, not the closeness.
+
+Stayed.
+
+Lauren’s breath stuttered at the gentler pace—not pulling away, just recalibrating. I touched my forehead lightly to her temple.
+
+“Stay with me, dear heart,” I murmured. An invitation. Her hands softened. Her mouth followed mine.
+
+The urgency didn’t vanish. It deepened.
+
+Her breath turned heavier now, slower, warmer against my skin. I could smell soap and something faintly electric underneath it—the kind of scent that only shows up when someone stops pretending. I kissed her again, slower this time. Intentional. Thorough. Not rushing anywhere. Just letting it build properly.
+
+She made a quiet sound—different. Present.
+
+When I finally drew back a fraction to look into her eyes, she didn’t look regretful.
+
+She looked lit.
+
+I brushed my thumb along her jaw.
+
+“Softly-softly,” I said quietly. A promise. Her eyes held mine. Steady. “I’m not going anywhere.”
+
+She leaned into me again, willingly. And this time, when I draped the throw over us and she settled against my shoulder, the weight of her felt chosen, not collapsed. Her gift: herself, trusting.
+
+Her breathing evened out slowly.
+
+She fell asleep.
+
+And I stayed there, feeling the warmth of her.
+
+There’s always tomorrow.
+
+
+---
+
+That should feel emotionally seamless:
+
+* 46 ends with Lauren’s **heart quiet** and the key as a “small, undeniable truth”.
+* 47 opens with Sarah hearing the **keys** settle and noticing the pattern change in the *little* things; she’s already carrying the car confession and hallway hug in her body.
+* The kiss is clearly **mutual**, clearly **wanted**, and Sarah’s restraint is *active pacing*, not shutdown.
+
+From here, a few-days-later erotic scene will have a rock-solid foundation to build on. And we can absolutely sketch that ignition when you’re ready 
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+## t
+### tt
+
+<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+✨ The Brush ✨
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

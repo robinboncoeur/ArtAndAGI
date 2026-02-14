@@ -5,17 +5,57 @@
 
 
 
-<!--
 
 
 
 
-## z
-### zz
+
+## Notes26-01-28ci
+### Forsaken Studies
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-✨ The Brush ✨
+[26-01-28]
+
+✨ Forsaken Studies ✨
+
+[Celeste POV]
+
+I sat curled up in the window seat that doubled as storage, staring unseeing out at the autumn leaves, the wind blowing empty branches about, sipping my morning flat white. Charli made the best flat-whites: they had splurged on a used expresso coffee maker. It was built in Italy, over ten years old but still looked brand-new.
+
+And it produced brilliant expressos. And flat-whites. And, Charli's favourite, mochas.
+
+Charli was in the laundry, which also served as pantry, putting a load of washing on. She wasn't meant to be out and about as this was my study period, but almost all those rules seemed irrelevant, now.
+
+The rules had been designed to protect me. Protect Charli too, of course, but when they were written, it was for a lad moving in with a young woman. And designed for a conventional sort of lad, one requiring strict guidelines, with consequences.
+
+Not I or Mara or even Lauren truly knew this person, Charli.
+
+I had another sip and stared malevolently at my textbook. I could sense my studies frowned back, feeling slighted. I just wasn't in a headspace for statistics and gantt charts.
+
+All I could think of was--magic. The pure, simple, fiery enchantment of a touch: Charli's touch.
+
+That first time I touched her hand... in the loos. I think I must have introduced myself... I can't remember. What I do remember was how light, almost subtanceless her hand felt in mine, long before I knew of 'she'.
+
+If I had known then, would I--
+
+My breath caught, suddenly aware of the emotion cliff's edge I was strolling carelessly along.
+
+Charli emerged from the laundry carrying the clothes backet with wet clothes. Her face brightened into a quick, bewitching smile before she disappeared into the room that had been her bedroom, but was now ostensibly the study.
+
+I'm pretty sure she'd seen through my ruse. And when I told her... that melt, that doe-eyed delight that she couldn't get up the courage to express.
+
+I had another sip: it was cooling too fast. And I like savouring, not greedy guzzling. With pretty much everything--shopping for clothes, exploring a new restaurant, trying for a new look with a more expensive eyeshadow--but when it came to Charli, my hunger for her had grown like a nettle in a part of the garden you avoid because of nettles. 
+
+I didn't recognise myself.
+
+I felt slightly dizzy, and everything around me stop when I remembered that first kiss.
+
+Charli was humming to herself... some Russian melody she'd become enchanted by.
+
+I was enchanted by... her.
+
+The kiss... yes, it was ever so sweet. But it was her, so melting, so yielding, so... feminine. I swallowed, my vision going tunnel, just at the thought. Yes, that was it: it was her yielding to me as much as her touch that I found completely irresistible.
 
 
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
@@ -41,7 +81,7 @@
 
 
 
-
+<!--
 
 
 

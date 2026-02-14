@@ -148,15 +148,53 @@ Stylewise, I was going to go with something like Taffy Brodesser-Akner's, but it
 
 So, there's that. 🫢
 
+---
+
+**Guiding Principles**
+
+This story is at about middle of Act Two of my 'story arc'. As in: far from done. And it's a story with a purpose: agency, respect, consent, safety. Protect the vulnerable. No one gets to dominate, or coerce, or exercise privilege at Wardrobe. There's no spectacle to ogle, no objectification of persons permitted. 
+Does it happen? yes. But there are  consequences because: standards. Policy. 
+
+It makes this story a bit different, and for some, send an uncomfortable message. I doubt it would translate into like a comics format well. 
+
+I'm not writing to get paid: I'm writing from a moral imperative. 
+
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
 
 
+About my images and stories
+ 
+
+The Celeste’s Girl / Wardrobe images and stories are part of a long, carefully structured arc. They’re built around a few non-negotiables: agency, respect, consent, safety, and protection of the vulnerable.
+
+No one at Wardrobe is there to be ogled or objectified. Desire exists, but domination, coercion, and privilege do not get a free pass. When harm happens, there are consequences, because there are standards.
+
+I’m not writing to get paid or to feed a fetish market; I’m writing from a moral imperative. That means:
+
+I’m not looking for collaborators, co-writers, or “let’s make this a comic” proposals.
+
+I’m very protective of the tone and purpose of this work; it would not translate to a visual format without compromising those values.
+
+If you enjoy the stories as they are and want to talk about themes, characters, or craft, you’re very welcome. If you’re here to pitch projects or to steer the content somewhere more objectifying, we’re probably not a match.
 
 
+---
+
+270Jan-2026: The image in the header is setting the stage for Act 3 of Celeste's Girl... at least, that's what I'm imagining now. There might be enough story fuel to write a whole new story. Dunno. 
+
+26-Jan-2026: took inspiration for any small effort at music from several obscure composers, one being Carl Reinecke. This is the last movement (6) from his Serenade for Strings in G.
+
+21-Jan-2026: Just editing all the scenes again, because... of course I am. Adding images and firming things up. Sarah is a hard one to create a consistent character of, even using a LoRA.  However, Emily and I cracked the code for getting consistent characters last night.
+I think.
+I hope.
 
 
-
+cactus (1)
+yakka (2)
+sack (3)
+larrikin (4)
+Oi (5)
 
 
 
@@ -209,6 +247,8 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 </audio>
 
 ## Test Images
+
+👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻
 
 <img src="/assets/images/tests/test01.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
