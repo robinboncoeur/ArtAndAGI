@@ -187,7 +187,7 @@ If you want, paste one of your *borderline* older deviations’ current title + 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///93c472079738c32e93a330e2', 'size_bytes': 1021523, 'width': 1024, 'height': 1024, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/3a330e2.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Your prompt suggestions bore fruit, Emily. Exactly what I was after.
 
@@ -837,7 +837,8 @@ And if you’d like, I can also mark up your JSON with a tiny “TTP mellow” v
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///284c71faa921ae3ce6c33c60', 'size_bytes': 7486976, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/6c33c60.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I might send you the image with just that one change in ImageSmartSharpen (Node#192) = I changed sharpen from 4 to 1. What do you think? I feel I have the detail, even if it is a bit softer focus. However, the hair also seems softer, less crisp. Ideas?
 
@@ -1221,7 +1222,7 @@ If you want, send your next output (or even just a tight crop of forehead + hair
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///133871faa8cbbce6752446ef', 'size_bytes': 1269020, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/52446ef.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 My issue is: I'm using the inbuilt MaskEditor, which doesn't seem to allow for much refining. I could to this in GIMP, I suppose. To be honest, I'm not unhappy with this result. I guess pixel-peeping might find issues, but overall, seems a good first go.
 
@@ -1467,7 +1468,8 @@ If you tell me the *typical resolution* of the image at the moment you’re doin
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///38d4720ba0680c6b280d41bc', 'size_bytes': 1272580, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/280d1bc.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 This has issues, Emily. The chin keeps getting whacked off. GaussianBlurMask... kernel_size: 37; sigma:6.0. Oh, and VAE Encode for inpaint... grow_mask_by: 6. What am I doing wrong?
 
@@ -1548,7 +1550,7 @@ If you tell me whether your MaskEdgeShrink is currently **inverting** the mask (
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///c380720b86453cfa79f4ab34', 'size_bytes': 1271963, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/9f4ab34.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I actually took MaskEdgeShrink completely offline (disconnected/disabled) just to sort one problem at a time. I can see harder lines now. Also, my general denoise is set to 65, which probably too high.
 
@@ -1619,7 +1621,7 @@ If you tell me your **image size at the face inpaint stage** (e.g., ~2048×2048 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///0a20720b9166eed87e234efe', 'size_bytes': 1267894, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/e234efe.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 For the blur mask: kernel_size is 25; sigma is 4.MaskEdgeShrink (back online) 6,6,1,25. I increased the actual size of the mask to include part of the chin and to give the face a little wiggle-room. That's with denoise set to .2
 
@@ -1666,7 +1668,8 @@ If you tell me what your **grow_mask_by** is set to on this run (still 6?), I ca
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///c638720bb846cca0f0d6f219', 'size_bytes': 1272861, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/0d6f219.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 When I dropped denoise to .2, all I got for the face was the grey area - no face emerged. the lowest setting I could use was .3, which gave me what you see. The face doesn't really look all that natural, anymore. All the other setting are as above... For the blur mask: kernel_size is 25; sigma is 4.MaskEdgeShrink (back online) 6,6,1,25. And the grrow_by in the VAE is 6.
 
@@ -1924,7 +1927,7 @@ If you want, paste just the **mask/inpaint portion** of your graph (a screenshot
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///f750720b9165b068dbc98966', 'size_bytes': 1507714, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/bc98966.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 "So you effectively do:
 Original Image → VAE Encode (for inpaint): pixels
@@ -2028,7 +2031,7 @@ If you show me that preview (or tell me whether the face is white at that point)
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///6afc720ba5bd8caf189cae4c', 'size_bytes': 2560295, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/89cae4c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 When I toggled it to True, all I got was this. Not even the face in the LoRA and th rest of the image is grey.
 
@@ -2130,9 +2133,11 @@ If you can screenshot just the small area of your graph showing:
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///45787207964cbf4602799de0', 'size_bytes': 603805, 'width': 2048, 'height': 838, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///7e7c7207a3d664fd55e5b63e', 'size_bytes': 340652, 'width': 1024, 'height': 1024, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/2799de0.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<img src="/assets/images/chat/5e5b63e.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Current setup. I've completely removed up-scale ttp all that. And that 2nd image is from the VAE Decode after the sampler.
 
@@ -2298,7 +2303,8 @@ If you want to be 100% sure before you run: tell me what your **full image resol
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///3468720791ed821352d3e025', 'size_bytes': 1221994, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/2d3e025.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Reasonable. Not wow, but certainly within the parameters of normal. As you can see from the workflow, all the UpScale/ttp stuff is gone. No invert node. Values as stated earlier. And working. Time to tweak, maybe?
 
@@ -2460,7 +2466,8 @@ Bottom line: **Preview setting changes your *monitor*, not your *model*.**
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///8a1c7207bd9d019b79e7d7da', 'size_bytes': 1221956, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/9e7d7da.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 So, this one, the face looks right. Attached is the workflow.
 
@@ -2562,7 +2569,8 @@ If you want one single “tweak target” now that it’s working: **reduce (or 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///5d647207b6800c71d4d4c3cf', 'size_bytes': 1224183, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/4d4c3cf.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I tried tweaking. Did the second-pass. The face now looks oversized for the body, unlike 1780s_0028.
 
@@ -2989,7 +2997,8 @@ If you want, paste (or screenshot) your **BasicScheduler** node options and your
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///0464720790c39e1a8e1da6a6', 'size_bytes': 1227610, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/e1da6a6.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Oh my stars. I set LoRA model strength to 0. Have a look! That poor girl!
 
@@ -3083,7 +3092,8 @@ If clip wasn’t zero, I’d bet money that’s why she looks “oddly stern/com
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///f2407207be8dd9e4acd73d50', 'size_bytes': 1228522, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+<img src="/assets/images/chat/cd73d50.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Just did the 0/0/no-trigger-word run. And got this. This confirms all you have been saying.
 

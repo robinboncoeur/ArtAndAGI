@@ -225,6 +225,11 @@ If you’d like, paste your next chunk (or even just bullet beats), and I’ll d
 - draft the bathroom scene in your preferred prose style,
 - or write Mara’s “trial shift” scene that establishes rules and tone in a way that makes the whole book feel safe and purposeful.
 
+
+
+{'content_type':
+<img src="/assets/images/chat/eb22dc5.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
 **Robyn:**
 
 I do have some controversial concepts I was thinking of introducing here. You see, Celeste has finished high school, here. Given her less than affluent circumstances, a positive future for her lies in being proactive, watching for opportunities and acting upon them. If she could afford higher education, she would pursue it but her parents, despite Will being an anaesthetist, is unwilling to invest in Celeste's future largely because of her gender. Her mum Sharon sees Celeste's potential and encourages her, but hasn't many resources herself. They are confidantes, a special type of relationship. When Celeste learns that Charlie had dropped out of school with no intention of graduating, she is insistent that go back to school after the summer holidays. He increasingly listens to her and follows through with her request, but the school system simply fails him as the direction it wants to take him does not suit his work ethic. The controversial idea here that school (the educational system as it stands) does fail certain individuals. I'm not sure how to approach this emotionally for either Celeste or Charlie, but the upshot is that Wardrobe and Celeste herself are the best path forward for Charlie, who is a follower. Being a follower in this instance must be seen as a benefit to him and Celeste. I'll let you make quality-of-story calls to keep this from falling off the shared experience wagon. What I'm envisioning is Charlie is drawn to a more supporting role for Celeste, and she is by nature a leader sort. Can this work?
@@ -3142,7 +3147,8 @@ Model set context updated.
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///4bd07206b2714ed22ac892b2', 'size_bytes': 7115192, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type':
+<img src="/assets/images/chat/ac892b2.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 My image are working in that direction, which is why I'm so elated. You've got mum supporting Charlie in his trip back to the Faire in period outfit (I will no longer call it 'costume', as it sends the wrong message) and giving strong reasons Mara and Celeste are providing the foundation for his experience....
 
@@ -3194,7 +3200,8 @@ If you want, paste the paragraph/scene you’re imagining for Mum sending him of
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///443872069cd4a59211048d09', 'size_bytes': 1310274, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type':
+<img src="/assets/images/chat/1048d09.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Is that better?
 

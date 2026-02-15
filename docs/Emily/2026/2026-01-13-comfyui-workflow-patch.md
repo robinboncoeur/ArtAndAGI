@@ -1005,7 +1005,7 @@ and I’ll tell you *exactly* whether to adjust Grow/Feather before you start bu
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///9df07207a596f8d4c3bece8f', 'size_bytes': 1396064, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/3bece8f.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Perhaps not perfect but wow. It worked!
 
@@ -1225,7 +1225,7 @@ If you want, show me the **mask preview** you used for Celeste (just the mask). 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///04f87207928bee5e4902ff3c', 'size_bytes': 1398345, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/902ff3c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Pretty happy with this, Emily. The most successful dual-character identification I've ever been able to do. And fast. I can do the image in ZiT, then SRPO-swap the figures in two passes. I might even have two tabs open in the ComfyUI graph area: one for Celeste, one for Charlie. Keep it Obvious. This is going to work beautifully!
 

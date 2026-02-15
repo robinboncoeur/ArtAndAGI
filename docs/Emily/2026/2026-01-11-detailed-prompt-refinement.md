@@ -162,9 +162,9 @@ If you tell me **whether you’re running single-stage or two-stage** (and which
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///c8e47207b202a3879a62d69c', 'size_bytes': 1175799, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/a62d69c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///77d472079073c3a98a1f1195', 'size_bytes': 1100324, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/a1f1195.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Just with your initial prompt, ZiT was playing up. I have 2 main ZiT workflows - one with a negative prompt, and one wher the negative prompt is just zeroed out. I'm finding that using your descriptive prompt, adding your original description of the dress - this one:
 
@@ -421,7 +421,7 @@ If you paste (or screenshot) your **KSampler node settings** (sampler + schedule
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///47547207abcda1607fbc9094', 'size_bytes': 2329440, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/fbc9094.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 It's still 'one-dress' but we're getting closer... the petticoat is finally showing under the too-short skirt...
 
@@ -510,7 +510,7 @@ If you want, paste your *current* outfit paragraph (the exact one you’re using
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///5ecc72078325a6a19c9e7db0', 'size_bytes': 2319663, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/69e7db0.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Sorry, failed to mention: I have added the second sampler (and latent upscale) with the settings you suggested. Daywear seems to imply calf-length, so I replaced it with "open-front gown worn over a separate petticoat" as you suggested. At this point, I'm beginning to think "perfect is the enemy of good"... this model is doing the best it can with what it has... don't think I'm going to get anything much more accurate than this. Keep in mind: this is for illustrating a story. Will the readers say to themselves: "Well, hang on, that's not a historically accurate gown..." doubtful. I'll try Qwen Image 2512 to see if it might have different results.
 
@@ -590,7 +590,7 @@ If you want, paste your **current full prompt** (just the text), and I’ll rewr
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///55f47207bcc87d606760482b', 'size_bytes': 2249270, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/760482b.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Wow, we are definitely getting closer, Emily. ZiT is finally starting to behave. I have added the 'walking space' bit. I went overboard on the petticoat peeking out bit... here's the modded prompt:
 
@@ -674,7 +674,7 @@ If you want, tell me your **exact pass-2 denoise** you used for this one, becaus
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///f9dc7207ab9498c7e5a19029', 'size_bytes': 2383293, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/5a19029.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Emily... I'm happy - this tells my story, don't you think?
 
@@ -710,7 +710,7 @@ If you want a tiny extra nudge for publication: consider doing one “hero” re
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///e9907207a5dbde4edf71fd37', 'size_bytes': 4077105, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/f71fd37.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Doing as you suggested. One of the next shots is going to be him in just his jeans and wrinkled t-shirt writing in the ledger  (as told in the story). So, same sneakers, just changed back into his own clothing. That visual will be a strong message: Sharl is working. Got a job he takes seriously. And you were right... that little denoise adjustment (and actually cranking the UpscaleLatentBy up to 2) made a huge difference.
 
@@ -1357,13 +1357,13 @@ And if you prefer, you can just paste a screenshot of your current graph with th
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///428872099729fdeedbb098e4', 'size_bytes': 1758004, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/bb098e4.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///efb07206a56b5ca1936d9477', 'size_bytes': 1750642, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///3f6c7209b7b6a86a4e5bc26a', 'size_bytes': 3183705, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/36d9477.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I've kind-of wander off the beaten path and got lost in the weeds. Using ZiT-AIO... and ReActor... ReActor is useless. Blurry... really bad. So, not going there any more - it's gone. ZiT-AIO with a LoRA? Better but not great. It's a hard one, because it's a side shot. Almost facing away. Flux.1-Dev does well with these, but not ZiT. I've got 3 images for you... original ZiT, ZiT with LoRA and SRPO with LoRA. No contest.
+
+<img src="/assets/images/chat/e5bc26a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 

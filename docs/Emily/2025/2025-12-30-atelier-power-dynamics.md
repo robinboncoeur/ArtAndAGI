@@ -280,6 +280,12 @@ And Celeste’s operator-version:
 
 If you want, I can take Scene 3 (the coffee + “wife” slip) and write it as a full, elegant passage in your established tone — with that quiet, procedural sensuality of competence (steam, metal, routine) and none of the prurience.
 
+
+
+{'content_type':
+<img src="/assets/images/chat/176aa99.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
 **Robyn:**
 
 I'd like that, Emily, but first I need a solution to what I percieve as a growing issue. Humans do not thrive on respect, privacy and policies alone: they need touch. They need hugs, and intimacy (not sexual, just tenderness, the delicate touch). Celeste - as always - sets the pace, the timing. Don't forget, even from when she first met Charlie, one of her strategies on managing their friendship was to keep him slightly off-balance. This still works for her. Charlie has now been so accustomed to his 'wife' role that any touch from her will feel like a sprinkle of water on dry soil. He doesn't realise what he's been missing: he feels it through a flowering, a blossoming. He melts, like snow in spring... and like snow in spring nourishes that which is causing the melting, his flower Celeste.
@@ -1168,7 +1174,9 @@ If you’d like, next I can write **Lauren’s “translation” scene** (a foll
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///52e071faa4ca94e39eb22dc5', 'size_bytes': 1337616, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type':
+<img src="/assets/images/chat/eb22dc5.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
 
 A few little modifications, please, Emily. In the above scene, Charlie and Lauren are actually having this discussion at the train station. Charlie is going back to the atelier in costume: Celeste has asked that Charlie do a real-world test on a complete 1770s outfit. Lauren initially supports the idea, so he's now wearing the 1770s outfit: everyhting including shoes. And then, at the train station Charlie reveals he feels very fulfilled as Celeste's wife (remember, he's now dressed in the 1770s dress). Lauren starts to feel a bit of misgivings. Then, Charlie starts in on his distress at the facial hair. Lauren's conflicted feelings increase. She's quiet, trying to be supportive the right way for him. Also, as backstory, she's become aware that Roger might be cheating on her, so we need to add that to the mix. I've attached the picture to describe where I am, with this scene.
 
