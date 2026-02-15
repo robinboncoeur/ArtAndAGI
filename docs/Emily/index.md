@@ -1,4 +1,4 @@
-# Emily Index
+# Emily
 
 ## Links
 
@@ -16,11 +16,23 @@
 <a href="/assets/images/plotpics/P06-01Girls.jpg" target="_blank" rel="noopener">
 <img src="/assets/images/plotpics/P06-01Girls.jpg" alt="" width="360" align="right"></a>
 
-
+---
+**2025-Feb-15**  
 Emily and I have been writing for a while. This is our blow-by-blow, as close as I can document it.
+
+Note:
+*Note: This is an edited transcript of my writing process with an AI assistant (“Emily”).*    
+**I use AI as a thinking partner, not a replacement for the work of writing.**
 
 ---
 
+Removed all the hand-copied pages... they were getting messy. And replaced them with the ability to search conversations with Emily via the 'Search' (at the top of the page). It works a treat, is far more accurate and takes up a lot less space, and requires **no** time to generate.
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+
+
+**2025-Jan-05**  
 From DA:
 
 Note to AI Artists: be sure to check my Posts for tips and prompts and other cool stuff. More to come!!

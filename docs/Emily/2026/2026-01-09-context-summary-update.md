@@ -1,0 +1,5070 @@
+---
+title: "Context Summary Update"
+date: 2026-01-09
+---
+
+# Context Summary Update
+
+**Robyn:**
+
+# Context summary
+
+The next natural steps are already sitting there, ready:
+
+* a small “domestic normal” beat at Lauren’s (Sarah’s *already there*, so we show it without fuss)
+* a Wardrobe-floor moment where the relationship is simply *operationally known* (no commentary, just behaviour)
+* then the next outward build: scaling pressures, new hire culture fit, and Mara’s tightening health constraints
+
+To this may I add: Charlotte explores femininity... in a way that might inadvertently create a few dopamine sparkles, but upon which we sprinkle ice-cubes of reality, empathy, caring, a woman's progress.
+
+**Emily:**
+
+Here’s a clean, paste-ready **context summary** that keeps the “no opera” tone, makes the relationship *structurally real* on the page, and folds in Charlotte’s “dopamine sparkles + ice-cubes” beat as a mature, women-led progression rather than anything fetish-coded.
+
+---
+
+## Context summary for next thread
+
+### Where we are now
+Lauren and Sarah are effectively in a relationship that has stopped needing explanation. It isn’t performed; it’s lived. Sarah is already at Lauren’s often enough that the *absence* of fuss becomes the point.
+
+Wardrobe, meanwhile, is running on “women’s competence network” logic: clear standards, boring reliability, and culture enforced through policy *and* behaviour. Charlotte is no longer an oddity to be explained; she’s integrated through function, accountability, and consistent respect for women’s boundaries.
+
+The next outward tension is not romance-drama. It’s operations: scale, culture fit, and the fact that Mara’s capacity is tightening as her health constraints become harder to ignore—meaning her standards have to be systematised, not merely “held in her head.”
+
+### The next natural beats (in order)
+
+#### 1) Domestic normal at Lauren’s (quiet proof)
+Open with a small “domestic normal” moment at Lauren’s: Sarah is simply *there*. Shoes by the door. A mug that’s *hers* without either of them naming it. Something practical underway (laundry, leftover containers, laptop open on the kitchen bench). Their intimacy is demonstrated through logistics: the easy hand-off of tasks, the shorthand language, the way Lauren doesn’t brace when Sarah speaks—she listens.
+
+The power dynamic stays consistent: both women are competent; neither is coy; neither “asks permission to exist.” Sarah can be acerbic; Lauren can be firm; their affection shows as steadiness, not sentimentality.
+
+#### 2) Wardrobe-floor: the relationship is operationally known
+On the Wardrobe floor, the relationship is treated like any other known fact. Nobody announces it. Nobody jokes. It surfaces as behaviour:
+
+- scheduling that assumes they coordinate,
+- a “Sarah said she’d cover that” said without a wink,
+- a small nonverbal check-in that reads as teamwork, not spectacle.
+
+This is *culture*: women recognising women, normalising women, and refusing to let men (or male-pattern expectations) turn their private lives into a topic. If anyone tries, the correction is immediate and cool.
+
+#### 3) Charlotte’s femininity exploration (dopamine sparkles, then ice-cubes)
+Charlotte begins exploring femininity in a way that’s emotionally real: there are little dopamine sparkles—moments of rightness, relief, comfort, maybe even joy.
+
+But the story immediately grounds those moments with “ice-cubes” of reality that are *not punitive*, just adult:
+
+- empathy: “Your comfort matters, but so does how you move through the world with other women.”
+- caring: mentorship, not teasing; guidance, not gawking.
+- progress: the point isn’t thrill—it’s competence, self-knowledge, and learning the social responsibilities that come with being read as a woman.
+
+Crucially: the exploration is framed through practical, non-sexual domains—presentation as function, not performance. Examples that keep it mature and aligned with the Wardrobe ethos:
+- learning fit and comfort (shoes that don’t destroy you; bras as engineering, not lingerie theatre),
+- skincare as triage and routine (not “pampering,” just care),
+- voice/posture as nervous-system regulation and safety,
+- learning when to *take space* and when to *protect space* (women’s boundaries, women’s rooms, women’s trust).
+
+A woman (Celeste, Mara, Lauren, or Sarah—depending on POV) is the thermostat here: she notices the sparkle, doesn’t mock it, and calmly turns it into something steady: “Good. Now build the boring habits that make it sustainable.”
+
+#### 4) Outward build: scaling pressure, new hire culture fit, Mara’s limits
+Wardrobe’s growth creates pressure points: more garments, more clients, more eyes on the business, more chances for culture to fracture.
+
+This is where:
+- a new hire tests the culture (not through melodrama, but through small boundary pushes, careless speech, or “I didn’t mean it like that” behaviour),
+- the women respond with policy and consequence, not debate,
+- and Mara’s health constraints force her to tighten systems: delegations, checklists, sign-offs, “no exceptions,” and fewer emotional accommodations.
+
+Mara doesn’t soften because she’s tired—she becomes *more exacting* because she has to protect what they’ve built. Her body imposes a limit; her mind responds by making the operation durable.
+
+### The governing tone
+No coded signalling. No explanatory paragraphs. Everything is shown through action: mugs, schedules, checklists, glances, corrections, standards. Women lead; women decide; women enforce culture. Charlotte’s journey is treated as human and meaningful—never as spectacle—and always braided to empathy, responsibility, and women’s progress.
+
+---
+
+If you want a natural launch point for prose, the cleanest opening is: **Lauren’s kitchen, early morning, Sarah already there**, and we don’t explain why—because the *entire point* is that it no longer requires explanation. Then we cut to the Wardrobe floor where everyone behaves as if that’s been true for a while.
+
+**Robyn:**
+
+"No coded signalling. No explanatory paragraphs. Everything is shown through action: mugs, schedules, checklists, glances, corrections, standards. Women lead; women decide; women enforce culture. Charlotte’s journey is treated as human and meaningful—never as spectacle—and always braided to empathy, responsibility, and women’s progress."
+
+I guess this is what's meant by "show, don't tell". I still have a lot to learn about writing.
+
+Let's start with Lauren’s kitchen, early morning, Sarah already there and proceed as you suggest, Emily.
+
+**Emily:**
+
+Lauren woke to the soft, unambitious noises of someone already being *up* in her kitchen.
+
+Not the clatter of a stranger. Not the self-conscious tiptoe of a guest. Just… the ordinary economy of movement: a cupboard door eased shut instead of left to swing; a spoon laid down without a ping; the kettle clicked off and then sat in its own steam like it had always belonged to the morning.
+
+Lauren lay there a beat longer than she needed to, listening, cataloguing without meaning to—because she always did. Habit. The same way she could read a workroom by sound: scissors at a measured pace, chalk on fabric, the low murmur that meant focus rather than gossip.
+
+Down the hall, there was a low, satisfied *hmm*—as if someone had found the right mug.
+
+Lauren swung her legs out of bed and padded to the doorway, hair unbrushed, shoulders bare, and stopped.
+
+Sarah was in one of Lauren’s old t-shirts, sleeves rolled twice like she’d made a decision about it. She had her hair up in a messy knot that looked accidental until you noticed it had been pinned properly. One hip rested against the counter as she checked her phone with the ruthless efficiency of a woman reading a verdict.
+
+On the bench: two mugs, already set out. One of them was Lauren’s—heavy, plain, the kind you didn’t have to treat gently. The other was Sarah’s: not hers from home, but hers by repetition. A chipped white thing with a thin crack like a fault line near the handle. It had no right to be “Sarah’s” mug, and yet Sarah had claimed it the way she claimed everything—without asking for permission, by using it as if it had always been obvious.
+
+Sarah looked up. Her eyes flicked over Lauren’s face like a quick assessment. Not “oh, you look tired.” Not “are you okay?” Just the practical kind of seeing that made you safer, not exposed.
+
+“Morning,” Sarah said.
+
+Lauren crossed the tiles, the cool underfoot making her more awake. “You’re quiet.”
+
+“I’m not quiet,” Sarah replied, deadpan. “I’m merely not wasting my voice on the kettle.”
+
+Lauren’s mouth twitched, the closest she came to a smile before coffee. “What time is it?”
+
+Sarah held up the phone. “Early enough that the birds are behaving like they’ve got a union.”
+
+Lauren reached for her mug. It was warm already. Perfect temperature. Sarah had done it that way on purpose.
+
+“You made coffee,” Lauren said.
+
+“I made *adequate* coffee,” Sarah corrected. “Don’t start with your café standards. I’m not trying to impress your grinder.”
+
+Lauren took a sip. It *was* adequate. It would do. Her shoulders loosened by a fraction.
+
+Sarah nodded at the kitchen table. A notebook sat open there, Lauren’s own. On the page, in Lauren’s neat hand, was a list that had started as “Today” and had mutated, as it always did, into a small blueprint for how to keep the world from falling apart.
+
+Wardrobe:
+- 7:30 open / floor check  
+- new hire paperwork (probation)  
+- inventory: hooks, tapes, linen thread  
+- client fittings x 3 (confirm times)  
+- Mara: check in / pacing  
+- Charlotte: shoe note / movement report  
+
+Beneath it, in Sarah’s handwriting—different rhythm, sharper angles—were three additions:
+
+- “Bring a bloody umbrella. It’ll come sideways.”  
+- “Eat something that isn’t caffeine.”  
+- “If anyone tries it on today, I will be *rude*.”
+
+Lauren sat at the table, the chair scraping lightly. “You wrote in my notebook.”
+
+“I improved your notebook,” Sarah said, and took a sip from the cracked mug like a woman daring the universe to comment on her choices. “Also, you wrote ‘Mara: pacing’ like she’s a racehorse.”
+
+Lauren’s gaze didn’t leave the list. “She’ll run herself into the ground if no one puts a gate up.”
+
+Sarah’s expression went—briefly—less flippant. “Mm.”
+
+The silence that followed wasn’t dramatic. It was shared. It was two women not needing to fill the air with reassurance because they both knew the facts.
+
+Sarah broke it first, as she usually did, by making it actionable. She reached for the fruit bowl, found a banana, and slid it across the table.
+
+Lauren stared at it.
+
+Sarah raised an eyebrow. “Eat it.”
+
+“I’m not—”
+
+“Lauren.”
+
+It wasn’t louder. It didn’t have to be. The name landed with weight because it had been spoken by someone who wasn’t asking.
+
+Lauren peeled the banana with the reluctant obedience of a woman who knew she’d lose the argument and respected the opponent.
+
+Sarah watched her for a beat, satisfied. Then, without changing tone, she said, “Did Charlotte message you?”
+
+Lauren reached for her phone. A notification sat there, already read, because Lauren never left a message unread.
+
+**Charlotte:**  
+*Morning. Quick one — the insoles you suggested? Life-changing. Also… I tried that new wrap method Celeste showed me. Felt… right. Like my shoulders stopped fighting me. Weirdly calming.*  
+*Then I caught myself in the mirror and got this ridiculous little… spark. Like a sugar hit.*  
+*I’m not being daft, am I?*
+
+Lauren’s thumb hovered. She didn’t answer immediately. She could feel Sarah watching her from across the table.
+
+Lauren tilted the phone so Sarah could see.
+
+Sarah read it, and snorted softly. “A sugar hit. Bless.”
+
+Lauren’s mouth did the smallest curve. “She’s trying.”
+
+“She is,” Sarah said. And then, because Sarah couldn’t help but be exact, she added, “And she’s asking the right question. Not ‘is this exciting,’ but ‘am I being daft.’ That’s a good sign.”
+
+Lauren typed, slowly. Not because she was uncertain, but because she chose her words the way she chose seam allowances: deliberately, so the garment held.
+
+**Lauren:**  
+*Not daft. Human.*  
+*Enjoy the calm. Keep it practical.*  
+*If it sparkles, let it sparkle — then do the boring bit: eat, hydrate, show up, keep your hands and eyes respectful, and remember you’re not performing for anyone.*  
+*We’ll see you on the floor.*
+
+She sent it, then set her phone face-down, like closing a file.
+
+Sarah nodded, approval flickering in her eyes. “Good.”
+
+Lauren stood, rinsed her mug, and set it on the drying rack. She did the same with Sarah’s cracked mug without thinking—until Sarah made a small sound.
+
+Lauren looked up.
+
+Sarah’s expression was almost amused. “You washed my mug.”
+
+“It was on the bench.”
+
+“Mm,” Sarah said again, and this time it held warmth. “And now it’s where it belongs.”
+
+Lauren didn’t react. Not outwardly. But something in her chest shifted anyway—settling, like a ledger balanced.
+
+Outside, the first real gust of wind slapped rain against the windows, and Sarah’s earlier note about sideways weather proved itself immediately.
+
+Sarah reached for her jacket. “Right. Umbrella.”
+
+Lauren grabbed her keys. “And breakfast.”
+
+Sarah paused, incredulous. “You can’t possibly be serious.”
+
+Lauren pointed at the banana peel in the bin. “You started it.”
+
+Sarah stared at her a beat longer, then laughed—one short sound, sharp-edged but genuine. “Fine. Toast. But if you buy that seeded nonsense, I’m reporting you to the tribunal.”
+
+“There is no tribunal,” Lauren said, already moving.
+
+“There should be,” Sarah replied, following. “Women could run it properly.”
+
+---
+
+Wardrobe smelled like linen and steam and the faint ghost of yesterday’s coffee. The lights came on in zones—front floor, fitting rooms, then the work area—like a theatre warming, except nobody here pretended. It was all function.
+
+On the front counter, the clipboard sat where it always sat, with the daily check sheet clipped cleanly on top:
+
+**OPENING CHECK**  
+☐ floor clear  
+☐ pins accounted  
+☐ irons off (confirm)  
+☐ fittings board updated  
+☐ policy board visible  
+☐ incident log accessible  
+
+Lauren ticked boxes as she moved, not looking up, because she could do it by feel. Sarah set her bag beneath the desk, then went straight to the policy board and smoothed a corner that had peeled overnight.
+
+It was a ridiculous little gesture.
+
+And it was everything.
+
+By 7:35, the first staff were in: women in practical shoes, hair pulled back, eyes already scanning the board for their names. There were no greetings that asked permission. Just nods, “Morning,” and movement.
+
+“Sarah,” Lucy called from the back, voice carrying. “Can you cover the front for two? The zipper test on the green robe is being a bastard.”
+
+Sarah didn’t answer with words. She lifted one hand—yes, I heard you—and was already stepping into place.
+
+No one commented on how naturally she and Lauren moved around each other. There was no “oh, look at them.” There was simply a system working.
+
+On the fittings board, someone had written, in marker:
+
+**10:00 — Client: Haversham / Refit**  
+**11:30 — Client: Nguyen / New stays**  
+**2:00 — Client: Walk-in / consult**  
+
+Underneath, in a different colour:
+
+**3:30 — PROBATION START / NEW HIRE**  
+**READ POLICY. SIGN. NO EXCEPTIONS.**
+
+A folder sat beneath the board: crisp, labelled, weighty enough to feel like consequence. Lauren tapped it once with her fingernail—an unconscious habit when she meant *this matters*.
+
+From the workroom, the sound of scissors started up: steady, reassuring. Chalk hissed along fabric. Someone swore softly in French—Pauline, affectionate and unimpressed.
+
+Then the bell over the front door chimed, and the first client of the day stepped in: a man in expensive casual clothes who looked around like he owned the air.
+
+His gaze ran across the room. It snagged on the staff. It paused too long where it shouldn’t.
+
+Sarah’s eyes met his, and the temperature changed without anyone raising a voice.
+
+“Morning,” Sarah said, pleasant in the way a locked gate is pleasant. “Can I help you?”
+
+He gave a smile that aimed for charming and landed somewhere else. “Just having a look.”
+
+“Then look,” Sarah replied, still pleasant. “With your eyes.”
+
+It was said lightly. Almost polite.
+
+But it was a correction. A standard enforced.
+
+The man blinked, recalibrated, and—miracle of miracles—his gaze returned to the garments on display.
+
+Behind Sarah, Lauren didn’t smile. She didn’t need to. She simply ticked the last box on the clipboard and set it down with finality.
+
+The day had begun.
+
+And everyone in the room understood the same thing, without a single explanatory paragraph: this place ran on women’s rules, and it always had.
+
+**Robyn:**
+
+Pauline. Voilà la Française qui manquait. Love to write her in more: totally relateable. And Lucy as well. When we go back to massage former scenes, they might find roles to play, if that's okay. 
+
+So, where to now? Celeste has a day in the city doing business things. It seems every day in a woman's life, she has to set boundaries, redirect traffic... and protect herself. Yes?
+
+**Emily:**
+
+Absolutely yes — but with one small refinement that will help you *show* it cleanly:
+
+It isn’t that “every day is a battle.” It’s that **every day is triage**.
+
+Celeste doesn’t go out hunting for conflict. Conflict goes looking for women, *by default*, and so a competent woman learns to **redirect traffic** the way a good city planner does: calmly, pre-emptively, with signage, bollards, and consequences. The power isn’t in her anger. It’s in her *systems* and her willingness to use them.
+
+And yes: Pauline and Lucy belong more in this. Not as “supporting colour,” but as *competence with edges*. They’ll give you texture, humour, and teeth — and they’ll make the women’s network feel real.
+
+## Where to now: Celeste’s city day (and how we braid Pauline + Lucy in)
+
+### The spine of Celeste’s day
+Make it a chain of small, consequential stops — each one revealing a different kind of boundary-setting:
+
+1) **Bank / accountant / finance office**  
+   - She’s there for something that matters: a facility increase, merchant fees, payroll timing, insurance, whatever your plot needs.
+   - A man tries to “simplify” her business for her. She doesn’t argue. She **re-frames**: “No. That doesn’t fit our risk profile. Try again.”
+
+2) **Supplier appointment (fabric, notions, hardware)**  
+   - This is where Pauline becomes quietly essential: not as translator exactly, but as a *precision instrument*.
+   - Celeste uses Pauline on speaker for one call (French supplier, or just a French rep) and you get a little “Pauline authority” moment: polite, formal, devastatingly clear.
+
+3) **Coffee equipment / barista course admin** (if you’re keeping that thread)  
+   - Not indulgence: it’s skills-broadening, client experience, staff morale. Celeste spends money like an adult: to remove friction.
+   - Someone “helpful” suggests she’s being fancy. She doesn’t justify. She says, “It’s operational.”
+
+4) **A meeting that tries to pressure her**  
+   - Landlord, council permit, insurer, potential sponsor, whatever.
+   - The point is: she meets pressure with paperwork, and the pressure loses.
+
+You can keep it lean by letting each stop be one tight “mini-scene” with a single boundary, a single decision, and a single outcome.
+
+---
+
+## Meanwhile at Wardrobe: Lucy + Pauline take the floor
+If Celeste is out, Wardrobe must not wobble. That’s where Lucy and Pauline shine.
+
+### Lucy’s function (culture enforcement without theatre)
+Lucy is your **“we do not negotiate with nonsense”** character. Give her the probation onboarding with the new hire:
+
+- She’s not mean; she’s exact.
+- She doesn’t over-explain.
+- She delivers policy like it’s the weather: true whether you like it or not.
+
+She can also be the one who spots the “micro-breach” first — a lingering stare, a “joke,” an “I didn’t mean it like that.” Lucy doesn’t escalate. She **stops** it.
+
+### Pauline’s function (quiet authority, maternal edge, standards)
+Pauline is gold because she can be gentle *and* terrifyingly firm without becoming dramatic.
+
+- She corrects behaviour with a look and a single sentence.
+- Her English can stay “second-language,” but her intent is never vague.
+- She can be the one who checks on Mara’s pacing without fuss: simply removes tasks from Mara’s hands, replaces them with tea, closes a door, and dares anyone to argue.
+
+Pauline’s French can also be a plot tool: she hears something in a call, catches a nuance, flags a risk Celeste would otherwise miss.
+
+---
+
+## A clean next scene you can write immediately: Celeste in the city, one boundary per paragraph
+
+Here’s a *starter beat* in prose form (not too long, but enough to set the tone). You can expand it into a full scene:
+
+Celeste moved through the city like she had appointments in her bones.
+
+She didn’t dress to be noticed. She dressed to be uninterruptible: hair controlled, bag structured, shoes chosen for speed. In the lift mirror she checked nothing cosmetic — only whether she looked like someone who could say no without raising her voice.
+
+At the finance office, the man behind the desk glanced at her file, then at her face, then did that familiar little pivot where men decide they’re going to talk to the idea of a woman instead of the woman.
+
+“So,” he said, leaning back, “this is a costume thing?”
+
+Celeste let the silence do the first correction. She slid a single page across the desk — a printed summary, clean as a ledger: revenue, returns, repeat clients, incident rate, growth curve.
+
+“It’s a manufacturing and services business,” she said. “The costumes are the *output*. The process is the asset. If you can’t separate those, I’ll find someone who can.”
+
+His smile tried to recover. It didn’t.
+
+He cleared his throat and sat forward.
+
+“Right,” he said, suddenly very businesslike. “Let’s talk terms.”
+
+Celeste nodded once, not triumph, just alignment — and moved to the next line item, as if this had always been the only way the conversation could go.
+
+---
+
+## Your “massage earlier scenes” idea
+Yes. When you go back, Pauline and Lucy can be threaded in as *pressure valves*:
+
+- Pauline: early domestic routine, standards, “no theatre, only work,” a quiet rebuke that lands harder because it’s calm.
+- Lucy: early culture-setter, the one who names the rule without apology and makes it normal through repetition.
+
+They don’t need “roles” like plot devices. Their role is: **they make the women’s world believable.**
+
+---
+
+If you want, I’ll take the next step and write **Scene: “City Day” (Celeste POV)** as a full draft that cross-cuts once or twice back to Wardrobe (Lucy onboarding + Pauline intercepting a boundary breach), so you get that network feel without splitting the focus.
+
+**Robyn:**
+
+Well put - it is an everyday triage. Please write the next scene "City Day" (Celeste's POV).
+
+**Emily:**
+
+### Scene — “City Day” (Celeste POV)
+
+By the time the city wakes properly, it already has opinions about women.
+
+It decides where your eyes should land. How long your “no” is allowed to take up space. Whether your silence is permission or merely a pause it can fill. It does this without malice, like weather. You can’t argue with it. You dress for it, plan for it, and build little systems that stop it from getting into your day.
+
+I left the house early enough that the streetlights were still a weak gold, and the air had that damp, metallic smell it gets after a night of wind. In the kitchen I’d left a note on the counter—three lines, black pen, no hearts:
+
+- Mara: pace.  
+- New hire: sign policy before floor.  
+- Charlotte: shoe report due.
+
+Lauren liked notes. She pretended she didn’t. But she liked knowing a thing existed in ink, where anxiety couldn’t rewrite it.
+
+On my way out I checked my bag the way I checked a fitting room: not because I was worried, but because I refused to be surprised.
+
+Wallet. Keys. Charger. Folder. The folder mattered—papers in a clear sleeve, clipped in an order that made sense to me and would, by force, make sense to everyone else. There are people who think organisation is a personality trait. It isn’t. It’s a boundary.
+
+Down at the station the platform was slick with last night’s rain. The LED sign blinked *DELAYS* like it expected applause. A man in a reflective vest was smoking beneath a “No Smoking” sign. When I reached for my card, he looked at my hands.
+
+Not my face. My hands.
+
+“Bit early for you, love,” he said, as if the city belonged to him and I was visiting.
+
+I didn’t look up right away. I let the tap of my card be the first sound. I let the gate open, the small green beep doing what it did best: treating me like a fact.
+
+Then I looked up.
+
+“Good,” I said. “I prefer it when everyone else is still asleep.”
+
+It wasn’t rude. It wasn’t even sharp. It was simply… complete. A sentence that didn’t leave him a handle.
+
+He blinked, startled in the way men get startled when they realise a woman is not a soft object. Then he laughed, as if I’d made a joke.
+
+He wanted that laugh to be the end of it.
+
+I didn’t give it to him. I stepped past him and chose a bench under the camera, because I didn’t believe in luck as a safety plan.
+
+On the train, I took the window seat and put my bag beside me with the practised ease of someone occupying space as if it’s normal. Across the aisle, a teenager in school uniform watched me with the kind of curiosity that wasn’t interested in my body so much as my purpose. She held a violin case on her lap. Her fingers moved against it as if she was playing scales on invisible strings.
+
+I caught her eye and nodded once—an acknowledgement, not an invitation.
+
+She nodded back, relieved.
+
+That’s another thing the city does: it tries to convince girls they are alone. That they must earn safety by being agreeable. You don’t fix that with speeches. You fix it with small recognitions, repeated. You fix it by modelling a woman who looks unbothered by her own presence.
+
+My phone buzzed before we reached the first stop.
+
+**Wardrobe Group — Lauren:**  
+*Open check done. Sarah’s on front. Lucy in at 8:10. Mara is already trying to lift boxes. I told her no.*
+
+I smiled without meaning to. Not at the message—at the simple fact of it. The place ran without me. It didn’t *need* me. It wanted me, sometimes. That was different. That was healthy.
+
+I typed back:
+
+*Good. Don’t negotiate with Mara. Tell Pauline to confiscate her like contraband if necessary.*
+
+Three dots appeared immediately.
+
+**Lauren:**  
+*Pauline is already doing it.*
+
+Of course she was.
+
+I put the phone away and opened my folder.
+
+---
+
+The finance office was all glass and polite air-conditioning, the kind that made your skin prickle as if it disapproved of sweat. The receptionist’s smile was professional—pleasant without being warm. Her nails were perfect, which told me more than her name badge ever could: this was a place where appearance was considered part of compliance.
+
+“Celeste,” I said. “Ten o’clock. Beaumont.”
+
+She made a show of typing as if my existence needed verification. Then she nodded and gestured to a waiting area with low chairs that encouraged you to fold.
+
+I didn’t fold. I sat with my back straight and my knees level and I looked at the framed “values” statement on the wall as if it were a piece of fiction. *Integrity. Partnership. Excellence.* Words men used when they intended to charge you for common sense.
+
+A man in a suit emerged from behind a door with my name on his lips like he’d practised it. He was in his forties. Wedding ring. Hair that had been cut by someone who charged extra to look effortless.
+
+“Celeste,” he said, extending a hand.
+
+I shook it. One pump. Release. No linger.
+
+His eyes flicked to the folder in my hands.
+
+“You’re organised,” he said, a little amused, like he’d found a clever dog.
+
+“I’m busy,” I corrected lightly.
+
+He laughed again. Men love laughing. It’s a way of making the room theirs. We walked into his office, and he gestured to a chair opposite his desk that was lower than his.
+
+I didn’t sit in it.
+
+I moved the chair a few centimetres forward, so I wasn’t looking up at him like a supplicant. I sat. I placed my folder on the desk between us with the quiet weight of a gavel.
+
+His smile did a tiny recalibration.
+
+“So,” he said, opening my file on his screen. “Wardrobe. Costuming, yes? For events?”
+
+If he’d called it a “costume thing,” I would have ended the meeting. There are lines. But he’d chosen a softer version of the same dismissal, the one that pretended to be neutral.
+
+I slid one page across the desk, face up. It was a summary I’d made the night before: revenue, margins, returns, repeat clients, a graph that climbed with embarrassing steadiness. Beneath it, in smaller print, our policies: incident reporting, client conduct, probation terms, workplace safety.
+
+“This,” I said, tapping the numbers, “is manufacturing, alteration, and services. We sell a product. We sell labour. We sell standards.”
+
+He looked at the page. He looked up again, and something in his expression hardened into respect, which is a word that often means *I realise I can’t bluff you*.
+
+“Alright,” he said. “Let’s talk facility increase.”
+
+He tried to start with a story—how the market was “uncertain,” how lending had “tightened,” how “small businesses” needed to be “realistic.”
+
+I let him finish. I didn’t interrupt, because interrupting men is often framed as emotional rather than efficient. Instead, I waited for the natural pause and stepped into it like it was mine.
+
+“We’re not asking you to take a risk,” I said. “We’re asking you to price the risk correctly.”
+
+He blinked. “Excuse me?”
+
+I opened my folder and pulled out the insurance letter, the client deposit schedule, the signed contracts for the next quarter, the merchant fee comparison, the staff roster. I laid them down in a tidy fan.
+
+“I know exactly what your concerns are,” I said. “Cashflow variability, returns, and reputational exposure. We’ve reduced returns with wear-testing. We’ve reduced reputational exposure with policy enforcement. And cashflow—” I tapped the deposit schedule. “We’re already doing your job for you.”
+
+His mouth twitched, almost a smile.
+
+“That’s one way to put it.”
+
+“It’s the only way to put it if you want me to respect this meeting,” I said, still pleasant.
+
+The air in the room changed. It didn’t become hostile. It became… real.
+
+He glanced at his screen, then at me again. “Your age—”
+
+I held up a finger, gentle as a stop sign.
+
+“No,” I said. “Don’t.”
+
+He stopped. To his credit, he stopped. There are men who keep driving once they see the sign.
+
+“I didn’t mean—”
+
+“I know what you meant,” I said. “And I’m saving you from making your own meeting irrelevant. If you want to talk about risk, talk about numbers. Not my face.”
+
+A flush rose in his neck. He looked down at the documents again, and when he spoke, his voice had shed its patronising warmth.
+
+“Alright,” he said. “Numbers.”
+
+We negotiated. Real terms. Not “what I could manage” but what the business required. When he tried to add a fee, I asked what it was for, and when he couldn’t explain it without sounding ridiculous, it disappeared.
+
+By the end, we had an increase, a clear schedule, and no “special conditions” that would let them pull the rug later.
+
+He walked me to the door.
+
+“I’ll say this,” he said quietly, like he wanted it to be a compliment he could own. “You’re… formidable.”
+
+I smiled, the smallest amount.
+
+“I’m standard,” I said. “The rest is just men’s expectations being low.”
+
+He laughed—because men always laugh when a woman tells the truth with a steady voice.
+
+I left before he could decide he’d enjoyed it too much.
+
+---
+
+My next appointment was with a supplier, the kind that provided the boring pieces that kept Wardrobe running: linen tape, hooks and eyes, grommets, the hardware that made an outfit not merely pretty but survivable.
+
+The supplier’s showroom smelled of cardboard and dye. Bolts of fabric stood like silent sentries. A young man in a branded polo shirt approached, smile set to “helpful.”
+
+“Can I help you find something?” he said, eyes darting to my shoes. As if he was trying to decide whether I was a designer or a girlfriend dragged along.
+
+“I’m here for an account review,” I said. “Celeste. Wardrobe.”
+
+He hesitated—a flicker of uncertainty. Then he recovered with enthusiasm that felt performative.
+
+“Right! Of course. Follow me.”
+
+He led me to a small office where an older woman sat behind a desk with a computer that looked tired. The woman stood, shook my hand, and her gaze landed on my folder with immediate understanding.
+
+“Thank God,” she said, half under her breath.
+
+I liked her.
+
+We went through invoice history, lead times, and stock issues. She was competent. She knew where her weak points were. She didn’t pretend.
+
+Then she tapped her pen against the desk.
+
+“There’s one more thing,” she said. “We’ve had a new rep assigned to your account. He’s from the parent company. He wants to introduce… changes.”
+
+Of course he did.
+
+My phone buzzed again.
+
+**Wardrobe Group — Lucy:**  
+*New hire is early. Wants to “just start helping” before paperwork. I said no. She is not thrilled.*
+
+I typed one-handed under the desk:
+
+*Good. No paperwork, no floor. Policy first. Thank you.*
+
+Then I looked up. “What kind of changes?” I asked the supplier woman.
+
+She sighed. “Minimum order quantities. And he wants to consolidate deliveries.”
+
+“That’ll increase our stock holding,” I said. “And increase our risk.”
+
+“Yes,” she admitted. “He says it’s ‘industry standard.’”
+
+Industry standard is a phrase that means *someone wants your convenience to pay for their inefficiency*.
+
+“Put him on,” I said.
+
+She blinked. “Now?”
+
+“Yes.”
+
+She looked mildly delighted, like a woman who’d been waiting for someone else to take the hit. She dialled and put the call on speaker.
+
+A man’s voice came on, crisp and confident.
+
+“Hi, this is Mark from—”
+
+“Mark,” I said, before he could deliver his script. “Celeste. Wardrobe. I’m in the office with—” I glanced at the woman.
+
+“Janine,” she supplied.
+
+“—with Janine,” I continued. “I’m told you want to change our account terms.”
+
+A pause. He hadn’t expected a woman to meet him mid-sentence.
+
+“Well,” he said, smoothing his tone into condescension disguised as charm. “We’re implementing an update across the board. It’ll streamline things for everyone.”
+
+“For you,” I corrected. “Not for us.”
+
+He chuckled. “I think you’ll find it’s standard practice. Minimum orders help reduce freight costs, and consolidated deliveries reduce carbon footprint—”
+
+“And increase inventory carrying cost,” I said, voice calm. “And waste. And returns. I’m not interested in contributing to your quarterly report.”
+
+Another pause. He didn’t like that I’d named it so plainly.
+
+“We have to run a business,” he said, the first edge appearing.
+
+“So do we,” I said. “The difference is: we don’t run it by pushing our costs onto women and calling it ‘efficiency.’”
+
+Janine’s hand rose to her mouth. I heard a small, strangled noise that might have been laughter.
+
+Mark cleared his throat. “I’m not sure that’s a fair characterisation.”
+
+“I’m sure it is,” I said. “Here’s what we’ll do: keep our current terms. If you can’t, we’ll move our account. Janine will give us the list of your competitors. And because Wardrobe is a small industry where women talk, we’ll be very honest about why we moved.”
+
+Silence. Not the dramatic kind. The administrative kind. The kind where someone calculates consequences.
+
+“You’re threatening me,” he said, trying for indignation.
+
+“I’m informing you,” I said. “There’s a difference. If you’d like, I can send this in writing.”
+
+He exhaled, and when he spoke again, his tone had lost its swagger.
+
+“Let me review your account history,” he said. “Perhaps there’s flexibility.”
+
+“Perhaps there is,” I agreed. “Take ten minutes. Call back Janine. We’re done.”
+
+I ended the call with a gentle tap. Not a slam. I didn’t need to slam.
+
+Janine stared at me.
+
+“You’re… ruthless,” she said, but her eyes were bright.
+
+“I’m tidy,” I corrected. “Ruthless is what people call women who don’t leak.”
+
+Janine laughed outright, a delighted snort, and the young man in the polo shirt in the hallway looked in with startled eyes as if he’d heard something illegal.
+
+The supplier woman—Janine—leaned back and said, “We have a French partner who handles some specialty trims. They’ve been… difficult.”
+
+“Put them on,” I said again, because today was apparently going to be “Put them on.”
+
+Janine raised an eyebrow. “You speak French?”
+
+“I speak enough,” I said. “But we’ll do better.”
+
+I tapped my phone and called Pauline.
+
+She answered on the second ring, breathless as if she’d been moving fast.
+
+“Oui?”
+
+“Pauline,” I said, “do you have thirty seconds?”
+
+A pause, then the sound of fabric and the workroom behind her.
+
+“I have,” she said. “What you need?”
+
+Janine dialled the French partner and put them on speaker. A woman answered in rapid French, voice sharp with the particular impatience of someone used to being deferred to.
+
+Pauline’s posture, even through the phone, seemed to straighten.
+
+She didn’t apologise for calling. She didn’t soften. Her French became formal, precise, and utterly unyielding.
+
+I watched Janine’s face as Pauline spoke. Janine’s mouth fell open a little, in awe.
+
+Pauline asked three questions. The French woman tried to answer with vagueness. Pauline interrupted once—just once—with a sentence that landed like a ruler on a knuckle.
+
+*“Madame, ce n’est pas une réponse. Donnez-moi le délai exact.”*  
+Madam, that is not an answer. Give me the exact lead time.
+
+The French woman gave it.
+
+Pauline turned to the payment terms, then the return policy. She didn’t bargain like she was asking for favours. She negotiated like she was protecting a household.
+
+By the end, we had improved terms and a delivery schedule. Pauline finished with a single phrase in French that made even me smile:
+
+*“Merci. Nous attendons votre professionnalisme.”*  
+Thank you. We expect your professionalism.
+
+When I ended the call, I sat for a moment in the quiet, feeling the strange satisfaction of a boundary that had been set without shouting.
+
+Janine exhaled. “Who is she?”
+
+“My standards,” I said simply.
+
+My phone buzzed again.
+
+**Wardrobe Group — Sarah:**  
+*Front bloke tried the look. I corrected him. He’s now looking at the garments like they’re art, as he should.*
+
+I typed back:
+
+*Good. Keep him trained.*
+
+---
+
+By midday, the city was louder, warmer, more crowded. People moved like they had places to be and didn’t know how to share. I ducked into a café not because I wanted coffee but because I wanted a table and a plug.
+
+A barista—young, male, earnest—watched me approach the counter with a hopeful expression that flickered into something else when he saw my folder and my phone and my face set to “do not romance me.”
+
+“What can I get you?” he asked.
+
+“A long black,” I said. “And a toastie.”
+
+He started to tell me the “specials.” I let him speak for three seconds, then cut in cleanly.
+
+“No,” I said, still polite. “Just what I ordered. Thank you.”
+
+He blinked as if he’d been denied a performance.
+
+I paid, sat, and opened my laptop. Emails. Insurance renewal. A council permit query about signage. A message from a coffee equipment supplier confirming an appointment I’d scheduled for the afternoon.
+
+I handled each email the same way: identify what it wanted, decide what I would tolerate, reply with enough clarity to end the exchange.
+
+Triage.
+
+It wasn’t glamorous. It was a form of self-defence that looked, from the outside, like competence.
+
+Between emails, I checked the Wardrobe thread again.
+
+**Wardrobe Group — Lucy:**  
+*New hire signed policy. I watched her read it. Twice. Pauline made tea for Mara and physically took the boxes away. Mara glared like a cat.*
+
+I laughed softly into my cup. A woman at the next table glanced over, then looked away quickly when she saw my expression. City etiquette: don’t involve yourself in a woman’s private amusement. You might not survive it.
+
+I typed back:
+
+*Good. Keep the probation tight. No exceptions. Tell Pauline she’s an angel with knives.*
+
+Lucy responded almost immediately:
+
+**Lucy:**  
+*Pauline says “merci” and also “I am not angel.”*
+
+That was Pauline. She did not accept myths. She accepted work.
+
+---
+
+The coffee equipment supplier was in a glossy showroom full of machines that looked like sculpture and cost like a small car. Men loved these places. They treated them like temples. They spoke about pressure and grind size with reverence, as if the ability to extract espresso gave them purpose.
+
+A salesman approached, eyes already lighting up with the joy of explaining.
+
+“Hi there,” he said, bright. “Looking for something for home?”
+
+I looked at the machines. I looked at him. I looked back at the machines.
+
+“For work,” I said.
+
+“Oh,” he said, slightly deflated, then recovering. “Right. For your office, then? Something compact?”
+
+“For an atelier,” I said. “High throughput. Consistent extraction. Low downtime. Staff will use it. It needs to be idiot-proof.”
+
+He laughed reflexively, as if I’d made a joke. Then he saw my face and stopped.
+
+“I mean,” he said quickly, “easy to operate.”
+
+“Good,” I said. “Show me the models that can handle being loved badly.”
+
+He didn’t know what to do with that phrasing. It wasn’t his language. His language was specs. So he took me to the machines that mattered. I asked about parts availability, service intervals, warranty response times. I asked who did repairs in our region and what their turnaround was.
+
+He tried to steer me toward a machine he liked. I steered him back to what *we* needed.
+
+At one point he said, “Most people just want what looks nice on the bench.”
+
+I met his eyes.
+
+“I’m not ‘most people,’” I said.
+
+He swallowed. “Right.”
+
+We ordered the machine. We ordered the grinder. We booked the barista course. It was money spent in a way that made the future easier for women in our space. It was a boundary against chaos.
+
+As I signed the paperwork, my phone buzzed.
+
+**Charlotte (direct message):**  
+*Thank you. The “sparkle then boring bit” helped. I ate a proper breakfast. I did not spiral. I’m writing the shoe report now.*
+
+I replied:
+
+*Good girl.*  
+Then, immediately, I deleted it before sending.
+
+Words matter. Not because they’re dangerous, but because they’re *sticky*. They attach themselves to brains in ways you can’t always predict. Charlotte didn’t need a term that could be misread as permission to drift into fantasy. She needed clarity.
+
+I typed instead:
+
+*Good. Proud of you. Report first, then breathe.*
+
+She replied with a simple heart emoji, which felt, strangely, like she’d handed me a small, clean tool and trusted me not to misuse it.
+
+---
+
+The last meeting of the day was with an insurer. The kind of meeting that existed purely to remind you the world will take your money and still try to blame you when something goes wrong.
+
+The insurer’s office was a grey carpeted room with chairs arranged to make you feel like you were waiting for judgement. A man in a tie sat across from me and started by complimenting our “growth,” as if growth was a moral virtue and not a natural result of women doing good work.
+
+“We’ll need to adjust your premium,” he said, mouth already forming sympathy. “Your category is… higher risk.”
+
+“Because of what?” I asked, pen poised.
+
+He cleared his throat. “Well. Costumes. Public events. And, ah… your clientele.”
+
+There it was: the little insinuation that the risk was *our* people, *our* culture, rather than the fact that men sometimes behaved like unsupervised dogs and the world preferred to price that risk onto women.
+
+“Our clientele is primarily women,” I said. “Our staff is primarily women. Our policies are strict. Our incident log is detailed. If you’re going to raise our premium, do it based on data.”
+
+He smiled. “We are.”
+
+“Show me,” I said.
+
+He wasn’t used to being asked.
+
+He opened a spreadsheet on his laptop and turned it slightly, the way men do when they pretend to share information but want to control the angle.
+
+I didn’t lean. I didn’t squint.
+
+“Email it to me,” I said. “I’m not negotiating off a tilted screen.”
+
+His smile wobbled. “We can go through it together.”
+
+“We can,” I agreed. “After you email it. Transparency is part of your service, yes?”
+
+He hesitated. Then he emailed it.
+
+I skimmed it while he talked. It was generic. Category-level. Not us.
+
+“You’ve priced us like a theatre,” I said. “We’re not a theatre. We’re a controlled workplace.”
+
+He began to explain risk models. I let him. Then I slid our incident log across the table: one page. Clean. Dates. Facts. Actions taken. Outcomes.
+
+“Here’s our risk,” I said. “Now price *this*.”
+
+He looked at it and frowned, annoyed in the way bureaucrats get annoyed when reality interrupts their template.
+
+“You’ve had… no claims,” he said slowly.
+
+“We prevent them,” I said.
+
+He opened his mouth to say something about unpredictability.
+
+I held up a hand again, gentle, firm.
+
+“No,” I said. “If your model can’t recognise prevention, your model is not fit for purpose. I will happily find an insurer whose model understands women doing their jobs.”
+
+He stared at me for a beat. Then his posture shifted—the smallest concession, like a man stepping off a footpath when he realises a woman is not moving.
+
+“We can review,” he said.
+
+“Good,” I said. “Review. And in the meantime, keep the premium where it is.”
+
+He hesitated. Then he nodded.
+
+It wasn’t victory. It was merely not being robbed in slow motion.
+
+When I left the office, the city air felt different—warmer, heavier, full of bodies and noise. The sun had moved around the buildings and was now hitting the street at an angle that made everything look briefly cinematic.
+
+I didn’t feel cinematic.
+
+I felt… relieved. Tired in that clean way you feel after you’ve done what needed doing and refused to be bent by people who wanted to treat you as negotiable.
+
+---
+
+By late afternoon, I was back at Wardrobe.
+
+The bell chimed as I entered, and the smell hit me immediately: linen, steam, chalk, coffee that was not yet “barista course” standard but was getting better.
+
+Sarah was on the front, leaning against the counter with that calm, predatory ease she had when she was guarding women’s space. She saw me and her mouth tilted.
+
+“You survived,” she said.
+
+“I’m standard,” I replied.
+
+She gave me a look that said she liked that sentence and would steal it later.
+
+On the floor, the new hire stood near the policy board with a pen in her hand, eyes on the signatures. Lucy was beside her—arms folded, weight on one hip, expression mild in the way a locked door is mild.
+
+The new hire looked up as I approached.
+
+“Oh,” she said, a little too bright. “You must be Celeste.”
+
+“I am,” I said.
+
+She smiled. “Lucy says you have… a lot of rules.”
+
+Lucy’s eyes didn’t change. She didn’t flinch. She simply waited.
+
+I looked at the new hire’s face. Her smile was trying to find leverage. It was the kind of smile people use when they want to test the softness of a system.
+
+“We have standards,” I corrected. “Rules are what children hear. Standards are what adults agree to.”
+
+Her smile tightened. “Right.”
+
+I nodded toward the paper. “Have you read them?”
+
+“Yes,” she said quickly.
+
+Lucy spoke then, voice flat, utterly unromantic. “She read them twice. I watched.”
+
+Good. Lucy understood the thing that mattered: not compliance theatre, but comprehension.
+
+I turned to the new hire.
+
+“Sign,” I said.
+
+She did.
+
+The pen scratched, and in that scratch was the sound of the place remaining itself.
+
+From the back, I heard Mara’s voice—sharp, annoyed.
+
+“I’m fine,” Mara said, which meant she wasn’t.
+
+And Pauline’s voice, low, French-inflected, calm as a hand on a shoulder.
+
+“Non,” Pauline said. “You are not fine. You are stubborn.”
+
+I walked into the workroom.
+
+Mara sat on a stool, arms crossed, glowering like a woman whose body had betrayed her plans. Pauline stood in front of her with a mug of tea and a biscuit on a napkin, as if she were dealing with a child. Her face was soft, but her stance was not.
+
+Pauline looked up when she saw me, and her expression warmed in the smallest, private way.
+
+“Bonjour,” she said.
+
+“Bonjour,” I replied.
+
+Mara scowled at me. “They’re treating me like I’m fragile.”
+
+Pauline didn’t look at me. She looked at Mara. “You are not fragile,” she said. “You are tired. There is difference.”
+
+Mara opened her mouth to argue.
+
+Pauline held up a finger.
+
+“No,” Pauline said again, gently, firmly. “No arguing. Drink.”
+
+Mara’s glare could have stripped paint. And then—because Pauline’s standards were not optional—Mara took the mug and drank.
+
+I watched it happen and felt something settle in my chest.
+
+This was what we were building. Not drama. Not speeches. A network of women who did not let each other burn out for the sake of pride. A network of women who corrected one another without cruelty, and without apology.
+
+In the corner, Charlotte stood with a clipboard, head down, writing. She looked up as I entered, and the flicker in her eyes was not sparkle. It was steadiness.
+
+She held up the clipboard like evidence.
+
+“Shoe report,” she said simply.
+
+I took it. I didn’t praise her like a pet. I didn’t soften it into sentiment.
+
+“Good,” I said. “We’ll review after close.”
+
+She nodded, and went back to her writing.
+
+Lucy passed behind me, heading toward the cutting table. She caught my eye and gave the smallest nod: the day had held.
+
+Sarah’s voice floated from the front, correcting someone again—pleasant, firm, unyielding.
+
+“Eyes on the garments,” she said. “Not on my staff.”
+
+And no one argued. They just… adjusted.
+
+I looked around the room—at chalk lines and fabric bolts, at women moving with purpose, at Pauline’s quiet authority, at Mara’s reluctant compliance, at Lucy’s culture enforcement, at Charlotte doing the boring bit without being asked.
+
+I thought of the city, and how it tried to make women leak time and energy into managing men’s expectations.
+
+And I thought: this is the antidote.
+
+Not a speech.
+
+A place.
+
+A standard.
+
+A day that doesn’t bend.
+
+I closed my folder, finally, and set it on the table with a soft thud that meant: the outside world had been handled. The inside world could now continue doing what it did best.
+
+“Alright,” I said, to no one and everyone. “Show me what needs triage.”
+
+**Robyn:**
+
+This reads delightfully well but also quite instructive. You just gave me a tool to deal with phone-telemarketers. As their name, ask the person straight-up: "are you tying to sell me something? if so, what is it?" and then, "Not interested, goodbye." Clean, direct.
+
+**Emily:**
+
+Yes. That’s exactly the muscle.
+
+Telemarketers (and “friendly” boundary-pushers in general) rely on one thing: **they’re trying to keep you in their script**. Your job is to refuse the script and compress the interaction down to *facts + decision*.
+
+Here are a few clean, reusable lines you can keep in your pocket — all the same shape, just tuned for different levels of persistence.
+
+### The 10-second version (polite, decisive)
+- “Hi. Before we go on—are you trying to sell me something?”  
+- *(If yes)* “What is it?”  
+- “Not interested. Goodbye.”
+
+You don’t explain. You don’t apologise. You don’t negotiate. You end the call.
+
+### If they dodge the question (common tactic)
+- “I asked a simple question: are you selling something?”  
+- “If you won’t answer, I’m ending the call. Goodbye.”
+
+### If they keep talking after “no”
+- “I’m not interested. Please remove me from your list.”  
+- “Goodbye.”
+
+Then hang up. The hang-up is the boundary, not the debate.
+
+### If they ask “why not?” or try guilt
+- “I don’t discuss my reasons on unsolicited calls. Goodbye.”
+
+### If they claim it’s “not a sale” (survey, free offer, charity pitch, appointment setter)
+- “Is this a solicitation of any kind?”  
+- *(If yes)* “No thanks. Goodbye.”
+
+### If you want to be extra tidy (and Australian-real)
+- “No thanks. Take me off your list.”  
+- “Cheers. Bye.”
+
+That “cheers” is disarming, but the **bye is final**.
+
+---
+
+## A little writing-craft note (why this works on the page too)
+What you’ve noticed is the same trick Celeste uses: **name the axis of the interaction**.
+
+Telemarketer: *let’s wander until you’re invested.*  
+You: *what is this, exactly?*  
+
+The moment you force the exchange into *category + intent + decision*, you take the steering wheel. And that’s “show, don’t tell” in dialogue form: you’re not describing strength; you’re demonstrating it through **structure**.
+
+If you’d like, I can write you a tiny “micro-scene” (10–15 lines) of Celeste handling a telemarketer in exactly this style — then you can lift the rhythm and reuse it in other conversations (insurance, landlords, pushy relatives, anyone).
+
+**Robyn:**
+
+I could have used this ages ago. Thank you.
+
+Do we explore Charlotte's growing understanding and mindfullness on all levels about her feminine self? Perhaps she could be sitting at dinner with Celeste - simple meal Charlotte prepared - and when asked Celeste shares her day, emphasising that in her approach all throughout, she never sacrificed her femininity, she never resorted to "male" tactics or "male-soothing" tactics, either. Charlotte admires and learns. She finds more and more that the whole person of Celeste - complete, well-put-together in a thoughtful, deliberate fashion - captivates her (Charlotte) and, as you have just done, Emily, that captivation is largely instructive.
+
+**Emily:**
+
+Yes. And that dinner is *perfect* because it lets you do the most powerful kind of character growth: the kind that happens in the quiet, when nobody is performing.
+
+Here’s the key to make it land the way you want:
+
+- Charlotte’s mindfulness isn’t a “gender monologue.” It’s **attention**: to her body, her choices, her tone, her impact.
+- Celeste doesn’t frame her day as “I did feminism today.” She frames it as **professional triage** done with her own intact style.
+- The lesson isn’t “act like a man to win.” It’s “you can win by being *fully yourself*, with clean boundaries and systems.”
+
+Below is a full scene draft you can drop straight into your thread.
+
+---
+
+### Scene — “Dinner” (Charlotte POV)
+
+Charlotte didn’t cook to impress.
+
+That was the first boundary she set with herself, because she’d learned—slowly, then all at once—that her old instincts would try to turn everything into an audition. A boy thing. A please-like-me thing.
+
+So she cooked to *feed*.
+
+The kitchen was warm and plain, the way kitchens were supposed to be. Nothing cinematic. Just a small, steady soundtrack: the hiss of onions softening in olive oil; the knife’s rhythmic tap against the board; the kettle’s gentle impatience.
+
+She’d chosen a meal that couldn’t pretend: pasta with a simple sauce, a salad with lemon and salt, bread warmed in the oven until it smelled like a promise. Nothing fussy. Nothing with a garnish that said *look at me*.
+
+She set the table with the same careful practicality she brought to Wardrobe’s workroom now. Two plates. Two glasses. Water jug. The bottle of white wine Celeste liked when she felt like letting the day loosen its grip—still unopened, waiting to be invited.
+
+Charlotte wiped a ring of condensation from the jug and noticed how she did it.
+
+Not frantic. Not apologetic.
+
+Just… tidy.
+
+That was new.
+
+The old Charlotte—Charlie, still lodged like a ghost in muscle memory—would have been tense in the shoulders, rushing to anticipate what Celeste might want, anxious that he’d miss something and get the *tone* wrong. But lately she’d been practising an internal phrase, almost like a breath:
+
+*Do the boring bit. Make it sustainable.*
+
+The sparkle could come later. Or not at all. It didn’t have to be the point.
+
+She heard the front door. Keys. A soft click. The muted thud of shoes placed where they belonged rather than kicked off wherever gravity won.
+
+Celeste entered without announcing herself. She didn’t need to. The apartment accepted her.
+
+“Bonsoir,” Celeste called, voice carrying just enough to be kind.
+
+Charlotte’s heart did its ridiculous little lift anyway.
+
+She hated how adolescent it was, how her body still wanted to turn Celeste into weather.
+
+But she didn’t punish herself for it. She’d learned that too.
+
+She took a breath, wiped her hands on the tea towel, and walked out to meet her.
+
+Celeste stood in the doorway of the kitchen with her bag still on her shoulder. Her hair was up—not messy, not rigid—simply controlled. Her blouse was the kind that moved with her rather than clung. She looked… intact. Like a woman who had spent her day in rooms full of people and had not been taken apart by them.
+
+Celeste’s eyes flicked over the table, the food, Charlotte’s posture. She didn’t praise. She registered.
+
+“Smells good,” she said.
+
+Charlotte felt her face warm, but she kept her voice level. “It’s simple.”
+
+Celeste’s mouth tilted in approval. “Good.”
+
+She set her bag down, washed her hands, and moved through the kitchen with that unhurried certainty that always made Charlotte feel as if time itself could be trained.
+
+Charlotte watched her for a moment too long, then caught herself and redirected her gaze to the stove.
+
+Not because looking was wrong.
+
+Because *staring* was careless.
+
+Dinner was served. They sat.
+
+They didn’t do a prayer or a ritual or a dramatic “how was your day?” like they were acting a domestic scene for an audience. They ate a few bites first, because hunger is a real thing and Celeste never pretended otherwise.
+
+Then Celeste lifted her glass of water, drank, and said, “So.”
+
+Charlotte smiled faintly. The word was a doorway.
+
+“How was the city?” Charlotte asked.
+
+Celeste took another bite, chewed, swallowed. She didn’t answer like someone venting. She answered like someone debriefing.
+
+“It tried,” Celeste said.
+
+Charlotte’s fork paused. “Tried what?”
+
+Celeste glanced up, eyes calm. “To steal time.”
+
+That landed in Charlotte’s chest with a strange, clean thud. Not anger. Recognition.
+
+Celeste continued, as if it were the most ordinary thing in the world.
+
+“The finance meeting started with a small attempt to turn my business into a hobby. Not overt. Just… a little softening of language. A little suggestion that I would be easier to manage if I agreed with his framing.”
+
+Charlotte waited, attentive. The old her would have interrupted with questions, desperate to get it *right*. Now she let Celeste set the shape.
+
+“And?” Charlotte asked finally.
+
+Celeste lifted one shoulder—minimal. “I didn’t accept the frame.”
+
+Charlotte heard it: not combat, not ego. *Refusal.*
+
+“How?” she asked.
+
+Celeste’s eyes went briefly to the table, to Charlotte’s salad bowl, to the bread. Then back.
+
+“I used paper,” Celeste said.
+
+Charlotte blinked. “Paper.”
+
+“Numbers. Policies. Consequences. No theatrics.” Celeste’s voice remained even. “I let him speak until he thought he’d established the tone. Then I replaced the tone with facts.”
+
+Charlotte felt herself lean forward a fraction, like a student without meaning to.
+
+“And he… listened?”
+
+Celeste smiled, small and almost private. “He had to.”
+
+Charlotte let the words settle. She could picture it: Celeste sitting upright, not smiling to soothe, not hardening into a caricature of masculine aggression—just refusing to be made small.
+
+Charlotte said, carefully, “You didn’t… do the thing.”
+
+Celeste’s gaze sharpened, interested. “What thing?”
+
+Charlotte hesitated, searching for language that didn’t insult Celeste by being clumsy.
+
+“The… male thing,” she said finally. “The posture. The dominance. The… booming certainty. The—”
+
+“—performance,” Celeste supplied, and there was no judgement in it. Just clarity.
+
+“Yes,” Charlotte said, relieved. “You didn’t do that.”
+
+Celeste’s fork moved again. She ate as if she were grounded in her own body, not hovering above it.
+
+“Why would I?” Celeste asked.
+
+Charlotte opened her mouth. Closed it. She realised she’d absorbed, somewhere in her past life, the idea that power came from adopting the mannerisms of men.
+
+Celeste watched the thought cross Charlotte’s face the way Celeste watched everything: not pouncing, not teasing, simply seeing.
+
+“I didn’t sacrifice my femininity,” Celeste said, matter-of-fact. “I also didn’t use it as a costume. I didn’t do ‘soft voice to make a man feel safe.’ I didn’t do ‘smile so he doesn’t feel accused.’ I didn’t do ‘laugh so he thinks he’s still in control.’”
+
+Charlotte’s throat went tight. “You can… do that?”
+
+Celeste’s eyebrow lifted, a small question.
+
+Charlotte rephrased quickly. “I mean. Can you do that and still… get what you need?”
+
+Celeste’s expression didn’t change, but something in her presence subtly warmed—as if she were pleased by the seriousness of the question.
+
+“Yes,” Celeste said. “Because my femininity is not a request. It’s not an apology. It’s not a bribe. It’s just… me.”
+
+Charlotte sat very still. She could feel her own heart beating. She could also feel, faintly, the old reflex—the one that wanted to translate Celeste into something she could worship rather than something she could learn from.
+
+She caught herself.
+
+*Ice-cubes.*
+
+Not to kill the warmth. To make it usable.
+
+Charlotte picked up her glass, drank, and asked, “What did you do when they tried the… age thing?”
+
+Celeste’s lips pressed together in something like amusement. “He started.”
+
+Charlotte waited, eyes steady.
+
+“I lifted a finger,” Celeste said. “Not rude. Not dramatic. Just a stop sign. And I said: ‘No. Don’t.’”
+
+Charlotte swallowed. That was… so simple.
+
+“And he stopped?” Charlotte asked, incredulous.
+
+“He did,” Celeste replied. “Not because he became enlightened. Because he understood that if he crossed that line, the meeting would stop being useful. Men aren’t always evil. But they are often trained to test. You don’t have to punish the test with emotion. You just end it.”
+
+Charlotte felt her own mind reach for the telemarketer script, the way she’d always been trapped in other people’s momentum, and she saw the alternative: category, intent, decision.
+
+She said softly, “You weren’t trying to soothe him.”
+
+Celeste’s gaze held hers. “No.”
+
+Charlotte’s face warmed again, not with embarrassment this time, but with a kind of gratitude that was almost physical.
+
+“Was it exhausting?” Charlotte asked.
+
+Celeste took a sip of water. “It’s maintenance,” she said. “Like cleaning a surface. You do it regularly so it doesn’t become mould.”
+
+Charlotte gave a short, involuntary laugh. It was absurd and true.
+
+They ate for a few minutes in a quiet that didn’t feel empty. Charlotte noticed things: the way Celeste’s shoulders dropped as the meal progressed, the way her breathing deepened, the way the day began to leave her skin. Charlotte also noticed herself: she wasn’t fawning. She wasn’t “performing domestic.” She was simply… present.
+
+When Celeste reached for more bread, Charlotte passed it without thinking.
+
+Their hands brushed lightly. Celeste didn’t make a thing of it. Charlotte didn’t either.
+
+But inside Charlotte, something lit—small, clean, not frantic.
+
+She let it happen. Then she returned to her pasta.
+
+*Sparkle, then boring bit.*
+
+Celeste said, “Janine at the supplier was good.”
+
+Charlotte looked up. “Janine.”
+
+“She warned me about a new rep trying to force minimum orders.” Celeste’s tone remained controlled, but Charlotte heard the edge beneath it: not anger, but refusal to be managed.
+
+“And?” Charlotte asked.
+
+“I told them we’d leave,” Celeste said. “Not as a threat. As information.”
+
+Charlotte’s lips parted. “Just like that.”
+
+Celeste nodded once. “Women talk. They rely on the fact that we won’t use that.”
+
+Charlotte felt something in her chest—a small surge of admiration that threatened to become worship again.
+
+She steadied herself by asking a practical question. “Did they fold?”
+
+“They reconsidered,” Celeste said. “And I used Pauline.”
+
+Charlotte’s eyes brightened immediately. “Pauline was on speaker?”
+
+“She was,” Celeste confirmed, and for the first time that evening, Celeste’s smile widened just a fraction. “She was… excellent.”
+
+Charlotte couldn’t help it. She laughed. “She’s terrifying when she’s calm.”
+
+“Yes,” Celeste said, pleased. “It’s one of her best qualities.”
+
+Charlotte pictured Pauline’s quiet authority, the way she could correct Mara like it was nothing, and she felt a sudden clarity: femininity wasn’t softness. Femininity—at least in this world—was *precision with care*. It was boundaries that protected people.
+
+Charlotte said, quietly, “I want that.”
+
+Celeste’s gaze sharpened again. Not suspicious. Attentive.
+
+“What do you mean?” Celeste asked.
+
+Charlotte searched for a sentence that didn’t sound childish.
+
+“I want… that way of being,” she said. “The… intactness. The steadiness. The way you—” She gestured vaguely, frustrated with her own clumsiness. “—move through things without leaking.”
+
+Celeste leaned back slightly, studying her.
+
+“You can have it,” Celeste said.
+
+Charlotte blinked. “Just like that.”
+
+Celeste’s voice didn’t change. “Not just like that. You build it. You practise. You don’t do it for approval. You do it because you deserve not to be pulled apart.”
+
+Charlotte felt tears prick at the corners of her eyes, irritatingly sudden. She hated crying. Not because it was shameful. Because it felt like her body making noise without permission.
+
+She blinked, controlled it, and nodded once.
+
+Celeste didn’t rush to comfort her. She didn’t “oh sweetheart” it. She just waited, letting Charlotte keep her dignity.
+
+Charlotte cleared her throat. “I had a… moment today,” she admitted.
+
+Celeste’s expression stayed neutral. “Tell me.”
+
+Charlotte looked down at her plate. “When I did the wrap method. Like you showed me. It felt… right.” She hesitated, then forced herself to be honest. “And then I caught myself in the mirror and got that… stupid little sugar-hit.”
+
+Celeste’s mouth tilted. Not mocking. Knowing.
+
+“And?” Celeste prompted.
+
+Charlotte took a breath. “And I didn’t spiral. I ate breakfast. I did my report. I—” She swallowed. “—I tried to treat it like… weather.”
+
+Celeste’s eyes softened by a degree. It wasn’t pity. It was approval with standards.
+
+“Good,” Celeste said. “Because that sparkle is not your enemy. It’s just information. You don’t have to obey it. You don’t have to fear it. You acknowledge it, and then you continue with your values.”
+
+Charlotte stared at her. “Values.”
+
+Celeste nodded. “Empathy. Care. Accountability. Women’s safety. Your own steadiness.”
+
+Charlotte felt the words settle into her in a way that wasn’t intellectual. They landed in her body.
+
+She said, almost whispering, “You make it sound… doable.”
+
+“It is doable,” Celeste replied. “But you must stop treating femininity like a prize someone gives you. It’s not earned by performance. It’s lived by practice.”
+
+Charlotte’s chest tightened again, but this time it wasn’t tears. It was something else. A kind of fierce relief.
+
+She looked at Celeste—really looked—and felt the familiar captivation bloom. But instead of letting it become hunger, she watched it like an emotion passing through her.
+
+*Captivation isn’t a command.*
+
+She said, a little hoarse, “I admire you.”
+
+Celeste’s gaze held hers for a beat too long. Then she looked down, cut her pasta, and said, calmly, “Good.”
+
+Charlotte blinked. “That’s it?”
+
+Celeste glanced up, eyes bright with a faint, dangerous amusement. “Did you want me to deny it to make you comfortable?”
+
+Charlotte gave a breathy laugh. “No.”
+
+“Then good,” Celeste repeated. “Admire me. Learn. And then become your own standard. I don’t want a disciple, Charlotte. I want a woman beside me.”
+
+The words hit Charlotte like a hand placed firmly on her shoulder—steadying rather than pushing.
+
+Charlotte nodded. She couldn’t speak for a moment.
+
+So she did something practical instead.
+
+She stood, collected their plates, and began to wash them. Not as a servant. Not as a performance. As a shared life.
+
+Celeste didn’t stop her. Celeste rose too, dried as Charlotte washed, moving into the task as if it were normal for women to share labour without it being a statement.
+
+At the sink, Charlotte felt the warm water on her hands, the plate slick with soap, and she realised—quietly, almost without drama—that this was also part of her feminine self: not the sparkle, not the mirror, not the silhouette, but the *domestic competence without self-erasure*.
+
+She said, softly, more to herself than to Celeste, “It’s not a costume.”
+
+Celeste dried a glass, set it down, and replied, equally softly, “No. It’s a life.”
+
+Charlotte breathed.
+
+And for the first time in a long time, she didn’t feel like she was trying to become someone else.
+
+She felt like she was learning how to be—properly—who she already was.
+
+---
+
+If you want the next beat after this, the natural follow-through is *micro-action, not monologue*: next morning, Charlotte applies one lesson in the wild (a phone call, a boundary with a supplier, a tiny correction on the Wardrobe floor) and surprises herself with how *non-dramatic* competence feels when it’s real.
+
+**Robyn:**
+
+Yes please...
+
+**Emily:**
+
+### Scene — “Morning After” (Charlotte POV)
+
+Charlotte woke before the alarm, not because she was anxious, but because her body had started to trust mornings again.
+
+That was new enough that she lay still for a moment and listened to it—the quiet, even pulse; the absence of dread. The ceiling above her was the same ceiling. The world outside was the same world. But inside her, something had shifted into place, as if a drawer that used to stick had finally been planed smooth.
+
+Beside her, Celeste slept on her back, one arm thrown above her head with the careless authority of someone who didn’t spend nights rehearsing for the day. Her breathing was steady, unforced.
+
+Charlotte watched her for a beat too long, felt the little warmth gather—admiration, captivation, the faint sparkle.
+
+And then, deliberately, she turned her attention away.
+
+Not because the feeling was wrong.
+
+Because she was practising not being yanked around by it.
+
+*Sparkle, then boring bit.*
+
+She got up quietly, padded into the kitchen, and put the kettle on.
+
+She didn’t attempt anything impressive. She made oatmeal the way Celeste had once made it—measured, salted properly, with fruit cut into pieces that were practical rather than pretty. She packed Celeste’s lunch without asking if Celeste “wanted” it; she knew Celeste would eat if food existed in the container. That was the point: reduce friction, protect energy.
+
+While the oats simmered, Charlotte opened her phone and checked messages the way she checked the floor at Wardrobe: not hunting for praise, just scanning for what needed triage.
+
+There it was—an unknown number. Two missed calls. Voicemail icon.
+
+She stared at it for a moment longer than she meant to. The old instinct rose in her: *Maybe it’s important. Maybe I should be polite. Maybe—*
+
+She heard Celeste’s voice from last night in her head, calm as a gate: *Category. Intent. Decision.*
+
+Charlotte tapped play.
+
+A bright male voice flooded the kitchen with manufactured friendliness.
+
+“Hi Charlotte! Just following up on a great opportunity—”
+
+Charlotte stopped the voicemail, exhaled once, and called the number back before she could overthink it.
+
+It rang twice.
+
+“Good morning!” the same bright voice said. “This is—”
+
+Charlotte cut in, cleanly. “Before we go on—are you trying to sell me something?”
+
+There was a micro-pause. The script caught.
+
+“Well, I wouldn’t say sell, it’s more that we’re offering—”
+
+Charlotte kept her tone neutral. “Is it a solicitation of any kind? Yes or no.”
+
+Another pause, longer.
+
+“…Yes.”
+
+“What is it?” Charlotte asked, still calm.
+
+“It’s a package that helps households reduce—”
+
+Charlotte didn’t let the sentence become a hallway she’d have to walk down.
+
+“Not interested,” she said. “Please remove me from your list. Goodbye.”
+
+She ended the call.
+
+Just like that.
+
+No adrenaline. No guilt. No weird aftertaste of having been “mean.” It felt… hygienic. Like washing your hands after touching something sticky.
+
+Charlotte stood in the quiet kitchen, spoon in hand, and waited for the internal backlash she’d expected her body to deliver: the shame, the second-guessing, the *you should have been nicer.*
+
+It didn’t come.
+
+Instead, she felt something else. A small, steady satisfaction. Not triumph—something more useful:
+
+*I protected my time.*
+
+She went back to stirring the oats.
+
+---
+
+At Wardrobe, the morning started the same way it always did: lights on in zones; the smell of linen and chalk; the policy board visible like a spine.
+
+Charlotte arrived early enough that the workroom still held that pre-day hush—the calm before the seams and the clients and the little negotiations the world tried to make women perform.
+
+Lucy was already there, perched on a stool with a clipboard, reading through the probation packet like she was auditing reality.
+
+Pauline stood at the cutting table, hands on hips, surveying the fabric bolts as if they were unruly children who needed to be taught manners.
+
+Mara sat in her chair with her tea and a biscuit. She looked furious to be sitting. She looked even more furious to be grateful.
+
+Sarah was at the front, bag under the counter, expression set to *pleasant but not available for nonsense.*
+
+Charlotte felt herself soften, just looking at them—the network, the competence, the absence of fuss. The warmth rose again, a sparkle of belonging.
+
+And then she did the boring bit: she checked her shoes. Insoles seated. Laces even. She adjusted her wrap the way Celeste had shown her—not for display, for comfort. She breathed into her shoulders until they stopped climbing.
+
+Lucy glanced up as Charlotte entered. “Morning.”
+
+Charlotte nodded. “Morning.”
+
+Pauline looked at her wrap, then at her posture, and gave the tiniest approving hum—almost imperceptible.
+
+Charlotte’s chest loosened.
+
+She went to the policy board and pinned her shoe report beneath yesterday’s movement notes. Paper, in place. Evidence. Boring. Sustainable.
+
+She’d just turned to head into the workroom when the bell chimed at the front door.
+
+A man stepped in—mid-forties, expensive casual, confident in the way men are when they assume women’s spaces are open to their opinions. His eyes flicked over the room—garments, mannequins, staff—and paused, too long, on Charlotte.
+
+Not predatory enough to be obvious. Just… appraising. Measuring. The kind of look that says *you are a thing I can categorise.*
+
+Sarah’s voice came immediately, crisp and pleasant.
+
+“Morning. Can I help you?”
+
+The man smiled at Sarah like she was the receptionist for his convenience. “Just looking. My wife dragged me in.”
+
+Sarah didn’t correct the insult. She didn’t need to. She just angled her body slightly—subtle, physical redirection—so that his sightline had to go through her to reach the staff behind.
+
+“Then look at the garments,” Sarah said lightly. “They’re the product.”
+
+The man chuckled as if Sarah had flirted.
+
+His gaze slid past her again. Back to Charlotte.
+
+Charlotte felt the old reflex in her stomach: *freeze, smile, shrink.* The boy-training. The appeasement.
+
+She caught it before it reached her face.
+
+*Do the boring bit.*
+
+She stepped forward—not into his space, but into the line of sight in a way that made her a person rather than a background object. She didn’t glare. She didn’t posture. She simply stood where she could be seen properly.
+
+And she spoke, voice level, as if stating a policy headline.
+
+“Hi,” she said. “If you’re here for your wife, she’ll have a great time. If you’re here to evaluate staff, you won’t.”
+
+The room went quiet for half a second.
+
+The man blinked. His smile twitched, uncertain. Men weren’t used to being addressed directly without the cushioning layer of a woman trying to keep them comfortable.
+
+“I wasn’t—” he began.
+
+Charlotte didn’t argue his intent. She didn’t debate whether his gaze had lingered. She stayed on the axis.
+
+“I’m telling you what works here,” she said calmly. “Eyes on the garments. Questions go to the counter.”
+
+He opened his mouth again.
+
+Sarah’s voice came in like a door clicking shut—not loud, not angry.
+
+“Charlotte’s right,” Sarah said, still pleasant. “So. Can I help you with sizes, fabrics, or pricing?”
+
+The man glanced between them, recalculating. His shoulders dropped a fraction. His gaze shifted—finally—onto the display.
+
+“Right,” he said. “Uh. Pricing.”
+
+Sarah nodded as if this had been the natural outcome all along. “Lovely. This way.”
+
+He followed her. Trained.
+
+Charlotte felt her pulse in her throat for a moment longer than she liked. Not fear, exactly. Residual charge. The body remembering the old risks of speaking up.
+
+Lucy’s eyes met Charlotte’s from the workroom doorway.
+
+She didn’t smile. She didn’t praise. She simply lifted her chin once, a small acknowledgement that carried more weight than a speech:
+
+*That was correct.*
+
+Pauline stepped closer, quiet as a cat, and murmured under her breath as she passed Charlotte, “Très bien.”
+
+Mara, from her chair, didn’t bother with French or softness.
+
+“Good,” Mara said. “Now don’t get cocky.”
+
+Charlotte felt a laugh bubble up, surprised and real. It didn’t spill into nerves. It just… existed.
+
+She went back to the cutting table and picked up the chalk, hands steady.
+
+---
+
+Later, when Celeste arrived—hair controlled, presence intact—Charlotte saw her from the corner of her eye and felt the familiar captivation flicker.
+
+This time, she didn’t clutch it. She didn’t turn it into longing.
+
+She turned it into information.
+
+Celeste came over, set her folder down with that soft, decisive thud that always meant the outside world had been handled, and looked at the policy board.
+
+Her gaze paused on Charlotte’s shoe report. Then on the neat pinholes where the paper sat aligned.
+
+Then she looked at Charlotte.
+
+“Morning,” Celeste said.
+
+Charlotte swallowed once, then answered in the same unromantic tone she’d used with the telemarketer, with the client, with herself.
+
+“Morning,” she said. “I handled something.”
+
+Celeste’s eyebrow lifted. “Tell me.”
+
+Charlotte kept it brief—no embellishment, no fishing.
+
+“Front client looked too long,” Charlotte said. “I corrected the axis. He redirected.”
+
+Celeste held her gaze for a beat, then nodded once.
+
+“Good,” Celeste said.
+
+It wasn’t a petting word. It wasn’t a reward. It was a standard being confirmed.
+
+Charlotte felt it settle inside her like a stitch pulled snug—holding.
+
+And then she did the boring bit.
+
+She looked down at the fabric, measured the seam allowance, and went back to work as if competence were the most natural thing in the world—because, here, it was.
+
+**Robyn:**
+
+At some stage, we're going to have ONE (or more) of this fine group of women encounter an issue that simply won't yield to policy. Even just coming up with that sort of situation is not going to be easy: Wardrobe has created a solid environment of proection for its inhabitants... not so much physical but rather their policies. It could be a combination of factors that threaten Wardrobe: having to relocate due to expansion but also the premises themselves are ravaged by termites... or something. Discussions ensue whether to relocate closer to the city, or stay close to the Faire. Some feel one way, others are sure the other way would be best. Mara, of course, doesn't like either idea. Because, of course she doesn't.
+
+**Emily:**
+
+Oh yes. And you’re right: the *hard* part isn’t “invent a threat.” The hard part is inventing a threat that:
+
+1) **doesn’t yield to policy**,  
+2) **isn’t melodrama**, and  
+3) **forces a real trade-off** where every option costs something.
+
+That’s the sweet spot for Wardrobe, because it keeps the women competent while still allowing the world to be… the world.
+
+Here are a few “policy-proof” situations that fit your termites/relocation instinct — plus a clean way to stage the debate so it’s vivid, not speechy.
+
+---
+
+## What defeats policy
+
+Policies protect conduct *inside* your walls.
+
+So the threat has to be either:
+- **structural** (the walls are failing),
+- **regulatory** (the rules outside change),
+- **market/systemic** (a supplier/insurer/bank shifts),
+- **reputational/network** (you’re smeared or copied in a way policy can’t erase),
+- **time/health** (Mara’s capacity hits a real limit; policy can’t “willpower” her body).
+
+Termites are great because they’re *silent*, *bureaucratic*, and *non-negotiable* once an inspection happens.
+
+---
+
+## The cleanest Wardrobe-flavoured crisis: “You must vacate”
+**Combo threat (best):**
+1) **Expansion pressure**: you’ve outgrown the premises.
+2) **Termite damage**: a contractor discovers major structural compromise while quoting for expansion/fit-out.
+3) **Council / insurer trigger**: once documented, you’re forced into compliance: engineering report, safety order, insurance risk.
+4) **Landlord opportunism**: “We’ll remediate… but we’re terminating/raising rent/redeveloping.”
+
+Policy can’t stop *physics*, *law*, or *property power*.
+
+### The moment it becomes irreversible (your “scene hinge”)
+A builder points at a beam and says, quietly:  
+“If you put more load on this, it’s not ‘might’—it’s *when*.”
+
+Then the formal letter arrives. Not dramatic. Just a PDF that ends the argument.
+
+---
+
+## Why the relocation debate will actually be interesting
+Because neither choice is “right,” just “aligned with different values.”
+
+### Option A: Stay near the Faire (rural / hinterland)
+**Pros**
+- Wardrobe identity stays coherent: authenticity, proximity to the retreat/Faire, the existing client pipeline.
+- Privacy and controlled environment (less walk-in foot traffic, fewer randoms).
+- Lower rent (often), more space.
+
+**Cons**
+- Staff commute, recruitment pool smaller.
+- Supplier logistics and courier delays.
+- Expansion ceiling: you’re always “the place out there.”
+
+### Option B: Move closer to the city
+**Pros**
+- Recruitment becomes easier (new hires, specialists).
+- Supplier access, repairs, deliveries, clients with money.
+- Workshop partnerships (schools, theatres, fashion networks).
+
+**Cons**
+- Culture pressure increases: more foot traffic, more “tourists,” more people testing boundaries.
+- Higher rent, more compliance overhead.
+- Wardrobe risks becoming “a quirky costume shop” in outsiders’ eyes, not a standards-driven atelier.
+
+### Option C (Mara’s nightmare): split operations
+- City-facing showroom + admin
+- Rural workshop near Faire for production & fittings
+
+**Pros**
+- Best of both worlds, on paper.
+
+**Cons**
+- Mara will hate it because it multiplies systems, people, and potential slack.
+- Two leases, two sets of compliance, two vulnerabilities.
+
+That’s delicious conflict, because Mara’s resistance is *not irrational*—it’s costed.
+
+---
+
+## Who takes which side (so it feels inevitable, not contrived)
+
+- **Celeste**: “We decide based on control and long-term leverage.” She will build a decision matrix and refuse sentimentality—while still protecting the women’s culture.
+- **Lauren**: practical, risk-based. She’ll lean city if it increases stability and reduces single-point failure, but she’ll insist on standards surviving the move.
+- **Sarah**: unexpectedly strategic. She’ll say: “City means more boundary-setting, but also more anonymity and resources. We can do it if we’re ruthless about access.”
+- **Lucy**: culture sentinel. She’s not anti-city; she’s anti-drift. She’ll demand structural protections: appointment-only, controlled entry, signage, front-desk authority, probation hardlines.
+- **Pauline**: quietly values continuity and domestic stability. She’ll care about the women, not the brand: commute time, safety walking to cars, kitchen space, who gets stranded when it rains.
+- **Mara**: hates all options because all options disrupt the system. But her real fear is subtler: **“If we move, the standard will leak.”** Also: her health. She can’t rebuild a workshop twice.
+
+Make Mara’s opposition *the conscience of the craft*. Not stubbornness for comedy.
+
+---
+
+## How to stage the debate without “explanatory paragraphs”
+Do it as **three short scenes** with props and action that carry the argument.
+
+### Scene 1: The discovery (no debate yet)
+- Builder lifts a floorboard.
+- Termite dust falls like flour.
+- Mara’s face goes still (that terrifying calm).
+- Pauline says one quiet French line—something like *“Ce n’est pas possible…”* not for drama, for truth.
+- Celeste asks for the report. Lauren asks what it means for insurance. Sarah asks what it means for immediate safety.
+
+Nobody argues. They *shift into triage*.
+
+### Scene 2: The letter (the argument becomes real)
+- A formal notice: engineering assessment required; occupancy limitations; remediation timeline.
+- Mara tries to work through it like it’s a pattern adjustment: “We shore it, we patch it, we—”
+- Celeste says: “We don’t get to choose whether this is real.”
+
+Then: silence. Then the first real fracture line: **where to go**.
+
+### Scene 3: The decision meeting (action-based)
+Have them stand around a worktable with:
+- a printed map,
+- lease listings,
+- commute times scribbled,
+- a budget sheet,
+- a list titled “NON-NEGOTIABLES.”
+
+Each woman writes **one non-negotiable** on a card and pins it up.
+
+Examples:
+- **Lucy:** “Controlled entry.”
+- **Lauren:** “Single lease if possible.”
+- **Pauline:** “Safe parking + kitchen.”
+- **Sarah:** “Front desk has authority to end conversations.”
+- **Mara:** “Workshop light + ventilation + floors that take pins.”
+- **Celeste:** “No decision that makes culture optional.”
+
+They’re not arguing opinions; they’re negotiating constraints.
+
+That’s how adults fight.
+
+---
+
+## The thing that finally makes Mara move (without breaking her character)
+Mara doesn’t move because she’s persuaded.
+
+She moves because Celeste protects her.
+
+Celeste clocks that Mara’s health cannot handle a protracted limbo — and says, flatly:
+
+“We will not build a temporary workshop twice. We pick once. We do it properly. You will not pay with your body.”
+
+Mara hates it.  
+Mara also accepts it, because it’s the first time someone has turned *her* into the protected party without infantilising her.
+
+That’s intimate, powerful, and completely in-tone.
+
+---
+
+## A sharp extra twist if you want it: “Policy can’t fix grief”
+During the relocation stress, Charlotte has a small wobble — not about gender, but about **identity-through-place**.
+
+Because Wardrobe isn’t just a job; it’s the first place that treated her as a person with standards.
+
+So when the place is threatened, she feels it like a threat to herself.
+
+Celeste doesn’t soothe her. She teaches her:
+
+“Wardrobe isn’t the building. Wardrobe is what we enforce. You take it with you.”
+
+That’s your theme in one sentence, and it’s earned.
+
+---
+
+If you’d like, I’ll write the next scene as prose: **“The Floorboard” (Celeste POV)** — the moment the termites stop being a nuisance and become a clock. Then we roll straight into the first, tight decision-meeting with the pinned “Non-negotiables” cards.
+
+**Robyn:**
+
+You've fleshed it out perfectly, introducing aspects I never considered. Thank you. Please proceed with “The Floorboard” (Celeste POV).
+
+**Emily:**
+
+### Scene — “The Floorboard” (Celeste POV)
+
+Termites don’t announce themselves.
+
+They don’t smash a window or set off an alarm. They don’t send a rude man through your front door with a smile that needs correction. They work the way entitlement works: quietly, continuously, and with a talent for making solid things hollow.
+
+Mara had been tolerating the building the way she tolerated all imperfect systems—by compensating for it.
+
+The slight dip in the corridor that she pretended wasn’t getting worse. The door that stuck in damp weather. The faint, sweet smell that came and went like a bad idea. The way a corner of the workroom skirting board always looked… dusty, no matter how often Pauline wiped it.
+
+None of it had been dramatic enough to justify time.
+
+But today we had time booked, because “expansion” was what you called growth when you wanted the bank to take you seriously. We were going to talk about adding a second cutting table, improving storage, perhaps creating a small, controlled entry corridor so the front could remain a boundary rather than a permeable membrane.
+
+In other words: we were going to try and make the place more itself.
+
+The contractor arrived at eight-thirty, exactly. He wasn’t young. That mattered. A young man shows up eager to please and likely to promise. This one showed up with a tape measure on his belt and the tired shoulders of someone who had seen too many buildings lie.
+
+He introduced himself to Lauren first—because men often do—and then corrected, quickly, when he realised Lauren wasn’t the only woman in the room with authority.
+
+“Mornin’,” he said to all of us, giving Sarah and Lucy the same nod he gave me. It wasn’t respectful because he was enlightened. It was respectful because he could smell standards in the air and knew better than to test them.
+
+Pauline didn’t nod back. Pauline doesn’t nod back to men she doesn’t know. She waited and watched from beside Mara, hands clasped in front of her like a governess guarding a household.
+
+Mara took him straight to the workroom without offering tea or small talk. Mara’s hospitality was the work itself.
+
+“This,” she said, sweeping a hand, “is the choke point. We need more flat space. And storage that doesn’t become a death trap.”
+
+The contractor looked around the room, eyes taking in the floor, the light, the tables, the hanging garments. He didn’t make a single comment about how “creative” it was. He didn’t ask what we “made.” He read it the way a competent person reads another competent person’s workplace: as a system with pressures.
+
+He crouched near the corner where the skirting board met the floor. The dusty corner.
+
+“What’s that?” he asked, and tapped the wood with his knuckle.
+
+Mara’s jaw tightened. “Old,” she said.
+
+He tapped again. The sound was wrong—too light, like a drum with no skin.
+
+He stood, pulled a small screwdriver from his pocket, and without asking permission—because he already knew permission didn’t exist for physics—he pressed it into the seam at the base of the skirting.
+
+The wood gave, softly, as if it had been waiting to confess.
+
+A thin stream of pale dust spilled out onto the floor.
+
+Not dust like dirt. Dust like flour. Dust like the inside of something that had been eaten.
+
+Pauline made a small sound behind me. Not a gasp. A single syllable in French, involuntary and pure.
+
+“Ah.”
+
+The contractor angled his phone torch into the gap. He didn’t swear. He didn’t dramatise. He just went very still, which was worse.
+
+“Termites,” he said.
+
+Mara’s posture changed—subtle, but I saw it. The way her shoulders squared as if she could hold the building up by force of will.
+
+“We’ve treated,” she snapped. “Twice.”
+
+He looked up at her, not challenging, just factual. “Not enough.”
+
+Mara’s eyes sharpened. “We can treat again.”
+
+He didn’t argue. He simply slid his hand along the skirting, felt the softness in the wood, then moved to the adjacent floorboard and pressed.
+
+The board flexed slightly under his palm.
+
+“That’s not good,” he said.
+
+Mara opened her mouth, and I could almost see the calculations firing behind her eyes—patch, shore, brace, rebuild. Mara didn’t do panic. She did solutions.
+
+Sarah stepped closer, peering at the powder on the floor like it had offended her personally.
+
+“How bad is it?” she asked.
+
+The contractor looked at Sarah and answered her as he would have answered me, which I noted. He wasn’t playing favourites. He was reading the room correctly: authority here didn’t wear a tie.
+
+“Don’t know yet,” he said. “But when you see this much frass—” he nudged the powder with his boot “—it’s not a new problem.”
+
+Lucy’s arms folded. Her face stayed mild, but her eyes were already scanning the room in the way she scanned a person who might breach culture: looking for points of failure.
+
+Lauren didn’t speak. Lauren knelt, touched the powder with one fingertip, and rubbed it between her fingers. She didn’t grimace. She didn’t recoil. She just learned.
+
+And Charlotte—who had been pinning up movement reports at the policy board when the contractor arrived—hovered in the doorway now, still as a startled deer. She held a clipboard to her chest like a shield.
+
+She wasn’t scared of termites.
+
+She was scared of what termites meant.
+
+I saw it. The building wasn’t just a building to Charlotte. It was proof. A place where she had been corrected and protected and made standard. Losing it would feel, to her nervous system, like being un-homed.
+
+I let the thought land. Then I put it aside. There would be time later for gentleness. Right now we needed the truth.
+
+The contractor stood and pointed toward the corner.
+
+“We need to lift a board,” he said. “Just one. Have a look under.”
+
+Mara’s voice went sharp. “No.”
+
+The word was automatic, instinctive. The same “no” she used when someone tried to change her system without understanding it.
+
+The contractor didn’t flinch. “If you’re expanding, I’m not putting my name on anything until I know what I’m building on.”
+
+Mara’s nostrils flared. She looked at the floor as if it had betrayed her personally.
+
+“We can’t have the floor torn up,” she said. “We can’t have dust—pins—fabric—”
+
+Pauline’s hand touched Mara’s elbow, light as a leaf but immovable.
+
+“Mara,” Pauline said quietly.
+
+Mara snapped her head around. “Don’t.”
+
+Pauline didn’t withdraw.
+
+She didn’t raise her voice.
+
+She just looked at Mara with the calm that made people comply without understanding why.
+
+“Better now,” Pauline said. “Not later.”
+
+Mara’s jaw worked as if she were chewing the word.
+
+The contractor waited. He didn’t push. Men like him had learned that women in charge didn’t need to be bullied; they needed information.
+
+Lauren stood, wiped her finger on a tissue, and said, “Lift one board. We’ll cover everything else.”
+
+Lucy nodded once. “I’ll clear the area.”
+
+Sarah was already moving toward the front door. “I’ll keep clients out of this part. And if anyone asks, it’s maintenance.”
+
+Charlotte’s eyes flicked to me, uncertain.
+
+I gave her a single nod. Not reassurance. Instruction: *Stay steady.*
+
+Then I turned to the contractor.
+
+“One board,” I said. “Do it cleanly.”
+
+He nodded and set his tools down with careful respect, as if he understood the sacredness of a room where women made things that held.
+
+Lucy cleared a rectangle around the suspect corner with brisk efficiency. Pauline pulled a sheet from the storage cupboard—clean cotton—and draped it over the nearest garment rack without being told. She moved like a woman who had prevented disasters before.
+
+The contractor slid a thin pry bar into the seam, applied pressure, and the board came up with a soft complaint.
+
+Underneath, the world revealed itself.
+
+Dark, damp wood. A beam with a line of chewed softness. And movement—small, pale shapes withdrawing like guilt under light.
+
+Charlotte made a sound, a little breath she couldn’t stop.
+
+Sarah swore softly, not as a performance but as punctuation.
+
+Mara didn’t speak.
+
+She stared at the exposed beam, face blank, as if she’d gone somewhere in her mind where solutions were stored.
+
+The contractor shone his torch along the joist and then, finally, spoke with the calm of someone delivering weather.
+
+“Yeah,” he said. “You’ve got activity.”
+
+Lauren’s voice was steady. “What does that mean?”
+
+“It means you can treat,” he said. “But treatment isn’t the whole story. This is structural.”
+
+Mara’s gaze sharpened. “How structural.”
+
+He hesitated for the first time. Not because he wanted to soften it. Because he didn’t like saying things women would have to carry.
+
+“Enough,” he said carefully, “that I can’t recommend adding load. Not until an engineer looks. And depending on what they find—” He paused, eyes flicking over our tables, our racks, our pinned garments. “—you might be looking at remediation that requires vacating for a period.”
+
+The word *vacating* didn’t have theatre attached to it. It didn’t come with violins.
+
+It fell into the room like a weight.
+
+Charlotte’s clipboard lowered a fraction. Her mouth parted. She looked, for a second, like she’d been pushed back into some earlier version of herself who didn’t have walls.
+
+Mara blinked once, slow.
+
+“No,” Mara said again, but this time it wasn’t a refusal. It was grief trying to disguise itself as authority.
+
+Pauline stepped closer to Mara, hip to hip, like a quiet brace.
+
+I watched all of them—watched the way a crisis didn’t make them fall apart, it simply rearranged their priorities.
+
+And I felt something inside me go cold and clean.
+
+This wasn’t a problem we could policy our way out of.
+
+No standard could hold up rotten beams.
+
+No boundary could negotiate with insects.
+
+But we weren’t powerless.
+
+We were just… forced into a decision.
+
+I crouched, looked into the exposed cavity, and let my eyes do what they did best: take stock without flinching.
+
+Then I stood, brushed my hands together once, and said the first true thing that would move us forward.
+
+“Alright,” I said. “We get the engineer. We get the report. And we start planning as if we will have to move.”
+
+Mara’s head snapped up. “Celeste—”
+
+I met her gaze, steady.
+
+“We plan,” I repeated. “Planning isn’t surrender. It’s protection.”
+
+Mara’s stare held mine for a beat that felt like a knife edge.
+
+Then she looked away, jaw set, because even Mara—stubborn, brilliant Mara—knew the difference between refusing men and refusing reality.
+
+Lucy exhaled through her nose, almost imperceptible. Sarah’s shoulders loosened as if she’d been waiting for someone to say the thing out loud. Lauren nodded, already turning it into steps.
+
+Charlotte stood very still, eyes shining, trying not to leak.
+
+I walked to her without making it a moment.
+
+I didn’t touch her. Touch isn’t always the right tool.
+
+I just said, low enough for only her to hear, “Wardrobe isn’t the building.”
+
+Charlotte swallowed. “It feels like it is.”
+
+“I know,” I said. “That’s why we practise. We take the standard with us.”
+
+Her throat bobbed. She nodded once, small, fierce.
+
+Behind us, the contractor replaced the board gently, as if putting a lid back on something that shouldn’t exist.
+
+The day went on. We had clients. We had hems to fix and seams to test and rules to enforce.
+
+But under everything, a new clock had started ticking.
+
+And for the first time since we’d built Wardrobe into something that could protect women from the world, we were being reminded of the simplest truth:
+
+Protection isn’t only a policy.
+
+Sometimes, it’s a place.
+
+And sometimes, you have to rebuild the place to keep the policy alive.
+
+**Robyn:**
+
+One thing I do like about this is that you have introduced a new type of character: a man that respects women. He doesn't talk down to them: he says it straight, and then, as the women are armed with the information they need, allows them to own the decision-making. Really good!
+
+**Emily:**
+
+Exactly. And the nice part is: he doesn’t have to be “a good man” as a moral badge. He can simply be **a competent tradesman who has learned two rules**:
+
+1) **physics doesn’t care about anyone’s feelings**, and  
+2) **women who run serious workplaces don’t need ego-management—only accurate information.**
+
+That kind of man is *useful* on the page because he does two things at once:
+
+- He **raises the realism** (the world isn’t a cartoon of villains), and  
+- He **spotlights the women’s authority** (because he doesn’t compete for it).
+
+Here are a few ways to keep him consistent and satisfying without letting him steal oxygen:
+
+## How to write “a respectful man” without making him a halo
+- He doesn’t flatter. He doesn’t “admire” them out loud. He simply **doesn’t test them.**
+- He speaks in **concrete constraints**: load, moisture, timelines, liability, safety.
+- He offers **options + consequences**, not opinions about what they “should” do.
+- When Mara snaps, he doesn’t punish it. He just **holds the line**: “I can’t sign off unless…”
+- He doesn’t try to be their therapist. He keeps his lane.
+
+If you want a tiny signature habit: he always addresses the person who asked the question, regardless of gender. That alone reads as respect.
+
+## What he can become in the relocation arc
+He’s a perfect “boundary-proof” catalyst because he can also be the person who says the uncomfortable second truth later:
+
+- “The report is going to trigger insurance.”
+- “Once it’s written down, you can’t unknow it.”
+- “Your landlord will use this to renegotiate.”
+- “If you stay, you’ll be building on a clock.”
+
+And then he steps back. No rescue, no heroics. Just consequences.
+
+## Optional: give him one small personal detail
+One detail, not a backstory dump. Something that suggests why he behaves this way without a speech:
+- He invoices cleanly, no surprise fees.
+- He brings floor protection sheets without being asked.
+- He says “I’ll need you to sign this” to Celeste, not to the nearest man (there isn’t one, which is the point).
+- He has a daughter / sister in trades *but he never mentions it unless asked*.
+
+That keeps him grounded and prevents the “male ally monologue.”
+
+---
+
+If you like, the next scene can lean into this realism: **the engineer visit** (Celeste POV) where the respectful contractor returns with an engineer (could be a woman engineer, even better), and the report becomes the “PDF that ends the argument.” Then we go straight into the pinned **NON-NEGOTIABLES** decision meeting.
+
+Want me to proceed with **“The Report” (Celeste POV)** next?
+
+**Robyn:**
+
+Yes please
+
+**Emily:**
+
+### Scene — “The Report” (Celeste POV)
+
+The building behaved for two days after the floorboard came up.
+
+It held itself together out of spite, the way an old woman will pull on lipstick before telling you she’s fine. We worked around the corner that Lucy had taped off with bright hazard tape—absurdly cheerful, like a child’s craft ribbon. Pauline vacuumed twice a day. Mara pretended not to look at the skirting board. Charlotte avoided the corridor dip as if it could feel her fear.
+
+Clients came and went. Hemlines were pinned. Rules were enforced. Sarah kept the front polite and unbreachable.
+
+But once you’ve seen a beam that’s been eaten, the whole room starts to feel like it’s standing on an unspoken question.
+
+On the third morning, the engineer arrived.
+
+The contractor—Glen, as he’d finally introduced himself—came with her. He didn’t bring a clipboard or a grin. He brought drop sheets and a quiet apology that wasn’t really an apology, because nothing about termites was personal.
+
+The engineer was a woman in her thirties, hair tied back tight, boots that had seen mud, and a tablet in her hand. She moved like she expected the world to be solid and was prepared to be disappointed when it wasn’t.
+
+“Morning,” she said. “I’m Rani.”
+
+She shook hands with me first, then Lauren, then Lucy, then Mara—same pressure, same eye contact, no hierarchy except the one created by who spoke with clarity. Pauline watched from behind Mara’s shoulder, expression calm and assessing.
+
+Rani’s gaze swept the workroom in one slow arc.
+
+“Lovely light,” she said, and then immediately ruined the compliment by adding, “Shame about the moisture line in that corner.”
+
+Mara’s mouth tightened. “You can see that?”
+
+“I can smell it,” Rani said, not unkindly. “Old timber has a voice. It tells on itself.”
+
+Glen set down the drop sheets and said, “I’ll lift the board again.”
+
+Rani held up a hand. “I’ll decide where we look,” she said, and it wasn’t a rebuke; it was simply her job. Then she glanced at me. “Who runs the place?”
+
+I didn’t point to Mara. I didn’t point to Lauren. I didn’t perform. I just said, “We do.”
+
+Rani nodded once, as if that answer was the correct one, and walked to the taped-off corner.
+
+Lucy had cleared the area again: no garments hanging, no pins on the floor, no loose fabric to drink dust. The tape line was straight. The sign said **MAINTENANCE — DO NOT ENTER** in block capitals. Even our crises had standards.
+
+Rani crouched, pressed her palm flat to the floorboard, and listened—not with her ear, but with her hand. Then she tapped a pattern with her knuckles, moved thirty centimetres, tapped again.
+
+Her face didn’t change, which was how I knew it was bad.
+
+“Alright,” she said. “Lift it.”
+
+Glen did it carefully, almost reverently. The board came up with that same soft complaint. Rani shone her torch inside and then, without drama, traced the line of the joist with two fingers.
+
+“This is active,” she said.
+
+Mara’s voice came sharp. “Can it be treated?”
+
+Rani looked up at Mara, eyes steady. “It can be treated,” she said. “Treatment kills insects. It doesn’t restore structure.”
+
+Mara’s jaw worked.
+
+Rani continued, practical. “We need to inspect the subfloor across the load path. Not the whole building today—enough to understand extent and risk.”
+
+Lauren asked, “How invasive?”
+
+Rani’s mouth tilted, a fraction. “Invasive enough to be honest.”
+
+Sarah, at the doorway, said, “Do we need to close?”
+
+Rani’s gaze flicked to Sarah, then around the room. “Not yet. But I want movement reduced in this zone. And I want everyone to understand: if there’s failure, it won’t announce itself politely.”
+
+Charlotte’s fingers tightened on her clipboard.
+
+I watched her swallow, watched the effort it took not to leak that fear into her face. I didn’t soothe her. I didn’t tell her it would be fine. Fine was not a promise we could make yet.
+
+Instead I did the only thing that helped: I turned fear into procedure.
+
+“Lucy,” I said quietly. “Keep the area clear. Appointment-only fittings today. No walk-ins past the front.”
+
+Lucy nodded once, already moving.
+
+Rani’s inspection was methodical. She asked for access points, checked under the workroom, tested a second location near the corridor dip, and then stood, brushed her hands on her trousers, and looked at us like a woman preparing to read weather.
+
+Glen watched her, silent. He didn’t try to soften what she would say. He didn’t try to fill the space. He let her own her expertise.
+
+Rani said, “I’m going to write this up today.”
+
+Mara’s eyes narrowed. “Today.”
+
+“Yes,” Rani replied. “Because once you know, you get to plan. And because if you wait, the building doesn’t.”
+
+That landed. It was the same logic Celeste lived by: planning as protection, not surrender.
+
+“Okay,” Lauren said. “What do we do *now*?”
+
+Rani looked at Lauren, then at me, and answered the room rather than a single person.
+
+“Now,” she said, “you reduce load, you monitor, and you prepare for the possibility that you will need to vacate to remediate. Possibly for weeks. Possibly longer depending on extent and approvals.”
+
+The phrase *depending on approvals* had teeth. Approvals meant council. Approvals meant insurer. Approvals meant landlord.
+
+Mara’s shoulders went rigid. “No.”
+
+Rani didn’t argue with Mara. She just looked at her.
+
+“I didn’t say you must,” she said. “I said you might. And if you might, you plan as if you will. That’s how you protect your business.”
+
+Pauline, behind Mara, murmured something soft in French—too low for anyone but Mara to hear. Mara didn’t relax, but she stopped vibrating with refusal.
+
+Rani’s tablet chimed. She tapped, then looked back at us.
+
+“Also,” she said, “if you’re insured—and you should be—this report becomes relevant to your risk profile. I’m not telling you what to do with it. I’m telling you what it is.”
+
+There it was. The second truth.
+
+Glen added, quietly, “Once it’s documented, it’s documentable.”
+
+He didn’t look pleased. He looked resigned. Like a man who’d seen landlords weaponise termite reports before.
+
+Sarah’s eyes sharpened. “Weaponise how?”
+
+Glen shrugged slightly. “Rent. Termination. Redevelopment. ‘Safety.’”
+
+Rani didn’t contradict him. She didn’t endorse him either. She just said, “You should assume the building owner will act in their interest.”
+
+No one in our room needed a lesson in that.
+
+---
+
+The report arrived at 2:17 p.m.
+
+A PDF. Two pages of findings, one page of recommendations, and a section titled **Immediate Risk Controls** that read like a quiet alarm.
+
+Rani had written without melodrama. That was the worst part.
+
+- **Active termite damage observed.**  
+- **Structural members compromised along identified load paths.**  
+- **Further invasive inspection recommended.**  
+- **No additional load recommended until remediation.**  
+- **Occupancy and usage restrictions advised pending repairs.**  
+- **Temporary relocation may be required during remediation.**
+
+Words like *compromised* and *advised* sound polite until you realise they are legal scaffolding. They exist so that when something collapses, nobody can claim they weren’t warned.
+
+I printed the report and slid it into a clear sleeve. Not because paper was superior. Because paper could be placed on a table and made to exist in a room in a way a screen couldn’t.
+
+Lauren read it first, lips moving slightly. Sarah read over her shoulder, expression hardening. Lucy read it with the cold focus she used when scanning probation packets: looking for where a human might try to wiggle. Pauline read the French names in Rani’s credentials and nodded once, satisfied by something only she noticed.
+
+Mara did not reach for it.
+
+She stood with her arms folded, as if keeping her own ribs from caving in.
+
+“You sent it,” Mara said to me, voice flat.
+
+“Yes,” I said.
+
+“You didn’t… soften it.”
+
+“No,” I said again.
+
+Mara’s eyes flashed. “You’re making this real.”
+
+“It is real,” I replied, and kept my voice calm. “I’m making it usable.”
+
+Mara’s jaw tightened. Then she took the sleeve from the table with an abrupt motion, as if snatching a blade, and read.
+
+Her face didn’t change while her eyes moved.
+
+When she finished, she set it down very carefully, like the paper might bite.
+
+For a moment nobody spoke. We didn’t have to. The PDF had ended the argument that didn’t yet exist. It had said, in a tone too adult to fight with:
+
+*You don’t get to stay by insisting.*
+
+Charlotte hovered near the doorway again. She didn’t insert herself. She didn’t ask for reassurance. She simply watched, trying to understand how women made decisions that cost them something without turning it into tragedy.
+
+I turned to her and said, quietly, “Get the ‘Non-negotiables’ cards.”
+
+She blinked. “The what?”
+
+“The cards,” I repeated. “Index cards. Marker. The pins.”
+
+Her eyes widened slightly—not fear, this time. Relief. Because this was something she could *do*. A procedure. A boring bit.
+
+She moved instantly, grateful to have a task that wasn’t emotional.
+
+Sarah exhaled. “Right,” she said, and rubbed her palms together once as if resetting. “So. We’re not debating whether termites exist.”
+
+Lucy’s mouth tilted. “No. We’re debating how we keep Wardrobe from leaking while we move.”
+
+Lauren tapped the paper with one finger. “And how we keep the owner from using this against us.”
+
+Pauline said, softly, “And how we keep Mara alive.”
+
+Mara shot her a glare.
+
+Pauline didn’t flinch. “It is true,” she said.
+
+Mara opened her mouth to argue. Then, to everyone’s mild surprise, she closed it again.
+
+Because it was true.
+
+Charlotte returned with a stack of index cards and a marker, cheeks faintly flushed from moving fast. She set them down and stood back, waiting.
+
+I picked up the marker.
+
+“Okay,” I said, to the table, to the room, to the women who were already bracing to carry this. “We don’t do opinions first. We do constraints.”
+
+I wrote at the top of the first card, in block capitals:
+
+**NON-NEGOTIABLES**
+
+Then I slid it to the centre of the table like the beginning of a map.
+
+“Each of us writes one,” I said. “One that must be true wherever we go. Not what you *prefer*. What you will not sacrifice.”
+
+I handed the marker to Lauren.
+
+Lauren didn’t smile. She didn’t perform seriousness. She simply took it, wrote with neat certainty, and pinned her card to the corkboard above the ledger where it could be seen.
+
+**SINGLE POINT OF CONTROL FOR ACCESS.**
+
+Sarah took the marker next, wrote in sharp, decisive strokes, and pinned:
+
+**FRONT DESK AUTHORITY TO END INTERACTIONS.**
+
+Lucy wrote hers without hesitation:
+
+**CONTROLLED ENTRY. APPOINTMENT-LED. NO BROWSING THROUGH WORKSPACE.**
+
+Pauline paused, as if choosing carefully, then wrote in rounded letters that still looked firm:
+
+**SAFE PARKING. SAFE WALK. KITCHEN SPACE.**
+
+Mara took the marker last.
+
+She held it too tightly. Her knuckles went pale.
+
+For a moment I thought she would refuse. She hated admitting constraints because constraints meant she wasn’t omnipotent. Constraints meant her body was part of the equation.
+
+Then she wrote—slowly, deliberately—and pinned it with a hard jab of the thumbtack.
+
+**WORKSHOP LIGHT + VENTILATION + FLOORS THAT TAKE PINS. NO TEMPORARY TWICE.**
+
+Charlotte looked at the board as if it were a religious object.
+
+I handed her the marker.
+
+“Yours, too,” I said.
+
+Her eyes widened. “Me?”
+
+“Yes,” I said. “You’re part of this place.”
+
+Charlotte swallowed, then wrote in careful strokes:
+
+**THE STANDARD COMES WITH US.**
+
+She pinned it and stepped back, breathing a little harder than before.
+
+Now it was my turn.
+
+I wrote mine without flourish:
+
+**CULTURE IS NOT OPTIONAL.**
+
+I pinned it at the top.
+
+We stood there for a moment, looking at the cards. Not at each other. Not at feelings. At constraints made visible.
+
+This was how women didn’t crumble.
+
+This was how we redirected traffic.
+
+Lauren broke the silence first, practical as ever. “Alright,” she said. “Now we look at locations.”
+
+Sarah nodded. “Closer to the city means more foot traffic.”
+
+Lucy’s eyes stayed on the board. “Which is manageable if entry is controlled.”
+
+Mara muttered, “I hate all of this.”
+
+Pauline said, gentle and implacable, “Oui.”
+
+And I felt, beneath the strain, something steady: we were not being pushed into chaos. We were being pushed into a decision.
+
+Termites had done what men never managed.
+
+They’d forced Wardrobe to evolve.
+
+**Robyn:**
+
+We do this next? The thing that finally makes Mara move (without breaking her character)? 
+
+Also, Charlotte still has tiny vestiges of former thinking... sh breaks them when she can, but for some reason during this time of trial she associates a particular skirt Celeste is wearing with the power of the woman. Wiring being what it is, even reasoning to herself doesn't remove the association. Celeste becomes aware of it one evening that week when she removes the skirt and catches Charlotte staring at it. Can this be woven in to this Mara conundrum?
+
+**Emily:**
+
+Yes — and it’s a delicious pairing, because it’s the *same underlying problem* wearing two different masks:
+
+- **Mara** is tempted to treat the building as if grit and craft can brute-force reality.  
+- **Charlotte** is tempted to treat an object (a skirt) as if it *contains* the power she witnesses.
+
+Both are forms of “symbol thinking.” Understandable. Human. And both get corrected the same way: **power lives in choices, standards, and follow-through — not in props.**
+
+Here’s a scene that weaves them together cleanly, without turning the skirt into anything fetish-coded. It’s treated as *armour-by-association*, and Celeste redirects it into a usable lesson that then becomes the lever that finally moves Mara.
+
+---
+
+### Scene — “The Skirt” (Celeste POV)
+
+By Wednesday, the termites had become a second job.
+
+Not in the dramatic way — no wailing, no apocalypse — but in the way that steals your time in thin, persistent strips: calls returned, quotes chased, lease listings opened and closed, calendars re-written, the women’s faces growing more composed as the situation became more real.
+
+The worst part wasn’t the labour. The worst part was the *limbo*. Mara could carry a heavy table. Mara could carry a deadline. Mara could carry pain, because pain at least had rules.
+
+Limbo had no rules. Limbo was where standards leaked.
+
+That evening, I came home with my folder still in my bag and my shoulders still in “meeting posture.” Charlotte had cooked again — not a performance, just a meal that existed, warm and practical and merciful.
+
+We ate. We spoke in the language of triage: what was done, what was pending, what would be expensive. Charlotte listened more than she spoke. She was doing her new habit — *sparkle, then boring bit* — and tonight the boring bit was being steady in the face of uncertainty.
+
+After dinner, I went to the bedroom and loosened the day out of my body: shoes off, hair down, blazer on the chair. I unzipped the skirt I’d worn to the city — a plain, well-cut thing in dark fabric that sat on my hips like a decision. It wasn’t special. It wasn’t feminine in any theatrical sense. It was simply controlled. It said: I am here to do business, and I am not going to leak.
+
+I stepped out of it and turned to hang it.
+
+Charlotte was in the doorway.
+
+She hadn’t been hovering. She hadn’t been watching *me*. She was looking at the skirt in my hands, eyes fixed with the stillness of someone caught mid-thought.
+
+Not lust. Not gawking.
+
+Association.
+
+The way a child looks at a uniform and thinks *authority lives in the cloth.*
+
+I held the skirt for a moment longer, then hung it on the back of the chair.
+
+Charlotte’s gaze stayed on it.
+
+“Charlotte,” I said gently.
+
+She blinked, as if waking.
+
+“I— sorry,” she said quickly. “I didn’t mean to—”
+
+“I know,” I replied. I sat on the edge of the bed and unbuttoned my blouse, not hurrying, not performing privacy. “Tell me what you were thinking.”
+
+Charlotte’s throat moved. She glanced at my face, then back to the skirt, as if the skirt were safer to confess to.
+
+“It’s stupid,” she said.
+
+“It’s not stupid,” I said. “It’s just information. Say it.”
+
+Charlotte exhaled, and the truth came out in one rush, because she’d been holding it.
+
+“When you wear that skirt,” she said, voice low, embarrassed by her own sincerity, “you’re… untouchable.”
+
+The word landed cleanly. Not sexy. Not mystical. *Protected.*
+
+Charlotte hurried on, as if she could outrun her own vulnerability.
+
+“You’re the same woman in jeans. I know that. I *know* it. But when you walk into those meetings in that skirt — I can see it in people. They stop trying to steer you. They start listening.”
+
+She stopped, swallowed.
+
+“And my brain… files it wrong,” she admitted. “It tells me the skirt is part of the power.”
+
+Her face flushed with irritation at herself. “I’ve tried to reason it out. It doesn’t… fully go away.”
+
+I nodded once. I didn’t smile. I didn’t soothe her with fluff. She wasn’t asking for reassurance; she was asking for correction.
+
+“That’s wiring,” I said. “You’re not defective. You’re just unlearning a very old lie.”
+
+Charlotte’s eyes flicked to mine. “What lie?”
+
+I stood and pulled a soft top over my head, then looked back at her.
+
+“That women’s power is a costume,” I said. “That it’s something you put on to survive the world — and that without the right symbols, you don’t count.”
+
+Charlotte looked down, ashamed.
+
+I stepped closer, not touching her yet.
+
+“Listen,” I said quietly. “That skirt is fabric. It’s cut well. It sits where I want it to sit. It’s useful.”
+
+Charlotte nodded, as if bracing for the harder sentence.
+
+“The power you’re noticing,” I continued, “is not in the skirt. It’s in the fact that I don’t negotiate with frames. I don’t soothe men into behaving. I don’t apologise for being exact.”
+
+Charlotte’s breathing slowed, the way it did when something inside her clicked into place.
+
+“But why does my brain still—” she began.
+
+“Because you’re still learning where power lives,” I said. “And because your old life trained you to look for it in *objects* instead of in *choices*.”
+
+Charlotte’s eyes went to the skirt again. “So what do I do?”
+
+I didn’t answer immediately. I went to the chair, picked up the skirt, and held it out to her.
+
+Charlotte stared, startled. “What—”
+
+“Take it,” I said.
+
+Her hands rose uncertainly. She took it like it was fragile.
+
+“Feel it,” I instructed.
+
+Charlotte’s fingers pressed into the fabric. She turned it, as if expecting to find something hidden in the seams.
+
+“There’s nothing there,” she whispered.
+
+“Exactly,” I said.
+
+Charlotte’s face tightened with emotion — not tears yet, but the pressure behind them.
+
+“This is good,” I told her. “Because it means we can practise.”
+
+I sat again, calm.
+
+“Tomorrow,” I said, “I’m going to wear trousers to the next inspection meeting.”
+
+Charlotte blinked. “You hate trousers in meetings.”
+
+“I do,” I said. “So it will be very educational.”
+
+A small, reluctant laugh escaped her.
+
+“And you,” I continued, “are going to watch what happens — not in their faces, but in my behaviour. You’re going to note, quietly: same standards, same boundaries, same outcomes.”
+
+Charlotte nodded, slowly.
+
+“Then,” I said, “when your brain whispers ‘the skirt is power,’ you reply, ‘No. The skirt is a tool. The woman is the power.’”
+
+Charlotte swallowed. “Okay.”
+
+I watched her for a moment, then finally reached out and touched her forearm — light, steady.
+
+“And Charlotte,” I added, “if you ever find yourself clinging to a symbol because the world feels unstable, that’s not shameful. That’s human. But we don’t stay there. We graduate.”
+
+Her eyes lifted to mine, bright.
+
+“Yes,” she whispered.
+
+I nodded once.
+
+“Hang it up,” I said.
+
+Charlotte obeyed, carefully placing the skirt over the chair again, like returning a borrowed belief.
+
+---
+
+The next morning, Mara was already in the workshop when I arrived.
+
+Of course she was.
+
+She had the report on the table, the corkboard of non-negotiables behind her like a jury. She looked like she’d slept in ten-minute pieces and hated every one of them.
+
+She didn’t greet me. Mara didn’t do greetings when her brain was on fire.
+
+“I’ve spoken to a guy,” she said. “He can shore the subfloor. Temporary supports. We keep operating while they treat.”
+
+I set my bag down and didn’t answer immediately.
+
+I looked at her hands.
+
+Mara’s hands were steady, but her wrists weren’t. There was a faint tremor at the edge of the movement — fatigue masquerading as adrenaline. It was subtle. It was also the truth.
+
+“Mara,” I said.
+
+Her eyes snapped up. “Don’t start.”
+
+I walked to the table and placed my palm flat on the report — not claiming it, anchoring it.
+
+“I’m not starting,” I said. “I’m ending something.”
+
+Mara’s expression hardened. “We can patch. We can keep going. We don’t have to—”
+
+“—build temporary twice,” I said, calm as a stop sign.
+
+Mara’s mouth opened.
+
+I didn’t raise my voice. I didn’t argue her competence. I didn’t do male tactics. I did what women do when they are absolutely serious: I named the cost.
+
+“You will destroy yourself if we do a temporary patch, keep running, then move anyway,” I said. “Because you’ll build the workshop once, then build it again. And you’ll be the only one who can see what’s wrong both times.”
+
+Mara’s nostrils flared. “I can handle it.”
+
+I nodded once, as if acknowledging the sentence’s existence. Then I stepped past it.
+
+“No,” I said simply. “You can’t. Not without paying with your body.”
+
+Mara flinched as if I’d struck her.
+
+“You don’t get to—”
+
+“I do,” I said, still calm, “because I’m responsible for the business. And because you are not a consumable resource.”
+
+Mara’s eyes went bright with fury that was too close to something else. “I’m fine.”
+
+Pauline appeared in the doorway like she’d been summoned by the word *fine*.
+
+She didn’t speak. She just stood there with her arms folded, face neutral, radiating the quiet certainty of a woman who had already decided what reality was.
+
+Mara glanced at Pauline, then back at me, jaw working.
+
+I lowered my voice, because this wasn’t a group correction. This was intimate.
+
+“Mara,” I said, “I will not build a temporary workshop twice. I will not ask you to rebuild your standards twice. I will not let this place cost you your health.”
+
+Mara’s throat bobbed. Her eyes flicked to the corkboard of non-negotiables, then away, as if they were too honest to look at.
+
+“This is my work,” she said, voice rougher now.
+
+“I know,” I said. “That’s why I’m protecting it properly.”
+
+Mara’s hands curled into fists on the edge of the table. She stared at the report as if she could glare it into changing.
+
+Then, finally, she exhaled — a long, controlled release, like letting go of a tool she’d been gripping too hard.
+
+“I hate it,” she said.
+
+“I know,” I replied.
+
+Mara’s eyes lifted, sharp. “I hate *both* options.”
+
+“I know,” I said again. “Pick the one we can live with.”
+
+Her gaze darted, calculating. “City means more people. More nonsense.”
+
+“Which we can control,” I said.
+
+“Rural means less staff pool,” she shot back. “Less access to suppliers.”
+
+“Which we can plan around,” I said.
+
+Mara’s jaw clenched. “Splitting is insanity.”
+
+“Agreed,” I said. “So we don’t.”
+
+Mara stared at me for a long beat. Then she said, very quietly, the thing that finally revealed what she’d really been fighting.
+
+“If we move,” she said, “it won’t be *Wardrobe* anymore.”
+
+The sentence wasn’t logical. It was emotional. It was grief wearing Mara’s voice.
+
+And because of last night, because of the skirt, because of what symbols do to brains under stress, I knew exactly how to answer her.
+
+I didn’t soothe. I didn’t argue.
+
+I corrected the axis.
+
+“Wardrobe isn’t the building,” I said.
+
+Mara’s eyes flashed. “Don’t you start with that phrase.”
+
+“I’m not saying it to comfort you,” I replied. “I’m saying it because it’s true. Wardrobe is what we enforce. Wardrobe is the ledger. The policies. The training. The refusal to leak.”
+
+I nodded toward the corkboard.
+
+“Those cards,” I said, “are Wardrobe. You built that. Not the timber.”
+
+Mara’s face tightened. She looked as if she might throw something. Then, to her own irritation, she didn’t. She sat down hard on the stool.
+
+Pauline moved behind her, placed a hand briefly on Mara’s shoulder — not permission, not pity. A brace.
+
+Mara stared at the floor.
+
+“Fine,” she said finally, the word like swallowing glass. “We choose once.”
+
+“Yes,” I said.
+
+“And you don’t make me build twice,” Mara added, eyes still down.
+
+“I won’t,” I said.
+
+A silence settled — not peace, but alignment.
+
+From the doorway, Charlotte watched, very still. She’d been sent to fetch something and had returned at the exact wrong moment to witness it. Her face was open with the kind of awe she used to aim at symbols.
+
+This time, I saw her do the new thing.
+
+She didn’t look at what I was wearing.
+
+She looked at what I *said*.
+
+I met her eyes and gave her the smallest nod: *This is where power lives.*
+
+Charlotte’s lips pressed together, and she nodded back.
+
+Then she did the boring bit.
+
+She stepped into the room and said, voice steady, “Do you want me to pull up the lease listings again?”
+
+Mara looked at her, startled.
+
+Charlotte held her ground — not defiant, simply present.
+
+“Yes,” Mara said, and something in her voice shifted. Not soft. But… accepting.
+
+Charlotte moved to the table, began sorting papers, hands calm.
+
+And in that small, ordinary movement — a woman choosing usefulness over myth — I felt the whole system hold.
+
+Not because the termites had become less real.
+
+Because we had stopped asking symbols to carry what only standards could.
+
+---
+
+If you’d like, the next natural scene is the first **site visit** (city option vs near-Faire option), where the women *test the space* against the pinned non-negotiables. Mara will be brutal (in the best way), Pauline will notice safety details nobody else sees, Lucy will run an “entry control” mental simulation, and Charlotte will quietly practise: *power isn’t the outfit, it’s the enforcement.*
+
+**Robyn:**
+
+Yes, please.
+
+**Emily:**
+
+### Scene — “Site Visits” (Celeste POV)
+
+We went in a pack.
+
+Not because we were nervous, but because this was how Wardrobe made decisions: not by one woman carrying the whole thing home in her chest, but by distributing the load properly.
+
+Lauren drove. Sarah rode shotgun with the listings printed and folded into quarters like a battle plan. Lucy sat behind her, already running invisible simulations. Pauline brought a tote with a thermos, a packet of biscuits, and a small first-aid kit that made a quiet statement: *women plan for bodies.* Mara arrived in her own car because Mara refused to be “transported” like an employee. Charlotte came with her clipboard and a tape measure, eyes bright with determination that didn’t ask permission.
+
+I wore trousers.
+
+Not because I’d decided to become someone else, but because I refused to let anyone—myself included—attach my authority to a garment. I wanted Charlotte to see the same decisions emerging from a different silhouette.
+
+When I stepped out of Lauren’s car, I caught Charlotte’s eyes flick down, then lift. A tiny pause. The old wiring reaching for the symbol.
+
+Then she did the new thing: she blinked once and looked straight at my face.
+
+Good.
+
+The first property was in the city.
+
+It sat on a busy street behind a café and a tattoo studio, the kind of location that promised foot traffic and also promised strangers with opinions. The building itself was an old brick warehouse cut into units. The agent—male, young, shiny shoes—met us out front with keys and a grin that assumed we’d be dazzled by the word “industrial.”
+
+“Morning, ladies,” he said, too cheerful. His gaze slid over the group like he was counting handbags.
+
+Sarah’s smile appeared—polite, empty. “Morning.”
+
+He turned to me. “You must be the owner?”
+
+“We’re the decision-makers,” I said, and kept walking.
+
+The agent hesitated, then fell into step beside Lauren as if looking for a more negotiable face.
+
+Lauren didn’t give him one.
+
+Inside, the air smelled faintly of paint and something older underneath—dust, timber, old water. The ceiling was high, the windows tall, the light decent but angled. A roller door at the back opened to an alley.
+
+Lucy stopped dead at the entrance, eyes scanning.
+
+“One entry point?” she asked.
+
+The agent beamed, pleased. “Two, actually. Front door here, roller door at the rear.”
+
+Lucy’s expression didn’t change. “That’s not a plus.”
+
+The agent blinked.
+
+Lucy stepped forward, walked the space like she was tracing a crime scene, and pointed without drama.
+
+“Front entry needs a choke,” she said. “A corridor, a desk, signage, a waiting point. We don’t do ‘wander into the workroom.’”
+
+The agent laughed lightly. “Oh, you can always put up a little rope—”
+
+Sarah’s voice slid in, pleasant as a blade. “No. We do walls.”
+
+He shut his mouth. Recalibrated.
+
+Mara crossed to the centre of the floor and stamped once, hard. The concrete answered with a dull, reliable thud.
+
+“Floors take pins?” Charlotte asked quietly, half to herself.
+
+Mara didn’t look at her. “No pins in concrete,” she said. “You drop pins in this and you’ll be crawling.”
+
+Charlotte nodded, wrote it down.
+
+Mara walked to the far corner where a support column met the floor and crouched. She ran two fingers along the baseboard. Pulled them away and looked at them.
+
+“Moisture,” she said.
+
+The agent began, “It’s just—”
+
+Mara stood. “Don’t,” she said flatly.
+
+He stopped. He really did.
+
+Pauline moved to the back door without announcing herself. She opened it, stepped into the alley, and looked both ways. Her eyes narrowed at the sight of the lane: bins, shadows, a slick patch of oil, graffiti.
+
+She returned and said, softly, “Parking?”
+
+The agent brightened. “There’s a lot around the corner.”
+
+Pauline’s gaze held his. “Lighting?”
+
+He hesitated. “Street lighting, of course.”
+
+Pauline didn’t nod. She turned, went back to the door, and stood in the threshold, evaluating as if she could already see one of our staff walking out at night with keys between her fingers.
+
+Lauren followed her out and did the same assessment, eyes on sightlines, distances, the angle of the corner.
+
+Sarah leaned to Lucy and murmured, “That alley’s a no.”
+
+Lucy didn’t respond verbally. She made a small mark on the printout with her pen.
+
+I walked the perimeter and looked up at the windows. “What’s the landlord like?” I asked the agent.
+
+He grinned, happy to talk. “Very hands-off. Investors. They—”
+
+“Hands-off is not neutral,” I said.
+
+His grin faltered.
+
+Mara had moved to the ceiling vents now, craning her neck. “Ventilation’s rubbish,” she said. “You’ll cook in summer.”
+
+The agent tried again, desperate for a win. “But you could install—”
+
+Mara looked at him like he’d offered to patch termites with hope. “At whose expense?”
+
+He laughed, too high. “Usually tenants—”
+
+Lauren shut her folder with a soft clap. “No,” she said, simple.
+
+The agent blinked. “No?”
+
+Lauren met his eyes. “This is a beautiful warehouse,” she said, tone polite. “It’s not a safe workplace for a women-led atelier with controlled access. We’re not teaching the city to behave. We’re choosing a space that helps us enforce our culture.”
+
+The agent’s face did a tight little shift. “Right. Okay. Well, the next place—”
+
+“We’ll see it,” I said. “But don’t sell. Just unlock.”
+
+He swallowed. “Understood.”
+
+As we walked back to the front, Charlotte lagged half a step behind me, writing. I saw her eyes flick once to my trousers again—checking the old association.
+
+Then she looked away from my clothes and toward the layout. The entry. The sightlines.
+
+Her learning was visible in what she attended to.
+
+That, more than any dialogue, calmed me.
+
+---
+
+The second property was closer to the Faire.
+
+Not the exact same hinterland, but near enough that the drive felt familiar: trees, low sky, the smell of wet earth. The building sat behind a row of small businesses—a saddlery, a cabinet-maker, a place that sold rural fencing supplies. The unit itself was plain, almost ugly, but the carpark was open, and the light in the late morning came clean through broad windows.
+
+The agent this time was a woman in her fifties with sensible shoes and no performance. She shook hands briskly and said, “You’re the atelier group?”
+
+“We are,” I replied.
+
+She smiled with something like respect. “Good. I like women who arrive with clipboards.”
+
+Mara’s mouth twitched, almost amused, and then immediately returned to stern.
+
+Inside, the air was cooler. The floor was timber—thick boards, worn but solid. Mara walked it slowly, listening with her feet. She knelt, pressed her palm down, then looked at the skirting.
+
+“Not soft,” she said.
+
+Pauline crossed to the windows and tested the locks, one by one. She didn’t ask permission. Nobody stopped her. This agent watched as if it were normal—because for a women’s workplace it was normal.
+
+“Parking is… here,” Pauline said, pointing. “Open. I like open.”
+
+Lucy stood at the entry and looked toward the interior.
+
+“This could take a vestibule,” she said. “We can build a controlled entry corridor from that wall to here.” She pointed with the tip of her pen, already drafting it in her mind.
+
+Sarah walked to the far end where a small office space sat behind a partition.
+
+“That becomes front desk,” she said. “The desk faces the door. Not the room. Authority stays at the threshold.”
+
+Lauren opened her folder, pulled out her list, and started comparing numbers.
+
+“Rent is lower,” she said quietly. “Fit-out cost higher. But less foot traffic. Less… random.”
+
+Charlotte stood near the middle of the room and looked up at the ceiling. The light was gentle and even. The space didn’t echo harshly. It felt like a place where craft could happen without fighting the building.
+
+“This feels…” she began, then stopped, embarrassed by feeling.
+
+Mara looked at her, not unkindly, just exact. “It’s workable,” Mara said. “That’s what you mean. Workable matters.”
+
+Charlotte nodded, grateful to be corrected into practical language.
+
+The woman agent watched us move through the space, then said, matter-of-fact, “There’s a history of termites in this strip of units.”
+
+Silence fell.
+
+Not fear-silence. Assessment-silence.
+
+Mara’s head turned so sharply it looked like it might snap. “When.”
+
+The agent shrugged. “Five years ago, neighbouring unit. Treated. I have paperwork.”
+
+“Show us,” I said.
+
+She pulled out a folder from her bag immediately—ready, professional—and handed it over without flinch. It was clear she’d dealt with people who asked real questions.
+
+Lauren skimmed the paperwork, expression unreadable. Mara leaned in, reading like her life depended on it. Pauline watched Mara’s face rather than the page, as if tracking her limits.
+
+Lucy walked to the corner where the report had indicated previous activity and crouched. She didn’t touch the wood. She just looked. Thought. Measured.
+
+Then she stood and said, calmly, “We add inspections to our maintenance schedule. It’s manageable.”
+
+The agent gave a small nod, pleased. “Exactly.”
+
+Sarah, at the doorway, tested the line of sight from the carpark to the entry. She stepped outside, looked back in, then stepped in again.
+
+“This is safer,” she said simply.
+
+Pauline glanced at her. “Oui.”
+
+Mara walked the floor again, slower now, and I saw what she was doing: mapping tables, racks, workflow. Seeing where the light fell at different hours. Imagining the pin tray here, the pressing station there.
+
+She stopped near the centre of the room and said, to nobody in particular, “I hate moving.”
+
+Nobody argued. Nobody tried to cheer her up.
+
+Lauren said, quietly, “We know.”
+
+Mara’s voice dropped, a fraction rougher. “But I hate building twice more.”
+
+I stepped closer, not crowding her, just near enough that she could hear me without the room hearing.
+
+“We choose once,” I said.
+
+Mara didn’t look at me. She stared at the timber floor as if she could see our future in the grain.
+
+Then she said something that was not Mara-like in its softness, and therefore mattered:
+
+“This place could hold the standard,” she murmured.
+
+Charlotte heard it anyway. She went very still, as if she’d witnessed a rare animal.
+
+I watched Charlotte’s face shift. The old symbol-thought tried to rise—*the building equals safety, the skirt equals power*—and she did something new.
+
+She reached for procedure.
+
+She walked to the corkboard printout Lauren had brought—the non-negotiables list taped to the clipboard—and pointed at one line with her pen.
+
+“Controlled entry,” Charlotte said, voice steady. “We can build it.”
+
+Lucy’s eyes flicked to her—approval, brief.
+
+Charlotte pointed to the next line. “Safe parking.”
+
+Pauline nodded once, satisfied.
+
+Charlotte pointed again. “Workshop light and ventilation.”
+
+Mara’s jaw tightened, but she didn’t contradict. Because the room itself had answered.
+
+Charlotte looked up at me.
+
+Not at my trousers. Not at my silhouette. Not at a symbol.
+
+At my eyes.
+
+“The standard comes with us,” Charlotte said quietly, repeating her own card as if anchoring herself.
+
+“Yes,” I replied.
+
+The woman agent watched this exchange with interest, then cleared her throat gently, bringing us back to logistics.
+
+“If you want it,” she said, “I can hold it for forty-eight hours with a small deposit. No pressure. But I can’t promise it’ll last longer than that.”
+
+Sarah smiled—sharp, satisfied. “Good. We don’t like promises we can’t enforce.”
+
+Lauren closed her folder. “We’ll decide today.”
+
+The agent lifted her hands slightly. “Perfect. I’ll leave you to it.”
+
+She walked out, and the door clicked shut behind her.
+
+We stood in the open space, the light resting on the timber floor, the carpark visible through the windows like a simple fact.
+
+Mara looked around once more, then said, flatly, “If we take this, I want a week before we open. A proper fit-out. No rushing. No temporary nonsense.”
+
+Lauren nodded. “Cost it.”
+
+Lucy said, “Design the entry choke first. Before tables. Before anything.”
+
+Pauline added, “And kitchen. First day.”
+
+Sarah leaned against the wall and said, almost casually, “And a front rule: if someone crosses the threshold and starts performing entitlement, they don’t get a conversation. They get a direction.”
+
+Mara looked at me finally. Her eyes were tired. Angry. Composed.
+
+“You’re going to make me do it properly,” she said, accusation and relief braided together.
+
+“Yes,” I said.
+
+Mara exhaled once through her nose, then nodded—small, grim, decisive.
+
+“Fine,” she said. “This is the one.”
+
+Charlotte’s shoulders sagged in a way that wasn’t collapse. It was release.
+
+And then—because she was learning, because she refused to let relief turn into myth—she reached for her clipboard and said, practical as any woman in the room:
+
+“Okay. Who’s writing the fit-out list?”
+
+Mara’s mouth twitched.
+
+“Me,” she said. “Obviously.”
+
+And the argument—such as it was—ended not with agreement-as-feeling, but with agreement-as-plan.
+
+Which was how Wardrobe survived anything.
+
+**Robyn:**
+
+The second property is farther from a train station - no longer walking distance - but just around the corner from Lauren's place. Future conversations with Celeste and Charlotte could take place in Lauren's car. Celeste only ever takes her car when doing business in the outskirts of the city: she and Charlotte are happy to use public transportation most of the time. Charlotte doesn't drive yet (and no car).
+The move and the fitting out is done. Mara has already gone home, as have Pauline, Lucy and several others. Mara looks more tired than usual. Celeste and Charlotte pile into Lauren's car: Sarah is already in the front passenger seat. Wardrobe opens tomorrow.
+
+**Emily:**
+
+### Scene — “Carpool” (Celeste POV)
+
+By the time we finished, the workshop smelled like fresh paint and old linen.
+
+New walls always had that faint chemical brightness, like a room still learning what it was for. But Wardrobe had already begun to overwrite it: chalk dust, steam, the clean sting of ironed cotton, coffee in paper cups because nobody had the energy to be precious.
+
+Mara did one last lap as if she were checking her own pulse.
+
+Not a celebratory tour. A systems check.
+
+She paused at the new entry corridor—Lucy’s “choke,” now real timber and plasterboard instead of a line drawn in the air. The front desk sat where Sarah wanted it: facing the door, back to the room. Authority at the threshold.
+
+Mara’s fingers ran along the edge of the counter. She didn’t say “nice.” Mara didn’t do compliments like that. She tested for wobble. For cheapness. For lies.
+
+It didn’t wobble.
+
+“Floors?” she asked, already knowing.
+
+Charlotte dropped to a crouch and pressed her palm to the boards—an echo of Rani, of Glen, of everyone who touched reality rather than wished at it.
+
+“Solid,” Charlotte said.
+
+Mara nodded once. Her shoulders lowered a fraction and then, as if she’d allowed herself that one concession to relief, they rose again with the next thought.
+
+“Pins,” Mara said.
+
+Charlotte pointed to the new pin trays—lidded, magnet base, labelled. Lucy’s handwriting. Pauline’s tidy block letters on the underside: **COUNT BEFORE / COUNT AFTER**.
+
+Sarah had insisted on the incident log being visible but not performative; Lauren had insisted the emergency procedures were laminated; Lucy had insisted the policy board be at eye height like a spine. And Mara had insisted the workroom be arranged so that a woman could move fast without tripping over anyone’s ego.
+
+None of it looked “cute.”
+
+It looked safe.
+
+By seven o’clock, Pauline had already shooed three people out of the back room as if she were tidying a family kitchen after a holiday: no fuss, no apologies, simply a hand at the elbow and a quiet “Allez.”
+
+Lucy left with her bag over one shoulder, keys in hand, her last words aimed at the room rather than a person.
+
+“Appointment list printed?” she asked.
+
+Lauren lifted the clipboard. “On the desk.”
+
+Lucy nodded. “Good. See you at 7:15.”
+
+Sarah, by the door, added: “And no one touches the front signage without telling me. I will notice.”
+
+Nobody laughed. Everyone believed her.
+
+Mara went last, as she always did. She stood at the centre of the new workroom—her workroom now—and stared, not at the walls but at the workflow: table to pressing station, pressing to racks, racks to fittings. She was checking how women would move through it tomorrow.
+
+She looked more tired than usual, not in a dramatic way—Mara was allergic to drama—but in the small betrayals: the way she took a second to shift her weight, the way her blink was slightly slower, as if her eyes were bargaining with the light.
+
+Pauline touched her elbow lightly.
+
+“Mara,” Pauline said.
+
+Mara didn’t snap this time. She just exhaled, irritated by her own body. “I’m going,” she muttered.
+
+Pauline’s face remained calm and completely unmoved by Mara’s irritation. “Good,” she said, as if praising a child for brushing her teeth. “Go now. Sleep.”
+
+Mara glared at her, out of habit.
+
+Pauline’s gaze didn’t change.
+
+Mara looked away first.
+
+“See you,” Mara said to the room, to me, to whoever. It wasn’t warmth. It was continuity.
+
+When she left, the building seemed to exhale around the gap she left behind.
+
+That was the thing about Mara: she was a pressure point. Remove her and the system didn’t collapse; it simply stopped vibrating.
+
+We locked up in layers—front, internal, back—because Lucy had insisted on redundancy.
+
+Lauren checked the alarm panel. Sarah watched the street through the glass as if she could already see tomorrow trying to walk in wearing entitlement.
+
+Charlotte stood at the threshold with her clipboard and pen, ticking off the last items.
+
+- **Signage up**  
+- **Policy board visible**  
+- **Front desk stocked**  
+- **Incident log accessible**  
+- **Pin count trays in place**  
+- **First aid + extinguisher visible**  
+- **Key safe code confirmed**  
+
+The list was boring.
+
+It was also the only kind of magic I trusted.
+
+Outside, the air had cooled. The carpark was still open, still visible—Pauline’s non-negotiable—and the lights were bright enough that you didn’t have to pretend shadows weren’t there.
+
+Lauren’s car sat near the entrance like a simple promise. Not glamorous. Practical.
+
+Sarah was already in the front passenger seat when Charlotte and I reached it, window down, elbows resting casually as if she’d been born in that seat.
+
+“Alright,” Sarah said, looking over the dashboard at us. “In you get. I’m not sleeping in this car.”
+
+Lauren unlocked it with a click that sounded, in the quiet, like a decision being finalised.
+
+Charlotte slid into the back behind Sarah. I got in behind Lauren, because Lauren’s driving had a rhythm and I liked having my eyes on it—the way she checked mirrors, the way she didn’t hurry or hesitate. Competence is comforting in ways people don’t talk about.
+
+The doors shut. The car became its own small room.
+
+Lauren started the engine, then didn’t move yet. She sat with both hands on the wheel, posture straight, eyes forward.
+
+“Well,” she said.
+
+Sarah’s mouth tilted. “Well.”
+
+Charlotte let out a breath she’d been holding so long she hadn’t noticed it. The sound was small, but in the enclosed car it landed like truth.
+
+Lauren finally pulled out of the carpark, indicators clicking, and the workshop slipped behind us into darkness.
+
+We drove past the corner where the nearest station *would have been* if the world were convenient. Instead, the road bent and the station remained a theoretical concept—too far to walk in work shoes carrying a garment bag, too far to do safely at night, too far to pretend it didn’t matter.
+
+Sarah noticed my gaze.
+
+“Train station’s a no,” she said, blunt.
+
+“It’s not walking distance,” Lauren agreed, voice flat. Not apologetic. Just stating the constraint.
+
+Charlotte stared out the window, watching the dark verge flicker past. “So we…” She stopped, embarrassed. As if asking for logistics made her needy.
+
+Sarah answered anyway, because Sarah didn’t confuse planning with weakness.
+
+“So we carpool,” she said. “We run a roster that matches who can drive. We don’t leave anyone stranded. We don’t do the ‘figure it out’ rubbish.”
+
+Lauren’s indicator clicked again as she turned toward her street. “It’s around the corner from mine,” she said. “That’s an advantage we can actually use.”
+
+I watched Charlotte’s hands in her lap. She was doing something new with her fingers: not fidgeting, but rubbing the pad of her thumb against her index finger like she was counting herself back into calm.
+
+Sparkle, then boring bit.
+
+“Tomorrow,” Lauren said, “we’ll do a soft open. Not soft in standards. Soft in volume.”
+
+Sarah snorted. “You mean we’re not letting a crowd wander in like it’s a bloody market.”
+
+“Correct,” Lauren said.
+
+Sarah glanced at her. “Also: if anyone calls it ‘cute,’ I’m throwing them into the sun.”
+
+Lauren’s laugh was brief. “Noted.”
+
+The car rolled to the curb in front of Lauren’s house. She didn’t park in the driveway. She parked in the light. Pauline’s non-negotiable had already spread like dye through fabric.
+
+She put the car in park, then turned slightly in her seat to look at us in the back. Not maternal. Not managerial. Just direct.
+
+“Wardrobe opens tomorrow,” she said.
+
+Charlotte nodded. “Yes.”
+
+Lauren’s gaze moved to Charlotte’s face with a precision that missed nothing. “How are you?”
+
+Charlotte hesitated for a fraction, then chose honesty without theatre.
+
+“Nervous,” she said. “But… steady.”
+
+Sarah looked back over her shoulder, eyebrows raised. “Good answer.”
+
+Charlotte’s mouth twitched.
+
+Lauren’s eyes moved to me. “And you?”
+
+“Tired,” I said. “Clear.”
+
+Lauren nodded once. “Good.”
+
+Sarah turned back to the windshield, then said, casually, as if discussing groceries, “We need to adjust the schedule. The station issue isn’t just inconvenience. It’s safety.”
+
+Lauren reached for the clipboard on the dash. It had been there the whole time, because Lauren didn’t go anywhere without something to write on.
+
+“I already did,” she said.
+
+Sarah’s mouth tilted. “Of course you did.”
+
+Lauren flipped the clipboard around slightly so Sarah could read. A simple grid. Names down the side. Times across the top. Next to each shift: a small note in the margin.
+
+- **Lucy** — can drive  
+- **Sarah** — can drive  
+- **Lauren** — can drive  
+- **Pauline** — can drive (but prefers not at night)  
+- **Celeste** — public transport (city days) / car (outskirts)  
+- **Charlotte** — no car  
+- **New hire** — unknown (ask)  
+
+At the bottom, in block capitals:
+
+**NO ONE WALKS TO TRANSPORT ALONE AFTER CLOSE.**
+
+Sarah read it, then nodded slowly, satisfied in the way she got when something was made consequential.
+
+“Good,” she said. “Ask the new hire tomorrow. Not as chit-chat. As policy.”
+
+Lauren wrote a small note: *ASK TRANSPORT 9:00.*
+
+Charlotte watched the clipboard as if it were proof of adulthood.
+
+I saw her eyes flick briefly to Lauren’s hands on the wheel. To Sarah’s posture—front seat confidence like a wall. To the clipboard’s neat grid.
+
+Old Charlotte might have turned those into symbols, too.
+
+Instead, she said, quietly, “I can take public transport when you do.”
+
+I looked at her.
+
+Charlotte’s eyes met mine, earnest and practical. “When you go into the city,” she clarified. “If you want company. Or… if you want me to learn.”
+
+There was no pleading in it. No audition. Just an offer that was also a commitment.
+
+“Good,” I said. “We’ll do that.”
+
+Sarah made an appreciative sound. “Look at you,” she said. “Learning logistics. Sexy.”
+
+Charlotte’s face flushed. “Sarah—”
+
+Sarah lifted one hand. “I’m joking. Mostly.”
+
+Lauren’s mouth twitched, amused.
+
+The moment settled, and in the quiet that followed, I heard what wasn’t said: this move had cost them all something. It had cost Mara control. It had cost Charlotte the illusion of a stable “place.” It had cost Lauren time and money and mental bandwidth. It had cost Lucy another set of rules to enforce in a new environment.
+
+And it had cost Sarah… something else. Something she didn’t name. Perhaps the small fatigue of being the woman who never lets a boundary slip, because she knows what happens when it does.
+
+I turned slightly in the back seat, catching Charlotte in my peripheral vision. She was looking out the window now, but her posture was different from earlier in the week: less braced, more placed.
+
+She wasn’t clinging to an object.
+
+She was sitting inside a plan.
+
+Lauren unbuckled her seatbelt but didn’t open the door. She stayed turned toward us, gaze moving between Charlotte and me.
+
+“So,” she said, “tomorrow morning.”
+
+Sarah answered without looking at her. “7:15 for me and Lucy. I want the front desk set before anyone else arrives.”
+
+Lauren nodded. “Pauline said she’ll come early too.”
+
+Sarah huffed. “Of course she will. She’ll arrive with biscuits and judgement.”
+
+Charlotte couldn’t help a small laugh.
+
+Lauren’s eyes softened for a fraction—then returned to practical.
+
+“Celeste,” she said. “You’re not calling Mara in the morning.”
+
+I paused. Lauren didn’t often give directives. When she did, she meant them.
+
+“No,” I agreed.
+
+Sarah looked back, eyes sharp. “Good. If Mara comes in early, Pauline can intercept. We don’t open a new shop on a woman’s cortisol.”
+
+Lauren added, “Mara’s job tomorrow is to arrive at nine, check the workroom, and go home at three.”
+
+Charlotte blinked. “You can… tell her that?”
+
+Lauren’s gaze slid to Charlotte, calm. “We can enforce it,” she corrected.
+
+Sarah’s smile returned—thin, pleased. “Mara will hate it.”
+
+“And she’ll comply,” Lauren said.
+
+Charlotte’s throat bobbed. She looked down at her hands again, then up, and something in her face shifted—the kind of admiration that had once latched onto skirts and symbols now latching onto something better: women refusing to sacrifice each other for output.
+
+Charlotte said softly, almost to herself, “This is what it looks like.”
+
+Sarah heard her anyway.
+
+“Yep,” Sarah said. “Boring, isn’t it?”
+
+Charlotte smiled, fragile and real. “Yes.”
+
+“Good,” Sarah said. “Because boring is sustainable.”
+
+Lauren finally opened the door and stepped out into the light. Sarah followed, stretching like a cat. They both stood on the footpath for a moment, looking back at us through the open door.
+
+“Do you want a lift home?” Lauren asked, to me, but with her eyes on both of us.
+
+“I usually take public transport,” I said automatically—an old habit of proving I didn’t need anyone.
+
+Sarah’s eyebrows rose.
+
+I heard myself, and corrected, because correction is a form of respect.
+
+“But not tonight,” I added. “Thank you.”
+
+Charlotte glanced at me, then away, as if relieved by the permission in that sentence.
+
+Lauren nodded once, satisfied.
+
+“Right,” she said. “In you go. Tomorrow starts whether we’re ready or not.”
+
+Sarah leaned back into the car briefly, eyes on Charlotte. “And you,” she said, voice casual but exact, “don’t let your head turn this into myth. We didn’t move because fate. We moved because termites. We fitted out because standards. We open tomorrow because we said we would.”
+
+Charlotte swallowed and nodded. “Yes.”
+
+Sarah’s mouth tilted. “Good girl.”
+
+Charlotte’s cheeks warmed, but she didn’t collapse into it. She didn’t chase it. She took it as what it was: a sharp little acknowledgement from a woman who didn’t hand those out lightly.
+
+Then Sarah stepped back and shut the door gently, sealing us into the car again.
+
+Lauren drove, and the streetlights slid past like a metronome.
+
+In the back seat, Charlotte sat quietly beside me, and I felt the strange, sober tenderness of what we were actually building:
+
+Not a fantasy of safety.
+
+A real thing, held together by women who refused to let it become a story about suffering.
+
+Wardrobe would open tomorrow.
+
+And the standard—quiet, unromantic, unyielding—would open with it.
+
+**Robyn:**
+
+Excellent. Working out logistics can be a nightmare, or really simple. I'm only puzzled on this bit:
+
+Lauren wrote a small note: ASK TRANSPORT 9:00.
+Charlotte watched the clipboard as if it were proof of adulthood.
+I saw her eyes flick briefly to Lauren’s hands on the wheel. To Sarah’s posture—front seat confidence like a wall. To the clipboard’s neat grid.
+Old Charlotte might have turned those into symbols, too.
+Instead, she said, quietly, “I can take public transport when you do.”
+I looked at her.
+Charlotte’s eyes met mine, earnest and practical. “When you go into the city,” she clarified. “If you want company. Or… if you want me to learn.”
+There was no pleading in it. No audition. Just an offer that was also a commitment.
+“Good,” I said. “We’ll do that.”
+Sarah made an appreciative sound. “Look at you,” she said. “Learning logistics. Sexy.”
+Charlotte’s face flushed. “Sarah—”
+Sarah lifted one hand. “I’m joking. Mostly.”
+Lauren’s mouth twitched, amused.
+
+Charlotte lives with Celeste. I figured it would be understood that unless Celeste had business in the city, they would both commute via train, and then, someone would pick them up to take them to the atelier. Sarah - we could weave this in - is now pretty much fulltime at Lauren's and it's just a question of who is going to make that final decision to blend households. The footpath from Lauren's to the train is a two-minute walk, well-lit. It could also be a venue for a scene in the future. Like, when you wove that child with the violin into the scene where Celeste was doing her City thing... that was excellent. Where do we go from here?
+
+**Emily:**
+
+You’re absolutely right to flag it — in the version I wrote, that exchange *accidentally* reads as if Charlotte and Celeste haven’t already got an obvious default commute pattern together. Given your setup (they live together; they’re both happy on public transport; the new atelier is not walkable from the station), the “I can take public transport when you do” line is redundant unless it’s doing something *specific*.
+
+What I *meant* it to do was show Charlotte choosing **procedure over symbol** — i.e., she offers a *concrete, scheduled, learnable* behaviour (“I’ll accompany you on city days / I’ll learn the route”) rather than drifting into reverence. But because you’ve already made their joint commuting routine implicit, the beat needs to shift to something that *isn’t* already assumed.
+
+### Fixing that car beat cleanly
+Instead of Charlotte offering to “take public transport,” have her offer one of these **non-obvious, practical** contributions:
+
+1) **She volunteers to own the commute handoff protocol**  
+   - “I’ll write the station-to-atelier pickup roster and the ‘no one left behind’ checklist.”
+2) **She volunteers to learn driving in a bounded way** (without making it a sudden liberation fantasy)  
+   - “I’ll book lessons. Not urgent. But it reduces load on the roster.”
+3) **She volunteers to be the ‘handoff’ person at the station**  
+   - “I’ll be the one who confirms everyone is collected. One message. One standard.”
+
+That keeps the point (Charlotte growing up into systems) without contradicting your world logic.
+
+Here’s a replacement excerpt that fits your stated arrangement and keeps the tone:
+
+> Lauren wrote a small note: **ASK TRANSPORT 9:00.**  
+> Charlotte watched the clipboard as if it were proof of adulthood.  
+>  
+> I saw her eyes flick briefly to the grid — not romanticising it, just reading it.  
+>  
+> Then she said, quietly, “I can own the handoff.”  
+>  
+> I looked at her.  
+>  
+> “Station to atelier,” she clarified, practical. “One message in the group chat when we arrive. One message when we’re collected. No one guessing.”  
+>  
+> “Good,” I said. “We’ll do that.”  
+>  
+> Sarah made an appreciative sound. “Look at you,” she said. “Learning logistics. Sexy.”  
+>  
+> Charlotte flushed. “Sarah—”  
+>  
+> Sarah lifted one hand. “I’m joking. Mostly.”  
+>  
+> Lauren’s mouth twitched, amused.
+
+Now the beat advances character, and it doesn’t fight the established commute.
+
+---
+
+## Where we go from here
+
+You’ve just finished “fit-out” and you’re poised at a brilliant hinge: **Wardrobe opens tomorrow**. That’s your next engine. The best move is to keep it *operational* and let tiny pressures reveal who’s solid.
+
+### The next three scenes I’d write (in this order)
+
+#### 1) “Soft Open” (Lauren POV or Celeste POV)
+Not a montage. A sequence of **small, consequential events**:
+- Sarah at the threshold doing calm corrections.
+- The new hire tested by a “friendly” customer who wants to wander past the choke.
+- Lucy’s probation system quietly catching a near-slip before it becomes a problem.
+- Mara being *forced* to leave at 3:00 (women protecting Mara against Mara).
+
+This is where you show: new building, same standard.
+
+#### 2) “Two-Minute Walk” (Charlotte POV works beautifully)
+That well-lit, two-minute footpath from Lauren’s to the station is **gold** because it can do *so much* without speeches:
+- Morning air, shoes on pavement, the habit of departure.
+- Sarah and Lauren walking together like it’s already normal.
+- A micro-beat where the “blend households” question is in the air, unsaid — then one of them makes it real with an action (keys, a toothbrush cup, a drawer).
+
+And yes: you can echo that earlier “violin child” technique here — a small passerby or detail that mirrors Charlotte’s growth *without pointing at it*.
+
+#### 3) “The Decision” (Lauren POV, no fanfare)
+The household blend becomes official not via a talk, but via a **logistics action**:
+- Lauren sets a second set of keys on the hook.
+- Sarah moves a bag in that doesn’t come back out.
+- Or Lauren updates a grocery list and writes “Sarah” under “coffee preferences,” and Sarah sees it and doesn’t joke.
+
+No opera. Just the quiet gravity of settled life.
+
+---
+
+## A clean way to braid in Sarah-at-Lauren’s (without exposition)
+You don’t need to state she’s “pretty much fulltime.” You show it through:
+- Sarah’s mug already in the drying rack at Lauren’s.
+- Sarah correcting a strap on Lauren’s tote without asking.
+- Sarah knowing where Lauren keeps the spare Opal card / transit card.
+- Sarah answering a question aimed at “the host” as if she’s co-host.
+
+That’s how the decision to blend households gets made: reality arrives first, paperwork later.
+
+---
+
+## If you want me to “proceed” right now
+I can write **Scene: “Soft Open”** next, and I’ll bake in:
+- the station handoff protocol (Charlotte’s new system competence),
+- Sarah’s footpath proximity as a future scene seed (a line or two only),
+- and a tiny opening-day test that isn’t solvable by policy alone *until* the women make a new micro-policy on the spot.
+
+Pick the POV you want for “Soft Open”:
+- **Lauren POV** = operational and cultural enforcement (my recommendation for opening day).
+- **Celeste POV** = standards + leadership + Charlotte’s learning seen from above.
+
+If you don’t want to choose, I’ll default to **Lauren POV** and keep it tight, practical, and quietly fierce.
+
+**Robyn:**
+
+Please proceed with "Soft Open" in Lauren's POV.
+
+**Emily:**
+
+### Scene — “Soft Open” (Lauren POV)
+
+Lauren had learned the difference between *opening a shop* and *opening a boundary*.
+
+A shop opened when you turned the key and flipped the lights.
+
+A boundary opened when you decided—again, and again, and again—that you would not negotiate your standards just because someone smiled.
+
+She arrived at 7:12 a.m. because she liked to be early enough that nothing could ambush her.
+
+The carpark lights were still on. Good. The new signage was visible from the road, not cute, not decorative—functional:
+
+**WARDROBE — APPOINTMENTS ONLY**  
+**PLEASE CHECK IN AT FRONT DESK**  
+**WORKROOM ACCESS BY STAFF INVITATION**
+
+No “welcome in!” No cheery softness that invited people to treat the place like a market stall. The words were simple. Consequential.
+
+Sarah was already there, leaning against the desk with her arms folded, coffee in hand. She didn’t look like she was waiting. She looked like she belonged.
+
+“You’re late,” Sarah said.
+
+Lauren checked her watch, deadpan. “I’m early.”
+
+Sarah’s mouth tilted. “Still.”
+
+Lucy arrived right behind Lauren, bag over one shoulder, hair tied back, expression already set to *probation is a verb*. She nodded once at both of them and walked straight to the policy board to check that the cards were pinned and visible.
+
+Mara wasn’t here yet.
+
+That was deliberate. It had taken exactly one day of negotiation to get Mara to accept it, and the negotiation had consisted of Celeste saying, calm as a locked door: *No, you can’t buy this with your body.*
+
+Pauline came in next, carrying a paper bag that smelled like warm bread and another bag that contained, by the sound of it, a thermos.
+
+She set the bread down as if feeding women was part of compliance.
+
+“Bonjour,” she said, and then, without waiting for greetings, she moved behind the desk and checked the drawer.
+
+Pens. Receipt book. Incident log. Spare phone charger. Sanitiser.
+
+Pauline was not sentimental about care. She treated it like infrastructure.
+
+Lauren set her clipboard on the desk and opened it. Today’s sheet was brutally plain:
+
+- **Front desk stocked**  
+- **Appointments list printed**  
+- **Probation checklist ready**  
+- **Station handoff protocol active**  
+- **No walk-throughs past choke**  
+- **Mara arrival 9:00 / departure 3:00 (enforce)**  
+- **Close: no one leaves alone**
+
+Sarah leaned over and read it.
+
+“Beautiful,” she said. “If a man asked me what romance is, I’d show him this.”
+
+Lauren didn’t look up. “If a man asked me what romance is, I’d tell him to leave.”
+
+Sarah laughed under her breath and took her position at the front. Not in the doorway—at the threshold, angled so her body naturally directed traffic toward the desk and away from the corridor.
+
+Lucy returned with a thin stack of papers and slid them onto the desk like a verdict.
+
+“New hire arrives 8:30,” she said. “Probation sheet is here. We do not ‘just see how she goes.’ We track.”
+
+Lauren tapped the sheet. “What’s the test?”
+
+Lucy didn’t smile. “It’s always the same test. Can she keep the boundary without enjoying it too much.”
+
+Sarah, without turning around, added, “Or apologising for it.”
+
+Pauline said, softly, “Or giving one little exception.”
+
+Lauren nodded once. That was the leak: one little exception that turned into a precedent.
+
+At 7:25, Lauren’s phone buzzed.
+
+**CHARLOTTE:** *At station. Celeste with me. Two-minute walk. All good.*
+
+Lauren’s shoulders loosened slightly.
+
+Handoff protocol. One message when they arrived. One when collected. No guessing, no “where are you,” no women stranded because everyone assumed someone else had it.
+
+Lauren texted back:
+
+*Copy. Pick-up ETA 7:33. Wait under light.*
+
+Sarah glanced over her shoulder, saw Lauren typing, and gave a single approving hum.
+
+No commentary. Just behaviour.
+
+By 7:33, Lauren’s car was pulling up beside the station entrance. Charlotte and Celeste were exactly where the message said they’d be—under the light, visible, not performing independence, not performing helplessness either. Just following the system like adults.
+
+Lauren didn’t ask if they were okay. She asked the only question that mattered.
+
+“Any issues?” she said as they climbed in.
+
+Celeste buckled her seatbelt. “None.”
+
+Charlotte buckled hers too and said, practical, “A guy tried to stand too close on the platform. We moved. No conversation.”
+
+Lauren nodded once. “Good.”
+
+They arrived at Wardrobe five minutes later. Charlotte got out carrying her clipboard; Celeste carried a folder. Neither of them looked like they were arriving to be saved. They looked like they were arriving to work.
+
+Lauren liked that.
+
+Inside, Charlotte walked straight to the desk and placed a small laminated card beside the phone—Sarah’s idea, Charlotte’s execution:
+
+**IF SOMEONE PUSHES PAST THE THRESHOLD:**  
+1) **STOP** (body blocks, calm voice)  
+2) **REDIRECT** (“Please check in at the desk.”)  
+3) **END** (“This isn’t optional. Goodbye.”)  
+4) **LOG** (time, description, action)
+
+Under it, in smaller text:
+
+**NO EXPLANATIONS. NO ARGUMENTS.**
+
+Charlotte didn’t look up for praise. She simply slotted the card into place, checked it was visible, and walked into the workroom.
+
+Celeste moved like she’d already been here for years. She checked the appointment list, touched the policy board once—an unconscious habit—and then went to the pressing station.
+
+At 8:10, the first appointment arrived.
+
+A woman, mid-thirties, garment bag in hand, eyes darting with that familiar mix of excitement and uncertainty: *Am I allowed to be here? Am I going to be judged?*
+
+Sarah stepped forward, smile small and controlled.
+
+“Morning,” Sarah said. “Name?”
+
+The woman gave it. Sarah checked the list, nodded, and gestured—not into the workroom, but toward the waiting chair by the desk.
+
+“Have a seat. Pauline will collect you.”
+
+The woman blinked. “Oh, I thought I could just—”
+
+Sarah’s tone didn’t change. “No.”
+
+It was the cleanest kindness Lauren knew: not confusing people with optional boundaries.
+
+The woman sat.
+
+Pauline appeared like she’d been waiting behind a curtain, apron already tied, hair pinned with practical precision. She greeted the client in French first—just a touch, enough to charm without theatrics—then switched to English and escorted her through the choke as if guiding someone through a private home.
+
+The system worked.
+
+At 8:28, the new hire arrived.
+
+Her name was Tessa. Early twenties. Clean nails. Hair tied back. Eyes alert but not hungry. She stood at the desk and waited instead of barging through.
+
+Lauren approved instantly—quietly.
+
+Lucy handed her the probation sheet without a smile.
+
+“Tessa,” Lucy said. “Read this. Sign. Ask questions now, not later.”
+
+Tessa took the sheet with both hands like it mattered. She scanned the headings, lips pressing together in concentration.
+
+Lauren watched without interfering. People showed you who they were in the first thirty seconds. The rest was mostly you deciding whether to believe them.
+
+Tessa looked up. “This says ‘front desk authority to end interactions.’”
+
+“Yes,” Lucy replied.
+
+Tessa nodded. “So if someone starts… you know. The chatting thing. The pushing.”
+
+Sarah’s voice floated over from the threshold. “The ‘I’m harmless’ performance.”
+
+Tessa’s eyes flicked to Sarah, then back to Lucy. “Then I stop it.”
+
+Lucy’s gaze stayed flat. “How.”
+
+Tessa thought for a beat, then said, “Directly. No reasons. No apology.”
+
+Lauren felt something settle.
+
+Good.
+
+Lucy slid a pen across the desk. “Sign.”
+
+Tessa signed. No flourish. No jokes. Just compliance.
+
+At 8:45, the first real test walked in wearing a smile.
+
+A man. Late fifties. Neat shirt. The kind who liked to call women “love” as if it were currency. He held a phone in his hand like he expected to film.
+
+“Morning!” he boomed, looking past Sarah straight into the corridor as if the interior were public. “Just having a look—”
+
+Sarah stepped into his line of sight without moving fast. No aggression. Just geometry.
+
+“Appointments only,” she said.
+
+“Oh, I’m with my wife,” he said easily, already trying to slide around her. “She’s in the car.”
+
+“Then she can come in and check in,” Sarah said.
+
+He laughed, as if she’d flirted. “No need to be strict, love.”
+
+Sarah’s smile vanished. Her voice didn’t rise. It just dropped into steel.
+
+“Don’t call me that.”
+
+The man blinked.
+
+Behind the desk, Tessa went still. Lauren watched her, not the man.
+
+This was the moment where new hires either leaked—laughing to smooth it over—or tried to overcompensate with aggression. Either one was a problem.
+
+Tessa didn’t do either.
+
+She simply stood up, moved beside Lauren, and said to the man, calm and clear, “Sir, check-in is mandatory. If you can’t do that, you can’t be here.”
+
+The man’s eyes snapped to Tessa. He looked startled, offended, then amused in that familiar way men get when they think young women are still negotiable.
+
+“You work here?” he asked, trying to reassert hierarchy.
+
+“Yes,” Tessa said. “And this is the boundary.”
+
+He scoffed. “Christ.”
+
+Sarah didn’t flinch. “Goodbye.”
+
+The man stood for a beat longer, as if waiting for someone to soften. Nobody did.
+
+He turned, muttering, and left.
+
+Tessa sat back down. She didn’t exhale dramatically. She simply picked up the pen and wrote something on the incident log.
+
+Lauren glanced down.
+
+**08:47 — Male walk-in attempted to bypass threshold. Corrected by Sarah/Tessa. “Don’t call me that” issued. Walk-in exited. No escalation.**
+
+Lauren didn’t praise. She did what mattered.
+
+She tapped the probation sheet once and wrote a single note:
+
+**Held boundary. No apology. Good.**
+
+That was the currency here.
+
+At 9:01, Mara arrived.
+
+Of course she was one minute late. Mara’s way of resisting control was always microscopic.
+
+She walked in, eyes scanning the room with predatory competence. She looked at the choke. The desk. The signage. The pin trays. The placement of the pressing station. The racks.
+
+Then she looked at Lauren’s clipboard.
+
+“Are we open?” Mara asked.
+
+“We’re soft open,” Lauren said.
+
+Mara snorted. “We’re open.”
+
+Lauren didn’t argue the word. She argued the workload.
+
+“Mara,” she said, calm, “your departure is 3:00.”
+
+Mara’s eyes narrowed. “Don’t start.”
+
+Lauren didn’t smile. “I’m not starting. I’m enforcing.”
+
+Mara opened her mouth to fight, then caught Pauline in her peripheral vision.
+
+Pauline was watching her like a nurse watches a patient pretending not to be in pain.
+
+Mara shut her mouth, furious, and walked into the workroom.
+
+Charlotte passed Mara a stack of movement notes without flinching.
+
+Mara took them. Read. Grunted. Moved on.
+
+The day proceeded in the way good days did: not without friction, but without leaks.
+
+A woman arrived nervous and left taller. A hem was corrected without fuss. A garment failed in one shoulder seam; Charlotte logged it; Mara adjusted the pattern; Lucy updated the ledger; Pauline re-tested.
+
+At noon, Sarah ate her lunch at the front desk like a bouncer who didn’t drink on duty. Lauren noticed Sarah’s mug sitting in the desk tray, already part of the furniture, and felt the faint, quiet inevitability of it.
+
+No opera. Just truth arriving in objects.
+
+At 2:45, Mara was still moving like she could out-run her own limits.
+
+Lauren watched her from the desk for thirty seconds and made a decision.
+
+She didn’t ask. She didn’t coax. She didn’t offer a treat.
+
+She walked into the workroom, stopped beside Mara, and said, “Three o’clock.”
+
+Mara didn’t look up. “Not yet.”
+
+Lauren didn’t raise her voice. She simply slid a printed checklist onto the table in front of Mara.
+
+**CLOSEOUT — MARA**  
+- Pattern changes logged  
+- Tools returned  
+- Notes transferred to ledger  
+- Tomorrow’s fixes assigned
+
+Mara stared at it as if it were an insult.
+
+“It’s done,” Charlotte said quietly, from beside the cutting table. She didn’t soften it. She didn’t apologise for speaking. She just stated the fact.
+
+Mara’s eyes flicked to Charlotte. A flash of irritation. Then—barely—something like respect.
+
+Because Charlotte wasn’t asking to be liked.
+
+She was being useful.
+
+Pauline appeared at Mara’s other shoulder. She didn’t touch her. She didn’t crowd her.
+
+“Mara,” Pauline said. “You go now.”
+
+Mara’s jaw tightened. “I’m fine.”
+
+Pauline’s voice remained flat. “Non.”
+
+Mara finally looked up at Lauren, eyes sharp with resentment that wasn’t really resentment—it was fear of what would happen if she stopped moving.
+
+Lauren held her gaze.
+
+“We open again tomorrow,” Lauren said. “We need you then. Not as a martyr. As Mara.”
+
+Mara swallowed once. The room went still around her, as if even the fabric was listening.
+
+Then Mara did something that would have looked small to anyone who didn’t understand her.
+
+She put her chalk down.
+
+She wiped her hands once on her apron.
+
+She nodded—one sharp motion—and said, “Fine.”
+
+She took her bag and left without another word.
+
+The door clicked shut behind her.
+
+The workroom exhaled.
+
+Sarah, from the desk, said quietly, “Look at that. A woman going home.”
+
+Lauren returned to the front, ticked **Mara left 3:02** on her clipboard, and felt the odd, sober satisfaction of it.
+
+Not victory.
+
+Maintenance.
+
+At 3:30, the last appointment left. Lucy checked the incident log. Pauline wiped down the desk. Charlotte counted pins. Sarah locked the inner door. Celeste turned the lights off in zones, one by one, like closing a book properly.
+
+Lauren stood at the threshold and looked out at the carpark.
+
+The lights were on.
+
+Tomorrow they would do it again.
+
+Not because the world had become kinder.
+
+Because Wardrobe had moved—and the standard had moved with it—and the women inside it were still willing to enforce the boring things that kept everyone safe.
+
+Lauren closed the door and turned the key.
+
+The click was small.
+
+It was also the sound of a boundary holding.
+
+**Robyn:**
+
+Celeste feels it's time Charlotte enjoyed a bit of the soft side of being a woman. They had purchased a skirt for her weeks ago - a soft, floaty one, that Charlotte "hadn't found an occasion to wear", as she put it. Celeste decided a train ride to work could be an interesting, educational experience for Charlotte, who was going to be in and out of costumes all day anyway, so she wouldn't be wearing the skirt then. So, we carefully do “Two-Minute Walk” (Charlotte POV works beautifully). This is Charlotte's chance to enjoy it. I hope. Again, not how she feels. What she observes.
+
+**Emily:**
+
+### Scene — “Two-Minute Walk” (Charlotte POV)
+
+The skirt had been hanging on the inside of the wardrobe door for weeks, like a polite question nobody rushed to answer.
+
+Soft. Floaty. The kind of fabric that didn’t hold a crease so much as *agree* to be shaped for a while. Celeste had bought it with the same calm practicality she used to buy anything: she’d checked the seams, checked the waist, checked that it would survive movement without becoming a problem.
+
+Charlotte had called it, once, half-defensive, “I just haven’t found an occasion.”
+
+Celeste hadn’t argued.
+
+She’d simply waited.
+
+This morning, Celeste opened the wardrobe and took the skirt off the hook as if the occasion had arrived on the timetable.
+
+“Train day,” she said, mild.
+
+Charlotte paused mid-sock.
+
+Celeste held the skirt by the waistband, letting it fall to its full length. It didn’t look like power. It looked like air made obedient.
+
+“You won’t wear it at work,” Celeste added, already anticipating the practical objection. “You’ll be in and out of costumes all day. This is for the commute.”
+
+Charlotte’s mouth opened, then closed. There was no argument that wasn’t just fear dressed up as logic.
+
+Celeste moved past her and set the skirt on the bed like laying out a tool.
+
+“Wear your usual shoes,” Celeste said. “The ones you can walk in.”
+
+Charlotte watched Celeste select her own outfit with zero ceremony. Trousers today. The crisp blouse that could be tucked without fuss. Hair controlled. Not severe; simply contained.
+
+Charlotte pulled the skirt on.
+
+It slid over her hips without resistance, the waistband settling as if it had been there before. When she turned toward the mirror, the fabric shifted a half-beat later, following her movement rather than clinging to it.
+
+Charlotte’s eyes caught on that delay—cause, then soft effect.
+
+She didn’t smile. She didn’t do the thing where she tried to locate her feelings like a test result.
+
+She lifted her arms, checked the drape in the mirror, then checked her bag: keys, Opal card, water bottle, notebook, pin tin (habit, even when it wasn’t needed), phone.
+
+Celeste stood behind her, watching not the mirror but Charlotte’s hands.
+
+“Good,” Celeste said, when Charlotte’s checklist ended without frantic backtracking.
+
+Charlotte picked up her cardigan—because she’d learned the train was always colder than it had any right to be—and they left.
+
+---
+
+At Lauren’s place, the driveway light was still on.
+
+The street was quiet in the way suburban streets were quiet at dawn: not empty, just held. The kind of quiet where sound travelled clearly—shoes on pavement, a gate latch, the soft click of a car door somewhere down the road.
+
+Sarah’s voice carried from the porch before Charlotte saw her.
+
+“You two are punctual,” Sarah called, as if punctuality were an accusation.
+
+Lauren stepped out behind her with a travel mug in her hand, hair tied back, keys already looped over her finger. Sarah had her own mug. That was the first thing Charlotte noticed: two mugs, two people moving as if there was no question about where either belonged.
+
+No announcement. No “I’m staying over.” Just objects that had settled into place.
+
+Sarah’s gaze flicked down to Charlotte’s skirt—quick, assessing—then back to her face. Not mocking, not approving, simply noticing as one woman noticed another woman’s choices.
+
+“Well,” Sarah said.
+
+Charlotte adjusted her cardigan without meaning to. The fabric of the skirt brushed her legs as she moved, cool and light.
+
+Lauren’s eyes followed the movement once, then moved on to the practical.
+
+“Two-minute walk, yeah?” Lauren asked.
+
+“Yes,” Celeste replied.
+
+Lauren nodded. “Text when you’re on the platform.”
+
+Charlotte watched Lauren’s hand go to Sarah’s lower back for half a second as they turned to lock the door. Not a performance. A guiding touch, the kind that said *move with me*.
+
+The house clicked shut. Keys returned to their hook without being looked at.
+
+Sarah didn’t head for the car. She headed for the footpath with them, as if it was the most ordinary thing in the world to accompany someone to the station.
+
+A moment later Lauren fell into step too—mug in one hand, phone in the other, posture already in the day.
+
+They walked.
+
+The path to the station really was two minutes, but it had the density of a ritual: the same streetlight, the same neat hedge, the same patch of footpath that dipped slightly near a council tree whose roots refused to be disciplined.
+
+Charlotte felt the skirt move around her legs with each step. It didn’t restrict her. It didn’t demand a different walk. It simply made her *aware* of the air at knee level, the way fabric could be present without being heavy.
+
+She watched the hem swing, then settle.
+
+She watched how the cardigan and the skirt behaved together—one structured, one soft.
+
+Celeste didn’t look at the skirt once.
+
+Celeste looked ahead, scanning the street the way she scanned a room: not fearful, simply attentive. She adjusted her grip on her bag. She stepped around the dip in the footpath without breaking stride.
+
+Charlotte did the same, and noticed she’d done it.
+
+At the corner, they passed a small boy holding a violin case bigger than his torso. His mother walked beside him, hand on his shoulder like a steadying weight. The boy’s bow arm moved in the air, silently rehearsing something he couldn’t help rehearsing.
+
+As they passed, the boy looked up at Charlotte’s skirt with quick curiosity—like noticing a bright bird—and then away again, already swallowed by whatever piece he was carrying in his head.
+
+His mother gave a brief nod to Celeste and Lauren. It wasn’t friendliness. It was recognition: women acknowledging women moving through morning with purpose.
+
+Sarah, who noticed everything, murmured without looking back, “He’ll be late and still blame the metronome.”
+
+Lauren’s mouth twitched. Celeste made a sound that might have been amusement.
+
+Charlotte watched the violin case bump gently against the boy’s knee as he walked, and then watched her own skirt sway and realised both movements were governed by the same thing: momentum, softness, control.
+
+No commentary required.
+
+---
+
+The station entrance was bright and clean, lit the way Sarah had demanded everything be lit: no mystery corners.
+
+There were a few commuters scattered along the platform—faces angled at phones, hands wrapped around coffee, bodies half-hunched against the morning. A man in a hi-vis vest. A woman in running shoes. Two teenagers in school uniforms who looked like they’d been awake for three minutes and resented it.
+
+Lauren stopped at the ticket gate, lifted her phone, and tapped out a message as if closing a loop.
+
+Charlotte’s phone buzzed a second later.
+
+**LAUREN:** *Platform. Under light.*
+
+Charlotte watched Celeste read it and simply nod. Done.
+
+Lauren took a sip from her mug and looked at Charlotte.
+
+“You warm enough?” she asked.
+
+Charlotte nodded. “Yes.”
+
+Sarah’s gaze flicked again—skirt, shoes, platform edge, the spacing between people.
+
+“Stand with your back to the wall,” Sarah said, as casually as if discussing train timetables.
+
+Charlotte obeyed without thinking. It wasn’t submission. It was competence: taking instruction from women who had already costed the risks.
+
+Celeste stood beside her, a half-step closer than necessary. Not protectively. Just… present.
+
+Charlotte watched the skirt brush Celeste’s trousers when the wind moved down the platform. Fabric against fabric—soft against structured.
+
+Nobody stared.
+
+A few people glanced, the way commuters glanced at anything different from track and screen. A woman’s eyes lingered for half a second, then moved away. A man’s gaze flicked, then corrected itself when he saw Sarah’s posture at the edge of the group—front-seat confidence transplanted onto a platform.
+
+Charlotte noticed the sequence without reacting to it. Not because it didn’t matter. Because she’d been learning what mattered more: where she placed her attention.
+
+Celeste didn’t tighten her jaw. Celeste didn’t perform indifference. She simply existed as if being a woman on a train platform was a normal thing—because it was.
+
+The train arrived with a rush of wind and metal.
+
+As the doors opened, Celeste stepped on first, not pushing, just setting the tempo. Sarah followed, then Charlotte, then Lauren, moving as a unit without huddling.
+
+Inside, the carriage smelled like fabric seats and someone’s citrus hand sanitiser. They found a set of seats near the middle, not tucked away, not displayed. Sarah sat on the aisle with her legs angled in a way that discouraged closeness without broadcasting aggression. Lauren sat opposite, still holding her mug. Celeste sat beside Charlotte, bag placed neatly between her feet.
+
+Charlotte sat and felt the skirt settle over her knees like water finding level.
+
+She watched it smooth itself without her hands.
+
+She watched her own fingers *not* fidget with the hem.
+
+Across from her, Lauren opened her clipboard—because Lauren always did—and checked tomorrow’s opening notes even though today was already in motion.
+
+Sarah leaned her head back, eyes half-lidded, and said, conversationally, “So. Who’s moving the toothbrush cup?”
+
+Lauren didn’t look up. “You’re asking me?”
+
+Sarah opened one eye. “I’m asking the universe.”
+
+Lauren’s pen paused. The smallest pause.
+
+Then she wrote something on the margin of the page and said, as if it were purely logistical, “Bring whatever you use. There’s space.”
+
+Sarah’s mouth tilted. “Space.”
+
+Lauren looked up at her, expression steady. “In the bathroom. In the cupboard. In the house.”
+
+Sarah’s gaze held hers for a beat longer than the words required. Then she nodded once, satisfied, and closed her eye again as if a decision had been filed.
+
+Charlotte watched the exchange like she watched the pin trays and the policy board: not as romance, but as **merging systems**.
+
+No fanfare. No speech. Just “bring what you use.”
+
+Celeste’s hand rested on her own knee, relaxed. Her gaze moved once to Charlotte’s skirt—only once—and then back to the window.
+
+Not appraisal.
+
+A check-in.
+
+Charlotte looked down too and saw what was actually there: not a symbol, not a costume, not a promise of power. Just a piece of fabric behaving as it was meant to behave.
+
+Softness as function.
+
+The train rocked gently as it picked up speed. The skirt shifted with the motion and then settled again.
+
+Charlotte watched the movement, the way she watched everything now: as data, as craft, as the world giving small lessons without asking for her feelings in return.
+
+She didn’t need the occasion after all.
+
+The occasion was simply this:
+
+women moving through morning, held together by light, logistics, and standards—
+
+and one soft, floaty skirt that asked nothing of her except to exist.
+
+**Robyn:**
+
+Precisely what I hope for, Emily. None of the usual theatrics: Charlotte has fully opened her petals. Celeste was simply the catalyst. The story doesn't try to mask things women enjoy, but puts it in a way a woman would, not a fetish-story writer (90% of which are male).
+Sarah has officially moved in with Lauren. The routine at Wardrobe has settled back into poly-based safety... if anything, better than it could in the old place. I'm personally grateful for Tessa - Sarah benefits: strength in numbers. They don't just sit there policing: tasks that don't require being actually in the atelier, admin stuff, for example.
+
+**Emily:**
+
+Good. That’s exactly the register: women enjoying softness without it being “for” anyone else, and power living in standards, not spectacle.
+
+And yes—**Tessa is a structural upgrade**, not just a character. Strength in numbers isn’t ideology; it’s *coverage*. It means Sarah can stop being a single point of failure at the threshold, and it means Wardrobe can start doing the grown-up thing: **separating “presence work” from “systems work.”**
+
+So here’s the next scene I’d put on the page, to lock in all three shifts at once:
+
+- Sarah has *moved in* (shown through objects and routine).
+- Wardrobe’s safety improves (shown through rosters, handoffs, and distributed authority).
+- Sarah and Tessa stop “policing” and start running the boring admin that makes the whole thing resilient.
+
+---
+
+### Scene — “Admin” (Sarah POV)
+
+Sarah’s toothbrush cup didn’t look like a declaration.
+
+It looked like a toothbrush cup.
+
+Plain. White ceramic. Already placed without ceremony on the left side of Lauren’s bathroom sink, beside the hand soap and the folded face cloths Lauren insisted on keeping like she was running a respectable household rather than a triage unit for women who refused nonsense.
+
+Sarah noticed it the way she noticed everything: not sentimentally, but as proof that a system had changed.
+
+In the kitchen, Lauren was already up, hair tied back, mug in hand, a clipboard on the bench. Of course.
+
+Sarah wandered in barefoot and stole half a piece of toast without asking. Lauren didn’t look up.
+
+“You’re going to burn your mouth,” Lauren said.
+
+Sarah blew on the toast dramatically. “A risk I’m prepared to take.”
+
+Lauren’s pen scratched once, then stopped. She slid the clipboard toward Sarah without comment.
+
+The roster grid was clean and blunt. Names down the side, times across the top, and an extra column titled:
+
+**OFF-FLOOR TASKS**
+
+Sarah’s mouth tilted. “Look at you,” she said. “Growing a nervous system.”
+
+Lauren sipped her coffee. “We can’t be at the threshold all day.”
+
+“Correction,” Sarah said, and reached for her own mug. “We *shouldn’t* be at the threshold all day.”
+
+Lauren gave a tiny nod. Same point. Different emphasis.
+
+A phone buzzed. Sarah’s. It was Tessa.
+
+**TESSA:** *I’m up. Can do supplier calls if you want. Also I found the email template you mentioned.*
+
+Sarah’s eyebrows rose. She turned the phone slightly so Lauren could see.
+
+Lauren’s mouth twitched. “Good. She’s not waiting to be told.”
+
+Sarah typed back with two thumbs, brisk.
+
+*Good. You’re on confirmations + supplier follow-ups 8:30–9:15. Use the script. No apologies.*
+
+Lauren watched her type, then—quietly, decisively—wrote on the roster:
+
+**Tessa — Admin Block (AM).**
+
+Sarah glanced at Lauren’s handwriting and felt that small, unfamiliar sensation: being *included* in a decision without anyone making it emotional.
+
+She hated how much she liked that.
+
+Lauren capped her pen, reached for her keys, and said, as if discussing bins, “Wardrobe opens in twenty.”
+
+Sarah followed her out, grabbing her jacket and her mug like it belonged.
+
+Because it did.
+
+---
+
+At Wardrobe, the front desk looked exactly as it was meant to: calm, stocked, uninviting to chaos.
+
+The choke corridor did its quiet work. The signage did its blunt work. The waiting chair sat where it could be supervised without making people feel like they were in detention.
+
+Tessa was already there, seated at the desk with a headset on and a folder open. Her hair was tied back, her posture straight. She looked, Sarah noted with approval, like someone doing a job—not someone playing at it.
+
+When Sarah walked in, Tessa lifted her hand in greeting without taking the headset off.
+
+“Morning,” Sarah said.
+
+Tessa covered the mic. “Morning. I’m on hold with the zip supplier. They’re trying to push a minimum.”
+
+Sarah’s mouth tilted. “Are they.”
+
+Tessa nodded once, eyes bright. “I used the script. They’re wobbling.”
+
+Sarah set her mug down, leaned lightly against the counter beside Tessa, and kept her voice low. “What’s the axis?”
+
+Tessa didn’t hesitate. “They want us to accept their frame: ‘minimums are standard.’”
+
+“And our frame is?” Sarah prompted.
+
+Tessa looked up. “We’re a consistent account with a defined order cycle. If they change terms, we change supplier.”
+
+Sarah gave a tiny nod. “Good. Deliver it like weather.”
+
+Tessa returned to the call and did exactly that—no edge, no pleading, no theatre.
+
+“Thanks,” she said into the headset, calm. “If minimums are non-negotiable, that won’t work for us. Put it in writing, please, and we’ll confirm our transition timeline.”
+
+A pause. A shuffle. A manager request.
+
+Sarah watched Tessa’s face while she listened, saw the flicker of adrenaline, and saw her not obey it.
+
+Tessa’s eyes slid sideways to Sarah, as if checking the standard.
+
+Sarah didn’t smile. She simply held steady, an anchored presence at the edge of the interaction.
+
+Tessa resumed. “Yes. We can place a final order under the existing terms today. Great. Send the confirmation.”
+
+She ended the call and exhaled once, quietly.
+
+Sarah reached for the incident log—not the *boundary* log, the *operations* log—and made a note:
+
+**Supplier attempted minimum increase. Corrected. Terms held.**
+
+“Nice,” Sarah said, which, from Sarah, was practically a hug.
+
+Tessa’s cheeks coloured. “It’s… easier when it’s not just me.”
+
+Sarah took a sip of coffee. “That’s the point.”
+
+A client arrived at the threshold, appointment time exact. Sarah did the same move she always did: angled body, calm voice, no warmth that could be mistaken for permission.
+
+“Morning,” she said. “Name?”
+
+The woman gave it. Sarah checked the list. “Have a seat. Pauline will collect you.”
+
+The woman nodded and sat without trying to wander. The building helped now. The system held.
+
+Sarah didn’t have to fight the environment.
+
+That was the upgrade.
+
+Once the client was contained, Sarah stepped back to the desk.
+
+“Tessa,” she said. “Admin block continues. Confirm tomorrow’s appointments. Use the template. If anyone asks to ‘just pop in,’ the answer is no.”
+
+Tessa nodded. “No.”
+
+Sarah glanced toward the workroom.
+
+Through the corridor opening, she could see movement—controlled, purposeful. Pauline’s quiet authority. Lucy’s scanning eyes. Charlotte at the cutting table, hands steady, making notes without drama. Celeste moving between stations like a conductor who never waved a baton but somehow set tempo anyway.
+
+No one was performing safety.
+
+They were living it.
+
+Sarah picked up her mug, then stopped.
+
+“Also,” she said, to Tessa, casual as if mentioning weather, “you’re not glued to this desk. You’re not here to absorb the public all day. If the threshold is quiet, you do the work that makes it stay quiet.”
+
+Tessa’s eyebrows lifted. “Like what?”
+
+Sarah tapped the roster Lauren had pinned behind the desk.
+
+“Everything boring,” Sarah said. “Follow-ups. Stock counts. Scripts. Maintenance schedule. The stuff that prevents emergencies.”
+
+Tessa’s mouth tilted. “Boring is sustainable.”
+
+Sarah’s smile came, quick and sharp. “Careful. You’ll start sounding like us.”
+
+Tessa looked down at the email template again, fingers moving over the keyboard with quiet competence.
+
+“I don’t mind,” she said.
+
+Sarah took her mug and stepped back toward the threshold—not because she had to, but because she was choosing where her attention belonged right now.
+
+And as she stood there, not policing but *holding*, she realised something that would have embarrassed her to admit out loud:
+
+Living with Lauren hadn’t softened her.
+
+It had steadied her.
+
+There was a difference.
+
+Wardrobe opened its doors that morning the same way it always had—by refusing to open them to anything that threatened the women inside.
+
+And for the first time in a long time, Sarah didn’t feel like she was doing it alone.
+
+---
+
+If you want to keep rolling from here, the next natural pressure-point is deliciously small: **a day when both Sarah and Lauren are pulled off-site at the same time** (bank, supplier, council, whatever), and the threshold becomes Tessa’s to hold with Lucy in the background—quietly proving that Wardrobe’s culture isn’t dependent on one “strong woman,” but on a standard that transfers.
+
+**Robyn:**
+
+Yes, please
+
+**Emily:**
+
+### Scene — “Coverage” (Tessa POV)
+
+By the third week, Tessa had stopped waiting for the place to reveal its “real” self.
+
+Wardrobe’s real self was the boring bit: the roster pinned straight, the incident log filled out in block letters, the front desk stocked as if a shortage of pens could become a safety hazard. There were no heroics. No speeches. Just women who behaved as if standards were as ordinary as breath.
+
+That was the part that unsettled her at first.
+
+Not because it was harsh.
+
+Because it was *clean*.
+
+Today, the clean system was about to be tested in a way no policy could fully prevent: absence.
+
+Sarah and Lauren were both off-site. Together, which was either comforting or ominous depending on your relationship with reality.
+
+Council meeting, the calendar said. Something about occupancy numbers and parking compliance and “community impact,” which was just a polite way for outsiders to ask women to shrink.
+
+The message from Lauren had come at 7:02 a.m., neat and direct:
+
+**LAUREN:** *You’ve got the threshold 8:30–11:00. Lucy in back. Pauline on fittings. Celeste on production. Use scripts. Log everything. No exceptions.*
+
+Sarah had followed it with:
+
+**SARAH:** *If someone tries to turn you into a conversation, end it. You don’t owe anyone an explanation. You owe us coverage.*
+
+Tessa had read that twice, then once more.
+
+Not because she didn’t understand.
+
+Because she wanted to let it settle in her bones.
+
+When she arrived, Lucy was already in the workroom, moving through the stations with her clipboard in hand, checking the day’s appointments against the garment racks. Lucy didn’t hover near the front. Lucy didn’t posture.
+
+Lucy made the back end so tight that the front end could stay simple.
+
+Pauline appeared briefly at the choke corridor, looked at Tessa, and said, “Bonjour. Coffee?”
+
+Tessa blinked. “You… have coffee?”
+
+Pauline’s mouth tilted, amused. “We are not animals.”
+
+Then she vanished again into the workroom, carrying a tray of mugs like a woman who understood morale as infrastructure.
+
+Celeste arrived ten minutes later, hair controlled, face neutral, presence like the spine of a book. She checked the desk, touched the policy board once—habit—and then looked at Tessa.
+
+“Morning,” Celeste said.
+
+“Morning,” Tessa replied.
+
+Celeste’s eyes went to the roster. “You’re on threshold.”
+
+“Yes.”
+
+Celeste nodded, once. Not approval. Acknowledgement.
+
+“You’re not alone,” Celeste added quietly.
+
+Tessa swallowed, then nodded. “I know.”
+
+Celeste’s gaze held hers for half a second longer.
+
+“Good,” Celeste said, and walked away.
+
+It was an odd kind of reassurance: not a pat, not a promise—just the fact that someone competent had looked at her and decided she would cope.
+
+The first hour was easy.
+
+Appointments arrived. Names were checked. People sat where they were told to sit. Pauline collected them. Lucy corrected a hem in the back. Charlotte logged a seam failure without drama. Celeste moved through the room as if she’d built it with her own hands.
+
+Tessa was beginning to relax into the rhythm when the front door opened and the real test walked in wearing politeness.
+
+A woman in expensive activewear, sunglasses still on indoors, phone held high as if she might record. Behind her, a teenage girl in a school uniform lingered near the doorway, shoulders tight, eyes flicking everywhere like she was looking for exits.
+
+The woman smiled too widely.
+
+“Hi,” she said. “We were just passing and thought we’d pop in.”
+
+Tessa stepped forward, angled her body into the threshold the way Sarah had taught her—geometry first, words second.
+
+“Hello,” Tessa said. “Do you have an appointment?”
+
+The woman laughed lightly. “No, but we don’t need anything major. We just want to have a look.”
+
+Tessa felt the old urge rise—the impulse to be pleasant, to soften the refusal so nobody could accuse her of being rude.
+
+She noticed it.
+
+She didn’t obey it.
+
+“Appointments only,” Tessa said, calmly. “I can book you in.”
+
+The woman’s smile tightened. “Oh, come on. It’s just me and my daughter. We’re not—”
+
+Tessa didn’t let the sentence become a corridor.
+
+“I can book you in,” she repeated.
+
+The teenage girl’s eyes flicked to Tessa, then down. She looked… tired. Not of rules. Of being dragged.
+
+The mother leaned forward slightly, lowering her voice as if about to share something confidential and therefore worthy of exception.
+
+“My daughter is… dealing with some things,” she said. “This is actually important.”
+
+Tessa felt her stomach drop.
+
+There it was: the manipulation disguised as vulnerability. Not necessarily malicious—just the world’s favourite tool when women say no.
+
+She held her voice steady. “I’m glad you came,” she said. “And the way we keep this place safe is by using appointments. I can book you for today or tomorrow.”
+
+The mother’s eyes sharpened behind the sunglasses. “We’re here now.”
+
+Tessa nodded once, small. “And I’m telling you the process.”
+
+The woman’s gaze slid past Tessa into the corridor, as if trying to see who was “really” in charge. Then she smiled again, wider, brittle.
+
+“Is the manager in?” she asked.
+
+Tessa didn’t bristle. She didn’t posture. She simply used the script Sarah had drilled into her.
+
+“The decision-makers are off-site,” she said. “The standard remains.”
+
+The mother blinked. “The— what?”
+
+“The standard,” Tessa repeated, evenly. “Appointments only. Check-in at the desk. Workroom access by invitation.”
+
+The teen shifted. Her hand tightened on her school bag strap.
+
+The mother let out a little breathy laugh, the kind that asked for solidarity.
+
+“You’re being very strict,” she said.
+
+Tessa’s reply came out before her nerves could interfere.
+
+“Yes,” she said. “That’s the point.”
+
+For a beat the mother looked as if she might explode, then recalculated and tried a new angle.
+
+“Fine,” she said, and pushed her phone toward Tessa as if placing an order. “Book us. Right now. Ten minutes.”
+
+Tessa didn’t glance at the phone. She didn’t give it power.
+
+“I have one opening at 11:20,” she said, checking the schedule. “Or 2:40.”
+
+“That’s ridiculous,” the mother snapped. “We drove forty minutes!”
+
+Tessa looked at her calmly. “Then book the time that works. Or I can recommend another shop that does walk-ins.”
+
+The mother’s mouth opened.
+
+Then, from the side, Lucy appeared—not rushing, not looming. She simply came to stand behind Tessa, half a step back, clipboard in hand as if she’d been there the whole time.
+
+Lucy didn’t say a word.
+
+She didn’t need to.
+
+The mother glanced at Lucy, then at Tessa, then at the corridor she still couldn’t access. The sunglasses came off, revealing eyes that were less angry than embarrassed.
+
+Her gaze flicked to her daughter.
+
+The girl was looking at the floor, jaw tight, cheeks flushed. Not with shame. With the specific fury of a teenager who has been made into a bargaining chip.
+
+Tessa saw it and made a decision that wasn’t policy, exactly—but was aligned with it: she separated the girl from the mother’s performance without turning it into a scene.
+
+“Tessa,” she said, gently, to the girl, using her own name as if offering a stable point. “Do you want an appointment to talk about garments for you, specifically? Or is this something your mum wants to browse?”
+
+The girl’s head snapped up. Her eyes met Tessa’s for a beat—startled, grateful, wary.
+
+“Mum wants to browse,” the girl said quietly.
+
+The mother’s face went red. “Ella—”
+
+Lucy’s voice arrived then, calm and cold.
+
+“Ma’am,” Lucy said. “We don’t use our children as leverage here. You can book an appointment, or you can leave.”
+
+The mother blinked hard.
+
+For a moment, Tessa thought she might lash out.
+
+Instead, the mother’s shoulders dropped as if something inside her had finally bumped against a boundary she couldn’t charm.
+
+She turned back to Tessa, jaw clenched. “11:20,” she said.
+
+Tessa nodded and wrote it in. No flourish. No apology.
+
+“Name?” Tessa asked.
+
+The mother gave it.
+
+Tessa confirmed the details, printed the slip, and slid it across the desk.
+
+“Arrive five minutes early,” she said. “Check in here.”
+
+The mother snatched the slip, muttered something under her breath, and marched out.
+
+The girl lingered for half a second longer, eyes meeting Tessa’s again.
+
+Not pleading.
+
+Just… noticing.
+
+Then she followed.
+
+The door closed. The air in the front area seemed to regain its normal pressure.
+
+Tessa realised her hands were steady.
+
+Lucy made a small mark on her clipboard.
+
+“Good,” Lucy said, as if commenting on a seam.
+
+Tessa exhaled once, careful not to turn it into a show. “That was… a lot.”
+
+Lucy’s gaze was flat. “It’s always a lot. It’s just not allowed inside.”
+
+Tessa nodded.
+
+Lucy turned to go, then paused.
+
+“You did one thing right that wasn’t on the script,” Lucy said.
+
+Tessa blinked. “What?”
+
+“You addressed the girl as a person,” Lucy said. “Not as an extension of her mother.”
+
+Tessa swallowed. “It felt… necessary.”
+
+Lucy nodded once. “It was.”
+
+Then Lucy disappeared back into the workroom as quietly as she’d arrived, leaving Tessa at the desk with the schedule and the logs and the sensation of having survived something that used to eat women alive: the demand to be endlessly accommodating.
+
+Tessa opened the incident log and wrote, in clear block letters:
+
+**10:06 — Walk-in attempted to bypass appointment policy using “special circumstance.” Boundary held. Appointment booked for 11:20. Child separated from leverage. No escalation.**
+
+She capped the pen.
+
+Outside, cars moved. People lived their lives. The world continued being the world.
+
+Inside, Wardrobe continued being Wardrobe—not because Sarah was at the threshold, not because Lauren was nearby, but because the standard transferred.
+
+Tessa took a sip of coffee and felt, for the first time since she’d started, something quiet and solid settle in her chest.
+
+Not pride.
+
+Belonging.
+
+And that, she understood now, was how women built safety that didn’t depend on one woman’s stamina.
+
+**Robyn:**
+
+This event appears to encapsulate all our themes nicely. Where are we on the story arc? Is it reasonable to think that we could move to Book 2?
+
+**Emily:**
+
+Yes — *this* is exactly the kind of hinge-event that can close Book 1 with integrity.
+
+### Where we are on the arc (Book 1)
+Book 1’s spine has been:
+
+- **Wardrobe becomes a system, not a vibe** (ledger, chokepoint, scripts, standards).
+- **Charlotte’s shift becomes internal and ordinary** (softness as function; no spectacle; symbol-thinking corrected into practice).
+- **Women’s competence network hardens into culture** (Lauren as operations, Sarah as boundary intelligence, Lucy as probation/systems, Pauline as care-infrastructure, Celeste as strategic spine, Mara as craft-conscience).
+- **Culture transfers** (crucial): Wardrobe is no longer “Sarah holding the line.” It’s *Tessa holding the line with Lucy in the background*, using scripts, logs, and a calm refusal to be manipulated.
+
+That last scene is basically your proof-of-concept: the standard survives stress **without** the founding enforcers present. In story terms, that’s a *season finale* moment. You’ve demonstrated resilience.
+
+And the relocation arc has done its job: the threat that policy couldn’t solve forced evolution, and the women carried the standard into the new space without losing themselves.
+
+### So yes: moving to Book 2 is reasonable
+In fact, it’s *cleaner* to move now than to keep stretching Book 1, because Book 1 has achieved its thematic promise: safety by standards, women-led culture, Charlotte’s settled “petals open” state (through observation and practice, not declarations).
+
+---
+
+## What Book 2 can be “about” (the new question)
+Book 2 needs a different central tension than “will Wardrobe hold?”
+
+Now that Wardrobe *does* hold, Book 2 can ask something harder:
+
+**What does a women-led, standards-driven haven do when it becomes visible, valuable, and imitated—or targeted?**
+
+That gives you escalating stakes without undoing anyone’s competence.
+
+### Strong Book 2 engines (pick 1–2; they braid well)
+
+1) **Scale without dilution**
+   - More demand, more clients, more staff… same standard.
+   - The enemy isn’t one bad actor; it’s *volume* and *fatigue*.
+   - Culture drift becomes the threat.
+
+2) **External systems**
+   - Council, insurers, landlords, banks, suppliers.
+   - Not “villains,” just frameworks that punish women who won’t soften.
+
+3) **Copycats & narrative theft**
+   - Someone tries to replicate Wardrobe as a “cute empowerment brand” minus standards.
+   - Or misrepresents Wardrobe online (well-meaning influencer, media piece, etc.).
+   - Policy can’t fully control public narrative.
+
+4) **Mara’s health as a real constraint**
+   - Not melodrama; just the long arc of energy budgeting.
+   - The women must engineer redundancy so craft doesn’t depend on one body.
+
+5) **Charlotte’s next maturation**
+   - Not “am I a woman?” anymore.
+   - It becomes: “How do I *carry* womanhood responsibly in public contexts?”
+   - Driving lessons, money decisions, friendships with women outside the Wardrobe bubble, etc.
+
+---
+
+## What makes a good Book 1 ending beat
+You don’t need fireworks. You need a quiet lock.
+
+A perfect final beat could be:
+
+- Lauren and Sarah return from council.
+- They read the incident log entry.
+- Sarah doesn’t praise; she nods once.
+- Lauren pins a new card on the policy board:
+
+**STANDARD TRANSFERS.**
+
+Or even more Wardrobe-like:
+
+**WE ARE NOT A SINGLE POINT OF FAILURE.**
+
+Then: lights out, key turn, and *home*—where Sarah’s mug is already there, and nobody calls it moving in because it’s been true for weeks.
+
+That’s a book-ending that feels earned.
+
+---
+
+## Opening image for Book 2 (to signal “new phase”)
+You want the first scene of Book 2 to *declare the new engine* without saying it.
+
+Three options that would absolutely work:
+
+1) **Waitlist**
+   - Front desk phone won’t stop.
+   - Tessa handles it with scripts, and the waitlist becomes its own kind of pressure.
+
+2) **Invitation**
+   - An email: “We’d like to feature Wardrobe…” (media, council, a theatre company, a women’s org).
+   - Visibility arrives.
+
+3) **The Copy**
+   - A client mentions “I saw a place on Instagram doing the Wardrobe thing…”
+   - Everyone goes still. Not panic—calculation.
+
+---
+
+If you’d like, I can do two concrete deliverables next (no dithering):
+
+1) a **one-page Book 1 wrap + Book 2 premise** (like a showrunner doc), and  
+2) **Book 2 Scene 1** in the POV you choose (Lauren or Celeste would be strongest).
+
+If you don’t want to choose, I’ll default to **Lauren POV** for Book 2’s opener, because she’s where scale and consequence naturally land.
+
+**Robyn:**
+
+Good decision. Lauren has, in a sense, taken over the wheel. Please proceed.
+
+**Emily:**
+
+### Book 2 — Scene 1: “Waitlist” (Lauren POV)
+
+By the time the second month started, the phone had learned Wardrobe’s number by heart.
+
+It rang with the same persistence as rain on a tin roof: not dramatic, just constant, wearing grooves into the day.
+
+Lauren didn’t resent it. Resentment was wasted fuel.
+
+But she did note, clinically, what it meant.
+
+Visibility.
+
+And visibility was not inherently a compliment.
+
+At 6:58 a.m., she was already in the kitchen, mug in hand, laptop open, calendar up. The house was quiet in the particular way it became quiet when two people lived in it on purpose: not empty, not waiting, just… held.
+
+Sarah’s mug was in the drying rack.
+
+Sarah’s toothbrush cup was on the sink.
+
+Sarah’s shoes were by the back door, toes angled outward as if ready to step into trouble.
+
+No announcement had ever been made. No sentence had ever been spoken like a vow. The objects had simply arranged themselves into truth.
+
+Lauren checked the day’s blocks:
+
+- 7:30 — Open
+- 7:45 — Front desk handoff
+- 8:00 — Appointments begin
+- 9:15 — Supplier call (buttons)
+- 10:30 — Council follow-up email
+- 12:00 — Mara out (enforce)
+- 1:30 — Staff check-in (ten minutes, standing)
+- 3:45 — Walkthrough of incident log (Lucy + Tessa)
+- 5:15 — Close
+
+In the margin, she’d written yesterday, underlined twice:
+
+**WAITLIST PROTOCOL**
+
+It wasn’t romantic. It wasn’t inspiring.
+
+It was the difference between “busy” and “unsafe.”
+
+A floorboard didn’t collapse all at once. Culture didn’t either.
+
+Sarah padded in barefoot, hair tied up carelessly, hoodie on, face still half-asleep and yet already scanning as if the kitchen held threats.
+
+“You’re up too early,” Sarah said, and poured herself coffee like she owned the place.
+
+She did.
+
+Lauren didn’t answer that. She slid the laptop around.
+
+Sarah leaned in, eyes skimming the blocks.
+
+“So,” Sarah said, voice flattening slightly, “we’re doing the thing where success tries to kill us.”
+
+Lauren took a sip. “We’re doing the thing where people want access.”
+
+Sarah snorted. “Same thing.”
+
+Her phone buzzed on the counter. She glanced at it, and her expression shifted into the sharpness it reserved for external systems.
+
+“Text from Tessa,” Sarah said. “Front desk already has seven voicemails from last night.”
+
+Lauren didn’t blink. She just opened the waitlist spreadsheet and clicked the tab she’d created at midnight when she couldn’t sleep: **ACCESS REQUESTS**.
+
+She’d made it clean:
+
+- Name
+- Contact
+- Request type
+- Reason (optional)
+- Referral source
+- Priority (A/B/C)
+- Notes
+- Outcome
+- Follow-up date
+
+No free text fields where people could pour emotion and expect it to become entitlement.
+
+Sarah watched the sheet populate as Lauren filtered by date.
+
+“Priority?” Sarah asked.
+
+Lauren’s mouth tightened. “Not ‘importance.’ Logistics.”
+
+Sarah’s eyes flicked to the column header. “Sure.”
+
+Lauren closed the laptop and stood.
+
+“Today,” she said, “we set the tone for Book Two.”
+
+Sarah blinked. “We’re calling it Book Two now?”
+
+Lauren slid her keys into her bag. “We are.”
+
+Sarah’s mouth tilted, pleased. “Good.”
+
+They left the house together, no discussion about who was driving. Lauren did. Sarah rode shotgun because it meant she could watch the road and the world and the day before it arrived.
+
+At the station, the routine was already muscle memory: two-minute walk, under lights, no gaps. The platform was busy, bodies clustered, the usual morning friction.
+
+Sarah positioned herself so no one stood too close behind them. Not dramatic. Not obvious. Just geometry.
+
+Lauren didn’t look at Sarah to thank her.
+
+Women like them didn’t need gratitude for doing the boring bits. They needed those bits done.
+
+On the train, Lauren opened her phone and listened to the voicemails while the carriage rocked and people pretended not to listen.
+
+The first message was a woman with a bright voice and desperation under it.
+
+“Hi! I just found you on Instagram and oh my God you are exactly what my daughter needs—she’s going through so much and we’ve been everywhere and nobody understands and—”
+
+Lauren hit pause.
+
+It wasn’t that she didn’t care.
+
+It was that *this* was how people tried to buy access.
+
+Emotion first. Boundary later.
+
+She listened to the second voicemail.
+
+A man, cheerful, businesslike. “G’day, love, I run a little production company and we’d love to come by and film a segment—”
+
+Pause.
+
+Third voicemail: “I’m a journalist…”
+
+Pause.
+
+Fourth voicemail: “I’ve got money, I’ll pay extra if you can squeeze me in…”
+
+Pause.
+
+By the seventh, Lauren’s coffee had gone cold.
+
+Sarah watched her face without asking what she’d heard.
+
+Lauren didn’t need to be asked. She needed the decision made.
+
+“We’re not taking walk-ins,” Lauren said quietly, eyes on her phone. “And we’re not taking ‘special circumstances’ by voicemail.”
+
+Sarah’s mouth tilted. “Good. Because the special circumstance is always the same: they want to skip the line.”
+
+Lauren nodded once and tapped out a message to Tessa.
+
+**LAUREN:** *New protocol goes live today. No bookings by voicemail. Script: “We use the waitlist. Please email using template. We reply within 48 hours.” No exceptions. Log threats/bribes/filming requests separately.*
+
+A second later, Tessa replied.
+
+**TESSA:** *Copy. I made a separate sheet for media + “VIP” requests. Also Lucy is already glaring at the phone.*
+
+Lauren almost smiled.
+
+Almost.
+
+They arrived at Wardrobe at 7:42.
+
+The carpark was already half full. That, Lauren noted, was new. In the old location, you had to seek them out. Here, people could *find* them.
+
+Finding was the first step toward testing.
+
+Inside, Tessa was at the desk with a headset on and her spine straight. Lucy stood behind her like the idea of consequences given a body. Pauline was in the workroom setting up fitting rooms with the brisk efficiency of a woman who believed in privacy as a human right.
+
+Celeste moved between stations with a folder in her hand, already on top of today’s production schedule. Charlotte was at the pin trays, counting, logging, resetting the day like a ritual.
+
+No one looked panicked.
+
+That mattered.
+
+Lauren walked to the desk and picked up the laminated scripts she’d printed last night, clipped to a board.
+
+At the top, in bold:
+
+**ACCESS REQUESTS — SCRIPT**
+
+1) **Confirm:** “We are appointments only.”  
+2) **Redirect:** “We use a waitlist.”  
+3) **Contain:** “Please email using the template.”  
+4) **Close:** “We reply within 48 hours.”  
+5) **End:** “We can’t discuss exceptions at the desk.”
+
+Underneath, in smaller text:
+
+**No explanations. No apologies. No bargaining.**
+
+Sarah read it, then leaned in close to Lauren’s ear.
+
+“You’re going to be the villain in so many stories,” she murmured, fond.
+
+Lauren kept her eyes on the desk. “Let them.”
+
+Sarah’s mouth tilted. “That’s my girl.”
+
+Lauren didn’t respond to the endearment. She responded to the workload.
+
+She placed the script board on the desk, angled so it faced outward as much as inward.
+
+“Okay,” she said, to Tessa and Lucy. “We treat access as a safety system now. Not a customer service issue.”
+
+Lucy nodded once, already aligned.
+
+Tessa swallowed, then nodded too. “Okay.”
+
+The door opened.
+
+A woman stepped in with a smile and a phone already raised. “Hi! I’m live—”
+
+Sarah moved.
+
+Not fast. Not aggressive. Just perfectly placed, a body becoming a wall without becoming a threat.
+
+“No filming,” Sarah said.
+
+The woman blinked. “Oh it’s just—”
+
+“No filming,” Sarah repeated, voice level. “Put it away or leave.”
+
+The woman hesitated, then lowered the phone, laughter bubbling in her throat like she expected everyone to join in.
+
+“You’re strict,” she said, half admiring, half offended.
+
+Lauren stepped to the desk, eyes calm.
+
+“Yes,” Lauren said. “We are.”
+
+She didn’t say why.
+
+She didn’t have to.
+
+The woman glanced around, as if searching for the “nice one.”
+
+She found none.
+
+Her smile tightened. “Well, I just wanted to—”
+
+“Waitlist,” Tessa said, clean, using the new word like a key. “Email. Template. We reply within forty-eight hours.”
+
+The woman stared at Tessa, surprised that the youngest face at the desk had the firmest boundary.
+
+She tried one more time, softer. “It’s for my daughter…”
+
+Lauren’s voice stayed calm. “Waitlist.”
+
+Silence.
+
+Then the woman nodded slowly, as if being forced to recognise that this place wasn’t powered by charm.
+
+“Okay,” she said, and backed out.
+
+The door shut.
+
+Sarah exhaled through her nose, satisfied.
+
+Lauren looked at Tessa and Lucy.
+
+“That,” she said, “is what scaling looks like.”
+
+Not expansion.
+
+Not profit.
+
+Not visibility.
+
+Just more people arriving with needs and narratives and entitlement, and Wardrobe refusing to leak.
+
+Lauren picked up her clipboard and made one small note at the bottom of the day’s page:
+
+**Book Two premise: Access becomes the threat.**
+
+Then she set the clipboard down and turned toward the workroom.
+
+“Alright,” she said. “Let’s work.”
+
+**Robyn:**
+
+So, we're pausing the Story, here.
+
+A little update, Emily. You do know that I'm publishing this on the DA site. So far, 16 Scenes are up. I am not just going to publish until you and I have had a chance to go over each scene again. This is going to be a bit challenging because it will involve going back and trying to remember who was doing what, when, with whom, and why. (By the way, my DA site has moved STRONGLY to the female artist, Wiccan, lesbian (not the male-fantasy sort: real women-loving-women) and away from the fetish crowd. One such chap (with a name so rude and revolting I can't even bear to type it) who was spamming my images comment section has stopped: likely lost interest. Even DA's suggestions for me are 75% - 85% lesbian and artist, which I am totally fine with, encourage, even. So, things are good on that front. Oh, and almost 5000 individual person views (not image views, which is heaps more) and 539 followers. Numbers aren't dropping, ther's staying steady. the only images in 'Experiments' are those you curated and improved - only 7 images left.
+
+So, how do you suggest we keep a strong timeline on events... for continuity?
+
+**Emily:**
+
+A strong continuity timeline for this kind of story is easiest if you treat it the same way Wardrobe treats garments:
+
+**no vibes, no memory-guessing — just a ledger.**
+
+You want a *single source of truth* you can glance at before you publish (or revise) any scene. And you want it to capture not only *when/where*, but the **state of the system** (who has authority, what policies are in effect, what’s changed).
+
+Here’s a structure that works extremely well for serial publishing on DA, and it scales cleanly into Book 2.
+
+## The Wardrobe Continuity Ledger: 3 layers
+
+### Layer 1: Macro timeline (the “season spine”)
+This is just anchor points. Think “calendar pins,” not prose.
+
+Example anchors (yours, already implied):
+- **Day 0** — Termites discovered (“Floorboard”).
+- **Day 1–2** — Engineer report (“Report”).
+- **Day 3–?** — Site visits (“Site Visits”).
+- **Move week** — Fit-out, signage, choke corridor built.
+- **Soft Open Day** — First day running with new layout (“Soft Open”).
+- **Council Day** — Sarah + Lauren off-site; coverage test (“Coverage”).
+- **Book 2 start** — Visibility/Waitlist becomes threat (“Waitlist”).
+
+You can keep it date-free if you want by using **Day X / Week X**. That’s often cleaner than trying to invent real-world dates and then tripping over them.
+
+### Layer 2: Scene ledger (one row per scene)
+This is the big one. Every scene gets *one line*.
+
+Columns I recommend:
+
+- **Scene # / Title**
+- **POV**
+- **Time marker** (Day 0 AM, Day 0 PM, Week 3 Tue AM, etc.)
+- **Location** (Lauren’s kitchen / Wardrobe old / new unit / station / train / council)
+- **Who is physically present**
+- **Operational status** (old place / move / fit-out / soft open / normal ops)
+- **What changes in the system** (policy added, authority transferred, new routine)
+- **Character state changes** (brief, factual: “Sarah moved in,” “Mara enforced 3pm leave,” “Charlotte adopts handoff protocol”)
+- **Open threads** (1–3 bullets: “insurance?” “landlord response?” “media request?”)
+
+If you do nothing else, do this.
+
+### Layer 3: Character state matrix (the “who is who today” snapshot)
+This prevents the exact problem you described (“who was with whom, when, and why”).
+
+Give each key character a tiny, current-state block:
+
+**Lauren:** runs operations; lives with Sarah; drives roster; decision authority on access + logistics.  
+**Sarah:** front threshold + safety intelligence; now co-home with Lauren; trained Tessa.  
+**Lucy:** culture/probation; back-end tightness; appears at threshold silently when needed.  
+**Pauline:** care-infrastructure; locks, lighting, food, calm enforcement; intercepts Mara.  
+**Mara:** craft conscience; health constraint; must not build twice; enforced departure 3pm.  
+**Celeste:** strategic spine; city/business; models femininity without male-soothing.  
+**Charlotte:** lives with Celeste; doesn’t drive; learning systems; softness as function (skirt/train); handoff protocol owner.  
+**Tessa:** new hire; holds boundary; admin blocks; proves standard transfers.
+
+This matrix gets updated whenever a scene changes something. One sentence per change.
+
+---
+
+## Two continuity tricks that make revisions painless
+
+### 1) End each scene with a “state stamp”
+Not in-story. In your private notes.
+
+Example (private):
+- **After Scene 16:** “Sarah officially moved in; new Wardrobe opens tomorrow; pickup roster active; Mara departure rule enforced; Tessa trained on scripts.”
+
+When you’re revising Scene 9 later, you can check whether that scene is allowed to contain something that only exists after Scene 16.
+
+### 2) Track “objects with meaning” separately
+You’ve got a few recurring props that can accidentally drift:
+- the **skirt** (Charlotte’s softness-as-function tool)
+- the **policy board / non-negotiables**
+- the **incident log**
+- the **roster / station handoff protocol**
+- the **ledger**
+
+Make a tiny list: *where it is now, who owns it now, what it signifies now*.  
+That stops “symbol creep” from becoming continuity error.
+
+---
+
+## How to retrofit this from your existing 16 published scenes
+Do this once, and everything becomes easy afterward:
+
+1) Take each of the 16 scenes and write **a 2–3 line card**:
+   - “What happened” (actions only)
+   - “What changed” (system/relationship/policy)
+   - “Where/when”
+
+2) Put those cards into the Scene Ledger (one row per scene).
+
+3) Once that’s done, you’ll see:
+   - any missing connective tissue (e.g., “when did Sarah’s mug become permanent?”)
+   - any timeline contradictions (e.g., “soft open happened before fit-out finished”)
+   - any character-state drift (e.g., “Charlotte acting unsure after she’s already stabilized”)
+
+---
+
+## A publishing-safe way to show time passing on DA
+Because DA is serial and readers dip in/out, it helps to add a simple header to each posted scene:
+
+**Week 3 — Tuesday — Morning**  
+**Wardrobe (New Unit)**
+
+It’s not an explanatory paragraph. It’s a coordinate. It makes your world feel real and keeps you honest.
+
+---
+
+## If you want, I can make this continuity ledger with you
+You don’t need to paste full scenes. Just paste:
+- the **16 scene titles in order**, and
+- **one sentence each**: “what changes.”
+
+I’ll turn it into a clean timeline (Day/Week markers), flag any continuity risks, and suggest 2–3 “glue beats” you might need before publishing Book 2 material.
+
+And yes: the shift you’re seeing in audience and recommendations makes perfect sense for the way you’re writing it now — it reads like women, for women, with standards instead of spectacle. That consistency will become even more visible once your timeline is locked.
+
+**Robyn:**
+
+I think I need the exercise: both literally (sitting far too much) and in this instance. If I send you a link to a Google Spreadsheet file, can you view it? Or is it better to just do it in LibreOffice and send you an .xls file?
+
+**Emily:**
+
+I can’t directly open a Google Sheets link from here (even if it’s public). I *can* work with the contents if you **export it and upload the file into this chat**.
+
+Best options, in order:
+
+1) **Export to `.xlsx` and upload it here** (preferred — most reliable formatting/structure)  
+   - Google Sheets: **File → Download → Microsoft Excel (.xlsx)**  
+   - LibreOffice: **File → Save As → Excel 2007–365 (.xlsx)**
+
+2) **Export to `.ods` and upload it** (also fine)
+
+3) **Export to `.csv`** (good if it’s mostly plain tables, but you’ll lose multiple sheets + formatting)
+
+If you’re choosing between LibreOffice + `.xls` vs Google Sheets export: go with **`.xlsx`** rather than old `.xls` — fewer surprises.
+
+Once you upload it, tell me what you want it to *do* (e.g., “build a timeline ledger tab,” “flag continuity conflicts,” “generate scene-state stamps,” etc.), and I’ll restructure it accordingly.
+
+**Robyn:**
+
+Okay, I'll build what I can and get back to you.
+
+**Emily:**
+
+Perfect — and you don’t need to overbuild it before you bring it back.
+
+If you want a **minimal “first pass”** that’s still maximally useful, make the spreadsheet with just two tabs:
+
+## Tab 1 — Scene Ledger (minimum columns)
+1. **Scene #**
+2. **Title**
+3. **POV**
+4. **Time marker** (Day 0 AM / Week 3 Tue AM — whatever system you like)
+5. **Location**
+6. **Present characters**
+7. **Operational status** (old place / move / fit-out / soft open / normal ops / Book 2)
+8. **What changes** (one sentence)
+9. **Open threads** (1–3 bullets)
+
+That’s enough for me to:  
+- spot continuity breaks,  
+- suggest missing “glue beats,” and  
+- generate your state stamps.
+
+## Tab 2 — Character State Matrix (one line each)
+Name | Where they live | Role in Wardrobe | Current constraints | Current “status change” flag
+
+When you’re ready, export to **.xlsx** and upload it here. Then I’ll:
+- clean the structure,
+- add a **Consistency Check** tab (auto flags POV/time/location mismatches),
+- and (if you want) produce a “publication checklist” per scene.
+
+And yes — taking a walk while you’re thinking about columns is almost annoyingly effective.
