@@ -5690,9 +5690,18 @@ But you absolutely don’t *need* it—the scene already embodies that idea.
 
 So: **Yes to the tweak, yes to the title.**
 
-**Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000c6fc720995b6cbcdbf999a14', 'size_bytes': 1219833, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+
+
+
+
+
+
+
+
+<img src="/assets/images/chat/f999a14.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+**Robyn:**
 
 A "before-face-swap" image of Celeste brushing Charli's hair. ZiT is behaving: I'm impressed!
 

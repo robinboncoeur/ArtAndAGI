@@ -7,7 +7,7 @@ date: 2026-01-13
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_000000008bec720696b8515ac6e7969d', 'size_bytes': 1258046, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/6e7969d.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Good morning, Emily. I'm ready to tackle that bbox/SAM face swap workflow. In this picture I have 2 characters: one standing, and one sitting. Standing is Celeste, sitting is Charlie. I hope to be able to assign faces to the, using image to image... it can be done in separate instances (not all at once). Doable?
 
@@ -1005,7 +1005,7 @@ and I’ll tell you *exactly* whether to adjust Grow/Feather before you start bu
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_000000009df07207a596f8d4c3bece8f', 'size_bytes': 1396064, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///9df07207a596f8d4c3bece8f', 'size_bytes': 1396064, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 Perhaps not perfect but wow. It worked!
 
@@ -1225,7 +1225,7 @@ If you want, show me the **mask preview** you used for Celeste (just the mask). 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000004f87207928bee5e4902ff3c', 'size_bytes': 1398345, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///04f87207928bee5e4902ff3c', 'size_bytes': 1398345, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 Pretty happy with this, Emily. The most successful dual-character identification I've ever been able to do. And fast. I can do the image in ZiT, then SRPO-swap the figures in two passes. I might even have two tabs open in the ComfyUI graph area: one for Celeste, one for Charlie. Keep it Obvious. This is going to work beautifully!
 

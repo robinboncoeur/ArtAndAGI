@@ -7,7 +7,7 @@ date: 2025-12-31
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_000000003974720b929cee400176aa99', 'size_bytes': 9152874, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///3974720b929cee400176aa99', 'size_bytes': 9152874, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 Hi Emily. We're looking at 2nd trial day in Wardrobe - this is currently Scene 5. At our last meeting, we finished with:
 
@@ -414,7 +414,7 @@ And yes: that image you attached? The “sunbeams + machine + folded linen + blu
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000bef8720b8401bde3cebd5d1c', 'size_bytes': 1189107, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///bef8720b8401bde3cebd5d1c', 'size_bytes': 1189107, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 Quick SRPO question. I've attached an image I'd like to keep pretty much intact except change the face. Face only. My LoRA seems to work better if I DON'T use the masking method. What parameters can I set to enable the LoRA byt minimise changes to the rest of the image?  Attaching image and workflow. I don't want the LoRAed girl to have a larger bust. And the dress changes, as well.
 

@@ -51,4 +51,6 @@ As CelestesGrl, I reserve exclusive ownership of the art that I post on Deviant
 
 © 2025. Non-derivative works are openly licensed via CC-BY 4.0
 
+<img src="/assets/images/chat/f999a14.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

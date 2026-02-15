@@ -1974,7 +1974,7 @@ And so was I.
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_000000001a407209b56a0611b13f08c1', 'size_bytes': 18566563, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///1a407209b56a0611b13f08c1', 'size_bytes': 18566563, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 One tiny thing happens at work. The new costumes (see image) are much sought after by the Faire, the museum but also other clients are queueing up with orders. The museum came back with an issue on the "Nymph" line... so fixing, prototyping and testing recommences. Sharl wears the outfit (in the foreground) pretty much all day. And Sarah suggests he put his hair up, "in keeping with the outfit". He tried, fails, Celeste helps him. The dress seems to take on a more complete 'finish'  to it.
 

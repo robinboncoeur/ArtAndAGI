@@ -2497,7 +2497,7 @@ And Lauren, today, had proved she could be both mother and standard-bearer at th
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000cefc720798bdd6e2ae86fd49', 'size_bytes': 1184632, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment:///cefc720798bdd6e2ae86fd49', 'size_bytes': 1184632, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
 Now, Sharl is fairly well accept as a working woman among women. What makes this so powerful, for me, is like that anecdote I told you about a workmate expressing confusion that I should use the male change room. It's that powerful. I have created a picture of Sharl at this stage. Because, of course I have. And Sharl fits the scene perfectly, this way. What do you think?
 
@@ -2598,7 +2598,7 @@ If you want, I can also write a DA caption that matches this exact tension: *he 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_000000006bbc72078957eb6158131e4c', 'size_bytes': 1188543, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/8131e4c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 You're awesome. Testing your prompt now... despite saying long hair, he had a short haircut. Which was Definitely NOT Sharl. So I emphasised the long hair. Down his back, loose tendril (usually girls have hair like that). And I got...
 
@@ -2906,7 +2906,7 @@ If you paste one of your actual Turbo outputs where it “became a corset,” I 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000085347207a706cdd872dc008e', 'size_bytes': 1123621, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/2dc008e.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 You know what? I'm pretty happy with this. This is astonishing close to what I want, Emily!
 
@@ -2978,7 +2978,7 @@ If you want, tell me what the *next* shot is in your sequence (front view mirror
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000092872079ae20749cadfa81b', 'size_bytes': 1244161, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/adfa81b.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Well, I did try this...
 
@@ -3144,7 +3144,7 @@ If you paste the *result* you get from the tightened prompt, I’ll tell you exa
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000cfec7207b2698dc54b5f649a', 'size_bytes': 1260236, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/b5f649a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 
@@ -3221,7 +3221,7 @@ If you want, tell me which of these you care about most for the next iteration:
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000017207207b67df1381d2ba984', 'size_bytes': 1206459, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/d2ba984.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Getting closer. This is your prompt... all of these run laps around what I had before, Emily. Please, it Z-Image-Turbo... I just keep queueing...
 
@@ -3305,7 +3305,7 @@ If you want, paste the *exact prompt you queued for this* (even if it’s my lon
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000fcdc7207aa86419c067a2745', 'size_bytes': 1164159, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/67a2745.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 documentary photo, quiet sun-drenched atelier workroom, early morning golden hour, natural light
 front view of the same late-blooming 18-year-old youth, slim narrow shoulders, boyish face with faint freckles, no makeup, no jewelry
@@ -3387,7 +3387,7 @@ If you run another batch, show me the next best one and I’ll tell you whether 
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000f0747207975ac2db1a802ff3', 'size_bytes': 1166877, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/a802ff3.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Running it now. I haven't been using negative prompts at all... just added a CLIP text encode node and am using it now. The queue is almost done.... annnnnnnnnnnd..... oops.
 
@@ -3475,7 +3475,7 @@ Show me the next output after you add the menswear negatives — I’m pretty co
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000e7f072079f30440a063a7317', 'size_bytes': 1098351, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/63a7317.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 The negative and the positive are plug into their appropriate slots on the standard KSampler. I was using a ConditioningZeroOut node before - it is disabled. Her's the image... we seem to be drifting away a bit...
 
@@ -3584,7 +3584,7 @@ Run the short prompt once and show me the next best frame — we’ll get back t
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000cf7c72078bd496482885ad74', 'size_bytes': 1055826, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/885ad74.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 CFG is set to 1. Steps are high: 24 (high for z-image turbo)
 
@@ -3775,7 +3775,7 @@ If you run **CFG 1.35 @ 18 steps** with the short prompt and paste the best resu
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000004e471fab4472555529e77c0', 'size_bytes': 1145297, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/29e77c0.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I tried a CFG of 2.5. You're right: obedience is amazing You can see the sneakers at the bottom of the picture and the dress is shaped more or less correctly (skirt is a bit short, perhaps?) but the material... well, you can judge for yourself.
 
@@ -3860,7 +3860,7 @@ If you paste the exact positive + negative you used for this run (even roughly),
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000457471fab073b8b422d25b7c', 'size_bytes': 1067541, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/2d25b7c.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 
@@ -3939,7 +3939,7 @@ If you do one run with “NO straps / NO bib front” in negatives, I’m very c
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000a7d071fa9726349e000f08a1', 'size_bytes': 1055745, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/00f08a1.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Running it now with your suggested pos and neg ... I'm using CFG: 1.6 and Steps: 12 just to get results faster. Is that the right length for the skirt bit?
 
@@ -4004,7 +4004,7 @@ If you paste your exact current pos/neg (the one you just used), I’ll return i
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000087ec71fa932b5a4be7bfeb31', 'size_bytes': 1034914, 'width': 1024, 'height': 1024, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/7bfeb31.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Seems to handle CFG of 2.2 just fine. Added ankle length twice to the prompt. 
 

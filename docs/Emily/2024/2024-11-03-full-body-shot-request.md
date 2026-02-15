@@ -16,15 +16,12 @@ full body shot of a (tall:1.5) pretty young woman with long curly dark hair wear
   "size": "1024x1792"
 }
 
-**tool:**
+<img src="/assets/images/chat/0bea476.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-rG2Jxagi9u2JXHnTDAEMYy6c', 'size_bytes': 347386, 'width': 1024, 'height': 1792, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'McF9E7PR6VePf4w0', 'prompt': 'A full-body shot of a tall young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public bathroom. She is smiling warmly. Next to her is a shorter youth with long straight hair wearing dark trousers and a white shirt, looking worried. The setting is a clean, modern public bathroom with tiled walls and sinks visible in the background. The image captures the scene with hyper-realistic detail, ultra-sharp focus, rich textures, and natural skin tones. The lighting is soft and cinematic, creating a highly detailed and photographic-quality image.', 'seed': 3778697652, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/dfd223d.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-9cuRDjHLKeGUA4Dr577pN3jJ', 'size_bytes': 392196, 'width': 1024, 'height': 1792, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'dO1QW0C3prHqhqTg', 'prompt': 'A full-body shot of a tall young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public bathroom. She is smiling warmly. Next to her is a shorter youth with long straight hair wearing dark trousers and a white shirt, looking worried. The setting is a clean, modern public bathroom with tiled walls and sinks visible in the background. The image captures the scene with hyper-realistic detail, ultra-sharp focus, rich textures, and natural skin tones. The lighting is soft and cinematic, creating a highly detailed and photographic-quality image.', 'seed': 3036441667, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+A full-body shot of a tall young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public bathroom. She is smiling warmly. Next to her is a shorter youth with long straight hair wearing dark trousers and a white shirt, looking worried. The setting is a clean, modern public bathroom with tiled walls and sinks visible in the background. The image captures the scene with hyper-realistic detail, ultra-sharp focus, rich textures, and natural skin tones. The lighting is soft and cinematic, creating a highly detailed and photographic-quality image.
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -41,15 +38,11 @@ Square aspect ratio, mid shot of a (tall:1.5) happy pretty young woman with long
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/76752f5.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-NuESJkzxQeNpsVRDoBroEiFK', 'size_bytes': 251896, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'fSd51NBv8c1hnVfr', 'prompt': "A square aspect ratio, mid shot of a tall happy young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling brightly. Next to her is a shorter, worried youth with long straight hair, dressed in dark trousers and a white shirt. The setting is a modern public women's bathroom with tiled walls and sinks visible in the background. The image captures ultra-high detail, photographic precision, rich textures, natural skin tones, and features an ultra-sharp focus with 8k cinematic quality, creating a hyper-realistic scene.", 'seed': 3995062717, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/9f6cc12.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-LpWuIH43Z8mcyC73bjElT7RK', 'size_bytes': 184146, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '2COqqYEhG87l2wMz', 'prompt': "A square aspect ratio, mid shot of a tall happy young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling brightly. Next to her is a shorter, worried youth with long straight hair, dressed in dark trousers and a white shirt. The setting is a modern public women's bathroom with tiled walls and sinks visible in the background. The image captures ultra-high detail, photographic precision, rich textures, natural skin tones, and features an ultra-sharp focus with 8k cinematic quality, creating a hyper-realistic scene.", 'seed': 4146722009, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -68,9 +61,11 @@ Square aspect ratio, mid shot of a (tall:1) happy pretty young woman with long c
 
 **tool:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-PpNj29Pk9xnLRqglZEaqzpok', 'size_bytes': 249398, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '6QV78eDm0P0KcDwz', 'prompt': "A square aspect ratio, mid shot of a tall happy young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly. Next to her is a shorter, worried boy with long straight hair, wearing dark trousers and a white shirt, looking down with a worried expression. The setting is a clean, modern public women's bathroom with tiled walls and sinks visible in the background. The scene is rendered in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, and ultra-sharp focus, capturing natural skin tones.", 'seed': 3688577999, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/0a230e6.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-DnVIXMsBHCiCQbIQT1ixHwLQ', 'size_bytes': 243550, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '8iDdjtqqSV93rcIU', 'prompt': "A square aspect ratio, mid shot of a tall happy young woman with long curly dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly. Next to her is a shorter, worried boy with long straight hair, wearing dark trousers and a white shirt, looking down with a worried expression. The setting is a clean, modern public women's bathroom with tiled walls and sinks visible in the background. The scene is rendered in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, and ultra-sharp focus, capturing natural skin tones.", 'seed': 3291738024, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/c264584.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
 
 **tool:**
 
@@ -91,15 +86,10 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/2f59794.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-19T6yL7NVJLh1DseqTehuHFH', 'size_bytes': 293070, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'TofQkeJY7664LWUc', 'prompt': "A square aspect ratio, mid shot of a happy young woman with long wavy dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried, and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom setting features tiled walls and modern sinks. The image is rendered in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, and ultra-sharp focus, capturing natural skin tones and rich details.", 'seed': 2130343384, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/e97078d.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-3awORIlbVMDOjkcvYm2ZPHWI', 'size_bytes': 269498, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'TcUCrsChAxdPVi7X', 'prompt': "A square aspect ratio, mid shot of a happy young woman with long wavy dark hair wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried, and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom setting features tiled walls and modern sinks. The image is rendered in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, and ultra-sharp focus, capturing natural skin tones and rich details.", 'seed': 3781976101, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -116,15 +106,11 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/e313318.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-pYtEJkrBa17r42HzcFrAXTZd', 'size_bytes': 260206, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'L2rDM1Npjt0ZSZ7q', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, with tiled walls and visible sinks. The scene is depicted in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 394386771, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/5dad94b.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-haJdOdEj9fZEwDVgJfPMcDcl', 'size_bytes': 319928, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'yqcmlwba0D87FuMd', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, with tiled walls and visible sinks. The scene is depicted in ultra-high detail, with 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 1741659232, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -141,15 +127,11 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/882ed94.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-XgMvFMu856Oq1aRSSdWltTgW', 'size_bytes': 279208, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'Uw6JCG0VK6Yb8kmH', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, featuring tiled walls and visible sinks. The scene is rendered with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 2649379686, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/4884b8a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-TDPgd9X5dlsRhczTiKO05PWO', 'size_bytes': 235600, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '5LLNupazp8Q0KzdP', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad young man with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, featuring tiled walls and visible sinks. The scene is rendered with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 4072049517, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -166,15 +148,11 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/5bc71a7.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-kZXSr1Xgno3p0IyzWOmQjCGf', 'size_bytes': 210922, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '5bgjDOL0t9RnCM3q', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a worried, sad, short male teen with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, featuring tiled walls and visible sinks. The image is depicted with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 1072011113, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/2ad7385.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-jYXNy7QDo6IZDq4g5LzNC1ds', 'size_bytes': 177418, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '8zrQ4lXrO25iK82V', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a worried, sad, short male teen with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The bathroom is modern, featuring tiled walls and visible sinks. The image is depicted with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 224280511, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -191,15 +169,11 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/689c983.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-t7cKG2aqOLQx8dOcJ50ru67n', 'size_bytes': 227852, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'ZaCmBGcA6QYohkq2', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a worried, sad, short male teen with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The modern bathroom features tiled walls and visible sinks, captured with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 2405629138, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/f9af971.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-SCxVcOABYjSLB18rqM98JvqH', 'size_bytes': 243820, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': '6G30t6qjCMpdn33l', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a worried, sad, short male teen with long straight hair, dressed in dark trousers and a white shirt, who is looking down with a worried expression. The modern bathroom features tiled walls and visible sinks, captured with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 2064666017, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -236,15 +210,11 @@ figure needs to be shorter sad and looking down
   "size": "1024x1024"
 }
 
-**tool:**
+<img src="/assets/images/chat/689c983.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-kytO5g9GoNgxuyEdS6Vj9um4', 'size_bytes': 253498, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'KqP3XXJB9p02UVr4', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a noticeably shorter, sad male teen with long straight hair, dressed in dark trousers and a white shirt. The teen is looking down with a worried expression. The modern bathroom setting includes tiled walls and visible sinks, rendered with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 2932795720, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/f9af971.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-TRE9JMguf3E77upFcyGYqtLw', 'size_bytes': 286202, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'ZOIPvLrlz6YegRpC', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a noticeably shorter, sad male teen with long straight hair, dressed in dark trousers and a white shirt. The teen is looking down with a worried expression. The modern bathroom setting includes tiled walls and visible sinks, rendered with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 2796663899, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
 
-**tool:**
-
-DALL·E displayed 2 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
 
 **Emily:**
 
@@ -261,13 +231,7 @@ Square aspect ratio, mid shot of a happy pretty young woman with long wavy dark 
   "size": "1024x1024"
 }
 
-**tool:**
-
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-vW0NVai5o6FinclCw497husC', 'size_bytes': 238690, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'R0gcKGs14wLl7Vaf', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad male teen with long straight hair, dressed in dark trousers and a white shirt. The teen is looking down with a worried expression. The scene includes modern bathroom details, such as tiled walls and visible sinks, and is depicted with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 26813529, 'parent_gen_id': None, 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-**tool:**
-
-DALL·E displayed 1 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
+<img src="/assets/images/chat/015040e.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 
@@ -285,13 +249,7 @@ This image is very close to my target image. May I have another variation please
   "referenced_image_ids": ["R0gcKGs14wLl7Vaf"]
 }
 
-**tool:**
-
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-sfkjkOYl77kCctyG4yzGqakE', 'size_bytes': 238406, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'lsy2A3p2sq32IReE', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is smiling warmly at a short, worried and sad male teen with long straight hair, dressed in dark trousers and a white shirt. The teen is looking down with a worried expression. The scene includes modern bathroom details, such as tiled walls and visible sinks, and is depicted with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 26813529, 'parent_gen_id': 'R0gcKGs14wLl7Vaf', 'edit_op': 'transformation', 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-**tool:**
-
-DALL·E displayed 1 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
+<img src="/assets/images/chat/5109d7f.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 
@@ -309,13 +267,7 @@ Getting better all the time. The expressions are perfect. Can I get her looking 
   "referenced_image_ids": ["lsy2A3p2sq32IReE"]
 }
 
-**tool:**
-
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-8urCeKic8kSmC8VVfU1ZQ20v', 'size_bytes': 244530, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'k5CLGCx2ma5TRzsN', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is looking at the short, worried and sad male teen beside her, grinning warmly. The teen, with long straight hair, dressed in dark trousers and a white shirt, is looking down with a worried expression. The modern bathroom setting includes tiled walls and visible sinks, rendered with ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 26813529, 'parent_gen_id': 'lsy2A3p2sq32IReE', 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-**tool:**
-
-DALL·E displayed 1 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
+<img src="/assets/images/chat/1471e15.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 
@@ -333,13 +285,7 @@ She needs to be taller than him, looking down at him, please.
   "referenced_image_ids": ["k5CLGCx2ma5TRzsN"]
 }
 
-**tool:**
-
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'file-service://file-Rzdzan5poBhGvqK49svKX6Oh', 'size_bytes': 235560, 'width': 1024, 'height': 1024, 'fovea': 512, 'metadata': {'dalle': {'gen_id': 'OzxhFonWkuzCt3jd', 'prompt': "A square aspect ratio, mid shot of a happy, pretty young woman with long wavy dark hair, wearing a dark skirt and white blouse, standing in a public women's bathroom. She is taller than the short, worried male teen beside her and is looking down at him, grinning warmly. The male teen, with long straight hair, dressed in dark trousers and a white shirt, is looking down with a sad and worried expression. The scene includes modern bathroom details, such as tiled walls and visible sinks, captured in ultra-high detail, 8k cinematic quality, hyper-realistic textures, photographic precision, rich textures, ultra-sharp focus, and natural skin tones.", 'seed': 26813529, 'parent_gen_id': 'k5CLGCx2ma5TRzsN', 'edit_op': None, 'serialization_title': 'DALL-E generation metadata'}, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': False, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
-
-**tool:**
-
-DALL·E displayed 1 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user.
+<img src="/assets/images/chat/3f7c074.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 **Emily:**
 

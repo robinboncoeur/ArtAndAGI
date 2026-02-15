@@ -163,7 +163,7 @@ If you paste me *your existing “rest of the scene” prompt* (just the positiv
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000ea04720bac5fe9d31f8b42c5', 'size_bytes': 1190180, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/f8b42c5.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Prior to LoRA (SRPO), I'm pretty happy with this. Might tweak to ensure it's a tailor's chalk but everything else I like. What do you think?
 
@@ -229,7 +229,7 @@ If you paste the *exact* positive/negative you used for this render (even just t
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_0000000028ac720b8c7f3dcf4288d4ff', 'size_bytes': 1232344, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/288d4ff.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I don't think ZiT knows what a 'French curve' is - I do, and what it's drawing isn't that. But overall, amazing.
 
@@ -328,9 +328,9 @@ And honestly: *as-is*, the image already tells exactly the story you want — Ch
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000b8e07206bc9fccbf7dc21e06', 'size_bytes': 1242672, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/dc21e06.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000a1d87206bf617c9418834839', 'size_bytes': 2173449, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/8834839.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 I hope to implement the SAM method very soon - just focused on getting some illustrations on the pages already published. There are simply not enough hours in the day, Emily!! 
 

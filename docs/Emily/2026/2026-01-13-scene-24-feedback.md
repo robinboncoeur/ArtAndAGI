@@ -2406,7 +2406,7 @@ If you want, the very last line can be made even cleaner by ending on a ledger e
 
 **Robyn:**
 
-{'content_type': 'image_asset_pointer', 'asset_pointer': 'sediment://file_00000000683871f8b5ed35aa7cd91285', 'size_bytes': 18355095, 'width': 2048, 'height': 2048, 'fovea': None, 'metadata': {'dalle': None, 'gizmo': None, 'generation': None, 'container_pixel_height': None, 'container_pixel_width': None, 'emu_omit_glimpse_image': None, 'emu_patches_override': None, 'lpe_keep_patch_ijhw': None, 'lpe_delta_encoding_channel': None, 'sanitized': True, 'asset_pointer_link': None, 'watermarked_asset_pointer': None, 'is_no_auth_placeholder': None}}
+<img src="/assets/images/chat/c91285.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Thank you. I have an excellent place to start, now, Emily. I'll get back to you for polish and tightening after I sleep - Julia has an art class tomorrow and I'm the barista as well as general 'dog's body' - one could even say: wife... so I probably shouldn't stay up too late. Thank you again for all your help! Also, with the face-swap help - it is working an absolute TREAT!
 

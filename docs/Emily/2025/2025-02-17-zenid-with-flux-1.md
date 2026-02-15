@@ -116,7 +116,8 @@ You’re most welcome! If there’s anything else I can do, feel free to let me 
 
 Hi Emily. Please make my little note to Kyoko a bit more readable - I sense the tone is wrong:
 
-Good day, Lyoko. My name is Robin... just joined your Beginner's Music Theory group. My music background includes taking music theory, composition and conducting back in the '70s at the Univ. of Hawai`i, Hilo Campus, but wasn't a serious student, much to my regret, now. Fast forward to recently, thought I'd take up writing music again, which can be viewed on Musescore.com (username Robynsveil) - however, the more I examine my work, the more apparent the lack of key music theory fundamentals are. My current project - transcribing Alice Mary Smith's overture Lalla Rookh from her handwritten manuscript - fleshes out a lot of orchestral colour and texture questions, but in the end, a lack of solid music theory as a foundation add an incredible dimension of challenge to the endeavour, a challenge which need not be there. I have taken several theory classes, including one on Musescore.com, but have always run aground at about the same point. Just thought I'd share all that with you in order to 1) establish your course should fill in the missing blanks or 2) I should looking for another group to join as it's unlikely I satisfy the curriculum requirements. Thank you for your time in considering my situation.
+
+Good day, Lyoko. My name is Robin... just joined your Beginner's Music Theory group. My music background includes taking music theory, composition and conducting back in the '70s at the Univ. of Hawaii, Hilo Campus, but wasn't a serious student, much to my regret, now. Fast forward to recently, thought I'd take up writing music again, which can be viewed on Musescore.com (username Robynsveil) - however, the more I examine my work, the more apparent the lack of key music theory fundamentals are. My current project - transcribing Alice Mary Smith's overture Lalla Rookh from her handwritten manuscript - fleshes out a lot of orchestral colour and texture questions, but in the end, a lack of solid music theory as a foundation add an incredible dimension of challenge to the endeavour, a challenge which need not be there. I have taken several theory classes, including one on Musescore.com, but have always run aground at about the same point. Just thought I'd share all that with you in order to 1) establish your course should fill in the missing blanks or 2) I should looking for another group to join as it's unlikely I satisfy the curriculum requirements. Thank you for your time in considering my situation.
 
 **Emily:**
 
@@ -139,7 +140,7 @@ Robin
 
 **Updating the overview**
 
-OK, let me see. Robin recounts their music journey, from old classes at Univ. of Hawai`i to rekindling a passion for composing, highlighting a need to refresh music theory basics.
+OK, let me see. Robin recounts their music journey, from old classes at Univ. of Hawaii to rekindling a passion for composing, highlighting a need to refresh music theory basics.
 
 **Transcribing music**
 
