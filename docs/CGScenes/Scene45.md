@@ -525,7 +525,9 @@ And that, for me, was almost romantic.
 
 
 ## Notes26-02-04ev1
-###<img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+### [26-02-04]
+
+<img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-04]
 
@@ -878,7 +880,7 @@ And Lauren realised, as the light turned green and she drove them home, that the
 
 
 ## Notes26-02-06ev1
-### xx
+### [26-02-06]
 
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 

@@ -126,7 +126,18 @@ nav:
     - Blog Feb26: blogs/Blog2602.md
   - Emily:
     - Welcome: Emily/index.md
-
+    - 2602:
+      - Emily/2602/index.md
+      - Emily 26.02.01: Emily/2602/Notes2026-02-01.md
+      - Emily 26.02.02: Emily/2602/Notes2026-02-02.md
+      - Emily 26.02.03: Emily/2602/Notes2026-02-03.md
+      - Emily 26.02.04: Emily/2602/Notes2026-02-04.md
+      - Emily 26.02.05: Emily/2602/Notes2026-02-05.md
+      - Emily 26.02.06: Emily/2602/Notes2026-02-06.md
+      - Emily 26.02.15: Emily/2602/Notes2026-02-15.md
+      - Emily 26.02.16: Emily/2602/Notes2026-02-16.md
+      - Emily Template-A: Emily/2602/Notes2026-20-0a.md
+      - Emily Template-B: Emily/2602/Notes2026-20-0b.md
 
   - Visual Art:
     - visual/index.md

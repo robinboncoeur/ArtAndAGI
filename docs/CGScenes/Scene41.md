@@ -1446,7 +1446,7 @@ The quiet of a woman being present.
 
 
 
-## Notes26-02-04ev2
+## Notes26-02-06ev1
 ### 1st Person
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
@@ -1665,10 +1665,10 @@ The calm quiet of a woman being present.
 
 
 
+
+
+
 <!--
-
-
-
 ## x
 ### xx
 

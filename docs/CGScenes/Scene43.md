@@ -1694,7 +1694,7 @@ Just… deliberately.
 
 
 
-## Notes26-02-06ev2
+## Notes26-02-06ev1
 ### Omni Version
 
 🌙🔑 Keys 🌙🔑
@@ -1702,6 +1702,7 @@ Just… deliberately.
 <img src="/assets/images/notes26a/N260116ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 [26-02-06]
+
  😌🍋✨😌🧵💪
 
 **Scene 44 — “Keys” (Lauren POV, past tense)**
