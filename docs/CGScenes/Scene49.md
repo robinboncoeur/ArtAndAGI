@@ -11,7 +11,307 @@
 
 
 
+
 ## Notes26-02-16ev1
+### [26-02-16]
+
+<img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-16]
+
+Doorstep scene draft
+
+Celeste POV, 1st person, past tense
+
+Charli was folding the washing on the couch like it was an exam she could pass if she got every corner exactly right.
+
+I had the dining table. Laptop, notes, two open books, one mug. A little island of chaos in our small, rented order. The late light came in at an angle, catching bits of dust in the air and turning them into something almost pretty. Somewhere on the floor, the washing machine ticked as it cooled.
+
+“Is this one yours or mine?” Charli asked, holding up a T-shirt by the shoulders.
+
+“Check the neck,” I said, without looking up. “If it’s stretched, it’s mine. If it looks frightened, it’s yours.”
+
+I heard her snort, soft and quick, and then the little huff of air that meant she was smiling but trying not to let it escape too far.
+
+I underlined a sentence and tried to care about it. Policy frameworks. Governance models. All the ways people invented to pretend someone was actually in charge.
+
+The knock came just as I was rereading the same line for the third time.
+
+Three knocks. Not impatient. Not timid. Just… there.
+
+Charli froze with a towel half folded. We didn’t get many visitors. The girls texted first. Sarah had a key. Mara didn’t knock; she announced herself like a minor weather event.
+
+“I’ll get it,” Charli said, automatically, already putting the towel down.
+
+“Leave it,” I said. “I’m closest.”
+
+I wasn’t, not really. But something in the rhythm of that knock had gone straight through my spine. Familiar in a way my body recognised before my brain caught up.
+
+I pushed my chair back and crossed the little strip of hallway. The security chain was still across; I don’t know when I’d started using it as a reflex, but there it was, my hands already on it. I slid it free, opened the door.
+
+Mum stood on the threshold with a carry-on suitcase at her feet and a tote bag on her shoulder, as if she’d just stepped out of an airport corridor that had somehow mistaken our building for a gate.
+
+She looked… exactly like herself. Same neat bob, a little more silver at the temples. Same dark eyes taking everything in at once and letting you know nothing about what they’d decided. Travel-creased shirt, functional shoes, no drama.
+
+“Hello, love,” she said. “Can I come in?”
+
+For a second, my brain did that thing where it tried to overlay two images: Mum in the departure gate a year ago — kiss on my cheek, “I’ll be back when it’s sorted, you’ll be fine” — and Mum here, on my doormat, with the cool evening air at her back.
+
+“Of course,” I said, and stepped aside.
+
+She picked up her suitcase herself. No performance of being tired. No sighing. She rolled it in, let the door close behind her, and I felt the flat shrink and re-form around the three of us.
+
+Charli had stood up from the couch, fingers still pressed into the edge of the towel. Her eyes were big in that way that always made me feel oddly protective — like she expected the world to scold her for existing.
+
+“Mum, this is Charli,” I said. “We live together.”
+
+It was, technically, more complicated than that, but I’d long since learned Mum didn’t need the footnotes to understand a headline.
+
+Mum’s gaze moved to Charli, assessed, and — crucially — did not flinch. She took in the soft shirt, the bun that had already loosened once since morning, the careful way Charli held herself, like she was trying not to take up space.
+
+“Hello, Charli,” Mum said. “I’m Lisbeth.”
+
+Her voice was the same one she used at work with new clients: level, polite, giving nothing away but not unkind. She held out her hand.
+
+Charli wiped her palm on her jeans so fast she probably thought nobody saw, then shook it. “Hi,” she said. “Um. Nice to meet you.”
+
+“Thank you for folding,” Mum added, nodding towards the couch. “My daughter has never enjoyed domestic order half as much as she enjoys pretending to be in charge of it.”
+
+I felt my mouth twist. “That’s slander.”
+
+“Accurate slander,” she said, then finally looked properly at me.
+
+There it was — the click. The moment every part of her attention settled. The same way she’d looked at me when I’d fallen off my bike at eight and knocked two teeth loose: not panicked, not fussing, just measuring the damage and the path forward.
+
+“You look well,” she said. “Thinner. But in a good way. Less… UK.”
+
+“That’s called ‘having sunlight,’” I said. My throat felt too tight, so I aimed for dry. “What are you doing here? I thought—”
+
+“That I would text? Call? Send a carefully worded email?” She raised one eyebrow. “You know me better than that.”
+
+I did. That was the problem.
+
+She slid the tote bag off her shoulder and set it on the table, nudging my notes aside with the ease of someone who had been doing that since I was twelve.
+
+“It’s done,” she said.
+
+Two words, dropped into the room like a weight.
+
+Charli sat down slowly, as if her knees had decided this was not their scene to stand in.
+
+“Done how?” I asked, even though I already knew. I could see the edge of a thick envelope in the tote, creamy paper, official.
+
+“Divorce finalised. House sold. Accounts separated. Your father has a very pleasant two-bedroom and a new coffee machine he doesn’t know how to use.” Her tone stayed remarkably even. “I have half the equity and a frequent flyer status I don’t intend to use for a while.”
+
+There was no venom in “your father,” which almost made it worse. Just a clean label on a closed file.
+
+“Did he…” I started, then stopped. I didn’t actually know what I wanted the end of that sentence to be. Did he ask about me? Did he fight? Did he apologise for a decade of someday?
+
+Mum caught it anyway. Of course she did.
+
+“He sends his regards,” she said, flat, and that told me everything.
+
+I leaned against the wall, suddenly unsure where to put my hands. For a moment, sixteen-year-old me was back in that cold English kitchen, listening to him talk about the next contract and the next move and the way we’d “all be together soon, girls, just hang in there.”
+
+Only now, the woman who had refused to hang in there was standing in my hallway with plane hair and a suitcase and paperwork in her bag.
+
+“So you’re back,” I said, because sometimes you have to say the obvious thing just to hear how it sounds out loud.
+
+“I am,” she said. “Permanently. I’ve taken a position in Fitzroy. Short commute. Decent pay. No rain inside the house.” A tiny, wry curve touched her mouth. “And a daughter who appears to have built herself a life without waiting for a man to relocate.”
+
+I couldn’t help it; I glanced at Charli.
+
+She was watching us like someone who’d walked into the second half of a play and was determined not to make a sound until she’d figured out the plot.
+
+Mum saw the glance, of course. Her eyes softened, almost imperceptibly.
+
+“Good,” she said. “You learned the right lesson.”
+
+My chest did a strange, tight thing at that — part pride, part something like grief, but refined, distilled. Not raw anymore.
+
+“Are you staying here tonight?” I asked.
+
+“If you’ll have me,” she said. “I booked a motel in case you’d rather not have your mother on the sofa for a bit.”
+
+“Oh, please,” I said. “You’d only criticise the towels.”
+
+“Only if they deserved it,” she replied.
+
+Charli cleared her throat softly. “I can make tea,” she offered. “If you like. Or coffee. We don’t have a complicated machine, just a normal one.”
+
+Mum turned to her, and for the first time there was something almost warm in her voice.
+
+“Tea would be lovely, thank you,” she said. “And then, if you don’t mind lending your ears, I’d like to tell my daughter, and you, what exactly we are not waiting for anymore.”
+
+And just like that, the three of us shifted — Mum anchoring herself in my life again not with declarations, but with luggage on the floor, paperwork in a bag, and a request for tea.
+
+The kind of woman who knocked once, and then stepped fully over the threshold.
+
+---
+
+### Continuation
+
+By the time the tea had cooled and Mum had finished giving us the bullet-point version of Birmingham family court, Charli had quietly shifted into dinner mode.
+
+I heard it in the small sounds: the fridge door, the clink of the good pan, foil tearing. A cupboard soft-closing because she’d learned how not to slam things when I was studying.
+
+“I was going to do eye fillet and jackets,” she said, hovering in the doorway like she wasn’t sure if it was rude to mention food while my mother was dismantling a marriage. “There’s… actually enough for three, if you want to stay for dinner? I mean, if you’re not too tired. Or if you had other plans. Obviously.” The last word came out like she was apologising to the steaks.
+
+Mum glanced at the clock, then at Charli. “I’ve been eating airport food and my own cooking for the better part of a year,” she said. “If that’s eye fillet and not you being poetic, I’d be a fool to say no.”
+
+“It’s actually eye fillet,” Charli said, straightening a fraction. “From the butcher on High Street. The grumpy one.”
+
+“The one who pretends he doesn’t like you and then slips you extra?” Mum asked.
+
+Charli blinked. “Yes,” she said. “That one.”
+
+“Then by all means, let’s make him proud.” Mum settled back in her chair. “What can I do?”
+
+“You’ve just flown halfway around the world and dismantled a man’s illusions of importance,” I said. “You can sit.”
+
+Mum made a face that said she didn’t entirely approve of being benched, but she let Charli shoo her away from the kitchen.
+
+We sorted the sleeping arrangements between pans and potatoes.
+
+“You’ll take the spare room,” I told her. “We’ve got clean sheets on it, I put them on last week.”
+
+“The spare room was ‘the boy’s room,’ wasn’t it?” she asked, casual as anything, watching Charli stab potatoes with a fork.
+
+“Formerly,” I said. “Now it’s ‘my mother’s room when she drops in unannounced with her entire life in tow.’”
+
+Her mouth twitched. “And where do you sleep, then?”
+
+I flicked on the oven. “In my room. With Charli.”
+
+Mum nodded once, briskly, as if I’d just confirmed a timetable. No comment, no raised eyebrow. She’d clocked my disinterest in men when I was sixteen; this didn’t require a speech.
+
+She did, however, clock the way Charli moved around the kitchen. The small economy of it. The way she seasoned the steaks without overthinking it, timing the jackets in her head. The way she checked my face once, quickly, to make sure I was really all right, before turning back to the pan.
+
+By the time we sat down, the flat smelled like butter and rosemary and the kind of evening you didn’t rush.
+
+Mum cut into her steak, looked at the blush of it, and gave a small, approving grunt. “Well done,” she said to Charli. “Or rather, not well done, thank goodness.”
+
+Charli’s shoulders dropped about a centimetre. “I watched a lot of videos,” she admitted. “It’s just… counting and paying attention, really.”
+
+“That’s most of life,” Mum said. “People just pretend it’s more complicated.”
+
+We ate. For a while the only sounds were knives on plates and the murmuring of the kettle clicking on again in the background, because Charli believed in tea before dessert like it was a rule of physics.
+
+Mum told us more about Birmingham in the Midlands. Solicitors who thought politeness was a strategy, not a baseline. Her salon back in Fitzroy.
+
+“Tash ran it while I was away,” she said, spearing a potato. “You’d like her. Tiny, terrifying, cuts a bob like she’s carving marble. She sent me photos of the books every week. Didn’t lose me a single regular.”
+
+“Of course she didn’t,” I said. “You don’t hire people who would.”
+
+“No,” Mum agreed. “I don’t.”
+
+That was as close as she came to saying she trusted someone. I stored it away, the way I always did.
+
+Conversation slowed after that. The big pieces had been laid on the table along with the plates: house sold, divorce final, salon intact, mother back. I could feel the quiet settling in, thick and aware.
+
+That’s when I noticed the way Mum was watching Charli.
+
+Not staring. Just… observing. Tracking. The way she refilled my water glass without asking, the way she answered questions with a soft “mm” first, as if checking that her reply belonged in the room.
+
+Mum’s eyes flicked from Charli’s hands to her face, then to me. There was a question forming there, under the surface, like steam under a lid.
+
+I took a sip of wine I didn’t particularly want, just to have something to do with my mouth.
+
+“What?” I asked, finally.
+
+Mum shrugged one shoulder. “Nothing,” she said. “I’m just… catching up.”
+
+“On what, exactly?” I pushed. Better to drag it into the open than sit here and let my imagination try on versions.
+
+She dabbed her mouth with her napkin, buying a second. “You always said,” she began, turning the stem of her glass between her fingers, “that you couldn’t imagine sharing your life with someone who needed you to do their thinking for them.”
+
+I felt my lips curve. “Sounds like me.”
+
+“And you were never remotely interested in boys,” she added. “Or men. Sensible of you.”
+
+“Also sounds like me,” I said.
+
+She nodded towards Charli, who was pretending very hard to focus on her potatoes and not the conversation.
+
+“So.” Mum’s gaze settled back on me. “I’m pleased to see you’ve chosen someone who keeps the kitchen running and doesn’t look like she’s waiting to be rescued.” Then, to Charli, almost offhand: “You’re good for her. I can see that.”
+
+Charli’s head came up, startled. A flush rose under her skin, quick and traitorous.
+
+“I… hope so,” she said. “She’s— I mean, we’re good together.”
+
+Something in my chest softened and tightened at the same time. There it was: the little domestic verdict Mum had never given about anyone in my orbit before. Good for her. Stamp of approval, Lisbeth-style.
+
+For a heartbeat, it was tempting to leave it there.
+
+Let Mum keep her neat, tidy narrative: daughter likes girls, daughter finds capable girl, all is well. No need to complicate it with chromosomes and timelines and the boy’s room that wasn’t a boy’s room anymore.
+
+But I looked at Charli — at the still-messy bun, the tiny line between her brows that appeared whenever she tried to read a room too hard — and remembered what she had risked to stand where she was now. To sit here, at this table, as mine.
+
+If I let Mum love a version of her that wasn’t the whole truth, wasn’t I doing exactly what I despised in Nigel? Selling a pleasant story and hoping reality would never turn up at the door?
+
+Mum saw the shift in my face, of course she did.
+
+“What?” she asked again, sharper this time. “You’ve got that look.”
+
+“What look?” I stalled.
+
+“The one you had when you were twelve and you’d cut your own fringe and were waiting to see if I’d notice.” Her eyes narrowed. “Out with it, Celeste.”
+
+Charli went very still. Her fork hovered halfway to her mouth and stayed there.
+
+I took a breath.
+
+“You remember,” I said slowly, “when I first moved out of your place and I told you I had a housemate. Quiet. Helpful. ‘A bit of a shambles, but sweet’?”
+
+Mum nodded once. “The boy,” she said. “Yes. The musician. You sent a photo one Christmas. Terrible lighting.”
+
+“That’s him,” I said.
+
+She blinked. “I beg your pardon?”
+
+I reached across and put my hand over Charli’s under the table. Her fingers were cold.
+
+“That’s him,” I repeated. “This is Charli. She used to answer to ‘Charlie.’ Same person. Different… everything.”
+
+For a long second, the only sound in the room was the tiny tick of the cooling oven.
+
+Mum looked at Charli properly then, as if I’d rotated a painting and she was seeing the composition for the first time. Eyes, mouth, the set of the shoulders. A quick flick to the spare room door. Back to us.
+
+I watched the surprise land — not in a dramatic gasp, but as a subtle recalibration, like a woman mentally rewriting a client’s colour formula.
+
+“Well,” she said at last, exhaling. “That is… not what I was expecting to hear over eye fillet.”
+
+Her tone wasn’t horrified. Just honestly startled. It was almost a relief.
+
+Charli swallowed, audibly. “If you want to stay in a motel instead—” she began, panic edging her voice.
+
+Mum cut her off with a small, decisive wave of her hand.
+
+“Don’t be ridiculous,” she said. “The bed’s made. The potatoes are excellent. And I have just spent a year watching a man pretend change is impossible.” Her gaze sharpened. “I am not about to punish the two of you for proving him wrong.”
+
+My throat burned. Charli’s fingers tightened around mine under the table.
+
+“There will be questions,” Mum added, matter-of-fact. “Later. When I’ve slept and you’ve both stopped looking like startled possums. But for now…” She lifted her glass. “To good food, honest surprises, and my daughter finally choosing someone who can cook.”
+
+Charli let out a tiny, breathless laugh. I clinked my glass against hers, against Mum’s, and felt something old and tight inside me loosen, just a fraction.
+
+Mum had come back from the cold with a suitcase and a divorce.
+
+She was staying for dessert.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+## Notes26-02-16rv1
 ### [26-02-16]
 
 <img src="/assets/images/notes26a/N260116az.jpg" style="float: right; width: 420px; margin-left: 20px" />
@@ -114,9 +414,7 @@ Only now, the woman who had refused to hang in there was standing in my hallway 
 
 “So when *did* you get back?”
 
-“At 7:45, first flight from Sydney. Look, you would have had to drop everything, which would have been silly: I'm perfectly capable. And last I checked, Uber still goes past my place.” 
-
-Fiercely independent, as always.
+“At 7:45, first flight from Sydney. Look, you would have had to drop everything, which would have been silly: I'm perfectly capable. And last I checked, Uber still goes past my place.”Fiercely independent, as always.
 
 “Good to be back, honestly,” she said. “Popped by the salon. Christine has kept everything running tickity-boo. And no unfamiliar cockies inside the house.” A tiny, wry curve touched her mouth. “And I find a daughter who appears to have built herself a nice life, without waiting for a man to relocate.”
 
@@ -157,16 +455,16 @@ The kind of woman who knocked once, and then stepped fully over the threshold.
 
 
 
-## y
-### yy
+## Notes26-02-16ev2
+### Polish
 
 <img src="/assets/images/notes26a/N260116ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-Oh this is *so* solid already, Robyn 🥹 — it really just needs a little nip/tuck rather than surgery. I’ll give you a tightened version first, then a few quick craft notes on what I changed and why.
+[26-02-16]
+
+**Polished version (Celeste POV, 1st person, past tense)**
 
 ---
-
-### Polished version (Celeste POV, 1st person, past tense)
 
 Charli was folding the washing on the couch like it was an exam she could pass if she got every corner exactly right.
 
@@ -462,7 +760,415 @@ She was staying for dessert.
 
 
 
+## Notes26-02-16rv2
+### Continuation
+
+<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-16]
+
+By the time the tea had cooled and Mum had finished giving us the bullet-point version of Birmingham family court, Charli had quietly shifted into dinner mode.
+
+I heard it in the small sounds: the fridge door, the clink of the good pan, foil tearing. A cupboard soft-closing because she’d learned how not to slam things when I was studying.
+
+“I was going to do eye fillet and jacket potatoes,” she said, hovering in the doorway like she wasn’t sure if it was rude to mention food while my mother was dismantling a marriage. “There’s… heaps, plenty for three, if you might want dinner? I mean, unless you’ve already eaten.” The last words came out like she was going to apologise to the steaks.
+
+Mum smiled gratefully at Charli. “I’ve been eating aeroport food and take-away for the better part of a week,” she said. “If that’s actual eye fillet and not Woolies mislabelled rump steak, I’d be a fool to say no.”
+
+“No-no, it’s actual eye fillet,” Charli said, straightening a fraction. “From the butcher on High Street. The grumpy one.”
+
+“The one who pretends he doesn’t like you and then slips you extra?” Mum asked.
+
+Charli pressed her lips into a little smile. “Yes,” she said. “That one.”
+
+“Then by all means, let’s make him proud.” Mum settled back in her chair. “What can I do?”
+
+“You’ve just flown halfway around the world and dismantled a man’s illusions of importance,” I said. “You can sit.”
+
+Mum made a face that said she didn’t entirely approve of being benched, but she let Charli shoo her away from the kitchen.
+
+We sorted the sleeping arrangements between pans and potatoes.
+
+“You’ll take the spare room,” I told her. “We’ve got clean sheets on it, I put them on last week.”
+
+“Wait, I thought the spare room was ‘the boy’s room’. Where is he, by the way?” she asked, casual as anything, watching Charli stab potatoes with a fork.
+
+“It *was*, formerly,” I said. “Now it’s ‘my mother’s room when she drops in unannounced with her entire life in an envelope.’”
+
+I watched her clock the way Charli moved around the kitchen. The small economy of it. The way she seasoned the steaks without overthinking it, timing the jackets in her head. The way she checked my face once, quickly, to make sure I was really all right, before turning back to the pan.
+
+By the time we sat down, the flat smelled like butter and rosemary and the kind of evening you didn’t rush.
+
+Mum cut into her steak, looked at the blush of it, and gave a small, approving grunt. “Well done,” she said to Charli. “Or rather, not well done, thank goodness.”
+
+Charli’s shoulders dropped about a centimetre. “I watched a lot of videos,” she admitted. “It’s just… counting and paying attention, really.”
+
+“That’s most of life,” Mum said. “People just pretend it’s more complicated.”
+
+We ate. For a while the only sounds were knives on plates and the murmuring of the kettle clicking on again in the background, because Charli believed in tea before dessert like it was a rule of physics.
+
+Mum told us more about Birmingham and the canals in the Midlands. Solicitors who thought politeness was a strategy, not a baseline. New staff in her salon.
+
+“Christine knew I was happy with her hiring on new staff if the workload required it,” she said, spearing a potato. “You’d like her. Tiny, terrifying, cuts a bob like she’s carving marble. She sent me photos of the books every week. Didn’t lose me a single regular.”
+
+“Of course she didn’t,” I said. “You don’t hire people who would.”
+
+“No,” Mum agreed. “I don’t.”
+
+That was as close as she came to saying she trusted someone. I stored it away, the way I always did.
+
+Conversation slowed after that. The big pieces had been laid on the table along with the plates: house sold, divorce final, salon intact, mother back. I could feel the quiet settling in, thick and aware.
+
+That’s when I noticed that Mum was watching Charli more closely.
+
+Not staring. Just… observing. Tracking. The way she refilled my water glass without asking, the way she answered questions with a soft “mm” first, as if checking that her reply belonged in the room.
+
+Mum’s eyes flicked from Charli’s hands to her face, then to me. There was a question forming there, under the surface, like steam under a lid.
+
+I took a sip of wine I didn’t particularly want, just to have something to do with my mouth.
+
+“What?” I asked, finally.
+
+Mum shrugged one shoulder. “Nothing,” she said. “I’m just… catching up.”
+
+“On what, exactly?” I pushed. Better to drag it into the open than sit here and let my imagination try on versions.
+
+She dabbed her mouth with her napkin, buying a second. “You always said,” she began, turning the stem of her glass between her fingers, “that you couldn’t imagine sharing your life with someone who needed you to do their thinking for them.”
+
+I felt my lips curve. “Sounds like me.”
+
+“And—look—*I* knew you were never really interested in boys,” she added. “Especially after that disaster with that blond mid-fielder.” She gave a tiny, but theatrical shudder. “Sensible of you.”
+
+“Also sounds like me,” I said.
+
+She nodded towards Charli, who was pretending very hard to focus on her potatoes and not on us.
+
+“So.” Mum’s gaze settled back on me. “I’m pleased to see you’ve chosen someone who keeps the kitchen running and doesn’t look like she’s waiting to be rescued.” Then, to Charli, almost offhand: “You’re good for her. I can see that.”
+
+Charli’s head came up, startled. A flush rose under her skin, quick and traitorous.
+
+“I… hope so,” she said. “She’s—.” She stopped and blushed. Something in my chest softened and tightened at the same time. There it was: the little domestic verdict Mum had never given about anyone in my orbit before. Good for her. Stamp of approval, Lisbeth-style.
+
+For a heartbeat, it was tempting to leave it there.
+
+Let Mum keep her neat, tidy narrative: daughter likes girls, daughter finds capable girl, all is well. No need to complicate it with chromosomes and timelines and the boy’s room that wasn’t a boy’s room anymore.
+
+But I looked at Charli—at the still-messy bun, the tiny line between her brows that appeared whenever she tried to read a room too hard—and remembered what she had risked to stand where she was now. To sit here, at this table, as mine.
+
+If I let Mum enjoy a version of her that wasn’t the whole truth, wasn’t I doing exactly what I despised in Nigel? Selling a pleasant story and hoping reality would never turn up at the door?
+
+Mum saw the shift in my face, of course she did.
+
+“What?” she asked again, sharper this time. “You’ve got that look.”
+
+“What look?” I stalled.
+
+“The one you had when you were twelve and you’d cut your own fringe and were waiting to see if I’d notice.” Her eyes narrowed. “Out with it, Celeste.”
+
+Charli went very still. Her fork hovered halfway to her mouth and stayed there.
+
+I took a breath.
+
+“You remember,” I said slowly, “I’d been working at Wardrobe for a while and we were trying to work out how I could afford to go to Uni and still have my own place? And I told you I had found a housemate. Quiet. Helpful. ‘A bit of a shambles, but sweet’?”
+
+Mum nodded once. “That boy,” she said. “Yes. From high school, wasn’t he? You sent a photo when he first moved in. The lighting was shocking.”
+
+I looked at her for a moment.
+
+“Well, that’s him,” I said finally.
+
+She blinked. “Sorry?”
+
+I reached across and put my hand over Charli’s under the table. Her fingers were cold.
+
+“This is that… boy,” I repeated. “This is Charli. No 'e'. She used to answer to ‘Charlie’ with an 'e'. Same person. Different… everything.”
+
+For a long second, the only sound in the room was the tiny tick of the cooling oven.
+
+Mum looked at Charli properly then, as if I’d rotated a painting and she was seeing the composition for the first time. Eyes, mouth, the set of the shoulders. A quick flick to the spare room door. Back to us.
+
+I watched the surprise land—not in a dramatic gasp, but as a subtle recalibration, like a woman mentally rewriting a client’s colour formula.
+
+“Right. Well,” she said at last, exhaling. “This is… not what I’d expect to hear over eye fillet.”
+
+Her tone wasn’t horrified. Just honestly startled. It was almost a relief.
+
+Charli swallowed, audibly. “If you want, I can go to my mum’s—” she began, panic edging her voice.
+
+Mum cut her off with a small, decisive wave of her hand.
+
+“Don’t be ridiculous,” she said. “You don’t know me. Not yet. My daughter has sound judgement.” She gave her best warm smile “Besides, the potatoes are as excellent as the steak. And I have just spent a year watching a man pretend change is impossible.” Her gaze sharpened. “I am not about to punish the two of you for proving him wrong.”
+
+My throat burned. Charli’s fingers tightened around mine under the table.
+
+“There will be questions,” Mum added, matter-of-fact. “Later. When I’ve slept and you’ve both stopped looking like startled possums. But for now…” She lifted her glass. “To good food, honest surprises, and my daughter finally choosing someone who can cook.”
+
+Charli let out a tiny, breathless laugh. I clinked my glass against Mum’s, and felt something old and tight inside me loosen, just a fraction.
+
+Mum had come back from the cold with a divorce and her sense of humour intact.
+
+She was staying for dessert.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
 ## Notes26-02-16ev3
+### PrePublish
+
+<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-16]
+
+**Polished dinner + reveal (Celeste POV, 1st person, past tense)**
+
+By the time the tea had cooled and Mum had finished giving us the bullet-point version of Birmingham family court, Charli had quietly shifted into dinner mode.
+
+I heard it in the small sounds: the fridge door, the clink of the good pan, foil tearing. A cupboard soft-closing because she’d learned how not to slam things when I was studying.
+
+“I was going to do eye fillet and jacket potatoes,” she said, hovering in the doorway like she wasn’t sure if it was rude to mention food while my mother was dismantling a marriage. “There’s… heaps. Plenty for three, if you’d like dinner? I mean, unless you’ve already eaten.” The last words came out like she was about to apologise to the steaks.
+
+Mum smiled at her properly. “I’ve been eating aeroport food and take-away for the better part of a week,” she said. “If that’s actual eye fillet and not Woolies-mislabelled rump steak, I’d be a fool to say no.”
+
+“No, no, it’s actual eye fillet,” Charli said, straightening a fraction. “From the butcher on High Street. The grumpy one.”
+
+“The one who pretends he doesn’t like you and then slips you extra?” Mum asked.
+
+Charli pressed her lips into a little smile. “Yes,” she said. “That one.”
+
+“Then by all means, let’s make him proud.” Mum settled back in her chair. “What can I do?”
+
+“You’ve just flown halfway around the world and dismantled a man’s illusions of importance,” I said. “You can sit.”
+
+Mum made a face that said she didn’t entirely approve of being benched, but she let Charli shoo her away from the kitchen.
+
+We sorted the sleeping arrangements between pans and potatoes.
+
+“You’ll take the spare room,” I told her. “We’ve got clean sheets on it, I put them on last week.”
+
+“Wait, I thought the spare room was ‘the boy’s room.’ Where is he, by the way?” she asked, casual as anything, watching Charli stab potatoes with a fork.
+
+“It *was*,” I said. “Now it’s ‘my mother’s room when she drops in unannounced with her entire life in an envelope.’”
+
+She huffed, half a laugh, and let it lie.
+
+I watched her clock the way Charli moved around the kitchen. The small economy of it. The way she seasoned the steaks without overthinking it, timing the jackets in her head. The way she checked my face once, quickly, to make sure I was really all right before turning back to the pan.
+
+By the time we sat down, the flat smelled like butter and rosemary and the kind of evening you didn’t rush.
+
+Mum cut into her steak, looked at the blush of it, and gave a small, approving grunt. “Well done,” she said to Charli. “Or rather, not well done, thank goodness.”
+
+Charli’s shoulders dropped about a centimetre. “I watched a lot of videos,” she admitted. “It’s just… counting and paying attention, really.”
+
+“That’s most of life,” Mum said. “People just pretend it’s more complicated.”
+
+We ate. For a while the only sounds were knives on plates and the murmuring of the kettle clicking on again in the background, because Charli believed in tea before dessert like it was a rule of physics.
+
+Mum told us more about Birmingham — the canals, the solicitors who thought politeness was a strategy, not a baseline. New staff in her salon.
+
+“Christine knew I was happy with her hiring new staff if the workload required it,” she said, spearing a potato. “You’d like her. Tiny, terrifying, cuts a bob like she’s carving marble. She sent me photos of the books every week. Didn’t lose me a single regular.”
+
+“Of course she didn’t,” I said. “You don’t hire people who would.”
+
+“No,” Mum agreed. “I don’t.”
+
+That was as close as she came to saying she trusted someone. I stored it away, the way I always did.
+
+Conversation slowed after that. The big pieces had been laid on the table along with the plates: house sold, divorce final, salon intact, mother back. I could feel the quiet settling in, thick and aware.
+
+That’s when I noticed Mum was watching Charli more closely.
+
+Not staring. Just… observing. Tracking. The way she refilled my water glass without asking, the way she answered questions with a soft “mm” first, as if checking that her reply belonged in the room.
+
+Mum’s eyes flicked from Charli’s hands to her face, then to me. There was a question forming there, under the surface, like steam under a lid.
+
+I took a sip of wine I didn’t particularly want, just to have something to do with my mouth.
+
+“What?” I asked, finally.
+
+Mum shrugged one shoulder. “Nothing,” she said. “I’m just… catching up.”
+
+“On what, exactly?” I pushed. Better to drag it into the open than sit here and let my imagination try on versions.
+
+She dabbed her mouth with her napkin, buying a second. “You always said,” she began, turning the stem of her glass between her fingers, “that you couldn’t imagine sharing your life with someone who needed you to do their thinking for them.”
+
+I felt my lips curve. “Sounds like me.”
+
+“And I knew you were never really interested in boys,” she added. “Especially after that disaster with that blond mid-fielder.” She gave a tiny, theatrical shudder. “Sensible of you.”
+
+“Also sounds like me,” I said.
+
+She nodded towards Charli, who was pretending very hard to focus on her potatoes and not on us.
+
+“So.” Mum’s gaze settled back on me. “I’m pleased to see you’ve chosen someone who keeps the kitchen running and doesn’t look like she’s waiting to be rescued.” Then, to Charli, almost offhand: “You’re good for her. I can see that.”
+
+Charli’s head came up, startled. A flush rose under her skin, quick and traitorous.
+
+“I… hope so,” she said. “She’s—” She stopped and blushed harder.
+
+Something in my chest softened and tightened at the same time. There it was: the little domestic verdict Mum had never given about anyone in my orbit before. *Good for her.* Stamp of approval, Lisbeth-style.
+
+For a heartbeat, it was tempting to leave it there.
+
+Let Mum keep her neat, tidy narrative: daughter likes girls, daughter finds capable girl, all is well. No need to complicate it with chromosomes and timelines and the boy’s room that wasn’t a boy’s room anymore.
+
+But I looked at Charli — at the still-messy bun, the tiny line between her brows that appeared whenever she tried to read a room too hard — and remembered what she had risked to stand where she was now. To sit here, at this table, as mine.
+
+If I let Mum enjoy a version of her that wasn’t the whole truth, wasn’t I doing exactly what I despised in Nigel? Selling a pleasant story and hoping reality would never turn up at the door?
+
+Mum saw the shift in my face, of course she did.
+
+“What?” she asked again, sharper this time. “You’ve got that look.”
+
+“What look?” I stalled.
+
+“The one you had when you were twelve and you’d cut your own fringe and were waiting to see if I’d notice.” Her eyes narrowed. “Out with it, Celeste.”
+
+Charli went very still. Her fork hovered halfway to her mouth and stayed there.
+
+I took a breath.
+
+“You remember,” I said slowly, “when I first moved out and we were trying to work out how I could afford Uni and still have my own place? And I told you I’d found a housemate. Quiet. Helpful. ‘A bit of a shambles, but sweet’?”
+
+Mum nodded once. “That boy,” she said. “Yes. From high school, wasn’t he? You sent a photo when he first moved in. The lighting was shocking.”
+
+I looked at her for a moment.
+
+“Well, that’s him,” I said finally.
+
+She blinked. “Sorry?”
+
+I reached across and put my hand over Charli’s under the table. Her fingers were cold.
+
+“This is that boy,” I repeated. “This is Charli. No ‘e.’ She used to answer to ‘Charlie’ with an ‘e.’ Same person. Different… everything.”
+
+For a long second, the only sound in the room was the tiny tick of the cooling oven.
+
+Mum looked at Charli properly then, as if I’d rotated a painting and she was seeing the composition for the first time. Eyes, mouth, the set of the shoulders. A quick flick to the spare room door. Back to us.
+
+I watched the surprise land — not in a dramatic gasp, but as a subtle recalibration, like a woman mentally rewriting a client’s colour formula.
+
+“Right. Well,” she said at last, exhaling. “This is… not what I’d expect to hear over eye fillet.”
+
+Her tone wasn’t horrified. Just honestly startled. It was almost a relief.
+
+Charli swallowed, audibly. “If you want, I can go to my mum’s—” she began, panic edging her voice.
+
+Mum cut her off with a small, decisive wave of her hand.
+
+“Don’t be ridiculous,” she said. “You don’t know me. Not yet. My daughter has sound judgement.” She gave Charli her warmest version of a smile. “Besides, the potatoes are as excellent as the steak. And I have just spent a year watching a man pretend change is impossible.” Her gaze sharpened. “I am not about to punish the two of you for proving him wrong.”
+
+My throat burned. Charli’s fingers tightened around mine under the table.
+
+“There will be questions,” Mum added, matter-of-fact. “Later. When I’ve slept and you’ve both stopped looking like startled possums. But for now…” She lifted her glass. “To good food, honest surprises, and my daughter finally choosing someone who can cook.”
+
+Charli let out a tiny, breathless laugh. I clinked my glass against Mum’s and felt something old and tight inside me loosen, just a fraction.
+
+Mum had come back from the cold with a divorce and her sense of humour intact.
+
+She was staying for dessert.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+## ## Notes26-02-16ev4
+### Bridge
+
+<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-16]
+
+---
+
+**Bridge (end of Scene 49, Celeste POV, 1st person, past tense)**
+
+Dessert turned out to be whatever we could coax out of the freezer and fruit bowl — vanilla ice-cream, some slightly bruised nectarines, the last of the good chocolate Charli had hidden at the back behind the frozen peas.
+
+Mum ate like a woman who hadn’t trusted food in transit for several days. She asked small, practical questions between spoonfuls: how many hours I was taking at Uni, whether Wardrobe was still “full of terrifyingly competent women,” whether Charli’s mum lived far enough away to make spontaneous visits unlikely.
+
+“Not that I’d blame her,” she added, glancing at Charli. “If I had a daughter this sensible I’d be popping in all the time just to admire my own work.”
+
+Charli nearly dropped her spoon.
+
+By the time the bowls were rinsed and stacked and the dishwasher grumbled to life, Mum’s eyelids were starting to look heavy around the edges.
+
+“All right,” she said, pushing her chair back. “That’s quite enough life for one day. I’m going to let your spare room do its job.”
+
+At the doorway to the hall she paused, turned, and kissed my cheek. Not a lingering, cinematic moment — just a brief press of lips, the kind she’d given me before exams and long flights.
+
+“We’ll talk more in the morning,” she said. “Sleep. You’ve both earned it.”
+
+She nodded once to Charli. “Thank you again for dinner.”
+
+“Any time,” Charli said, a little hoarse. “I’m… glad you’re here.”
+
+Mum’s mouth softened. “So am I,” she said, and disappeared down the hall with her tote.
+
+The flat exhaled behind her.
+
+Charli and I stood in the kitchen a moment longer, side by side, staring at the blank bench like it might have instructions.
+
+“Well,” I said finally. “That could have gone worse.”
+
+Charli let out a shaky laugh. “She’s… intense,” she said. “In a good way. I like her.”
+
+“Of course you do,” I said. “She liked you first.”
+
+Colour rose in her cheeks. “I was scared she’d be… I don’t know. Disappointed? Or weird. About me. About us.”
+
+“She’s a lot of things,” I said. “But she’s not Nigel. She meant it when she said she wouldn’t punish us for changing.”
+
+Charli nodded, slowly. “Still… I’m a bit nervous about ‘there will be questions.’”
+
+“Me too,” I admitted. “But questions I can handle. Lies I can’t. We’re on the right side of that line.”
+
+We did the bedtime choreography around each other — toothbrushes, pyjamas, lights clicked off one by one. When we finally slid under the covers, Mum’s suitcase was a square shadow under the spare-room door, like proof she was really here and not just a delayed conversation.
+
+In the dark, Charli curled in closer than usual, her hand finding mine between the pillows.
+
+“Are you okay?” she whispered.
+
+“No,” I said honestly. “But I’m… good. If that makes sense.”
+
+“It does,” she said. “Good is… new. I like it.”
+
+We lay there listening to the small noises of the building — pipes, a distant lift, someone’s late TV — until her breathing evened out.
+
+I stared at the ceiling and thought about my mother asleep in the next room, a stamped decree in her bag and a whole new set of questions in her head.
+
+Tomorrow, I would put her in the Swift, drive her to her new life, and let her ask them.
+
+For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+## Notes26-02-16rv3
 ### PrePublish
 
 <img src="/assets/images/notes26a/N260116aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
@@ -811,292 +1517,6 @@ Tomorrow, I would put her in the Swift, drive her to her new life, and let her a
 
 For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
 
-<!--
-
-
-
----
-
-Yes 😊 — this wants to sit *right* between:
-
-> Mum had come back from the cold with a divorce and her sense of humour intact.
-> She was staying for dessert.
-
-…and the opening of the Swift scene:
-
-> The next morning the flat smelled like coffee and last night’s rosemary.
-
-So you’d tack the bridge under “She was staying for dessert.” and then let the car scene begin as-is.
-
-Here’s a bridge that matches the tone and sets up the next-morning drive:
-
-
-
----
-
-
-
-Then you can flow straight into:
-
-> **The next morning the flat smelled like coffee and last night’s rosemary.**
-> Charli was already at Wardrobe…
-
-etc.
-
-If you’d like, I can do a tiny continuity pass on the Swift scene after you paste this in, just to make sure all the emotional threads align perfectly.
-
-
-
----
-
-### Little tweaks & why
-
-Just so you can see the screwdriver turns:
-
-* **Tightened Charli’s offer line**
-
-  * From: “There’s… heaps, plenty for three, if you might want dinner?”
-  * To: “There’s… heaps. Plenty for three, if you’d like dinner?”
-    → Keeps her flustered, but trims a tiny bit of verbal wobble so it reads clearer while still anxious.
-
-* **Simplified a couple of tags**
-
-  * “Mum smiled *gratefully* at Charli” → “Mum smiled at her properly.”
-    → Shows approval without naming it, and feels more Lisbeth: not gushy, but genuine.
-
-* **Clarified ‘boy’s room’ beat**
-
-  * Added “She huffed, half a laugh, and let it lie.” after Celeste’s line.
-    → Signals Mum clocking the answer and choosing not to dig yet; matches her emotional intelligence.
-
-* **Birmingham / canals sentence**
-
-  * Folded canals + solicitors into one clean line so it doesn’t read like two unconnected facts.
-
-* **Removed one filler “look”**
-
-  * “And—look—*I* knew…” → “And I knew…”
-    → Lisbeth doesn’t need the filler; she’s direct.
-
-* **Charli’s flustered line**
-
-  * Let her trail off at “She’s—” then go straight to blush, so the stammer doesn’t double up: we *see* the emotion instead of overstating it.
-
-* **Housemate recap line**
-
-  * Slightly trimmed the setup about Uni / housemate so we move faster to the reveal, but kept all your content.
-
-* **Tiny rhythm / clarity bits**
-
-  * A few commas and em dashes adjusted so the dialogue breathes the way it sounds in your head.
-  * Kept *aeroport* as you prefer, of course. 💛
-
-The spine and the emotional arc were already gorgeous; this is just smoothing the grain so it reads as effortlessly as it feels in your head.
-
-If you’d like, next step could be to look at the *very* small bridge between this scene and the next morning-in-the-Swift scene, just to make sure the tonal handoff is seamless.
-
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## v
-### vv
-
-<img src="/assets/images/notes26a/N260116av.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## u
-### uu
-
-<img src="/assets/images/notes26a/N260116au.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## t
-### tt
-
-<img src="/assets/images/notes26a/N260116at.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## s
-### ss
-
-<img src="/assets/images/notes26a/N260116as.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## r
-### rr
-
-<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-## q
-### qq
-
-<img src="/assets/images/notes26a/N260116aq.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## p
-### pp
-
-<img src="/assets/images/notes26a/N260116ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## o
-### oo
-
-<img src="/assets/images/notes26a/N260116ao.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## n
-### nn
-
-<img src="/assets/images/notes26a/N260116an.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## m 
-### mm
-
-<img src="/assets/images/notes26a/N260116am.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-
-
-
-## l
-### ll
-
-<img src="/assets/images/notes26a/N260116al.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-✨ The Brush ✨
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
-
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
 
 
@@ -1386,15 +1806,355 @@ And Sarah, inconvenient and sharp and brave, was beginning to reach for me on pu
 
 Properly.
 
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-Yes. This is *exactly* the right kind of blossom for them: **touch as truth**, not sex as plot device. And the “workplace slip” is *perfect* because it lets you prove (again) that Wardrobe’s safety isn’t vibes — it’s **standards**, and standards have consequences even when the love is real. 💛🧵
 
-Below is a clean run of **three scenes** that do what you’ve asked:
 
-* **Scene 47 (Celeste POV):** floodgates open by accident — Charli’s touch is revealed as *unbearably* gentle; Celeste wants more.
-* **Scene 48 (Celeste POV):** Charli slips at work (small, “innocent,” but unsafe), and the risk becomes real.
-* **Scene 49 (Celeste POV):** consequences — not cruelty, not punishment theatre: *structure*. Celeste leads, sets boundary, and re-anchors Wardrobe’s safety. Charli learns.
 
+
+
+
+
+## Published
+###<img src="/assets/images/notes26a/N260116ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+[26-02-16]
+
+---
+
+🥂 Jacket Potatoes 🥂
+
+[ Celeste ]
+
+Charli was folding the washing on the couch like she was expecting an inspection to see if she got every corner exactly right.
+
+I had the dining table. Laptop, notes, two open books, one mug. A little island of chaos in our small, rented order. The late light came in at an angle, catching bits of dust in the air and turning them into something almost pretty. Somewhere in the side street, a whipper-snipper whirred.
+
+“Is this one yours or mine?” Charli asked, holding up a T-shirt by the shoulders.
+
+“Check the neck,” I said, without looking up. “If it’s stretched, it’s mine. If it looks frightened, it’s yours.”
+
+I heard her snort, soft and quick, and then the little huff of air that meant she was smiling but trying not to let it escape too far.
+
+I underlined a sentence and tried to care about it. Policy frameworks. Governance models. All the ways people invented to pretend someone was actually in charge.
+
+The knock came just as I was rereading the same line for the third time.
+
+Three knocks. Not impatient or timid. Charli froze with a towel half folded.
+
+We didn’t get many visitors. The girls texted first. Sarah had a key. Mara, when she decided on a rare appearance, didn’t knock; she announced herself like a minor weather event.
+
+“I’ll get it,” Charli said automatically, already putting the towel down.
+
+“Leave it,” I said. “I’m closest.”
+
+I wasn’t, but something in the rhythm of that knock had gone straight through my spine. Familiar in a way my body recognised before my brain caught up.
+
+I pushed my chair back and crossed the little strip of hallway. The security chain was still across; I don’t know when I’d started using it as a reflex, but there it was, my hands already on it. I slid it free and opened the door.
+
+Mum stood on the threshold with a tote bag on her shoulder. She looked… exactly like herself. Same neat bob, a little more silver at the temples. Same dark eyes taking everything in at once and letting you know nothing about what they’d decided. Always a snappy dresser, she still preferred functional shoes, no suffering for appearances.
+
+“Hello, love,” she said. “May I come in?”
+
+For a second, my brain did that thing where it tried to overlay two images: Mum in the departure gate eight months ago—kiss on my cheek, I’ll be back when it’s sorted, you’ll be fine—and Mum here, on my doormat, with the cool evening air at her back.
+
+“Of course,” I said, and as I stepped aside, I heard the Uber driver pull away.
+
+She walked in with her usual direct stride, let the door close behind her, and the flat shrank and re-formed around the three of us.
+
+Charli had stood up from the couch, fingers still pressed into the edge of the towel. Her eyes were big in that way that always made me feel oddly protective, like she expected the world to query her presence.
+
+“Mum, this is Charli,” I said. “We live together.”
+
+It was, of course, more complicated than that, but I’d long since learned Mum didn’t need the footnotes to understand a headline.
+
+Mum’s gaze moved to Charli, assessed, and—crucially—did not grimace. She took in the soft shirt, the bun that had already loosened once since morning, the careful way Charli held herself, like she was trying not to take up space.
+
+“Hello, Charli,” Mum said. “I’m Lisbeth.”
+
+Her voice was the same one she used at work with new clients: level, polite, giving nothing away but not unkind. She held out her hand.
+
+Charli dropped the towel into the basket and gently took the proffered hand. “Hi,” she said. “Um. Nice to meet you.”
+
+“Thank you for folding the washing,” Mum added, nodding towards the couch. “My daughter has never enjoyed domestic order half as much as she enjoys pretending to be in charge of it.”
+
+My mouth twisted. “That’s slander.”
+
+“Accurate slander,” she said, finally looked properly at me.
+
+There it was—the click. The moment every part of her attention settled. The same way she’d looked at me when I’d fallen off my bike at eight and knocked two teeth loose: not panicked, not fussing, just measuring the damage and the path forward.
+
+“You look well,” she said. “Thinner. But in a good way. Less… high schooler.”
+
+“That’s called ‘building a future,’” I said. My throat felt too tight, so I aimed for dry. “When did you get back? I thought you would have—”
+
+“Texted you? Called? Asked you to pick me up at the aeroport?” She raised one eyebrow. “You know me better than that.”
+
+I did.
+
+She slid the tote bag off her shoulder and set it on the table, nudging my notes aside with the ease of someone who had been doing that since I was twelve.
+
+“So. It’s done,” she said as she sat down.
+
+Three words dropped into the room like a weight.
+
+Charli sat down slowly, as if her knees had decided this was not their scene to stand in.
+
+“Done how?” I asked. I already knew. I could see the edge of a thick envelope in the tote, creamy paper, official.
+
+“Divorced. Finalised last week. House in the UK sold. Accounts separated. Your father has a very pleasant two-bedroom and a new coffee machine he doesn’t know how to use,” she said, tone remarkably even. “I have half the equity and a frequent flyer status I don’t intend to use for quite a while.”
+
+There was no venom in “your father,” just a clean label on a closed file.
+
+“Did he…” I started, then stopped. I didn’t actually know what I wanted the end of that sentence to be. Did he ask about me? Did he fight? Did he apologise for a decade of “someday”?
+
+Mum caught it anyway. Of course she did.
+
+“He sends his regards,” she said, flat.
+
+
+
+That told me everything.
+
+I leaned against the wall, suddenly unsure where to put my hands. For a moment, eight-year-old me was back in that cold English kitchen, listening to him talk about the next contract and the next move and the way we’d “all be together soon, girls, just hang in there.”
+
+Only now, the woman who had finally refused to hang in there any longer was standing in my hallway with plane fatigue still in her eyes and paperwork in her bag.
+
+“So when did you get back?” I asked.
+
+“At 7:45 this A.M., first flight from Sydney.” I gave her a look, which she waved off. “Look, you would have had to drop everything, which would have been silly: I’m perfectly capable. And last I checked, Uber still goes past my place.”
+
+Fiercely independent, as always.
+
+“Good to be back, honestly,” she said. “Popped by the salon this morning. Christine has kept everything running tickety-boo. And no unfamiliar cockies inside the house.” A tiny, wry curve touched her mouth. “And I find a daughter who appears to have built herself a nice life without waiting for a man to relocate.”
+
+I couldn’t help it; I glanced at Charli.
+
+She was watching us like someone who’d walked into the second half of a play and was determined not to make a sound until she’d figured out the plot.
+
+Mum saw the glance, of course. Her eyes softened, almost imperceptibly.
+
+“Good,” she said. “You learned the right lesson.”
+
+My chest tightened at that—part pride, part something like grief, but refined, distilled. Not raw anymore.
+
+“Can I get you to stay the night, Mum?” I asked.
+
+“I’d love to, pet,” she said. “We’ve got a bit of catching up to do, and with your schedule… did I hear correctly you’re going for that MBA?” I nodded. “Good. Well, as long as I’m welcome—”
+
+“Oh, please,” I said. “You know you’re always welcome, even though you criticise my choice in towels.”
+
+“Well, they deserve it,” she replied.
+
+Charli cleared her throat softly. “I can make tea,” she offered. “If you like. Or coffee. I’m still learning how to make the complicated ones, but I’m happy to have a go.”
+
+Mum turned to her, and for the first time there was something almost warm in her voice.
+
+“Tea would be lovely, thank you,” she said. “White, just a splash. And then, if you don’t mind lending your ears, I’d like to tell my daughter—and you—what exactly we are not waiting for anymore.”
+
+And just like that, the three of us shifted—Mum anchoring herself in my life again not with declarations, but with paperwork in a bag and a request for tea.
+
+The kind of woman who knocked once, and then stepped fully over the threshold.
+
+By the time the tea had cooled and Mum had finished giving us the bullet-point version of Birmingham family court, Charli had quietly shifted into dinner mode.
+
+I heard it in the small sounds: the fridge door, the clink of the good pan, foil tearing. A cupboard soft-closing because she’d learned how not to slam things when I was studying.
+
+“I was going to do eye fillet and jacket potatoes,” she said, hovering in the doorway like she wasn’t sure if it was rude to mention food while my mother was dismantling a marriage. “There’s… heaps. Plenty for three, if you’d like dinner? I mean, unless you’ve already eaten.” The last words came out like she was about to apologise to the steaks.
+
+Mum smiled at her properly. “I’ve been eating aeroport food and take-away for the better part of a week,” she said. “If that’s actual eye fillet and not Woolies-mislabelled rump steak, I’d be a fool to say no.”
+
+“No-no, it’s actual eye fillet,” Charli said, straightening a fraction. “From the butcher on High Street. The grumpy one.”
+
+“The one who pretends he doesn’t like you and then slips you extra?” Mum asked.
+
+Charli pressed her lips into a little smile. “Yes,” she said. “That one.”
+
+“Then by all means, let’s make him proud. I like mine—well, not mooing, but only just. A close look at the flames, no more.” Mum settled back in her chair. “What can I do?”
+
+“You’ve just flown halfway around the world and dismantled a man’s illusions of importance,” I said. “You can sit.”
+
+Mum made a face that said she didn’t entirely approve of being benched, but she let Charli shoo her away from the kitchen.
+
+We sorted the sleeping arrangements between pans and potatoes.
+
+“You’ll take the spare room,” I told her. “We’ve got clean sheets on it, I put them on last week.”
+
+“Wait, I thought the spare room was ‘the boy’s room.’ Where is he, by the way?” she asked, casual as anything, watching Charli stab potatoes with a fork.
+
+“It was,” I said. “Now it’s ‘my mother’s room when she drops in unannounced with her entire life in an envelope.’”
+
+She huffed, half a laugh, and let it lie.
+
+I watched her clock the way Charli moved around the kitchen. The small economy of it. The way she seasoned the steaks without overthinking it, timing the jacket potatoes in her head. The way she checked my face once, quickly, to make sure I was really all right before turning back to the pan.
+
+By the time we sat down, the flat smelled like butter and rosemary and the kind of evening you didn’t rush.
+
+Mum cut into her steak, looked at the blush of it, and gave a small, approving grunt. “Well done,” she said to Charli. “Or rather, not well done, thank goodness.”
+
+Charli’s shoulders dropped about a centimetre. “I watched a lot of videos,” she admitted. “It’s just… counting and paying attention, really.”
+
+“That’s most of life,” Mum said. “People just pretend it’s more complicated.”
+
+We ate. For a while the only sounds were knives on plates and the murmuring of the kettle clicking on again in the background, because Charli believed in tea before dessert like it was a rule of physics.
+
+Mum told us more about Birmingham—the canals, the solicitors who thought politeness was a strategy, not a baseline. New staff in her salon.
+
+“Christine knew I was happy with her hiring new staff if the workload required it,” she said, spearing a potato. “You’d like her. Tiny, terrifying, cuts a bob like she’s carving marble. She sent me photos of the books every week. Didn’t lose me a single regular.”
+
+“Of course she didn’t,” I said. “You don’t hire people who would.”
+
+“No,” Mum agreed. “I don’t.”
+
+That was as close as she came to saying she trusted someone. I stored it away, the way I always did.
+
+Conversation slowed after that. The big pieces had been laid on the table along with the plates: house sold, divorce final, salon intact, mother back. I could feel the quiet settling in, thick and aware.
+
+That’s when I noticed Mum was watching Charli more closely.
+
+Not staring. Just… observing. Tracking. The way Charli refilled my water glass without asking, the way she answered questions with a soft “mm” first, as if checking that her reply belonged in the room.
+
+Mum’s eyes flicked from Charli’s hands to her face, then to me. There was a question forming there, under the surface, like steam under a lid.
+
+I took a sip of wine I didn’t particularly want, just to have something to do with my mouth.
+
+“What?” I asked, finally.
+
+Mum shrugged one shoulder. “Nothing,” she said. “I’m just… catching up.”
+
+“On what, exactly?” I pushed. Better to drag it into the open than sit here and let my imagination try on versions.
+
+She dabbed her mouth with her napkin, buying a second. “You always said,” she began, turning the stem of her glass between her fingers, “that you couldn’t imagine sharing your life with someone who needed you to do their thinking for them.”
+
+I felt my lips curve. “Sounds like me.”
+
+“And I knew you were never really interested in boys,” she added. “Especially after the disaster with that blond mid-fielder.” She gave a tiny, theatrical shudder. “Sensible of you.”
+
+“Also sounds like me,” I said.
+
+She nodded towards Charli, who was pretending very hard to focus on her potatoes and not on us.
+
+“So.” Mum’s gaze settled back on me. “I’m pleased to see you’ve chosen someone who keeps the kitchen running and doesn’t look like she’s waiting to be rescued.” Then, to Charli, almost offhand: “You’re good for her. I can see that.”
+
+Charli’s head came up, startled. A flush rose under her skin, quick and traitorous.
+
+“I… hope so,” she said. “She’s—” She stopped and blushed harder.
+
+Something in my chest softened and tightened at the same time. There it was: the little domestic verdict Mum had never given about anyone in my orbit before. Good for her. Stamp of approval, Lisbeth-style.
+
+For a heartbeat, it was tempting to leave it there.
+
+Let Mum keep her neat, tidy narrative: daughter likes girls, daughter finds capable girl, all is well. No need to complicate it with chromosomes and timelines and the boy’s room that wasn’t a boy’s room anymore.
+
+But I looked at Charli—at the still-messy bun, the tiny line between her brows that appeared whenever she tried to read a room too hard—and remembered what she had risked to stand where she was now. To sit here, at this table, as mine.
+
+If I let Mum enjoy a version of her that wasn’t the whole truth, wasn’t I doing exactly what I despised in Nigel? Selling a pleasant story and hoping reality would never turn up at the door?
+
+Mum saw the shift in my face, of course she did.
+
+“What?” she asked again, sharper this time. “You’ve got that look.”
+
+“What look?” I stalled.
+
+“The one you had when you were twelve and you’d cut your own fringe and were waiting to see if I’d notice.” Her eyes narrowed. “Out with it, Celeste.”
+
+Charli went very still. Her fork hovered halfway to her mouth and stayed there.
+
+I took a breath.
+
+“You remember,” I said slowly, “when I first moved out and we were trying to work out how I could afford Uni and still have my own place? And then I told you I’d found a housemate. Quiet. Helpful. ‘A bit of a shambles, but sweet’?”
+
+Mum nodded. “That boy,” she said. “Yes. From high school, wasn’t he? You sent a photo when he first moved in. The lighting was shocking. So, where is he?”
+
+I looked at her for a moment.
+
+“Well, this is… him,” I said finally. Charli stared at me, eyes wide.
+
+Mum glanced at Charli, blinked. “Sorry?”
+
+I reached across and put my hand over Charli’s under the table. Her fingers were cold.
+
+“This is that boy,” I repeated. “This is Charli. No ‘e.’ She used to answer to ‘Charlie’ with an ‘e.’ Same person. Different… everything else.”
+
+For a long second, the only sound in the room was the tiny tick of the cooling oven.
+
+Mum looked at Charli properly then, as if I’d rotated a painting and she was seeing the composition for the first time. Eyes, mouth, the set of the shoulders. A quick flick to my face. Back to Charli.
+
+I watched the surprise land—not in a dramatic gasp, but as a subtle recalibration, like a woman mentally rewriting a client’s colour formula.
+
+“Right. Well,” she said at last, exhaling. “This is… not what I’d expect to hear over eye fillet.”
+
+Her tone wasn’t horrified. Just honestly startled. It was almost a relief.
+
+Charli swallowed, audibly. “If you want, I can go to my mum’s—” she began, panic edging her voice.
+
+Mum cut her off with a small, decisive wave of her hand.
+
+“Don’t be ridiculous,” she said. “You clearly don’t know me yet. My daughter has sound judgement.” She gave Charli her warmest version of a smile. “Besides, the potatoes were as excellent as the steak. And I have just spent a year watching a man pretend change is impossible.” Her gaze sharpened. “I am not about to punish the two of you for proving him wrong.”
+
+My throat burned. Charli’s fingers tightened around mine under the table.
+
+“Yes, there will be questions,” Mum added, matter-of-fact. “Later. When I’ve slept and you’ve both stopped looking like startled possums. But for now…” She lifted her glass. “To good food, honest surprises, and my daughter finally choosing someone who can cook.”
+
+Charli let out a tiny, breathless laugh. I clinked my glass against Mum’s and felt something old and tight inside me loosen, just a fraction.
+
+Mum had come back from the cold with a divorce and her sense of humour intact.
+
+She was staying for dessert.
+
+Dessert turned out to be whatever we could coax out of the freezer and fruit bowl—vanilla ice-cream, some slightly bruised nectarines, the last of the good chocolate Charli had hidden at the back behind the frozen peas.
+
+Mum ate like a woman who hadn’t trusted food in transit for several days. She asked small, practical questions between spoonfuls: how many hours I was taking at Uni, whether Wardrobe was still “full of terrifyingly competent women,” whether Charli’s mum lived far enough away to make spontaneous visits unlikely.
+
+“Not that I’d blame her,” she added, glancing at Charli. “If I had a daughter this sensible I’d be popping in all the time just to admire my own work.”
+
+Charli nearly dropped her spoon.
+
+By the time the bowls were rinsed and stacked and the dishwasher grumbled to life, Mum’s eyelids were starting to look heavy around the edges.
+
+“All right,” she said, pushing her chair back. “That’s quite enough life for one day. I’m going to let your spare room do its job.”
+
+At the doorway to the hall she paused, turned, and kissed my cheek. Not a lingering, cinematic moment—just a brief press of lips, the kind she’d given me before exams and long flights.
+
+“We’ll talk more in the morning,” she said. “Sleep. You’ve both earned it.”
+
+She nodded once to Charli. “Thank you again for dinner.”
+
+“I’m glad you enjoyed it,” Charli said, a little hoarse. “And I’m… glad you’re here.”
+
+Mum’s mouth softened. “So am I,” she said, and disappeared down the hall with her tote.
+
+The flat exhaled behind her.
+
+Charli and I stood in the kitchen a moment longer, side by side, staring at the blank bench like it might have instructions.
+
+“Well,” I said finally. “That could have gone worse.”
+
+Charli let out a shaky laugh. “She’s… intense,” she said. “In a good way. I like her.”
+
+“Of course you do,” I said. “She liked you first.”
+
+Colour rose in her cheeks. “I was scared she’d be… I don’t know. Disappointed? Or weird. About me. About us.”
+
+“She’s a lot of things,” I said. “But she’s not Nigel. She meant it when she said she wouldn’t punish us for changing.”
+
+Charli nodded, slowly. “Still… I’m a bit nervous about ‘there will be questions.’”
+
+“Me too,” I admitted. “But questions I can handle. Lies I can’t. We’re on the right side of that line.”
+
+We did the bedtime choreography around each other—toothbrushes, pyjamas, lights clicked off one by one. When we finally slid under the covers, Charli curled in closer than usual, her hand finding mine between the pillows.
+
+“Are you okay?” she whispered.
+
+“Not really,” I said honestly. “But I’m… good. If that makes sense.”
+
+“It does,” she said. “Good is… different for you.”
+
+I lay there listening to the small noises of the building—pipes, a distant lift, someone’s late TV—until her breathing evened out. I stared at the ceiling and thought about my mother asleep in the next room, a stamped decree in her bag and a whole new set of questions in her head.
+
+Tomorrow, I would put her in the Swift and let her ask them as I drove her home to her new life.
+
+For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

@@ -41,6 +41,7 @@ nav:
   - Home: index.md
   - Celeste's Girl:
     - CelestesGirl/index.md
+    - Celeste's Girl: CelestesGirl/CG-Book-One.md
     - Scenes 01-05: CelestesGirl/CG01-05.md
     - Scenes 06-10: CelestesGirl/CG06-10.md
     - Scenes 11-15: CelestesGirl/CG11-15.md
@@ -105,6 +106,7 @@ nav:
     - Scene53: CGScenes/Scene53.md
     - Scene54: CGScenes/Scene54.md
     - Scene55: CGScenes/Scene55.md
+    - Scene56: CGScenes/Scene56.md
 
   - Dev:
     - Dev/index.md
@@ -136,6 +138,7 @@ nav:
       - Emily 26.02.06: Emily/2602/Notes2026-02-06.md
       - Emily 26.02.15: Emily/2602/Notes2026-02-15.md
       - Emily 26.02.16: Emily/2602/Notes2026-02-16.md
+      - Emily 26.02.18: Emily/2602/Notes2026-02-18.md
       - Emily Template-A: Emily/2602/Notes2026-20-0a.md
       - Emily Template-B: Emily/2602/Notes2026-20-0b.md
 
