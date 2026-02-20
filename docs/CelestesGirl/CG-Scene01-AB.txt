@@ -1,0 +1,114 @@
+# Celeste's Girl
+
+
+
+
+## 1 Are You Lost? ✨ 
+
+
+I normally didn’t go down that corridor at all.
+
+The library wing had its own hush. Pale tiles, the faint perfume of hand soap drifting from the bathrooms, and that institutional quiet that makes you lower your voice without thinking. I’d cut through to avoid the main hall after the bell, because the hallway was a river of elbows and backpacks, and I don’t like being jostled when my head is full. I’d also learned early that if you walk as though you belong somewhere, people stop asking why you’re there. It isn’t arrogance. It’s choreography.
+
+I nudged the door with my shoulder and stepped into the girls’ toilets. Only then did I see someone at the sinks.
+
+For a beat my mind stalled. Not because it was scandalous, but because it didn’t fit the neat categories school insisted were natural.
+
+A boy.
+
+He stood under the mirror lights with a paper towel clutched in one hand, staring at me. Short, slight, narrow-shouldered, with long brownish hair that fell into his eyes as if he’d forgotten it needed managing. His uniform shirt was oversized and softened by too many washes, the collar gone limp, like the person laundering it had stopped believing in crispness.
+
+He stood still. Frozen. He wasn’t predatory still. He wasn’t defiant still. He was just… caught.
+
+Like a deer that has realised the world contains headlights.
+
+His stare was not the usual quick look you get from boys who think girls are scenery. His was different. His breath snagged and didn’t restart smoothly. His gaze locked, as if his eyes had forgotten they were supposed to move. Not bravado. Just a raw, helpless kind of astonishment.
+
+I could have shouted, “Get out,” as if volume was a form of safety. But screaming makes *you* the story. It invites witnesses, gossip, morality plays. And I didn’t want a story. Not for me, and not for him. So I did what I always do when the unexpected enters my orbit: I controlled what would happen next.
+
+“Hello,” I said, calm, as if I’d found a first-year hiding from a duty teacher. “Are you lost?”
+
+His throat bobbed. The silence was so complete I could hear the air-conditioning tick behind the vent. Then he managed, hoarse and thin:
+
+“I… I’m sorry.”
+
+A pre-emptive apology. Interesting. Did he even know where he was?
+
+I softened my voice by a fraction. Not concern. Calibration.
+
+“You know you’re in the ladies’, right?”
+
+I watched the fact land late. His eyes flicked around the room, taking in the sinks, the cubicle doors, the absence of any familiar marker that could make this make sense. He swallowed hard.
+
+“Oh—” He groaned. “Oh, no. I thought this was— I mean, I—”
+
+Words spilled out, urgent and unhelpful. The instinct to explain. To erase himself by being reasonable. He wasn’t the swaggering kind of boy. He definitely wasn’t the cheeky kind. He was the wrong-door, head-in-the-clouds kind, the kind who would apologise to a chair he bumped into.
+
+He stood there with the paper towel held up like it was evidence.
+
+I took a small step nearer. Close enough to anchor him. Not close enough to crowd. He backed into the sinks without meaning to, shoulders drawing inward as if he could shrink out of existence.
+
+“Right then,” I said briskly. “Stop. Breathe.”
+
+He blinked at me, startled by my tone. Then, involuntarily, he did as he was told.
+
+“Good,” I continued, calm again. “Now, you’re going to walk out like nothing’s wrong.”
+
+His mouth opened again. I lifted a finger.
+
+I’m handling this.
+
+“Don’t argue. Don’t confess. Don’t do that thing where you look like you’re expecting to be punished.” His shoulders tightened, like I’d hit a nerve. “Just… let me steer for a second.”
+
+As he continued to stare at me, I saw the shift. Tiny, but unmistakable. His breath slowed. His spine uncurled a fraction. His hands lowered. He absorbed my taking over like cloth absorbs dye. It wasn’t weakness, but habit. A boy who’d learned that his safest option was to yield.
+
+“What’s your name?”
+
+He hesitated, as though revealing names was dangerous.
+
+“Chuck,” he said. Then he corrected himself, with an awkward, desperate politeness. “Charles. Charles Rossignol.”
+
+“Rossignol,” I repeated, tasting it, translating it. “Nightingale.”
+
+His eyes lifted, startled that I knew that. He held my gaze for a beat too long, still caught, still dazzled, and I felt the weight of it. Responsibility. I tilted my head toward the door.
+
+“We’re leaving.”
+
+He looked past me, as if the doorway to the ladies’ might bite. I stepped out first and positioned myself where anyone would see me before they saw him.
+
+“If someone looks at you oddly,” I said quietly, “you look at me. Understand?”
+
+He nodded. Quick. Obedient. We moved.
+
+As he crossed the threshold he stopped, eyes flicking back to me. I lifted my eyebrows.
+
+Go on.
+
+He swallowed, still immobile.
+
+“Charlie,” I said lightly.
+
+“My name’s not—”
+
+“I know.” I gave the moment a hint of humour. “It suits you, though. Let me know if you hate it.”
+
+He looked at me as if I’d handed him something he didn’t know how to hold. Then he was gone, swallowed by the tide of students.
+
+I stayed in the doorway to the bright tiled room for a moment, with the clean satisfaction of a strategist whose board has presented an unexpected piece.
+
+He watches my face like he’s waiting to be told what’s real.
+
+I’m very good at inspiring that reaction.
+
+I have to be careful with it.
+
+
+
+
+
+
+
+
+
+
+
