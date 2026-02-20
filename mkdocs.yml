@@ -39,9 +39,10 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Celeste's Girl:
-    - CelestesGirl/index.md
-    - Celeste's Girl: CelestesGirl/CG-Book-One.md
+  
+  - Charlotte:
+    - Charlotte/index.md
+    - Celeste's Girl: Charlotte/CG-Book-One.md
 
 
   - Dev:
