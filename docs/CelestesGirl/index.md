@@ -27,9 +27,26 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 
 
+## Audiobook
+
+I'm slowly putting together an audiobook of 'Celeste's Girl'. What follows is the intro to those scenes:
+
+<audio controls="controls">
+  <source src="http://art.tightbytes.com/assets/audiobook/Intro_CG.mp3" type="audio/wav">
+  Your browser does not support the <code>audio</code> element. 
+</audio>
 
 
-### Happy Thoughts
+
+
+
+
+
+
+
+
+
+## Happy Thoughts
 
 Note: save from .yt-short iframe:  aspect-ratio: 9 / 16;
 
