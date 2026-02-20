@@ -19,7 +19,7 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 * **Removing the 'AI' look** (see image)  
   Models used: SRPO (improved Flux1 Dev) 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
 
 
@@ -35,6 +35,8 @@ I'm slowly putting together an audiobook of 'Celeste's Girl'. What follows is th
   <source src="http://art.tightbytes.com/assets/audiobook/Intro_CG.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
+
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
 
 
