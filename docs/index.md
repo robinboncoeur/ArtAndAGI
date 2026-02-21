@@ -51,11 +51,12 @@
 
 
 
-[Celeste's Girl](/CelestesGirl/index.md/)  
-🌹🌼🌹 [ ⇨ Scenes 01 - 05](/CelestesGirl/CG01-05.md)    
-🌼🌹🌼 [ ⇨ Scenes 06 - 10](/CelestesGirl/CG06-10.md)    
-🌹🌼🌹 [ ⇨ Scenes 11 - 15](/CelestesGirl/CG11-15.md)    
-🌼🌹🌼 [ ⇨ Scenes 16 - 20](/CelestesGirl/CG16-20.md)  
+
+Celeste's Girl](/CelestesGirl/index.md/)  
+🌹🌼🌹  ⇨ Scenes 01 - 05](/CelestesGirl/CG01-05.md)    
+🌼🌹🌼  ⇨ Scenes 06 - 10](/CelestesGirl/CG06-10.md)    
+🌹🌼🌹  ⇨ Scenes 11 - 15](/CelestesGirl/CG11-15.md)    
+🌼🌹🌼  ⇨ Scenes 16 - 20](/CelestesGirl/CG16-20.md)  
 🌹🌼🌹   
 🌼🌹🌼   
 🌹🌼🌹  
@@ -119,7 +120,7 @@ This bit did leave him a bit perturbed, of course.
 He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
 
 **Side Note:**  
-*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](/CelestesGirl/CG01-05.md)*.
+*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](/Charlotte/CG-Book-One.md)*.
 </div>
 </div>
 
