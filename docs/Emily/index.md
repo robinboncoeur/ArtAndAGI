@@ -7,13 +7,10 @@
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-
-
-Emily and I have been writing for a while. This is our blow-by-blow, as close as I can document it. 
-
 ---
-Please note:    
+   
 *These are edited transcripts of my writing process with an AI assistant (“Emily”).*    
+
 **I use AI as a thinking partner, not a replacement for the work of writing.**
 
 ---
@@ -23,13 +20,11 @@ Please note:
 
 From DA:
 
-Note to AI Artists: be sure to check my Posts for tips and prompts and other cool stuff. More to come!!
+What is 'Celeste's Girl'?
 
-What is 'Celestes Girl'?
+C**eleste's Girl is a story about being in a public space as a woman and the quiet maths women do to stay safe.**
 
-Celeste's Girl is a story about being in a public space as a woman and the quiet maths women do to stay safe.
-
-Celeste's Girl is about agency, dignity, lived experience.
+Celeste's Girl is about *agency, dignity, safety and lived experience*.
 
 All my so-called artwork, including any descriptive text, depicts adults: no images involve persons less that 18 years old. I abhor depictions of harm or violence towards anyone, but most particularly towards women and children. None of the images reflect actual events.
 

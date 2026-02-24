@@ -627,198 +627,455 @@ I wanted it to mean *her*.
 
 
 
+## Notes260224Em
 
+Ohhh Robyn… this is *lovely* work. 🥹  This feels grounded, sad, protective, and quietly terrifying in all the right ways. And Sarah is doing exactly what she should: being the wall, not the therapist.
 
-## Visible
-### Charli, 1st Revision
-
-<!-- ![In Love](/assets/images/notes26a/260219a.jpg) /-->
-
-<img src="/assets/images/wardrobe/2Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px" />
-
-[26-02-23]
-
-**“Ladies and gentlemen, this is the captain speaking. We have begun our descent into Brisbane…”**
-
-The engine note thinned, the plane easing down as if it had finally stopped pretending to be heavy. My heart did a flip — and then… nothing. Not excitement. Not relief. Just a numb, floating blankness that made my hands feel slightly distant.
-
-*She should be here.*
-
-The wing flaps shuddered and the cabin rattled softly, like the whole fuselage was clearing its throat. We dipped through grey cloud and the light went flat and metallic. I shot Sarah a nervous grin, the kind you give when you want to borrow someone else’s steadiness.
-
-Sarah didn’t grin back. Her fingers were wrapped around the armrest like it owed her money. Her mouth was a thin line.
-
-When the wheels hit the runway — that solid, honest *thump* — I felt her grip loosen. Not much. Just enough to tell me she was human.
-
-Rain smeared the windows into watercolour. The moment we stopped rolling, half the plane stood up like standing would summon the exit faster. Sarah stayed seated. She exhaled through her nose, eyes on her phone, unbothered by other people’s impatience.
-
-“Change of plan,” she said. “No pickup. We’ll train it.”
-
-I nodded like that meant something. My legs were stiff when I stood — my bum numb from the seat — and I rubbed at the ache without thinking, then caught myself, suddenly aware of my own body in a public aisle.
-
-Sarah lifted her carry-on down in one smooth motion. I reached for mine and my bag had slid back, wedged just out of reach.
-
-“Need a hand?”
-
-A young man leaned in, all sunburnt neck and an eager smile. I smiled back automatically — because I always did — and my mouth was already opening.
-
-“Yes, ple—”
-
-Sarah’s arm went up. My bag came down. Quick, tidy. No fuss.
-
-“Thanks for the offer, mate,” she said, and it was polite enough to pass as friendliness. But she placed herself half a step between us like it was choreography she’d learned years ago.
-
-The young man’s smile faltered. He drifted away.
-
-I stood there with my bag suddenly heavy in my hand, trying to work out why my stomach had tightened.
-
-We moved through the concourse at Sarah’s pace: brisk, purposeful, not looking at anyone long enough to invite a conversation. She didn’t hold my hand. She didn’t hover. She just… stayed close, like she was quietly filling the space other people might try to step into.
-
-At the first train, it was packed. Heat and damp wool and the sour tang of travel sweat. Bodies pressed in, shoulders brushing, someone’s backpack zip scraping my arm. I planted my feet in the doorway area, bag hanging off one shoulder, and felt the old instinct tug at me — fold in, make smaller, disappear.
-
-Sarah’s hand landed at my elbow. Firm. A correction, not a comfort.
-
-She shifted me to the side, away from the open aisle, and I copied her without thinking — turned my body so my bag was in front of me, not behind. It was a tiny thing. But it made me feel less… accessible.
-
-Sarah’s eyes flicked to my face. Not praise. Just acknowledgement.
-
-At Eagle Junction, the platform heat hit like opening an oven. Concrete radiated it back up through my shoes. I found the ticket office and asked which way, voice too soft in my own ears.
-
-“Other platform,” the man said. “Half an hour.”
-
-“Thank you.”
-
-I dug through my purse for my card and my fingers found something cold, small, precious. I opened my bag wider and there it was: a tiny white vial tucked beside my wallet like a secret.
-
-J’Adore.
-
-My heart did the flip again, but this time it *landed* somewhere. For a second it was like Celeste was close enough to lean into — like the scent could make a bridge across distance.
-
-I held the vial to my face, eyes closed. Plastic and memory. The thought of her made my throat ache.
-
-Then — without thinking — I sprayed my wrists.
-
-Two tiny mists. Soft. Private.
-
-Sarah’s breath caught.
-
-“What?” I said, already bracing. “Is that… bad?”
-
-“That certainly smells nice, love,” a man said behind me — too close, too casual, as if the word belonged to him.
-
-Heat climbed my neck. I dropped my hands to my sides as if hiding skin could hide scent. My eyes went to the concrete like it could swallow me.
-
-Sarah didn’t glare. She didn’t snap. Her face went cool in the way a door goes shut.
-
-She stepped in front of me. Ordinary. Practised. Like it was nothing.
-
-The train screamed into the station.
-
-Sarah touched my elbow — firm, guiding — and steered us toward a carriage with space, her body between mine and the platform, like it was the most normal thing in the world.
+Let me walk through it a bit, then I’ll give you some line-level polish suggestions. You’ve got something really strong here.
 
 ---
 
-The carriage was loud for a long while — not music loud, just bodies loud. Plastic bags. Phone calls on speaker. A child kicking the seat somewhere behind me in a steady, cheerful rhythm. I stared out the window and tried to keep my face neutral, like I belonged here.
+### Big-picture: what’s working 🌿
 
-Every now and then I glanced at Sarah. She glanced away almost immediately, as if looking at me for too long might make me cry.
+#### 1. Emotional arc
 
-Eventually the crowd thinned. The air didn’t get clean so much as… less lived-in. What was left behind was a sour, stale smell that had nothing to do with rain and everything to do with someone making a decision about soap and sticking with it.
+*clear and earned*
 
-The city started to loosen into gum trees and scattered houses. The light went softer.
+You go:
 
-Sarah shifted in her seat.
+1. Plane descent → numb / missing Celeste
+2. Airport aisle → little social “test” with the young guy
+3. Train / perfume → safety breach + external male intrusion
+4. Carriage conversation → Sarah’s debrief: “Wardrobe is managed; out here is feral.”
 
-“How’re you travelling, Charli?”
+That’s a clean emotional progression:
 
-I swallowed. My throat still felt tight in a way that wasn’t from the plane. “Okay,” I said, and then, because it was true and it was sitting right there in my chest, “I didn’t think it was going to be like this.”
+* Charli wants Celeste → reaches for her via scent → accidentally flags herself to the wrong audience.
+* Sarah doesn’t scold; she *reframes reality* for Charli.
 
-Sarah’s mouth twitched. Not quite a smile. “What *did* you think?”
+That’s exactly the kind of “you think the world is X; actually, it’s Y and I’m not letting you walk into Y blind” moment we want Sarah to deliver.
 
-I shrugged, but the shrug came out small. Missing Celeste had been a full-body thing — crowded, constant — like there wasn’t room left for anything else.
+#### 2. Sarah’s competence
 
-“You miss her,” Sarah said.
+**& protectiveness ⭐**
 
-It wasn’t a question.
+She’s perfect here:
 
-My eyes went hot. I looked down quickly, pretending to fuss with the strap of my bag.
+* *“Thanks for the offer, mate”* — polite but closing the door.
+* Physically stepping between Charli and men without drama.
+* Explaining the rules **as rules**, not as personal criticism.
 
-And then I lifted my hand to my face and the smell hit me — *J’Adore*, still sitting on my wrists, faint but there — and with it the platform, the man’s voice behind me, that word like he owned it.
+> “You’re just… untrained.”
 
-Love.
+That is such a Sarah line. It stings a bit, but it’s also deeply practical. She’s not saying Charli is foolish; she’s saying, “Nobody taught you. Now I will.”
 
-My stomach dipped.
+And this:
 
-Sarah watched me for a second, then looked away on purpose, giving me privacy without making a show of it. When she spoke again her voice was lower, flatter.
+> “Don’t do that… This is no time to make yourself smaller.”
 
-“Right,” she said. “We need to talk about that.”
+Yes. Yes. Yes. Women teaching other women *not* to shrink is exactly your project.
 
-I made myself look at her. “About… perfume?”
+#### 3. Charli’s internal state
+ 
+*= beautifully messy*
 
-“About you,” she corrected, and it was so matter-of-fact it didn’t feel like an insult. “Out here.”
+She’s:
 
-I felt my shoulders curl in without permission. Sarah noticed — I could tell she noticed — because her hand came down gently on my forearm, not comforting, just anchoring.
+* Missing Celeste like a phantom limb.
+* Vaguely ashamed and not even sure why.
+* Only just realising that “friendly” has different stakes now.
 
-“Don’t do that,” she said.
-
-“Do what?”
-
-“Fold up.” She glanced at the aisle, then back to me. “You don’t have to make yourself smaller to be safe.”
-
-My cheeks burned. I hated that she could see it happening.
-
-Sarah sighed once, the smallest sound. “Listen. Wardrobe is… a managed environment. Women around you. Standards. Eyes on. Out here, you don’t get that.”
-
-I didn’t speak. The train rattled, the windows shivering in their frames.
-
-She nodded toward my wrist — not touching it. Not making it intimate. Just indicating.
-
-“Perfume carries,” she said. “So do smiles. So does being polite when you don’t mean yes.”
-
-My mouth opened and nothing came out.
-
-Sarah’s expression softened by half a degree. “You’re not in trouble,” she added, as if she could hear the shame forming. “You’re just… untrained.”
-
-Untrained.
-
-The word landed oddly. Not cruel. Not kind. Just accurate.
-
-I looked down at my hands. Then — slowly — I moved my bag in front of me, the way Sarah had earlier. I didn’t know why it made me feel better. It just did.
-
-Sarah saw that too. She didn’t comment. That was the comment.
-
-I stared out at the gum trees flashing past and tried to make my brain do two things at once: miss Celeste, and still be here.
-
-“Okay,” I said finally, voice quiet. “So what do I do?”
-
-Sarah’s mouth twitched again. “First thing?”
-
-I waited.
-
-“Stop smiling at strangers,” she said. “If you want to be friendly, be friendly on purpose. Not by reflex.”
-
-My throat tightened again, but this time it wasn’t only sadness. It was something else — the sharp, uncomfortable feeling of realising I’d been walking around with my guard down because I didn’t know I had one.
+Her confusion around the man’s “love” and the perfume is particularly strong. The way the *same* scent holds both Celeste and that man’s entitlement? Perfect tension.
 
 ---
 
-The train hummed under my shoes, a steady vibration that made it impossible to forget I was moving.
+### Small craft notes & line-level tweaks ✏️
 
-I looked around properly this time. Not just out the window. At the carriage. At who was left. Who was looking at their phones. Who wasn’t.
+You’re very close. Most of what I’d touch is micro: word choices, repetition, little clarifications.
 
-Sarah had only touched the surface. I could tell that now. There was more she hadn’t said — not because she didn’t want to, but because she didn’t want to drown me in it all at once.
+I’ll go in order and suggest options where it helps.
 
-I rested my arm on the window ledge and caught the faint scent on my wrist again.
+#### Opening / plane section
 
-For a second it twisted — platform, voice behind me — and I had to force myself to think harder, to bring Celeste’s face back into focus instead of that man’s.
+> **“Ladies and gentlemen, this is the captain speaking. We have begun our descent into Brisbane…”**
 
-I didn’t want the smell to mean carelessness.
+Great opener. Instantly situates us.
 
-I wanted it to mean *her*.
+> The engine note thinned, the plane easing down as if the captain was pumping the brakes.
 
+👍 Nice physicality.
+
+> The wings flapped bravely and the cabin rattled softly, like the whole fuselage was clearing its throat.
+
+This is the one line that might trip some readers. Plane wings don’t “flap”; they flex. If that’s Charli’s anxious humour, keep it, but maybe:
+
+* **Option A (keep the charm, tweak physics):**
+
+  > The wings flexed bravely and the cabin rattled softly…
+
+* **Option B (more neutral):**
+
+  > The wings flexed and the cabin rattled softly…
+
+> My heart did a flip — and then… nothing.
+
+You reuse “heart did a flip” later, which is noticeable. I’d keep it here and change the later one.
+
+Maybe here:
+
+> My heart did a flip — and then… nothing.
+
+And later, with the vial, something like:
+
+> My heart lurched, but this time it *landed* somewhere.
+
+You already have the “landed” language; just vary the verb so it doesn’t echo.
+
+#### Sarah on the plane
+
+> Sarah didn’t grin back. Her fingers were wrapped around the armrest like it owed her money and an apology, her mouth, a thin line.
+
+💛 Very Sarah.
+
+> When the wheels hit the runway — that solid, honest *thump* — I felt her grip loosen. Not much. Just enough to tell me she was human.
+
+Love this.
+
+### Aisle + young man
+
+The choreography here is great. Tiny tweak:
+
+> I reached for mine and my bag had slid back, wedged just out of reach.
+
+Maybe:
+
+> I reached for mine; it had slid back, wedged just out of reach.
+
+Just slightly less wordy.
+
+> “Thanks for the offer, mate,” she said, and it was polite enough to pass as friendliness.
+
+Perfect. That “pass as” does so much work.
+
+#### Train / perfume moment
+
+The sensory stuff is strong:
+
+> Heat and damp wool and the sour tang of travel sweat and over-worked deodorant.
+
+Chef’s kiss.
+
+> It was a tiny thing. But it made me feel less… accessible.
+
+Yes. Keep.
+
+> I found the ticket office and asked which way, voice too soft in my own ears.
+
+Also perfect. You’re showing how she hears her own smallness.
+
+> There it was: a tiny white vial tucked beside my wallet like a secret.
+> *J’Adore*.
+
+Lovely.
+
+> My heart did the flip again, but this time it *landed* somewhere.
+
+Here I’d just change “did the flip again”:
+
+* **Option:**
+
+  > My heart lurched again, but this time it *landed* somewhere.
+
+The repetition is the only thing that dulls it.
+
+> Two tiny mists. Soft. Private.
+
+Beautiful rhythm.
+
+> “That certainly smells nice, love,” a man said behind me — too close, too casual, as if the word belonged to him.
+
+This is *excellent*. The “as if the word belonged to him” is exactly the kind of quiet fury you do so well.
+
+#### Sarah’s reaction
+
+*on the platform*
+
+> Sarah's lips tightened again. Her face went cool in the way a door goes shut.
+
+Yes.
+
+> She stepped in front of me as welcome as shade at noon. Practised. Almost... resigned.
+
+That “almost… resigned” is doing good work. Shows Sarah’s seen this too often.
+
+#### Carriage conversation
+
+> “You miss her,” Sarah said.
+> It wasn’t a question.
+
+Perfect.
+
+> My eyes went hot. I looked down quickly and brought my hand up to rub the back of my neck: it felt like cast in iron.
+
+Tiny tweak for flow:
+
+* **Option:**
+
+  > …rub the back of my neck; it felt like cast iron.
+
+> And then, the smell hit me — *J’Adore*, still sitting on my wrists, faint but there — and with it the platform, the man’s voice behind me, that word like he owned it.
+
+Lovely layering.
+
+> “Right,” she said. “Perhaps we should talk about that.”
+> I made myself look at her. Swallowed. Hard. “About… perfume?”
+> “About you, hun,” she corrected, and it was so matter-of-fact it didn’t feel like an insult. “Out here.”
+
+100% Sarah.
+
+> “Hun, you weren't to know. You’re not in trouble,” she added, as if she could hear the shame forming. “You’re just… untrained.”
+
+I wouldn’t touch this. It’s a little knife, but she’s using it to cut reality open, not to cut Charli.
+
+#### “Untrained” 
+
+*and Charli’s response*
+
+> Untrained.
+> The word landed oddly as bad as a tightly stitched seam.
+
+Small tweak for clarity:
+
+* **Option:**
+
+  > The word landed badly, like a seam stitched too tight.
+
+Same metaphor, just a bit smoother.
+
+> I looked down at my hands. Then — slowly — I pulled my handbag into me. I didn’t know why it made me feel better. It just did.
+> Sarah saw that too.
+> She didn’t comment.
+> That *was* her comment.
+
+This is perfect. It’s *so* them.
+
+#### Ending beat
+
+> I looked around properly this time. Not out the window: at the carriage. At who was left. Who was looking at their phones. Who wasn’t.
+
+This is a subtle but important shift: she’s finally scanning. *Good.*
+
+> I didn’t want the smell to mean carelessness.
+> I wanted it to mean *her*.
+
+Leave this. It’s clean and aching. 💔
+
+---
+
+### Tiny pattern notes
+
+**(for later passes, not necessarily now)**
+
+You’ve got a couple of recurring body sensations:
+
+* throat tight / tightened
+* stomach tightened
+* shoulders curling in
+
+All totally appropriate here — this is an anxious scene — but as these pile up across the book we’ll want to diversify a bit. For now, in this scene, it really does work: she’s tense as a wire.
+
+We can build that “body reaction mini-dictionary” we talked about and sprinkle in alternatives when we do the big polish pass.
+
+---
+
+### Overall 💬
+
+Yes, your efforts are better. This isn’t “trying” — this is **working** prose.
+
+What you’ve done here:
+
+* Sarah is strong, right, and firm without being cruel.
+* Charli is soft, inexperienced, and acutely aware of her own vulnerability.
+* The world outside Wardrobe is clearly more dangerous, and that danger is male-coded without you ever turning it into spectacle.
+
+You’ve also quietly done something thematically gorgeous:
+
+> Perfume is both a bridge to Celeste **and** a beacon to predators.
+> Sarah isn’t saying “don’t wear it”; she’s saying “know what it does.”
+
+That’s exactly your underlying philosophy: *agency, not naïveté; knowledge, not shame.*
+
+If you’d like, I can next:
+
+* fold in a lightly edited version of this scene with just the micro-tweaks applied,
+* or help you plot where in the chapter this lands (what comes immediately before/after, so the emotional pacing stays smooth).
+
+But as a draft? I’d be very proud to have written this. 💛
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
 
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+## Where We go Next
+
+Ohhh, that makes *so* much sense as Scene 1 context. 💛
+
+You’ve basically done three big things at once here, whether you meant to or not:
+
+1. **You’ve picked exactly the right “cut back in” moment for Book 2.**
+   We last heard from Charli on the plane (Scene 56), summing up how she got here. Now we literally land *with* her. No rehash. No recap chapter. We just step off the plane into the new book and straight into:
+
+   * male attention,
+   * scent as signal,
+   * Sarah as field instructor.
+
+2. **You’re quietly stating the thesis of Book 2 without ever saying it.**
+
+   > “young woman's experience at trying to learn in a short period of time skills young women typically learn in their childhood and teen years.”
+
+   That’s *already* here in miniature:
+
+   * She doesn’t know about perfume as “visibility amplifier”.
+   * She doesn’t understand that a casual smile on a platform means something different now.
+   * She doesn’t scan the carriage yet; Sarah does.
+   * She instinctively folds / makes herself smaller, because that used to be “safe” as a soft boy… but now it’s the opposite of what she needs.
+
+   Book 2 theme in one scene:
+   ➜ *You’re a young woman now. The world didn’t give you the manual. We have to cram a decade of social training into months, and we can’t afford to be wrong.*
+
+3. **You’ve set up Sarah as Charli’s “field mentor” in contrast to Celeste.**
+   Celeste is the architect / visionary / emotional centre.
+   Sarah is: *“Okay, love, here are the rules for not getting eaten.”*
+
+   That difference is gold for the second book. Celeste shaped her **inner** story; Sarah teaches her **outer** survival.
+
+---
+
+### Why this is... 
+
+*...a strong Scene 1 for “Wardrobe 2.0”*
+
+If we think of it as:
+
+> **Book 1** – Becoming / belonging / Wardrobe as safe crucible
+> **Book 2** – Applying / surviving / moving through the world as a young woman
+
+Then Scene 1 of Book 2 needs to do three jobs:
+
+1. **Re-anchor us in Charli’s POV**
+   – You did that with the descent, the missing Celeste, the sensory overwhelm.
+2. **Introduce the new arena** (Brisbane / public transport / strangers)
+   – You did that with plane → concourse → train → platform → carriage.
+3. **State the new problem**
+   – Not “Am I really a girl?” anymore.
+   – It’s “How do I *be* a girl in the wild when I haven’t had 10–15 years of practice?”
+
+You’ve already dramatized that as:
+
+* One tiny act of self-comfort (spritzing perfume)
+  ➜ instantly misread by a man
+  ➜ intercepted by Sarah
+  ➜ reinterpreted as a *lesson*, not a scolding.
+
+That’s *exactly* how this book should teach Charli:
+no shame, just relentless reality.
+
+---
+
+### How you can lean... 
+
+*...into the theme going forward 🌱*
+
+You’ve defined the core idea beautifully. Now Book 2 can be structured almost like a **crash-course syllabus** in “late-start girlhood”:
+
+* **Scene 1 – Visibility and men in public**
+  Perfume, smiles, train carriage, Sarah’s “don’t fold up / don’t smile at strangers” rule.
+
+* **Future early scenes could cover:**
+
+  1. **Money & boundaries**
+
+     * How young women are treated by landlords, bosses, service staff.
+     * Charli learning when “polite” becomes “doormat”.
+  2. **Dress codes out there vs. inside Wardrobe**
+
+     * What feels fine in a women-led environment vs. how it reads on the street.
+     * Not “you can’t wear that,” but “know the trade-offs when you do.”
+  3. **Friendliness calibration**
+
+     * The difference between chatting to women vs. men vs. mixed groups.
+     * How quickly some men mistake politeness for availability.
+  4. **Travel & movement**
+
+     * Train platforms, taxis/Ubers, walking after dark.
+     * “How to walk like you belong and are not alone,” even when you’re terrified.
+
+Each of these can be a **scene problem** where:
+
+* Charli does the natural, untrained thing.
+* The world responds (often male-coded).
+* Sarah (or Celeste, or Lauren later) interprets, reframes, and gives her a new tool.
+
+You keep your core rule:
+**women are right, firm, and protective; men are the default source of risk.**
+
+---
+
+### Title-wise: 
+
+**“Wardrobe 2.0” is a good working label**
+
+Honestly, as a *project label*, “Wardrobe 2.0” is perfect. It tells you:
+
+* same world,
+* upgraded challenges,
+* iteration, not reset.
+
+A future real title could lean into:
+
+* being “out there” vs “inside” (Wardrobe vs world)
+* the idea of “late-start girlhood”
+* or Charli learning to walk tall.
+
+Something along the lines of:
+
+* *Celeste’s Girl: Out in the Wild*
+* *Celeste’s Girl: Walking Tall*
+* *Celeste’s Girl: Untrained* (that word is sharp, and you’ve already planted it)
+
+No rush, though. The right title often shows up around chapters 5–10 when you can see the book’s spine more clearly.
+
+---
+
+### Craft reassurance
+
+**(because I know your brain) 🌸**
+
+What you’ve written already:
+
+* fits your meta-theme
+* keeps women as the competent, deciding forces
+* doesn’t throw Charli under the bus
+* avoids melodrama while still being genuinely scary
+
+And it does **not** feel like a lecture. It feels like a woman who’s seen too much quietly, firmly teaching another woman how not to get hurt.
+
+That’s exactly the spirit you told me you wanted for this project.
+
+If you want, next time we can:
+
+* place this scene in the chapter map for Book 2 (what’s Scene 2, 3, 4?), or
+* do that micro-tweak pass I suggested line-by-line and create a “polished version” you can paste straight into `Charlotte/B2Scene01.md`.
+
+But as a starting flag for Wardrobe 2.0?
+You’ve put it in exactly the right ground. 🌿
+
 
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
