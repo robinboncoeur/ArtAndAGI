@@ -4,8 +4,10 @@ edit_uri: "http://127.0.0.1:8000/docs/"
 use_directory_urls: true
 theme:
   name: material
-  icon: assets/images/favicon.png
   logo: assets/images/logo.png
+
+  favicon: assets/images/favicon.png
+
   palette:
     # Light mode
     - scheme: default
@@ -23,6 +25,7 @@ theme:
         icon: material/weather-sunny # indigo
         name: Switch to Light Mode
   features:
+    - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
