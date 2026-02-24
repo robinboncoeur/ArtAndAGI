@@ -1,6 +1,6 @@
 # Celeste's Girl
 
-![Le Chateau](/assets/images/scenes/ChatteFleur.jpg)
+![Le Chateau](/assets/images/story/ChatteFleur.jpg)
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
 
@@ -47,7 +47,7 @@ The library wing had its own hush — pale tiles, the faint perfume of hand soap
 I nudged the door with my shoulder and stepped into the girls’ toilets — and only then saw someone at the sinks.
 
 
-<img src="/assets/images/scenes/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px" />
+<img src="/assets/images/story/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px" />
 
 
 For a beat my mind stalled, not because it was scandalous, but because it didn’t fit the neat categories school insisted were natural.
@@ -154,7 +154,7 @@ And then—late, ridiculous—the boy himself came into focus. Not the role. Not
 
 A quick flash: paper towels. A sink. Those startled doe eyes tipping up to meet mine.
 
-<img src="/assets/images/scenes/Scene02a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene02a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 Oh.
 
@@ -678,7 +678,7 @@ His throat bobbed. “I… yeah.”
 He glanced past me, as if expecting an audience. There was none: only the distant fair noise and the buzz of flies around the bins. I nodded at the paper in his hand.
 
 
-<img src="/assets/images/scenes/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 “That’s Mara’s trial shift.”
@@ -752,7 +752,7 @@ And, if he chose it, keep.
 
 ## 4 First Day 🧵
 
-<img src="/assets/images/scenes/Scene04a.jpg" style="float: right; width: 540px; margin-left: 20px" />
+<img src="/assets/images/story/Scene04a.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -1032,7 +1032,7 @@ Mara turned away as if an important matter had been settled. Which, it had. She�
 
 ## 5 Second Day 🪡
 
-<img src="/assets/images/scenes/Scene05a.jpg" style="float: right; width: 540px; margin-left: 20px" />
+<img src="/assets/images/story/Scene05a.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
 [*Celeste*]
 
@@ -1218,7 +1218,7 @@ And I’m not letting him waste it.
 
 ## 6 Sewing as Physics ✨
 
-<img src="/assets/images/scenes/Scene06a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene06a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -1430,7 +1430,7 @@ Into the next room.
 
 ## 7 Lauren ✨
 
-<img src="/assets/images/scenes/Scene07a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene07a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 [ *Celeste* ]
@@ -1648,7 +1648,7 @@ Mara’s mouth twitched again.
 
 ## 8 Infrastructure ✨
 
-<img src="/assets/images/scenes/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 [ *Celeste* ]
@@ -1833,7 +1833,7 @@ And Charlie learning — quietly, steadily — how to live inside it.
 
 ## 9 Noise or Signal ✨
 
-<img src="/assets/images/scenes/Scene09a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene09a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -2069,7 +2069,7 @@ A room where the system’s noise could stay outside the door — because inside
 
 ## 10 Not My First Choice ✨
 
-<img src="/assets/images/scenes/Scene10a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene10a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -2288,7 +2288,7 @@ It became a place that made new ones.
 
 ## 11 The Ledger ✨
 
-<img src="/assets/images/scenes/Scene11a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene11a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -2479,7 +2479,7 @@ It becomes the rule.
 
 ## 12 Has Charlie Run It? ✨
 
-<img src="/assets/images/scenes/Scene12a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene12a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -2645,7 +2645,7 @@ And just like that, the atelier took one step away from being a clever little po
 
 ## 13 Working Stays ✨
 
-<img src="/assets/images/scenes/Scene13a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene13a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -2826,7 +2826,7 @@ Charlie’s pen paused. Finally, he underlined *front closure* once, neatly, and
 
 ## 14 The Block ✨
 
-<img src="/assets/images/scenes/Scene14a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene14a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -3010,7 +3010,7 @@ It was commitment.
 
 ## 15 The Ladder ✨
 
-<img src="/assets/images/scenes/Scene15a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene15a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -3230,7 +3230,7 @@ And Charlie lifted his arms.
 
 ## 16 First Rung ✨
 
-<img src="/assets/images/scenes/Scene16a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene16a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -3365,7 +3365,7 @@ She’d built a ladder.
 
 ## 17 Second Rung ✨
 
-<img src="/assets/images/scenes/Scene17a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene17a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -3593,7 +3593,7 @@ Just… as if work was what you did next.
 
 ## 18 Third Rung ✨
 
-<img src="/assets/images/scenes/Scene18a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene18a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -3847,7 +3847,7 @@ Just… as if competence had become a habit, and habits could hold you up when p
 
 ## 19 The Numbers ✨
 
-<img src="/assets/images/scenes/Scene19a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene19a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -4123,7 +4123,7 @@ Inside, at the cutting table, we began building one that would hold.
 
 ## 20 House Policy ✨ 
 
-<img src="/assets/images/scenes/Scene20a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene20a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
 
@@ -4614,7 +4614,7 @@ I lifted a hand.
 His shoulders dropped a fraction. Relief. I sat and began to eat. The quiet felt earned, not imposed. After a minute, I said the thing that had been circling since yesterday.
 
 
-<img src="/assets/images/scenes/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 “You really do a lot.”
@@ -5187,7 +5187,7 @@ I met his gaze calmly.
 “One word.” I let the silence do its job. “Wife.”
 
 
-<img src="/assets/images/scenes/Scene25a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene25a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 His pencil hovered above the paper, as if his hand had forgotten its job. A small internal jolt passed through him: shoulders lifting a fraction, then settling. He took a breath, the kind you take when you’ve learned that saying the first thing you feel will only make it worse.
@@ -5365,7 +5365,7 @@ Wardrobe had grown a second pulse since Mara’s ledger arrived. The first pulse
 On the corkboard above the cutting table, the first page of wear-tests had been replaced. Then replaced again. Failures were neatly noted and fixes applied. Retests were signed. It looked like progress, the way a scar looks like healing: not pretty, but proof that the body had done the hard thing and survived.
 
 
-<img src="/assets/images/scenes/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene26a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 Charlie had a chair now.
@@ -5387,7 +5387,7 @@ Talia was on her knees at the hem of a petticoat, seam ripper flashing, mutterin
 There were two actresses from the Faire sitting on the bench by the windows, lacing and unlacing stays under Mara’s supervision with the obedient patience of women who were paying to be uncomfortable on purpose.
 
 
-<img src="/assets/images/scenes/Scene26b.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene26b.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 And Sarah—Sarah was sitting at one of the machines, leaning against the table with satisfied grin, watching all of it like she owned shares. She saw me and her grin broadened. A grin that contained, inexplicably, both mischief and loyalty.
@@ -5489,7 +5489,7 @@ Charlie’s gaze followed the cover, then returned to his hands. If he noticed t
 And I had been missing it too.
 
 
-<img src="/assets/images/scenes/Scene26c.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene26c.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 An actress from the Faire—a new girl, I didn’t recognize her—came in just before lunch with a garment bag on her arm and a problem on her face. She was young, freckled, earnest in that way that makes you want to be kind but not indulgent.
@@ -5936,7 +5936,7 @@ Lucy was already at the cutting table, coffee in hand, unimpressed with the univ
 The Faire girls had been drifting through more and more often. Not just for fittings and repairs, but
 
 
-<img src="/assets/images/scenes/Scene28a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene28a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
  because Wardrobe had become a gravitational point: a women’s room, in the truest sense, the kind where you could be tired, sharp, messy, brilliant, and not have to explain any of it.
@@ -6313,7 +6313,7 @@ She arrived early, same as always, but the early-ness had changed. It used to fe
 
 She had become easier to look at, not because she was “prettier” but because she was less afraid. And because she’d begun to occupy her skin like it belonged to her.
 
-Mara set the next test on the table without ceremony: a cap and kerchief combination we’d been refining for the Faire women, an accessory that had to survive heat, sweat, pins, movement, and the indignity of being yanked off and shoved into a tote bag between scenes.
+Mara set the next test on the table without ceremony: a cap and kerchief combination we’d been refining for the Faire women, an accessory that had to survive heat, sweat, pins, movement, and the indignity of being yanked off and shoved into a tote bag between story.
 
 “Hair,” Mara said, glancing at Charli as if hair was a tool to call for. “Fix it.”
 
@@ -11562,7 +11562,7 @@ From the workroom you could see the loading bay through the long glass door: a r
 She was in the new caraco test: light cocoa, pinned at the back with glass-headed pins so we could mark the seams properly. Petticoat, short gown, fichu. Hair up in that messy knot Celeste liked, the one that made her look like she’d just stepped out of an 18th-century painting and into our carpark.
 
 
-<img src="/assets/images/scenes/Scene51a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene51a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 And next to her: a young bloke wearing a cheap company business suit and a confident grin, clipboard under one arm, leaning much too far into her space.
@@ -11690,7 +11690,7 @@ Once it was shut behind us, the workroom noise wrapped around us again—safe, f
 I steered Charli over to a stool near the pressing station and sat her down.
 
 
-<img src="/assets/images/scenes/Scene51b.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene51b.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 “You did nothing wrong,” I said, directly. “Let’s start there.”
@@ -11729,7 +11729,7 @@ That got me a ghost of a real smile.
 
 “Good girl,” I said, and picked up my iron again, letting the hiss of steam mark the end of the conversation, for now.
 
-Outside, somewhere between here and Queensland, a man was rehearsing a story in which he’d been unfairly told off by a bunch of intense women in a costume shop.
+Outside, somewhere between here and Queensland, a man was rehearsing a scene in which he’d been unfairly told off by a bunch of intense women in a costume shop.
 
 Inside, we were getting on with the work.
 
