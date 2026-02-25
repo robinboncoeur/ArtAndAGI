@@ -278,7 +278,49 @@ A) Practice by outlining your next planned scene using this framework?
 B) Take an existing scene and dissect it structurally?
 C) Or build a master arc map for Book 2 before drafting further? 😄
 
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
+
+
+
+
+
+
+
+
+## 🧱 Your Scene Spine
+
+**Tightened (Same content, cleaner structure)**
+
+Here’s how your beats map if we compress properly:
+
+**Beat 1 — Entry**
+
+Charli inside her head (homesick), Sarah sharp and scanning.
+
+**Beat 2 — Inciting Shift (PRIMARY)**
+
+Man offers to handle Charli’s bag; Sarah intercepts. Charli registers: *Oh. That’s a thing.*
+
+**Beat 3 — Internal Calibration**
+
+Charli feels the heat of being perceived. Realises she’s been mentally elsewhere. The world is closer than she thought.
+
+**Beat 4 — Choice**
+
+Charli shrinks (physically moves behind Sarah / lets Sarah speak).
+
+**Beat 5 — Power Adjustment (TURN)**
+
+Later, in the crush of the train, Charli catches something first (a hand too close / a man pressing in / a stare). She adjusts position *without waiting*.
+
+Sarah clocks it. Doesn’t praise. Just… accepts it.
+
+**Beat 6 — Exit Note**
+
+The smile at Landsborough. Charli smiles back automatically — then feels the risk of that reflex. Not fear. Awareness.
+
+Perfect exit. Beautifully “still has much to learn” without stating it.
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
@@ -290,15 +332,54 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 
 
 
+### 🛠️ Template
 
+**Cleanly in Zed**
 
+Here’s the way I’d suggest formatting it while drafting:
 
+```markdown
+Beat 1 – Entry Position
+[Write scene…]
 
+Beat 2 – Inciting Shift
+[Write scene…]
 
+Beat 3 – Internal Calibration
+[Write scene…]
 
+Beat 4 – Choice
+[Write scene…]
 
+Beat 5 – Power Adjustment
+[Write scene…]
 
+Exit Note
+[Write scene…]
+```
 
+Or, if you want it less intrusive:
+
+```markdown
+[ENTRY]
+…
+[SHIFT]
+…
+[CALIBRATION]
+…
+[CHOICE]
+…
+[POWER]
+…
+[EXIT]
+```
+
+You delete the scaffolding later.
+
+But during drafting?
+It’s guard rails.
+
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -314,11 +395,7 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 ## Emotions
 
 Hi you 🌿
-Oh, I *love* that you’re building a quiver. That’s exactly how voice gets stronger — not by avoiding repetition, but by having options so you can choose the one that fits the moment.
-
-You’re after **positive overwhelm** — not lust, not melodrama — but that sudden rush of love or belonging that almost knocks cognition sideways.
-
-Here are a variety of sensory-grounded alternatives, each leaning slightly different in texture:
+Oh, I *love* that you’re building a quiver. That’s exactly how voice gets stronger — not by avoiding repetition, but by having options so you can choose the one that fits the moment. You’re after **positive overwhelm** — not lust, not melodrama — but that sudden rush of love or belonging that almost knocks cognition sideways. Here are a variety of sensory-grounded alternatives, each leaning slightly different in texture:
 
 ---
 
@@ -400,9 +477,7 @@ If you’d like, we can build a **micro-dictionary** organised by character — 
 
 ---
 
-Oh, that makes me ridiculously happy 😄 — the fact that it slots straight into `Structure.md` without you wrestling it. Clean systems, clean prose. There’s something deeply satisfying about that alignment.
-
-And yes… that shift from *flood* to *interruption* is not cosmetic. It changes the emotional physics.
+Oh, that makes me ridiculously happy 😄 — the fact that it slots straight into `Structure.md` without you wrestling it. Clean systems, clean prose. There’s something deeply satisfying about that alignment. And yes… that shift from *flood* to *interruption* is not cosmetic. It changes the emotional physics.
 
 “Flooded” implies something happening *to* the character.
 “Interrupted” implies something happening *through* the character.
@@ -410,11 +485,7 @@ And yes… that shift from *flood* to *interruption* is not cosmetic. It changes
 One is passive overwhelm.
 The other is embodied response.
 
-That distinction is huge for the women you’re writing — especially in a world where agency matters. When the breath catches, when the hand stills mid-gesture, when the voice needs a second — that’s not weakness. That’s power recalibrating. It’s the nervous system going, *oh. This matters.*
-
-And I think what makes your work strong is that you’re rarely chasing spectacle. You’re chasing precision. The exact somatic hinge where the internal shifts.
-
-If you want to push it even further, here’s an additional layer to play with in `Structure.md`:
+That distinction is huge for the women you’re writing — especially in a world where agency matters. When the breath catches, when the hand stills mid-gesture, when the voice needs a second — that’s not weakness. That’s power recalibrating. It’s the nervous system going, *oh. This matters.* And I think what makes your work strong is that you’re rarely chasing spectacle. You’re chasing precision. The exact somatic hinge where the internal shifts. If you want to push it even further, here’s an additional layer to play with in `Structure.md`:
 
 ### Interruption Types (Micro-Calibration)
 
@@ -426,7 +497,7 @@ If you want to push it even further, here’s an additional layer to play with i
 * **Temperature shift (warmth, cool air awareness)** → safety vs exposure
 
 That way, when you revise, you’re not thinking “how do I describe love?”
-You’re thinking, “What did her body do in that second?”
+You’re thinking, *“What did her body do in that second?”*
 
 That’s the difference between writing emotion and writing embodiment. And embodiment is always more powerful. 💛
 
