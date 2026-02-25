@@ -26,7 +26,7 @@
 
 
 
-
+<!--
 
 ##
 
@@ -306,6 +306,6 @@
 
 <img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
+/-->
 
 <hr style="height:24px;border-width:0;color:blue;background-color:blue">
