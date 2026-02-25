@@ -1,40 +1,46 @@
-# Wardrobe Two Point Oh
+# Wardrobe 2.0 Robyn
 
-![In Love](/assets/images/story/HerLove01.jpg)
+<img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
 
----
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+    
 
 
-[**Notes**] 
+
+
+
+
+## 🔑 Notes
+
 *Emotional temperature*:  
-* Charli is homesick for Celeste, oblivious to surroundings.
-* Sarah misses Lauren but is sharp, focused, aware of Charli's naïvité.
+Charli is homesick for Celeste, oblivious to surroundings.  
+Sarah misses Lauren but is sharp, focused, aware of Charli's naïveté.  
 
-*Inciting Shift*:
-* On deboarding, a man offers to get Charli's bag down from luggage rack, Sarah intervenes (first of many)
-* Purchasing tickets, Charli finds J'Adore, dabs on wrists, scent is noticed by another man
-* Jostled in train to Eagle Junction, Sarah intervenes
-* Finally, discussion on being aware in public places
+*Inciting Shift*:  
+On deboarding, a man offers to get Charli's bag down from luggage rack, Sarah intervenes (first of many)  
+Purchasing tickets, Charli finds J'Adore, dabs on wrists, scent is noticed by a man  
+Jostled in train to Eagle Junction, Sarah intervenes  
+Finally, discussion on being aware in public places  
 
-*Internal Calibration*:
-* Charli had been so busy thinking, she hadn't been in the moment with Sarah
-* Lights go on during discussion about staying alert
+*Internal Calibration*:  
+Charli had been so busy thinking, she hadn't been in the moment with Sarah  
+Lights go on during discussion about staying alert  
 
-*Choices*:
-* Initially shrinking
+*Choices*:  
+Initially shrinking
 
-*Power Adjustment*:
-* Shrinking stopped (need to just be aware)
+*Power Adjustment*:  
+Shrinking stopped (need to just be aware)
 
-*Exit Note*:
+*Exit Note*:  
 As they get off the train in Landsborough, a young man smiles at Charli. She doesn't know what to do and automatically smiles back. Still has much to learn.
 
 [One Sentence]
 In this scene, Charli becomes aware that being in public means being aware of your surroundings because you are now visible.
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
     
 
 
@@ -46,7 +52,7 @@ In this scene, Charli becomes aware that being in public means being aware of yo
 
 ## Visible
 
-"Ladies and Gentlemen, this is the captain speaking. We have begun our descent into Brisbane..."
+"*Ladies and Gentlemen, this is the captain speaking. We have begun our descent into Brisbane...*"
 
 Although my heart did a flip as the engine noise seemed to quieten, I felt a numbness instead of excitement. 
 
@@ -115,7 +121,7 @@ The train screamed into the station. Sarah touched my elbow—firm, guiding—an
 
 
 
-
+## Next Bit
 
 The carriage was quite noisy for a while. I stared out the window, only occasionally glancing at Sarah, who quickly looked away. Eventually, a lot of passengers left the train and it became almost pleasant, except for that sour smell left behind by someone being very frugal with water usage: clearly not his week for a bath.
 
@@ -169,11 +175,14 @@ There was just a tinge of exasperation in her look, now. She nodded quickly, as 
 
 *Danger? What had I missed?*
 
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
 
 
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+
+## Review
 
 *Emotional temperature*:  
 I felt a numbness instead of excitement. How nice it would be to share this moment with her: I'd be excited right now. Big sigh. Oh well, let's look at the pretty clouds as we fly through them.
@@ -213,6 +222,10 @@ As they get off the train in Landsborough, a young man smiles at Charli. She doe
 
 [One Sentence]
 In this scene, Charli becomes aware that being in public means being aware of your surroundings because you are now visible.
+
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+
+
 
 
 
@@ -403,9 +416,7 @@ I wanted it to mean *her*.
 
 
 ## Visible
-### Charli, 1st Revision
-
-<!-- ![In Love](/assets/images/notes26a/260219a.jpg) /-->
+### Charli, 2nd Revision
 
 <img src="/assets/images/wardrobe/2Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px" />
 
@@ -578,5 +589,12 @@ Just then, Sarah's phone pinged. She glanced down at it and grinned.
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
     
+
+
+
+
+
+
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
