@@ -1,21 +1,32 @@
-# On Writing
+# Writing 101
+
+<img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
+
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
 
 ## Core Principles
 
-Oh, this is where it gets deliciously disciplined. 😄
+Oh, this is where it gets deliciously disciplined. 😄  
+You’ve done instinct.  
+You’ve done immersion.  
 
-You’ve done instinct.
-You’ve done immersion.
-Now we build scaffolding.
-
-Not formula.
-Structure.
+Now we build scaffolding.  
+Not formula. Structure.  
 
 Because structure is freedom.
 
 ---
 
-### 🧱 Scene Structure Framework 101
+**🧱 Scene Structure Framework 101**
 
 *(Built specifically for your style and this story’s DNA)* This is not Hollywood three-act nonsense. This is micro-architecture for emotionally layered scenes.
 
@@ -34,34 +45,26 @@ Not plot. Not action.
 
 **Emotional temperature.**
 
-Example:
+Example:  
+Charli is steady but socially tired.  
+Celeste is focused but slightly preoccupied.  
+Sarah is sharp and watchful.  
 
-* Charli is steady but socially tired.
-* Celeste is focused but slightly preoccupied.
-* Sarah is sharp and watchful.
-
-Write this for yourself in one sentence before drafting.
-
-If you don’t know entry temperature, you will wander.
+Write this for yourself in one sentence before drafting. If you don’t know entry temperature, you will wander.
 
 ---
 
 #### Beat 2 — **Inciting Shift**
 
-Something small but directional changes.
+Something small but directional changes.  
+Not explosion. Not drama.  
+*A look.*  
+A question.  
+An invitation.  
+A comment.  
+An absence.  
 
-Not explosion.
-Not drama.
-
-A look.
-A question.
-An invitation.
-A comment.
-An absence.
-
-Example:
-“Pool party on Saturday.”
-
+Example: “Pool party on Saturday.”  
 That’s it.
 
 But now tension exists.
@@ -70,12 +73,8 @@ But now tension exists.
 
 #### Beat 3 — **Internal Calibration**
 
-This is your signature strength.
-
-The character interprets the shift.
-
-Not philosophising.
-Not essay-writing.
+This is your signature strength. The character interprets the shift.  
+Not philosophising. Not essay-writing.  
 
 Just:
 
@@ -83,19 +82,15 @@ Just:
 * What do I feel?
 * What is at stake?
 
-Keep it embodied.
-Keep it sensory.
-Keep it inside the body.
+Keep it embodied.  
+Keep it sensory.  
+Keep it inside the body.  
 
 ---
 
 #### Beat 4 — **Choice or Behaviour**
 
-Someone acts.
-
-Not necessarily boldly.
-
-But something is chosen:
+Someone acts. Not necessarily boldly. But something is chosen:
 
 * Deflect.
 * Accept.
@@ -109,13 +104,10 @@ No scene without a choice.
 
 #### Beat 5 — **Power Adjustment**
 
-After the behaviour, who holds more control now?
+After the behaviour, who holds more control now? Even subtly.
 
-Even subtly.
-
-Power doesn’t mean domination.
-It means:
-Who is steering?
+Power doesn’t mean domination. It means:  
+*Who is steering?*  
 
 If power does not shift, the scene is static.
 
@@ -130,20 +122,15 @@ End on:
 * A small physical gesture.
 * A decision forming.
 
-Never exit on summary.
-
-Exit on tension.
+Never exit on summary. Exit on tension.
 
 ---
 
 ### 🔄 The One-Sentence Rule
 
-After drafting, you should be able to summarise the scene as:
-
-“In this scene, ___ shifts because ___.”
-
-If you can’t?
-The scene lacks spine.
+After drafting, you should be able to summarise the scene as:  
+“In this scene, ___ shifts because ___.”  
+If you can’t? *The scene lacks spine.*
 
 ---
 
@@ -293,7 +280,7 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 
 
 
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+<hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 
 
@@ -324,307 +311,127 @@ C) Or build a master arc map for Book 2 before drafting further? 😄
 
 
 
-## Audiobook
+## Emotions
 
-I'm slowly putting together an audiobook of 'Celeste's Girl':
+Hi you 🌿
+Oh, I *love* that you’re building a quiver. That’s exactly how voice gets stronger — not by avoiding repetition, but by having options so you can choose the one that fits the moment.
 
-Intro:
+You’re after **positive overwhelm** — not lust, not melodrama — but that sudden rush of love or belonging that almost knocks cognition sideways.
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Intro_CG.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+Here are a variety of sensory-grounded alternatives, each leaning slightly different in texture:
 
 ---
 
-Scene 1:
+### 🌊 Flood / Wave Variations (but fresher)
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Scene01-CelestesGirl.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+1. **It rose so quickly I had to steady myself against it.**
+2. **The feeling came up under my ribs and pressed the breath out of me.**
+3. **Something warm broke open inside me, too large to hold neatly.**
+4. **It moved through me faster than I could name it.**
+5. **My chest filled as if someone had poured light into it.**
 
 ---
-Scene 2:
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Scene02-CelestesGirl.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+### 🫁 Breath / Body Interruptions
 
+6. **My breath caught — not in panic, but in recognition.**
+7. **For a second, my body forgot how to move.**
+8. **I blinked, as if the room had tilted toward brightness.**
+9. **My throat tightened, not from fear but from too much feeling at once.**
+10. **I had to swallow before I trusted my voice.**
 
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+---
 
+### 🌞 Warmth / Expansion (gentler, steadier love)
 
+11. **Heat unfurled behind my sternum and spread outward.**
+12. **I felt myself soften from the inside out.**
+13. **Something in me unclenched without asking permission.**
+14. **The space between us seemed suddenly smaller, charged.**
+15. **It settled over me like warmth after stepping in from the cold.**
 
+---
 
+### 🕊 Recognition / Alignment (mature love, not teenage intensity)
 
+16. **A quiet certainty clicked into place.**
+17. **The world narrowed to the exact size of this moment.**
+18. **Everything in me leaned toward her.**
+19. **I felt known — and it startled me.**
+20. **For a heartbeat, nothing else existed but that understanding.**
 
+---
 
+### 💧 Tear-Edge Without Saying “I Cried”
 
+21. **My vision blurred at the edges.**
+22. **I pressed my tongue to the roof of my mouth to stay steady.**
+23. **I looked away, buying myself a second to gather the spill.**
+24. **My eyes stung, inconveniently.**
+25. **I laughed softly, because it was safer than letting the rest show.**
 
+---
 
+Now — craft note, because you care about that level of precision:
 
-## Happy Thoughts
+“Flooded” is external imagery. But what makes overwhelm feel real is **interruption**. Something gets disrupted: breath, posture, voice, motor control, focus. If you show the interruption, the reader *feels* the overwhelm without you naming it.
 
-Note: save from .yt-short iframe:  aspect-ratio: 9 / 16;
+For Celeste, you might lean toward:
 
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-  .yt-short { max-width: 480px; margin: 1rem auto; }
-  .yt-short iframe { width: 460px; height: 460px; }
-</style>
+* containment cracking
+* controlled breath breaking rhythm
+* heat + decision
 
+For Lauren:
 
-<div class="flex-container" markdown>
-  <div class="yt-short" markdown>
-  <iframe
-    src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/1885edf5d15f6bb98f86016be86ba2db/iframe" 
-    title="Celeste"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-  </div>
+* softening
+* relief sliding in
+* breath finally releasing
 
-  <div class="column column--right" markdown>
-  This video sets the stage for Charlie's venture into a realm he never had any interest in, but due to his infatuation (dare we call it **Love**) for Celeste, he was destined to travel. In the process, he learns much about history, the insidious and deleterious effect of the patriarchy on the lives of women through the ages.
+For Sarah:
 
-  In order for this lesson to be learnt, 'Sharl' must first find himself in the unenviable role of discovering what it means to lose autonomy and have one's accomplishments be cancelled by society.
+* pause
+* recalibration
+* choosing to stay
 
-  A bit about Celeste: she's a trend-setting, headstrong, unique individual. Artistic, a leader not a follower, determined to get her way. Clever, schemer. Intensely likeable, incredibly feminine. Won't suffer fools or jocks.
-  </div>
-</div>
+Different women, different somatic tells.
 
-These pages explore the 'cancelling' - as in: suppression - of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. The story is based on that theme, with information I've sort-of picked up chatting with Emily (ChatGPT) and learning all about life in the 1750s (18th Century).
+If you’d like, we can build a **micro-dictionary** organised by character — so each one has her own physical signature when love hits. That would make the prose quietly powerful without repetition. ✨
 
-The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Celeste story. It also inspired this piece, 'Waterfall':
+---
 
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+Oh, that makes me ridiculously happy 😄 — the fact that it slots straight into `Structure.md` without you wrestling it. Clean systems, clean prose. There’s something deeply satisfying about that alignment.
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+And yes… that shift from *flood* to *interruption* is not cosmetic. It changes the emotional physics.
 
+“Flooded” implies something happening *to* the character.
+“Interrupted” implies something happening *through* the character.
 
+One is passive overwhelm.
+The other is embodied response.
 
+That distinction is huge for the women you’re writing — especially in a world where agency matters. When the breath catches, when the hand stills mid-gesture, when the voice needs a second — that’s not weakness. That’s power recalibrating. It’s the nervous system going, *oh. This matters.*
 
+And I think what makes your work strong is that you’re rarely chasing spectacle. You’re chasing precision. The exact somatic hinge where the internal shifts.
 
+If you want to push it even further, here’s an additional layer to play with in `Structure.md`:
 
+### Interruption Types (Micro-Calibration)
 
+* **Breath interruption** → sudden emotional recognition
+* **Hand stilling** → choice being made
+* **Voice delay** → feeling outrunning composure
+* **Eye movement (look away / look back)** → vulnerability vs control
+* **Posture shift (straighten / soften)** → surrender vs resolve
+* **Temperature shift (warmth, cool air awareness)** → safety vs exposure
 
+That way, when you revise, you’re not thinking “how do I describe love?”
+You’re thinking, “What did her body do in that second?”
 
-## Reminders of Markdown
+That’s the difference between writing emotion and writing embodiment. And embodiment is always more powerful. 💛
 
-(to Myself)
+If you’d like next time, we can build a “Do Not Use” list too — the phrases you keep tripping over — and replace them with calibrated alternatives. That kind of internal editing toolkit is gold over the long run.
 
-### From the Index Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-**Commands***
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-**Project layout**
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-### Inline images
-
-For externally-stored images (most will be stored on Tightbytes, for my pages)::
-
-```
-![Me](http://www.tightbytes.com/art/images/something/Chemise019.jpg){: align=left width=300 }
-```
-
-and for those stored with the data files::
-
-```
-![Celeste](images/C01-Aa.jpg){: align=left width=300 }
-```
-
-...or...
-
-```
-<figure>
-  <img src="https://dummyimage.com/600x400/eee/aaa" width="300" />
-  <figcaption>Image caption</figcaption>
-</figure>
-```
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-### Embedded YouTube Video
-
-This code for a remote link:
-
-```
-<video width="384" height="384" controls>
-  <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
-</video>
-```
-
-...yields this:
-
-<video width="384" height="384" controls>
-  <source src="https://tightbytes.com/videos/Celeste/C01Aaa.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-This code for a local link:
-
-```
-<video width="480" height="480" controls>
-  <source src="/assets/videos//C03.mp4" type="video/mp4">
-</video>
-```
-
-...yields this:
-
-<video width="480" height="480" controls>
-  <source src="/assets/videos//C03.mp4" type="video/mp4">
-</video>
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-### Embedded Audio
-
-This code:
-
-```
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-```
-
-...produced:
-
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-### Non-youtube Video
-
-This code:
-
-```
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-``` 
-
-...produces:
-
-<iframe width="560" height="315"    src="https://tightbytes.com/art/images/Cui/24/1750s/s02/LeRegarde01.mp4" frameborder="0"    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"  allowfullscreen>
-</iframe>
-   
-
-
-(Note to self: took out  [  autoplay; ] )
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-### Creating Dotpoints
-
-Once you've decided:
-
-  * Select A.
-
-  * Select B. 
-
-  * To identify C.
-
-  * Finally, click on D.
-
-
-Note: *setting things to italics like this makes more impact - these have yielded reasonable results. You will almost certainly find better settings, which is the whole point of sharing this*.
-
-
-
-### Links Management
-
-Here's a typical example of embedding a link: Blender-for-Mac users, please refer to the `Mac user help <http://blender.stackexchange.com/questions/6173/where-does-console-output-go>`_ page.
-
-
-
-
-### Horizontal Separator Lines
-
-The code is this (minus the '*')::
-
-```
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-```
-
-...which produces the following grey horizonal bar to help separate sctions (like the one below).
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-### HTML and CSS
-
-Grid for two simple layouts:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1IitKbJRFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-Slide Show:
-   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WJERnXiFFug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr style="height:2px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-[CSS stuff](https://ishadeed.com/article/conditional-css-has-nth-last-child/?utm_source=convertkit&utm_medium=email&utm_campaign=Why+people+use+CSS+frameworks%20-%2010872019)
-
-[AstroDocs](https://docs.astro.build/en/editor-setup/)
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+<hr style="height:24px;border-width:0;color:blue;background-color:blue">

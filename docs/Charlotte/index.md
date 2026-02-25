@@ -1,9 +1,20 @@
-# On Writing
+# All About Celeste
+
+<img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
+
+**(...and Charlotte)**
+
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+
+<hr style="height:2px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
 
 ## About The Images
-
-<img src="/assets/images/Index/VicGirl1.jpg" alt="Victorian Girl" style="float: right; width: 360px;
-        margin-left: 20px; margin-bottom: 10px;" />
 
 I own all images and videos on these pages. They were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
 
@@ -331,4 +342,3 @@ Slide Show:
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
