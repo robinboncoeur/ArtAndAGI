@@ -2,7 +2,7 @@
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 🌿
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
     
@@ -12,7 +12,7 @@
 
 
 
-## 🔑 Notes
+## 🔑 Notes 🌿
 
 *Emotional temperature*:  
 Charli is homesick for Celeste, oblivious to surroundings.  

@@ -505,4 +505,222 @@ If you’d like next time, we can build a “Do Not Use” list too — the phra
 
 
 
+
+
+
+
+
+Hi Robyn 💛
+This is *already* doing so much right: the weather/metallic light, the “managed environment vs wild west” thesis, Sarah’s protective positioning (body between you and platform), and that final ping — gorgeous button. 👌
+
+Now for what you actually asked for: the **recurring body tells**. You’ve flagged them yourself:
+
+* throat tight/tightened
+* stomach tightened/dipped
+* shoulders curling in
+* (plus a couple of near-kin: “swallowed hard,” “eyes went hot,” “cheeks burning”)
+
+They’re all *true* for Charli. The issue isn’t “don’t use them,” it’s **don’t stack them as your default trio**. What we want is the same emotional truth expressed through *different systems* of the body: breath, mouth, temperature, posture, hands, vision, hearing, balance.
+
+Below is a **mini-dictionary** you can paste straight into your toolkit, *and* then I’ll point to exact spots in your excerpt where you can swap things with minimal disruption.
+
+---
+
+### Body-reaction mini-dictionary (for Charli)
+
+#### THROAT / VOICE (instead of “throat tightened”)
+
+1. **My voice went thin.**
+2. **My voice stuck for a second.**
+3. **I had to clear my throat, like it had closed on me.**
+4. **Words gathered behind my teeth and wouldn’t come out.**
+5. **I swallowed around the lump and tried again.** *(close cousin, still good in rotation)*
+6. **My mouth went dry.**
+7. **My tongue felt too big for my mouth.**
+8. **I could hear my own breathing in my ears.**
+
+#### STOMACH / GUT (instead of “stomach tightened/dipped”)
+
+9. **Something dropped through me like a lift.**
+10. **My guts went cold.**
+11. **I felt hollowed-out, suddenly, like the bottom fell away.**
+12. **Nausea licked at the back of my throat.** *(gentle; not melodramatic)*
+13. **My middle went heavy, as if I’d swallowed a stone.**
+14. **My appetite vanished mid-thought.**
+15. **My body braced before my mind caught up.**
+
+#### SHOULDERS / MAKING SMALL (instead of “shoulders curled in”)
+
+16. **I drew in, without meaning to.**
+17. **I tucked my elbows closer to my ribs.**
+18. **My chin dipped.**
+19. **I turned my body sideways, reducing my surface area.**
+20. **I shifted my bag in front of me like a shield.** *(you already do this—great signature)*
+21. **I found myself standing behind Sarah’s shoulder.**
+22. **My posture collapsed a fraction.** *(if you want it blunt and clean)*
+
+#### HEAT / FLUSH / SHAME (for “burning cheeks/heat climbed neck” variety)
+
+23. **Heat flashed behind my ears.**
+24. **My face prickled.**
+25. **My skin felt suddenly exposed.**
+26. **I could feel myself colouring.** *(old-fashioned, works in Charli’s self-consciousness)*
+27. **A hot pulse climbed my throat.** *(careful: don’t overuse; it’s strong)*
+
+#### HANDS / MOTOR CONTROL (great for “interruption”)
+
+28. **My grip went too tight on the handle.**
+29. **My fingers went clumsy.**
+30. **My hands didn’t know where to go.**
+31. **I fussed with something useless—strap, zipper, ticket—anything.**
+32. **I still-held, like moving would draw attention.**
+
+#### VISION / ATTENTION (subtle, very effective)
+
+33. **The edges of my vision went soft.**
+34. **I fixed on a detail—tile line, shoe, ad poster—because it was safer than faces.**
+35. **I couldn’t keep my eyes up.** *(simple, honest)*
+36. **The carriage felt too bright.**
+
+---
+
+## Targeted swaps in *your* excerpt (low-friction edits)
+
+I’m going to suggest swaps that keep your rhythm and don’t “rewrite the scene,” just diversify the somatics.
+
+### 1) “trying to work out why my stomach had tightened.”
+
+**Option A (clean):**
+
+* “trying to work out why **my guts had gone cold**.”
+
+**Option B (more Charli):**
+
+* “trying to work out why **my body had braced**.”
+
+**Option C (more sensory):**
+
+* “trying to work out why **it felt like the bottom of me had dropped a notch**.”
+
+### 2) “fold in, make smaller, disappear.”
+
+This is already *excellent* as a triad. If you want a variant elsewhere, keep the *meaning* but change the mechanism:
+
+* “**tuck my elbows in, turn sideways, vanish**.”
+
+### 3) “The thought of her made my throat ache.”
+
+This one is *beautiful* and distinct from “tightened,” so I’d keep it. It’s love-sorrow, not fear.
+
+### 4) “Heat climbed my neck.”
+
+You can keep this once, but later you’ve got “cheeks burning” etc. Rotate one:
+
+* “**Heat flashed behind my ears.**”
+  or
+* “**My face prickled.**”
+
+### 5) “My stomach dipped. I shuddered…”
+
+Pick *one* system here. Right now you’re doubling (gut + full-body). You can make it sharper by choosing one:
+
+**Option A (gut only):**
+
+* “**My middle dropped.** I closed my eyes.”
+
+**Option B (motor only):**
+
+* “My hands went still at my sides. I closed my eyes.”
+
+**Option C (vision only):**
+
+* “The platform tilted a fraction. I closed my eyes.”
+
+### 6) “My eyes went hot.”
+
+This is a strong signature for Charli. Keep it, but don’t always follow it with looking down. You can vary the *escape route*:
+
+* instead of “looked down quickly,” try:
+
+  * “I blinked hard and stared at the seat seam.”
+  * “I kept my eyes on the window, unblinking.”
+  * “I watched my own hands like they belonged to someone else.”
+
+### 7) “I felt my shoulders curl in without permission.”
+
+This is one of your flagged repeats. Swap to elbows/chin/bag:
+
+**Option A:**
+
+* “I **tucked my elbows in** without permission.”
+
+**Option B (my favourite; matches earlier bag-shield):**
+
+* “I **pulled my handbag closer** without meaning to.”
+
+**Option C (very clean):**
+
+* “My posture **collapsed a fraction**.”
+
+### 8) “My throat tightened again…”
+
+This is the big one because you even bolded it — totally fair as a marker. But it’s the exact moment to *prove* the “interruption” concept from earlier.
+
+Swap it to **voice/mouth** or **breath**:
+
+**Option A (voice):**
+
+* “**My voice went thin**, but this time it wasn’t only sadness…”
+
+**Option B (mouth):**
+
+* “**My mouth went dry**, but this time…”
+
+**Option C (breath):**
+
+* “**My breath hitched**, but this time…”
+
+Each keeps your sentence structure almost identical.
+
+---
+
+## A tiny pattern tweak that will do *a lot*
+
+Right now you sometimes do: **sensation → explanation** (“my throat tightened… it was realizing…”)
+
+A slightly stronger pattern for this book is:
+**external trigger → micro-interruption → action**
+…then maybe *one* line of meaning.
+
+Example using your last bit:
+
+Instead of:
+
+> My throat tightened again… it was… realising I’d been walking around…
+
+Try:
+
+> My breath hitched. I looked away fast — not because I was ashamed, exactly, but because I’d just realised I’d been walking around with my guard down and hadn’t even known it.
+
+Same content. More embodied. Less “named.”
+
+---
+
+## Two “signature tells” you already have (keep these!)
+
+Just so you don’t accidentally polish away what’s *working*:
+
+* **Bag as shield / re-positioning** (you do it twice, and it’s a perfect Charli tell)
+* **Fixating on surfaces** (concrete, aisle floor, window) — that’s a very real trauma/avoidance mechanism and reads cleanly.
+
+---
+
+If you want, next step is we make this ultra-practical:
+
+### Charli’s “Top 12” default reactions (with a rotation rule)
+
+So you can literally scan a scene and go: *ok, I used throat/eyes/stomach already—swap to grip/vision/elbows.*
+
+But even without that: with the swaps above, this excerpt will instantly feel more varied without losing Charli’s anxious-wire consistency. ✨
+
 <hr style="height:24px;border-width:0;color:blue;background-color:blue">
