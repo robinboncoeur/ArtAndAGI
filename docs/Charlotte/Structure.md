@@ -723,4 +723,15 @@ So you can literally scan a scene and go: *ok, I used throat/eyes/stomach alread
 
 But even without that: with the swaps above, this excerpt will instantly feel more varied without losing Charli’s anxious-wire consistency. ✨
 
+
+
+
+
+
+
+
+
+
+
+
 <hr style="height:24px;border-width:0;color:blue;background-color:blue">
