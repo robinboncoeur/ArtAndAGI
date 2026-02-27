@@ -60,7 +60,7 @@ The tightness in Celeste chest is still there.
 
 Unlocking the front door to our little flat made a "You're in the wrong home" click. The silence was as bad as an accusation.
 
-Celeste's breath comes quicker as Charli's face appears on sceen. 
+Celeste's breath comes quicker as Charli's face appears on screen. 
 
 **Beat 2 — Inciting Shift (PRIMARY)**
 
@@ -68,7 +68,7 @@ Then, her stomach sinks: his smile is telling untruths, his body betrays the smi
 
 **Beat 3 — Internal Calibration**
 
-(Later, when Sarah and Charli share day's challenges. Celeste realises Charli is less equiped as woman in public spaces than she thought.) Celeste speaks slowly, cautiously. "Did we screw up? Are we pushing her too fast?"
+(Later, when Sarah and Charli share day's challenges. Celeste realises Charli is less equipped as woman in public spaces than she thought.) Celeste speaks slowly, cautiously. "Did we screw up? Are we pushing her too fast?"
 
 Sarah: "Look, I figured there would be little gaffs like this. How is she to know? She'll pick it up-she's quick." Sarah wore the same smile she did when Mara put her on sorting pins: "What, me worry?"
 Celeste feels herself tighten anyway. Asks: "Is this too much for her?" An ache in the jaw reminds her that we do not train by ambush. 
@@ -110,7 +110,7 @@ Her mouth fell slowly open, as if unattended.
 **Body**
 His head snapped back as he frowned.
 She pulled her chin into the air, her eyes narrowing.
-His eyelids slipped down under their own weight.
+His eyelids slid shut under their own weight.
 An involuntary chuckle almost made it out into the open.
 She bit a thoughtful fingernail.
 
