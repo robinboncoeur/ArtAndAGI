@@ -734,4 +734,443 @@ But even without that: with the swaps above, this excerpt will instantly feel mo
 
 
 
+
+
+## New Site Challenges
+
+<img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+Oh this is a deliciously practical question. 🧵✂️
+And it’s exactly the kind of grounded texture that will make the Maleny expansion feel real rather than “set dressing.”
+
+You don’t need grand drama. You need **annoying, competence-testing friction** — the sort of problems women solve before lunch while the world assumes they’re “just sewing.”
+
+Here are categories first (so you understand the logic), then specific dot-points Sarah could rattle off briskly before pivoting to Charli.
+
+---
+
+## 1️⃣ Physical Build & Fit-Out Issues
+
+Wardrobe isn’t a café. It has *very specific spatial needs*.
+
+### Layout & workflow problems
+
+* Pressing station too close to cutting tables — steam drifting onto fabric.
+* Not enough natural light over the pattern table.
+* Overhead lighting too cool — makes fabric colour look wrong.
+* No proper extraction for steam irons (humidity building up).
+* Power points in the wrong place for industrial machines.
+* Cutting table height wrong — bad for backs long-term.
+
+### Storage headaches
+
+* Crates arriving before shelving is installed.
+* No lockable cabinet for vintage trims and rare lace.
+* Costume rails not rated for heavy 18th-century gowns.
+* No dedicated “quarantine rack” for repairs and returns.
+
+### Infrastructure
+
+* Tradies everywhere, slowing workflow.
+* Air-con unit too loud for fittings.
+* Dust from construction settling on finished garments.
+* Security system not installed yet (expensive stock onsite).
+
+---
+
+## 2️⃣ Operational & People Issues
+
+This is where Sarah shines — observational, dry, competent.
+
+### Staff dynamics
+
+* Fiona’s girls keen but inexperienced with historical accuracy.
+* Someone confident but sloppy with seam finishes.
+* One over-eager apprentice trimming seam allowances too close.
+* Confusion about chain of authority (who signs off final garments?).
+
+### Supplier delays
+
+* Crates delayed by weather / freight mix-up.
+* Missing hardware (busks, boning, period-accurate buttons).
+* Fabric batch slightly different dye lot from original order.
+
+### Safety & compliance
+
+* Fire inspection pending.
+* No first-aid station fully stocked yet.
+* WorkSafe requirements for steam equipment.
+
+---
+
+## 3️⃣ Brand & Reputation Risks
+
+Wardrobe isn’t just clothes. It’s reputation.
+
+* Local Faire committee pushing for “faster, cheaper” rather than accurate.
+* Pressure to compromise historical lines to suit modern bodies.
+* Marketing photos taken before proper staging.
+* Local volunteers treating it like community theatre, not atelier.
+
+Sarah would clock these with that dry, slightly sardonic tone you love for her.
+
+---
+
+## 4️⃣ Emotional Undercurrent (Subtle but Important)
+
+And here’s the clever part — the challenges Sarah lists can *mirror* what Charli is going through.
+
+* Things not quite fitting yet.
+* Systems not settled.
+* Structure not fully built.
+* Dust everywhere before polish.
+* Good bones, unfinished surface.
+
+That gives you thematic cohesion without stating it.
+
+---
+
+# How Sarah Might Rattle It Off (Dot-Point Style Dialogue)
+
+Before sliding to Charli:
+
+> “Site’s half-ready. Tradies still underfoot.
+> Shelving not installed, so crates will just… sit.
+> Lighting’s wrong over the cutting table — colours look anaemic.
+> No proper extraction yet, so steam’s going to turn the place tropical.
+> Fiona’s staff are enthusiastic, but one of them trims seam allowances like she’s punishing them.
+> And the Faire committee already asked if we could ‘simplify’ some of the 1790s silhouettes. I nearly bit someone.”
+
+That’s very Sarah.
+
+Then she shifts:
+
+> “But that’s all fixable.
+> What I’m more interested in is Charli.”
+
+And now you’ve slid into Beat 3 territory naturally.
+
+---
+
+## If You Want It Slightly More Technical (Because You Love Realism)
+
+For a late-18th-century focused Wardrobe:
+
+* Boning channels incorrectly placed in sample bodice.
+* Pattern grading errors for petite frames.
+* Linen shrinkage miscalculated.
+* Imported silk creasing due to humidity.
+* Corset lacing hardware delayed at customs.
+* No proper dress form in Charli’s exact proportions yet.
+
+That last one is subtle gold.
+
+---
+
+## The Best Part?
+
+All of these challenges reinforce:
+
+* Women building something real.
+* Competence under pressure.
+* Refusal to compromise standards.
+* Systems being installed before softness returns.
+
+Which mirrors Celeste’s own internal calibration beautifully.
+
+---
+
+If you’d like, I can:
+
+* Draft a crisp Sarah-style 6–8 line “update” paragraph.
+* Or design a **Wardrobe Expansion Checklist** you can save in your bible.
+* Or help you pick which practical issue best thematically foreshadows Charli’s wobble.
+
+Your instincts are excellent here. You’re building texture, not drama — and that’s how grown-up fiction breathes. 🧡
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+## Audio Test
+
+<img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+I wrote Celeste’s Girl because I’m tired of two lies.
+That womanhood is a costume.
+And that trans women are a threat rather than an ally.
+
+I know intimately what male privilege feels like from the inside. And I know what it means to step away from it. No one abandons that invisible armour for skirts and perfume. They do it for survival. For coherence. For the simple, radical relief of finally recognising themselves in the mirror… and in their own life.
+
+This story isn’t interested in spectacle.
+It’s interested in infrastructure.
+In the women who quietly build worlds where other women can breathe.
+
+Wardrobe is a deliberate answer to the patriarchy’s workshops and back rooms. It’s a place where competence is normal. Where care is policy. And where a trans girl isn’t a punchline, or a fetish object, or a theory. She’s a colleague. A daughter. A wife. One of the women.
+
+I wanted to show what happens when a former beneficiary of patriarchy walks into a women-led space and says—without quite knowing it yet—I belong with you. What does it cost her? What does it cost them? And what do they gain together that none of them could have had alone?
+
+Celeste’s Girl is my love letter to women’s work. To chosen family. And to the fierce, unglamorous kind of solidarity that stands in front of loading bays and board tables and says:
+“No. Not here. Not to her.”
+
+It’s also a quiet insistence that trans women are not an enemy camp… but some of the keenest, most motivated allies women will ever have in dismantling the structures that harm us all.
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+<!--
+
+
+
+##
+
+<img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
+
+##
+
+<img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+/-->
+
 <hr style="height:24px;border-width:0;color:blue;background-color:blue">
+    
+
+
+
+
+
+?{:\x1-M`7L^ObF.

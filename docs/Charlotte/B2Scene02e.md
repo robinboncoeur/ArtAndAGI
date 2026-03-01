@@ -2,7 +2,7 @@
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px" />
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 🌿 — —
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
     
@@ -11,35 +11,144 @@
 
 
 
-## Structure
+## A Tightened Pass
+### 26-03-01
 
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
-[ *Celeste* ]
-**Beat 1 — Entry**
+**(same beats, more sensory, more Celeste)**
 
-Celeste misses Charli, Charli is a bit down from day's experiences.
+I’m keeping your structure and most of your actions; I’m just tightening phrasing, fixing tense drift, and making Celeste’s interior more bodily and less explanatory.
 
-**Beat 2 — Inciting Shift (PRIMARY)**
+A tightened pass (same beats, more sensory, more Celeste)
 
-They talk on video-link.
-Sarah and Charli share day's challenges. Sarah tries to reassure.
+I’m keeping your structure and most of your actions; I’m just tightening phrasing, fixing tense drift, and making Celeste’s interior more bodily and less explanatory.
 
-**Beat 3 — Internal Calibration**
+---
 
-Celeste realises Charli is less equiped as woman in public space than she thought, worries. Celeste understands Sarah's primary objective is setting up Wardrobe 2.0.
+Beat 1 — Entry
 
-**Beat 4 — Choice**
+The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle — it judged.
 
-Charli wears a brave smile, tries to convince Celeste she'll be fine. Celeste smiles warm, tender (yet feels dread) (internally) wondering whether to have Charli return home.
+I tried to sigh the tension out of my ribs. It stayed put.
 
-**Beat 5 — Power Adjustment (TURN)**
+Kettle on. Tea. There was always tea.
 
-Sarah speaks briskly, confidently. Celeste cedes to Sarah's judgment, for now. Sarah and Celeste (privately) discuss transphobia, need for mentoring. Sarah has an idea: age-contemporary mentoring. Sarah would vet for transphobic inclinations.
+It was just for a month.
 
-**Beat 6 — Exit Note**
+I threw my bag into the corner like it had offended me and folded myself onto the couch with my lecture notes. The lines swam. I kept rereading the same sentence as if the page had been swapped while I blinked.
 
-The tightness in Celeste chest is still there.
+I checked my phone, then checked it again, irritated at it like it had lied to me. I was sure I’d been “studying” for longer than ten minutes.
+
+Sarah had texted 7:30 pm.
+
+It was 6:30.
+
+My thumb hovered, then I hit call before I could bargain with myself. The phone sang its inane little tune. When Charli’s face came up on the screen, my breath sped up — stupidly, instantly — like my body was a dog that had heard a familiar car pull into the driveway.
+
+Beat 2 — Inciting Shift (PRIMARY)
+
+Then my stomach dropped. Not far. Just enough.
+
+Her smile was there, but it was held too tight. Her eyes weren’t cooperating.
+
+“Hey, sweetie…” I heard myself start, soft and careful.
+
+Her lower lip trembled.
+
+“Hi, Celeste,” she said, barely above a whisper.
+
+“How was the flight?” I asked, bright on purpose.
+
+She nodded too fast and swallowed. “Okay.”
+
+The pause did the talking.
+
+And then, quietly: “I really miss you.”
+
+Something pinched behind my cheekbones. I kept my mouth steady.
+
+“I miss you too,” I said. “Sarah told me Queensland’s… different.”
+
+Charli nodded. A small grin tried to form.
+
+“Smelly-different,” she said. “Lots of people smoke. And deodorant. And perfume…”
+She stopped.
+
+I tipped my head. “Perfume?”
+
+Her face went careful. Like she’d put a lid on herself. She bit her lip and finally looked at me like I might snap.
+
+“I…” She swallowed again. “I screwed up today, Celeste. Like—so bad.”
+
+“How?” The word came out clean, but my hands had tightened on the phone. She was shrinking — the old Charlie shape — and it made something in me go hard and protective at the same time.
+
+“Charli.” I kept my voice level. “Listen to me. Are you allowed to make mistakes?”
+
+She blinked, offended by the question. “Not epic ones like this.”
+
+“Alright.” I exhaled through my nose. “Is anyone hurt?”
+
+“No.”
+
+“Good.”
+I let that land. “Then we’re in the category of: human. Not disaster. Tell me what happened.”
+
+The words came in a rush — finding the perfume vial, how it reminded her of me so sharply it hurt, how she’d clung to that memory and then—how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
+
+I pressed my lips together, tasting the restraint.
+
+“You know what the name means,” I said.
+
+Her throat worked. “I adore…”
+
+“And I do.” My voice softened, but I didn’t let it wobble. “I adore you.”
+I lifted my chin a fraction. “Tonight, wear my perfume to bed.”
+
+Her eyes widened.
+
+“And tonight,” I added, “I’m going to wear your t-shirt. I want the smell of you here.”
+
+She stared at me as if she’d misheard. A tiny twitch ran through her head — the start of a nod that didn’t trust itself.
+
+“Really?”
+
+“Yes.” I blinked hard once and kept my gaze steady. “Really.”
+
+I drew a breath I could feel all the way to my pelvis and held it there for a beat.
+
+“What are you doing tomorrow?”
+
+“Sarah and I are going to meet Fiona’s girls—” she corrected herself quickly, “her staff. We did the site visit. It’s still not ready. Tradies everywhere. We didn’t want to get in the way, so we didn’t stay long.”
+
+“Did Fiona say when the crates arrive?”
+
+“Day after tomorrow.” Her smile eased a little. “She’s really nice. Sort of like Mum, in a way.”
+
+“Have you eaten?”
+
+Charli shook her head.
+
+“Then do that next.” My tone left no room for negotiation. “Even if it’s a banana. Promise me.”
+
+“I promise.” Her voice steadied. “I feel better now, just because…”
+
+“Good.”
+I didn’t smile, not fully — I let my eyes do it instead. “Fruit. Shower. Perfume. Sleep. Tomorrow: be in your space. You’ve got a lot to offer. Focus on that.”
+
+She nodded with each phrase, taking it in like I’d handed her a list that would keep the world from collapsing.
+
+“I love you, Charli,” I said.
+
+It landed oddly in my mouth — too naked. I’d never said it to her face-to-face. Only in the quiet parts of my head.
+
+Her gaze held mine, deep and dark.
+
+“I love you too, Celeste.”
+
+Beat 3 — Internal Calibration
+
+The phone sat warm on my lap, suddenly heavy.
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
@@ -247,136 +356,13 @@ Scene ends.
 
 
 
+<!--
 
-
-## Revised Tightened Pass
-### 26-03-01
+##
 
 <img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[ *Celeste* ]
 
-*Beat 1 — Entry*
-
-The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle, it judged.
-
-I tried to sigh the tension out of my ribs. It stayed put.
-
-Kettle on. Tea. There was always tea.
-
-It was just for a month.
-
-I threw my bag into the corner like no longer relevant and folded myself onto the couch with my lecture notes. The lines stuck onto the page instead of shaping my head.
-
-I checked my phone, then checked it again, irritated at it like it had lied to me. I was sure I’d been “studying” for longer than ten minutes.
-
-Sarah had texted 7:30 pm.
-
-It was 6:30.
-
-My thumb hovered, then I hit call before I could bargain with myself. The phone sang its inane little tune. When Charli’s face came up on the screen, my breath sped up — stupidly, instantly — like my body was a dog that had heard a familiar car pull into the driveway.
-
-*Beat 2 — Inciting Shift (PRIMARY)*
-
-Then my stomach dropped. Not far. Just enough.
-
-Her smile was there, but it was held too tight. Her eyes weren’t sharing the moment.
-
-“Hey, sweetie…” I heard myself start, soft and careful.
-
-Her lower lip trembled.
-
-“Hi, Celeste,” she said, barely above a whisper.
-
-“How was the flight?” I asked, bright on purpose.
-
-She nodded too fast and swallowed. “Okay.”
-
-The pause did the talking.
-
-And then, quietly: “I really miss you.”
-
-Something pinched behind my cheekbones. I kept my mouth steady.
-
-“I miss you too,” I said. “Sarah tells me Queensland’s… different.”
-
-Charli nodded. A small grin tried to form.
-
-“Smelly-different,” she said. “And lots of people smoke. And haven't heard of deodorant. Never mind perfume…” 
-
-She stopped.
-
-I tipped my head. “Perfume?”
-
-Her face went careful. She bit her lip and finally looked at me like I might snap.
-
-“I…” She swallowed again. “I screwed up today, Celeste. Like—so bad.”
-
-“How?” The word came out clean, but my hands had tightened on the phone. She was shrinking — the old Charlie shape — and it made something in me go hard and protective at the same time.
-
-“Charli.” I kept my voice level. “Listen to me. Are you allowed to make mistakes?”
-
-She looked away. “Not epic ones like this.”
-
-I exhaled through my nose. “Is anyone hurt?”
-
-“No.”
-
-“Good.” I let that land. “Then we’re in the category of: 'learn mode'. Not 'catastrophe'. Tell me what happened.”
-
-The words came in a rush—finding the perfume vial, how it reminded her of me so sharply it hurt, how she’d clung to that memory and then—how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
-
-I pressed my lips together, tasting the restraint.
-
-“You know what the name means,” I said.
-
-Her throat worked. “I adore…”
-
-“And I do.” My voice softened, but steady. “I adore you.” I lifted my chin a fraction. “Tonight, wear my perfume to bed.”
-
-Her eyes widened.
-
-“And tonight,” I added, “I’m going to wear your t-shirt. I want the smell of you here.”
-
-She stared at me as if she’d misheard. A tiny twitch ran through her head—the start of a nod that didn’t trust itself.
-
-“Really?”
-
-“Yes.” I blinked hard once and kept my gaze steady. “Really.”
-
-I drew a breath I could feel all the way to my pelvis and held it there.
-
-“What are you doing tomorrow?”
-
-“Sarah and I are going to meet Fiona’s girls—” she corrected herself quickly, “her staff. We did the new Wardrobe site visit. It’s still not ready—tradies everywhere. We didn’t want to get in the way, so we didn’t stay long.”
-
-“Did Fiona say when the crates arrive?”
-
-“Day after tomorrow.” Her smile eased a little. “She’s really nice. Sort of like Mum, in a way.”
-
-“Have you eaten?”
-
-Charli shook her head.
-
-“Then do that next.” My tone left no room for negotiation. “Even if it’s just a banana. Promise me.”
-
-“I promise.” Her voice steadied. “I feel better now, just because…”
-
-“Good.” I didn’t smile, not fully—I let my eyes do it instead. “Fruit. Shower. Perfume. Sleep. Tomorrow: be in your space. You’ve got a lot to offer. Focus on that.”
-
-She nodded with each phrase, taking it in like I’d handed her a list of tasks for a new Wardrobe costume.
-
-“I love you, Charli,” I said.
-
-The words were barely out—I took a sharp breath in. Out loud, they tasted odd in my mouth. I’d never even said them to her face-to-face, only in the secret parts of my mind.
-
-Her gaze held mine, deep and dark.
-
-“I love you too, Celeste.”
-
-*Beat 3 — Internal Calibration*
-
-The phone sat warm on my lap, suddenly heavy.
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
@@ -391,23 +377,7 @@ The phone sat warm on my lap, suddenly heavy.
 
 <img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-**Beat 3 — Internal Calibration**
 
-The phone sat warm on my lap, suddenly heavy.
-
-Celeste realises Charli is less equipped as woman in public space than she thought, worries. Celeste understands Sarah's primary objective is setting up Wardrobe 2.0.
-
-**Beat 4 — Choice**
-
-Charli wears a brave smile, tries to convince Celeste she'll be fine. Celeste smiles warm, tender (yet feels dread) (internally) wondering whether to have Charli return home.
-
-**Beat 5 — Power Adjustment (TURN)**
-
-Sarah speaks briskly, confidently. Celeste cedes to Sarah's judgment, for now. Sarah and Celeste (privately) discuss transphobia, need for mentoring. Sarah has an idea: age-contemporary mentoring. Sarah would vet for transphobic inclinations.
-
-**Beat 6 — Exit Note**
-
-The tightness in Celeste chest is still there.
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
@@ -417,7 +387,6 @@ The tightness in Celeste chest is still there.
 
 
 
-<!--
 
 ##
 
