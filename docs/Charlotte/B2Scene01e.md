@@ -1,4 +1,5 @@
-# The Deep End - S1 - Emily
+# The Deep End—S1
+## — Emily —
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 

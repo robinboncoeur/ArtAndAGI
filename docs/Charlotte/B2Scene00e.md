@@ -1,4 +1,5 @@
-# The Deep End - Emily
+# The Deep End—Sx
+## — Emily —
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 

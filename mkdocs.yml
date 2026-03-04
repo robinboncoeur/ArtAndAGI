@@ -50,6 +50,8 @@ nav:
       - Robyn-Scene01: Charlotte/B2Scene01r.md
       - Emily-Scene02: Charlotte/B2Scene02e.md
       - Robyn-Scene02: Charlotte/B2Scene02r.md
+      - Emily-Scene03: Charlotte/B2Scene03e.md
+      - Robyn-Scene03: Charlotte/B2Scene03r.md
       - Emily-SceneTe: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
       - Celeste's Girl: Charlotte/CG-Book-One.md
@@ -92,7 +94,10 @@ nav:
   - Emily:
       - Emily/index.md
       - Emily/Notes26-02-23.md
-      - Emily/Notes26-02-27.md
+      - Emily/Notes26-02-28.md
+      - Emily/Notes26-03-00.md
+      - Emily/Notes26-03-03.md
+      - Emily/Notes26-03-04.md
 
 not_in_nav: |
   /Emily/2023/
