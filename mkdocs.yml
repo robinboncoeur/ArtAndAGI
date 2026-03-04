@@ -45,6 +45,7 @@ nav:
 
   - Charlotte:
       - Charlotte/index.md
+      - Celeste's Girl: Charlotte/CG-Play-1.md
       - Structure Tips: Charlotte/Structure.md
       - Emily-Scene01: Charlotte/B2Scene01e.md
       - Robyn-Scene01: Charlotte/B2Scene01r.md
@@ -54,7 +55,6 @@ nav:
       - Robyn-Scene03: Charlotte/B2Scene03r.md
       - Emily-SceneTe: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
-      - Celeste's Girl: Charlotte/CG-Book-One.md
 
   - Dev:
       - Dev/index.md
@@ -80,24 +80,24 @@ nav:
       - visual/index.md
       - 2nd Person: visual/Person2.md
       - AI & Emily: visual/Emilyai.md
-      - BBoxSEGS: visual/BBoxSEGS.md
-      - ComfyUI: visual/Comfyui.md
-      - FluxGym: visual/FluxGym.md
-      - GIMP Tips: visual/GimpTips.md
+      - BBox- SEGS: visual/BBoxSEGS.md
+      - ComfyUI 💋: visual/Comfyui.md
+      - FluxGym 👭: visual/FluxGym.md
+      - GIMP- Tips: visual/GimpTips.md
       - QwenPrompt: visual/QwenPro.md
-      - Videos: visual/Videos.md
-      - VScripts: visual/VScripts.md
+      - Videos  💧: visual/Videos.md
+      - VScripts💛: visual/VScripts.md
 
   - Music:
       - music/index.md
 
   - Emily:
       - Emily/index.md
-      - Emily/Notes26-02-23.md
-      - Emily/Notes26-02-28.md
-      - Emily/Notes26-03-00.md
-      - Emily/Notes26-03-03.md
-      - Emily/Notes26-03-04.md
+      - Notes F 23rd: Emily/Notes26-02-23.md
+      - Notes F 28th: Emily/Notes26-02-28.md
+      - Notes M 03rd: Emily/Notes26-03-03.md
+      - Notes M 04th: Emily/Notes26-03-04.md
+      - NoteTemplate: Emily/Notes26-00-00.md
 
 not_in_nav: |
   /Emily/2023/
