@@ -287,41 +287,43 @@ Brittany's eyes softened at the name, searching my face. My hands circled the wa
 
 "Homesick already? You just got here!" Ellie said. I grinned at her.
 
-"Designing costumes sounds exciting," Brittany said, taking a sip of her Cappuccino. "Would you suggest going to design school?"
+"Designing costumes sounds exciting," Brittany said, taking a sip of her Cappuccino. "Would you suggest going to design school for costumes?"
 
-"**No, but then, neither did Celeste,**" I said. "She's just really clever. Mara taught her. She's our designer."
+"Yes, I would. Celeste didn't, though," I said. "She's just really clever. Mara taught her. She's our designer."
 
-"Do you think she would teach me, Charli?"
+"Do you think Mara would teach me, Charli?"
 
 I swallowed. "Well, I can't speak for Mara, but I'm pretty sure something could be worked out. For now, the focus is on costume maintenance and repair, which is what I'm here to help with."
 
-"But you were a tester," Natalie cut in. "No offence, but how does that tie in with maintenance?"
+"But wait. You were a tester," Natalie cut in. "No offence, but how would you know how to repair costumes?"
 
-"I *ended up* testing costumes because I could tell where the weak spots were. But also, how best to make them stronger."
+"I *ended up* testing costumes because I could tell where the weak spots were, but I started by repairing. My Mum taught me how best to make a seam stronger."
 
 Brittany nodded, staring at a spot in front of her for a moment. Then her chin rose and a frown crossed her face.
 
 "So, it's about seams?" Ellie asked.
 
-"Yes. Keep seams flat, not stitched in desperation, and the actresses' dresses won't fall off their bodies. That's it."
+"Yes. Keep seams flat, do not stitch in desperation, and the actresses' dresses won't fall off their bodies. That's it."
 
 "Sounds easy," Natalie said.
 
 "There's probably more to it than that," Brittany said with a huff.
 
-As we got back in the car, I asked:
+When we got back to the car, I asked:
 
 "When do you think we can actually get to work in the new Wardrobe? Any idea when it'll be ready?"
 
-Brittany shrugged. Shook her head.
+Brittany shrugged.
 
-"I hate this sitting around. You can go for just so many coffees."
+"I hate this sitting around," she said, shaking her head. "You can go for just so many coffees."
 
-I stared out the window for a while, gazing down on the lush pastureland. My hands opened before me.
+I stared out the window for a while as we drove back, gazing down on the lush pastureland.
 
-"Brittany, is there any reason we *have* to do those first inservices in Wardrobe?"
+My hands opened before me.
 
-She looked at the road, her lower lip pushing up a pout.
+"Brittany, is there any reason we *have* to do those first training sessions in Wardrobe?"
+
+She stared at the road, her lower lip pushing up a pout.
 
 "Where do you suggest?"
 
@@ -332,6 +334,29 @@ She looked at the road, her lower lip pushing up a pout.
 "So, just a clean room."
 
 ---
+
+Fiona's office smelled of fresh plaster and wood dust. We had just settled into chairs when through the open window I heard a large diesel engine.
+
+Beep-beep-beep.
+
+Brittany's face snapped to the window.
+
+"Our costumes!"
+
+Fiona was standing in the loading dock, hands on hips.
+
+"I'm going to need two of you to help Sarah," she said. "Brit, why don't you stay with Charli, make a start on your training? You'll be in charge of that part of Wardrobe, so I need you up to speed as soon as possible."
+
+I stepped forward.
+
+"Could we help unload a bit as well?" I asked. "It would make sense to actually have a costume in our hands."
+
+Fiona had that Wardrobe face on—the one that didn’t invite discussion.
+
+"We will bring one to you," she said.
+
+In Fiona's office, I stared at my notes. The page suddenly looked… ambitious.
+
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
