@@ -26,7 +26,7 @@ This bit did leave him a bit perturbed, of course.
 He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
 
 **Side Note:**  
-*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](/Charlotte/CG-Book-One.md)*.
+*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](/Charlotte/CG-Play-1.md)*.
 </div>
 </div>
 
