@@ -212,7 +212,7 @@ Which is exactly the kind of challenge *The Deep End* wants.
 
 So I would treat the week as a **controlled glide** into the next complication.
 
-## The real question is:
+### The real question is:
 
 Do you want Scene Five to begin with the bridge,
 or do you want the bridge handled in the opening paragraph or two before the scene really starts?
@@ -221,7 +221,7 @@ My instinct: the latter.
 
 Something like the structure, not the wording:
 
-### Option A — compressed lead-in, then scene
+Option A — compressed lead-in, then scene
 
 * One or two paragraphs giving the sense that the first week passed more smoothly than Charli had dared hope.
 * She found her footing in training mode.
@@ -247,7 +247,7 @@ A pool party is exactly the kind of thing that would make her insides drop out w
 
 That is excellent because it is so believable.
 
-## Why the pool party is such a good turn
+### Why the pool party is such a good turn
 
 It tests multiple things at once:
 
@@ -263,7 +263,7 @@ This is not menace. It is normality becoming difficult.
 
 Very strong.
 
-## So I’d suggest the scene rhythm be:
+### So I’d suggest the scene rhythm be:
 
 **1. Brief bridge**
 Charli is doing well. Better than expected, even. A week can change the feel of a place.
@@ -285,7 +285,7 @@ Charli either deflects, delays, lies, or improvises — but something in the soc
 
 That is a real scene.
 
-## The bridge itself
+### The bridge itself
 
 You do not need much. In fact, too much would dilute the energy.
 
@@ -307,7 +307,7 @@ Then: Friday night.
 
 That is enough.
 
-## One important craft note
+### One important craft note
 
 Do **not** overplay Brittany before the pool-party suggestion.
 
@@ -334,7 +334,7 @@ That is elegant.
 
 It also prevents the story from becoming too talk-heavy. We’ve just had a beautiful emotional-support scene. The next good move is not another talk scene. It is an **embodied challenge**.
 
-## So my answer:
+### So my answer:
 
 Advance to Friday.
 Bridge the week lightly.
@@ -390,7 +390,7 @@ Now the body becomes the problem.**
 
 That is elegant, believable, and thematically right.
 
-## What the scene is really about
+### What the scene is really about
 
 Not:
 **Will Brittany figure it out?**
@@ -409,9 +409,9 @@ That is exactly the right kind of pressure.
 
 ---
 
-# Scene Five — proposed beat structure
+### Scene Five — proposed beat structure
 
-## Beat 1 — Bridge / earned ease
+#### Beat 1 — Bridge / earned ease
 
 Open by letting the reader feel that the first week has passed better than Charli dared hope.
 
@@ -438,7 +438,7 @@ the week did not betray her; the site is becoming real; she is useful; usefulnes
 
 ---
 
-## Beat 2 — Friday-night release
+#### Beat 2 — Friday-night release
 
 Now shift from work competence to social softness.
 
@@ -453,7 +453,7 @@ this part should feel warm and natural enough that the reader wants it for her.
 
 ---
 
-## Beat 3 — Inciting drop: the pool party suggestion
+#### Beat 3 — Inciting drop: the pool party suggestion
 
 Then it comes. Casually. Cheerfully. No drumroll.
 
@@ -479,7 +479,7 @@ This is where your sensory-first method will be gold.
 
 ---
 
-## Beat 4 — Internal calibration
+#### Beat 4 — Internal calibration
 
 This is the equivalent of the “oh no” chamber.
 
@@ -508,7 +508,7 @@ It needs to be the first.
 
 ---
 
-## Beat 5 — Social pressure distribution
+#### Beat 5 — Social pressure distribution
 
 Now let the group move around the suggestion.
 
@@ -541,7 +541,7 @@ Also, Brittany should remain in observation mode, not interrogation mode. She no
 
 ---
 
-## Beat 6 — First deflection
+#### Beat 6 — First deflection
 
 Charli says something.
 
@@ -569,13 +569,13 @@ That is good dramatic oxygen.
 
 ---
 
-## Beat 7 — Turn / pressure adjustment
+#### Beat 7 — Turn / pressure adjustment
 
 This is where the scene proves what kind of story it is.
 
 You have a few possible tonal routes here.
 
-### Route A — gentle tightening
+Route A — gentle tightening
 
 The girls assume they can work around Charli’s objection.
 
@@ -587,13 +587,13 @@ This is strong because it shows how ordinary social kindness can still feel dang
 
 This is excellent because it closes off easy exits.
 
-### Route B — Brittany notices the wrongness
+Route B — Brittany notices the wrongness
 
 Not by calling it out directly, but by seeing that Charli’s reaction is too loaded for a simple “not keen on swimming.”
 
 This keeps Brittany relevant without making her predatory.
 
-### Route C — Charli manages, but at a cost
+Route C — Charli manages, but at a cost
 
 She laughs it off well enough to survive the moment, but the reader can feel the stress under the floorboards.
 
@@ -608,7 +608,7 @@ and lets Brittany’s perception sharpen.
 
 ---
 
-## Beat 8 — Exit note
+#### Beat 8 — Exit note
 
 The scene should not solve everything.
 
@@ -616,15 +616,15 @@ It should end on a note that carries forward.
 
 Possible emotional outcomes:
 
-### Option 1 — Charli escapes the moment, but only just
+Option 1 — Charli escapes the moment, but only just
 
 She gets through the conversation, but now has a real looming problem.
 
-### Option 2 — Brittany says or does one tiny thing that tells us she has noticed more than Charli wishes
+Option 2 — Brittany says or does one tiny thing that tells us she has noticed more than Charli wishes
 
 Not a confrontation. Just a look, a pause, a too-careful “you okay?”
 
-### Option 3 — Charli is outwardly included, inwardly isolated
+Option 3 — Charli is outwardly included, inwardly isolated
 
 This is powerful:
 the girls’ inclusion is real,
@@ -639,11 +639,11 @@ That is beautiful material.
 
 ---
 
-# What to avoid
+### What to avoid
 
 This matters just as much as the beat structure.
 
-## 1. Do not make the scene about bodies in a prurient way
+1. Do not make the scene about bodies in a prurient way
 
 The pool party is powerful because of what it implies, not because the prose dwells there.
 
@@ -654,7 +654,7 @@ logistics,
 belonging,
 not through body-fixated description.
 
-## 2. Do not let the girls become careless caricatures
+2. Do not let the girls become careless caricatures
 
 No catty “come on, show us.”
 No suspiciously pointed dialogue.
@@ -662,13 +662,13 @@ No mean-girl energy unless you deliberately want a different story.
 
 The pressure is stronger if they remain fundamentally ordinary and decent.
 
-## 3. Do not make Brittany too aggressive too soon
+3. Do not make Brittany too aggressive too soon
 
 She is better as a perceptive young woman whose internal sums are not coming out neatly.
 
 That is much more interesting than “human lie detector.”
 
-## 4. Do not let Charli lose competence altogether
+4. Do not let Charli lose competence altogether
 
 Even panicked, she should still be recognisably Charli.
 She may wobble, but she is not reduced to helplessness.
@@ -677,7 +677,7 @@ That protects the tone and the reader.
 
 ---
 
-# What the reader should feel after Scene Five
+### What the reader should feel after Scene Five
 
 Ideally:
 
@@ -691,7 +691,7 @@ That is the target.
 
 ---
 
-# My recommended shape
+### My recommended shape
 
 If I were naming the emotional architecture of the scene, I’d call it:
 
@@ -711,7 +711,7 @@ That is far more humane and far more useful.
 
 ---
 
-# My strongest single note for tone control
+### My strongest single note for tone control
 
 Make the pool-party suggestion feel like **belonging**, not threat.
 
