@@ -46,13 +46,16 @@ nav:
   - Charlotte:
       - Charlotte/index.md
       - Celeste's Girl: Charlotte/CG-Play-1.md
-      - Structure Tips: Charlotte/Structure.md
+      - Aa- Structure: Charlotte/Aa-Structure.md
+      - Ab-- Emotions: Charlotte/Ab-Emotions.md
+      - Canon Bible 1: Charlotte/CanonBible.md
       - Emily-Scene01: Charlotte/B2Scene01e.md
       - Robyn-Scene01: Charlotte/B2Scene01r.md
       - Emily-Scene02: Charlotte/B2Scene02e.md
       - Robyn-Scene02: Charlotte/B2Scene02r.md
       - Emily-Scene03: Charlotte/B2Scene03e.md
       - Robyn-Scene03: Charlotte/B2Scene03r.md
+      - Emily-Scene04: Charlotte/B2Scene04e.md
       - Robyn-Scene04: Charlotte/B2Scene04r.md
       - Emily-SceneTe: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
@@ -99,6 +102,7 @@ nav:
       - Notes M 03rd: Emily/Notes26-03-03.md
       - Notes M 04th: Emily/Notes26-03-04.md
       - Notes M 06th: Emily/Notes26-03-06.md
+      - Notes M 08th: Emily/Notes26-03-08.md
       - NoteTemplate: Emily/Notes26-00-00.md
 
 not_in_nav: |

@@ -28,7 +28,7 @@ Sarah and Charli share day's challenges. Sarah tries to reassure.
 
 **Beat 3 — Internal Calibration**
 
-Celeste realises Charli is less equiped as woman in public space than she thought, worries. Celeste understands Sarah's primary objective is setting up Wardrobe 2.0.
+Celeste realises Charli is less equipped as woman in public space than she thought, worries. Celeste understands Sarah's primary objective is setting up Wardrobe 2.0.
 
 **Beat 4 — Choice**
 
@@ -36,7 +36,7 @@ Charli wears a brave smile, tries to convince Celeste she'll be fine. Celeste sm
 
 **Beat 5 — Power Adjustment (TURN)**
 
-Sarah speaks briskly, confidently. Celeste cedes to Sarah's judgment, for now. Sarah and Celeste (privately) discuss transphobia, need for mentoring. Sarah has an idea: age-contemporary mentoring. Sarah would vet for transphobic inclinations.
+Sarah speaks briskly, confidently. Celeste cedes to Sarah's judgement, for now. Sarah and Celeste (privately) discuss transphobia, need for mentoring. Sarah has an idea: age-contemporary mentoring. Sarah would vet for transphobic inclinations.
 
 **Beat 6 — Exit Note**
 
