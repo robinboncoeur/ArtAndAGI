@@ -1,10 +1,10 @@
-# All About Celeste
+# About Celeste and Charli
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
 **(...and Charlotte)**
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ☕🧠💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ — 
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
@@ -14,21 +14,29 @@
 
 
 
-## About The Images
+## Abouts
+### The Images
 
 I own all images and videos on these pages. They were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
 
 * **Character persistence**  
-  Nodes used: ReActor
+  Nodes used: LoRAs in Flux.1-Dev
 
 * **Anatomical accuracy**  
-  Models used: Flux1 Dev (to a lesser extent, 'Kontext')
+  Models used: 
+  
+  1. Z-Image Turbo
+  2. Flux1 Dev (SRPO; to a lesser extent, Kontext)
+  3. SeedV2 (not a model, used for scaling up)
 
-* **Character attire**  
-  Models used: SDXL and Flux1-Dev (also SRPO)
+---
 
-* **Removing the 'AI' look** (see image)  
-  Models used: SRPO (improved Flux1 Dev) 
+### The Scenes
+
+I write in Zed, a coding plain-text processor that supports markdown (MkDocs). The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare manages creating the static pages and serving the site. Large files, such as video or >25mg music files, are also served by CloudFlare.
+
+I 'collaborate' with an AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but the content (plot/ dialogues / story arc / ideologies) is purely mine.  
+In [**Celeste's Girl**](/Charlotte/CG-Play-1.md) I leaned quite heavily on Emily. My original story was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of writings on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](/Charlotte/CG-Play-1.md#introduction) should make it clear.
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
