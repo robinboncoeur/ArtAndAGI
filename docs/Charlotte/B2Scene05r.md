@@ -17,7 +17,7 @@
 ## Scene Five
 ### Preview
 
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
+<img src="/assets/images/emily/S260311a.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
 🌷 🌸 🌺 Pub Call 🌷 🌸 🌺
 
@@ -169,7 +169,9 @@ My hands trembled slightly as I walked slowly, chin down, to the swinging back d
 
 Outside on the veranda, the music was still fairly loud, but no one was shouting. Brittany waved me over.
 
-“You look nice.” She nodded at my neck. “Ooh — pretty.” She beamed. “What are you having?”
+“You look nice.” She nodded at my necklace. “Ooh—pretty.” She beamed. 
+
+“What are you having?”
 
 I looked towards the bar. “I don’t know.”
 
