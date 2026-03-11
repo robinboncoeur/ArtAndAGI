@@ -1,0 +1,117 @@
+/* Import fonts first */
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libre+Franklin:wght@400&display=swap");
+
+/* ===== Core sizing ===== */
+:root {
+    --hero-h: 120px;
+}
+
+/* ===== Header shell ===== */
+.md-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    background: url("/assets/images/header-bg.jpg") center/cover no-repeat;
+}
+
+.md-header__inner {
+    min-height: var(--hero-h);
+    align-items: flex-end;
+    padding-bottom: 0.75rem;
+    box-sizing: border-box;
+}
+
+.md-header::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0) 40%,
+        rgba(0, 0, 0, 0.35) 100%
+    );
+    pointer-events: none;
+}
+
+/* Push page content below fixed header */
+.md-main {
+    margin-top: calc(var(--hero-h) + 4px);
+}
+
+/* ===== Site title ===== */
+.md-header .md-header__title {
+    font-family: "Great Vibes", cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+    color: #ff9 !important;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.55);
+    letter-spacing: 0;
+    line-height: 1.35;
+    padding-right: 0.2em;
+    overflow: visible;
+}
+
+.md-header__ellipsis,
+.md-header__topic,
+.md-header .md-ellipsis {
+    overflow: visible !important;
+    text-overflow: clip !important;
+}
+
+.md-header .md-ellipsis {
+    display: inline-block;
+    padding-right: 0.18em;
+}
+/* ===== Top tabs ===== */
+.md-tabs {
+    height: 1.6rem;
+}
+
+.md-tabs__list {
+    line-height: 1.2rem;
+}
+
+.md-tabs__link {
+    font-family: "Libre Franklin", sans-serif;
+    font-size: 0.82rem;
+    color: #f8f8f8 !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.md-tabs__link:hover {
+    color: #ffd6e8 !important;
+}
+
+/* ===== Side navigation ===== */
+.md-nav__item {
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
+}
+
+.md-nav__link {
+    line-height: 1.2;
+}
+
+/* ===== Dark-mode tweaks ===== */
+[data-md-color-scheme="slate"] .md-tabs__link {
+    color: #f0f0f0 !important;
+}
+
+/* ===== Mobile ===== */
+@media (max-width: 720px) {
+    :root {
+        --hero-h: 110px;
+    }
+
+    .md-header .md-header__title {
+        font-size: 1.8rem;
+    }
+
+    .md-main {
+        margin-top: calc(var(--hero-h) + 4px);
+    }
+}

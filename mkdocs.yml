@@ -5,6 +5,7 @@ use_directory_urls: true
 theme:
   name: material
   logo: assets/images/logo.png
+  variant: classic
 
   favicon: assets/images/favicon.png
 
@@ -24,13 +25,13 @@ theme:
       toggle:
         icon: material/weather-sunny # indigo
         name: Switch to Light Mode
+
   features:
-    - navigation.instant
+    # - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
-    - navigation.indexes
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -107,22 +108,9 @@ nav:
       - Notes M 08th: Emily/Notes26-03-08.md
       - NoteTemplate: Emily/Notes26-00-00.md
 
-not_in_nav: |
-  /Emily/2023/
-  /Emily/2024/
-  /Emily/2025/
-  /Emily/2026/
-  /Emily/2602/
-
 plugins:
   - search
   - tags
-
-validation:
-  links:
-    absolute_links: relative_to_docs
-    anchors: warn
-    unrecognized_links: warn
 
 markdown_extensions:
   - attr_list

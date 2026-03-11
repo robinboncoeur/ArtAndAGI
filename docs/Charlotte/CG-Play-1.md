@@ -1,6 +1,7 @@
 # Celeste's Girl
 
-![Le Chateau](/assets/images/story/ChatteFleur.jpg)
+<img src="/assets/images/story/PageHead.jpg" style="width: 1100px" />
+
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
 
@@ -344,6 +345,10 @@ The room itself was a maze of rails and racks, garment bags whispering against e
 Mara stood over it with her chin tucked, a bodice in her hands, and the look she wore when something had disappointed her. Which was most things.
 
 “Hold it,” she said, without looking up.
+
+
+<img src="/assets/images/story/Scene03b.jpg" style="width: 1100px;" />
+
 
 I froze with a hanger halfway to a rail. Mara didn’t need to raise her voice. She didn’t need to say your name. Her authority lived in the fact that she expected you to obey and had no interest in negotiating about it. She turned the bodice over and jabbed a fingertip at a seam.
 
@@ -1648,7 +1653,7 @@ Mara’s mouth twitched again.
 
 ## 8 Infrastructure ✨
 
-<img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+<img src="/assets/images/story/Scene08a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 [ *Celeste* ]
@@ -2277,7 +2282,7 @@ And in that moment, with chalk on fabric and a plan on paper, Wardrobe stopped b
 
 It became a place that made new ones.
 
-<hr style="height:22px;border-width:0;color:yellow;background-color:yellow">
+<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
 
 
@@ -2286,13 +2291,11 @@ It became a place that made new ones.
 
 
 
-## 11 The Ledger ✨
+## 11 Has Charlie Run It? ✨
 
 <img src="/assets/images/story/Scene11a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
-
-*Scene Eleven, or How a one-off becomes a rule, in Celeste's POV*
 
 It didn’t become normal all at once.
 
@@ -2378,13 +2381,13 @@ I wrote it down, because that was my role: turn the fixes into a record, so the 
 
 The third time it happened, Mara didn’t even announce it. She simply held up a skirt — new cut, new waistband, a clever closure arrangement we’d borrowed from an extant garment plate—and looked around the room.
 
-Annie, without shame, shook her head.
+Lucy, without shame, shook her head.
 
 “Nope,” she said. “Has Charlie run it?”
 
 Mara’s eyes narrowed. “No.”
 
-Annie took a half-step back, hands raised in mock surrender.
+Lucy took a half-step back, hands raised in mock surrender.
 
 “Then I’m not finding out where it splits,” she said. “I like my dignity.”
 
@@ -2406,8 +2409,8 @@ That was Charlie’s agency: not asking to be spared, simply insisting on the co
 
 The staff began asking as if it was obvious.
 
-“Has Charlie run it?”
-“Is this debugged yet?”
+“Has Charlie run it?”  
+“Is this debugged yet?”  
 “Can we get Charlie on it before we put it on shift?”
 
 They were asking because they didn’t want to discover failure on the floor in front of tourists. They didn’t want to lose an afternoon to ripped seams and emergency pins. They didn’t want to carry the embarrassment of being the one whose garment broke. Charlie became the pre-test because Charlie was accurate.
@@ -2477,13 +2480,11 @@ It becomes the rule.
 
 
 
-## 12 Has Charlie Run It? ✨
+## 12 The Ledger 📒
 
 <img src="/assets/images/story/Scene12a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 [ *Celeste* ]
-
-*Scene Twelve — “The Ledger” (Celeste POV, full prose draft)*
 
 Mara didn’t *announce* the new system. She simply put it on the table one morning as if it had always existed.
 
@@ -4526,6 +4527,11 @@ Charlie glanced at her, then back to me.
 “And if I’m not sure?” he asked, careful. “If I don’t know whether something counts as rearranging.”
 
 I held his gaze.
+
+
+<img src="/assets/images/story/Scene21a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+
 
 “Then ask,” I said. “I don’t bite.”
 

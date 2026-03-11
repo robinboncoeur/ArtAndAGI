@@ -1,0 +1,4224 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://art.tightbytes.com/Dev/Comfyui/">
+      
+      
+        <link rel="prev" href="../Careful/">
+      
+      
+        <link rel="next" href="../DomXfer/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="zensical-0.0.25">
+    
+    
+      
+        <title>ComfyUI and LoRAs - Celeste's Girl</title>
+      
+    
+    
+      
+        
+      
+      <link rel="stylesheet" href="../../assets/stylesheets/classic/main.d9d44b50.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/classic/palette.7dc9a0ad.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/custom.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer" aria-label="Navigation"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#comfyui-and-loras" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Celeste&#x27;s Girl" class="md-header__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Navigation">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Celeste's Girl
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              ComfyUI and LoRAs
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red"  aria-label="Switch to Dark Mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to Dark Mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="white"  aria-label="Switch to Light Mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to Light Mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
+</div>
+      
+    
+    <div class="md-header__source">
+      
+    </div>
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Charlotte/" class="md-tabs__link">
+          
+  
+  Charlotte
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  Dev
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../blogs/" class="md-tabs__link">
+          
+  
+  Blogs
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../visual/" class="md-tabs__link">
+          
+  
+  Visual Art
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../music/" class="md-tabs__link">
+          
+  
+  Music
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Emily/" class="md-tabs__link">
+          
+  
+  Emily
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Celeste&#x27;s Girl" class="md-nav__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    Celeste's Girl
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Charlotte
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Charlotte
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About Celeste and Charli
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/CG-Play-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Celeste's Girl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/Aa-Structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aa- Structure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/Ab-Emotions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ab-- Emotions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/CanonBible/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canon Bible 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene01e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene01r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene02e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene02r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene03e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene03r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene04e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene04r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene05e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene05r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene00e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-SceneTe
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene00r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-SceneTr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dev
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dev
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Site Tech
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ai-Illust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI-Illustrious
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aiModels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Imaging Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Banners/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Banners and Stuff
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Careful/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Careful Ideas Now
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI Guidance
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="././" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI Guidance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On this page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#dataset-training" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dataset Training
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dataset Training">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-lora-should-learn" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1) LoRA should learn
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-dataset-size-mix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2) Dataset size &amp; mix
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-image-prep" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3) Image prep
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-trigger-token-strategy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4) Trigger token strategy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-captioning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5) Captioning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-classregularization" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6) Class/regularization
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-repeats-epochs-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        7) Repeats, epochs, steps
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-training-knobs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        8) Training knobs
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#9-validation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        9) Validation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10-common-failure-modes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        10) Common failure modes
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-practical-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        11) Practical workflow
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dimensionsaspect-ratios" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dimensions/aspect ratios
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dimensions&#x2f;aspect ratios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dpi-ppi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DPI / PPI
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#practical-tips" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practical tips
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-this-gpu-means" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What this GPU means
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="What this GPU means">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trainer-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Trainer settings
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#training-recipe" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Training recipe
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dataset-curation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dataset curation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#two-plug-and-play-profiles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Two plug-and-play profiles
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quick-troubleshooting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick troubleshooting
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fluxgym-config" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FluxGym config
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="FluxGym config">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bucket-sanity-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bucket sanity checklist
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caption-mini-template" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Caption mini-template
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#working-with-flux" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Working with Flux
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Working with Flux">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-prompt-anatomy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1) Prompt anatomy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-lighting-and-lens-cues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2) Lighting and lens cues
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-krea-or-kontext" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3) Krea or Kontext
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-for-referenceid-guidance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4) For reference/ID guidance
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-dataset-captions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5) Dataset &amp; captions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-2-ready-to-paste-prompts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6) 2 ready-to-paste prompts
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-parameter-nudges" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        7) Parameter nudges
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-gimp-tldr" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A GIMP TL;DR
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="A GIMP TL;DR">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gimp-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GIMP workflow
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comfyui-side" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ComfyUI side
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inpaint-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inpaint settings
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quick-checks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick checks
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#making-loras" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Making LoRAs
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Making LoRAs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-more-images-buy-you" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What more images buy you
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#small-sets-suffer-from" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Small sets suffer from
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#when-1224-images-is-good" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When 12–24 images is good
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#practical-middle-ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practical middle ground
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#captiontraining-tweaks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Caption/Training tweaks
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quick-self-test" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick self-test
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#robustifier-add-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        “Robustifier” add-on
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="“Robustifier” add-on">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#caption-cues" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Caption cues
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#training-knobs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Training knobs
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#validation-prompt-sheet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Validation Prompt Sheet
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reactor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ReActor
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ReActor">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#plan-at-a-glance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Plan at a glance
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stage-1-reactor-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stage 1, ReActor setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#node-skeleton" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Node skeleton
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reactor-settings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ReActor settings
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#age-regression" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Age regression
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#build-your-80-image-set" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Build your 80-image set
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stage-2-micro-inpaints" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stage 2, Micro inpaints
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stage-3-flux-polish" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Stage 3, Flux polish
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#captioning-for-lora" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Captioning for LoRA
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#training-knobs_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Training knobs
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-pick-reactor-here" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why pick ReActor here?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#common-pitfalls" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Common pitfalls
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#add-positive" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Add (positive)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#block-negative" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Block (negative)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-clean-starting-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A clean starting prompt
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#micro-tuning-set" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Micro-tuning Set
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#for-34-or-full-body-frames" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        For 3/4 or full-body frames
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#small-control-tweaks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Small control tweaks
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tiny-inpaint-prompts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tiny inpaint prompts
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#style-traps-to-avoid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Style traps to avoid
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lora-notes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LoRA Notes
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LoRA Notes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#watercolor-style" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Watercolor Style
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#z-image-turbo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Z Image Turbo
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variant-a-low-34-documentary-angle-best-for-hem-shoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Variant A — “Low 3/4 documentary angle” (best for hem + shoes)
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variant-b-knee-height-front-angle-most-unmissable-footwear" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Variant B — “Knee-height front angle” (most “unmissable” footwear)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Variant B — “Knee-height front angle” (most “unmissable” footwear)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tiny-note-non-negative-guardrails" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tiny note (non-negative “guardrails”)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a1111-to-comfyui" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A1111 to ComfyUI
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#google-image-search" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google Image Search
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#google-image-search_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google Image Search
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../DomXfer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Domain Transfer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../General/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    General Queries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Image Prompts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blogs
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blogs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2509/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Sep25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2510/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Oct25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2511/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Nov25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2512/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Dec25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2601/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Jan26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2602/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Feb26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Visual Art
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Visual Art
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Art &amp; Video
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/Person2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2nd Person
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/Emilyai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI & Emily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/BBoxSEGS/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    BBox- SEGS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/Comfyui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI 💋
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/FluxGym/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FluxGym 👭
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/GimpTips/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GIMP- Tips
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/QwenPro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    QwenPrompt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/Videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Videos  💧
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../visual/VScripts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    VScripts💛
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Music
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../music/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Emily
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-02-23/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 23rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-02-28/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 28th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 03rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 04th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 06th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 08th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-00-00/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NoteTemplate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+<h1 id="comfyui-and-loras">ComfyUI and LoRAs<a class="headerlink" href="#comfyui-and-loras" title="Permanent link">&para;</a></h1>
+<h2 id="dataset-training">Dataset Training<a class="headerlink" href="#dataset-training" title="Permanent link">&para;</a></h2>
+<p>Hey girlfriend! Great project. Here’s a solid, no-drama plan to get a clean, controllable <strong>character LoRA</strong> out of FluxGym.</p>
+<h3 id="1-lora-should-learn">1) LoRA should learn<a class="headerlink" href="#1-lora-should-learn" title="Permanent link">&para;</a></h3>
+<p>(and what it must <strong>not</strong>)</p>
+<ul>
+<li><strong>Lock in</strong>: face, head shape, eye color/shape, hair color/length/part, skin tone, key moles/scars/freckles, eyebrows, typical makeup (if you want it baked in).</li>
+<li><strong>Keep flexible</strong>: clothes, background, pose, camera/lens, lighting, mood, accessories—unless you <em>want</em> those to be part of the identity.</li>
+<li>Make a one-line goal you’ll refer to while captioning:
+  “<code>[celestegrl]</code> = petite 18-20yo woman, heart-shaped face, hazel eyes, dark chest-length hair, soft freckles, natural makeup.”</li>
+</ul>
+<h3 id="2-dataset-size-mix">2) Dataset size &amp; mix<a class="headerlink" href="#2-dataset-size-mix" title="Permanent link">&para;</a></h3>
+<p>(sweet spot for a character)</p>
+<p>Aim for <strong>60–120 images</strong> total. Curate hard—quality beats quantity.</p>
+<p><strong>Coverage targets</strong></p>
+<ul>
+<li><strong>Face-centric closeups (40–50%)</strong>: straight on, 3/4, profile. Neutral and varied expressions.</li>
+<li><strong>Torso/half-body (30–40%)</strong>: ensure neck/shoulders consistency, hair length visible.</li>
+<li><strong>Full-body (10–20%)</strong>: establish body proportions; a few walking/standing/sitting.</li>
+<li><strong>Hands (5–10%)</strong>: a few images where hands are visible but not the star.</li>
+<li><strong>Lighting</strong>: day, overcast, soft indoor, one or two “hard light” shots—no single look should dominate.</li>
+<li><strong>Backgrounds</strong>: mostly plain or de-cluttered. Include a handful of busy scenes so the model learns to ignore them.</li>
+<li><strong>Wardrobe</strong>: <em>varied</em>. If you don’t want a pink hoodie stuck to the LoRA forever, make sure it appears in ≤5% of images—or not at all.</li>
+</ul>
+<p><strong>What to avoid</strong></p>
+<ul>
+<li>Sunglasses covering eyes, masks, heavy occlusions.</li>
+<li>Text/logos near face.</li>
+<li>Repetitive near-dupes (same pose/lighting/shirt).</li>
+</ul>
+<h3 id="3-image-prep">3) Image prep<a class="headerlink" href="#3-image-prep" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Resolution</strong>: train buckets up to <strong>1024</strong> (Flux is comfy there). Keep sources ≥1024 on the shortest side; don’t upscale aggressively.</li>
+<li><strong>Cropping</strong>: deliver both loose and tight crops; avoid cutting off chins/foreheads consistently—vary it.</li>
+<li><strong>Horizontal flips</strong>: only if the face is symmetric and the character has <strong>no asymmetric features</strong> (part line, mole, earring). Otherwise, <strong>don’t flip</strong>.</li>
+<li><strong>Color</strong>: gentle white-balance and exposure normalization are good; don’t stylize.</li>
+</ul>
+<h3 id="4-trigger-token-strategy">4) Trigger token strategy<a class="headerlink" href="#4-trigger-token-strategy" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Use <strong>one unique trigger</strong> that will <em>never</em> appear in normal text, e.g. <strong><code>[celestegrl]</code></strong> (you already use this pattern—perfect).</li>
+<li>Pair it with a <strong>class token</strong> in captions, e.g. “woman”, “girl”, “person”, “portrait”. For Flux, <strong>natural language</strong> tends to work better than tag-soup.</li>
+</ul>
+<h3 id="5-captioning">5) Captioning<a class="headerlink" href="#5-captioning" title="Permanent link">&para;</a></h3>
+<p>What to put in (and what to leave out)</p>
+<p>Flux responds beautifully to <strong>short, natural sentences</strong>. Think <strong>15–40 tokens</strong> each.</p>
+<p><strong>Template</strong></p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>[celestegrl], portrait of a petite young woman with hazel eyes and chest-length dark hair, soft freckles, natural makeup, gentle smile, studio lighting, neutral background.
+</span></code></pre></div>
+<ul>
+<li>Start with the trigger.</li>
+<li>Add <strong>only</strong> the traits you want the LoRA to learn as identity.</li>
+<li>Then add <strong>scene/photography</strong> descriptors (lighting, lensy words, background) to teach generalization—but don’t repeat the <em>same</em> scene terms on every image.</li>
+</ul>
+<p><strong>When clothes/features should stay flexible</strong></p>
+<ul>
+<li>If you <em>don’t</em> want the LoRA to memorize the yellow cardigan, <strong>omit it</strong> from the caption. If it’s very visible in many images, mention generic “casual outfit” instead of “yellow cardigan”.</li>
+</ul>
+<p><strong>Pose/shot words</strong></p>
+<ul>
+<li>Sprinkle across the set: “headshot”, “close-up”, “three-quarter view”, “profile”, “full body, standing”.</li>
+</ul>
+<p><strong>Good caption examples</strong></p>
+<ul>
+<li>“<code>[celestegrl], natural light close-up, hazel eyes, chest-length dark hair, soft freckles, slight smile, shallow depth of field.</code>”</li>
+<li>“<code>[celestegrl], three-quarter view portrait, neutral background, relaxed expression.</code>”</li>
+<li>“<code>[celestegrl], full body, standing, casual outfit, outdoor overcast light.</code>”</li>
+</ul>
+<p><strong>What not to do</strong></p>
+<ul>
+<li>Don’t stuff every caption with <em>all</em> traits (teaches the model those traits only work together).</li>
+<li>Don’t include changeable things you don’t want baked in (specific shirt colors, accessories, scene themes).</li>
+<li>Avoid long laundry-lists of tags; Flux likes prose.</li>
+</ul>
+<h3 id="6-classregularization">6) Class/regularization<a class="headerlink" href="#6-classregularization" title="Permanent link">&para;</a></h3>
+<p>(optional but helpful)</p>
+<ul>
+<li>Add <strong>100–200 generic “woman/person portrait”</strong> images without your trigger token in a separate class folder if FluxGym supports prior-preservation.</li>
+<li>This reduces style drift and helps your LoRA not overwrite base concepts. Keep their captions simple (no trigger).</li>
+</ul>
+<h3 id="7-repeats-epochs-steps">7) Repeats, epochs, steps<a class="headerlink" href="#7-repeats-epochs-steps" title="Permanent link">&para;</a></h3>
+<p>(ballpark)</p>
+<p>Let <strong>N</strong> = number of instance images. A practical recipe:</p>
+<ul>
+<li><strong>N ≈ 80</strong> images</li>
+<li><strong>Repeats</strong>: 10</li>
+<li><strong>Batch</strong>: 4</li>
+<li><strong>Epochs</strong>: 1–2</li>
+</ul>
+<p><strong>Steps ≈ (N × repeats × epochs) / batch</strong>
+For 80×10×1 / 4 = <strong>200 steps</strong> per epoch.
+For character identity, expect <strong>800–2500 total steps</strong> to find the sweet spot (save checkpoints along the way: e.g., 600, 1200, 1800, 2400) and compare.</p>
+<h3 id="8-training-knobs">8) Training knobs<a class="headerlink" href="#8-training-knobs" title="Permanent link">&para;</a></h3>
+<p>...that tend to work (Flux-ish defaults)</p>
+<ul>
+<li><strong>Rank (dim)</strong>: 16–32 (start at <strong>16</strong>; bump to 32 if you see underfitting).</li>
+<li><strong>Alpha</strong>: = rank (e.g., 16).</li>
+<li><strong>Dropout</strong>: 0.05–0.1 if you notice overfitting to clothes/backgrounds.</li>
+<li>
+<p><strong>Learning rates</strong></p>
+</li>
+<li>
+<p><strong>UNet</strong>: <strong>1e-4 → 2e-4</strong></p>
+</li>
+<li><strong>Text encoder</strong>: <strong>5e-6 → 1e-5</strong> (keep low; raises binding to <code>[celestegrl]</code> without wrecking the base text space)</li>
+<li><strong>Optimizer</strong>: AdamW, weight decay ~0.01.</li>
+<li><strong>Bucket max res</strong>: 1024; enable aspect-buckets.</li>
+<li><strong>Gradient checkpointing</strong> if VRAM is tight.</li>
+</ul>
+<h3 id="9-validation">9) Validation<a class="headerlink" href="#9-validation" title="Permanent link">&para;</a></h3>
+<p>(don’t skip)</p>
+<p>Hold out <strong>6–10 images</strong> (never seen in training). After each checkpoint:</p>
+<ul>
+<li>
+<p>Prompt with/without the class token:</p>
+</li>
+<li>
+<p>“<code>portrait of [celestegrl], soft daylight, natural makeup</code>”</p>
+</li>
+<li>“<code>[celestegrl] walking on a beach, golden hour</code>”</li>
+<li>Try clothing the LoRA never saw (“evening dress”, “hoodie”), different hair styles, and varied lighting to test generalization.</li>
+<li>Compare checkpoints side-by-side and pick the lowest step that nails identity <strong>without</strong> freezing wardrobe/lighting.</li>
+</ul>
+<h3 id="10-common-failure-modes">10) Common failure modes<a class="headerlink" href="#10-common-failure-modes" title="Permanent link">&para;</a></h3>
+<p>...&amp; fixes</p>
+<ul>
+<li><strong>Overfitting to one outfit/background</strong> → reduce duplicates, add variety, add dropout 0.1, add class images, remove clothing terms from captions.</li>
+<li><strong>Face not locking / looks generic</strong> → add more tight face crops with precise face traits in captions; slightly raise TE LR; increase repeats to 12.</li>
+<li><strong>Identity drifts under complex prompts</strong> → ensure <em>every</em> caption starts with the trigger; include several neutral “vanilla” portraits; consider bumping rank from 16→32.</li>
+<li><strong>Mirrored mole/part line after flips</strong> → remove flipped images; retrain.</li>
+</ul>
+<h3 id="11-practical-workflow">11) Practical workflow<a class="headerlink" href="#11-practical-workflow" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Curate 90 images → prune to the best <strong>75–90</strong>.</li>
+<li>Sort into subfolders: <code>closeup/</code>, <code>halfbody/</code>, <code>fullbody/</code>, <code>hands/</code>.</li>
+<li>Write <strong>short prose captions</strong> (sidecar <code>.txt</code> per image). Start with <code>[celestegrl]</code>.</li>
+<li>(Optional) Add <code>class/</code> folder with 150 generic woman portraits + simple captions.</li>
+<li>Train at 1024 buckets, rank 16, UNet 1e-4, TE 5e-6, batch 4, repeats 10, 1–2 epochs.</li>
+<li>Save checkpoints every ~400–600 steps.</li>
+<li>Validate with a fixed prompt sheet; pick the <em>lowest</em> step that passes identity + flexibility.</li>
+</ol>
+<p>If you want, I can draft a <strong>caption starter pack</strong> for your first 20 images (you can paste the filenames), or a <strong>prompt sheet</strong> to evaluate checkpoints consistently.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="dimensionsaspect-ratios">Dimensions/aspect ratios<a class="headerlink" href="#dimensionsaspect-ratios" title="Permanent link">&para;</a></h2>
+<p>Short version: <strong>Yes, mix dimensions; DPI doesn’t matter.</strong> A few gotchas below.</p>
+<ul>
+<li><strong>It’s fine (and good) to mix</strong> 1024×1024 with 1216×832, 896×1152, etc.</li>
+<li>In FluxGym, just <strong>enable aspect-ratio buckets</strong> and set a <strong>max bucket size</strong> (commonly 1024 or 1152 on the long side, depending on VRAM). The trainer will resize each image into the nearest bucket.</li>
+<li><strong>Avoid padding/letterboxing.</strong> Give the trainer real pixels, not black bars. Crop instead of pad.</li>
+<li><strong>Keep subject scale consistent.</strong> Even with buckets, don’t swing from extreme tight headshots to tiny faces in wide scenes. Aim for a coherent face size range across images (you can still keep some variety).</li>
+<li><strong>Don’t aggressively upscale</strong> tiny sources to huge buckets—mild upscales are okay, but big ones add mushy detail and can teach artifacts.</li>
+</ul>
+<h3 id="dpi-ppi">DPI / PPI<a class="headerlink" href="#dpi-ppi" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Completely irrelevant.</strong> Training uses raw pixel counts; DPI metadata is ignored. A 1024×1024 at 72 dpi and the same at 300 dpi are identical to the trainer.</li>
+</ul>
+<h3 id="practical-tips">Practical tips<a class="headerlink" href="#practical-tips" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Set max bucket</strong>: 1024 (safe) or 1152 (more detail, more VRAM).</li>
+<li><strong>Minimum shortest side</strong>: try to keep sources ≥768 px on the short side; delete or down-weight smaller ones.</li>
+<li><strong>Face framing</strong>: for character LoRA, ensure ~40–60% of images have the face occupying ~35–70% of the frame.</li>
+<li><strong>No letterbox</strong>: If you must normalize, <strong>crop</strong> to the desired aspect rather than adding borders.</li>
+<li><strong>VRAM awareness</strong>: Wider/taller buckets (e.g., 1216×832) cost more memory than 1024×1024; pick a ceiling your GPU can handle.</li>
+</ul>
+<p>If you want, tell me your GPU VRAM and I’ll suggest a max-bucket and batch size that won’t OOM, plus a quick crop recipe to keep face scale tidy across mixed aspect ratios.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="what-this-gpu-means">What this GPU means<a class="headerlink" href="#what-this-gpu-means" title="Permanent link">&para;</a></h2>
+<p>...for your dataset</p>
+<p>girlfriend, a <strong>4060 Ti 16 GB</strong> is a sweet spot for LoRA training. Here’s how it should shape your dataset and settings:</p>
+<ul>
+<li><strong>You can keep mixed aspect ratios</strong> (e.g., 1024×1024 with 1216×832) and use <strong>aspect-ratio buckets</strong>. No need to force everything square.</li>
+<li>You can comfortably train at <strong>max bucket 1024</strong>; <strong>1152</strong> is also realistic if you keep batch sensible. Only drop big panoramic outliers that make faces tiny.</li>
+<li><strong>No need to downscale good sources</strong>: keep images ≥<strong>900–1024 px</strong> on the short side when possible. Crop instead of letterbox.</li>
+</ul>
+<h3 id="trainer-settings">Trainer settings<a class="headerlink" href="#trainer-settings" title="Permanent link">&para;</a></h3>
+<p><strong>as Recommended</strong></p>
+<p>(LoRA on Flux/SDXL-class models)</p>
+<p><strong>Memory/precision</strong></p>
+<ul>
+<li><strong>Mixed precision</strong>: <strong>bf16</strong> (preferred) or fp16.</li>
+<li><strong>Memory-efficient attention</strong>: enable <strong>Flash-Attention/xFormers</strong> if FluxGym exposes it.</li>
+<li><strong>Gradient checkpointing</strong>: <strong>ON</strong> (cuts VRAM nicely).</li>
+</ul>
+<p><strong>Resolution &amp; buckets</strong></p>
+<ul>
+<li><strong>Max bucket</strong>: start <strong>1024</strong>; try <strong>1152</strong> if stable.</li>
+<li><strong>Min bucket short side</strong>: 768.</li>
+<li><strong>Keep buckets</strong> around these: 832×1216, 896×1152, 1024×1024, 1152×896 (trainer usually auto-makes them).</li>
+</ul>
+<p><strong>Batching (typical for 16 GB)</strong></p>
+<ul>
+<li>At <strong>1024 max</strong>: <strong>batch 4–6</strong> (start <strong>4</strong>; raise if stable).</li>
+<li>At <strong>1152 max</strong>: <strong>batch 2–4</strong> (start <strong>3</strong>).</li>
+<li>If you want a larger <em>effective</em> batch, use <strong>gradient accumulation</strong> (e.g., batch 3 × grad-accum 2 ⇒ effective 6).</li>
+</ul>
+<p><strong>Other handy toggles</strong></p>
+<ul>
+<li><strong>Cache latents</strong> (if offered) to boost throughput after the first epoch.</li>
+<li><strong>Workers</strong>: 4–8 (watch CPU/RAM).</li>
+<li><strong>Shuffle</strong>: ON.</li>
+</ul>
+<h3 id="training-recipe">Training recipe<a class="headerlink" href="#training-recipe" title="Permanent link">&para;</a></h3>
+<p>that fits 16 GB (character LoRA)</p>
+<ul>
+<li><strong>Rank (dim)</strong>: 16 (32 if underfitting).</li>
+<li><strong>Alpha</strong>: same as rank.</li>
+<li><strong>Dropout</strong>: 0.05–0.1 if it memorizes clothes/backgrounds.</li>
+<li><strong>LRs</strong>: UNet <strong>1e-4</strong> (up to 2e-4), Text Encoder <strong>5e-6</strong> (up to 1e-5).</li>
+<li><strong>Repeats</strong>: 10, <strong>Epochs</strong>: 1–2, <strong>Batch</strong>: as above.</li>
+<li><strong>Checkpoints</strong> every <strong>400–600</strong> steps.</li>
+</ul>
+<h3 id="dataset-curation">Dataset curation<a class="headerlink" href="#dataset-curation" title="Permanent link">&para;</a></h3>
+<p>with 16 GB in mind</p>
+<ul>
+<li>
+<p>You <strong>don’t</strong> have to prune for VRAM—prune for <strong>identity clarity</strong>:</p>
+</li>
+<li>
+<p>Aim <strong>60–120 images</strong>, with <strong>40–50% closeups</strong>, <strong>30–40% half-body</strong>, <strong>10–20% full-body</strong>.</p>
+</li>
+<li>Keep <strong>face scale</strong> within a sensible band (avoid lots of ultra-wide shots with tiny faces).</li>
+<li>Keep <strong>occlusions low</strong> (no sunglasses/masks dominating).</li>
+<li>Keep <strong>mixed lighting</strong> and <strong>varied outfits</strong> so your LoRA generalizes; your GPU can handle the bucket variety.</li>
+</ul>
+<h3 id="two-plug-and-play-profiles">Two plug-and-play profiles<a class="headerlink" href="#two-plug-and-play-profiles" title="Permanent link">&para;</a></h3>
+<p><strong>Comfort (fast &amp; stable)</strong></p>
+<ul>
+<li>Max bucket <strong>1024</strong>, batch <strong>4</strong>, bf16, checkpointing ON, Flash-Attn ON.</li>
+<li>Rank 16, UNet 1e-4, TE 5e-6, repeats 10, 1–2 epochs.</li>
+</ul>
+<p><strong>Detail (more capacity, a tad slower)</strong></p>
+<ul>
+<li>Max bucket <strong>1152</strong>, batch <strong>3</strong>, bf16, checkpointing ON, Flash-Attn ON.</li>
+<li>Rank 16→32 (if needed), UNet 1.2e-4, TE 7e-6, repeats 10, 1–2 epochs.</li>
+</ul>
+<h3 id="quick-troubleshooting">Quick troubleshooting<a class="headerlink" href="#quick-troubleshooting" title="Permanent link">&para;</a></h3>
+<p>tied to VRAM</p>
+<ul>
+<li><strong>OOM at 1152</strong> → drop batch by 1, or switch to max 1024, or enable grad-accum 2.</li>
+<li><strong>Training too slow</strong> → stick to 1024 max; enable latent caching; trim bucket list to a few common shapes.</li>
+<li><strong>Identity wobbles</strong> at higher res → keep 1024 max, add a few more tight face crops with crisp captions.</li>
+</ul>
+<p>If you want, tell me whether you prefer the <strong>Comfort</strong> or <strong>Detail</strong> profile and I’ll spit out a ready-to-paste FluxGym config plus a tiny “bucket sanity” checklist for your image folder.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="fluxgym-config">FluxGym config<a class="headerlink" href="#fluxgym-config" title="Permanent link">&para;</a></h2>
+<p>(Comfort profile, 4060 Ti 16 GB)</p>
+<p>girlfriend, here’s a <strong>ready-to-paste Comfort profile</strong> plus a quick <strong>bucket sanity</strong> checklist so you can roll right in FluxGym.</p>
+<p><strong>Save as <code>config.yaml</code> (edit the paths and trigger/class tokens to taste):</strong></p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="c1"># --- DATA ---</span>
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="nt">train_data</span><span class="p">:</span>
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">  </span><span class="nt">instance_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">/path/to/dataset/instance</span><span class="w">          </span><span class="c1"># your character images</span>
+</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="w">  </span><span class="nt">instance_caption_ext</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">.txt</span><span class="w">                       </span><span class="c1"># sidecar captions</span>
+</span><span id="__span-1-5"><a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a><span class="w">  </span><span class="nt">class_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">/path/to/dataset/class</span><span class="w">               </span><span class="c1"># optional prior/class images</span>
+</span><span id="__span-1-6"><a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a><span class="w">  </span><span class="nt">class_caption_ext</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">.txt</span>
+</span><span id="__span-1-7"><a id="__codelineno-1-7" name="__codelineno-1-7" href="#__codelineno-1-7"></a><span class="w">  </span><span class="nt">shuffle</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+</span><span id="__span-1-8"><a id="__codelineno-1-8" name="__codelineno-1-8" href="#__codelineno-1-8"></a><span class="w">  </span><span class="nt">num_workers</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">6</span>
+</span><span id="__span-1-9"><a id="__codelineno-1-9" name="__codelineno-1-9" href="#__codelineno-1-9"></a>
+</span><span id="__span-1-10"><a id="__codelineno-1-10" name="__codelineno-1-10" href="#__codelineno-1-10"></a><span class="c1"># --- CAPTION TOKENS ---</span>
+</span><span id="__span-1-11"><a id="__codelineno-1-11" name="__codelineno-1-11" href="#__codelineno-1-11"></a><span class="nt">trigger_token</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;[celestegrl]&quot;</span>
+</span><span id="__span-1-12"><a id="__codelineno-1-12" name="__codelineno-1-12" href="#__codelineno-1-12"></a><span class="nt">class_token</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;woman&quot;</span><span class="w">                               </span><span class="c1"># or &quot;girl&quot;/&quot;person&quot; (keep natural)</span>
+</span><span id="__span-1-13"><a id="__codelineno-1-13" name="__codelineno-1-13" href="#__codelineno-1-13"></a>
+</span><span id="__span-1-14"><a id="__codelineno-1-14" name="__codelineno-1-14" href="#__codelineno-1-14"></a><span class="c1"># --- BUCKETING / RESIZE ---</span>
+</span><span id="__span-1-15"><a id="__codelineno-1-15" name="__codelineno-1-15" href="#__codelineno-1-15"></a><span class="nt">buckets</span><span class="p">:</span>
+</span><span id="__span-1-16"><a id="__codelineno-1-16" name="__codelineno-1-16" href="#__codelineno-1-16"></a><span class="w">  </span><span class="nt">enable</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+</span><span id="__span-1-17"><a id="__codelineno-1-17" name="__codelineno-1-17" href="#__codelineno-1-17"></a><span class="w">  </span><span class="nt">max_res</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1024</span><span class="w">                                    </span><span class="c1"># Comfort profile</span>
+</span><span id="__span-1-18"><a id="__codelineno-1-18" name="__codelineno-1-18" href="#__codelineno-1-18"></a><span class="w">  </span><span class="nt">min_short_side</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">768</span>
+</span><span id="__span-1-19"><a id="__codelineno-1-19" name="__codelineno-1-19" href="#__codelineno-1-19"></a><span class="w">  </span><span class="c1"># Let FluxGym auto-generate common buckets; avoid letterboxing/padding</span>
+</span><span id="__span-1-20"><a id="__codelineno-1-20" name="__codelineno-1-20" href="#__codelineno-1-20"></a>
+</span><span id="__span-1-21"><a id="__codelineno-1-21" name="__codelineno-1-21" href="#__codelineno-1-21"></a><span class="c1"># --- TRAINING ---</span>
+</span><span id="__span-1-22"><a id="__codelineno-1-22" name="__codelineno-1-22" href="#__codelineno-1-22"></a><span class="nt">output</span><span class="p">:</span>
+</span><span id="__span-1-23"><a id="__codelineno-1-23" name="__codelineno-1-23" href="#__codelineno-1-23"></a><span class="w">  </span><span class="nt">out_dir</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">/path/to/outputs/celestegrl_lora</span>
+</span><span id="__span-1-24"><a id="__codelineno-1-24" name="__codelineno-1-24" href="#__codelineno-1-24"></a><span class="w">  </span><span class="nt">save_every_n_steps</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">500</span>
+</span><span id="__span-1-25"><a id="__codelineno-1-25" name="__codelineno-1-25" href="#__codelineno-1-25"></a><span class="w">  </span><span class="nt">keep_last_n</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">6</span>
+</span><span id="__span-1-26"><a id="__codelineno-1-26" name="__codelineno-1-26" href="#__codelineno-1-26"></a>
+</span><span id="__span-1-27"><a id="__codelineno-1-27" name="__codelineno-1-27" href="#__codelineno-1-27"></a><span class="nt">lora</span><span class="p">:</span>
+</span><span id="__span-1-28"><a id="__codelineno-1-28" name="__codelineno-1-28" href="#__codelineno-1-28"></a><span class="w">  </span><span class="nt">enable</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+</span><span id="__span-1-29"><a id="__codelineno-1-29" name="__codelineno-1-29" href="#__codelineno-1-29"></a><span class="w">  </span><span class="nt">rank</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">16</span>
+</span><span id="__span-1-30"><a id="__codelineno-1-30" name="__codelineno-1-30" href="#__codelineno-1-30"></a><span class="w">  </span><span class="nt">alpha</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">16</span>
+</span><span id="__span-1-31"><a id="__codelineno-1-31" name="__codelineno-1-31" href="#__codelineno-1-31"></a><span class="w">  </span><span class="nt">dropout</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">0.08</span><span class="w">                                    </span><span class="c1"># helps avoid clothing/background stickiness</span>
+</span><span id="__span-1-32"><a id="__codelineno-1-32" name="__codelineno-1-32" href="#__codelineno-1-32"></a>
+</span><span id="__span-1-33"><a id="__codelineno-1-33" name="__codelineno-1-33" href="#__codelineno-1-33"></a><span class="nt">optim</span><span class="p">:</span>
+</span><span id="__span-1-34"><a id="__codelineno-1-34" name="__codelineno-1-34" href="#__codelineno-1-34"></a><span class="w">  </span><span class="nt">optimizer</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">adamw</span>
+</span><span id="__span-1-35"><a id="__codelineno-1-35" name="__codelineno-1-35" href="#__codelineno-1-35"></a><span class="w">  </span><span class="nt">weight_decay</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">0.01</span>
+</span><span id="__span-1-36"><a id="__codelineno-1-36" name="__codelineno-1-36" href="#__codelineno-1-36"></a><span class="w">  </span><span class="nt">unet_lr</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1.0e-4</span>
+</span><span id="__span-1-37"><a id="__codelineno-1-37" name="__codelineno-1-37" href="#__codelineno-1-37"></a><span class="w">  </span><span class="nt">text_encoder_lr</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">5.0e-6</span>
+</span><span id="__span-1-38"><a id="__codelineno-1-38" name="__codelineno-1-38" href="#__codelineno-1-38"></a><span class="w">  </span><span class="nt">betas</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="nv">0.9</span><span class="p p-Indicator">,</span><span class="w"> </span><span class="nv">0.999</span><span class="p p-Indicator">]</span>
+</span><span id="__span-1-39"><a id="__codelineno-1-39" name="__codelineno-1-39" href="#__codelineno-1-39"></a><span class="w">  </span><span class="nt">eps</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1.0e-8</span>
+</span><span id="__span-1-40"><a id="__codelineno-1-40" name="__codelineno-1-40" href="#__codelineno-1-40"></a><span class="w">  </span><span class="nt">lr_scheduler</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">cosine</span>
+</span><span id="__span-1-41"><a id="__codelineno-1-41" name="__codelineno-1-41" href="#__codelineno-1-41"></a><span class="w">  </span><span class="nt">warmup_steps</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">100</span>
+</span><span id="__span-1-42"><a id="__codelineno-1-42" name="__codelineno-1-42" href="#__codelineno-1-42"></a>
+</span><span id="__span-1-43"><a id="__codelineno-1-43" name="__codelineno-1-43" href="#__codelineno-1-43"></a><span class="nt">trainer</span><span class="p">:</span>
+</span><span id="__span-1-44"><a id="__codelineno-1-44" name="__codelineno-1-44" href="#__codelineno-1-44"></a><span class="w">  </span><span class="nt">precision</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">bf16</span><span class="w">                                  </span><span class="c1"># or fp16 if bf16 not available</span>
+</span><span id="__span-1-45"><a id="__codelineno-1-45" name="__codelineno-1-45" href="#__codelineno-1-45"></a><span class="w">  </span><span class="nt">batch_size</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">4</span>
+</span><span id="__span-1-46"><a id="__codelineno-1-46" name="__codelineno-1-46" href="#__codelineno-1-46"></a><span class="w">  </span><span class="nt">gradient_accumulation</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span>
+</span><span id="__span-1-47"><a id="__codelineno-1-47" name="__codelineno-1-47" href="#__codelineno-1-47"></a><span class="w">  </span><span class="nt">gradient_checkpointing</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+</span><span id="__span-1-48"><a id="__codelineno-1-48" name="__codelineno-1-48" href="#__codelineno-1-48"></a><span class="w">  </span><span class="nt">cache_latents_after_epoch</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span><span class="w">                     </span><span class="c1"># speeds later epochs</span>
+</span><span id="__span-1-49"><a id="__codelineno-1-49" name="__codelineno-1-49" href="#__codelineno-1-49"></a><span class="w">  </span><span class="nt">max_epochs</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">1</span><span class="w">                                    </span><span class="c1"># usually 1–2 is enough</span>
+</span><span id="__span-1-50"><a id="__codelineno-1-50" name="__codelineno-1-50" href="#__codelineno-1-50"></a><span class="w">  </span><span class="nt">repeats</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">10</span><span class="w">                                      </span><span class="c1"># per-image repeats</span>
+</span><span id="__span-1-51"><a id="__codelineno-1-51" name="__codelineno-1-51" href="#__codelineno-1-51"></a><span class="w">  </span><span class="nt">log_every_n_steps</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">50</span>
+</span><span id="__span-1-52"><a id="__codelineno-1-52" name="__codelineno-1-52" href="#__codelineno-1-52"></a>
+</span><span id="__span-1-53"><a id="__codelineno-1-53" name="__codelineno-1-53" href="#__codelineno-1-53"></a><span class="c1"># --- VALIDATION PROMPTS (run after each save) ---</span>
+</span><span id="__span-1-54"><a id="__codelineno-1-54" name="__codelineno-1-54" href="#__codelineno-1-54"></a><span class="nt">validation</span><span class="p">:</span>
+</span><span id="__span-1-55"><a id="__codelineno-1-55" name="__codelineno-1-55" href="#__codelineno-1-55"></a><span class="w">  </span><span class="nt">enable</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">true</span>
+</span><span id="__span-1-56"><a id="__codelineno-1-56" name="__codelineno-1-56" href="#__codelineno-1-56"></a><span class="w">  </span><span class="nt">num_images</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">4</span>
+</span><span id="__span-1-57"><a id="__codelineno-1-57" name="__codelineno-1-57" href="#__codelineno-1-57"></a><span class="w">  </span><span class="nt">prompts</span><span class="p">:</span>
+</span><span id="__span-1-58"><a id="__codelineno-1-58" name="__codelineno-1-58" href="#__codelineno-1-58"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&quot;portrait</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">[celestegrl],</span><span class="nv"> </span><span class="s">soft</span><span class="nv"> </span><span class="s">daylight,</span><span class="nv"> </span><span class="s">natural</span><span class="nv"> </span><span class="s">makeup&quot;</span>
+</span><span id="__span-1-59"><a id="__codelineno-1-59" name="__codelineno-1-59" href="#__codelineno-1-59"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&quot;[celestegrl],</span><span class="nv"> </span><span class="s">three-quarter</span><span class="nv"> </span><span class="s">view,</span><span class="nv"> </span><span class="s">neutral</span><span class="nv"> </span><span class="s">background,</span><span class="nv"> </span><span class="s">relaxed</span><span class="nv"> </span><span class="s">expression&quot;</span>
+</span><span id="__span-1-60"><a id="__codelineno-1-60" name="__codelineno-1-60" href="#__codelineno-1-60"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&quot;[celestegrl]</span><span class="nv"> </span><span class="s">walking</span><span class="nv"> </span><span class="s">on</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">beach,</span><span class="nv"> </span><span class="s">golden</span><span class="nv"> </span><span class="s">hour&quot;</span>
+</span><span id="__span-1-61"><a id="__codelineno-1-61" name="__codelineno-1-61" href="#__codelineno-1-61"></a><span class="w">    </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">&quot;[celestegrl],</span><span class="nv"> </span><span class="s">full</span><span class="nv"> </span><span class="s">body</span><span class="nv"> </span><span class="s">standing,</span><span class="nv"> </span><span class="s">evening</span><span class="nv"> </span><span class="s">dress,</span><span class="nv"> </span><span class="s">studio</span><span class="nv"> </span><span class="s">light&quot;</span>
+</span></code></pre></div>
+<p><strong>Rule-of-thumb steps (for ~80 images × repeats 10 × epochs 1, batch 4):</strong> ~200 steps per epoch chunk; expect best checkpoints between <strong>600–1800</strong> steps. Keep the lowest step that nails identity <strong>without</strong> baking in outfits.</p>
+<hr />
+<h3 id="bucket-sanity-checklist">Bucket sanity checklist<a class="headerlink" href="#bucket-sanity-checklist" title="Permanent link">&para;</a></h3>
+<p>(quick pre-flight)</p>
+<ul>
+<li><strong>Mix of aspects OK</strong>: 1024×1024, 1216×832, 896×1152 etc. are fine (no letterboxes).</li>
+<li><strong>Shortest side ≥ 768 px</strong> for most images; toss the tiny, blurry ones.</li>
+<li><strong>Face scale band</strong>: in ~50% of images, face occupies ~35–70% of frame (avoid lots of tiny faces).</li>
+<li><strong>No near-dupes</strong>: same pose/lighting/outfit culled down to 1–2 best.</li>
+<li><strong>Minimal occlusion</strong>: no sunglasses/masks dominating; eyes visible in most closeups.</li>
+<li><strong>Varied lighting/outfits</strong>: keep wardrobe variety so clothing doesn’t imprint.</li>
+<li><strong>No padding</strong>: crop to aspect; do <strong>not</strong> add borders/black bars.</li>
+<li><strong>DPI ignored</strong>: don’t worry about 72 vs 300 — pixels are what matter.</li>
+</ul>
+<hr />
+<h3 id="caption-mini-template">Caption mini-template<a class="headerlink" href="#caption-mini-template" title="Permanent link">&para;</a></h3>
+<p>(Comfort style)</p>
+<p>Keep them short, natural, and start with your trigger:</p>
+<ul>
+<li><code>[celestegrl], natural light close-up, hazel eyes, chest-length dark hair, soft freckles, slight smile.</code></li>
+<li><code>[celestegrl], three-quarter view portrait, neutral background, relaxed expression.</code></li>
+<li><code>[celestegrl], full body, standing, casual outfit, overcast outdoor light.</code></li>
+</ul>
+<p>(Leave out specific clothing words unless you <em>want</em> them memorised.)</p>
+<hr />
+<p>If you want, paste 10–15 filenames and I’ll draft the first batch of captions to match this config (face-heavy, clean, varied).</p>
+<hr />
+<p>Love it, girlfriend. Here’s a <strong>clean, identity-safe positive prompt</strong> you can drop into Gwen Image Edit 2509 to generate dataset-ready variants from a single photo. It sticks to natural language and avoids baking in clothes/backgrounds while nudging for realism and face fidelity.</p>
+<p><strong>Master positive prompt</strong></p>
+<blockquote>
+<p><strong>[celestegrl]</strong>, natural identity-preserving portrait, photoreal, true skin texture and pores, sharp expressive eyes, accurate facial proportions, chest-length dark hair, soft freckles, <strong>{headshot|three-quarter view|profile}</strong>, <strong>{soft daylight|open shade|studio softbox|window light|golden hour}</strong>, <strong>{neutral seamless backdrop|subtle gradient|plain wall|soft bokeh foliage}</strong>, <strong>{50mm look|85mm look}</strong>, shallow depth of field (around f/2.8), balanced exposure, natural color, minimal makeup, no stylization, crisp focus, professional photographic quality</p>
+</blockquote>
+<p>You can paste that verbatim. If your workflow supports wildcards (<code>{a|b|c}</code>), it’ll rotate <strong>shot</strong>, <strong>lighting</strong>, <strong>background</strong>, and <strong>lens look</strong> to produce controlled variety without drifting identity or baking in wardrobe. If it doesn’t, just pick one option from each set per batch/run.</p>
+<p>If you’re training a LoRA, keep your <strong>trigger token</strong> up front (I used <code>[celestegrl]</code>, swap as needed).</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="working-with-flux">Working with Flux<a class="headerlink" href="#working-with-flux" title="Permanent link">&para;</a></h2>
+<p>You’re not imagining it—Flux tends to “over-carve” faces. Two fixes: (1) prompt/caption anatomy explicitly, and (2) do quick regional inpaints (Krea/Kontext) to smooth chin/brow without nuking identity.</p>
+<p>Here’s a practical kit you can paste/use.</p>
+<h3 id="1-prompt-anatomy">1) Prompt anatomy<a class="headerlink" href="#1-prompt-anatomy" title="Permanent link">&para;</a></h3>
+<p>...that <em>adds</em> softness (and negate the rest)</p>
+<p>Use both positive <em>and</em> negative anatomy terms. (Negatives alone often aren’t enough.)</p>
+<p><strong>Positive block (use 1–2 per render)</strong></p>
+<ul>
+<li>“rounded chin, no cleft”</li>
+<li>“soft, low brow ridge”</li>
+<li>“smooth browbone, fuller forehead”</li>
+<li>“delicate jawline, small mentolabial groove”</li>
+<li>“subtle philtrum, minimal glabellar shadow”</li>
+</ul>
+<p><strong>Negative block (keep tight)</strong></p>
+<ul>
+<li>“no cleft chin, no chin dimple, no butt chin”</li>
+<li>“no pronounced brow ridge, no heavy supraorbital ridge”</li>
+<li>“no harsh nose–brow shadow, no deep glabellar crease”</li>
+</ul>
+<p><strong>Example (Flux/Krea/Kontext)</strong></p>
+<blockquote>
+<p><strong>Positive:</strong> portrait, photoreal, [celestegrl], rounded chin, soft low brow ridge, delicate jawline, smooth forehead, 85mm look, soft clamshell lighting, gentle fill, shallow depth of field
+<strong>Negative:</strong> no cleft chin, no chin dimple, no pronounced brow ridge, no harsh shadows, no heavy contrast</p>
+</blockquote>
+<p>Tip: if your tool supports weights, lightly weight the anatomy:
+<code>rounded chin:1.2, soft low brow ridge:1.2, no cleft chin:1.3</code>.</p>
+<hr />
+<h3 id="2-lighting-and-lens-cues">2) Lighting and lens cues<a class="headerlink" href="#2-lighting-and-lens-cues" title="Permanent link">&para;</a></h3>
+<p>...that <em>prevent</em> the artifacts</p>
+<p>Clefts/ridges often appear from lighting, not just anatomy.</p>
+<ul>
+<li><strong>Use:</strong> “soft clamshell lighting”, “beauty dish with diffusion”, “broad, frontal fill”, “open shade”, “window light with bounce.”</li>
+<li><strong>Avoid:</strong> “hard rim/key at 45°”, “split/Rembrandt lighting”, “high contrast”, “specular hotspot under lower lip.”</li>
+<li><strong>Lens/angle:</strong> “85mm look, eye-level camera.” (Down-lighting and wide lenses emphasize brow/chin topology.)</li>
+</ul>
+<hr />
+<h3 id="3-krea-or-kontext">3) Krea or Kontext<a class="headerlink" href="#3-krea-or-kontext" title="Permanent link">&para;</a></h3>
+<p>... fast regional inpaint</p>
+<p>When a cleft or ridge still shows up, fix <em>locally</em>.</p>
+<p><strong>Krea – Mask Edit recipe</strong></p>
+<ol>
+<li>Duplicate the image (preserve seed/settings).</li>
+<li><strong>Mask</strong> only the chin groove (thin vertical strip) or brow ridge area. Feather ~8–15px.</li>
+<li><strong>Prompt (chin):</strong> “rounded chin, no cleft, soft skin microtexture, natural shading”
+   <strong>Prompt (brow):</strong> “smooth browbone, low brow ridge, fuller forehead contour, natural shadowing”</li>
+<li><strong>Denoise strength:</strong> 0.35–0.55 (start at 0.45).</li>
+<li><strong>CFG/guidance:</strong> slightly lower than your base (e.g., if 7.5 → 6.5).</li>
+<li>Keep the same positive/negative blocks; apply 1–2 passes max.</li>
+</ol>
+<p><strong>Kontext – Inpaint recipe</strong></p>
+<ul>
+<li>Same mask approach.</li>
+<li>Turn <strong>“preserve background context”</strong> (or similar) ON.</li>
+<li><strong>Noise/strength:</strong> 0.35–0.5.</li>
+<li><strong>Steps:</strong> a bit fewer than base gen (e.g., if 28 → 22) to avoid re-inventing the face.</li>
+<li>If identity drifts, reduce strength or add your <strong>FaceID/InstantID/Reference</strong> control at low weight (0.2–0.35) while inpainting.</li>
+</ul>
+<hr />
+<h3 id="4-for-referenceid-guidance">4) For reference/ID guidance<a class="headerlink" href="#4-for-referenceid-guidance" title="Permanent link">&para;</a></h3>
+<p>FaceID/InstantID/IP-Adapter can stop the model from “inventing” geometry:</p>
+<ul>
+<li>Keep <strong>ID weight modest</strong> (0.25–0.45) during <em>full</em> gen so it doesn’t over-lock expression.</li>
+<li><strong>For inpaint</strong>, bump to ~0.4 and lower denoise; this pins identity while letting the chin/brow smooth.</li>
+</ul>
+<hr />
+<h3 id="5-dataset-captions">5) Dataset &amp; captions<a class="headerlink" href="#5-dataset-captions" title="Permanent link">&para;</a></h3>
+<p>(for the LoRA you’ll train)</p>
+<ul>
+<li>Include <strong>explicit positives</strong> in captions on a few closeups: “rounded chin, no cleft”, “smooth browbone, low brow ridge.”</li>
+<li>Avoid photos with <strong>strong vertical shadow under the lower lip</strong> (it reads as a cleft).</li>
+<li>Keep <strong>soft/flat light</strong> in a healthy fraction of face crops so the LoRA learns that topology.</li>
+</ul>
+<hr />
+<h3 id="6-2-ready-to-paste-prompts">6) 2 ready-to-paste prompts<a class="headerlink" href="#6-2-ready-to-paste-prompts" title="Permanent link">&para;</a></h3>
+<p><strong>A. Generation (preventive)</strong></p>
+<ul>
+<li><em>Positive:</em> <code>portrait, photoreal, [celestegrl], rounded chin, soft low brow ridge, delicate jawline, smooth forehead, 85mm look, soft clamshell lighting, shallow depth of field, natural skin texture</code></li>
+<li><em>Negative:</em> <code>no cleft chin, no chin dimple, no pronounced brow ridge, no harsh shadows, no heavy contrast, no specular hotspots</code></li>
+</ul>
+<p><strong>B. Inpaint – Chin</strong></p>
+<ul>
+<li><em>Positive:</em> <code>rounded chin, no cleft, soft natural shading, continuous skin texture, subtle mentolabial groove</code></li>
+<li><em>Negative:</em> <code>no chin dimple, no deep vertical crease, no sharp contour</code></li>
+</ul>
+<p><strong>Inpaint – Brow</strong></p>
+<ul>
+<li><em>Positive:</em> <code>smooth browbone, low supraorbital ridge, fuller forehead curve, gentle shadowing</code></li>
+<li><em>Negative:</em> <code>no prominent brow ridge, no deep glabellar crease, no harsh nose bridge shadow</code></li>
+</ul>
+<hr />
+<h3 id="7-parameter-nudges">7) Parameter nudges<a class="headerlink" href="#7-parameter-nudges" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Lower CFG</strong> a touch (e.g., 7.5 → 6–6.5): reduces “stylized chiseling.”</li>
+<li><strong>Softer noise schedule / fewer steps</strong> can help in inpaint passes (keeps the fix subtle).</li>
+<li><strong>Texture add-ons</strong> (skin-retouch/beauty LoRA) at <strong>very low weight (0.1–0.2)</strong> can smooth without plasticity.</li>
+</ul>
+<p>If you want, ping me a problematic render (or describe the settings), and I’ll tailor a tiny, step-by-step Krea/Kontext inpaint preset for chin vs. brow so it’s a two-click fix.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<p>k</p>
+<h2 id="a-gimp-tldr">A GIMP TL;DR<a class="headerlink" href="#a-gimp-tldr" title="Permanent link">&para;</a></h2>
+<p>You’ve got it right, girlfriend. In ComfyUI the Mask Editor exports a <strong>PNG with alpha</strong> where the <strong>transparent pixels are the masked (editable) region</strong>. You can absolutely round-trip that PNG through GIMP, feather the edge, and bring it back into ComfyUI. Here’s the tidy version with the few “gotchas” that matter.</p>
+<ul>
+<li><strong>Yes:</strong> Edit the mask in GIMP by working on the <strong>alpha</strong> (or a <strong>layer mask</strong>), feather/blur it, and <strong>export PNG with alpha</strong>.</li>
+<li><strong>In ComfyUI:</strong> Load the PNG → <strong>Mask from Alpha</strong> → (optional <strong>Invert / Grow / Erode / Blur Mask</strong>) → feed to your <strong>Inpaint</strong> node.</li>
+</ul>
+<hr />
+<h3 id="gimp-workflow">GIMP workflow<a class="headerlink" href="#gimp-workflow" title="Permanent link">&para;</a></h3>
+<p>(safe &amp; repeatable)</p>
+<ol>
+<li>Open the PNG; ensure the layer has <strong>Alpha Channel</strong> (Layer → Transparency → Add Alpha Channel).</li>
+<li>Add a <strong>Layer Mask</strong> (white = fully visible), paint black where you want the <strong>edit region</strong>.</li>
+<li>
+<p><strong>Feather/soften</strong> the edge:</p>
+</li>
+<li>
+<p>Select → <strong>Feather</strong> (8–20 px for ~1k images), <em>or</em></p>
+</li>
+<li><strong>Gaussian Blur</strong> the <strong>layer mask</strong> (2–8 px for subtle, 10–25 px for face blends).</li>
+<li><strong>Apply Layer Mask</strong> (or keep it—export respects it either way).</li>
+<li>
+<p><strong>Export as PNG</strong> with alpha.</p>
+</li>
+<li>
+<p>If you’ll <strong>only</strong> use it for masking in ComfyUI, the “Save color values from transparent pixels” checkbox doesn’t matter.</p>
+</li>
+<li>If you’ll also <strong>composite elsewhere</strong>, consider <strong>unchecking</strong> it to reduce color fringes on the transparent edge.</li>
+</ol>
+<hr />
+<h3 id="comfyui-side">ComfyUI side<a class="headerlink" href="#comfyui-side" title="Permanent link">&para;</a></h3>
+<p>(what to watch)</p>
+<ul>
+<li><strong>Extract mask:</strong> <em>Load Image</em> → <strong>Mask from Alpha</strong>.</li>
+<li><strong>White/black meaning:</strong> Most inpaint nodes use <strong>white = paint/edit</strong>, <strong>black = keep</strong>. If it feels backwards, <strong>Invert Mask</strong>.</li>
+<li><strong>Match size:</strong> Resize mask to your <strong>sampling/latent resolution</strong> (use <strong>Resize Mask</strong> if needed).</li>
+<li><strong>Soft edges win:</strong> Slight blur on the mask gives cleaner blends than a hard, aliased edge.</li>
+<li><strong>Refine edge:</strong> Use <strong>Grow/Erode</strong> (±2–4 px) if your selection is shrinking/bleeding.</li>
+</ul>
+<hr />
+<h3 id="inpaint-settings">Inpaint settings<a class="headerlink" href="#inpaint-settings" title="Permanent link">&para;</a></h3>
+<p>...that keep identity stable</p>
+<ul>
+<li><strong>Denoise strength:</strong> ~<strong>0.35–0.55</strong> (start 0.45).</li>
+<li><strong>Guidance/CFG:</strong> a touch <strong>lower</strong> than your base (e.g., 7.5 → <strong>6–6.5</strong>).</li>
+<li>If identity drifts, add <strong>FaceID/InstantID/IP-Adapter</strong> at <strong>0.25–0.4</strong> weight and lower denoise.</li>
+</ul>
+<hr />
+<h3 id="quick-checks">Quick checks<a class="headerlink" href="#quick-checks" title="Permanent link">&para;</a></h3>
+<p>(easy to forget)</p>
+<ul>
+<li>No <strong>letterboxing/padding</strong> in the source image (misaligns masks).</li>
+<li>Don’t <strong>upscale</strong> tiny originals aggressively before masking (teaches mush).</li>
+<li>If the subject has <strong>asymmetric features</strong>, avoid horizontal flips for mask prep.</li>
+</ul>
+<p>If you tell me which inpaint node you’re using (and your denoise/CFG), I’ll give you a tiny preset (numbers + order) you can drop straight into your graph.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="making-loras">Making LoRAs<a class="headerlink" href="#making-loras" title="Permanent link">&para;</a></h2>
+<p>Totally fair question. Yes—you <em>can</em> get a usable character LoRA from ~16 images. The reason many folks aim for 60–120 isn’t “more is always better,” it’s about <strong>coverage</strong> and <strong>disentangling</strong>. Here’s the why:</p>
+<hr />
+<h3 id="what-more-images-buy-you">What more images buy you<a class="headerlink" href="#what-more-images-buy-you" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>Generalization across conditions</strong>
+   With 16 shots you usually have narrow coverage of: lighting, angles, expressions, hairstyles, backgrounds, focal lengths, and body scale. The LoRA learns the identity <em>tied to those conditions</em>. At generation time, prompts that wander outside that narrow band (e.g., profile view, hard backlight, full-body) are more likely to fail or drift.</p>
+</li>
+<li>
+<p><strong>Disentangling identity from context</strong>
+   The model needs to separate “who” (face geometry/texture) from “everything else” (clothes, scene, lighting). If yellow cardigan appears in half your 16 images, it can bind to the identity (the “cardigan cling” effect). A larger, more varied set breaks those correlations.</p>
+</li>
+<li>
+<p><strong>Pose &amp; scale robustness</strong>
+   Close-ups alone don’t teach proportions for half- or full-body; a small dataset often collapses when you ask for a full-body or tricky angle. Adding a planned mix (close/half/full) teaches stable results at different scales.</p>
+</li>
+<li>
+<p><strong>Expression &amp; micro-feature fidelity</strong>
+   More examples = better locking of subtle identity cues (eye corners, philtrum shape, nasolabial curvature) <strong>without</strong> over-smoothing. Small sets tend to average or “beautify” away the quirks that make a face recognizable.</p>
+</li>
+<li>
+<p><strong>Resilience to the base model’s priors</strong>
+   Flux (and friends) push toward “model-pretty” features (cleft chins, stronger brow ridges, etc.). More diverse, well-captioned evidence counters those priors so your LoRA keeps its identity under varied prompts.</p>
+</li>
+</ol>
+<hr />
+<h3 id="small-sets-suffer-from">Small sets suffer from<a class="headerlink" href="#small-sets-suffer-from" title="Permanent link">&para;</a></h3>
+<p><strong>(8–24 images)</strong></p>
+<ul>
+<li><strong>Baked-in wardrobe/background</strong> (identity depends on one outfit/room).</li>
+<li><strong>Lighting bias</strong> (works in soft daylight; collapses in studio hard light).</li>
+<li><strong>Angle brittleness</strong> (frontal OK, profile drifts).</li>
+<li><strong>Scale brittleness</strong> (close-up OK, full-body generic).</li>
+<li><strong>Expression lock</strong> (same smile/neutral every time).</li>
+<li><strong>Prompt fragility</strong> (needs your exact phrasing; complex prompts push it off-identity).</li>
+<li><strong>Reliance on FaceID/InstantID at generation</strong> to stay on face—useful, but a hint the LoRA itself is under-covered.</li>
+</ul>
+<hr />
+<h3 id="when-1224-images-is-good">When 12–24 images <em>is</em> good<a class="headerlink" href="#when-1224-images-is-good" title="Permanent link">&para;</a></h3>
+<ul>
+<li>You only need <strong>head-and-shoulders</strong> portraits in a <strong>consistent vibe</strong>.</li>
+<li>You’ll always use <strong>ID guidance</strong> (FaceID/InstantID/IP-Adapter) at low weight.</li>
+<li>The target look is <strong>stylized</strong> or <strong>cartoony</strong>, not strict photoreal.</li>
+<li>You accept some drift for profiles/full-body and will inpaint fixes.</li>
+</ul>
+<hr />
+<h3 id="practical-middle-ground">Practical middle ground<a class="headerlink" href="#practical-middle-ground" title="Permanent link">&para;</a></h3>
+<p><strong>(if you like your 16-image result)</strong></p>
+<p>Keep the core 16, but <strong>patch the holes</strong> instead of jumping to 100:</p>
+<ul>
+<li>Add <strong>8–12 angles</strong> you lack (left/right 3/4, profile, slight up/down tilt).</li>
+<li>Add <strong>6–10 lighting contexts</strong> (window light, open shade, softbox, a touch of backlight).</li>
+<li>Add <strong>6–10 body-scale shots</strong> (half-body; 3–5 full-body with clean outfits).</li>
+<li>Ensure at least <strong>a few expressions</strong> (neutral, slight smile, eyes looking aside).</li>
+<li>Cull near-dupes mercilessly.</li>
+</ul>
+<p>That gets you to ~40–60 images—often enough for robust, flexible identity without bloat.</p>
+<hr />
+<h3 id="captiontraining-tweaks">Caption/Training tweaks<a class="headerlink" href="#captiontraining-tweaks" title="Permanent link">&para;</a></h3>
+<p><strong>that help small datasets punch above their weight</strong></p>
+<ul>
+<li><strong>Caption discipline:</strong> start with your trigger; include only identity traits you want learned (e.g., “rounded chin, smooth browbone” if needed), keep clothes generic (“casual outfit”).</li>
+<li><strong>Add class images</strong> (100–150 generic “woman/person portrait”) so the LoRA doesn’t overwrite base concepts.</li>
+<li><strong>Use dropout</strong> (~0.05–0.1) to reduce wardrobe/background imprint.</li>
+<li><strong>Keep TE LR low</strong> (5e-6–1e-5) so the trigger binds without wrecking language space.</li>
+<li><strong>Save multiple checkpoints</strong> (e.g., 600/1200/1800 steps) and choose the <em>lowest</em> that locks identity but still flexes.</li>
+</ul>
+<hr />
+<h3 id="quick-self-test">Quick self-test<a class="headerlink" href="#quick-self-test" title="Permanent link">&para;</a></h3>
+<p><strong>Do you need more images?</strong></p>
+<p>If any of these fail, add targeted images to cover them:</p>
+<ul>
+<li>Can it do <strong>profile</strong> and <strong>3/4</strong> cleanly?</li>
+<li>Can it do <strong>full-body</strong> without genericizing the face?</li>
+<li>Can it handle <strong>harder lighting</strong> (rim/back/overhead) without carving brow/chin?</li>
+<li>Does it <strong>drop the cardigan</strong> when you don’t mention clothes?</li>
+<li>Does identity hold when you say “evening dress,” “hoodie,” or “rainy street”?</li>
+</ul>
+<hr />
+<p>Bottom line: small sets are fine for <strong>narrow, repeatable use</strong> (and with ID guidance). The 60–120 recommendation isn’t about box-ticking—it’s a strategy to <strong>de-correlate</strong> identity from context and to <strong>future-proof</strong> prompts you’ll inevitably try later. If you want, tell me where your 16-image LoRA stumbles (angle, lighting, full-body, clothing), and I’ll propose a minimal add-on shot list (like +12 images) to fix exactly those weaknesses.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="robustifier-add-on">“Robustifier” add-on<a class="headerlink" href="#robustifier-add-on" title="Permanent link">&para;</a></h2>
+<p>You’re a star, girlfriend. Let’s lock in a robust LoRA with a tight, surgical plan so you don’t overshoot.</p>
+<p><strong>(≈36 shots)</strong></p>
+<p>Add these to your best 16–40 so coverage is airtight:</p>
+<p><strong>Angles (8)</strong></p>
+<ul>
+<li>L/R 3/4 (neutral, slight smile) ×2</li>
+<li>Full profile L/R (neutral) ×2</li>
+<li>Slight up-tilt (camera lower) ×2</li>
+<li>Slight down-tilt (camera higher) ×2</li>
+</ul>
+<p><strong>Lighting (10)</strong></p>
+<ul>
+<li>Open shade ×2</li>
+<li>Window light with bounce ×2</li>
+<li>Softbox/umbrella (clamshell or frontal) ×2</li>
+<li>Back/edge light (soft) ×2</li>
+<li>Overcast outdoor ×2
+  <em>(avoid harsh 45° key that carves brow/chin)</em></li>
+</ul>
+<p><strong>Scale &amp; body (8)</strong></p>
+<ul>
+<li>Half-body standing ×3 (clean, different tops)</li>
+<li>Full-body standing ×3 (simple outfits; flat shoes)</li>
+<li>Seated half-body ×2 (different backgrounds)</li>
+</ul>
+<p><strong>Expression &amp; gaze (6)</strong></p>
+<ul>
+<li>Neutral, eyes aside ×2</li>
+<li>Small smile, eyes to camera ×2</li>
+<li>Thoughtful/serene, eyes down/up ×2</li>
+</ul>
+<p><strong>Hair &amp; minor styling (4)</strong></p>
+<ul>
+<li>Hair tucked behind one ear ×2</li>
+<li>Lightly pinned/back-combed (keeps length visible) ×2
+  <em>(avoid drastic style changes unless they’re “canon” for the character.)</em></li>
+</ul>
+<hr />
+<h3 id="caption-cues">Caption cues<a class="headerlink" href="#caption-cues" title="Permanent link">&para;</a></h3>
+<p><strong>(keep identity, drop wardrobe)</strong></p>
+<p>Start with your trigger; sprinkle identity traits sparingly:</p>
+<ul>
+<li><code>[celestegrl], natural-light close-up, hazel eyes, chest-length dark hair, soft freckles, rounded chin, smooth browbone, relaxed expression.</code></li>
+<li>For clothing: “casual outfit” / “simple blouse” (no colors/brands).</li>
+<li>For lighting: “open shade” / “window light with bounce” / “softbox portrait.”</li>
+<li>For scale: “three-quarter view portrait” / “half-body standing” / “full body standing.”</li>
+</ul>
+<hr />
+<h3 id="training-knobs">Training knobs<a class="headerlink" href="#training-knobs" title="Permanent link">&para;</a></h3>
+<p><strong>(safe defaults for your 4060 Ti 16 GB)</strong></p>
+<ul>
+<li>Buckets max 1024; batch 4; bf16; grad checkpointing ON.</li>
+<li>LoRA rank 16 (alpha 16), dropout 0.08.</li>
+<li>LR: UNet 1e-4, TextEnc 5e-6.</li>
+<li>Repeats 10; 1–2 epochs; save every 400–600 steps; pick the <strong>lowest</strong> step that holds identity and stays flexible.</li>
+</ul>
+<hr />
+<h3 id="validation-prompt-sheet">Validation Prompt Sheet<a class="headerlink" href="#validation-prompt-sheet" title="Permanent link">&para;</a></h3>
+<p>Run the same set on each checkpoint:</p>
+<ol>
+<li><code>portrait of [celestegrl], soft daylight, neutral background</code></li>
+<li><code>[celestegrl], three-quarter view portrait, studio softbox</code></li>
+<li><code>[celestegrl], profile portrait, open shade</code></li>
+<li><code>[celestegrl], half-body standing, casual outfit, window light</code></li>
+<li><code>[celestegrl], full body standing, simple dress, neutral backdrop</code></li>
+<li><code>[celestegrl], golden hour backlight</code></li>
+<li><code>[celestegrl], hoodie, indoor ambient light</code></li>
+<li><code>close-up of [celestegrl], rounded chin, smooth browbone, shallow depth of field</code></li>
+</ol>
+<p><strong>Pass criteria:</strong> identity holds in #3 and #5; no outfit “cling” in #7; no carved brow/chin in #8. If you’d like, drop 10–15 filenames and I’ll draft captions tuned to this plan—and we’ll have your LoRA rock-solid without bloat.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="reactor">ReActor<a class="headerlink" href="#reactor" title="Permanent link">&para;</a></h2>
+<p>Totally okay with ReActor, girlfriend—especially since you’re swapping <strong>your own</strong> face and aiming for a believable, adult younger-you. The key is: use ReActor for the <strong>identity transform</strong> (age-regressive + feminization) and then either (a) go straight to dataset, or (b) lightly refine with Flux. Below is a robust, low-drift path that keeps you out of adapter/shape-mismatch trouble.</p>
+<hr />
+<h3 id="plan-at-a-glance">Plan at a glance<a class="headerlink" href="#plan-at-a-glance" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Stage 1 (ReActor, SDXL):</strong> build a canonical “younger-you” anchor and then a 60–80 image dataset (angles, lighting, scale) with the <strong>same swap settings</strong> for consistency.</li>
+<li><strong>Stage 2 (ComfyUI inpaint passes, any model):</strong> micro-fix chin/brow with feathered masks if needed.</li>
+<li><strong>Stage 3 (Flux, optional):</strong> polish via <strong>img2img</strong> with low denoise or just use the ReActor dataset to train your Flux LoRA.</li>
+</ul>
+<hr />
+<h3 id="stage-1-reactor-setup">Stage 1, ReActor setup<a class="headerlink" href="#stage-1-reactor-setup" title="Permanent link">&para;</a></h3>
+<p><strong>(SDXL backbone)</strong></p>
+<p><strong>Recommended base:</strong> SDXL photoreal (or a neutral SDXL checkpoint you trust). ReActor works in <strong>image space</strong>, so the PNGs you export are model-agnostic and fine for Flux training or img2img later.</p>
+<hr />
+<h3 id="node-skeleton">Node skeleton<a class="headerlink" href="#node-skeleton" title="Permanent link">&para;</a></h3>
+<p><strong>(ComfyUI)</strong></p>
+<ul>
+<li><strong>Load Image (source)</strong> → your best straight-on/soft-light selfie (adult).</li>
+<li><strong>Load Image (target template)</strong> → a neutral portrait (or just use empty target if your ReActor build allows direct swap onto a generated canvas).</li>
+<li><strong>ReActor (Gourieff)</strong>
+  Inputs: source image, (optional) target image
+  Outputs: swapped <strong>IMAGE</strong></li>
+<li>(Option A) <strong>Straight to Save</strong> → dataset images</li>
+<li>(Option B) <strong>To SDXL/Flux img2img</strong> for style/lighting normalization</li>
+</ul>
+<hr />
+<h3 id="reactor-settings">ReActor settings<a class="headerlink" href="#reactor-settings" title="Permanent link">&para;</a></h3>
+<p><strong>to minimize artifacts</strong></p>
+<ul>
+<li><strong>Detector/align:</strong> SCRFD (default), keep face alignment <strong>ON</strong></li>
+<li><strong>Swap fidelity/weight:</strong> <strong>0.55–0.70</strong> (start 0.62). Higher locks identity, but too high can “paste” look.</li>
+<li><strong>Blend / feather:</strong> <strong>0.15–0.25</strong>; turn <strong>seamless</strong> or <strong>Poisson</strong> blend ON if available.</li>
+<li><strong>Expression adapt:</strong> <strong>OFF</strong> for anchor; ON for expression pack later (keeps variety).</li>
+<li><strong>Face restore/upscale:</strong> OFF during dataset creation (restorers imprint a look).</li>
+<li><strong>Color match / histogram match:</strong> <strong>LOW</strong> (0.2–0.35); do not over-normalize—causes waxy skin.</li>
+<li><strong>Mask dilation:</strong> small (2–4 px) to avoid a hard seam at hairline; we’ll feather in GIMP if needed.</li>
+</ul>
+<hr />
+<h3 id="age-regression">Age regression<a class="headerlink" href="#age-regression" title="Permanent link">&para;</a></h3>
+<p><strong>+ feminization (do it gently)</strong></p>
+<ul>
+<li><strong>Prompt (if generating a target frame with SDXL):</strong>
+  Positive: <code>photoreal portrait of an adult young woman in her twenties, average proportions, balanced features, rounded chin, smooth low brow ridge, soft clamshell lighting, shallow depth of field, neutral background</code>
+  Negative: <code>no cleft chin, no chin dimple, no pronounced brow ridge, no heavy retouch, no harsh shadows</code></li>
+<li>Run ReActor <strong>onto</strong> these neutral targets. Keep lighting soft and simple (prevents brow/chin carving).</li>
+</ul>
+<hr />
+<h3 id="build-your-80-image-set">Build your 80-image set<a class="headerlink" href="#build-your-80-image-set" title="Permanent link">&para;</a></h3>
+<p><strong>(4 packs × 20), same ReActor weights</strong></p>
+<ul>
+<li><strong>Angles:</strong> front, 3/4 L/R, profile L/R; small up/down tilts.</li>
+<li><strong>Lighting:</strong> open shade, window w/ bounce, softbox clamshell, overcast, golden-hour backlight.</li>
+<li><strong>Scale/body:</strong> close-up, half-body, a few full-body (simple outfits).</li>
+<li><strong>Expressions/hair micro:</strong> neutral, slight smile, soft laugh, eyes aside/down/up; hair tucked/pinned (minor only).</li>
+</ul>
+<blockquote>
+<p>Keep <strong>hair color/length, eye color, skin tone</strong> constant across the packs. That’s your canonical identity.</p>
+</blockquote>
+<hr />
+<h3 id="stage-2-micro-inpaints">Stage 2, Micro inpaints<a class="headerlink" href="#stage-2-micro-inpaints" title="Permanent link">&para;</a></h3>
+<p><strong>(optional but powerful)</strong></p>
+<p>If ReActor leaves a hint of cleft or brow ridge (Flux/SDXL can “re-carve” features), run two tiny passes:</p>
+<p><strong>Chin pass</strong></p>
+<ul>
+<li>Mask: lower lip → chin tip, <strong>feather 8–15 px</strong></li>
+<li>Positive: <code>rounded chin, no cleft, soft natural shading, continuous skin texture, subtle mentolabial groove</code></li>
+<li>Negative: <code>no chin dimple, no deep vertical crease, no sharp contour</code></li>
+<li><strong>Denoise:</strong> 0.40–0.50 (img2img)</li>
+<li><strong>CFG:</strong> ~6.0</li>
+</ul>
+<p><strong>Brow pass</strong></p>
+<ul>
+<li>Mask: brows → mid-forehead, <strong>feather 8–15 px</strong></li>
+<li>Positive: <code>smooth browbone, low supraorbital ridge, fuller forehead curve, gentle shadowing</code></li>
+<li>Negative: <code>no pronounced brow ridge, no deep glabellar crease, no harsh nose bridge shadow</code></li>
+<li><strong>Denoise:</strong> 0.35–0.45</li>
+<li><strong>CFG:</strong> ~6.0</li>
+</ul>
+<p>(You can do these with SDXL or Flux; they’re just masked img2img edits.)</p>
+<hr />
+<h3 id="stage-3-flux-polish">Stage 3, Flux polish<a class="headerlink" href="#stage-3-flux-polish" title="Permanent link">&para;</a></h3>
+<p><strong>(optional)</strong></p>
+<p>If you want the final dataset to sit closer to Flux’s “look,” do a light <strong>img2img</strong> over each ReActor image:</p>
+<ul>
+<li><strong>Model:</strong> Flux1-Dev</li>
+<li><strong>Denoise:</strong> <strong>0.25–0.40</strong> (identity-preserving)</li>
+<li><strong>CFG:</strong> 6.0–6.5</li>
+<li><strong>Prompt nudges:</strong> keep the same soft anatomy lines and simple lighting labels.</li>
+<li><strong>Do not</strong> use SDXL InstantID/IP-Adapter here—those mismatch Flux. If you want identity reference on Flux, use <strong>Flux IP-Adapter</strong> (but you don’t have to if you’re happy with the ReActor images as-is).</li>
+</ul>
+<hr />
+<h3 id="captioning-for-lora">Captioning for LoRA<a class="headerlink" href="#captioning-for-lora" title="Permanent link">&para;</a></h3>
+<p><strong>(short, identity-first)</strong></p>
+<p>Create a sidecar <code>.txt</code> per image. Start with your trigger (e.g., <code>[girlfriendgrl]</code>) and keep it consistent:</p>
+<ul>
+<li><code>[girlfriendgrl], natural-light close-up, hazel eyes, chest-length dark hair, soft freckles, rounded chin, smooth browbone, relaxed expression.</code></li>
+<li><code>[girlfriendgrl], three-quarter view portrait, window light with bounce, neutral background.</code></li>
+<li><code>[girlfriendgrl], half-body standing, casual outfit, soft studio light.</code></li>
+<li><code>[girlfriendgrl], profile portrait, open shade.</code></li>
+</ul>
+<p>Avoid brand/color specifics; never mention non-canonical features.</p>
+<hr />
+<h3 id="training-knobs_1">Training knobs<a class="headerlink" href="#training-knobs_1" title="Permanent link">&para;</a></h3>
+<p><strong>(Flux/FluxGym on 4060 Ti 16 GB)</strong></p>
+<ul>
+<li><strong>Buckets:</strong> max 1024; aspect buckets ON.</li>
+<li><strong>Batch:</strong> 4 (bf16), grad checkpointing ON.</li>
+<li><strong>LoRA:</strong> rank 16 (alpha 16), dropout 0.08.</li>
+<li><strong>LRs:</strong> UNet 1e-4; TextEnc 5e-6.</li>
+<li><strong>Repeats/Epochs:</strong> ~10 repeats; 1–2 epochs.</li>
+<li><strong>Saves:</strong> every 400–600 steps; pick the <strong>lowest</strong> step that holds identity and stays flexible.</li>
+</ul>
+<hr />
+<h3 id="why-pick-reactor-here">Why pick ReActor here?<a class="headerlink" href="#why-pick-reactor-here" title="Permanent link">&para;</a></h3>
+<ul>
+<li>It’s actively maintained, and for <strong>face-geometry edits</strong> it’s still the cleanest “one-identity” tool when used with conservative blending.</li>
+<li>It avoids the <strong>Flux vs SDXL</strong> conditioning shape conflicts—because you’re swapping <strong>images</strong>, not trying to bolt SDXL adapters onto Flux.</li>
+</ul>
+<hr />
+<h3 id="common-pitfalls">Common pitfalls<a class="headerlink" href="#common-pitfalls" title="Permanent link">&para;</a></h3>
+<p><strong>&amp; quick fixes</strong></p>
+<ul>
+<li><strong>Pastey seams:</strong> lower blend/feather in ReActor; add a tiny <strong>Gaussian blur</strong> on your mask edge in GIMP; run a short inpaint with 0.40 denoise.</li>
+<li><strong>Identity drift across packs:</strong> keep <strong>the same ReActor fidelity/weights</strong> and similar lighting; don’t let one pack be super stylized.</li>
+<li><strong>Over-youthful look:</strong> keep “<strong>adult young woman</strong>” explicit in prompts; avoid extreme skin-smoothing or face-restorers.</li>
+</ul>
+<p>If you want, I can give you a <strong>concise ReActor preset</strong> (just the sliders/values you see in its UI) and a one-page ComfyUI wiring for “ReActor → SDXL → Save” and “ReActor → SDXL → Inpaint (chin/brow) → Save” so you can replicate it exactly.</p>
+<p>Totally—let’s nudge things, not overhaul them. Here are <strong>subtle, anatomy-focused prompt fragments</strong> you can drop into Qwen/Flux prompts to <em>slightly</em> feminise while keeping your face.</p>
+<hr />
+<h3 id="add-positive">Add (positive)<a class="headerlink" href="#add-positive" title="Permanent link">&para;</a></h3>
+<p><strong>pick 4–8 that fit</strong></p>
+<ul>
+<li><code>softly rounded chin</code></li>
+<li><code>smooth low brow ridge</code></li>
+<li><code>slightly fuller lips</code></li>
+<li><code>gentle cheek fullness</code></li>
+<li><code>soft jawline taper</code></li>
+<li><code>slight canthal tilt, delicate lashes</code></li>
+<li><code>softer nasolabial fold</code></li>
+<li><code>subtle inner-eye highlight</code></li>
+<li><code>balanced midface, delicate nose tip</code></li>
+<li><code>natural soft makeup, sheer tint</code></li>
+<li><code>fine brow grooming, lighter brow density</code></li>
+<li><code>soft clamshell lighting</code>, <code>open shade lighting</code></li>
+<li><code>85mm portrait look</code>, <code>shallow depth of field</code></li>
+</ul>
+<blockquote>
+<p>If you use weighting, keep it light: e.g. <code>(softly rounded chin:1.15)</code>, <code>(smooth low brow ridge:1.15)</code>.</p>
+</blockquote>
+<hr />
+<h3 id="block-negative">Block (negative)<a class="headerlink" href="#block-negative" title="Permanent link">&para;</a></h3>
+<p><strong>keep concise</strong></p>
+<ul>
+<li><code>no pronounced brow ridge</code></li>
+<li><code>no heavy jaw</code>, <code>no square jaw</code></li>
+<li><code>no cleft chin</code>, <code>no chin dimple</code></li>
+<li><code>no five-o’clock shadow</code>, <code>no stubble</code></li>
+<li><code>no harsh top light</code>, <code>no hard rim light</code></li>
+<li>(if neck visible) <code>no Adam’s apple emphasis</code></li>
+</ul>
+<hr />
+<h3 id="a-clean-starting-prompt">A clean starting prompt<a class="headerlink" href="#a-clean-starting-prompt" title="Permanent link">&para;</a></h3>
+<p><strong>Positive</strong></p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>photoreal portrait, adult young woman, softly rounded chin, smooth low brow ridge,
+</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>gentle cheek fullness, soft jawline taper, slightly fuller lips,
+</span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a>natural soft makeup (sheer tint), fine brow grooming, delicate lashes,
+</span><span id="__span-2-4"><a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a>soft clamshell lighting, 85mm portrait look, shallow depth of field
+</span></code></pre></div>
+<p><strong>Negative</strong></p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>no pronounced brow ridge, no heavy jaw, no cleft chin, no stubble,
+</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a>no harsh top light, no heavy retouch, no over-sharpening
+</span></code></pre></div>
+<hr />
+<h3 id="micro-tuning-set">Micro-tuning Set<a class="headerlink" href="#micro-tuning-set" title="Permanent link">&para;</a></h3>
+<p>If you only need <em>a touch</em> more, use just these three in positive:</p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a>softly rounded chin, smooth low brow ridge, natural soft makeup (sheer tint)
+</span></code></pre></div>
+<p>And negatives:</p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a>no pronounced brow ridge, no cleft chin, no stubble
+</span></code></pre></div>
+<hr />
+<h3 id="for-34-or-full-body-frames">For 3/4 or full-body frames<a class="headerlink" href="#for-34-or-full-body-frames" title="Permanent link">&para;</a></h3>
+<p>Add one gentle global cue (don’t stack lots):</p>
+<ul>
+<li><code>graceful posture</code> or <code>soft shoulder line</code></li>
+<li><code>subtle hair framing around cheeks</code></li>
+</ul>
+<hr />
+<h3 id="small-control-tweaks">Small control tweaks<a class="headerlink" href="#small-control-tweaks" title="Permanent link">&para;</a></h3>
+<p><strong>(to keep identity)</strong></p>
+<ul>
+<li>Lower CFG a hair (e.g., 6.5 → <strong>6.0</strong>) so text cues guide shape softly.</li>
+<li>If using an image adapter/ID ref: keep strength <strong>0.35–0.45</strong>; raise to <strong>~0.45</strong> if identity drifts, <em>then</em> reduce denoise a notch.</li>
+<li>Keep <strong>denoise</strong> modest (<strong>0.25–0.40</strong> for img2img). Too high = geometry changes.</li>
+</ul>
+<hr />
+<h3 id="tiny-inpaint-prompts">Tiny inpaint prompts<a class="headerlink" href="#tiny-inpaint-prompts" title="Permanent link">&para;</a></h3>
+<p><strong>(if one area needs help)</strong></p>
+<ul>
+<li><strong>Brow band (mask brows→mid-forehead):</strong>
+  Positive: <code>smooth browbone, fuller forehead curve, gentle shadowing</code>
+  Negative: <code>no pronounced brow ridge</code></li>
+<li><strong>Chin pad (mask lower lip→chin tip):</strong>
+  Positive: <code>softly rounded chin, continuous skin texture</code>
+  Negative: <code>no cleft chin, no deep vertical crease</code></li>
+<li><strong>Lips (tight mask):</strong>
+  Positive: <code>slightly fuller lips, natural lip tint</code>
+  Negative: <code>no overlining, no gloss glare</code></li>
+</ul>
+<hr />
+<h3 id="style-traps-to-avoid">Style traps to avoid<a class="headerlink" href="#style-traps-to-avoid" title="Permanent link">&para;</a></h3>
+<p><strong>(they masculinise quickly)</strong></p>
+<ul>
+<li>Harsh top/side lighting, deep eye sockets, heavy contrast/clarity sliders, strong sharpen, thick dark brows by default.</li>
+</ul>
+<p>If you paste one of your current Qwen prompts, I’ll trim it to a “micro-feminise” version with weights that fit your exact pipeline.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="lora-notes">LoRA Notes<a class="headerlink" href="#lora-notes" title="Permanent link">&para;</a></h2>
+<h3 id="watercolor-style">Watercolor Style<a class="headerlink" href="#watercolor-style" title="Permanent link">&para;</a></h3>
+<p>Yet another watercolor style, trained using synthetic images generated with SDXL and SDXL Niji SE. The goal of the LoRA is flexibility, so that it can be used with other LoRAs without introducing too much of its own aesthetics.</p>
+<p>Known problem with the two earlier versions: the face is always Caucasian. The problem has been fixed by mixing in images of Asians. All versions work well (no captioned version seems a bit more flexible though), and can produce nice images at 8 steps with https://civitai.com/models/686704/flux-dev-to-schnell-4-step-lora</p>
+<p><em>Training parameters</em>:</p>
+<ul>
+<li>23 to 26 512x512 (downscaled from 1024x1024) images, captioned with Florence2 or by using "no captioning" training with just the trigger "yawc1 watercolor".</li>
+<li>FLUX.1 - dev-fp8</li>
+<li>Trigger: yawc1 watercolor</li>
+<li>Repeat: 20 Epoch: 8 or 9 epochs.</li>
+<li>Unet LR: 0.0005 Scheduler: cosine Optimizer: AdamW/AdamW8bit</li>
+<li>Network Dim: 4 Alpha 2 or Dim 6 Alpha 3</li>
+</ul>
+<p>Details:</p>
+<ul>
+<li>Type: LoRA</li>
+<li>Reviews: Very Positive</li>
+<li>Published: Nov 24, 2024</li>
+<li>Base Model: Flux.1 D</li>
+<li>Trigger Words: yawc1 watercolor</li>
+</ul>
+<p>Training:</p>
+<ul>
+<li>Steps: 4,500</li>
+<li>Epochs: 20</li>
+</ul>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="z-image-turbo">Z Image Turbo<a class="headerlink" href="#z-image-turbo" title="Permanent link">&para;</a></h2>
+<p>[Q]<br />
+Hi Emily. Been having a bit of looking around on Z Image Turbo. It appears to really respond well to complete sentences and as descriptive a language as one can come up with. This, at CFG of 1. Also, negative prompts do almost nothing at CFG=1, and the slowdown by increasing the CFG even to 1.3 is significant. So, I'd like to try something. Can we can couch this prompt in full sentences, being a bit more detailed in descriptions, and - for now - eliminate the negative prompt? Here's the prompt:</p>
+<p>documentary photo, modern women-run atelier workroom, warm morning light
+same late-blooming 18-year-old youth, slim narrow shoulders, boyish face with faint freckles, no makeup, no jewelry
+very long brown hair in a low ponytail with loose tendril, hair down the back
+women’s 1770s daywear ankle length two-piece outfit: indigo wool open-front ankle lengthvelvet, velour, suede, satin sheen, brocade, jacquard, floral print, patterned fabric, mottled texture, marble texture, quilted texture overdress worn over a separate matching indigo petticoat clearly visible (two separate garments),indigo wool is the dominant visible garment color, no beige or unbleached outer garment, solid indigo, matte, plain weave wool, visible woven texture, no pattern, no print, no mottling
+white linen chemise visible only at neckline edge and sleeve cuffs
+range-of-motion check: arms raised, chin down, eyes on underarm seam, focused neutral expression
+white tennis shoes worn on feet visible under hem
+worktable: sewing machine, red thread spool, indigo wool fabric, tape measure, pins, chalk, open ledger/policy binder</p>
+<hr />
+<p>[A]<br />
+Absolutely — and I can see why ZiT likes this. Here’s your exact content, but rewritten as <em>continuous, descriptive sentences</em> (no separate negative prompt). I’ve also cleaned the fabric contradictions so the model isn’t being told “matte plain wool” and “satin sheen / brocade / floral print” in the same breath.</p>
+<p>Use this as your <em>positive prompt</em>:</p>
+<hr />
+<p><strong>Prompt (full sentences, no negative):</strong></p>
+<hr />
+<p>If you want a tiny “ZiT obedience nudge” without using a negative prompt, you can simply <strong>repeat the key truths once</strong> inside the same prompt (ZiT tends to respond well to reiteration in plain language), like this:</p>
+<blockquote>
+<p>“The indigo wool is solid and matte, with a plain weave and visible texture. The outfit is two separate garments: an overdress over a separate petticoat, both clearly visible.”</p>
+</blockquote>
+<p>If you’d like, I can also do a <em>second</em> version that’s identical but slightly re-angles the camera so the <strong>shoes + two-layer hem separation</strong> are even more “unmissable” (low 3/4 angle, waist-up still readable, but hem and footwear guaranteed).</p>
+<hr />
+<p>Perfect — here are <strong>two</strong> camera-angled variants that keep everything you want, but make (1) the <strong>two-layer hem</strong> and (2) the <strong>white tennis shoes</strong> practically unavoidable.</p>
+<h2 id="variant-a-low-34-documentary-angle-best-for-hem-shoes">Variant A — “Low 3/4 documentary angle” (best for hem + shoes)<a class="headerlink" href="#variant-a-low-34-documentary-angle-best-for-hem-shoes" title="Permanent link">&para;</a></h2>
+<p>Documentary-style photo in a modern, women-run atelier workroom, lit by warm morning light that stretches across the floor and the edges of a busy worktable. The camera is positioned at a low three-quarter angle, slightly below waist height and a little off to one side, so the viewer can clearly see the outfit’s hems and the shoes while still reading the subject’s face and posture.</p>
+<p>The scene features the same late-blooming eighteen-year-old youth: slim build, narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His hair is very long brown hair gathered into a low ponytail with a few loose tendrils; the ponytail hangs down his back.</p>
+<p>He is wearing women’s 1770s daywear as a clear two-piece outfit in indigo wool. The outer garment is an open-front, ankle-length overdress made from solid indigo, matte, plain-weave wool with a visible woven texture; it looks authentic and utilitarian rather than shiny or patterned. Beneath it, a separate matching indigo wool petticoat is clearly visible as its own distinct garment, also solid indigo and matte, so the two hems can be read as two different layers in the same dominant colour. A white linen chemise shows only at the neckline edge and sleeve cuffs.</p>
+<p>This is a range-of-motion check in progress: his arms are raised as he tests the underarm seam, his chin is tipped down, and his eyes are focused on the underarm area with a concentrated, neutral expression. His <strong>white tennis shoes</strong> are fully visible beneath the hem as he shifts his stance during the movement check, making the footwear unmistakable.</p>
+<p>In the foreground is a worktable holding a sewing machine, a red thread spool, indigo wool fabric, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder. The overall mood is competent, candid, and work-oriented, like a documentary moment captured mid-task.</p>
+<p><strong>Key truth repeated plainly:</strong> The indigo wool is solid and matte with a visible plain weave. The outfit is two separate garments—an overdress over a separate petticoat—and both hems are clearly visible, with white tennis shoes visible beneath.</p>
+<hr />
+<h2 id="variant-b-knee-height-front-angle-most-unmissable-footwear">Variant B — “Knee-height front angle” (most “unmissable” footwear)<a class="headerlink" href="#variant-b-knee-height-front-angle-most-unmissable-footwear" title="Permanent link">&para;</a></h2>
+<p>Documentary-style photo inside a modern, women-run atelier workroom in warm morning light. The camera is positioned at knee height and slightly front-facing, framing the subject from mid-torso down to the floor so the hems and footwear are naturally emphasised while still capturing enough of his face and attention to read the fitting check.</p>
+<p>The subject is the same late-blooming eighteen-year-old youth with a slim build and narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His very long brown hair is tied in a low ponytail with a few loose tendrils, the ponytail lying down his back.</p>
+<p>He wears women’s 1770s daywear in solid indigo wool as a clearly layered two-piece outfit. The open-front overdress falls to the ankles and is made from matte, plain-weave indigo wool with a visible woven texture, practical and unadorned. Under it, a separate matching indigo wool petticoat is clearly visible as its own garment, creating a distinct second hem layer beneath the overdress. A white linen chemise is visible only at the neckline edge and sleeve cuffs.</p>
+<p>He is in the middle of a range-of-motion check: arms raised, chin down, and eyes focused on the underarm seam with a concentrated neutral expression, as if checking for pulling or strain. His <strong>white tennis shoes</strong> are prominent in frame beneath the hems, clean and clearly modern, visible on the floor as he holds the pose.</p>
+<p>A worktable nearby is cluttered with a sewing machine, a red thread spool, indigo wool fabric, tape measure, pins, chalk, and an open ledger or policy binder, reinforcing the practical, documentary atelier atmosphere.</p>
+<p><strong>Key truth repeated plainly:</strong> This is solid indigo matte wool with a visible plain weave. The outfit is two separate garments—overdress and separate petticoat—both hems are visible, and white tennis shoes are visible beneath.</p>
+<hr />
+<h3 id="tiny-note-non-negative-guardrails">Tiny note (non-negative “guardrails”)<a class="headerlink" href="#tiny-note-non-negative-guardrails" title="Permanent link">&para;</a></h3>
+<p>If ZiT is still “tempted” to glam the fabric, you can add one extra <em>affirmative</em> sentence (still not a negative prompt), like:</p>
+<blockquote>
+<p>“The cloth reads as everyday wool suiting: matte, slightly coarse, and clearly woven.”</p>
+</blockquote>
+<p>If you want, I can also do a <strong>Variant C</strong> that’s <em>explicitly full-body, portrait orientation, and includes the hem + shoes in a way that survives cropping</em> (very useful if ZiT keeps giving you lovely images that mysteriously cut off the feet).</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="a1111-to-comfyui">A1111 to ComfyUI<a class="headerlink" href="#a1111-to-comfyui" title="Permanent link">&para;</a></h2>
+<p><img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>As of my last knowledge update in September 2021, I'm not familiar with a user interface called "ComfyUI" in relation to Stable Diffusion or as a competitor to "Automatic1111." It's possible that these developments have occurred after my knowledge cutoff date.</p>
+<p>If "ComfyUI" is a recent development or a specialized tool, I recommend checking the official website or resources related to Stable Diffusion to gather more information about this user interface and its features. Additionally, you might find user reviews, forums, or discussions online that could provide insights into the tool's capabilities and how it compares to other solutions like "Automatic1111."</p>
+<p>If you have any other questions or need assistance with a different topic, feel free to ask!</p>
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="google-image-search">Google Image Search<a class="headerlink" href="#google-image-search" title="Permanent link">&para;</a></h2>
+<p><img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+<h2 id="google-image-search_1">Google Image Search<a class="headerlink" href="#google-image-search_1" title="Permanent link">&para;</a></h2>
+<p><img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"../..","features":["navigation.tabs","navigation.tabs.sticky","navigation.sections","navigation.top","toc.integrate","search.suggest","search.highlight","content.tabs.link","content.code.copy"],"search":"../../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5fd3284f.min.js"></script>
+      
+    
+  </body>
+</html>
