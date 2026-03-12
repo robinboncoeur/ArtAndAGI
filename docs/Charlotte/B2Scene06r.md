@@ -128,7 +128,7 @@ Outside, an aeroplane droned overhead. A lawnmower coughed and caught. I glanced
 
 "Where did you first meet?" Heat suddenly flamed in my neck. Her look sharpened. I took a deep breath.
 
-"In the girl's toilet at the library."
+"In the girls' toilets at the library."
 
 Brittany frowned. "What?"
 
@@ -140,12 +140,32 @@ I stared at her. Bit my lip. Her voice cut in.
 
 I closed my eyes.
 
-"Brittany, there's something I've been meaning to tell you."
+“There’s a reason that sounds weird.” I paused. "I had gone in there by mistake."
+
+Brittany stared at me. He head tipped forward.
+
+"By mistake?"
+
+"Yeah." I swallowed. "I uh... wasn't meant to be in there."
+
+She slowly pulled her head back.
+
+"Because... you weren't actually a... girl?"
+
+I nodded quickly. A tightness grew behind my eyes. I glanced at her. Her smile filled me: warm, soft.
 
 
 **Beat 1 — Entry**
 
+Charli tells it in order, without spiralling:  
 
+🌷 Celeste startled her in the girls’ toilets  
+🌷 Celeste thought she was a girl  
+🌷 Charli was already in a very precarious, hidden place in her life  
+🌷 one thing led to another  
+🌷 Wardrobe followed from that  
+
+This is the best option if you want the scene to feel mature and controlled.
 
 **Beat 2 — Inciting Shift (PRIMARY)**
 
