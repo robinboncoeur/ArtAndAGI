@@ -670,10 +670,358 @@ I didn't have it.
 
 
 
-##
+## Published
+### 2-Mar-2026
 
 <img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+💞 Weak Rails 🫧
+ 
+
+[ Celeste ]
+
+ 
+
+The front-door lock was too loud in the tiny hallway. When I pulled the door shut, the quiet inside the flat didn’t settle—it judged. I sighed. The tension did not loosen in my ribs.
+
+ 
+
+Flicked the kettle on—there's always tea.
+
+ 
+
+It was just for a month.
+
+  
+
+I threw my bag into a corner and curled up on the couch with my lecture notes. They made as much sense as if someone else had scribbled them. 
+
+ 
+
+I checked my phone, then checked it again, wondering if it was defective. I was sure I'd been 'studying' for longer than ten minutes.
+
+ 
+
+Sarah has texted: "7:30 pm". 
+
+ 
+
+It was 6:30. 
+
+ 
+
+My thumb hovered. I let out a quick puff and dialled. The phone painted moiré. I felt my breath come quicker instantly as Charli's face appears on screen. 
+
+ 
+
+And then, my stomach sank a little. She smiled at me, but her eyes betrayed her lips.
+
+ 
+
+Scene02a
+"Hey, sweetie..." I said, softly, carefully.
+
+ 
+
+Her lower lip quivered.
+
+ 
+
+"Hi Celeste," she said, barely above a whisper.
+
+ 
+
+"How was the flight?" I asked, deliberately bright.
+
+ 
+
+She nodded quickly and swallowed.
+
+ 
+
+"Okay." A pause said more. Then, quietly: "I really miss you."
+
+ 
+
+Something gripped my smile, even while my eyes softened.
+
+ 
+
+"I miss you too, sweetie..." I said. "Sarah texted me that Queensland's very different."
+
+ 
+
+Charli nodded. A little grin tried to form.
+
+ 
+
+"Smelly-different. Lots of people smoke. And deodorant's optional. And perfume..." She paused. 
+
+ 
+
+"Perfume?" I prompted gently. Charli's face had gone careful. Her face fell as she bit her lip. She looked at me like I might snap.
+
+ 
+
+"I..." She swallowed. "I screwed up today, Celeste. Like, so bad..."
+
+ 
+
+"How?" The word came out clear, but my hands had tightened on the phone. She was shrinking—the old Charlie shape—and it made something in me go hard and protective at the same time.
+
+ 
+
+“Charli.” I kept my voice level. “Listen to me. Are you allowed to make mistakes?”
+
+ 
+
+"Not epic ones like this one!" She wasn't looking at me.
+
+ 
+
+"Anyone hurt?" 
+
+ 
+
+Her jaw was tight. "No, of course not..."
+
+ 
+
+"Right, then!" I said. I let that land. “Then we’re in the category of: 'learning curve'. Not 'catastrophe'. Tell me what happened.”
+
+ 
+
+The words came in a rush—finding the perfume vial, how it reminded her of me so sharply it hurt, how she’d clung to that memory and then—how it had been spoiled. Her voice thinned. When she looked back at me, her eyes were wet.
+
+ 
+
+"You do know what the name means, don't you?" I said.
+
+ 
+
+She swallowed. "I adore..."
+
+ 
+
+"And I do." I kept my voice steady, clear. "I adore you, Charli. Tonight, wear my perfume to bed." I pushed my chin up slightly. "And tonight, I'm going to wear your t-shirt, so I can smell you." I felt a soft smile ease the tension in my neck. "Because, as much as you miss me, I miss you more."
+
+ 
+
+She stared wordlessly at me. Finally, her head did a little turn, as if she'd misheard.
+
+ 
+
+"Really?"
+
+ 
+
+I nodded quickly, blinking hard once. I forced a deep breath I could feel in my toes.
+
+ 
+
+"What are you doing tomorrow?"
+
+ 
+
+"Sarah and I are going to meet Fiona's girls... I mean, her staff." A banner with the name 'Sarah' popped up above his head. "She's done the site visit: it's still not ready. Tradies everywhere."
+
+ 
+
+"Did Fiona have any updates on when the crates arrive?"
+
+ 
+
+"Day after tomorrow, she said." Her smile eased. "She's really nice. Sort-of like Mum, in a way."
+
+ 
+
+"Have you eaten?"
+
+ 
+
+Charli shook her head.
+
+ 
+
+"Please do, Charli. Even if it's just an apple or something. Promise me you will."
+
+ 
+
+"I promise. I feel better now, just because..." 
+
+ 
+
+"Good." My head bobbed. "Fruit. Shower. Perfume. Sleep. And tomorrow: be in your space. You have a lot to offer. Focus on that."
+
+ 
+
+She nodded with each phrase, taking it in like I’d handed her a list for a new costume.
+
+ 
+
+“I love you, Charli,” I said.
+
+ 
+
+The words were barely out—I took a sharp breath in. Out loud, they tasted odd in my mouth. I’d never even said them to her face-to-face, only in the secret parts of my mind.
+
+ 
+
+Her gaze held mine, deep and dark.
+
+ 
+
+“I love you too, Celeste.”
+
+ 
+
+ 
+
+The phone sat warm on my lap, suddenly heavy. I stared at nothing in particular. My stomach had that folding-in feeling again—the same one I’d had at the airport, watching Charli walk away.
+
+ 
+
+My phone buzzed again.
+
+ 
+
+Sarah.
+
+ 
+
+I took in a deep breath and tapped my phone. No video call.
+
+ 
+
+"Hey!" Her voice sounded cheerful, bright. So Sarah.
+
+ 
+
+"How are things, Sarah?" I said.
+
+ 
+
+"Hey, could be worse. Fiona was under-estimating the work still needed doing at the Wardrobe site, though. And I have no idea who signed off on this. No proper extraction for the steam irons. This place is already humid as blazes. Their toenails are going to curl in there. Power-points are too few, too feeble and in the wrong places." I could picture her pushing hair off her face, lips  pursed. "I could go on, but anyway... I'll sort it. Not going to make a lot of friends amongst the tradies, mind."
+
+ 
+
+"And the crates?"
+
+ 
+
+"No shelving. And the rails are laughable—pre-teen dance costumes would struggle. And there's, what, three?" She snorted. "So yes, a bit of adjusting needs doing, here."
+
+ 
+
+My grip tightened on my phone as I got up to flick the kettle on.
+
+ 
+
+"Anything for Charli to be doing yet?" I asked.
+
+ 
+
+A pause—long enough to feel.
+
+ 
+
+"Yes and no. Charli is..." I heard a soft sigh—Sarah, at a loss. "Look, this is all a bit new... for both of us." I waited, watching little bubbles form at the bottom of the glass kettle. "I do think she'll get up to speed," she said finally, "but I'll be honest, Celeste, she's a bit of a babe in the woods. Just—in the world outside Wardrobe."
+
+ 
+
+I stiffened.
+
+ 
+
+"As bad as that?" I kept my voice level—it mattered—but closed my eyes. 
+
+ 
+
+"I'm not going to sugar-coat it, Celeste. She's got a lot to learn about... things. And I won't be able to set up their Wardrobe properly and mind young Charli."
+
+ 
+
+The kettle gave a merry 'ding', content to have done its duty properly. I poured the boiling water over my teabag.
+
+ 
+
+"Should we have her come home?"
+
+ 
+
+"No!" Sarah’s voice had gone sharp. "No-no-no, Celeste, she has to learn." She cleared her throat as I settled nerveless into a chair. 
+
+ 
+
+"Listen, I've got an idea. I sent Charli to our accommodations with our bags this arvo. Figured she'd had enough. And on the site, I met the new girls." She chuckled. "They're really sweet. I think they'll take to her."
+
+ 
+
+I pressed my lips together.
+
+ 
+
+"Your idea?"
+
+ 
+
+"Hang on, I'm getting to that." My impatience came out in an aggravated gust. "So, one of them, Brittany—she's really sharp, smart as a whip. She'd be the team leader, I reckon." He dropped her voice. "I pulled her aside and told her that I needed her help."
+
+ 
+
+"Yes?"
+
+ 
+
+"I told that this was Charli's first trip away from home and that she needed someone to..." Sarah rushed the next bit. "...keep her out of trouble. You know. Boys, and all that."
+
+ 
+
+"Sarah!"
+
+ 
+
+"I know, I know. Look, Charli's not a dummy. She's a quick read, just—new at this. And Brittany's from Sydney. City girls are clued up. Besides," she added, her tone sobered, "the place needs her! There are things she knows that I can't teach, even if I had the time."
+
+ 
+
+I took a sip of my tea. Tasted like hot water. 
+
+ 
+
+Sarah had a point.
+
+ 
+
+"And you're sure she'll be safe?" I said, hating how desperate I sounded.
+
+ 
+
+"Celeste, she'll be in Wardrobe, most of the time. Brittany's promised me she'd stay close."
+
+ 
+
+I took moment. Then, decided.
+
+
+
+"Okay," I said. "Let's do one day. I'll have a chat to her tomorrow night, see how she went. If she still wants to stay—fine." I stared out the window at the fading light. "If she doesn't..."
+
+ 
+
+"Right-ho. Then she doesn't." Sarah softened a little. "I have faith in her—she's a trier."
+
+ 
+
+I closed my eyes and saw Charli's brave little smile, and the tiredness behind it. 
+
+ 
+
+I wanted Sarah's confidence.
+
+ 
+
+I didn't have it.
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 

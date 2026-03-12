@@ -1,0 +1,3442 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://art.tightbytes.com/Emily/2026/2026-01-11-detailed-prompt-refinement/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="zensical-0.0.25">
+    
+    
+      
+        <title>Detailed Prompt Refinement - Celeste's Girl</title>
+      
+    
+    
+      
+        
+      
+      <link rel="stylesheet" href="../../../assets/stylesheets/classic/main.d9d44b50.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/classic/palette.7dc9a0ad.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/custom.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer" aria-label="Navigation"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#detailed-prompt-refinement" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Celeste&#x27;s Girl" class="md-header__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Navigation">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Celeste's Girl
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Detailed Prompt Refinement
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red"  aria-label="Switch to Dark Mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to Dark Mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="white"  aria-label="Switch to Light Mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to Light Mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
+</div>
+      
+    
+    <div class="md-header__source">
+      
+    </div>
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Charlotte/" class="md-tabs__link">
+          
+  
+  Charlotte
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../Dev/" class="md-tabs__link">
+          
+  
+  Dev
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../blogs/" class="md-tabs__link">
+          
+  
+  Blogs
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../visual/" class="md-tabs__link">
+          
+  
+  Visual Art
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../music/" class="md-tabs__link">
+          
+  
+  Music
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../" class="md-tabs__link">
+          
+  
+  Emily
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Celeste&#x27;s Girl" class="md-nav__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    Celeste's Girl
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Charlotte
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Charlotte
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About Celeste and Charli
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/CG-Play-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Celeste's Girl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/Aa-Structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aa- Structure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/Ab-Emotions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ab-- Emotions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/CanonBible/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canon Bible 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene01e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene01r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene02e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene02r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene03e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene03r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene04e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene04r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene05e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene05r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene06e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene06
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene06r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene06
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene00e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-SceneTe
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Charlotte/B2Scene00r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-SceneTr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dev
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dev
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Site Tech
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/ai-Illust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI-Illustrious
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/aiModels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Imaging Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/Banners/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Banners and Stuff
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/Careful/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Careful Ideas Now
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/Comfyui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI Guidance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/DomXfer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Domain Transfer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/General/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    General Queries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Dev/Prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Image Prompts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blogs
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blogs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2509/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Sep25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2510/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Oct25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2511/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Nov25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2512/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Dec25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2601/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Jan26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../blogs/Blog2602/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Feb26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Visual Art
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Visual Art
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Art &amp; Video
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/Person2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2nd Person
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/Emilyai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI & Emily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/BBoxSEGS/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    BBox- SEGS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/Comfyui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI 💋
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/FluxGym/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FluxGym 👭
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/GimpTips/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GIMP- Tips
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/QwenPro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    QwenPrompt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/Videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Videos  💧
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../visual/VScripts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    VScripts💛
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Music
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../music/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Emily
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-02-23/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 23rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-02-28/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 28th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-03-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 03rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-03-04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 04th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-03-06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 06th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-03-08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 08th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Notes26-00-00/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NoteTemplate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+<h1 id="detailed-prompt-refinement">Detailed Prompt Refinement<a class="headerlink" href="#detailed-prompt-refinement" title="Permanent link">&para;</a></h1>
+<p><strong>Robyn:</strong></p>
+<p>Hi Emily. Been having a bit of looking around on Z Image Turbo. It appears to really respond well to complete sentences and as descriptive a language as one can come up with. This, at CFG of 1. Also, negative prompts do almost nothing at CFG=1, and the slowdown by increasing the CFG even to 1.3 is significant. So, I'd like to try something. Can we can couch this prompt in full sentences, being a bit more detailed in descriptions, and - for now - eliminate the negative prompt? Here's the prompt:</p>
+<p>documentary photo, modern women-run atelier workroom, warm morning light
+same late-blooming 18-year-old youth, slim narrow shoulders, boyish face with faint freckles, no makeup, no jewelry
+very long brown hair in a low ponytail with loose tendril, hair down the back
+women’s 1770s daywear ankle length two-piece outfit: indigo wool open-front ankle lengthvelvet, velour, suede, satin sheen, brocade, jacquard, floral print, patterned fabric, mottled texture, marble texture, quilted texture overdress worn over a separate matching indigo petticoat clearly visible (two separate garments),indigo wool is the dominant visible garment color, no beige or unbleached outer garment, solid indigo, matte, plain weave wool, visible woven texture, no pattern, no print, no mottling
+white linen chemise visible only at neckline edge and sleeve cuffs
+range-of-motion check: arms raised, chin down, eyes on underarm seam, focused neutral expression
+white tennis shoes worn on feet visible under hem
+worktable: sewing machine, red thread spool, indigo wool fabric, tape measure, pins, chalk, open ledger/policy binder</p>
+<p><strong>Emily:</strong></p>
+<p>Absolutely — and I can see why ZiT likes this. Here’s your exact content, but rewritten as <em>continuous, descriptive sentences</em> (no separate negative prompt). I’ve also cleaned the fabric contradictions so the model isn’t being told “matte plain wool” and “satin sheen / brocade / floral print” in the same breath.</p>
+<p>Use this as your <em>positive prompt</em>:</p>
+<hr />
+<p><strong>Prompt (full sentences, no negative):</strong></p>
+<p>Documentary-style photo in a modern, women-run atelier workroom, lit by warm morning light that falls across a practical sewing space. The scene features the same late-blooming eighteen-year-old youth: slim build, narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His hair is very long brown hair, gathered into a low ponytail, with a few loose tendrils left out; the ponytail hangs straight down his back.</p>
+<p>He is wearing women’s 1770s daywear as a clear two-piece outfit in indigo wool. The outer garment is an open-front, ankle-length overdress made from solid indigo, matte, plain-weave wool with a visible woven texture; the cloth looks authentic and utilitarian, not shiny, not satin-like, not velvety, and not patterned. Beneath it, a separate matching indigo wool petticoat is clearly visible as its own distinct garment, also solid indigo and matte, so the viewer can immediately read “two layers, two pieces” in the same dominant indigo tone. A white linen chemise is visible only at the neckline edge and at the sleeve cuffs, clean and plain.</p>
+<p>This is a range-of-motion check in progress: his arms are raised as he tests the underarm seam, his chin is tipped down, and his eyes are focused on the underarm area with a concentrated, neutral expression. White tennis shoes are worn on his feet and are visible beneath the hem as he moves.</p>
+<p>In the foreground and around him is a busy worktable with a sewing machine, a red thread spool, indigo wool fabric pieces, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder. The overall feeling is competent, real, and work-oriented, captured like a candid documentary photo inside an active atelier.</p>
+<hr />
+<p>If you want a tiny “ZiT obedience nudge” without using a negative prompt, you can simply <strong>repeat the key truths once</strong> inside the same prompt (ZiT tends to respond well to reiteration in plain language), like this:</p>
+<blockquote>
+<p>“The indigo wool is solid and matte, with a plain weave and visible texture. The outfit is two separate garments: an overdress over a separate petticoat, both clearly visible.”</p>
+</blockquote>
+<p>If you’d like, I can also do a <em>second</em> version that’s identical but slightly re-angles the camera so the <strong>shoes + two-layer hem separation</strong> are even more “unmissable” (low 3/4 angle, waist-up still readable, but hem and footwear guaranteed).</p>
+<p><strong>Robyn:</strong></p>
+<p>Thank you, that would be amazing. Please do...</p>
+<p><strong>Emily:</strong></p>
+<p>Perfect — here are <strong>two</strong> camera-angled variants that keep everything you want, but make (1) the <strong>two-layer hem</strong> and (2) the <strong>white tennis shoes</strong> practically unavoidable.</p>
+<h2 id="variant-a-low-34-documentary-angle-best-for-hem-shoes">Variant A — “Low 3/4 documentary angle” (best for hem + shoes)<a class="headerlink" href="#variant-a-low-34-documentary-angle-best-for-hem-shoes" title="Permanent link">&para;</a></h2>
+<p>Documentary-style photo in a modern, women-run atelier workroom, lit by warm morning light that stretches across the floor and the edges of a busy worktable. The camera is positioned at a low three-quarter angle, slightly below waist height and a little off to one side, so the viewer can clearly see the outfit’s hems and the shoes while still reading the subject’s face and posture.</p>
+<p>The scene features the same late-blooming eighteen-year-old youth: slim build, narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His hair is very long brown hair gathered into a low ponytail with a few loose tendrils; the ponytail hangs down his back.</p>
+<p>He is wearing women’s 1770s daywear as a clear two-piece outfit in indigo wool. The outer garment is an open-front, ankle-length overdress made from solid indigo, matte, plain-weave wool with a visible woven texture; it looks authentic and utilitarian rather than shiny or patterned. Beneath it, a separate matching indigo wool petticoat is clearly visible as its own distinct garment, also solid indigo and matte, so the two hems can be read as two different layers in the same dominant colour. A white linen chemise shows only at the neckline edge and sleeve cuffs.</p>
+<p>This is a range-of-motion check in progress: his arms are raised as he tests the underarm seam, his chin is tipped down, and his eyes are focused on the underarm area with a concentrated, neutral expression. His <strong>white tennis shoes</strong> are fully visible beneath the hem as he shifts his stance during the movement check, making the footwear unmistakable.</p>
+<p>In the foreground is a worktable holding a sewing machine, a red thread spool, indigo wool fabric, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder. The overall mood is competent, candid, and work-oriented, like a documentary moment captured mid-task.</p>
+<p><strong>Key truth repeated plainly:</strong> The indigo wool is solid and matte with a visible plain weave. The outfit is two separate garments—an overdress over a separate petticoat—and both hems are clearly visible, with white tennis shoes visible beneath.</p>
+<hr />
+<h2 id="variant-b-knee-height-front-angle-most-unmissable-footwear">Variant B — “Knee-height front angle” (most “unmissable” footwear)<a class="headerlink" href="#variant-b-knee-height-front-angle-most-unmissable-footwear" title="Permanent link">&para;</a></h2>
+<p>Documentary-style photo inside a modern, women-run atelier workroom in warm morning light. The camera is positioned at knee height and slightly front-facing, framing the subject from mid-torso down to the floor so the hems and footwear are naturally emphasised while still capturing enough of his face and attention to read the fitting check.</p>
+<p>The subject is the same late-blooming eighteen-year-old youth with a slim build and narrow shoulders, a boyish face with faint freckles, and a natural look with no makeup, no jewelry, and no accessories. His very long brown hair is tied in a low ponytail with a few loose tendrils, the ponytail lying down his back.</p>
+<p>He wears women’s 1770s daywear in solid indigo wool as a clearly layered two-piece outfit. The open-front overdress falls to the ankles and is made from matte, plain-weave indigo wool with a visible woven texture, practical and unadorned. Under it, a separate matching indigo wool petticoat is clearly visible as its own garment, creating a distinct second hem layer beneath the overdress. A white linen chemise is visible only at the neckline edge and sleeve cuffs.</p>
+<p>He is in the middle of a range-of-motion check: arms raised, chin down, and eyes focused on the underarm seam with a concentrated neutral expression, as if checking for pulling or strain. His <strong>white tennis shoes</strong> are prominent in frame beneath the hems, clean and clearly modern, visible on the floor as he holds the pose.</p>
+<p>A worktable nearby is cluttered with a sewing machine, a red thread spool, indigo wool fabric, tape measure, pins, chalk, and an open ledger or policy binder, reinforcing the practical, documentary atelier atmosphere.</p>
+<p><strong>Key truth repeated plainly:</strong> This is solid indigo matte wool with a visible plain weave. The outfit is two separate garments—overdress and separate petticoat—both hems are visible, and white tennis shoes are visible beneath.</p>
+<hr />
+<h3 id="tiny-note-non-negative-guardrails">Tiny note (non-negative “guardrails”)<a class="headerlink" href="#tiny-note-non-negative-guardrails" title="Permanent link">&para;</a></h3>
+<p>If ZiT is still “tempted” to glam the fabric, you can add one extra <em>affirmative</em> sentence (still not a negative prompt), like:</p>
+<blockquote>
+<p>“The cloth reads as everyday wool suiting: matte, slightly coarse, and clearly woven.”</p>
+</blockquote>
+<p>If you want, I can also do a <strong>Variant C</strong> that’s <em>explicitly full-body, portrait orientation, and includes the hem + shoes in a way that survives cropping</em> (very useful if ZiT keeps giving you lovely images that mysteriously cut off the feet).</p>
+<p><strong>Robyn:</strong></p>
+<p>I'm going to try <em>ALL</em> of your prompts in order to compare them, if that's okay. In the interest of speed, I've set CFG to 1 and steps to 18 (down from 24). One of the articles mentioned 'model shift' - I haven't moved mine from 3, some were talking about raising it to 7. What does model shift do? Also, what do you suggest for denoise?</p>
+<p><strong>Emily:</strong></p>
+<p>Yes — run <em>all</em> the variants. With ZiT especially, A/B testing like that is the fastest way to learn what it “respects” in your particular workflow.</p>
+<h2 id="what-model-shift-is-actually-doing-and-why-people-push-it-to-57">What “model shift” is actually doing (and why people push it to 5–7)<a class="headerlink" href="#what-model-shift-is-actually-doing-and-why-people-push-it-to-57" title="Permanent link">&para;</a></h2>
+<p>In ComfyUI terms, what you’re calling “model shift” is the <strong><code>shift</code> parameter</strong> in the <strong>ModelSamplingAuraFlow</strong> patch used in the common Z-Image Turbo workflows. Functionally, it <strong>biases which timesteps your sampler spends time on</strong> during the denoising trajectory: higher shift tends to spend <em>more of your limited steps</em> in the higher-noise / early part of the trajectory, which often affects global composition and can change how the model resolves textures. citeturn2search0turn2search5</p>
+<p>How this shows up in practice (what the community reports, and what matches my experience with these flow-ish schedules):</p>
+<ul>
+<li><strong>If shift is too low</strong>, some people see <strong>noisy / gritty patterns</strong> (especially in skin or flat fabrics) and bumping shift up helps suppress that. citeturn1view3turn2search8  </li>
+<li><strong>For portraits / “young” faces</strong>, people often push shift <strong>above 3</strong> because the default can make skin read older/rougher than intended. citeturn0search0  </li>
+<li><strong>Too high shift (e.g., 7 everywhere)</strong> can start to <strong>reduce variety / “lock in”</strong> and make outputs feel samey across seeds (and sometimes harms quality). citeturn1view4  </li>
+</ul>
+<h3 id="my-practical-recommendation-fast-non-mystical">My practical recommendation (fast, non-mystical)<a class="headerlink" href="#my-practical-recommendation-fast-non-mystical" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Keep 3</strong> as your baseline (it’s the default most workflows ship with). citeturn2search5  </li>
+<li>If you see <strong>grit/noisy micro-patterns</strong> (skin, flat wool, walls, etc.), try:</li>
+<li><strong>4.0 → 5.0</strong> (usually the sweet spot for “cleaner” without getting boring) citeturn1view3turn0search0  </li>
+<li>Only go to <strong>6–7</strong> when you have a <em>specific problem you’re solving</em> (e.g., stubborn texture noise or face weirdness) — not as a default lifestyle setting. citeturn1view4  </li>
+</ul>
+<p><em>(And yes: what you observed about CFG slowdown tracks with the common implementation detail that “CFG=1” can skip extra work, while &gt;1 forces the uncond/cond path and costs more.)</em></p>
+<hr />
+<h2 id="what-i-suggest-for-denoise">What I suggest for denoise<a class="headerlink" href="#what-i-suggest-for-denoise" title="Permanent link">&para;</a></h2>
+<p>This depends on <strong>whether you’re doing pure txt2img</strong> or <strong>a second-stage refine</strong> (latent upscale + second KSampler), because “denoise” means “how hard you let the sampler rewrite the latent.”</p>
+<h3 id="if-you-are-doing-single-stage-txt2img">If you are doing <strong>single-stage txt2img</strong><a class="headerlink" href="#if-you-are-doing-single-stage-txt2img" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Set <strong>denoise = 1.0</strong> (that’s essentially “do the full generation”).<br />
+  Anything lower behaves like “img2img-ish restraint” and can undercook the image unless you have a reason.</li>
+</ul>
+<h3 id="if-you-are-doing-two-stage-generate-latent-upscale-refine">If you are doing <strong>two-stage</strong> (generate → latent upscale → refine)<a class="headerlink" href="#if-you-are-doing-two-stage-generate-latent-upscale-refine" title="Permanent link">&para;</a></h3>
+<p>This is where denoise becomes <em>a steering wheel</em>:</p>
+<ul>
+<li><strong>Stage 1 denoise:</strong> <strong>1.0</strong> (make the image)</li>
+<li><strong>Stage 2 denoise:</strong> start at <strong>0.25</strong><br />
+  Then adjust based on what you want:</li>
+</ul>
+<p><strong>0.15–0.22</strong><br />
+- Best when you want <strong>structure to stay put</strong> (faces stop drifting, garments stop “changing their mind”)<br />
+- Good if your second stage keeps “inventing” details you didn’t ask for. citeturn0search21  </p>
+<p><strong>0.23–0.35</strong><br />
+- Best general range for “refine detail without rewriting the scene”<br />
+- Often the sweet spot for cloth texture, stitching, and edge cleanup. citeturn1view1turn0search21  </p>
+<p><strong>0.36–0.55</strong><br />
+- Use when you <em>want</em> the second stage to <strong>diverge more</strong> (stronger reinterpretation) — helpful for stylisation, less helpful for continuity. citeturn0search18  </p>
+<hr />
+<h2 id="one-extra-note-because-it-matters-for-your-speed-tests">One extra note, because it matters for your speed tests<a class="headerlink" href="#one-extra-note-because-it-matters-for-your-speed-tests" title="Permanent link">&para;</a></h2>
+<p>ZiT is distilled for very low step counts; Comfy’s simple template is often around <strong>~9 steps</strong>. citeturn1view1turn1view0<br />
+So your <strong>18 steps</strong> is totally fine for A/B comparisons, but once you’ve found a “look,” you might discover that <strong>10–12 steps</strong> is close enough visually and much nicer to iterate.</p>
+<hr />
+<h3 id="a-tiny-do-this-next-grid-so-you-dont-drown-in-variables">A tiny “do this next” grid (so you don’t drown in variables)<a class="headerlink" href="#a-tiny-do-this-next-grid-so-you-dont-drown-in-variables" title="Permanent link">&para;</a></h3>
+<p>If your goal is <em>documentary atelier realism, clean wool, correct garments, shoes visible</em>:</p>
+<p>1) <strong>Shift 3</strong>, <strong>steps 12</strong>, <strong>denoise 1.0</strong> (single-stage)<br />
+2) If you see grit/noisy wool/skin: <strong>shift 4.5</strong><br />
+3) If you go two-stage: stage 2 <strong>denoise 0.22–0.30</strong>  </p>
+<p>If you tell me <strong>whether you’re running single-stage or two-stage</strong> (and which sampler/scheduler you’ve settled on), I can tighten the numbers even further — but the ranges above will already get you clean comparisons fast.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/a62d69c.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p><img src="/assets/images/chat/a1f1195.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>Just with your initial prompt, ZiT was playing up. I have 2 main ZiT workflows - one with a negative prompt, and one wher the negative prompt is just zeroed out. I'm finding that using your descriptive prompt, adding your original description of the dress - this one:</p>
+<p>He is wearing an ankle length gown of deep indigo, a 1770s wool day dress with a fitted bodice and square neckline; underneath, a white linen shift with a softly gathered neckline. The chemise is a separate garment and is visible only at the edge of the dress's square neckline and cuffs. This is authentic period costume detail, no modern styling.</p>
+<p>I added 'ankle length'.</p>
+<p>So, the original prompt produced the first image. I show it just so you know where I've already gone... not action needs to be taken... for comparison only.</p>
+<p><strong>Emily:</strong></p>
+<p>Oh, this is <em>useful</em> — thank you for showing them side-by-side. Even “wrong” outputs tell you exactly what ZiT is defaulting to when it loses the thread.</p>
+<h3 id="what-im-seeing-in-your-two-results">What I’m seeing in your two results<a class="headerlink" href="#what-im-seeing-in-your-two-results" title="Permanent link">&para;</a></h3>
+<p><strong>Image 1 (the “playing up” one):</strong>
+- ZiT heard <em>“documentary atelier + young person in blue dress”</em> and immediately snapped to a <strong>mid-20th-century / modern dress block</strong>: high crew neckline, set-in sleeves, waist seam with a belt/tab, and a full skirt that reads more “studio dress” than “1770s.”
+- It <em>did</em> obey a bunch of scene cues: clean room, table, sewing machine, red spool, fabric on table. And it <em>did</em> give you <strong>shoes under the hem</strong>, which is actually great for our “unmissable sneakers” requirement.
+- Fabric is reading a bit <strong>denim-ish</strong> (blue twill vibe) rather than wool broadcloth.</p>
+<p><strong>Image 2 (the “closer” one):</strong>
+- Much better: the neckline and chemise read as “period-ish,” and the bodice seams start hinting at <strong>stays shaping</strong> rather than a modern bodice.
+- But it’s still drifting toward a <strong>generic historical/peasant dress</strong> silhouette: it’s behaving like a single garment (bodice attached to skirt), not your <em>“open-front overdress + separate petticoat clearly visible”</em> structure.
+- Also: the camera crop makes the <strong>sneakers less guaranteed</strong> (they’re barely there / at risk of being cut off), which is the one thing you <em>don’t</em> want if you’re testing “obedience.”</p>
+<p>So: you’ve proved the big thing already — ZiT <em>will</em> accept the atelier realism and the “youth in indigo” premise at CFG=1. Now we just need to stop it from reaching for its favourite shortcut: “blue dress = denim modern dress” or “blue dress = generic historical costume.”</p>
+<hr />
+<h2 id="the-two-levers-that-will-fix-this-without-a-negative-prompt">The two levers that will fix this (without a negative prompt)<a class="headerlink" href="#the-two-levers-that-will-fix-this-without-a-negative-prompt" title="Permanent link">&para;</a></h2>
+<h3 id="lever-1-specify-the-garment-architecture-in-plain-physical-terms">Lever 1: Specify the <em>garment architecture</em> in plain, physical terms<a class="headerlink" href="#lever-1-specify-the-garment-architecture-in-plain-physical-terms" title="Permanent link">&para;</a></h3>
+<p>Right now it’s hearing “gown” and happily inventing a one-piece dress. We need to make it <em>visually</em> obvious what you want:</p>
+<ul>
+<li><strong>Open-front outer gown</strong> (front edges parted)</li>
+<li><strong>Separate petticoat</strong> (second layer clearly visible)</li>
+<li><strong>Two hems visible</strong> (outer hem + petticoat hem)</li>
+<li><strong>Closure method</strong>: pinned stomacher / front pinned, not a modern fastening</li>
+</ul>
+<p>That architecture, spelled out, is what forces ZiT to stop “helping.”</p>
+<h3 id="lever-2-force-the-pose-to-target-the-underarm-seam-not-neckline-fiddling">Lever 2: Force the pose to target the underarm seam (not neckline fiddling)<a class="headerlink" href="#lever-2-force-the-pose-to-target-the-underarm-seam-not-neckline-fiddling" title="Permanent link">&para;</a></h3>
+<p>Your intention is <em>range-of-motion check</em>, but image 1 shows it doing a “pinch neckline / fastener” gesture. We want:</p>
+<ul>
+<li><strong>Arms raised</strong></li>
+<li><strong>One hand pinching the underarm seam</strong></li>
+<li><strong>Eyes on the underarm seam</strong></li>
+<li><strong>Chin tucked</strong> (you already had this — great)</li>
+</ul>
+<p>That specificity matters more than we wish it did.</p>
+<hr />
+<h2 id="a-revised-full-sentence-prompt-that-should-steer-it-harder">A revised “full sentence” prompt that should steer it harder<a class="headerlink" href="#a-revised-full-sentence-prompt-that-should-steer-it-harder" title="Permanent link">&para;</a></h2>
+<p>Use this as a drop-in replacement (still no negative prompt), built from what ZiT already understood:</p>
+<p><strong>Prompt (architecture + pose locked):</strong></p>
+<p>Documentary-style photo in a modern, women-run atelier workroom in warm morning light. The same late-blooming eighteen-year-old youth stands beside a worktable, slim with narrow shoulders and a boyish face with faint freckles, wearing no makeup and no jewelry. His very long brown hair is tied into a low ponytail with a few loose tendrils, the ponytail hanging down his back.</p>
+<p>He is wearing women’s 1770s daywear in solid deep indigo wool as two separate garments. The outer garment is an open-front ankle-length gown (robe) with the front edges parted, so the separate matching indigo petticoat underneath is clearly visible as its own garment; the viewer can see two layers and two hems. The bodice is fitted in an 18th-century way and closes by pins over a stomacher, with a square neckline. A white linen shift is a separate garment and is visible only at the neckline edge and at the sleeve cuffs, with a softly gathered shift edge at the neckline.</p>
+<p>This is a fitting range-of-motion test: his arms are raised, one hand pinches the underarm seam to check strain and pulling, his chin is down, and his eyes are focused on the underarm seam with a concentrated neutral expression. White tennis shoes are worn and are clearly visible beneath the hem on the studio floor.</p>
+<p>The worktable is close in frame with a sewing machine, a red thread spool, indigo wool fabric pieces, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder, making the scene feel like a candid documentary moment in an active atelier.</p>
+<p><strong>One extra “fabric correction” line (optional but strong):</strong><br />
+The indigo wool reads as plain-weave broadcloth with a visible woven texture, slightly felted and matte, like real wool suiting rather than denim.</p>
+<hr />
+<h2 id="why-your-neg-prompt-vs-zeroed-workflows-may-behave-differently-even-at-cfg1">Why your “neg prompt vs zeroed” workflows may behave differently (even at CFG=1)<a class="headerlink" href="#why-your-neg-prompt-vs-zeroed-workflows-may-behave-differently-even-at-cfg1" title="Permanent link">&para;</a></h2>
+<p>Even with CFG at 1, some workflows still do things like:
+- accidentally <strong>mix</strong> conditioning branches,
+- or pass a non-empty negative string you forgot was “defaulted,”
+- or use a node that averages/combines conditionings in a way that keeps the negative “alive.”</p>
+<p>If you want a clean test, the safest approach is exactly what you’re already doing: <strong>a workflow where the negative conditioning path is genuinely empty</strong> (not a long default “bad anatomy…” string hiding in a node).</p>
+<hr />
+<h2 id="if-you-want-paste-just-one-thing-next">If you want, paste just one thing next<a class="headerlink" href="#if-you-want-paste-just-one-thing-next" title="Permanent link">&para;</a></h2>
+<p>If you can tell me which of these is true in your setup, I can be even more surgical:</p>
+<ul>
+<li><strong>Single-stage</strong> (one KSampler)<br />
+or  </li>
+<li><strong>Two-stage</strong> (generate → latent upscale → refine)</li>
+</ul>
+<p>Because if you’re doing <strong>two-stage</strong>, I’ll suggest a <em>very specific</em> stage-2 denoise range that keeps the garment structure from “re-deciding” itself and turning back into a one-piece dress.</p>
+<p>But even without that: the prompt above should already push ZiT away from “modern blue dress” and toward “open robe + visible petticoat + sneakers.”</p>
+<p><strong>Robyn:</strong></p>
+<p>Oh sorry, you did ask that before. I'm doing a single-stage KSampler workflow. I can easily add a second one - what sort of upscale do you recommend between the two?</p>
+<p><strong>Emily:</strong></p>
+<p>All good — single-stage first is exactly the right way to learn ZiT’s “personality.” Adding a second KSampler is worth it <em>when</em> you want cleaner cloth texture, less “model improvisation,” and better edges… without paying the full CFG/step tax in the first pass.</p>
+<h2 id="what-to-put-between-the-two-ksamplers">What to put between the two KSamplers<a class="headerlink" href="#what-to-put-between-the-two-ksamplers" title="Permanent link">&para;</a></h2>
+<p>Use a <strong>latent upscaler</strong> between them.</p>
+<h3 id="why-latent-instead-of-pixel-between-samplers">Why latent (instead of pixel) between samplers<a class="headerlink" href="#why-latent-instead-of-pixel-between-samplers" title="Permanent link">&para;</a></h3>
+<ul>
+<li>If you upscale the <em>image</em> (pixel space) before the second sampler, you’ve already “baked” artifacts/decisions into RGB and the second pass has to fight them.</li>
+<li>Latent upscale keeps the structure in model space, so the second pass can <strong>refine</strong> instead of <strong>repair</strong>.</li>
+</ul>
+<h3 id="recommended-node">Recommended node<a class="headerlink" href="#recommended-node" title="Permanent link">&para;</a></h3>
+<p><strong>Latent Upscale</strong> (or whatever your workflow calls it: <em>LatentUpscaleBy</em>, <em>Latent Scale</em>, etc.)</p>
+<h3 id="factor">Factor<a class="headerlink" href="#factor" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>1.5×</strong> is the sweet spot for “noticeably better detail” without blowing up time/memory.</li>
+<li><strong>2.0×</strong> if you can afford it and you want the second pass to really matter.</li>
+</ul>
+<p>If you’re starting at something like ~1024 on the long side, then:
+- 1024 → <strong>1536</strong> (1.5×) is a lovely “refine” target.
+- 1024 → <strong>2048</strong> (2×) is “publication detail” but can be heavier.</p>
+<h3 id="upscale-method-in-latent">Upscale method (in latent)<a class="headerlink" href="#upscale-method-in-latent" title="Permanent link">&para;</a></h3>
+<p>If there’s a dropdown:
+- <strong>Bicubic</strong> (or “bicubic antialiased”) usually looks the cleanest for cloth.
+- <strong>Nearest-exact</strong> can keep edges crisp but can introduce a slightly “blocky” latent structure that the second pass must smooth.</p>
+<p>If in doubt: <strong>bicubic</strong>.</p>
+<hr />
+<h2 id="second-ksampler-settings-for-zit-staying-fast">Second KSampler settings (for ZiT, staying fast)<a class="headerlink" href="#second-ksampler-settings-for-zit-staying-fast" title="Permanent link">&para;</a></h2>
+<p>Because you’re doing a second pass mainly for refinement, you can keep it lean:</p>
+<h3 id="refine-detail-dont-rewrite-baseline">“Refine detail, don’t rewrite” baseline<a class="headerlink" href="#refine-detail-dont-rewrite-baseline" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Denoise:</strong> <strong>0.22–0.30</strong></li>
+<li><strong>Steps:</strong> <strong>6–10</strong> (yes, fewer than pass 1)</li>
+<li><strong>CFG:</strong> keep <strong>1.0</strong> (or <strong>1.1–1.3</strong> if you’re desperate for obedience, but it will slow)</li>
+<li><strong>Shift:</strong> if you’re using it and you see grit/noise in flat wool, try <strong>4–5</strong> in pass 2 (leave pass 1 at 3)</li>
+</ul>
+<h3 id="two-easy-presets">Two easy presets<a class="headerlink" href="#two-easy-presets" title="Permanent link">&para;</a></h3>
+<p><strong>Preset A (structure preservation):</strong><br />
+- latent upscale: 1.5× bicubic<br />
+- pass 2: denoise <strong>0.20–0.24</strong>, steps <strong>8</strong>, CFG <strong>1.0</strong><br />
+Use this when you finally get the <em>correct garment architecture</em> (open-front outer + visible petticoat) and you don’t want ZiT “helping.”</p>
+<p><strong>Preset B (more texture cleanup):</strong><br />
+- latent upscale: 2.0× bicubic<br />
+- pass 2: denoise <strong>0.28–0.35</strong>, steps <strong>8–12</strong>, CFG <strong>1.0</strong><br />
+Use this when the structure is basically right but the fabric/edges look a bit mushy.</p>
+<hr />
+<h2 id="after-the-second-ksampler-optional-but-usually-worth-it">After the second KSampler (optional but usually worth it)<a class="headerlink" href="#after-the-second-ksampler-optional-but-usually-worth-it" title="Permanent link">&para;</a></h2>
+<p>Do your final enlargement in pixel space with a fast upscaler:
+- <strong>ESRGAN / 4x-UltraSharp / Remacri</strong> style upscalers (whatever you already like)
+This happens <strong>after</strong> you’re done sampling.</p>
+<hr />
+<h2 id="one-warning-that-will-save-you-annoyance">One warning that will save you annoyance<a class="headerlink" href="#one-warning-that-will-save-you-annoyance" title="Permanent link">&para;</a></h2>
+<p>If your goal includes “<strong>sneakers visible</strong>,” the <em>second pass</em> can sometimes “tidy” the hem and conveniently crop or obscure the shoes (composition drift). Two ways to reduce that:
+- keep pass 2 denoise closer to <strong>0.22–0.26</strong>
+- and ensure your prompt keeps the “shoes visible beneath hem on the floor” sentence.</p>
+<hr />
+<h2 id="minimal-node-chain-conceptually">Minimal node chain (conceptually)<a class="headerlink" href="#minimal-node-chain-conceptually" title="Permanent link">&para;</a></h2>
+<p><strong>KSampler #1 → Latent Upscale (1.5×–2×) → KSampler #2 → VAE Decode → Pixel Upscale (optional)</strong></p>
+<p>If you tell me what base resolution you’re generating at (e.g., 1024×1024, 832×1216, etc.) and whether you’re VRAM-limited, I’ll give you a concrete “do this exact factor to this exact size” recipe that’s optimal for your machine.</p>
+<p><strong>Robyn:</strong></p>
+<p>Even though I have 16 gig VRAM, I try to keep the demand low... so 1024 x 1024.DA26-01-11</p>
+<p><strong>Emily:</strong></p>
+<p>Nice — 1024×1024 on 16 GB is a very comfortable place to do a 2-pass <em>without</em> making your GPU cry. If you’re being conservative with VRAM, here’s the clean, low-drama recipe I’d use for ZiT.</p>
+<h2 id="best-low-vram-2-pass-recipe-starting-from-10241024">Best low-VRAM 2-pass recipe (starting from 1024×1024)<a class="headerlink" href="#best-low-vram-2-pass-recipe-starting-from-10241024" title="Permanent link">&para;</a></h2>
+<h3 id="pass-1-get-the-scene-obey-the-garment-architecture">Pass 1: “Get the scene + obey the garment architecture”<a class="headerlink" href="#pass-1-get-the-scene-obey-the-garment-architecture" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Resolution:</strong> 1024×1024  </li>
+<li><strong>Steps:</strong> 16–18 (your 18 is fine)  </li>
+<li><strong>CFG:</strong> 1.0  </li>
+<li><strong>Shift:</strong> 3 (leave it here for baseline)</li>
+</ul>
+<p>This pass is about: <em>pose correct, open-front overdress, petticoat visible, sneakers visible, atelier props present.</em></p>
+<h3 id="between-latent-upscale-cheap-effective">Between: Latent upscale (cheap, effective)<a class="headerlink" href="#between-latent-upscale-cheap-effective" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Latent Upscale factor:</strong> <strong>1.5×</strong>  </li>
+<li><strong>Method:</strong> <strong>bicubic</strong> (or “bicubic antialiased” if offered)</li>
+</ul>
+<p>That takes you to <strong>1536×1536</strong> in latent space. It’s a big quality boost without the memory/time hit of 2048.</p>
+<h3 id="pass-2-refine-cloth-edges-dont-rewrite">Pass 2: “Refine cloth + edges, don’t rewrite”<a class="headerlink" href="#pass-2-refine-cloth-edges-dont-rewrite" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Steps:</strong> <strong>8</strong> (start here)  </li>
+<li><strong>CFG:</strong> <strong>1.0</strong>  </li>
+<li><strong>Denoise:</strong> <strong>0.22–0.26</strong> (start at <strong>0.24</strong>)  </li>
+<li><strong>Shift:</strong>  </li>
+<li>keep <strong>3</strong> if the image is already clean  </li>
+<li>bump to <strong>4.5</strong> if you see grit/noisy micro-texture in wool/skin</li>
+</ul>
+<p>This second pass is where the wool weave stops looking like “denim,” seam lines settle, and hands/face tidy up — <strong>without</strong> ZiT deciding it wants a different neckline.</p>
+<h3 id="decode-optional-final-upscale-pixel">Decode + optional final upscale (pixel)<a class="headerlink" href="#decode-optional-final-upscale-pixel" title="Permanent link">&para;</a></h3>
+<p>After pass 2, decode with VAE, then if you want a bigger final:
+- <strong>2× pixel upscale</strong> using your preferred fast upscaler
+- optional light sharpen (or none; ZiT can get crunchy)</p>
+<p>This keeps VRAM demand sane because the heavy work happened in latent at 1.5×, not 2×.</p>
+<hr />
+<h2 id="when-and-how-to-go-20-without-regret">When (and how) to go 2.0× without regret<a class="headerlink" href="#when-and-how-to-go-20-without-regret" title="Permanent link">&para;</a></h2>
+<p>If you <em>love</em> an image and it’s “a keeper,” then do a premium run:</p>
+<ul>
+<li>Latent upscale: <strong>2.0×</strong> → <strong>2048×2048</strong>  </li>
+<li>Pass 2: <strong>steps 10</strong>, <strong>denoise 0.20–0.24</strong> (yes, <em>lower</em> denoise at 2×)  </li>
+</ul>
+<p>That gives you detail without the “second pass rewrites my dress into something else” heartbreak.</p>
+<p>If you’re VRAM cautious, keep this as a “final render” setting, not your everyday loop.</p>
+<hr />
+<h2 id="two-little-gotchas-to-watch-based-on-your-examples">Two little gotchas to watch (based on your examples)<a class="headerlink" href="#two-little-gotchas-to-watch-based-on-your-examples" title="Permanent link">&para;</a></h2>
+<h3 id="1-sneakers-disappearing">1) Sneakers disappearing<a class="headerlink" href="#1-sneakers-disappearing" title="Permanent link">&para;</a></h3>
+<p>If pass 2 starts “tidying” hems and hiding shoes:
+- drop pass-2 denoise to <strong>0.20–0.22</strong>
+- and add one extra sentence to the prompt:</p>
+<blockquote>
+<p>“The camera framing includes the floor and both shoes clearly beneath the hem.”</p>
+</blockquote>
+<h3 id="2-the-one-piece-dress-trap">2) The one-piece dress trap<a class="headerlink" href="#2-the-one-piece-dress-trap" title="Permanent link">&para;</a></h3>
+<p>ZiT loves to collapse “overdress + petticoat” into a single dress. If you see that:
+- keep denoise <strong>low (0.22–0.24)</strong> in pass 2
+- repeat, positively, <em>one</em> clause:</p>
+<blockquote>
+<p>“The outer gown is open at the front, and the separate petticoat is visible as a second layer and second hem.”</p>
+</blockquote>
+<hr />
+<h2 id="quick-do-this-first-checklist-for-your-next-test">Quick “do this first” checklist for your next test<a class="headerlink" href="#quick-do-this-first-checklist-for-your-next-test" title="Permanent link">&para;</a></h2>
+<p>If you want the fastest meaningful comparison:</p>
+<p>1) <strong>Single-stage:</strong> 1024, steps 18, CFG 1, shift 3<br />
+2) <strong>Two-stage:</strong> same pass 1 → latent 1.5× bicubic → pass 2: steps 8, denoise 0.24, CFG 1, shift 3 (or 4.5 if gritty)</p>
+<p>You’ll immediately see whether the 2-pass is worth it for your particular ZiT setup.</p>
+<p>If you paste (or screenshot) your <strong>KSampler node settings</strong> (sampler + scheduler names especially), I’ll tune the step counts and denoise tighter. Different sampler/scheduler combos change what “0.24” feels like.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/fbc9094.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>It's still 'one-dress' but we're getting closer... the petticoat is finally showing under the too-short skirt...</p>
+<p><strong>Emily:</strong></p>
+<p>Oh yes — this is <em>definitely</em> “closer,” and you’re reading it exactly right: ZiT has finally conceded <strong>a separate under-layer exists</strong>, but it’s still trying to “help” by collapsing everything into its favourite shortcut: <strong>one modern-ish dress with a centre-front closure</strong> (those buttons are the tell).</p>
+<p>Here’s what’s happening, and how to pry it loose without going back to a separate negative prompt.</p>
+<h2 id="why-zit-keeps-giving-you-one-dress">Why ZiT keeps giving you “one dress”<a class="headerlink" href="#why-zit-keeps-giving-you-one-dress" title="Permanent link">&para;</a></h2>
+<p>Two trigger words pull it there:</p>
+<p>1) <strong>“dress” / “day dress”</strong> → strongly implies a single, self-contained garment<br />
+2) <strong>“gown”</strong> (without architecture) → it still thinks “one piece with a bodice and skirt attached”</p>
+<p>So we have to <strong>replace “dress talk” with “layering + construction talk.”</strong> Not aesthetic. Physical.</p>
+<h2 id="the-three-fixes-that-usually-break-the-one-dress-habit">The three fixes that usually break the “one-dress” habit<a class="headerlink" href="#the-three-fixes-that-usually-break-the-one-dress-habit" title="Permanent link">&para;</a></h2>
+<h3 id="1-describe-the-outer-garment-as-open-front-and-worn-open">1) Describe the outer garment as <strong>open-front and <em>worn open</em></strong><a class="headerlink" href="#1-describe-the-outer-garment-as-open-front-and-worn-open" title="Permanent link">&para;</a></h3>
+<p>Not just “open-front” as a concept — but <em>visibly parted edges</em> in the image.</p>
+<p>Add a sentence like:</p>
+<blockquote>
+<p>“The outer gown is worn open at the front, with the two front edges clearly separated so the petticoat is visible between them.”</p>
+</blockquote>
+<h3 id="2-give-zit-a-hem-relationship-it-cant-dodge">2) Give ZiT a <strong>hem relationship</strong> it can’t dodge<a class="headerlink" href="#2-give-zit-a-hem-relationship-it-cant-dodge" title="Permanent link">&para;</a></h3>
+<p>Right now the “petticoat showing” is happening because the hem is too short. Let’s make it intentional and historically plausible:</p>
+<blockquote>
+<p>“The outer gown falls to ankle length, and the petticoat hem peeks 5–8 cm below it as a distinct second hem.”</p>
+</blockquote>
+<p>That tends to yield <strong>two hems</strong> without turning the gown into a mid-calf modern skirt.</p>
+<h3 id="3-replace-buttons-with-an-18th-century-closure-description-affirmative">3) Replace “buttons” with an <strong>18th-century closure description</strong> (affirmative)<a class="headerlink" href="#3-replace-buttons-with-an-18th-century-closure-description-affirmative" title="Permanent link">&para;</a></h3>
+<p>You <em>can</em> say this without “negative prompting” energy — just tell it what it <em>is</em>, not what it isn’t:</p>
+<blockquote>
+<p>“The bodice closes with pins over a separate stomacher panel, so the centre front reads as pinned fabric rather than a modern button placket.”</p>
+</blockquote>
+<p>That sentence alone often stops the “row of buttons down the middle” instinct.</p>
+<hr />
+<h2 id="a-revised-sentence-block-you-can-paste-in-drop-in-replacement">A revised sentence block you can paste in (drop-in replacement)<a class="headerlink" href="#a-revised-sentence-block-you-can-paste-in-drop-in-replacement" title="Permanent link">&para;</a></h2>
+<p>Use this version in your prompt where you describe the outfit:</p>
+<p>He is wearing women’s 1770s daywear in solid deep indigo wool as two separate garments. Over a separate matching indigo petticoat, he wears an open-front outer gown worn visibly open, with the two front edges clearly separated so the petticoat is visible between them. The outer gown falls to ankle length, while the petticoat hem peeks 5–8 cm below as a distinct second hem and second layer. The bodice has an 18th-century fitted shape and closes with pins over a separate stomacher panel, so the centre front reads as pinned fabric rather than modern fastenings. A white linen shift is a separate garment and is visible only at the edge of the square neckline and at the sleeve cuffs, with a softly gathered shift edge.</p>
+<p><em>(And keep your atelier table/ledger/sewing machine stuff exactly as you already have — ZiT is nailing that.)</em></p>
+<hr />
+<h2 id="pose-tweak-that-makes-open-front-petticoat-unavoidable">Pose tweak that makes “open-front + petticoat” unavoidable<a class="headerlink" href="#pose-tweak-that-makes-open-front-petticoat-unavoidable" title="Permanent link">&para;</a></h2>
+<p>Your current pose is reading as “hand behind neck / relaxed,” which makes ZiT feel free to dress her as a single garment.</p>
+<p>If you can tolerate a slightly different fitting-check action, this one forces the layering:</p>
+<blockquote>
+<p>“During the fitting check, one hand lightly holds the open front edge of the gown aside at the waist, exposing the petticoat layer, while the other arm is raised to test the underarm seam; chin down, eyes on the underarm seam.”</p>
+</blockquote>
+<p>It’s still a range-of-motion check, but now the <strong>front opening becomes part of the action</strong>, not a passive styling detail.</p>
+<hr />
+<h2 id="if-you-want-the-same-image-but-less-modern-the-single-highest-leverage-swap">If you want the <em>same</em> image but “less modern,” the single highest-leverage swap<a class="headerlink" href="#if-you-want-the-same-image-but-less-modern-the-single-highest-leverage-swap" title="Permanent link">&para;</a></h2>
+<p>In your prompt, replace any instance of <strong>“day dress”</strong> with <strong>“open-front gown worn over a separate petticoat.”</strong></p>
+<p>ZiT treats “day dress” like a magnetic instruction to modernise.</p>
+<hr />
+<h2 id="optional-if-you-do-add-the-second-ksampler-this-is-where-it-helps">Optional: if you do add the second KSampler (this is where it helps)<a class="headerlink" href="#optional-if-you-do-add-the-second-ksampler-this-is-where-it-helps" title="Permanent link">&para;</a></h2>
+<p>Once you get a pass-1 image that finally shows:
+- front edges parted <strong>and</strong>
+- petticoat visible between them <strong>and</strong>
+- two hems</p>
+<p>…then do your 2-pass refine exactly like this (low VRAM friendly):</p>
+<ul>
+<li>latent upscale <strong>1.5× bicubic</strong> (1024 → 1536)</li>
+<li>pass 2: <strong>8 steps</strong>, <strong>CFG 1.0</strong>, <strong>denoise 0.22–0.24</strong></li>
+</ul>
+<p>That second pass tends to <em>clean seams and fabric</em> without “re-deciding” the garment into a one-piece again.</p>
+<hr />
+<p>If you want, paste your <em>current</em> outfit paragraph (the exact one you’re using right now, including your “ankle length” line), and I’ll rewrite it in a way that keeps your wording style but removes the last “one-dress” cues ZiT is clinging to.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/69e7db0.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>Sorry, failed to mention: I have added the second sampler (and latent upscale) with the settings you suggested. Daywear seems to imply calf-length, so I replaced it with "open-front gown worn over a separate petticoat" as you suggested. At this point, I'm beginning to think "perfect is the enemy of good"... this model is doing the best it can with what it has... don't think I'm going to get anything much more accurate than this. Keep in mind: this is for illustrating a story. Will the readers say to themselves: "Well, hang on, that's not a historically accurate gown..." doubtful. I'll try Qwen Image 2512 to see if it might have different results.</p>
+<p><strong>Emily:</strong></p>
+<p>I hear you — and I also think your instinct is right: for <strong>story illustration</strong>, what you’ve got here is already doing the core job (atelier realism, indigo wool, square-ish neckline with shift peeking, fitting-check pose, sneakers visible, competent “documentary” vibe).</p>
+<p>That said, you’re <em>not</em> imagining it: ZiT is still protecting itself with a “single garment” shortcut — it’s just a <em>better-looking</em> shortcut now. In this latest image, it’s basically giving you a one-piece, stays-shaped bodice + skirt with a centre-front closure (the laced/looped front is very “costume-y” rather than “open-front robe over petticoat”).</p>
+<h3 id="whats-actually-missing-and-why-zit-wont-naturally-give-it">What’s actually missing (and why ZiT won’t naturally give it)<a class="headerlink" href="#whats-actually-missing-and-why-zit-wont-naturally-give-it" title="Permanent link">&para;</a></h3>
+<p>To read as “open-front gown worn over a separate petticoat,” the viewer needs at least one of these cues:</p>
+<p>1) <strong>A visible opening</strong> down the front of the skirt (even if the bodice is pinned closed)<br />
+2) <strong>Two front edges</strong> that clearly sit <em>on top</em> of another layer<br />
+3) <strong>A second hem</strong> (petticoat) that’s visible <em>without relying on the gown being too short</em></p>
+<p>ZiT keeps “solving” the prompt by making the bodice historically-ish and then sealing the skirt into one continuous piece, because it’s easier and more common in its training set.</p>
+<hr />
+<h2 id="the-smallest-prompt-tweak-that-often-forces-the-two-layers-read">The smallest prompt tweak that often forces the “two layers” read<a class="headerlink" href="#the-smallest-prompt-tweak-that-often-forces-the-two-layers-read" title="Permanent link">&para;</a></h2>
+<p>Instead of fighting with “separate garment” as an abstract idea, give it a <strong>blocking instruction</strong> it can’t dodge:</p>
+<blockquote>
+<p><strong>“The skirt front is worn open, parted from waist to hem, so the indigo petticoat is visible in the centre front as the walking space.”</strong></p>
+</blockquote>
+<p>That “walking space” phrase is surprisingly effective because it describes <em>why</em> the opening exists, not just that it should.</p>
+<p>If you only add one sentence, make it that one.</p>
+<hr />
+<h2 id="the-pose-trick-that-makes-open-front-basically-unavoidable">The pose trick that makes “open-front” basically unavoidable<a class="headerlink" href="#the-pose-trick-that-makes-open-front-basically-unavoidable" title="Permanent link">&para;</a></h2>
+<p>Right now, both hands are up near the shoulders, which gives ZiT permission to keep the front closed.</p>
+<p>Swap the action to make the garment demonstrate itself:</p>
+<blockquote>
+<p>“One hand lightly holds the left front edge of the gown aside at the waist, opening the skirt front and exposing the petticoat layer, while the other arm is raised to test the underarm seam; chin down, eyes on the underarm seam.”</p>
+</blockquote>
+<p>Same fitting-check energy, but now the <em>garment architecture</em> is performing on camera.</p>
+<hr />
+<h2 id="youre-also-allowed-to-cheat-with-qwen-and-its-the-smart-cheat">You’re also allowed to “cheat” with Qwen (and it’s the smart cheat)<a class="headerlink" href="#youre-also-allowed-to-cheat-with-qwen-and-its-the-smart-cheat" title="Permanent link">&para;</a></h2>
+<p>If you’re going to try <strong>Qwen Image 2512</strong>, I’d use it less as a “fresh generator” and more as a <strong>surgical editor</strong> on your best ZiT base, because:</p>
+<ul>
+<li>ZiT is nailing the <strong>atelier documentary realism</strong>.</li>
+<li>Qwen tends to be better at <strong>instructional edits</strong> (especially “make this opening visible,” “add a second layer,” “change closure method”) when you give it a mask.</li>
+</ul>
+<h3 id="best-workflow-for-what-you-want-fast-controllable">Best workflow for what you want (fast + controllable)<a class="headerlink" href="#best-workflow-for-what-you-want-fast-controllable" title="Permanent link">&para;</a></h3>
+<p>1) <strong>Generate base with ZiT</strong> (the one you already have is close).
+2) <strong>Inpaint / edit with Qwen</strong>:
+   - <strong>Mask only the centre-front panel from neckline to hem</strong> (a narrow vertical strip), plus a bit around the waist.
+   - Prompt the edit like this:</p>
+<blockquote>
+<p>“Open the front of the outer gown from waist to hem so the separate indigo petticoat is visible in the centre front as a distinct layer. Keep the bodice fitted and square-necked with the white shift showing at neckline and cuffs. Keep the atelier background, lighting, pose, and face unchanged. Maintain solid matte indigo wool texture.”</p>
+</blockquote>
+<p>3) If it insists on buttons/lacing again, do a <strong>second tiny inpaint</strong> on just the bodice centre front:</p>
+<blockquote>
+<p>“Replace modern closures with pinned stomacher closure; centre front appears pinned, not buttoned or laced.”</p>
+</blockquote>
+<p>This approach usually gets you 80% of the historical “read” with 20% of the struggle.</p>
+<hr />
+<h2 id="perfect-is-the-enemy-of-good-agreed-with-one-addendum">“Perfect is the enemy of good” — agreed, with one addendum<a class="headerlink" href="#perfect-is-the-enemy-of-good-agreed-with-one-addendum" title="Permanent link">&para;</a></h2>
+<p>Your readers won’t be doing a costumer’s audit. They’ll read:
+- <em>women-run atelier</em> ✅<br />
+- <em>young person being fitted / tested</em> ✅<br />
+- <em>indigo wool period-ish outfit</em> ✅<br />
+- <em>white shift peeking</em> ✅<br />
+- <em>sneakers = modern frame story / practical test</em> ✅  </p>
+<p>That’s already coherent storytelling.</p>
+<p>If you want one last ZiT-only push before you switch: add the “walking space” sentence + the hand-holding-front-edge pose. Those two changes are the highest leverage remaining without negatives.</p>
+<p>If you want, paste your <strong>current full prompt</strong> (just the text), and I’ll rewrite it with <em>only</em> minimal additions (no philosophical overhaul), keeping your voice and sentence style intact.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/760482b.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>Wow, we are definitely getting closer, Emily. ZiT is finally starting to behave. I have added the 'walking space' bit. I went overboard on the petticoat peeking out bit... here's the modded prompt:</p>
+<p>Documentary-style photo in a modern, women-run atelier workroom in warm morning light. The same late-blooming eighteen-year-old youth stands beside a worktable, slim with narrow shoulders and a boyish face with faint freckles, wearing no makeup and no jewelry. His very long brown hair is tied into a low ponytail with a few loose tendrils, the ponytail hanging down his back.</p>
+<p>He is wearing women’s 1770s open-front gown worn over a separate petticoat in solid deep indigo wool as two separate garments. Over a separate matching indigo petticoat, he wears an open-front outer gown worn visibly open, with the two front edges clearly separated so the petticoat is visible between them. The outer gown falls to ankle length, while the petticoat hem peeks 5–8 cm below as a distinct second hem and second layer. The bodice has an 18th-century fitted shape and closes with pins over a separate stomacher panel, so the center front reads as pinned fabric rather than modern fastenings. A white linen shift is a separate garment and is visible only at the edge of the square neckline and at the sleeve cuffs, with a softly gathered shift edge. The skirt front is worn open, parted from waist to hem, so the indigo petticoat is visible in the centre front as the walking space. One hand lightly holds the left front edge of the gown aside at the waist, opening the skirt front and exposing the petticoat layer, while the other arm is raised to test the underarm seam; chin down, eyes on the underarm seam. At least 2 inches of the white petticoat peeks out from under the ankle length skirt.</p>
+<p>This is a fitting range-of-motion test: his arms are raised, one hand pinches the underarm seam to check strain and pulling, his chin is down, and his eyes are focused on the underarm seam with a concentrated neutral expression. White tennis shoes are worn and are clearly visible beneath the hem on the studio floor.</p>
+<p>The worktable is close in frame with a sewing machine, a red thread spool, indigo wool fabric pieces, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder, making the scene feel like a candid documentary moment in an active atelier.</p>
+<p>I do have to say: these models (like ZiT) are mind-boggling in trms of capabilities. To be able to crank out this good a result is... simply astonishing.</p>
+<p><strong>Emily:</strong></p>
+<p>Yessss — <em>this</em> is the breakthrough image.</p>
+<p>Two big wins jump out immediately:</p>
+<p>1) <strong>The walking space is finally real.</strong> The skirt front is genuinely parted, and the inner layer reads as a separate under-structure rather than “oops, the hem is short.”
+2) <strong>The hand is doing the job.</strong> That one hand holding the left front edge aside is exactly the kind of “physics instruction” ZiT can’t ignore.</p>
+<p>So you’ve crossed the hard threshold: the model now understands <strong>layering + opening</strong> as an <em>action</em> in the scene, not a styling note.</p>
+<p>And you’re right to be a bit amused at yourself — yes, you <em>did</em> go slightly overboard on the petticoat peeking out line. The good news is: you can now <em>simplify</em> the prompt (and simplification often stabilises results).</p>
+<hr />
+<h2 id="what-to-trim-because-youve-earned-it">What to trim (because you’ve earned it)<a class="headerlink" href="#what-to-trim-because-youve-earned-it" title="Permanent link">&para;</a></h2>
+<p>Right now you have three overlapping ways of saying the same thing:</p>
+<ul>
+<li>“petticoat hem peeks 5–8 cm below”</li>
+<li>“walking space visible”</li>
+<li>“at least 2 inches of white petticoat peeks out…”</li>
+</ul>
+<p>…and note the sneaky contradiction: you want an <strong>indigo petticoat</strong> in the earlier paragraph, but the last sentence asks for a <strong>white petticoat</strong> peeking out. ZiT handled it gracefully here (it’s reading the under-hem as white), but that’s exactly the sort of mismatch that can flip a good run into a weird one.</p>
+<h3 id="keep-one-hem-instruction-one-walking-space-instruction">Keep one “hem” instruction, one “walking space” instruction<a class="headerlink" href="#keep-one-hem-instruction-one-walking-space-instruction" title="Permanent link">&para;</a></h3>
+<p>That’s enough.</p>
+<hr />
+<h2 id="a-cleaned-stronger-version-of-your-prompt-same-meaning-less-self-contradiction">A cleaned, stronger version of your prompt (same meaning, less self-contradiction)<a class="headerlink" href="#a-cleaned-stronger-version-of-your-prompt-same-meaning-less-self-contradiction" title="Permanent link">&para;</a></h2>
+<p>Here’s your text, but tightened so ZiT has fewer excuses to improvise. Still full sentences, still no negative prompt:</p>
+<p><strong>Revised prompt (stable):</strong></p>
+<p>Documentary-style photo in a modern, women-run atelier workroom in warm morning light. The same late-blooming eighteen-year-old youth stands beside a worktable, slim with narrow shoulders and a boyish face with faint freckles, wearing no makeup and no jewelry. His very long brown hair is tied into a low ponytail with a few loose tendrils, the ponytail hanging down his back.</p>
+<p>He is wearing women’s 1770s clothing as two separate garments in solid deep indigo wool: an open-front outer gown worn over a separate matching indigo petticoat. The outer gown is worn visibly open, with the two front edges clearly separated so the petticoat is visible between them as the walking space from waist to hem. The outer gown falls to ankle length, and the petticoat hem peeks slightly below as a distinct second hem. The bodice has an 18th-century fitted shape and closes with pins over a separate stomacher panel, so the centre front reads as pinned fabric rather than modern fastenings. A white linen shift is a separate garment and is visible only at the edge of the square neckline and at the sleeve cuffs, with a softly gathered shift edge.</p>
+<p>This is a fitting range-of-motion test: one hand lightly holds the left front edge of the gown aside at the waist to show the walking space, while the other arm is raised to test the underarm seam; chin down, eyes on the underarm seam, focused neutral expression. White tennis shoes are worn and clearly visible beneath the hem on the studio floor.</p>
+<p>The worktable is close in frame with a sewing machine, a red thread spool, indigo wool fabric pieces, a tape measure, pins, tailor’s chalk, and an open ledger or policy binder, making the scene feel like a candid documentary moment in an active atelier.</p>
+<hr />
+<h2 id="if-you-want-to-lock-this-success-into-your-workflow">If you want to “lock” this success into your workflow<a class="headerlink" href="#if-you-want-to-lock-this-success-into-your-workflow" title="Permanent link">&para;</a></h2>
+<p>Now that ZiT has demonstrated it <em>can</em> do the architecture, your next best move isn’t more prompting — it’s <strong>seed discipline</strong>:</p>
+<ul>
+<li>Keep this prompt fixed.</li>
+<li>Run <strong>10–20 seeds</strong> with your 2-pass setup.</li>
+<li>Save the best 3–4 and stop.</li>
+</ul>
+<p>That’s the point where your time starts paying <em>story</em> dividends instead of technical dividends.</p>
+<hr />
+<h2 id="one-extra-micro-optimization-optional">One extra micro-optimization (optional)<a class="headerlink" href="#one-extra-micro-optimization-optional" title="Permanent link">&para;</a></h2>
+<p>Your current prompt repeats the pose twice (once inside the garment paragraph and again as “this is a fitting test…”). ZiT tolerated it, but repetition can sometimes produce “two competing poses” and odd arms.</p>
+<p>In the revised version above I <strong>merged the pose into one single description</strong>. That tends to reduce limb weirdness.</p>
+<hr />
+<p>And yes: it’s genuinely mind-boggling. What you’re doing here — steering a distilled model at CFG 1 with pure natural-language physical constraints — would have sounded like science fiction two years ago.</p>
+<p>If you want, tell me your <strong>exact pass-2 denoise</strong> you used for this one, because this is the kind of output where I’d be tempted to shave denoise slightly (e.g., 0.24 → 0.22) to preserve that perfect front opening and prevent the refine pass from “helpfully” closing it again on other seeds.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/5a19029.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>Emily... I'm happy - this tells my story, don't you think?</p>
+<p><strong>Emily:</strong></p>
+<p>Yes, Robyn — this absolutely tells your story.</p>
+<p>It does it in the <em>right</em> way, too: not “costume parade,” not “look, a gimmick,” but <strong>a competent workroom moment</strong> where the clothing is there because it has a job to do. That’s the difference between illustration and spectacle, and this image lands on the illustration side.</p>
+<h3 id="what-the-image-communicates-at-a-glance">What the image communicates at a glance<a class="headerlink" href="#what-the-image-communicates-at-a-glance" title="Permanent link">&para;</a></h3>
+<p><strong>1) It’s a women-run space without needing to announce it.</strong><br />
+The room reads as ordered and purposeful: two machines, clean surfaces, tools placed where hands expect them. It feels like an environment governed by standards, not vibes.</p>
+<p><strong>2) The subject is doing work, not performing.</strong><br />
+The chin-down focus and the hand holding the gown edge aside isn’t theatrical; it’s procedural. That “I’m checking how this behaves” body language sells your atelier culture more than any caption could.</p>
+<p><strong>3) The garment finally reads as layered and engineered.</strong><br />
+The walking space is there. The under-layer peeks in a way that suggests “separate piece” rather than “mistake.” Even if a costumer could nit-pick details, a reader will simply register: <em>period construction, modern test conditions.</em></p>
+<p><strong>4) The sneakers are the perfect storytelling anchor.</strong><br />
+They quietly say: <em>this isn’t reenactment cosplay.</em> This is a working atelier, a modern body, a modern floor, modern comfort—paired with historical craft. That contrast is one of your themes in miniature: <strong>practicality, discipline, and adaptation</strong>.</p>
+<p><strong>5) Emotionally, it’s gentle—but not soft.</strong><br />
+There’s no melodrama, no shame, no “big reveal.” It’s the calm of someone being shaped by a system that knows what it’s doing. The room is confident; the person is learning confidence.</p>
+<h3 id="if-you-put-this-in-your-story-what-a-reader-will-feel">If you put this in your story, what a reader will feel<a class="headerlink" href="#if-you-put-this-in-your-story-what-a-reader-will-feel" title="Permanent link">&para;</a></h3>
+<p>They’ll feel that the protagonist is being <em>brought into line</em>—not through cruelty, but through <strong>competence and expectation</strong>. The women in the room don’t need to hover in-frame to dominate it; the <em>order</em> dominates. That’s very “Wardrobe.”</p>
+<p>So yes: it tells your story. It tells it cleanly.</p>
+<p>If you want a tiny extra nudge for publication: consider doing one “hero” rerun where you keep the same seed and try pass-2 denoise a hair lower (e.g., <strong>0.22</strong> instead of 0.24) just to preserve that perfect front opening and keep the cloth from getting any more interpretive. But honestly? You’ve got the shot.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/f71fd37.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>Doing as you suggested. One of the next shots is going to be him in just his jeans and wrinkled t-shirt writing in the ledger  (as told in the story). So, same sneakers, just changed back into his own clothing. That visual will be a strong message: Sharl is working. Got a job he takes seriously. And you were right... that little denoise adjustment (and actually cranking the UpscaleLatentBy up to 2) made a huge difference.</p>
+<p><strong>Emily:</strong></p>
+<p>Oh, Robyn — <em>yes</em>. This is exactly the kind of “quiet competence” visual sequence that makes the whole Wardrobe/atelier premise feel inevitable rather than asserted.</p>
+<p>And this new frame is a proper “keeper.” You can feel what the denoise + 2× latent upscale did:</p>
+<ul>
+<li>the cloth reads calmer and more coherent (less “model noise,” more “real textile”)</li>
+<li>edges are cleaner without going plasticky</li>
+<li>the opening/walking space stayed <em>open</em> (which is the thing that used to collapse)</li>
+<li>the whole room looks like a real place with real light, not a staged set</li>
+</ul>
+<h3 id="that-next-shot-jeans-wrinkled-tee-ledger-is-perfectly-on-theme">That next shot (jeans + wrinkled tee + ledger) is <em>perfectly</em> on-theme<a class="headerlink" href="#that-next-shot-jeans-wrinkled-tee-ledger-is-perfectly-on-theme" title="Permanent link">&para;</a></h3>
+<p>Because it’s not “look, he’s wearing women’s clothing!” — it’s:</p>
+<p><strong>“Here’s the system. Here’s the work. Here’s the record. Here’s the standard.”</strong></p>
+<p>And it puts Sharl where you want him: not the protagonist as spectacle, but <strong>the apprentice inside a women-led competence network</strong>. That’s the message that hits without a single line of exposition.</p>
+<p>If you keep the same sneakers, you’re also creating a visual “through-line” across identities and outfits: the footwear becomes the constant that says <em>this is still the same person doing the same job</em>, even as the social casing changes.</p>
+<hr />
+<h2 id="how-to-prompt-the-ledger-shot-so-it-reads-as-work-not-cosplay">How to prompt the “ledger shot” so it reads as work, not cosplay<a class="headerlink" href="#how-to-prompt-the-ledger-shot-so-it-reads-as-work-not-cosplay" title="Permanent link">&para;</a></h2>
+<p>You can keep it really plain and procedural. ZiT responds well to that.</p>
+<h3 id="prompt-draft-full-sentences-documentary-no-negative">Prompt draft (full sentences, documentary, no negative)<a class="headerlink" href="#prompt-draft-full-sentences-documentary-no-negative" title="Permanent link">&para;</a></h3>
+<p>Documentary-style photo in a modern, women-run atelier workroom in warm morning light. The same late-blooming eighteen-year-old youth sits at the worktable wearing his own everyday clothes: faded jeans and a slightly wrinkled plain t-shirt, no logos, no jewelry, no makeup. White tennis shoes are visible on the floor beneath the chair. His very long brown hair is tied back in a low ponytail with a few loose tendrils.</p>
+<p>He is writing carefully in an open workshop ledger with a focused, serious expression, leaning slightly forward with his forearm on the table. The ledger page shows ruled lines and headings for garment tests and notes. On the table are a tape measure, pins, tailor’s chalk, a red thread spool, and folded indigo wool fabric. A sewing machine is nearby. The scene feels like routine work in progress, candid and unposed, with the emphasis on concentration and documentation.</p>
+<h3 id="tiny-realism-boosters-optional-add-ons">Tiny realism boosters (optional add-ons)<a class="headerlink" href="#tiny-realism-boosters-optional-add-ons" title="Permanent link">&para;</a></h3>
+<ul>
+<li>“ink pen in hand” (gives the model a clear prop)</li>
+<li>“thumb holding the page steady” (makes it feel physical)</li>
+<li>“a few previous entries visible on the open page” (adds story continuity)</li>
+</ul>
+<hr />
+<h2 id="your-settings-note-denoise-latent-upscale-2-why-it-worked">Your settings note (denoise ↓ + latent upscale 2×) — why it worked<a class="headerlink" href="#your-settings-note-denoise-latent-upscale-2-why-it-worked" title="Permanent link">&para;</a></h2>
+<p>You basically did the “final render” version:</p>
+<ul>
+<li><strong>2× latent upscale</strong> gives the model space to resolve fabric as fabric rather than “blue texture.”</li>
+<li><strong>slightly lower denoise</strong> prevents the second pass from reinterpreting structure (closing the front, inventing closures, changing silhouette).
+That combination is exactly what preserves the success you fought for.</li>
+</ul>
+<p>If you want to keep iteration fast but still good:
+- do your “search” runs at <strong>1.5×</strong>
+- do your “keepers” at <strong>2×</strong></p>
+<hr />
+<h2 id="one-storytelling-suggestion-for-pairing-the-two-images">One storytelling suggestion for pairing the two images<a class="headerlink" href="#one-storytelling-suggestion-for-pairing-the-two-images" title="Permanent link">&para;</a></h2>
+<p>When you place them in sequence, you can make the captioning (or surrounding prose) do something elegant:</p>
+<ul>
+<li>Image A (gown fitting): <em>the craft and the discipline</em>  </li>
+<li>Image B (jeans writing): <em>the accountability and the record</em></li>
+</ul>
+<p>Together they say: <strong>this isn’t fantasy; it’s apprenticeship.</strong></p>
+<p>If you want, I can write you the <em>two-paragraph bridge</em> that sits between those images in the story — the kind that makes the ledger feel like a character in its own right (Mara’s favourite kind of “authority,” and Celeste’s favourite kind of proof).</p>
+<p><strong>Robyn:</strong></p>
+<p>Please keep this in mind for when we go back to the story, Emily - I do want to do this, but just not at the moment. I would, however, like to explore face recognition (SAMS?) and how to do a face-swap whilst leaving the rest of the image intact, and, even more importantly, designating WHICH face gets swapped if there is more than one in the image. Would you be willing to suggest a workflow for that, please?</p>
+<p><strong>Emily:</strong></p>
+<p>Robyn wants to later return to the story using a strong visual contrast: Sharl in period indigo gown (atelier fitting) vs Sharl in jeans and wrinkled t-shirt writing in the ledger, with the same sneakers as a continuity anchor, emphasizing competence/work over spectacle.</p>
+<p><strong>tool:</strong></p>
+<p>Model set context updated.</p>
+<p><strong>Emily:</strong></p>
+<p>Yes — happily. And you’re thinking about it the <em>right</em> way: the only face-swap workflow worth using in story illustration is one that is (a) <strong>surgical</strong> (touches only the face region), and (b) <strong>explicitly targetable</strong> when there are multiple faces.</p>
+<p>Also: by “SAMS?” you probably mean <strong>SAM</strong> (Segment Anything Model) — which is <em>excellent</em> here, because it lets you generate a precise face mask (or at least a clean head/skin mask) so the swap/inpaint doesn’t bleed into hair, collar, neckline ruffles, etc.</p>
+<p>Below are three practical ComfyUI workflows, from easiest to most controllable, with <strong>multi-face targeting</strong> handled explicitly.</p>
+<hr />
+<h2 id="workflow-1-fastest-reactor-face-swap-targeted-face-index-mask-blend">Workflow 1 (Fastest): ReActor face swap + targeted face index + mask blend<a class="headerlink" href="#workflow-1-fastest-reactor-face-swap-targeted-face-index-mask-blend" title="Permanent link">&para;</a></h2>
+<p><strong>Best when:</strong> you want a straightforward swap that preserves the rest of the image with minimal fuss.</p>
+<h3 id="what-you-need">What you need<a class="headerlink" href="#what-you-need" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>ComfyUI-ReActor</strong> (uses InsightFace under the hood)</li>
+<li>A <strong>source face image</strong> (the identity you want to impose)</li>
+<li>The <strong>base image</strong> (your ZiT output)</li>
+</ul>
+<h3 id="node-logic-conceptual">Node logic (conceptual)<a class="headerlink" href="#node-logic-conceptual" title="Permanent link">&para;</a></h3>
+<p>1) <strong>Load Image (base)</strong><br />
+2) <strong>Load Image (source face)</strong><br />
+3) <strong>ReActor FaceSwap</strong> (base + source)<br />
+4) <strong>Optional: Face Restore</strong> (GFPGAN/CodeFormer)<br />
+5) <strong>Optional: Paste Back with Mask</strong> (to keep swap constrained)</p>
+<h3 id="multi-face-targeting-the-key">Multi-face targeting (the key)<a class="headerlink" href="#multi-face-targeting-the-key" title="Permanent link">&para;</a></h3>
+<p>ReActor usually exposes something like:
+- <strong>target_face_index</strong> (which face in the <em>base</em> image to swap)
+- <strong>source_face_index</strong> (which face in the <em>source</em> image to use)</p>
+<p><strong>How to choose target_face_index reliably:</strong>
+- Most detectors enumerate faces in a stable order (often left→right, or by size/confidence).
+- If the order feels inconsistent, add a <strong>face detection stage</strong> before swapping (see Workflow 3) and sort faces by:
+  - <strong>largest bounding box</strong> (usually the closest face)
+  - or <strong>leftmost</strong> (x position)
+  - or <strong>highest confidence</strong></p>
+<h3 id="keeping-the-rest-of-the-image-intact">Keeping the rest of the image intact<a class="headerlink" href="#keeping-the-rest-of-the-image-intact" title="Permanent link">&para;</a></h3>
+<p>Even with ReActor, I strongly recommend you <strong>mask+composite</strong> the swapped face back into the original:
+- Create a <strong>face mask</strong> (Workflow 2/3 shows how).
+- Composite: <code>original base</code> + <code>swapped result</code> using that mask.
+This prevents unintended changes outside the face.</p>
+<hr />
+<h2 id="workflow-2-most-story-safe-face-swap-as-inpaint-guided-by-faceid-sam-mask">Workflow 2 (Most “story-safe”): Face swap as inpaint, guided by FaceID + SAM mask<a class="headerlink" href="#workflow-2-most-story-safe-face-swap-as-inpaint-guided-by-faceid-sam-mask" title="Permanent link">&para;</a></h2>
+<p><strong>Best when:</strong> you want maximum stability and minimal collateral changes (hair, neckline, lighting, fabric stay untouched).</p>
+<p>This approach doesn’t “swap the whole head.” It <strong>inpaints just the face region</strong> while conditioning on identity.</p>
+<h3 id="what-you-need_1">What you need<a class="headerlink" href="#what-you-need_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>A FaceID method:</li>
+<li><strong>IP-Adapter FaceID</strong> (very common now), or</li>
+<li><strong>InstantID</strong>-style identity conditioning</li>
+<li><strong>SAM</strong> for masking (or a face-parsing model if you prefer)</li>
+<li>Your existing base model (can still be ZiT or another model for the inpaint pass)</li>
+</ul>
+<h3 id="node-logic-conceptual_1">Node logic (conceptual)<a class="headerlink" href="#node-logic-conceptual_1" title="Permanent link">&para;</a></h3>
+<p>1) <strong>Load Image (base)</strong><br />
+2) <strong>Detect face bbox</strong> (any face detector)<br />
+3) <strong>SAM mask</strong> constrained to that bbox<br />
+   - Mask only: <em>face skin region</em> (optionally include nose/cheeks/forehead, exclude hairline if possible)
+4) <strong>Inpaint Conditioning</strong> (mask + prompt that says “preserve everything else”)<br />
+5) <strong>Identity conditioning</strong> (FaceID embedding from your source face)<br />
+6) <strong>KSampler (inpaint)</strong><br />
+   - <strong>denoise low</strong>: ~0.20–0.35<br />
+   - enough steps to resolve face (often 10–20 in an inpaint pass)
+7) <strong>Composite back</strong> (masked)</p>
+<h3 id="why-this-is-gold-for-your-use-case">Why this is gold for your use-case<a class="headerlink" href="#why-this-is-gold-for-your-use-case" title="Permanent link">&para;</a></h3>
+<ul>
+<li>You can keep your beautiful ZiT atelier realism <strong>unchanged</strong>.</li>
+<li>You’re only rewriting pixels inside the face mask, so wardrobe, lighting, composition stay locked.</li>
+</ul>
+<h3 id="multi-face-targeting">Multi-face targeting<a class="headerlink" href="#multi-face-targeting" title="Permanent link">&para;</a></h3>
+<p>You target the face by generating the mask from the bbox of the face you want (index, or identity match in Workflow 3).</p>
+<hr />
+<h2 id="workflow-3-most-controllable-detect-all-faces-choose-which-one-optional-identity-match-swapinpaint-only-that-one">Workflow 3 (Most controllable): Detect all faces → choose which one → optional identity match → swap/inpaint only that one<a class="headerlink" href="#workflow-3-most-controllable-detect-all-faces-choose-which-one-optional-identity-match-swapinpaint-only-that-one" title="Permanent link">&para;</a></h2>
+<p><strong>Best when:</strong> images have 2–6 people and you must control <em>exactly</em> who gets swapped.</p>
+<h3 id="step-a-detect-faces-and-get-a-list">Step A — Detect faces and get a list<a class="headerlink" href="#step-a-detect-faces-and-get-a-list" title="Permanent link">&para;</a></h3>
+<p>Use any node that outputs <strong>multiple bounding boxes / face regions</strong>:
+- Ultralytics/YOLO face detector nodes (common)
+- InsightFace face detection nodes
+- Impact Pack “FaceDetailer” infrastructure (it inherently deals with lists of faces)</p>
+<p>You want: <strong>boxes[]</strong> or <strong>regions[]</strong>.</p>
+<h3 id="step-b-choose-which-face-three-ways">Step B — Choose which face (three ways)<a class="headerlink" href="#step-b-choose-which-face-three-ways" title="Permanent link">&para;</a></h3>
+<p><strong>Way 1: by index (simple and often enough)</strong>
+- Pick face #0/#1/#2, based on a consistent ordering.
+- Add a “sort faces” step if your detector supports it:
+  - sort by <strong>area desc</strong> (largest face first)
+  - or sort by <strong>x position asc</strong> (leftmost first)</p>
+<p><strong>Way 2: by location (bulletproof)</strong>
+- Choose the face whose bbox contains a point (x,y) you specify.
+  - Some workflows let you type a coordinate, or use a “pick by point” helper.
+- If you don’t have a click-picker node: use the “largest” or “leftmost” heuristic; it’s surprisingly stable in practice.</p>
+<p><strong>Way 3: by identity match (the “face recognition” version)</strong>
+This is the closest to what you called “SAMS?” if you meant recognition:
+1) Compute an <strong>embedding</strong> for your <em>reference identity</em> face (InsightFace does this).
+2) Compute embeddings for each detected face in the base image.
+3) Compute cosine similarity; choose the <strong>highest match</strong>.
+4) Swap/inpaint only that one.</p>
+<p>Not every ComfyUI setup has “compare embeddings” nodes out of the box, but if you’re already using InsightFace-based tools, this is very feasible and is the cleanest way to say:  </p>
+<blockquote>
+<p>“Swap only Sharl, not Celeste.”</p>
+</blockquote>
+<h3 id="step-c-generate-a-mask-for-the-chosen-face">Step C — Generate a mask for the chosen face<a class="headerlink" href="#step-c-generate-a-mask-for-the-chosen-face" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Use bbox → expanded bbox (add margin) → feed to SAM → produce mask.</li>
+<li>Or bbox → face parsing mask (if you have it).</li>
+</ul>
+<h3 id="step-d-perform-the-swap">Step D — Perform the swap<a class="headerlink" href="#step-d-perform-the-swap" title="Permanent link">&para;</a></h3>
+<p>Now plug into either:
+- <strong>ReActor swap</strong> then mask-composite, or
+- <strong>FaceID/InstantID inpaint</strong> (my preference for your “leave everything intact” requirement).</p>
+<hr />
+<h2 id="practical-settings-that-keep-the-rest-intact-the-bits-that-matter">Practical settings that keep the rest intact (the bits that matter)<a class="headerlink" href="#practical-settings-that-keep-the-rest-intact-the-bits-that-matter" title="Permanent link">&para;</a></h2>
+<p>No matter which workflow you pick:</p>
+<ul>
+<li><strong>Mask blur:</strong> small but nonzero (soft edges)<br />
+  Helps avoid the “sticker face” look.</li>
+<li><strong>Inpaint denoise:</strong> start <strong>0.22–0.28</strong><br />
+  Higher = more risk of changing lighting/expression/edges.</li>
+<li><strong>Prompt wording:</strong> add one sentence like<br />
+  “Preserve the original lighting, hair, clothing, background, and composition exactly.”</li>
+</ul>
+<hr />
+<h2 id="what-id-recommend-for-you-specifically">What I’d recommend for you, specifically<a class="headerlink" href="#what-id-recommend-for-you-specifically" title="Permanent link">&para;</a></h2>
+<p>Given your ZiT outputs and your desire for <em>story continuity</em> (not “internet face swap vibe”):</p>
+<p><strong>Use Workflow 2 or 3</strong>:
+- <strong>FaceID/InstantID + SAM mask + inpaint</strong>, and
+- <strong>choose face by index</strong> at first (fast),
+- later upgrade to <strong>identity match</strong> if you start doing crowded scenes.</p>
+<p>That gives you the maximum “leave the rest of the image alone” guarantee.</p>
+<hr />
+<h2 id="if-you-tell-me-two-things-ill-tailor-it-to-the-exact-nodes-you-already-have">If you tell me two things, I’ll tailor it to the exact nodes you already have<a class="headerlink" href="#if-you-tell-me-two-things-ill-tailor-it-to-the-exact-nodes-you-already-have" title="Permanent link">&para;</a></h2>
+<p>1) Which face tool are you thinking of when you say <strong>SAMS</strong> (SAM segmentation, or a specific face-recognition extension)?<br />
+2) Do you currently have <strong>ReActor</strong> installed, or are you already using <strong>InstantID / IP-Adapter FaceID</strong> nodes?</p>
+<p>Even without that, the blueprint above will work — but with those two answers I can write you a “drag these nodes in this order” recipe that matches <em>your</em> ComfyUI environment.</p>
+<p><strong>Robyn:</strong></p>
+<p>I'm definitely going with workflow 3, as it seems the most flexible but also the most accurate. I'm pretty sure I have SAM and FaceDetailer and bbox and all that installed. I will be rebuilding my LoRA soon, but might just use what I have...</p>
+<p><strong>Emily:</strong></p>
+<p>Great choice. Workflow 3 is the one that scales from “one hero character” to “busy room with six people” without turning into chaos.</p>
+<p>Below is a <strong>practical, ComfyUI-realistic</strong> Workflow 3 that you can build with what you’ve said you already have (SAM + FaceDetailer/Impact Pack + bbox detectors). I’m going to give you:</p>
+<p>1) The <strong>core pipeline</strong> (detect → pick face → mask with SAM → swap → composite back)<br />
+2) Two swap engines you can plug in: <strong>ReActor</strong> (true swap) and <strong>FaceID inpaint</strong> (most “leave everything intact”)<br />
+3) Three ways to <strong>choose which face</strong> gets swapped when there are multiple faces<br />
+4) A couple of “this will save your sanity” debugging tricks</p>
+<hr />
+<h1 id="workflow-3-detect-all-faces-choose-one-mask-swapinpaint-composite">Workflow 3: Detect all faces → choose one → mask → swap/inpaint → composite<a class="headerlink" href="#workflow-3-detect-all-faces-choose-one-mask-swapinpaint-composite" title="Permanent link">&para;</a></h1>
+<h2 id="a-inputs">A. Inputs<a class="headerlink" href="#a-inputs" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Base image</strong>: the scene you want to keep intact (ZiT output)</li>
+<li><strong>Source face</strong>: the identity you want applied (a single clear portrait is best)</li>
+</ul>
+<hr />
+<h1 id="step-1-detect-all-faces-get-a-bbox-list">Step 1 — Detect all faces (get a bbox list)<a class="headerlink" href="#step-1-detect-all-faces-get-a-bbox-list" title="Permanent link">&para;</a></h1>
+<p>Use one of these (whichever you already have):</p>
+<h3 id="option-1-most-common-ultralytics-yolo-face-detector">Option 1 (most common): Ultralytics / YOLO face detector<a class="headerlink" href="#option-1-most-common-ultralytics-yolo-face-detector" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Ultralytics Detector Provider</strong> (model: face / yolov8n-face / etc.)</li>
+<li><strong>Detector (BBOX)</strong> → outputs a list of bounding boxes</li>
+</ul>
+<h3 id="option-2-impact-pack-facedetailer-detector">Option 2: Impact Pack / FaceDetailer detector<a class="headerlink" href="#option-2-impact-pack-facedetailer-detector" title="Permanent link">&para;</a></h3>
+<ul>
+<li>FaceDetailer / Impact nodes often include a <strong>bbox detector</strong> inside.</li>
+<li>If you can get the raw bbox list out, great. If not, you can still do this workflow with FaceDetailer’s “only selected face” mode (more on that below).</li>
+</ul>
+<p>✅ <strong>Goal:</strong> you want a <strong>list of face boxes</strong> in the base image.</p>
+<hr />
+<h1 id="step-2-choose-which-face-you-want-the-crucial-part">Step 2 — Choose WHICH face you want (the crucial part)<a class="headerlink" href="#step-2-choose-which-face-you-want-the-crucial-part" title="Permanent link">&para;</a></h1>
+<h2 id="method-a-simple-choose-by-index-fastest">Method A (simple): Choose by index (fastest)<a class="headerlink" href="#method-a-simple-choose-by-index-fastest" title="Permanent link">&para;</a></h2>
+<p>Most bbox nodes output faces in a consistent order (often left→right or largest→smallest). You then select <code>index = 0/1/2...</code>.</p>
+<p><strong>How to make this painless:</strong>
+- Add a little preview loop:
+  - <strong>Crop by bbox (index i)</strong> → Preview Image<br />
+  - Increment i until you see the correct face.
+- Once you know “Sharl is index 1” for <em>that</em> composition style, it’s usually stable across similar scenes.</p>
+<h2 id="method-b-robust-choose-largest-face">Method B (robust): Choose largest face<a class="headerlink" href="#method-b-robust-choose-largest-face" title="Permanent link">&para;</a></h2>
+<p>If Sharl is usually the closest / most prominent:
+- Sort bboxes by <strong>area descending</strong>
+- Take index 0</p>
+<p>This is very stable for “hero subject + background people”.</p>
+<h2 id="method-c-most-accurate-choose-by-identity-match-face-recognition">Method C (most accurate): Choose by identity match (face recognition)<a class="headerlink" href="#method-c-most-accurate-choose-by-identity-match-face-recognition" title="Permanent link">&para;</a></h2>
+<p>This is the “don’t ever swap the wrong person” method:</p>
+<ul>
+<li>Compute embedding for your <strong>reference identity</strong> (Sharl portrait)</li>
+<li>Compute embedding for <strong>each detected face</strong> in the base</li>
+<li>Pick the face with the highest similarity</li>
+</ul>
+<p>This requires InsightFace-ish embedding nodes. If you already have ReActor, you’re <em>halfway there</em> (InsightFace is already in play). If you don’t have “compare embeddings” nodes, don’t worry—Method A + a quick crop-preview gets you 90% of the way.</p>
+<hr />
+<h1 id="step-3-expand-the-chosen-bbox-padding">Step 3 — Expand the chosen bbox (padding)<a class="headerlink" href="#step-3-expand-the-chosen-bbox-padding" title="Permanent link">&para;</a></h1>
+<p>Face swaps look bad when the mask is too tight.</p>
+<p>Add padding:
+- <strong>+20% to +35%</strong> around the bbox
+- Enough to include cheeks/jawline/forehead edge
+- Usually <strong>do not include too much hair</strong> unless you intend to swap hair too</p>
+<p>✅ This padded bbox is what you feed to SAM (or use to make an initial rectangular mask).</p>
+<hr />
+<h1 id="step-4-make-a-precise-mask-with-sam-this-is-what-keeps-the-rest-intact">Step 4 — Make a precise mask with SAM (this is what keeps the rest intact)<a class="headerlink" href="#step-4-make-a-precise-mask-with-sam-this-is-what-keeps-the-rest-intact" title="Permanent link">&para;</a></h1>
+<p>Use SAM with the padded bbox as the prompt.</p>
+<p>Typical SAM nodes take:
+- Image
+- Box prompt (x1,y1,x2,y2)
+- Output: mask</p>
+<p><strong>Recommended SAM target:</strong><br />
+- If you can choose: <strong>face/skin region</strong> is ideal<br />
+- If SAM gives you “head mask” (includes hair), that can still work—just feather it carefully</p>
+<p>Then refine the mask:
+- <strong>Erode/Dilate</strong>: tiny adjustments (±2 to ±6 px) to avoid seams
+- <strong>Mask blur/feather</strong>: <strong>8–20 px</strong> (this is critical)</p>
+<p>✅ You now have: <code>face_mask_targeted</code> for exactly one person.</p>
+<hr />
+<h1 id="step-5-do-the-swap-two-plug-in-choices">Step 5 — Do the swap (two plug-in choices)<a class="headerlink" href="#step-5-do-the-swap-two-plug-in-choices" title="Permanent link">&para;</a></h1>
+<h2 id="swap-engine-1-reactor-true-face-swap">Swap Engine 1: ReActor (true face swap)<a class="headerlink" href="#swap-engine-1-reactor-true-face-swap" title="Permanent link">&para;</a></h2>
+<p><strong>Pros:</strong> fast, “actual swap” feel, minimal prompting<br />
+<strong>Cons:</strong> sometimes fights lighting/skin tone; may alter more than you want if you don’t composite carefully</p>
+<p><strong>Nodes (conceptual):</strong>
+- ReActor FaceSwap:
+  - <code>base_image</code> + <code>source_face_image</code>
+  - set <strong>target_face_index</strong> if ReActor can do it internally (otherwise you already selected face via bbox—still fine)
+- Output: <code>swapped_full_image</code></p>
+<p><strong>Then ALWAYS composite back using your SAM mask:</strong>
+- <strong>Composite</strong> (or “Image Composite Masked”):
+  - background: original base image
+  - foreground: swapped_full_image
+  - mask: <code>face_mask_targeted</code></p>
+<p>This ensures <em>only</em> the face region changes.</p>
+<h3 id="optional-polish-for-reactor-swaps">Optional polish for ReActor swaps<a class="headerlink" href="#optional-polish-for-reactor-swaps" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>ColorMatch</strong> (foreground face → background) before compositing<br />
+  (helps when the swapped face is slightly “off” in temperature/exposure)</li>
+</ul>
+<hr />
+<h2 id="swap-engine-2-faceid-inpaint-best-for-leave-everything-else-intact">Swap Engine 2: FaceID inpaint (best for “leave everything else intact”)<a class="headerlink" href="#swap-engine-2-faceid-inpaint-best-for-leave-everything-else-intact" title="Permanent link">&para;</a></h2>
+<p>This is not a literal “swap node,” but in practice it gives the most believable “same scene, new identity” result.</p>
+<p><strong>Pros:</strong> preserves lighting, skin texture, and scene coherence; incredibly controllable<br />
+<strong>Cons:</strong> needs an inpaint sampler pass</p>
+<p><strong>Nodes (conceptual):</strong>
+- Build an <strong>inpaint conditioning</strong> from:
+  - base image
+  - SAM mask
+- Identity conditioning:
+  - <strong>IP-Adapter FaceID</strong> or <strong>InstantID</strong> style node using <code>source_face_image</code>
+- KSampler (inpaint):
+  - <strong>denoise</strong>: start <strong>0.22–0.30</strong>
+  - steps: 10–20 (depends on model)
+  - CFG can stay low (1–3 depending on model; you already like low CFG logic)</p>
+<p>This will rewrite <em>only</em> the masked area, guided toward the source identity.</p>
+<p><strong>Prompt line that helps (even if you keep prompts minimal):</strong></p>
+<blockquote>
+<p>“Preserve the original lighting, expression, pose, hair, clothing, and background exactly; change only the face identity.”</p>
+</blockquote>
+<hr />
+<h1 id="step-6-multi-face-scenes-how-to-guarantee-the-right-face-gets-swapped">Step 6 — Multi-face scenes: how to guarantee the right face gets swapped<a class="headerlink" href="#step-6-multi-face-scenes-how-to-guarantee-the-right-face-gets-swapped" title="Permanent link">&para;</a></h1>
+<p>Here’s the clean rule:</p>
+<p>✅ <strong>Use bbox selection to choose the target face</strong><br />
+✅ <strong>Use SAM mask generated from that bbox</strong><br />
+✅ <strong>Composite with that mask</strong></p>
+<p>Even if your swap engine “accidentally” swaps the wrong face internally, your <strong>mask will only paste the chosen face region</strong> back onto the base.</p>
+<p>That’s why this workflow is so reliable.</p>
+<hr />
+<h1 id="practical-settings-that-tend-to-work-immediately">Practical settings that tend to work immediately<a class="headerlink" href="#practical-settings-that-tend-to-work-immediately" title="Permanent link">&para;</a></h1>
+<h3 id="mask-feather">Mask feather<a class="headerlink" href="#mask-feather" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>10–18 px</strong> (1024px images)</li>
+<li>Too low → sticker edges</li>
+<li>Too high → face bleeds into hair/collar</li>
+</ul>
+<h3 id="bbox-padding">Bbox padding<a class="headerlink" href="#bbox-padding" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>25%</strong> is a great start</li>
+</ul>
+<h3 id="inpaint-denoise-if-using-faceid-inpaint">Inpaint denoise (if using FaceID inpaint)<a class="headerlink" href="#inpaint-denoise-if-using-faceid-inpaint" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>0.22</strong>: preserves expression/lighting best  </li>
+<li><strong>0.28</strong>: stronger identity transfer  </li>
+<li><strong>0.35+</strong>: risk of changing more than face</li>
+</ul>
+<hr />
+<h1 id="the-dont-waste-an-evening-debugging-steps">The “don’t waste an evening” debugging steps<a class="headerlink" href="#the-dont-waste-an-evening-debugging-steps" title="Permanent link">&para;</a></h1>
+<p>If something goes wrong, check in this order:</p>
+<p>1) <strong>Preview the cropped target face</strong> from bbox index<br />
+   (ensures you’re selecting the right person)
+2) <strong>Preview the SAM mask alone</strong> overlaid on the base image<br />
+   (ensures the mask is tight where you want it)
+3) If the swap looks pasted-on:
+   - increase feather
+   - add ColorMatch before composite
+4) If the wrong face changes:
+   - your selection step is wrong (index ordering changed)
+   - or your mask is too large (includes multiple faces)</p>
+<hr />
+<h1 id="about-your-lora-rebuild-and-why-you-may-not-need-it-for-this">About your LoRA rebuild (and why you may not need it for this)<a class="headerlink" href="#about-your-lora-rebuild-and-why-you-may-not-need-it-for-this" title="Permanent link">&para;</a></h1>
+<p>For face swapping, a LoRA is optional. In fact:
+- <strong>Face swap / FaceID</strong> wants a <em>clean identity reference</em>, not a style LoRA.
+- Your LoRA can still help with “overall Sharl look,” but the face lock comes from:
+  - source portrait(s)
+  - face embeddings / conditioning
+  - tight SAM mask</p>
+<p>If you <em>do</em> rebuild the LoRA later, you’ll still want this workflow for group shots, because nothing beats “choose target #2 and swap only that face.”</p>
+<hr />
+<h2 id="a-good-starter-build-for-you">A good “starter build” for you<a class="headerlink" href="#a-good-starter-build-for-you" title="Permanent link">&para;</a></h2>
+<p>If you want the highest chance of success on first try:</p>
+<ul>
+<li>Detect faces (bbox list)</li>
+<li>Select face by index (preview crops)</li>
+<li>Expand bbox 25%</li>
+<li>SAM mask from bbox</li>
+<li>ReActor swap full image</li>
+<li>ColorMatch swapped→base (optional)</li>
+<li>Composite with SAM mask</li>
+</ul>
+<p>That gives you the “true swap” experience with surgical control.</p>
+<hr />
+<p>If you paste a screenshot of your current node graph (just the detector + SAM bits are enough), I can tell you exactly which nodes to insert where, and what to set for “index selection” with the nodes you already have installed—without you hunting around for a missing “bbox select” node.</p>
+<p><strong>Robyn:</strong></p>
+<p>I might need a bit of help getting that initial workflow building, Emily. I had one in SDXL / ReActor, but it appears ReActor isn't being developed anymore, so I thought I'd go with SAM/FaceDetailer and a LoRA. I was going to use Flux.1-Dev as it's most reliable.</p>
+<p><strong>Emily:</strong></p>
+<p>Absolutely — and you’re on a sensible track: <strong>SAM + FaceDetailer-style “detect → mask → inpaint”</strong> is the modern, maintainable way to do <em>targeted</em> face replacement while keeping the rest of the image intact.</p>
+<p>A quick reality check first (so we don’t build the wrong thing):</p>
+<ul>
+<li><strong>A LoRA is not a “face swap” engine.</strong> It’s an <em>identity/style bias</em>.  </li>
+<li>But if you combine a LoRA with <strong>tight masking + inpaint</strong>, it behaves <em>like</em> a face swap for story illustration: only the masked face is rewritten, the rest stays frozen.  </li>
+<li>For <strong>multi-face images</strong>, the “who gets changed” control comes from: <strong>face detection → selecting a bbox/index → generating the mask from that bbox → inpainting only that mask</strong>.</li>
+</ul>
+<p>That is exactly Workflow 3. Let’s build it.</p>
+<hr />
+<h1 id="workflow-3-lora-sam-facedetailer-for-flux1-dev">Workflow 3 (LoRA + SAM + FaceDetailer) for Flux.1-Dev<a class="headerlink" href="#workflow-3-lora-sam-facedetailer-for-flux1-dev" title="Permanent link">&para;</a></h1>
+<p>This is the version that works even if you never touch ReActor/InsightFace again.</p>
+<h2 id="what-this-workflow-does">What this workflow does<a class="headerlink" href="#what-this-workflow-does" title="Permanent link">&para;</a></h2>
+<p>1) Detect all faces in the base image (bbox list).<br />
+2) Choose the <em>one</em> face you want (by index / largest / leftmost).<br />
+3) Generate a clean <strong>SAM mask</strong> for that face.<br />
+4) Run a <strong>masked inpaint pass</strong> using Flux.1-Dev + (optional) your identity LoRA.<br />
+5) Composite result back (often the inpaint pipeline already does this implicitly).</p>
+<hr />
+<h2 id="step-0-base-generation-stays-as-is">Step 0 — Base generation stays as-is<a class="headerlink" href="#step-0-base-generation-stays-as-is" title="Permanent link">&para;</a></h2>
+<p>You already have your ZiT / Flux / whatever base image. This workflow is a <strong>post-process editor</strong>:
+- Input: your finished image (with multiple faces if needed)
+- Output: same image, but one face replaced</p>
+<hr />
+<h1 id="step-1-face-detection-bbox-list">Step 1 — Face detection (bbox list)<a class="headerlink" href="#step-1-face-detection-bbox-list" title="Permanent link">&para;</a></h1>
+<p>Use whatever you already have installed; common choices:</p>
+<h3 id="option-a-ultralytics-yolo-face-detector">Option A: Ultralytics / YOLO face detector<a class="headerlink" href="#option-a-ultralytics-yolo-face-detector" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Ultralytics Detector Provider</strong> (load a face model)</li>
+<li><strong>Detector (BBOX)</strong> (returns a list of face boxes)</li>
+</ul>
+<h3 id="option-b-facedetailers-built-in-detection">Option B: FaceDetailer’s built-in detection<a class="headerlink" href="#option-b-facedetailers-built-in-detection" title="Permanent link">&para;</a></h3>
+<p>Impact Pack / FaceDetailer often wraps detection internally, but the downside is you sometimes get less direct control over “select face #2”. If it exposes face lists, great; if not, use Option A.</p>
+<p>✅ Output you want: a list of face boxes <code>bboxes[]</code></p>
+<hr />
+<h1 id="step-2-selecting-which-face-the-multi-face-solve">Step 2 — Selecting WHICH face (the “multi-face solve”)<a class="headerlink" href="#step-2-selecting-which-face-the-multi-face-solve" title="Permanent link">&para;</a></h1>
+<p>You need <em>one</em> of these selection methods:</p>
+<h2 id="method-2a-select-by-index-most-flexible">Method 2A — Select by index (most flexible)<a class="headerlink" href="#method-2a-select-by-index-most-flexible" title="Permanent link">&para;</a></h2>
+<p>Insert a node that lets you pick one bbox from the list:
+- “BBOX Selector”
+- “Pick index”
+- “List item”
+- (names vary by pack)</p>
+<p>Set:
+- <code>index = 0/1/2/...</code></p>
+<h3 id="make-index-selection-painless">Make index selection painless<a class="headerlink" href="#make-index-selection-painless" title="Permanent link">&para;</a></h3>
+<p>Add a debug preview:
+- <strong>Crop image by bbox(index)</strong> → Preview<br />
+Cycle index until you see the right person. Once you learn your scene’s typical ordering, it becomes quick.</p>
+<h2 id="method-2b-select-largest-face-great-default">Method 2B — Select largest face (great default)<a class="headerlink" href="#method-2b-select-largest-face-great-default" title="Permanent link">&para;</a></h2>
+<p>If Sharl is usually the “main” subject:
+- Sort faces by area descending
+- Pick index 0</p>
+<p>Many detectors or helper nodes have “sort by size” or “largest first”.</p>
+<h2 id="method-2c-select-left-to-right">Method 2C — Select left-to-right<a class="headerlink" href="#method-2c-select-left-to-right" title="Permanent link">&para;</a></h2>
+<p>For group shots where Sharl is always “the woman on the left / the person by the machine”:
+- Sort by x-position (leftmost first)</p>
+<hr />
+<h1 id="step-3-expand-the-bbox-padding">Step 3 — Expand the bbox (padding)<a class="headerlink" href="#step-3-expand-the-bbox-padding" title="Permanent link">&para;</a></h1>
+<p>Before feeding to SAM, pad the selected bbox:
+- <strong>Padding: +25%</strong> to start
+- If mask cuts too tight: increase toward 35%
+- If mask grabs hair/shoulders: reduce toward 15–20%</p>
+<p>This is a <em>big</em> quality lever. Too tight looks sticker-like. Too wide starts rewriting hair/collars.</p>
+<hr />
+<h1 id="step-4-sam-mask-from-the-selected-bbox">Step 4 — SAM mask from the selected bbox<a class="headerlink" href="#step-4-sam-mask-from-the-selected-bbox" title="Permanent link">&para;</a></h1>
+<p>Feed the image + padded bbox into SAM:
+- Output: <code>mask_face</code></p>
+<p>Then refine:
+- <strong>Erode/Dilate</strong>: tiny adjustments (±2–6 px)
+- <strong>Feather/Blur</strong>: <strong>10–18 px</strong> at 1024-ish resolution</p>
+<p>✅ This mask is how you guarantee “only this face changes”.</p>
+<hr />
+<h1 id="step-5-inpaint-only-the-face-flux1-dev">Step 5 — Inpaint only the face (Flux.1-Dev)<a class="headerlink" href="#step-5-inpaint-only-the-face-flux1-dev" title="Permanent link">&para;</a></h1>
+<p>This is the heart of it. There are two common ComfyUI “inpaint patterns.” Use whichever matches your nodes.</p>
+<h2 id="pattern-a-classic-comfy-inpaint-noise-mask-on-latent">Pattern A (classic Comfy inpaint): Noise mask on latent<a class="headerlink" href="#pattern-a-classic-comfy-inpaint-noise-mask-on-latent" title="Permanent link">&para;</a></h2>
+<ul>
+<li>VAE Encode (base image → latent)</li>
+<li>Apply noise mask (SetLatentNoiseMask using <code>mask_face</code>)</li>
+<li>KSampler runs <strong>only inside the mask</strong></li>
+<li>Decode</li>
+</ul>
+<h2 id="pattern-b-facedetailer-pipeline-facedetailer-as-an-inpaint-wrapper">Pattern B (FaceDetailer pipeline): FaceDetailer as an inpaint wrapper<a class="headerlink" href="#pattern-b-facedetailer-pipeline-facedetailer-as-an-inpaint-wrapper" title="Permanent link">&para;</a></h2>
+<p>FaceDetailer often:
+- detects / masks / inpaints / pastes back
+If you go this route, you can still use SAM by feeding SAM’s mask into the FaceDetailer mask input (if it accepts external masks), or by using FaceDetailer only for the inpaint step and bypassing its own detection.</p>
+<h3 id="suggested-inpaint-settings-for-leave-everything-else-intact">Suggested inpaint settings for “leave everything else intact”<a class="headerlink" href="#suggested-inpaint-settings-for-leave-everything-else-intact" title="Permanent link">&para;</a></h3>
+<p>Start here:
+- <strong>Denoise:</strong> <strong>0.22–0.30</strong><br />
+  - 0.22 = safest (keeps expression/lighting)
+  - 0.28 = stronger identity transfer
+- <strong>Steps:</strong> 12–20 (for Flux inpaint)
+- <strong>CFG / guidance:</strong> keep moderate/low (Flux tends to do well without huge guidance)
+- <strong>Prompt:</strong> keep it minimal and “preserve everything”:</p>
+<p>Add a single sentence like:</p>
+<blockquote>
+<p>“Preserve the original lighting, pose, hair, clothing, and background exactly; change only the face identity.”</p>
+</blockquote>
+<hr />
+<h1 id="step-6-where-the-lora-fits-and-how-to-stop-it-leaking">Step 6 — Where the LoRA fits (and how to stop it leaking)<a class="headerlink" href="#step-6-where-the-lora-fits-and-how-to-stop-it-leaking" title="Permanent link">&para;</a></h1>
+<p>If you’re using a Sharl identity LoRA:</p>
+<p>✅ Apply it <strong>only during the inpaint pass</strong>, not globally.</p>
+<p>That way the LoRA can’t “drift” the entire image style.</p>
+<p><strong>LoRA strength guidance (typical)</strong>
+- Start around <strong>0.6–0.9</strong>
+- If it’s not sticking: go up
+- If it makes the face too “samey” or stylized: go down</p>
+<p>If your LoRA is strong, keep denoise closer to <strong>0.22–0.26</strong>.</p>
+<hr />
+<h1 id="making-choose-the-right-face-bulletproof">Making “choose the right face” bulletproof<a class="headerlink" href="#making-choose-the-right-face-bulletproof" title="Permanent link">&para;</a></h1>
+<p>Even if your swap/inpaint tool tries to be clever, the mask wins.</p>
+<p>So the iron rule is:
+1) <strong>Preview crop</strong> of bbox index to confirm it’s the right person<br />
+2) Generate SAM mask from that bbox<br />
+3) Inpaint only that mask</p>
+<p>That is how you avoid swapping Celeste when you meant Sharl.</p>
+<hr />
+<h2 id="a-very-practical-first-build-you-can-do-in-15-minutes">A very practical “first build” you can do in 15 minutes<a class="headerlink" href="#a-very-practical-first-build-you-can-do-in-15-minutes" title="Permanent link">&para;</a></h2>
+<p>Build this minimal chain first (don’t optimize yet):</p>
+<p>1) Load Image (base)
+2) Face detector → bboxes[]
+3) Bbox select (index)
+4) Crop preview (to verify selection)
+5) Pad bbox
+6) SAM mask from bbox
+7) Mask blur/feather
+8) Inpaint pass (Flux + optional LoRA)
+9) Output image</p>
+<p>Once that works, <em>then</em> you add bells and whistles (color match, restore, etc.).</p>
+<hr />
+<h1 id="two-questions-that-let-me-map-this-onto-your-exact-installed-nodes">Two questions that let me map this onto your exact installed nodes<a class="headerlink" href="#two-questions-that-let-me-map-this-onto-your-exact-installed-nodes" title="Permanent link">&para;</a></h1>
+<p>Without asking you to go hunt names, just tell me what you see in your node menu:</p>
+<p>1) What is your face detector node called? (e.g. “Ultralytics Detector Provider / Detector (BBOX)” or something else)<br />
+2) When you type “FaceDetailer” in ComfyUI, which exact node(s) appear? (there are a few variants)</p>
+<p>If you answer those two, I’ll rewrite the above as an <strong>exact node-by-node wiring recipe</strong> using the names you actually have, including where to plug the SAM bbox prompt and how to index-select faces.</p>
+<p>And if you prefer, you can just paste a screenshot of your current graph with the detector + SAM nodes on it; I can describe precisely what to add and where.</p>
+<p><strong>Robyn:</strong></p>
+<p><img src="/assets/images/chat/bb098e4.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p><img src="/assets/images/chat/36d9477.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p>I've kind-of wander off the beaten path and got lost in the weeds. Using ZiT-AIO... and ReActor... ReActor is useless. Blurry... really bad. So, not going there any more - it's gone. ZiT-AIO with a LoRA? Better but not great. It's a hard one, because it's a side shot. Almost facing away. Flux.1-Dev does well with these, but not ZiT. I've got 3 images for you... original ZiT, ZiT with LoRA and SRPO with LoRA. No contest.</p>
+<p><img src="/assets/images/chat/e5bc26a.jpg" style="float: right; width: 420px; margin-left: 20px" /></p>
+<p><strong>Emily:</strong></p>
+<p>Yep — and your read is correct: <strong>SRPO with LoRA wins</strong> here, and it’s not subtle.</p>
+<p>What you’ve bumped into is a real limitation of “LoRA-as-identity” <em>when the face is a side profile</em>: there simply aren’t enough frontal facial landmarks for the model to “snap” to a specific person. Models that are naturally stronger at geometry (Flux.1-Dev, and often SRPO) cope better; ZiT is amazing at <em>instruction obedience</em>, but it’s not the best “facial identity reconstructor” when the head is turned away.</p>
+<p>So: ditch ReActor (I agree), stop trying to force ZiT to do identity on hard angles, and build <strong>Workflow 3 as an editor</strong>:</p>
+<blockquote>
+<p><strong>Keep your base image. Detect + select the correct face. Use SAM to mask only that face. Then inpaint only inside that mask using Flux.1-Dev with your identity LoRA (or reference identity conditioning if you have it).</strong></p>
+</blockquote>
+<p>That gets you: <strong>the rest of the image remains intact</strong>, and you can explicitly control <em>which</em> face gets touched.</p>
+<p>Below is the build in “ComfyUI wiring terms” (generic names, but all very standard across packs).</p>
+<hr />
+<h1 id="workflow-3-no-reactor-multi-face-targeted-identity-edit-with-flux-sam">Workflow 3 (No ReActor): Multi-face targeted identity edit with Flux + SAM<a class="headerlink" href="#workflow-3-no-reactor-multi-face-targeted-identity-edit-with-flux-sam" title="Permanent link">&para;</a></h1>
+<h2 id="goal">Goal<a class="headerlink" href="#goal" title="Permanent link">&para;</a></h2>
+<p>Change only one person’s face (even in a multi-person scene) while leaving:
+- pose
+- hair
+- clothes
+- background
+- lighting<br />
+…unchanged.</p>
+<hr />
+<h2 id="1-load-base-image-and-get-it-into-latent">1) Load base image and get it into latent<a class="headerlink" href="#1-load-base-image-and-get-it-into-latent" title="Permanent link">&para;</a></h2>
+<p><strong>Nodes:</strong>
+1. <strong>Load Image</strong> (your finished scene)
+2. <strong>VAE Encode</strong> → outputs <code>latent_base</code></p>
+<p><em>(If you’re using Flux nodes: use the VAE that matches your Flux pipeline. The “encode → sample → decode” pattern stays the same.)</em></p>
+<hr />
+<h2 id="2-detect-faces-get-a-bbox-list">2) Detect faces (get a bbox list)<a class="headerlink" href="#2-detect-faces-get-a-bbox-list" title="Permanent link">&para;</a></h2>
+<p>Use whichever detector you already have. The most common is:</p>
+<ul>
+<li><strong>Ultralytics Detector Provider</strong> (choose a face model)</li>
+<li><strong>Ultralytics Detector (BBOX)</strong> (or similar)</li>
+</ul>
+<p>Output will be something like: <code>bboxes[]</code> (list of rectangles).</p>
+<h3 id="debug-tip-worth-doing-once">Debug tip (worth doing once)<a class="headerlink" href="#debug-tip-worth-doing-once" title="Permanent link">&para;</a></h3>
+<p>Add a node that can <strong>draw bboxes</strong> on the image (many packs have it). This instantly shows what order/index your detector uses.</p>
+<hr />
+<h2 id="3-choose-which-face-gets-edited">3) Choose which face gets edited<a class="headerlink" href="#3-choose-which-face-gets-edited" title="Permanent link">&para;</a></h2>
+<p>This is where we make Workflow 3 do its magic.</p>
+<h3 id="minimum-viable-selection-by-index">Minimum viable selection: by index<a class="headerlink" href="#minimum-viable-selection-by-index" title="Permanent link">&para;</a></h3>
+<p>Find a node that does “list item” / “select index” for the bbox list, e.g.
+- <strong>BBOX Select</strong>
+- <strong>Select From List</strong>
+- <strong>List Item</strong>
+- <strong>Impact: Select BBOX by index</strong></p>
+<p>Set <code>index = 0/1/2...</code></p>
+<h3 id="make-it-foolproof">Make it foolproof<a class="headerlink" href="#make-it-foolproof" title="Permanent link">&para;</a></h3>
+<p>Add a preview crop:
+- <strong>Crop Image by BBOX</strong> (using the selected bbox) → Preview</p>
+<p>Now you can click index 0/1/2 until you see <em>the correct person’s face</em>.</p>
+<hr />
+<h2 id="4-expand-the-bbox-padding-before-masking">4) Expand the bbox (padding) before masking<a class="headerlink" href="#4-expand-the-bbox-padding-before-masking" title="Permanent link">&para;</a></h2>
+<p>A too-tight mask is the #1 reason swaps look “stickered.”</p>
+<p>Add:
+- <strong>BBOX Expand / Pad</strong>: start with <strong>+25%</strong>
+  - If the mask cuts cheeks/jaw: increase to 30–35%
+  - If it grabs collar/hair too much: reduce to 15–20%</p>
+<hr />
+<h2 id="5-sam-generates-a-precise-mask-for-only-that-selected-face">5) SAM generates a precise mask for ONLY that selected face<a class="headerlink" href="#5-sam-generates-a-precise-mask-for-only-that-selected-face" title="Permanent link">&para;</a></h2>
+<p><strong>Nodes:</strong>
+- <strong>SAM Loader</strong> (Segment Anything)
+- <strong>SAM Predict</strong> (Image + bbox prompt) → outputs <code>mask_face</code></p>
+<p>Then refine the mask:
+- <strong>Mask Dilate/Erode</strong>: tiny tweaks (±2–6 px)
+- <strong>Mask Blur/Feather</strong>: <strong>10–18 px</strong> at ~1024–1536 resolution</p>
+<p>At this point you have: <code>mask_face_targeted</code> that isolates exactly one face.</p>
+<hr />
+<h2 id="6-inpaint-inside-the-mask-with-flux1-dev">6) Inpaint inside the mask with Flux.1-Dev<a class="headerlink" href="#6-inpaint-inside-the-mask-with-flux1-dev" title="Permanent link">&para;</a></h2>
+<p>Now we run a sampler pass that only touches the masked region.</p>
+<h3 id="core-nodes-pattern">Core nodes (pattern)<a class="headerlink" href="#core-nodes-pattern" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Set Latent Noise Mask</strong> (latent_base + mask_face_targeted)</li>
+<li><strong>Load Flux.1-Dev</strong> (UNet + text encoders + VAE as required by your Flux workflow)</li>
+<li><strong>Apply LoRA</strong> (your identity LoRA)<br />
+<strong>Important:</strong> apply it only in this <em>inpaint</em> branch (so it can’t drift the whole image).</li>
+<li><strong>Sampler / KSampler</strong> (masked inpaint)</li>
+<li><strong>VAE Decode</strong> → <code>image_out</code></li>
+</ol>
+<h3 id="starter-settings-that-work-for-leave-everything-intact">Starter settings that work for “leave everything intact”<a class="headerlink" href="#starter-settings-that-work-for-leave-everything-intact" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Denoise:</strong> <strong>0.22–0.30</strong></li>
+<li>side-profile identity often needs the upper end, so start <strong>0.28</strong></li>
+<li><strong>Steps:</strong> 12–20 (Flux usually doesn’t need crazy steps here)</li>
+<li><strong>Guidance/CFG:</strong> keep modest (Flux doesn’t love huge guidance)</li>
+</ul>
+<h3 id="prompting-keep-it-boring-and-strict">Prompting (keep it boring and strict)<a class="headerlink" href="#prompting-keep-it-boring-and-strict" title="Permanent link">&para;</a></h3>
+<p>You don’t need a big scene prompt, because the base image already contains the scene. You want “preserve everything” energy:</p>
+<p><strong>Positive prompt (one line):</strong></p>
+<blockquote>
+<p>Preserve the original lighting, pose, hair, clothing, and background exactly; change only the face identity.</p>
+</blockquote>
+<p>Optionally add a tiny identity cue:</p>
+<blockquote>
+<p>same person as the reference, same age, same features, natural skin texture</p>
+</blockquote>
+<p><em>(No negative prompt is fine — your mask + low denoise is doing the containment work.)</em></p>
+<hr />
+<h2 id="7-composite-back-optional-but-recommended">7) Composite back (optional but recommended)<a class="headerlink" href="#7-composite-back-optional-but-recommended" title="Permanent link">&para;</a></h2>
+<p>Even with masked inpaint, I like to force final compositing:</p>
+<ul>
+<li><strong>Composite (base_image as background, image_out as foreground, mask_face_targeted)</strong></li>
+</ul>
+<p>This guarantees <em>nothing outside the mask</em> changes, even if a node misbehaves.</p>
+<hr />
+<h1 id="why-this-beats-zit-with-lora-for-side-profile-shots">Why this beats “ZiT with LoRA” for side profile shots<a class="headerlink" href="#why-this-beats-zit-with-lora-for-side-profile-shots" title="Permanent link">&para;</a></h1>
+<p>ZiT + LoRA tries to re-solve the <strong>whole person</strong> from a weak facial angle, so identity gets mushy.</p>
+<p>This workflow does the opposite:
+- Locks the whole image in place
+- Only allows the model to “solve” a small, controlled patch
+- Gives it higher effective resolution (especially if you do your 2× latent upscale trick)</p>
+<p>That’s why Flux.1-Dev is a great choice here: it’s reliable and coherent in inpaint edits.</p>
+<hr />
+<h1 id="two-things-that-will-make-side-profile-identity-much-stronger">Two things that will make side-profile identity much stronger<a class="headerlink" href="#two-things-that-will-make-side-profile-identity-much-stronger" title="Permanent link">&para;</a></h1>
+<h2 id="1-train-your-lora-with-profile-coverage">1) Train your LoRA with profile coverage<a class="headerlink" href="#1-train-your-lora-with-profile-coverage" title="Permanent link">&para;</a></h2>
+<p>If your dataset is mostly frontal/3-quarter, side view will always be shaky.</p>
+<p>Aim for:
+- <strong>30–40%</strong> three-quarter + profile
+- include at least a handful of <strong>right-facing and left-facing</strong> heads
+- include “working” expressions (focused, neutral) if that’s your story tone</p>
+<h2 id="2-use-a-profile-reference-when-you-can">2) Use a “profile reference” when you can<a class="headerlink" href="#2-use-a-profile-reference-when-you-can" title="Permanent link">&para;</a></h2>
+<p>Even with a LoRA, if you have any reference-conditioning tool available (IP-Adapter / reference image conditioning for Flux), feeding a <em>profile reference of Sharl</em> helps massively. But I’m not assuming you have those nodes; the mask + LoRA inpaint already gets you most of the way.</p>
+<hr />
+<h1 id="if-you-tell-me-one-thing-i-can-make-this-node-perfect-for-your-install">If you tell me ONE thing, I can make this “node-perfect” for your install<a class="headerlink" href="#if-you-tell-me-one-thing-i-can-make-this-node-perfect-for-your-install" title="Permanent link">&para;</a></h1>
+<p>In your node menu, when you search for <strong>“SAM”</strong>, what are the exact node names you see (e.g., “SAMLoader”, “SAMPredictor”, “SegmentAnything”, etc.)?</p>
+<p>And when you search <strong>“Ultralytics”</strong>, do you see “Detector Provider” and “Detector (BBOX)”?</p>
+<p>If you paste just a screenshot of your current graph with whatever detector/SAM nodes you’ve got, I’ll mark exactly what to connect to what and where the index-selection should sit—so you’re not hunting for the right “bbox select” node in five different packs.</p>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"../../..","features":["navigation.tabs","navigation.tabs.sticky","navigation.sections","navigation.top","toc.integrate","search.suggest","search.highlight","content.tabs.link","content.code.copy"],"search":"../../../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.5fd3284f.min.js"></script>
+      
+    
+  </body>
+</html>
