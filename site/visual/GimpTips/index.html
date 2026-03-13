@@ -1,0 +1,2937 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://art.tightbytes.com/visual/GimpTips/">
+      
+      
+        <link rel="prev" href="../FluxGym/">
+      
+      
+        <link rel="next" href="../QwenPro/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="zensical-0.0.25">
+    
+    
+      
+        <title>GIMP Tips - Celeste's Girl</title>
+      
+    
+    
+      
+        
+      
+      <link rel="stylesheet" href="../../assets/stylesheets/classic/main.d9d44b50.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/classic/palette.7dc9a0ad.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/custom.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer" aria-label="Navigation"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#gimp-tips" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Celeste&#x27;s Girl" class="md-header__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Navigation">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Celeste's Girl
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              GIMP Tips
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="red"  aria-label="Switch to Dark Mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to Dark Mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="white"  aria-label="Switch to Light Mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to Light Mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
+</div>
+      
+    
+    <div class="md-header__source">
+      
+    </div>
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Charlotte/" class="md-tabs__link">
+          
+  
+  Charlotte
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Dev/" class="md-tabs__link">
+          
+  
+  Dev
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../blogs/" class="md-tabs__link">
+          
+  
+  Blogs
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  Visual Art
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../music/" class="md-tabs__link">
+          
+  
+  Music
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Emily/" class="md-tabs__link">
+          
+  
+  Emily
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Celeste&#x27;s Girl" class="md-nav__button md-logo" aria-label="Celeste's Girl" data-md-component="logo">
+      
+  <img src="../../assets/images/logo.png" alt="Celeste's Girl">
+
+    </a>
+    Celeste's Girl
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Charlotte
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Charlotte
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About Celeste and Charli
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/CG-Play-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Celeste's Girl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/Aa-Structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aa- Structure
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/Ab-Emotions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ab-- Emotions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/CanonBible/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canon Bible 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene01e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene01r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene01
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene02e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene02r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene02
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene03e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene03r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene03
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene04e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene04r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene04
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene05e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene05r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene05
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene06e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene06
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene06r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene06
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene07e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-Scene07
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene07r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-Scene07
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene00e/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily-SceneTe
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Charlotte/B2Scene00r/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Robyn-SceneTr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dev
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dev
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Site Tech
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/ai-Illust/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI-Illustrious
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/aiModels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Imaging Models
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/Banners/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Banners and Stuff
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/Careful/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Careful Ideas Now
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/Comfyui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI Guidance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/DomXfer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Domain Transfer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/General/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    General Queries
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dev/Prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Image Prompts
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blogs
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blogs
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2509/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Sep25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2510/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Oct25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2511/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Nov25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2512/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Dec25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2601/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Jan26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blogs/Blog2602/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog Feb26
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Visual Art
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Visual Art
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Art &amp; Video
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Person2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2nd Person
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Emilyai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI & Emily
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../BBoxSEGS/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    BBox- SEGS
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Comfyui/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ComfyUI 💋
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../FluxGym/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    FluxGym 👭
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GIMP- Tips
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="././" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    GIMP- Tips
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On this page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Overview">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pixel-retouch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pixel Retouch
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comfyui-inpaint" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ComfyUI inpaint
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#re-shoot-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Re-shoot Sources
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dataset-training-guardrails" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dataset-Training Guardrails
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quick-qc-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick QC checklist
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gimp-specific" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GIMP Specific
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="GIMP Specific">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quick-win" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick win
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pro-texture-safe" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pro, texture-safe
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#consistency" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Consistency
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#handy-settings-tips" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Handy Settings &amp; Tips
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#export-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Export checklist
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Checklist
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Checklist">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#2-minute-version-one-gentle-pass" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2-minute version (one gentle pass)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-good-enough-looks-like" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What “good enough” looks like
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#safety-rails" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety rails
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#when-youre-ready-for-pro-mode-later" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When you’re ready for “pro mode” (later)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#make-a-reusable-template" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Make a reusable template
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../QwenPro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    QwenPrompt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Videos  💧
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../VScripts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    VScripts💛
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Music
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../music/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Music Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Emily
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Emily Index
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-02-23/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 23rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-02-28/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes F 28th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 03rd
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 04th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 06th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-03-08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Notes M 08th
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Emily/Notes26-00-00/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    NoteTemplate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+<h1 id="gimp-tips">GIMP Tips<a class="headerlink" href="#gimp-tips" title="Permanent link">&para;</a></h1>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<p>Emily: Hey girlfriend! Yep—there are a few solid paths to “de-ridge” a brow before you train a LoRA. Here’s what works well without wrecking identity or skin texture.</p>
+<h3 id="pixel-retouch">Pixel Retouch<a class="headerlink" href="#pixel-retouch" title="Permanent link">&para;</a></h3>
+<p><strong>Photoshop / GIMP</strong></p>
+<p><strong>Goal:</strong> soften the supraorbital ridge (above the eye sockets) while keeping pores &amp; hair intact.</p>
+<ul>
+<li>
+<p><strong>Liquify (Face-Aware helps)</strong></p>
+</li>
+<li>
+<p>Convert layer to <strong>Smart Object</strong> (non-destructive).</p>
+</li>
+<li><strong>Filter ▸ Liquify</strong> → use <strong>Forward Warp</strong> with a <strong>large, soft brush</strong>, low pressure (5–15%).</li>
+<li>Nudge the ridge <strong>inward/upward</strong> a few pixels; also <strong>raise outer brow tail</strong> slightly to create a gentler arc.</li>
+<li>
+<p>If available, <strong>Face-Aware Liquify</strong>: tweak <strong>Brow Height</strong> ↑ a touch and <strong>Brow Tilt</strong> for a softer shape.</p>
+</li>
+<li>
+<p><strong>Dodge/Burn to kill the “ridge” shadows</strong></p>
+</li>
+<li>
+<p>New blank layer set to <strong>Soft Light</strong>; paint with <strong>low-opacity</strong> black/white.</p>
+</li>
+<li>
+<p><strong>Dodge (midtones)</strong> the shadow just under the ridge; <strong>Burn (highlights)</strong> lightly on the upper forehead to flatten contrast.</p>
+</li>
+<li>
+<p><strong>Frequency Separation (texture safety net)</strong></p>
+</li>
+<li>
+<p>Run FS (8–12 px blur radius usually fine for forehead).</p>
+</li>
+<li>
+<p>Do contour tweaks on the <strong>low-freq</strong> (color/volume) layer; leave the <strong>high-freq</strong> (pores) layer untouched so skin stays real.</p>
+</li>
+<li>
+<p><strong>Finish</strong></p>
+</li>
+<li>
+<p>Heal/clone any wiggles on the brow edge.</p>
+</li>
+<li>Tiny <strong>High-Pass (Overlay, 0.7–1.2 px)</strong> pass if you lost snap.</li>
+</ul>
+<blockquote>
+<p><strong>Batching:</strong> record an <strong>Action</strong> (Liquify + Dodge/Burn steps at light strength) and run <strong>File ▸ Automate ▸ Batch</strong> so the whole set gets the same treatment—consistency matters for LoRA.</p>
+</blockquote>
+<h3 id="comfyui-inpaint">ComfyUI inpaint<a class="headerlink" href="#comfyui-inpaint" title="Permanent link">&para;</a></h3>
+<p><strong>Keep Identity</strong></p>
+<p><strong>Goal:</strong> small structural rewrite via diffusion, but locked to the same face.</p>
+<ul>
+<li>
+<p><strong>Nodes (one good recipe):</strong></p>
+</li>
+<li>
+<p><strong>SDXL (or your base)</strong> + <strong>IP-Adapter FaceID</strong> (or <strong>InstantID</strong>) with a clean reference of the same person.</p>
+</li>
+<li>Create a <strong>tight mask</strong> over the ridge &amp; a sliver of forehead (avoid eyebrows/hairline).</li>
+<li><strong>Inpaint</strong> with <strong>denoise 0.18–0.30</strong>, <strong>CFG 4–6</strong>, <strong>25–35 steps</strong>.</li>
+<li>Prompt nudge: <em>“soft forehead, smooth supraorbital area, subtle brow arc, natural skin texture”</em>. Put <strong>“prominent brow ridge, heavy brow, bossing”</strong> in <strong>negative</strong>.</li>
+<li>If needed, run <strong>FaceDetailer</strong> <em>only on the masked region</em> (don’t let it rework the whole face).</li>
+</ul>
+<blockquote>
+<p><strong>Tip:</strong> Keep the mask narrow. Multiple light passes beat one heavy pass (identity stays truer).</p>
+</blockquote>
+<h3 id="re-shoot-sources">Re-shoot Sources<a class="headerlink" href="#re-shoot-sources" title="Permanent link">&para;</a></h3>
+<p>Soft <strong>frontal fill</strong> (big diffuser) plus a slight <strong>top fill</strong> kills the shadow band that makes a ridge look harsher. Even 3–5 cleaner sources mixed into the set can steer training.</p>
+<h3 id="dataset-training-guardrails">Dataset-Training Guardrails<a class="headerlink" href="#dataset-training-guardrails" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Be consistent.</strong> Don’t mix heavily edited with totally unedited; apply the same light treatment across all.</li>
+<li><strong>Curation beats correction.</strong> Prefer angles/lighting that minimize the ridge.</li>
+<li><strong>Captions:</strong> include a style token like <em>“soft brow”</em>; and during <strong>inference</strong> always negative-prompt <em>“prominent brow ridge”</em>.</li>
+<li><strong>Don’t overdo geometry.</strong> Big warps can drift identity; small, repeatable moves are safer.</li>
+</ul>
+<h3 id="quick-qc-checklist">Quick QC checklist<a class="headerlink" href="#quick-qc-checklist" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Zoom 100%—pores intact? brow hair edges clean?</li>
+<li>Profile/¾ view still reads as the same person?</li>
+<li>No banding/flatness on the forehead?</li>
+<li>Apply identical tweaks across the batch.</li>
+</ul>
+<p>If you want, tell me which route you’ll use (Photoshop/GIMP vs. ComfyUI inpaint), and I’ll jot a precise mini-workflow with settings tailored to your tools.</p>
+<h2 id="gimp-specific">GIMP Specific<a class="headerlink" href="#gimp-specific" title="Permanent link">&para;</a></h2>
+<p>Perfect—GIMP can do this cleanly and non-destructively. Here’s a practical, repeatable workflow tuned for softening/removing a prominent brow ridge while preserving pores and identity.</p>
+<h3 id="quick-win">Quick win<a class="headerlink" href="#quick-win" title="Permanent link">&para;</a></h3>
+<p>(10–15 min per image)</p>
+<p><strong>Goal:</strong> small geometry nudge + contrast flattening, without plastic skin.</p>
+<ol>
+<li>
+<p><strong>Prep</strong></p>
+</li>
+<li>
+<p>Open the image → <strong>Duplicate the background</strong> (Ctrl/Cmd-Shift-D).</p>
+</li>
+<li>
+<p>Name it <code>01–Warp</code>. Keep the original hidden for A/B checks.</p>
+</li>
+<li>
+<p><strong>Subtle shape tweak (Warp Transform)</strong></p>
+</li>
+<li>
+<p><strong>Tools ▸ Transform Tools ▸ Warp Transform</strong> (W).</p>
+</li>
+<li>Mode: <strong>Move Pixels</strong>; <strong>Deform radius</strong> large (150–300 px), <strong>Strength</strong> low (0.02–0.08).</li>
+<li>
+<p>With a very soft cursor, <strong>nudge the ridge inward/up a few pixels</strong>. Work symmetrically and <em>tiny</em>. Toggle the eye icon to compare with the original often.</p>
+</li>
+<li>
+<p><strong>Flatten the ridge shadow (Dodge/Burn on a tone layer)</strong></p>
+</li>
+<li>
+<p>New layer: <strong>Layer ▸ New ▸ Fill with: Transparency</strong>. Name <code>02–Tone</code>.</p>
+</li>
+<li>Set its <strong>Mode = Soft light</strong>; <strong>Opacity ~10–20%</strong>.</li>
+<li>
+<p>Select the <strong>Paintbrush</strong> (B), low flow/opacity (10–15%).</p>
+</li>
+<li>
+<p>Foreground <strong>white</strong> = lighten. Lightly <strong>paint under the ridge</strong> to lift the shadow band.</p>
+</li>
+<li>Foreground <strong>black</strong> = darken. Feather a touch <strong>above the ridge</strong> so highlight isn’t popping forward.</li>
+<li>
+<p>If you prefer tools: <strong>Dodge/Burn Tool</strong> (Shift-D), <strong>Range = Midtones</strong>, <strong>Exposure 5–10%</strong>; but the Soft-light brush is more controllable.</p>
+</li>
+<li>
+<p><strong>Edge cleanup</strong></p>
+</li>
+<li>
+<p><strong>Heal Tool</strong> (H), small brush, sample nearby skin to fix any wobbly edges you introduced near the brow.</p>
+</li>
+<li>
+<p>Avoid the eyebrow hairs; if you touch them, <strong>Clone Tool</strong> (C) with aligned sample, 30–50% opacity, single strokes along hair direction.</p>
+</li>
+<li>
+<p><strong>Micro-contrast snap (optional)</strong></p>
+</li>
+<li>
+<p>Merge a <strong>visible copy</strong> (Shift-Ctrl/Cmd-C then <strong>Edit ▸ Paste as ▸ New Layer</strong>) and name it <code>03–Snap</code>.</p>
+</li>
+<li>
+<p><strong>Filters ▸ Enhance ▸ High Pass</strong> (Radius 0.7–1.2 px). Mode <strong>Overlay</strong> or <strong>Soft light</strong>, lower opacity to taste (10–30%). Mask it out everywhere except forehead/brow if needed.</p>
+</li>
+<li>
+<p><strong>A/B and mask control</strong></p>
+</li>
+<li>
+<p>If anything looks overdone, add a <strong>Layer Mask (White—full opacity)</strong> to <code>01–Warp</code> or <code>02–Tone</code> and softly paint <strong>black</strong> on the mask to ease back specific spots.</p>
+</li>
+</ol>
+<hr />
+<h3 id="pro-texture-safe">Pro, texture-safe<a class="headerlink" href="#pro-texture-safe" title="Permanent link">&para;</a></h3>
+<p><strong>This method  is the Wavelet/“frequency” approach</strong></p>
+<p><strong>Goal:</strong> change shape/volume on low frequencies while preserving pores perfectly.</p>
+<ol>
+<li>
+<p><strong>Wavelet Decompose</strong></p>
+</li>
+<li>
+<p>On the original image: <strong>Filters ▸ Enhance ▸ Wavelet decompose…</strong></p>
+</li>
+<li>
+<p><strong>Scales:</strong> 5–7 is plenty for faces.</p>
+</li>
+<li>Keep “Create group” checked.</li>
+<li>
+<p>You’ll get a group with layers: <code>Residual</code> (low-freq volume) + several <code>Scale N</code> (high-freq detail).</p>
+</li>
+<li>
+<p><strong>Volume sculpt on Residual</strong></p>
+</li>
+<li>
+<p>Inside the wavelet group, select <strong>Residual</strong>.</p>
+</li>
+<li>
+<p><strong>Warp Transform</strong> (W) with a <em>large, soft</em> brush and very low strength (0.02–0.06), <strong>nudge the ridge</strong> as before. Because you’re on Residual, <strong>pores/hairs stay intact</strong> on the higher scales.</p>
+</li>
+<li>
+<p><strong>Shadow band fix at the right frequency</strong></p>
+</li>
+<li>
+<p>Still on <strong>Residual</strong>, add a <strong>Layer Mask</strong> (white).</p>
+</li>
+<li>Create a new layer <strong>above Residual</strong> but <em>inside the group</em>, set <strong>Mode = Soft light</strong>, name <code>Residual–Tone</code>.</li>
+<li>Lightly paint white under the ridge / black above it to flatten contrast (same as the quick method), or use <strong>Dodge/Burn Tool</strong> on Residual with <strong>Midtones 5–10%</strong>.</li>
+<li>
+<p>If fine “creases” remain, hop to <strong>Scale 2 or 3</strong> and very gently blur or heal just along the crease line:</p>
+</li>
+<li>
+<p><strong>Select Scale 2 (or 3)</strong> → <strong>Filters ▸ Blur ▸ Gaussian Blur</strong> (0.5–1.0 px) <strong>on a masked selection</strong> of the crease, or use <strong>Heal</strong> to break the micro-shadow line.</p>
+</li>
+<li>
+<p><strong>Global sanity</strong></p>
+</li>
+<li>
+<p>Collapse/close the Wavelet group eye icon to compare A/B.</p>
+</li>
+<li>
+<p>If the forehead looks “too flat,” reduce <strong>Residual–Tone</strong> opacity first, then ease the Warp mask.</p>
+</li>
+<li>
+<p><strong>Commit for export</strong></p>
+</li>
+<li>
+<p><strong>Duplicate the Wavelet group</strong> (for safety), then <strong>Layer ▸ New from Visible</strong> to produce a clean, flattened result for saving. Keep your layered file as the master.</p>
+</li>
+</ol>
+<hr />
+<h3 id="consistency">Consistency<a class="headerlink" href="#consistency" title="Permanent link">&para;</a></h3>
+<p><strong>for LoRA datasets</strong></p>
+<ul>
+<li><strong>Do every image the same way:</strong> duplicate background → warp (tiny) → tone layer → (optional) wavelet cleanup. Consistency &gt; perfection.</li>
+<li><strong>Angles:</strong> prefer frontal/half-frontal, soft frontal fill light; avoid harsh top-down lighting that re-casts the shadow band.</li>
+<li><strong>Don’t over-flatten:</strong> a hint of natural brow is good. Over-smoothing can drift identity in training.</li>
+</ul>
+<hr />
+<h3 id="handy-settings-tips">Handy Settings &amp; Tips<a class="headerlink" href="#handy-settings-tips" title="Permanent link">&para;</a></h3>
+<p><strong>(GIMP specific)</strong></p>
+<ul>
+<li><strong>Brush settings:</strong> Hardness 0.00; dynamics off; <strong>Force/Opacity ~10–15%</strong> for painting. Use a <strong>big brush</strong>—let softness do the work.</li>
+<li><strong>Warp Transform</strong>: If you see ripples, lower <strong>Strength</strong> first; then increase <strong>Deform radius</strong> rather than pushing harder.</li>
+<li><strong>Masks are your safety net:</strong> If anything goes “plastic,” paint black on the mask to bring back original texture locally.</li>
+<li><strong>Batching:</strong> GIMP doesn’t have Photoshop-style Actions, but you can speed up with saved <strong>Tool Presets</strong> (Dockable Dialogs ▸ Tool Options ▸ Save) and, if you later need true batching, consider the <strong>BIMP</strong> plugin or a small Script-Fu for uniform tone-layer creation.</li>
+</ul>
+<hr />
+<h3 id="export-checklist">Export checklist<a class="headerlink" href="#export-checklist" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Save a layered <strong>.XCF</strong> master.</li>
+<li>Export training images as <strong>PNG</strong> or high-quality <strong>JPEG (95–100)</strong>, sRGB.</li>
+<li>Keep EXIF consistent if you’re tracking sources.</li>
+</ul>
+<h2 id="checklist">Checklist<a class="headerlink" href="#checklist" title="Permanent link">&para;</a></h2>
+<h3 id="2-minute-version-one-gentle-pass">2-minute version (one gentle pass)<a class="headerlink" href="#2-minute-version-one-gentle-pass" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Duplicate layer</strong> → name <code>01–Warp</code>.</li>
+<li>
+<p><strong>Warp Transform (Move Pixels)</strong>: Radius 200–300, Strength 0.03–0.05, super-soft brush.</p>
+</li>
+<li>
+<p>One or two tiny nudges to the ridge (inward/up). Stop early.</p>
+</li>
+<li>
+<p><strong>New layer</strong> <code>02–Tone</code> (Mode <strong>Soft light</strong>, Opacity ~15%).</p>
+</li>
+<li>
+<p>Paint <strong>white</strong> lightly under the ridge (lifts shadow).</p>
+</li>
+<li>Paint <strong>black</strong> very lightly above it (tames highlight).</li>
+<li><strong>Layer Mask</strong> on <code>01–Warp</code> or <code>02–Tone</code> if anything feels overdone.</li>
+<li><strong>Save</strong> as <code>.XCF</code> (keep layers), then <strong>Export</strong> your PNG/JPEG.</li>
+</ol>
+<h3 id="what-good-enough-looks-like">What “good enough” looks like<a class="headerlink" href="#what-good-enough-looks-like" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The ridge shadow is less banded, but pores and brow hairs still read.</li>
+<li>The forehead curve looks a touch rounder—not flat.</li>
+<li>A/B toggle doesn’t scream “edit,” it just feels softer.</li>
+</ul>
+<h3 id="safety-rails">Safety rails<a class="headerlink" href="#safety-rails" title="Permanent link">&para;</a></h3>
+<ul>
+<li>If you see plastic skin: lower <code>02–Tone</code> opacity first; then paint black on its mask to ease back.</li>
+<li>If you see ripples: undo, drop <strong>Strength</strong>, increase <strong>Radius</strong>, try again.</li>
+<li>If you lose brow hair edges: fix with <strong>Heal/Clone</strong> at 30–40% opacity, strokes following hair direction.</li>
+</ul>
+<h3 id="when-youre-ready-for-pro-mode-later">When you’re ready for “pro mode” (later)<a class="headerlink" href="#when-youre-ready-for-pro-mode-later" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Wavelet Decompose (5–7 scales)</strong> → nudge only on <strong>Residual</strong>, do micro shadow fixes on <strong>Scale 2–3</strong>. This preserves pores perfectly, but don’t rush it.</li>
+</ul>
+<h3 id="make-a-reusable-template">Make a reusable template<a class="headerlink" href="#make-a-reusable-template" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p>Set up an <code>.XCF</code> with:</p>
+</li>
+<li>
+<p>Background (your image)</p>
+</li>
+<li><code>01–Warp</code> (empty)</li>
+<li><code>02–Tone</code> (Soft light, 15%)</li>
+<li>Open each new photo, <strong>drag them into the template</strong>, and repeat the same micro steps. Consistency = better LoRA.</li>
+</ul>
+<p>If you want, describe one photo’s angle/lighting and I’ll recommend exact Warp radius/strength and how much to paint on <code>02–Tone</code> so you have a concrete starting point.</p>
+<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+
+<p><a href="../../">Back to the Main Page</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"../..","features":["navigation.tabs","navigation.tabs.sticky","navigation.sections","navigation.top","toc.integrate","search.suggest","search.highlight","content.tabs.link","content.code.copy"],"search":"../../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5fd3284f.min.js"></script>
+      
+    
+  </body>
+</html>

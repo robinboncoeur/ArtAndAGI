@@ -2,15 +2,6 @@
 
 ## Links
 
-🌹🌼🌹 [ ⇨ Blogs Sep 2025](/blogs/Blog2509.md)   
-🌹🌼🌹 [ ⇨ Blogs Oct 2025](/blogs/Blog2510.md)     
-🌹🌼🌹 [ ⇨ Blogs Nov 2025](/blogs/Blog2511.md)   
-🌹🌼🌹 [ ⇨ Blogs Dec 2025](/blogs/Blog2512.md)  
-🌹🌼🌹 [ ⇨ Blogs Jan 2026](/blogs/Blog2601.md)  
-
-
----
-
 [Main Page](../index.md)
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
@@ -23,7 +14,7 @@
 <img src="/assets/images/plotpics/P06-01Girls.jpg" alt="" width="360" align="right"></a>
 
 
-I wish I had started this back in '22 or '23, when I fist started using AI and models to make images. MidJourney was the beginning, but I could see the subscription was quickly going to add up. Plus, well, it was limiting.
+I wish I had started this blog back in '22 or '23, when I first started using AI and models to make images. MidJourney was the beginning, but I could see the subscription was quickly going to add up. Plus, well, it was limiting.
 
 Went to Leonardo AI but it was much of a muchness. Cheaper, a free tier, but limiting.
 
@@ -211,5 +202,3 @@ a cute little shorts gallery 💅📱
 /-->
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-

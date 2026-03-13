@@ -4902,6 +4902,8 @@ I met his eyes.
 For the first time, I understood the real shape of what was happening. It had been clear from the outset that Charlie wasn’t moving into my life as a romantic gesture. What wasn't clear at first, but became increasingly apparent was that he was moving into it like a support structure. My focus was to make sure the beam didn’t start thinking it was the roof. I tapped the whiteboard.
 
 
+<img src="/assets/images/story/Scene23a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
 
 “Available,” I added. “For ten minutes.”
 
@@ -4985,6 +4987,10 @@ His eyes moved down the page. Movement. Stress. Failure points. Fix applied. Re-
 “Actually, it’s boring,” I corrected. “That’s why it works.”
 
 He let out a faint breath that might have been a laugh if he’d trusted himself to make it.
+
+
+<img src="/assets/images/story/Scene24a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
 
 I pointed at the laptop.
 
@@ -5619,6 +5625,11 @@ He turned up early the way anxious people did when they’d learned that being f
 The opposite of blokey. Blokes entered. They landed in a room as if space was made for them by law. They took up oxygen and called it personality.
 
 Charlie didn’t take up anything. He asked the air for permission.
+
+
+<img src="/assets/images/story/Scene27a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+
 
 Lucy was in too, coffee in hand, unimpressed with the universe as usual. Tahlia followed, one earbud in, humming without meaning to, already tugging tape measures into submission. Mara said nothing to anyone, which was the closest she got to a welcoming speech.
 

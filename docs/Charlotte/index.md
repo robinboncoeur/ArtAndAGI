@@ -36,7 +36,7 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 I write in Zed, a coding plain-text processor that supports markdown (MkDocs). The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare manages creating the static pages and serving the site. Large files, such as video or >25mg music files, are also served by CloudFlare.
 
 I 'collaborate' with an AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but the content (plot/ dialogues / story arc / ideologies) is purely mine.  
-In [**Celeste's Girl**](/Charlotte/CG-Play-1.md) I leaned quite heavily on Emily. My original story was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of writings on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](/Charlotte/CG-Play-1.md#introduction) should make it clear.
+In [**Celeste's Girl**](CG-Play-1.md) I leaned quite heavily on Emily. My original story was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of writings on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](CG-Play-1.md#introduction) should make it clear.
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
