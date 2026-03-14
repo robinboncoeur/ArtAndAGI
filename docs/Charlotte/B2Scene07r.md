@@ -16,7 +16,7 @@
 
 ## Scene Start
 
-<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
+<img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 240px; margin-left: 20px" />
 
 
 **Beat 1 — Entry**
