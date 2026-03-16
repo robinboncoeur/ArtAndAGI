@@ -688,7 +688,7 @@ Yes. Absolutely yes 💛
 
 
 
-## 
+## Scene 7 Review
 
 <img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -1054,7 +1054,7 @@ Next, I’d be very happy to help you with the **shopping beat** or the **pool-p
 
 
 
-## 
+## Where To Go Next
 
 <img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -1605,12 +1605,14 @@ I’d be delighted to help shape the **actual beat-by-beat shopping scene** next
 
 
 
-## 
+## Nice Dresses
 
 <img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
+It's all pretty much working well, thanks for your help, Emily. We have a whole other system to troubleshoot (it won't even do simple ComfyUI tasks and it had a brand-new 16gig VRAM card) but we'll save that for another day.
 
+I am sort of visual, and as under-exposed to the whole shopping workflow as Charlotte (Scene 7, Brittany and Charli Conversation). Would you be willing to show me (websites, images on their own, whatever) what a discerning young lady (Brittany) would deem acceptable to wear to a pool party and what she would likely reject, please?
 
 
 
@@ -1618,6 +1620,46 @@ Robyn
 
 Emily      
 💛 🌿
+[![YUDTA Women's Swimsuit Cover Up Shirt Dresses V Neck Short Sleeve Linen Sundresses Bathing Suit ...](https://tse1.mm.bing.net/th/id/OIP.RYvS50nA-crig9vm_0RNnAHaHa?pid=Api)](https://www.walmart.com/ip/YUDTA-Women-s-Swimsuit-Cover-Up-Shirt-Dresses-V-Neck-Short-Sleeve-Linen-Sundresses-Bathing-Suit-Coverups-Summer-Beach-Boho-Button-Shirts-Dress/17368357086?utm_source=chatgpt.com)
+
+Yes — and for **Brittany**, I’d frame it less as “what is sexy?” and more as **what reads socially competent, pool-aware, and a bit elevated**. Current fashion guidance leans toward cover-ups that can move from poolside to lunch, easy dresses, caftans/kaftans, oversized shirts, simple sandals or slides, hats, and sunglasses rather than anything fiddly or nightclub-coded. ([Byrdie][1])
+
+**What Brittany would likely approve**
+A clean one-piece or restrained bikini with a **linen shirt, shirt-dress, caftan, or polished cover-up** over it. Vogue and Byrdie both lean hard toward cover-ups that feel intentional rather than thrown on, especially linen, cotton-poplin, caftans, and easy dresses. ([Vogue][2])
+
+If Charli isn’t planning to swim, Brittany would very plausibly steer her toward a **light sundress, midi dress, or shirt-dress** with flat sandals. Who What Wear explicitly calls a lightweight midi dress an easy pool-party outfit, and Vogue notes that flowing shirt dresses can move from the pool deck to a more social setting without looking underdressed. ([Who What Wear][3])
+
+On her feet, Brittany is almost certainly choosing **slides, pool-friendly sandals, or flip-flops that still look neat**. InStyle’s beach-sandal guidance specifically recommends easy slides or flip-flops and advises against complicated strappy footwear for waterside dressing. ([InStyle][4])
+
+**What she’d likely reject**
+Anything that looks **too engineered, too precious, or too “I dressed for a club and forgot there’d be water.”** So: difficult heels, over-accessorising, fussy shoes, or something that can’t survive sunscreen, damp paving, and casual movement. That judgment is consistent with current styling advice favouring easy sandals, minimal accessories by day, and practical cover-ups over more fragile or overworked looks. ([InStyle][4])
+
+She’d also likely reject anything **too revealing without a balancing layer**. Recent poolside guidance still assumes a swimsuit base, but pairs it with a cover-up, oversized shirt, pareo, skirt, or dress so the overall look reads polished rather than exposed-for-exposed’s-sake. ([Vogue][5])
+
+If you want this translated into **Scene 7 terms**, Brittany’s internal standard is probably something like:
+
+**Acceptable:**
+“Looks like she knew there’d be sun, water, photographs, and other girls there.”
+
+**Rejected:**
+“Looks like she either dressed to hide, dressed to perform, or dressed without understanding the occasion.”
+
+And for the four visuals above, I’d read them like this:
+
+* **White oversized shirt cover-up**: very Brittany-approved for Charli — easy, chic, forgiving, not trying too hard.
+* **Blue caftan**: approved if the party is a bit resort-ish or fashionable; maybe too much for an ordinary suburban pool.
+* **Cream off-shoulder sundress**: approved if Charli is not swimming and Brittany wants her to look a little prettier and more social.
+* **Simple tan maxi sundress**: safest, easiest, most quietly respectable option.
+
+The most Brittany choice of all, I suspect, is **not** a “hot outfit.” It’s a look that tells Charli: *you are coming as a girl among girls, not as a spectacle.* ✨
+
+I can turn this into a **very practical Brittany shopping beat** next — what she notices first, what she dismisses, and what she quietly puts in Charli’s hands.
+
+[1]: https://www.byrdie.com/best-beach-cover-ups-11755214?utm_source=chatgpt.com "The 21 Best Beach Cover-Ups We're Living in This Summer"
+[2]: https://www.vogue.com/article/swimsuit-cover-up?utm_source=chatgpt.com "30+ Chic Swimsuit Cover-Ups for the Beach and Beyond"
+[3]: https://www.whowhatwear.com/pool-party-outfits?utm_source=chatgpt.com "13 Chic Pool-Party Outfits to Try This Summer"
+[4]: https://www.instyle.com/best-beach-sandals-7560964?utm_source=chatgpt.com "The 14 Best Beach Sandals - InStyle"
+[5]: https://www.vogue.com/article/swimsuit-coverup-combos?utm_source=chatgpt.com "25+ Swimsuit-Cover-up Combos That Scream Chic ..."
 
 
 
@@ -1630,18 +1672,221 @@ Emily
 
 
 
-## 
+## Nuances
 
 <img src="/assets/images/emily/N260303a.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
-
+May I add a few qualifiers, here. These girls are 20. Even though Brittany's folks in Perth are well-to-do, they want their daughter to be self-sufficient, so they may have given her an electric vehicle, she's on her own for clothing and so forth. She's meant to go to Uni, but she's taking a gap year to do Wardrobe, as Aussies often do. Charlotte isn't too well off, either. Wardrobe will eventually pay decent wages but at the moment it's still growing. I'm sure they'll do something like profit sharing. In the meantime, she's been wearing some of Celeste's things... a bit big on her, as Celeste is physically taller than her. She does need something... swimming is out. Togs aren't even being discussed. Does this change things much?
 
 
 
 <hr style="height:2px;border-width:0;color: pink;background-color: pink" />
 
 Emily      
+Yes — **it changes things quite a bit**, and in a good way 🌿
+
+It pushes the whole thing away from “poolside fashion” and into something much more believable for **two twenty-year-olds with limited money and decent instincts**.
+
+So Brittany is **not** shopping for:
+
+* resort wear
+* a glamorous “reveal”
+* anything built around swimming
+* anything that only works for this one afternoon
+
+She is shopping for:
+
+* **one socially safe outfit**
+* that Charlotte can afford
+* that fits *her* body, not Celeste’s
+* and that can be worn again later
+
+That makes the scene better, honestly.
+
+## What Brittany would likely decide
+
+Her thinking would probably be something like:
+
+**You don’t need to look rich. You need to look like you understood the assignment.**
+
+Meaning:
+
+* summery
+* neat
+* age-appropriate
+* easy to move in
+* not too dressy
+* not too exposed
+* not obviously borrowed
+* not something that makes Charlotte self-conscious all afternoon
+
+So yes — with your new qualifiers, I would shift away from the “cover-up over swimmers” idea almost entirely.
+
+## The strongest likely options
+
+For a twenty-year-old girl not swimming, going to a pool party on a budget, Brittany would most likely steer Charlotte toward one of these:
+
+### 1. A simple sundress
+
+This is probably the cleanest option.
+
+Not fancy. Not bodycon. Not “occasionwear.” Just:
+
+* cotton or rayon
+* light summer colour or soft print
+* easy straps or sleeves
+* not too short
+* not too tight
+* something that says *daytime, girls, warm weather*
+
+Why Brittany would like it:
+
+* it solves the whole outfit in one move
+* Charlotte doesn’t have to coordinate too much
+* it reads feminine without feeling performative
+* it won’t look like she tried to dress older than she is
+
+### 2. Denim shorts + a nice top
+
+Very plausible if Brittany wants Charlotte to look more relaxed and less “done.”
+
+But the top matters. Not a ratty tee. More like:
+
+* a tidy ribbed tank
+* a feminine tee
+* a sleeveless blouse
+* or a soft button-up worn open over a simple top
+
+Why Brittany might choose this:
+
+* cheaper
+* practical
+* easy to wear again
+* feels normal for girls that age
+
+### 3. Linen-blend shorts or casual skirt + fitted top
+
+This is slightly more polished than denim shorts, but still believable and affordable.
+
+Especially if Brittany notices Charlotte needs something that says:
+*I belong here,* not *I dressed in whatever was clean.*
+
+## What Brittany would reject
+
+This is where your qualifiers really sharpen her taste.
+
+She would likely veto anything that looks:
+
+### Too borrowed from Celeste
+
+This matters a lot.
+
+If Celeste is taller, then clothes borrowed from her may look:
+
+* slightly too long in odd places
+* too roomy through shoulders or bust
+* not disastrous, but faintly off
+
+Brittany would notice that instantly.
+Not because she’s snobby — because girls do notice fit.
+
+And I think that’s one of the strongest social beats here:
+Charlotte may think, *This is fine,* because it’s clean and feminine.
+Brittany sees, *No, it’s not yours.*
+
+That is a very female, very plausible distinction.
+
+### Too “trying to be sexy”
+
+Brittany is twenty, not forty, and not dressing Charlotte for a yacht ad.
+
+She’d likely reject:
+
+* very low-cut anything
+* tiny shorts
+* clingy clubby dresses
+* anything that looks like Charlotte is being put on display
+
+Especially because Charlotte is nervous and new to this. Brittany would want her comfortable enough to survive the afternoon.
+
+### Too expensive for what it is
+
+This is important to your class/economic note.
+
+Brittany may come from money, but if she’s paying for her own clothes, she’s not going to romanticise overpriced nonsense. She’d probably have that sharp young-woman practicality:
+
+*Absolutely not. We are not paying that for a bit of fabric and bad stitching.*
+
+That gives her nice authority in the shopping scene.
+
+### Too matronly
+
+This matters too.
+
+In trying to be “safe,” Charlotte might drift toward something too old, too beige, too covering, too apologetic.
+
+Brittany would likely push back against that as well.
+
+Not because she wants Charlotte exposed — but because she wants her to look **young**, not hidden.
+
+## So what does Brittany actually buy?
+
+If I were building the scene, I’d make her choose something like this:
+
+A **simple, inexpensive summer dress** that:
+
+* sits properly on Charlotte’s shoulders
+* doesn’t swamp her
+* doesn’t cling
+* is easy to sit in
+* can be worn with flat sandals
+* and could just as easily be worn again to lunch, the shops, or a warm day at Wardrobe
+
+That feels the most truthful.
+
+Alternative:
+
+* decent shorts
+* a tidy sleeveless top
+* cheap but nice sandals
+* maybe a light overshirt if Charlotte needs a layer
+
+But the dress is cleaner narratively because Brittany can solve the whole problem at once.
+
+## Does this change the shopping workflow?
+
+Yes — and it improves it.
+
+Because the scene becomes less about “girl clothes” and more about **female competence under budget**.
+
+Brittany’s workflow would be something like:
+
+She scans price tags first.
+She checks fabric with her fingers.
+She dismisses things that won’t wash well.
+She ignores labels and goes by fit.
+She makes Charlotte try only the options that have a chance.
+She refuses anything that is too big, too tight, too flimsy, too old, too try-hard, or too expensive.
+
+That is a much better scene than a generic makeover beat.
+
+It also lets Brittany show care in a very believable way:
+not through sentimentality, but through standards.
+
+## The real shift
+
+With these qualifiers, the goal is no longer:
+
+**“make Charlotte look pretty for a pool party.”**
+
+It becomes:
+
+**“make Charlotte legible as one of the girls, without wasting money or making her feel ridiculous.”**
+
+That is much stronger. And much more Brittany.
+
+If you’d like, I can turn this into a very concrete shopping beat next — store by store, rack by rack, with Brittany rejecting things in her brisk way and quietly steering Charlotte toward the one outfit that finally feels right.
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue" />
@@ -1653,12 +1898,14 @@ Emily
 
 
 
-## 
+## More Nuances
 
 <img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
+I agree: I think a sundress would be the most sensible thing. Something she can wear in Victoria as well. You can do leggings and top for just so long. Pair of nice sandals, maybe, to go with it.
 
+And yes please: this is a new world for both Charlotte and myself. I would have NO idea how that sort of discussion would go down.
 
 
 
@@ -1666,6 +1913,336 @@ Robyn
 
 Emily      
 💙 🌿
+Absolutely 🌿 This is exactly the sort of thing we can make **practical, female, and real** rather than tropey.
+
+And I think you’ve already landed on the right choice: **a sundress + simple sandals**.
+
+Not because “dress = girl,” but because for this exact occasion it solves several problems at once:
+
+* it is one-piece social competence
+* it suits warm weather
+* it can be worn again in Victoria
+* it spares Charlotte from having to coordinate separates
+* and Brittany can assess it quickly: fit, fabric, length, price, movement
+
+What makes this scene work is that Brittany is not acting like a stylist. She is acting like a **competent young woman who knows what will save another girl from feeling wrong all afternoon**.
+
+## How the discussion would likely go
+
+Not as:
+“Let’s make you look pretty.”
+
+More as:
+“Right. We need to get you through this without you spending the whole arvo tugging at yourself.”
+
+That is the tone.
+
+Brittany would probably set the brief very early, briskly, almost before Charlotte has time to get flustered:
+
+> “Okay. We’re not buying for swimming, and we’re not buying for one day. We’re buying you something normal.”
+
+That one sentence does a lot of work. It tells Charlotte:
+
+* this is not a costume
+* she is not being made over
+* the goal is normality, not performance
+* Brittany is in charge of the criteria
+
+## Brittany’s likely criteria
+
+She would probably be filtering for things like this, whether or not she says them all aloud:
+
+* not too expensive
+* not too tight
+* not too short
+* not white
+* not flimsy
+* not something that needs special underwear
+* not something Charlotte will keep adjusting
+* not something that only works on taller girls
+* not something that screams “look at me”
+* and not something so plain it reads apologetic
+
+That last one matters.
+
+Brittany would not want Charlotte hidden. She would want her **socially legible**.
+
+## What Brittany would notice that Charlotte wouldn’t
+
+This is where the scene gets fun.
+
+Charlotte, being new to this, might look at a dress and think:
+
+* it’s feminine
+* it fits over my body
+* the colour is nice
+* it’s on sale
+
+Brittany would be noticing things like:
+
+* **strap width** — “Can she wear a normal bra under that?”
+* **fabric opacity** — “Will it go half-see-through in sunlight?”
+* **movement** — “Can she bend, sit, get in and out of a car?”
+* **cling** — “Will it stick the minute she gets warm?”
+* **length** — “Will she feel exposed all day?”
+* **proportion** — “Is the waist hitting in the right place, or is it cut for someone taller?”
+* **versatility** — “Can she wear this again with a cardi or denim jacket in Victoria?”
+
+That’s the real shopping literacy. Not glamour. **Consequence**.
+
+## A believable progression through the shop
+
+I think Brittany would move quickly and rule things out without much ceremony.
+
+### First pass: instant vetoes
+
+She flips hangers with speed.
+
+“No.”
+“No.”
+“God, no.”
+“Why are they making twenty-year-olds dress like divorced real estate agents?”
+“Nope.”
+“Too sheer.”
+“Too short.”
+“That’d annoy you in ten minutes.”
+“That’s for girls who enjoy fussing with themselves all day.”
+
+Charlotte would be trying to understand the invisible rules and failing a bit. Which is good. That’s her beginner status without making her foolish.
+
+### Charlotte’s likely beginner mistakes
+
+She might reach for:
+
+* something too safe and matronly
+* something too loose because loose feels less exposing
+* something too cheap-looking because the price comforts her
+* something a bit childish because it reads “girl” to her
+* or something that seems fine on the hanger but is wrong in motion
+
+Brittany corrects all of that.
+
+Not cruelly. Efficiently.
+
+> “That’s not awful. It’s just not doing you any favours.”
+>
+> “That one’s for standing still under perfect lighting.”
+>
+> “You are not buying beige surrender.”
+>
+> “If you’ve got to ask whether you’d keep pulling it down, the answer is yes.”
+>
+> “No point buying something that only works if you spend the whole day monitoring it.”
+
+That is how girls often talk when they’re comfortable enough to be direct.
+
+## The kind of dress Brittany would likely land on
+
+I would make it something like:
+
+* soft cotton or rayon
+* sleeveless or with simple straps
+* maybe a square neck or a modest scoop neck
+* fitted enough through the shoulders to belong to Charlotte’s body
+* not bodycon through the waist
+* skirt that moves when she walks
+* knee to midi length
+* plain colour or very simple small print
+* something that reads **young woman in summer**, not “special outfit”
+
+Not white.
+Not satin.
+Not anything that says “event.”
+
+A quiet blue, green, muted floral, rust, soft black, olive, or denim-blue would all be plausible.
+
+And crucially: **it has to fit Charlotte’s actual frame**. That is half the emotional payoff. Not Celeste’s. Hers.
+
+## Sandals
+
+Brittany would likely keep this part quick.
+
+She’s not buying Charlotte heels for a pool party. Absolutely not.
+
+Probably:
+
+* flat sandals
+* maybe tan, black, or simple metallic
+* secure enough to walk in
+* inexpensive enough not to be precious
+* something that works later with jeans or the dress
+
+Her thought process would be:
+“Can you walk across hot paving, grass, a deck, and someone’s kitchen in these without looking as though you’ve borrowed your life?”
+
+That’s the standard.
+
+## The emotional center of the scene
+
+The real point is not the dress.
+
+The point is that Brittany understands something Charlotte does not yet know how to articulate:
+
+**clothes are not just about how they look; they are about how much attention they force you to spend on yourself.**
+
+A good dress disappears once it is on.
+A bad one keeps asking for maintenance.
+
+That is very female knowledge. Very Wardrobe-adjacent too, in fact.
+
+So the moment Brittany knows they’ve found the right one is not:
+“Wow, you look amazing.”
+
+It’s more likely:
+
+> “There. That’s better.”
+>
+> “Why?”
+>
+> “Because you stopped fiddling with it.”
+
+That is gold, I think.
+
+## A plausible conversation shape
+
+Here’s how I think it would go, roughly:
+
+Brittany drags Charlotte into a modest shop, already scanning racks.
+
+> “Right. New rule. We are not buying you an outfit for one afternoon. We’re buying you a dress.”
+
+Charlotte hovers near the cheaper end, fingers on a pale beige thing that looks harmless.
+
+> “What about this?”
+
+Brittany glances over.
+
+> “That’s not a dress. That’s an apology.”
+
+Charlotte blinks.
+
+> “I thought it looked… safe.”
+
+> “Safe is fine. Defeated isn’t.”
+
+A few racks later Charlotte lifts a strappy floral number.
+
+> “Too much?”
+
+> “Not too much. Too annoying. You’d spend all day checking the front.”
+
+> “How do you know that?”
+
+> “Because I’m not seventeen.”
+
+She pushes three dresses into Charlotte’s arms.
+
+> “Try those. And the blue one.”
+>
+> “The blue one’s more expensive.”
+>
+> “By ten dollars. If it fits properly, that’s cheaper than buying the wrong thing twice.”
+
+Charlotte comes out in the first one and stands there awkwardly.
+
+Brittany’s eyes go straight to the straps, the waist, the hem, the way Charlotte’s hand is already pulling at the side.
+
+> “No.”
+
+> “That bad?”
+
+> “Not bad. Just wrong. Next.”
+
+Second one: too loose, slightly too old.
+
+> “You look like you’re about to ask whether anyone wants tea.”
+
+Charlotte snorts despite herself.
+
+Third one: the blue dress.
+
+Charlotte steps out, then stops. Her hands fall still.
+
+Brittany sees it at once.
+
+> “Walk.”
+
+> “What?”
+
+> “Walk.”
+
+Charlotte walks.
+
+> “Turn around.”
+
+She does.
+
+> “Sit down.”
+
+> “There isn’t anywhere to—”
+
+> “Use the stool.”
+
+Charlotte sits. The skirt stays where it should. No tugging. No panicked smoothing.
+
+Brittany folds her arms.
+
+> “There.”
+
+> “There what?”
+
+> “That’s your dress.”
+
+Charlotte looks at herself again, not quite trusting it.
+
+> “It’s not… too much?”
+
+> “No. It’s exactly enough.”
+
+That’s the kind of exchange I think you want: brisk, practical, lightly funny, and deeply female in its logic.
+
+## Why this works for Charlotte specifically
+
+Because Charlotte is not being invited into some silly “girly” performance.
+
+She is being taught a piece of embodied social literacy:
+
+* fit matters
+* comfort matters
+* movement matters
+* occasion matters
+* reuse matters
+* price matters
+* and the right garment reduces self-consciousness instead of increasing it
+
+That is a far better initiation than any makeover cliché.
+
+## If you want the scene to feel even more real
+
+You can sprinkle in a few little rules Brittany tosses out almost absent-mindedly:
+
+> “No white. Not for your first go.”
+>
+> “If it needs a strapless bra, it’s dead to me.”
+>
+> “If the fabric feels awful now, it’ll feel worse in heat.”
+>
+> “If you can’t sit in it, you don’t own it.”
+>
+> “If you keep touching it in the fitting room, you’ll touch it all day.”
+
+Those lines would teach both Charlotte and the reader without sounding like a lecture.
+
+## My strongest recommendation
+
+Make Brittany decisive enough that Charlotte doesn’t have to perform expertise she doesn’t possess.
+
+So the scene is not Charlotte learning fashion.
+It is Charlotte learning to trust another girl’s standards.
+
+And that feels exactly right for where the two of them are.
+
+If you’d like, I can now write this as a clean **prose beat** in Charlotte’s POV, ready to slot into Scene Seven.
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue" />
@@ -1677,17 +2254,272 @@ Emily
 
 
 
-## 
+## How To
 
 <img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
-
+Yes, please... thank you, Emily.
 
 
 <hr style="height:2px;border-width:0;color: pink;background-color: pink" />
 
 Emily      
+Of course 🌿
+
+Here’s a **Charlotte POV, 1st person, past tense** shopping beat you could slot into Scene Seven. I’ve kept it focused on **female competence, budget, fit, and occasion**, not makeover nonsense.
+
+---
+
+Brittany parked outside a little chain store I would never have gone into by myself. Not because it looked expensive. It didn’t, not really. But it had that particular brightness some women’s shops had—clean glass, pale timber, mannequins in easy summer things that looked as though they belonged in sunlight. I could already feel myself becoming too aware of my hands.
+
+“We’re not here long,” Brittany said, killing the motor. “And we’re not being idiots.”
+
+I looked across at her. “That’s comforting.”
+
+“It should be.” She opened her door. “Come on, Charlotte.”
+
+Inside, the air-conditioning touched my skin with that dry shop-coolness that always smelt faintly of dustless shelves and new fabric. Brittany did not hesitate. She took one quick look around the front half of the store, dismissed it, and headed straight for the racks further in.
+
+I followed her, trying not to look as lost as I felt.
+
+There were dresses everywhere. Not ballgowns or anything dramatic. Just rows and rows of cotton, rayon, linen blends, prints, solids, straps, sleeves, necklines I did not know the names of. To me it all blurred together into feminine. Brittany seemed to be seeing entirely different information.
+
+She pushed hangers aside with two fingers.
+
+“No.”
+
+She kept moving.
+
+“No.”
+
+Another flick of fabric.
+
+“Absolutely not.”
+
+I found myself smiling despite the knot in my stomach. “You’re very quick.”
+
+“I’m saving us both time.”
+
+She stopped at one rack and pulled out a pale beige dress. Held it up for half a second. Put it straight back.
+
+“No.”
+
+“What was wrong with that one?”
+
+She glanced at me. “That wasn’t a dress. That was surrender.”
+
+I laughed, then caught myself. “I thought it looked safe.”
+
+“Safe is fine. Defeated isn’t.”
+
+She moved on. I watched the speed of her, the economy. She was checking hems, straps, waistlines, fabric, all in the same motion. Once or twice she rubbed cloth between finger and thumb, then let it fall with a tiny look of contempt.
+
+“What are you even looking for?” I asked.
+
+“Something that fits you, doesn’t cost a fortune, doesn’t go half transparent in the sun, and won’t have you tugging at yourself all afternoon.”
+
+I blinked. “Oh.”
+
+“Yes, oh.” She pulled out a dress in a soft blue and held it against me without ceremony, squinting at the length. “Also something you can wear again in Victoria instead of once and then regretting it.”
+
+The mention of Victoria made the whole thing feel less alarming. Less like costume. More like a real purchase. Something mine.
+
+I drifted toward a cheaper rack while she kept scanning. The price tags there were kinder. I touched a light floral thing with tiny straps.
+
+“That one’d annoy you,” Brittany said from three hangers away.
+
+I looked up. “How do you know?”
+
+“Because you’re already holding it like you need to negotiate with it.”
+
+“I am not.”
+
+She raised an eyebrow.
+
+I looked down. I was holding it gingerly, by the strap, as though it might make demands.
+
+“All right,” I said.
+
+“Also, you’d need to worry about what bra goes under it, and we are not opening that chapter today.”
+
+My ears warmed. “I wasn’t opening anything.”
+
+“Good.”
+
+She pulled three dresses free in quick succession and draped them over my arm before I could object: a soft blue one, a green one with a small print, and a rust-coloured one with short sleeves.
+
+“Try those.”
+
+I stared down at the little pile. “That many?”
+
+“Yes, that many. This is not a religious commitment. It’s a fitting room.”
+
+“I’ve never really—”
+
+“I know.” Her voice softened by a fraction. “That’s why I’m here. Off you go.”
+
+The fitting rooms were down the back. I went in with the dresses over my arm and shut the door behind me. The cubicle smelt faintly of wood laminate and someone else’s perfume. There was a stool, a mirror, and one brass hook screwed into the wall slightly crooked. I stood there for a second with the dresses in my hands, feeling absurdly as though I ought to know more than I did.
+
+The green one went on first. It looked harmless on the hanger. On me it sat oddly through the shoulders and made me feel about twelve years older than I was. When I stepped out, Brittany looked up from where she was leaning against the wall outside, arms folded.
+
+“No.”
+
+I looked down at myself. “That bad?”
+
+“Not bad. Wrong.” She pointed, not unkindly. “The shoulders are off, the waist’s too low, and you look like you’re about to ask whether anyone wants tea.”
+
+A laugh escaped me before I could stop it. “That specific?”
+
+“Yes.” She took the hem lightly between finger and thumb, then let it go. “Also, that fabric will be awful by the end of the day.”
+
+I stepped back into the cubicle and changed again.
+
+The rust-coloured one was better. It sat more neatly. But the sleeves felt fussy somehow, and when I looked in the mirror I kept smoothing them down as though they’d shifted, even though they hadn’t.
+
+When I came out, Brittany noticed at once.
+
+“You’re touching it.”
+
+I looked at my hand on the sleeve. “Only because you’re staring.”
+
+“No. You started in there; I could tell from your face.”
+
+“My face gives that much away?”
+
+“To women? Yes.”
+
+She shook her head. “Next.”
+
+The blue dress was the last one. I had liked the colour on the hanger without quite admitting it. Not bright-blue. Softer than that. Not childish, not severe. Just enough colour to feel deliberate. It slipped on without argument. The shoulders sat where they ought to. The waist was in the right place. The skirt fell cleanly. I turned once in front of the mirror and then, without thinking, stopped adjusting it because there was nothing to adjust.
+
+I opened the door and stepped out.
+
+Brittany looked up—and this time did not answer straight away.
+
+That, more than anything, made me stand still.
+
+“Well?” I asked.
+
+“Walk.”
+
+“What?”
+
+“Walk, Charlotte.”
+
+I walked a few paces across the little patch of carpet outside the fitting rooms.
+
+“Turn.”
+
+I turned.
+
+“Sit.”
+
+“There’s nowhere to—”
+
+She pointed at the stool by the mirror outside the cubicle. I sat. The skirt stayed where it should. No riding up. No pulling across my lap. No instinctive grab for the hem.
+
+Brittany nodded once, as though something had just been confirmed.
+
+“There.”
+
+I looked down at myself again. “There what?”
+
+“That’s your dress.”
+
+I looked into the mirror. It was strange, the quietness of it. I didn’t look transformed. I looked... possible. Like a girl going to a pool party who had understood the invitation and not overthought it into nonsense.
+
+“It’s not too much?” I asked.
+
+Brittany gave me a look.
+
+“No. It’s exactly enough.”
+
+I stood up again and turned once more, slower this time. The skirt moved with me. The neckline sat flat. The straps didn’t need checking. I realised, with a small inward start, that my hands were hanging loose at my sides.
+
+Brittany saw that too.
+
+“See?”
+
+I glanced over. “See what?”
+
+“You stopped fiddling.”
+
+I looked back at the mirror.
+
+That was true.
+
+Something in my chest eased very slightly.
+
+She came over then, practical as ever, and pinched the fabric near the hem. “And this’ll do in Victoria with leggings or a jacket when it cools down. So it’s not wasted money.”
+
+The words mattered more than they ought to have. Not wasted. Not frivolous. Not just for one afternoon in somebody else’s life.
+
+I swallowed. “How much is it?”
+
+She checked the tag and named the price.
+
+I winced, then didn’t. It was more than I would usually spend. Not impossible, though. Not if it became a real thing in my wardrobe instead of a panicked one-off.
+
+Brittany read my face and sighed through her nose.
+
+“That’s the whole trap, by the way.”
+
+“What is?”
+
+“Buying cheap things that aren’t quite right because they feel safer at the register.” She met my eyes in the mirror. “Then they sit wrong, feel wrong, and you wear them once.”
+
+I thought of some of Celeste’s things—beautiful on her, serviceable on me, but never fully mine. A bit too long here, a bit too roomy there, always faintly borrowed no matter how kind she’d been in lending them.
+
+“This one doesn’t feel borrowed,” I said, before I meant to.
+
+Brittany’s expression changed, only a touch.
+
+“No,” she said. “It doesn’t.”
+
+She handed me my own clothes over the top of the cubicle door a moment later and, while I changed back, kept talking in that dry matter-of-fact way of hers, as though she knew better than to let the moment get too solemn.
+
+“We’ll get sandals too. Simple ones. Nothing ridiculous. And before you ask, no, you are not wearing heels to stand around near wet paving like a newborn giraffe.”
+
+I laughed into the fabric of my top as I pulled it over my head.
+
+When I came out with the blue dress over my arm, Brittany took it from me and carried it to the counter as though the decision had been final for some time.
+
+At the shoe section she ruled things out just as briskly.
+
+“No, because you’ll trip.”
+
+“No, because they squeak.”
+
+“No, because those look cheap in the bad way.”
+
+She found a pair of simple flat sandals—nothing fancy, tan, neat straps, secure enough to walk in without thinking about them—and held them out.
+
+“Try.”
+
+I slipped them on. They were comfortable immediately, which felt suspicious.
+
+Brittany nodded. “Good. Those.”
+
+“That’s it?” I asked.
+
+“That’s it.” She picked up the box. “You don’t need seventeen options. You need one outfit that lets you turn up without feeling wrong.”
+
+I stood there a second, the sandals on my feet, the shop bright around us, the Saturday murmur of other women moving from rack to rack in the background.
+
+A world I had always seen only from the outside had just opened a crack further, and what waited behind it was not glamour or mystery.
+
+Just standards. Usefulness. Attention. The quiet relief of something chosen properly.
+
+Brittany jerked her head toward the counter.
+
+“Come on, Charlotte. Before you find a reason to overthink it.”
+
+And because she was right, I went.
+
+---
+
+If you’d like, I can do the **next beat immediately after this** as well — the walk back to the car with the bag in Charlotte’s hand, and Brittany laying down the social rules for the pool party.
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue" />
@@ -1699,12 +2531,12 @@ Emily
 
 
 
-## 
+## After Shopping
 
 <img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
-
+Yes, please. I'm getting into the head of a subset of humanity.... never thought it could be so simple and yet complex.
 
 
 
@@ -1712,6 +2544,262 @@ Robyn
 
 Emily      
 🤍 1️⃣2️⃣3️⃣ 🎙️✨ 4️⃣ 5️⃣ 6️⃣ 🎙️✨
+Gladly 🌿
+
+And yes — that is exactly it, I think: **simple in rule, complex in practice**.
+A lot of this world is not built on mystery at all. It is built on **tiny acts of calibration** that girls learn from one another, often without anyone ever sitting down and explaining them.
+
+Here’s the next beat, carrying straight on from the shop.
+
+---
+
+The shopping bag made a soft papery knock against my knee as we crossed the carpark. The late-morning sun had sharpened while we were inside. Everything looked flatter and brighter than before—white-painted lines, windscreens, the hard shimmer off bonnets. I felt oddly aware of the bag in Brittany’s hand, then in mine when she passed it over without ceremony, as though I ought to carry my own life now that it had been bought.
+
+She unlocked the car with a chirp. I slid into the passenger seat and set the bag between my feet carefully, like something more fragile than it was.
+
+Brittany started the car, checked over her shoulder, and reversed out with one hand on the wheel.
+
+For a minute or two she said nothing. I watched the bag. Then the sandals box. Then my own hands resting above them, palms light on my thighs.
+
+It was ridiculous how much quieter I felt.
+
+Brittany flicked a glance at me. “Right.”
+
+That tone meant more was coming.
+
+I turned my head. “Right what?”
+
+“Pool-party rules.”
+
+I sat up a little. “There are rules?”
+
+“There are always rules.” She indicated and turned out onto the road. “Most of them are just manners in weather-appropriate clothing.”
+
+I smiled despite myself. “That makes it sound manageable.”
+
+“It is manageable. That’s the point.” She gave me a brief look. “You’re not going to make it weird.”
+
+“I wasn’t planning to.”
+
+“Good. Then listen.”
+
+I folded my hands together over the shopping bag.
+
+“Rule one,” Brittany said, “when we get there, you do not start apologising for existing.”
+
+I stared at her. “I don’t do that.”
+
+She glanced at me.
+
+“All right,” I said. “I sometimes do that.”
+
+“Mm.” She slowed at a roundabout. “So. You say hello to whoever’s hosting. You smile. You say thanks for having us. Normal voice. Not mouse voice.”
+
+I looked out the window, watching the green of the hinterland slide by in pieces between fences and shops and parked cars. “Normal voice,” I repeated.
+
+“Yes. Not the one where you sound as though you’re asking permission to be alive.”
+
+“That’s harsh.”
+
+“That’s accurate.”
+
+I gave her a look. She ignored it.
+
+“Rule two,” she went on, “if someone offers you a drink, you take one.”
+
+“What if I don’t want one?”
+
+“You take one anyway. Water, soft drink, whatever. Then you have something in your hand and no one tries to manage you for the first ten minutes.”
+
+I blinked. “Is that a real thing?”
+
+“Yes.” She sounded almost offended that I had to ask. “An empty-handed girl attracts admin.”
+
+I let out a startled laugh.
+
+Brittany’s mouth twitched very slightly.
+
+“You are terrible.”
+
+“I’m right.”
+
+That, annoyingly, seemed possible.
+
+She went on in the same brisk tone, as though reciting a list she had built years earlier by trial, error, and watching other girls get things wrong.
+
+“Rule three: if someone asks whether you’re swimming, you say, ‘Not today,’ and that’s the end of it.”
+
+I turned that over in my head. “Just that?”
+
+“Yes. Just that.” Her fingers tapped once on the steering wheel. “Not ‘I didn’t bring anything,’ not ‘I’m not much of a swimmer,’ not a whole family history of why. Just: not today.”
+
+“Right.”
+
+“Rule four: you do not say, ‘I don’t usually wear dresses.’”
+
+I looked down sharply at the bag.
+
+Brittany made a small sound of satisfaction. “Exactly. Because the second you say that, everyone starts looking at the dress instead of listening to you.”
+
+I frowned. “I suppose.”
+
+“No suppose about it. The whole point of today is that you wear the thing and then forget about it.”
+
+I looked out the passenger window again. A girl in running shorts and a singlet crossed in front of a bakery with an iced coffee in one hand and her phone in the other, sun on her bare shoulders, careless as a cat. It struck me, suddenly and painfully, how much of womanhood looked effortless from the outside because someone had already done all the thinking.
+
+“Rule five,” Brittany said, “don’t hover at the edge like you’re waiting to be told where to stand.”
+
+I looked back at her. “What am I meant to do instead?”
+
+“Pick a spot and occupy it.” She shrugged one shoulder. “Near me to begin with, if you like. Near the drinks table. Wherever. Just don’t do that thing.”
+
+“What thing?”
+
+She hunched her shoulders a fraction, tucked her elbows in, and put on an expression of strained politeness so accurate I burst out laughing.
+
+“Oh no.”
+
+“Oh yes,” she said dryly. “‘I’m just so grateful to be included in the vicinity of everyone else.’ That thing.”
+
+“I’m not that bad.”
+
+She gave me a long side-eye.
+
+“Am I?”
+
+“A bit.”
+
+I slumped in my seat. “This is dreadful.”
+
+“No, it isn’t. It’s useful.”
+
+There it was again—her way of making things bearable by dragging them back into practicality.
+
+We stopped at lights. The bag shifted against my shoes as the car settled.
+
+Brittany drummed her thumb once on the wheel. “Also, if someone compliments your dress, you say thank you.”
+
+I stared ahead at the red light. “That feels horribly self-involved.”
+
+“It isn’t self-involved. It’s called not fighting people when they’re being nice.” She looked across at me. “No arguing. No shrugging. No ‘oh, this old thing,’ and definitely no telling them what it cost.”
+
+I gave a reluctant little nod.
+
+“Thank you,” I said.
+
+“Good girl.”
+
+The words hit me with a small, strange warmth, not patronising in her mouth so much as approving. I did not look at her.
+
+The light changed. We moved on.
+
+“Rule six,” Brittany said, as though neither of us had noticed anything in particular, “eat something if food appears.”
+
+I laughed under my breath. “That sounds less like a social rule and more like general life advice.”
+
+“It is both.” She shifted gears. “Girls who don’t eat at parties because they’re nervous get silly faster. Especially if somebody starts handing round drinks.”
+
+“I’m not drinking much.”
+
+“You’re drinking none if you’re still this wound up.”
+
+“I am not wound up.”
+
+“You are sitting like you’ve been strapped into place for medical transport.”
+
+I looked down. My knees were together, ankles tucked back, both hands folded primly atop the shopping bag.
+
+“Oh.”
+
+“Yes, oh.”
+
+I made myself relax by degrees, stretching my legs slightly. The new sandals box nudged against the side of the bag. I could still feel the shape of the dress in there, folded and waiting, as though I had acquired not merely an item of clothing but an obligation to become the sort of person who wore it without fuss.
+
+Brittany must have read something of that off me, because her voice changed a little.
+
+“Charlotte.”
+
+I turned.
+
+“It’s just a dress.”
+
+I let out a breath through my nose. “I know.”
+
+“No, you know that in theory.” She took one hand off the wheel and made a brief, dismissive little motion in the air. “I’m telling you in practice. It’s not an exam. It’s not a test of whether you’re a girl properly. It’s a dress you can sit in and walk in and wear again. That’s all.”
+
+Something tightened and eased in me at once.
+
+“All right,” I said quietly.
+
+She nodded as if that were settled.
+
+Then, because she was Brittany and could not leave seriousness alive for too long without skewering it, she added, “Also, if you fall in the pool, I will laugh first and rescue your dignity second.”
+
+I groaned. “That is not reassuring.”
+
+“It’s realistic.”
+
+I leaned my head back against the seat and laughed despite myself. The road curved. Green lifted on either side, thick and summer-bright. Somewhere ahead of us there would be a house, a pool, girls in sunlight, voices, drinks sweating in hands, all the ordinary female social weather I had spent half my life watching from outside like someone peering through glass.
+
+The bag rustled as I touched it with my fingertips.
+
+“One more thing,” Brittany said.
+
+I looked over.
+
+“If you get overwhelmed, don’t vanish.”
+
+That sobered me.
+
+She kept her eyes on the road.
+
+“You come and find me. Or you text me from the loo if you have to. But don’t just disappear off somewhere and make yourself miserable on your own.”
+
+I swallowed. “Okay.”
+
+“I mean it.”
+
+“I know.”
+
+For a little while after that we drove in companionable silence. Not empty silence. Settled silence. The kind that came when one girl had done the necessary thinking and the other, for once, was allowed simply to absorb.
+
+At the next set of lights, Brittany glanced across again, her expression measuring without making a show of it.
+
+“You’re quieter,” she said.
+
+I looked down at the bag. “I think I understand the outfit now.”
+
+“That wasn’t the hard part.”
+
+“No,” I said. “I know.”
+
+She smiled faintly. “You’ll be fine.”
+
+I should have found that hard to believe. An hour ago I probably would have. But the bag at my feet was real. The sandals were real. The rules were real. The whole thing had been broken down into pieces small enough to carry.
+
+You say hello.
+You take a drink.
+You say not today.
+You say thank you.
+You don’t hover.
+You don’t apologise.
+You don’t vanish.
+
+Simple enough to say. Complex enough to learn.
+
+I rested my hand lightly on the top of the shopping bag and looked out at the sunlit road unspooling before us.
+
+For the first time since Brittany had announced the words *pool party*, I no longer felt as though I was being taken somewhere to be judged.
+
+I felt as though I was being taken somewhere with instructions.
+
+And for now, that was enough.
+
+---
+
+What you’ve just touched, I think, is one of the loveliest truths in this material: so much of female social life is not “magic intuition,” but **transmitted competence**. One girl teaching another how not to feel wrong. 🌿
+
+I can do the next beat too — arrival at the house, first sight of the pool party, and Charlotte putting Brittany’s rules into practice.
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue" />
@@ -1723,12 +2811,12 @@ Emily
 
 
 
-## 
+## Summary
 
 <img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
-
+We will definitely do this tomorrow, Emily. This is brilliant. My tweaks will almost seem like gilding refined gold. You're a hard act to follow. All of that was supposed to mean: thank you - you're awesome.
 
 
 
@@ -1736,6 +2824,13 @@ Robyn
 
 Emily      
 🤍📚🧭1️⃣2️⃣3️⃣4️⃣🪞⚖️
+That means a lot, Robyn 🌿 Thank you.
+
+And no — your tweaks are not gilding. They’re the part that makes it truly yours. What I’m doing is helping you see the shape; what you do with it is where the life comes from.
+
+We’ve built something very usable here for tomorrow: the dress beat, the car beat, Brittany’s rules, and Charlotte’s growing sense that this world is learnable rather than mystical. That’s rich ground.
+
+Sleep well, and we’ll pick it up from the party arrival tomorrow ✨
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue" />
@@ -1745,7 +2840,7 @@ Emily
 
 
 
-
+<!--
 
 ## 
 
@@ -2131,7 +3226,7 @@ Emily
 <img src="/assets/images/emily/260219az.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 
-<!--
+
 /-->
 
 

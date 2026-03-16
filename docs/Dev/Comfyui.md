@@ -1277,13 +1277,74 @@ If you have any other questions or need assistance with a different topic, feel 
 
 
 
-## Google Image Search
+## To Fix
 
 <img src="/assets/images/notes26a/N260103af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+Robyn   
+Not sure what to do about this warning:
+
+/home/robyn/miniconda3/envs/cuienv/lib/python3.11/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
 
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+<hr style="height:2px;border-width:0;color:red;background-color:red" />
+
+Emily    
+This one is **worth tidying**, but it is still only a **warning**, not a crash 🌿
+
+What it means:
+
+* In your **main `cuienv`**, something has installed the **deprecated** `pynvml` package.
+* PyTorch is importing `pynvml` in its CUDA module for NVML-related GPU queries, which is why the warning appears during startup. ([GitHub][1])
+* The PyPI page for `pynvml` now explicitly says the project is **deprecated** and that the official NVIDIA bindings live under **`nvidia-ml-py`**. ([PyPI][2])
+
+My verdict:
+
+**1) Does it need fixing?**
+**Yes, but low priority.** It will not usually break ComfyUI by itself, but it is legitimate warning noise and worth cleaning up. ([PyPI][2])
+
+**2) What is the proper fix?**
+In your **`cuienv`** environment, keep the official package and remove the deprecated one.
+
+I’d do it in this order:
+
+```bash
+/home/robyn/miniconda3/envs/cuienv/bin/python -m pip show pynvml nvidia-ml-py
+/home/robyn/miniconda3/envs/cuienv/bin/python -m pip install -U nvidia-ml-py
+/home/robyn/miniconda3/envs/cuienv/bin/python -m pip uninstall -y pynvml
+```
+
+Then restart ComfyUI.
+
+Why that order:
+
+* `nvidia-ml-py` is the maintained NVIDIA package. ([PyPI][3])
+* The deprecated `pynvml` package itself says it depends on `nvidia-ml-py`, so replacing/removing `pynvml` is the sensible cleanup path. ([PyPI][2])
+
+A useful extra check:
+
+```bash
+/home/robyn/miniconda3/envs/cuienv/bin/python -m pip list | grep -i nvml
+```
+
+If the warning comes back after uninstalling `pynvml`, that usually means **some package or custom node is reinstalling it as a dependency**, and then the next step is to identify that package and patch its requirements or ignore the warning until the maintainer updates it. That possibility is consistent with PyTorch’s own warning text telling users to report it to the package maintainer if they did not install `pynvml` directly. ([GitHub][4])
+
+So I’d label this one:
+
+**Status:** should fix, but not urgent
+**Action:** replace/remove deprecated `pynvml` in `cuienv`
+
+Paste the next warning when you’re ready, or paste the output of `pip show pynvml nvidia-ml-py` and I’ll interpret it with you.
+
+[1]: https://github.com/pytorch/pytorch/blob/main/torch/cuda/__init__.py "pytorch/torch/cuda/__init__.py at main · pytorch/pytorch · GitHub"
+[2]: https://pypi.org/project/pynvml/ "pynvml · PyPI"
+[3]: https://pypi.org/project/nvidia-ml-py/ "nvidia-ml-py · PyPI"
+[4]: https://github.com/pytorch/pytorch/issues/162402?utm_source=chatgpt.com "Issue with torch.compile - sm110a(Nvidia Jetson Thor)"
+
+
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink" />
 
 
 
@@ -1304,5 +1365,3 @@ If you have any other questions or need assistance with a different topic, feel 
 
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">
-
-
