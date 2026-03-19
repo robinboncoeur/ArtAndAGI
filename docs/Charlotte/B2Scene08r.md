@@ -369,12 +369,69 @@ I’d love to help you draft Beat 1 — Brittany’s in-car “social integratio
 
 
 
-<!--
+
 
 ##
 
 <img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+I had just realised my little red spray bottle of insect repellent was almost empty when Brittany opened the door and let herself in.
+
+"Hey, you ready?"
+
+I shrugged. "Sort of." I shook the little bottle, my lips twisted.
+
+"You won't need that," she said. "You don't seriously think Harri's folks wouldn't have installed industrial-strength insect management in the middle of a jungle, do you? It's where mozzies and midges go to die."
+
+I looked around me in bewilderment, hands out. "So, what do I bring?"
+
+She shrugged. "Your phone. Lippie. Hair tie. Your bag. Let's go, girlfriend!"
+
+She drove one-handed, sunglasses on, one wrist loose over the wheel.
+
+“Right,” she said, as though briefing me for a workplace safety inspection. “A few basics.”
+
+I turned in my seat. “Sorry?”
+
+“You like dot-points. I’m-a speak-a your language.” I snorted a laugh. "Pretty sure you won't need your notepad." 
+
+I looked out the window. “As if I would be taking notes now.”
+
+“Wouldn't surprise me. Rule number one: if somebody says hi, smile and say hi back. Don’t look like you’re being served legal papers.”
+
+“Since when do I look like that.”
+
+“You pretty much always do when you’re nervous. Rule two: answer, then ask something back. Doesn’t have to be profound. Actually, it's better if it isn't. Just ask something easy.”
+
+I folded my arms. “Say hi back. Ask simple-to-answer question. That it?”
+
+“Just getting started. Rule three: no essay answers. It's not expected. Think: short-attention-span theatre.”
+
+I stared at the windscreen, slightly envying the bug clinging for dear life on the wiper blades. A semi passed and the bug was gone. I looked over at her. She grinned back.
+
+“Rule four: if you get stuck—"
+
+"What do you mean, stuck?"
+
+Her brows rose. "Awkward pauses happen. Simple solution: comment on something obvious. The weather, the drive, the pool, the food, somebody’s hair, whatever. No one expects a polished thesis.”
+
+I sighed.
+
+“And rule five?”
+
+“If something needs doing, do it. Carry plates, fetch drinks, help tidy up. Girls forgive social weirdness quickly if you’re useful and not too full of yourself to help.”
+
+I nodded. "Okay," I said through thin lips.
+
+“What?”
+
+“Nothing,” I said. “It’s just that your rules are frighteningly clear.”
+
+“That,” Brittany said, “is because I thought them up for you.”
+
+---
+
+That’s playful, but it also seeds the whole scene.
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
@@ -412,7 +469,7 @@ I’d love to help you draft Beat 1 — Brittany’s in-car “social integratio
 
 
 
-
+<!--
 
 ##
 
