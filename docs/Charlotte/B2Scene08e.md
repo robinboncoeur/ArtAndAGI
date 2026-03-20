@@ -13,7 +13,6 @@
 
 
 
-
 ## Scene 8
 ### Discussion
 
@@ -307,12 +306,178 @@ I’d love to help you draft Beat 1 — Brittany’s in-car “social integratio
 
 
 
-<!--
 
-##
+
+## Writing Friday
+### Discussion on 1st Go
 
 <img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+Robyn, this is **really working** 🌿
+
+It feels lived-in now. Not theoretical. Not “scene as concept.” It has actual movement, actual social temperature, and Charlotte’s nerves are coming through in the body rather than in explanation, which is exactly what you’ve been working toward. Writing Friday is clearly doing its job 😊
+
+What’s strongest here is this:
+
+Brittany is not hovering, but she is absolutely **managing the perimeter**. That’s the sweet spot. She briefs Charlotte, throws her in, lets her swim a little on her own, then steps back in when needed. That is far more interesting than protector-Brittany or negligent-Brittany. It feels like a young woman who knows how groups work.
+
+And Charlotte’s POV is good. She doesn’t sound like a thesis machine here. She sounds like a girl trying very hard to pass each little test in real time and sometimes slightly overcorrecting. That’s alive.
+
+A few specific things that are especially good:
+
+“Don’t look like you’re being served legal papers.”
+Excellent. Instantly characterful.
+
+“I’m-a speak-a your language.”
+Also good — very Brittany.
+
+“I selected some honeydew melon and a sausage with onion on a slick of white bread.”
+That is such a wonderfully Charlotte choice of observation. Concrete, slightly over-attentive, slightly funny without trying to be.
+
+“We’re not doing bravery today, girlfriend.”
+That is one of the best lines in the scene. Keep it.
+
+And this:
+
+> Brittany trusted badly. The other girl exploited that trust.
+
+You can already feel the groundwork for that sort of future dynamic in how Brittany operates here. She is socially competent, but not omniscient. That is promising.
+
+Now, the main things I’d tune.
+
+First: the drive scene is good, but the placeholder absolutely wants filling with **easier, more normal examples**. At the moment, “where did you get that scarf?” feels a bit preloaded, like Brittany is teaching from a social-skills pamphlet. For a pool party, she’d likely give Charlotte examples that are blunter, more situational, more idiot-proof.
+
+Something like this would sit more naturally:
+
+> “So, you can say something like, ‘How d’you know Harri?’ or ‘Is that the heated pool?’ or ‘Did you come hungry too?’ Or if someone’s got nice swimmers on, sure, say that. Just keep it easy.”
+
+Or even:
+
+> “Like: ‘How do you know Harri?’ ‘Have you been here before?’ ‘Is Fred always this serious about the barbie?’ Nothing deep. Just easy stuff.”
+
+That feels more like Brittany thinking on her feet, and more like usable advice.
+
+Second: this line has a little pronoun slip:
+
+> “My stomach flipped as he went a bit quickly though a dip.”
+
+That should be **she**, of course, and probably **through** rather than **though**.
+
+So:
+
+> My stomach flipped as she went a bit quickly through a dip.
+
+Third: Fred.
+
+You’ve done something quite useful with him. He’s not monstrous; he’s just the sort of bloke who makes a girl aware of her body in a way she didn’t ask for. That’s believable. But the moment where he is staring at her chest wants just a tiny bit more precision, because at present it risks feeling abrupt rather than registered.
+
+Right now you have:
+
+> “Right!” He was staring at my chest. I glanced down.
+> *Did I drip something on myself?*
+
+The instinct is good. Very Charlotte. But I think you can make the beat land more sharply with one extra sensory clue before she understands it.
+
+For instance:
+
+> “Right!” His eyes dropped and stayed there a fraction too long. I glanced down.
+> *Did I drip something on myself?*
+
+That “fraction too long” does a lot of work.
+
+Or, if you want it even more Charlotte-ish:
+
+> “Right!” His eyes dipped. I looked down too, checking my dress.
+> *Did I spill something?*
+
+That keeps her innocence intact.
+
+Fourth: Brittany’s rescue there is good, but I think her apology/explanation afterwards could be a touch stronger and more *female-coded practical*, less vague.
+
+At present:
+
+> “Sorry, should have warned you about Fred. He’s a bit of a—”
+
+That trails off, which is fine, but she might be more specific in a dry, young-woman way. Something like:
+
+> “Sorry. Should’ve warned you about Fred. He’s a bit too interested in girls having chests.”
+
+Or:
+
+> “Sorry. Should’ve warned you. Fred’s harmless, but his eyes do freelance work.”
+
+That second one is a bit more stylised, perhaps too much depending on Brittany’s tone. The first is plainer and probably truer.
+
+Fifth: Natalie’s massage bit is lovely in intent, but this sentence is just slightly off grammatically:
+
+> “This so nice. Thank you, Natalie—”
+
+That wants:
+
+> “This is so nice. Thank you, Natalie—”
+
+Also, “wormed their way” may be a touch wrong for the soothing effect you want. It sounds a little too creepy or invasive. You could soften it:
+
+> I startled slightly at the cool lotion, then sighed as Natalie’s hands worked over my neck and shoulders in slow, firm circles.
+
+That keeps it nurturing.
+
+Sixth: the sausage/banana joke.
+
+I think the *idea* is very sound. It shows Brittany as socially literate in a way Charlotte is not yet. But the beat can be sharpened because right now it arrives slightly out of nowhere. You may want Brittany to clock Charlotte’s food, hesitate, then decide Charlotte needs the memo.
+
+For example:
+
+> Brittany eyed my plate, pressed her lips together, then looked at me.
+> “Okay. Tiny social note.”
+> “What?”
+> “Good job there are no blokes here.”
+> My head snapped back. “What are you on about now?”
+> Then I looked at the sausage in the bread and went still. “Oh.”
+> “Yeah. Oh.”
+
+That gives the joke a cleaner runway.
+
+Seventh: this is a very small thing, but this line:
+
+> “I wasn’t really in the mood for the pool today,” I said as meaningful as I could.
+
+I get what you mean, but “as meaningful as I could” is a bit writerly in a way Charlotte probably wouldn’t think. Maybe:
+
+> “I wasn’t really in the mood for the pool today,” I said, trying to make that the end of it.
+
+That feels more internal and less interpretive.
+
+Eighth: the ending exchange in the car is good, particularly Brittany’s:
+
+> “Yes, we do,” she said softly.
+
+That lands. It’s understated and it carries the shadow of Charlotte’s disclosure without over-explaining it. Nice.
+
+What I think the scene is doing well structurally is this:
+
+It starts as **practical coaching**, becomes **social exposure**, then turns into **bodily discomfort / male attention / female rescue**, and closes on **unfinished private knowledge**. That’s a proper mini-arc. It moves.
+
+If I were polishing it, I’d mostly be doing line-level tightening rather than rethinking the scene.
+
+Here are the two spots I’d most want to hand back to you in near-finished form.
+
+For Brittany’s “simple questions” bit:
+
+> “So, you can say something like, ‘How do you know Harri?’ or ‘Have you been here before?’ or ‘Is the pool actually heated?’ Stuff like that. Easy questions. People love easy questions.”
+
+And for the Fred beat:
+
+> “Right!” His eyes dropped and stayed there a fraction too long. I looked down too, checking my dress.
+> *Did I spill something?*
+> Then my shoulders began to curl forward.
+> Brittany appeared beside me. “Might show Charlotte the house, if that’s okay, Fred.”
+
+That makes Brittany’s intervention feel even cleaner and more protective without making Charlotte suddenly hyper-articulate about what happened.
+
+Overall, though? This is good work. Better than good, really. It has texture, pace, social awkwardness, and two distinct female energies operating at once: Brittany’s breezy competence and Charlotte’s effortful mimicry. That contrast is carrying the scene beautifully ✨
+
+Paste me the next revision when you’ve got it, and I’ll help you sharpen it further.
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
@@ -324,9 +489,10 @@ I’d love to help you draft Beat 1 — Brittany’s in-car “social integratio
 
 
 
-##
+## Polishing
 
 <img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
@@ -350,7 +516,7 @@ I’d love to help you draft Beat 1 — Brittany’s in-car “social integratio
 
 
 
-
+<!--
 
 ##
 

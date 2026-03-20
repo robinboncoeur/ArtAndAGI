@@ -2,13 +2,8 @@
 
 ## Markdown Cheatsheet
 
-<a href="/assets/images/blog25/06-16Office.jpg" 
-   target="_blank" rel="noopener" 
-   style="box-shadow: 0 0 25px rgba(0.9,0.9,0.9,0.2);">
-<img src="/assets/images/blog25/06-16Office.jpg" 
-     alt="Me" 
-     width="300" 
-     align="right"></a>
+<a href="/assets/images/blogs/06-16Office.jpg" target="_blank" rel="noopener">
+<img src="/assets/images/blogs/06-16Office.jpg" alt="Victorian Train-front" width="140" align="left">< /a>
 
 This site uses MkDocs, which is a superset of markdown. This section will serve as reminder on markdown syntax. As I get information from [Emily](../visual/Emilyai.md) on other tech -- tasks that are more involved -- that tech will be given its own dedicated page.
 
