@@ -381,7 +381,7 @@ I had just realised my little red spray bottle of insect repellent was almost em
 
 I shrugged. "Sort of." I shook the little bottle and my lips twisted.
 
-"You won't need that," she said. "You don't seriously think Harri's folks wouldn't have installed industrial-strength insect management in the middle of a jungle, do you? It's where mozzies and midges go to die."
+"You won't need that," she said. "You don't seriously think Harri's folks wouldn't have installed industrial-strength insect management in the middle of a jungle, do you? Their pool is where mozzies and midges go to die."
 
 I looked around me. "So, what do I bring?"
 
@@ -393,21 +393,21 @@ The cicadas were so loud, their racket could be heard even through closed window
 
 I turned in my seat. “Sorry?”
 
-“Look, you do dot-points. I get it. I’m-a speak-a your language.” I snorted a laugh. "Pretty sure you won't need your notepad." 
+“Look, you do dot-points. I get it. I’m-a speak-a your language.” I snorted a laugh. "No need for a notepad, though."
 
-I looked out the window. “As if it would do any good to take notes now.”
+I looked out the window. “As if I would.”
 
-“Hey, wouldn't surprise me if you did." She grinned. "Rule number one: if somebody says hi, smile and just say hi back. Don’t look like you’re being served legal papers.”
+“Hey, wouldn't surprise me." She grinned. "Okay, so rule number one. If somebody says hi, smile and say hi back. Don’t look like you’re being served legal papers.”
 
 “Since when do I look like that.”
 
-“You pretty much always do when you’re nervous. Rule two: after you say hi, ask something. Like, a *simple* question. Doesn’t have to be anything deep." My stomach flipped as we went a bit quickly through a dip. "Actually, it's better if it isn't. Just ask something easy.”
+“Pretty much always when you’re nervous. Rule two: after you say hi, ask something. Like, a *simple* question. Doesn’t have to be anything deep." My stomach flipped as the car went through a dip. "Actually, it's better if it isn't. Just ask something easy.”
 
 "Not sure I get what you mean."
 
-“So, you can say something like, ‘How d’you know Harri?’ or ‘Is that a heated pool?’ or ‘Did you come hungry too?’ Or if someone’s got nice swimmers on, sure, say that. Just keep it easy.”
+“Right. So, say something like, ‘How d’you know Harri?’ or ‘Is that a heated pool?’ or ‘Did you come hungry too?’ Or if someone’s got nice swimmers on, sure, say that. Just keep it easy.”
 
-I folded my arms. “So, say hi back. Ask simple-to-answer question. That it?”
+I folded my arms. “Say hi back. Ask simple-to-answer question. That it?”
 
 “Just a couple more—keeping it simple. Rule three: don't make your answers an essay. Think 'short-attention-span theatre'.”
 
@@ -417,7 +417,7 @@ I stared at the windscreen, slightly envying the bug clinging for dear life on t
 
 "What do you mean, stuck?"
 
-Her brows rose. "Hey, awkward pauses happen. Just comment on something obvious. The weather, the pool, the food, somebody’s hair, whatever. No one expects a polished thesis.”
+Her brows rose. "Hey, awkward pauses happen. Just comment on something obvious. The weather, the pool, the food, somebody’s hair, whatever. No one wants a polished thesis.”
 
 I sighed.
 
@@ -431,7 +431,9 @@ I nodded. "Okay," I said through thin lips. "Sounds easy enough. But—"
 
 “Nothing,” I said. “It’s just that your rules are frighteningly easy to get, in here. Out there...”
 
-The turn signal clicked softly. She turned into a very narrow road into the jungle. My stomach churned. *Almost there*.
+The turn signal clicked softly. She turned into a very narrow road into the jungle. My stomach churned. 
+
+*Almost there*.
 
 "That's all there is to it, Charlotte." My tummy stayed tight despite the cheeriness in her voice.
 
@@ -439,7 +441,9 @@ The turn signal clicked softly. She turned into a very narrow road into the jung
 
 “It will be,” Brittany said, “because I thought them up *especially* for you.”
 
-We walked along a little flower-lined footpath around the house into a total jungle. The pool was behind the house, nestled among huge trees and vines. I preemptively scratched at a itch that turned out not to be a bite after all. I heard laughter before opening the gate to the pool area, which grew louder—girls at the far end of the pool were splashing and carrying on. An older man in denim shorts and an apron stood at the barbie amidst a cloud of smoke. The sizzling-steak smell reminded me I had forgotten to have lunch.
+We walked along a little flower-lined footpath around the house into a total jungle. The pool was behind the house, nestled among huge trees and vines. I preemptively scratched at a itch that turned out not to be a bite after all. 
+
+I heard laughter before I opened the gate to the pool area. It grew louder as I stepped through—girls at the far end of the pool splashing and calling to each other. An older man in denim shorts and an apron stood at a barbie amidst a cloud of smoke. The sizzling-steak smell reminded me I had forgotten to have lunch.
 
 "Oi! Over here, Brittany!"
 
@@ -455,7 +459,9 @@ My cheeks stiffened with an attempt at a smile. After a twitch or two, I gave it
 
 "It was so nice of you to invite me," I said. "I can't believe—"
 
-I bit my lip. *Try again*.
+I bit my lip. 
+
+*Try again*.
 
 "This is a really neat place for a pool," I managed.
 
@@ -479,7 +485,7 @@ Her chin went up slowly.
 
 "Got it," she said with a nod.
 
-"I love your, er, togs. They're really cute," I said. "That colour totally suits you."
+"I love *your*, er, swimmers. They're really cute," I said. "That colour totally suits you."
 
 Natalie grinned.
 
@@ -491,7 +497,7 @@ Brittany appeared by her side, dripping on the warm wooden deck.
 
 Lisa was putting sunscreen on her arms as we approached the table.
 
-"I thought you just put on sunscreen," Brittany said.
+"I thought you just put on sunscreen," Natalie said.
 
 Lisa pointed to her russet locks. "If your hair was naturally this colour, you'd be bathing in it."
 
@@ -503,7 +509,7 @@ Lisa pointed to her russet locks. "If your hair was naturally this colour, you'd
 
 "Thank you," he grinned. "It's simple but we prefer it to Perth."
 
-My brows rose. 
+My brows rose. I glanced at Brittany.
 
 *Perth?*
 
@@ -565,7 +571,7 @@ In the bathroom, Brittany pulled a lipstick out of her purse.
 
 "Nah, it's okay," I said. "We don't have to leave yet. I'll be right."
 
-"We're not doing bravery today, girlfriend," she said. "We can leave any time you're ready. Why don't we go over to the other side of the pool with Lisa and the others? Grab a beer... might help you relax a bit."
+"We're not doing bravery today, girlfriend," she said. "We can leave any time you're ready. Why don't we go over to the other side of the pool with Lisa and the others first, though? Grab a beer... might help you relax a bit."
 
 "I *am* relaxed!"
 
@@ -575,13 +581,13 @@ I picked up a Corona from the eskie and we joined the girls on the deck near the
 
 "Let me," said Natalie. "You look like your neck is going to snap in half." 
 
-There was a soft squeak of plastic as she squeezed lotion into her hand. I startled slightly at the cool touch, then sighed as Natalie’s hands worked over my neck and shoulders in slow, firm circles.
+There was a soft squeaky whistle of plastic as she squeezed lotion into her hand. I startled slightly at the cool touch, then sighed as Natalie’s hands worked over my neck and shoulders in slow, firm circles.
 
 "This is so nice. Thank you, Natalie—"
 
 "It's the least I could do. You looked like you didn't care for the attention you were getting there, Charlotte."
 
-"Look, he's harmless," Brittany murmured in my ear. "He just doesn't realise our eyes are way up here."
+"Look, Fred's harmless," Brittany murmured. "He just doesn't realise our eyes are way up here."
 
 My chest twitched, repressing a laugh. Fred was pouring himself a Jack Daniels, sloshing a bit as he was distracted by a black bathing suit diving into the pool.
 
@@ -589,7 +595,7 @@ The sun had set when we got into the car. I slapped at a mosquito.
 
 "First one today!"
 
-"You did well," Brittany said. "Everyone loved you, especially Fred."
+"You did really well, you know," Brittany said. "Everyone loved you, especially Fred."
 
 "That's nice."
 
@@ -613,7 +619,7 @@ She glanced at me. Her smile and her eyes weren't a perfect match.
 
 I didn't have to ask what she meant.
 
-
+characterstudy dress fabrictexture photorealistic sliceoflife narrativeart womeninart womensstories
 —
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
