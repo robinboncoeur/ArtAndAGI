@@ -30,17 +30,17 @@ I slammed the car door and stared at my phone for the seventh time that day.
 
 No messages.
 
-Even on a Sunday, I’d managed to convince myself Wardrobe needed me. I'd stayed there later than I needed to, tidying things that were already tidy. I could feel my mouth thinning as I drove.
+Even though it was a Sunday, I’d managed to convince myself Wardrobe needed me. I'd stayed there later than I needed to, tidying things that were already tidy. 
 
-The car engines and truck horns seemed louder this evening. Even the crossing beepers at the lights had more to say than I wanted to hear. 
+I could feel my mouth thinning as I drove. The car engines and truck horns seemed louder this evening. Even the crossing beepers at the lights had more to say than I wanted to hear. 
 
 My jaw tightened.
 
-*Don't obsess, Celeste.*
+Don't obsess, Celeste.
 
 I pulled in at a drive-through bottle-o. Harsh fluorescent lights were not going to stop me choosing "Cat Among The Pigeons". I checked the year and nodded.
 
-The sun had set when I pulled into my little parking space, glad the visitors next door hadn't pinched it. Jasmine from the vine on the fence sweetened a weekend-weary evening.
+The sun had set when I pulled into my little parking space, grateful the visitors to the next door neighbours hadn't pinched it. Jasmine from the vine on the fence sweetened a weekend-weary evening.
 
 I checked my phone again.
 
@@ -50,19 +50,19 @@ My shoes gave a hollow clack-clack on the floorboards as I entered the kitchenet
 
 I slowly selected a potato. "Brushed". I scrubbed the potato with a curly girl—one of those coiled steel scrubbers—wondering at the term 'brushed'. 
 
-*Brushed with what? There's still soil!*
+Brushed with what? There's still soil!
 
 Checked my phone again.
 
 The microwave hummed as I sat down with my glass and tapped the screen. The phone warbled, then warbled again, bright and pointless. I hung up, my grip tightening on the phone. 
 
-*6:30 pm. Where is she?*
+6:30 pm. Where is she?
 
 I stared at my glass of wine, and had another sip. The silence in the room was insulting.
 
 The phone trilled. I jumped, then took a deep breath. Let it trill three more times before I tapped it.
 
-Tightened my cheeks into my best smile. The screen brightened, and there she was.
+I tightened my cheeks into my best smile. The screen brightened, and there she was.
 
 "Hi petal," I said.
 
@@ -70,11 +70,15 @@ Tightened my cheeks into my best smile. The screen brightened, and there she was
 
 I pulled my head back.
 
-"I miss you too, Charl..." I paused. Charlotte's head tilted. "So, it's Charlotte, now, is it?"
+"I miss you too, Charli." I paused. Charlotte's head tilted. "So, it's Charlotte, now, is it?"
 
-One side of her lips raised. "Yeah, Brittany didn't like 'Charli', said it was too blokey." She shrugged, which did little to make the tension in my shoulders any less. "Fine by me. Tell me if you don't like it."
+One side of her lips raised. "Yeah, Brittany didn't like 'Charli', said it was too blokey. Fine by me." She grinned. "Tell me if you hate it."
 
-I snorted, and wagged my brows at her with an honest grin. My shoulders dropped—I let out a breath I only just realised I'd been holding.
+I snorted. 
+
+Those were my words.
+
+I wagged my brows at her with an honest grin. "Touché." My shoulders dropped—I let out a breath I only just realised I'd been holding.
 
 "So, how is training going?"
 
@@ -82,7 +86,7 @@ I snorted, and wagged my brows at her with an honest grin. My shoulders dropped�
 
 "Harry?"
 
-"Short for 'Harriet'," Charlotte said. "Caroline's into design—she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
+"She prefers it to 'Harriet'," Charlotte said. "Caroline's into design—she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
 
 "And Brittany?"
 
@@ -94,21 +98,21 @@ I swallowed.
 
 "Um, yeah. Sort of. I guess." 
 
-I shook my head at the screen and snorted again. My lips had gone tight.
+I snorted again. My lips had gone tight.
 
 Charlotte frowned. "What?"
 
-I shook my head quickly. "Nothing. Have all the costumes been distributed?"
+"Nothing. Have all the costumes been distributed?"
 
-"Yep. Every last one. And we've also had a couple of repairs. Something tells me Fiona doesn't think they're going to be all that busy. I think she's in for a bit of a surprise." She stopped, staring at me. "You know, it's nice up here, but—"
+"Yep. Every last one. And we've also had a couple of repairs. Something tells me Fiona doesn't think they're going to be all that busy, though. I think she's in for a bit of a surprise." She stopped, staring at me. "You know, it's nice up here, but—"
 
 "But?"
 
 Her lips twitched.
 
-"It's a bit 'party-town' after work. Especially on Fridays and the weekend."
+"Well, it's a bit party-town after work. Especially on Fridays and the weekend."
 
-"Like, it would be in Melbourne."
+"So, like Melbourne."
 
 "I guess." Her lips went sideways. "Not my thing. I mean, the pool party was, um, fun—"
 
@@ -116,17 +120,17 @@ My brows rose.
 
 "How so?"
 
-"Well, everyone's so nice," she said. "I even got me a new dress. I think you'll like it."
+"Well, everyone was so nice. I even got me a new dress," she said. "I think you'll like it."
 
 "You went shopping for a dress?"
 
 "Well, actually, Brittany took me. She had decided something about what I was wearing." She shrugged. "But yeah, I like the dress. Paid a bit more for it, but then, I didn't get from the shops I usually go to."
 
-The knot tightened again.
+The knot had tightened again.
 
-“So, what did Brittany have an issue with?”
+“What did Brittany have an issue with?”
 
-“Look, she’s from Perth," Charlotte said. She shrugged. "Look, her folks just bought her a brand-new EV. I’m allowed to be mildly suspicious of her standards.”
+“Look, she’s from Perth. Her folks just bought her a brand-new EV," Charlotte said. "I’m allowed to be mildly suspicious of her standards.”
 
 I cleared my throat.
 
@@ -140,9 +144,9 @@ I nodded. She frowned. "It's a bit— new to me. There's more to it than I thoug
 
 One side of her mouth lifted. “Yeah. I do.”
 
-We held each other’s gaze through the screen.
+We held each other’s gaze through the screen. 
 
-"Two more weeks," she said finally. I pulled my mouth into a small, steady smile as I dipped my head.
+She let out her breath in a big sigh. "Two more weeks," she said finally. I pulled my mouth into a small, steady smile as I dipped my head.
 
 "I'm proud of you," I said. "Fiona is really impressed how quickly her department is getting up to speed."
 
@@ -150,37 +154,33 @@ Charlotte found a smile, and kept it there. Her eyes had a question, though.
 
 "What is it?"
 
-She breathed out. "Not sure how to—"
+She grimaced and let an impatient breath out through her nose. "Not sure how to—"
 
-A coolness under my ribs returned. I flipped my hand.
+I flipped my hand.
 
 "Just say it, Charlotte."
 
 She took in a deep breath.
 
-"Well, so—" She paused again. I stilled, waiting. "The pool party, right? The girls kept inviting me into the pool." Another pause as she bit her lip. "Celeste, I couldn't—"
+"Well, so—" She paused again. I stilled, waiting. "The pool party, right? The girls kept inviting me in." Another pause as she bit her lip. "Celeste, I couldn't—"
 
 My mouth twitched in a small smile.
 
-"How did you get out of it?"
+"How did you get out of it? No togs?"
 
 Her face reddened. A laugh escaped me. "You didn't!"
 
-"Yeah. Invoked Martha. Hey, what could I—"
+"Yep. Invoked Martha. Hey, what else could I—"
 
 "No, that was perfect! Good thinking."
 
-She grimaced. "Have to admit, not my idea. But, here's the thing... I can't keep using that excuse, Celeste."
+She grimaced. "Have to admit, not my idea. But, here's the thing... I can't keep using that excuse, Celeste. And, to be honest, I don't want to, either." She looked down, her eyes serious. "I've been thinking about this a lot, lately." 
 
-"So?"
-
-She looked down, her eyes serious.
-
-"I've been thinking about this a lot, lately. More and more, to be honest." 
+"Of what, exactly?"
 
 Outside, a lapwing screeched. 
 
-"Of, um, like, surgery?"
+"Of, um, like... surgery?" Her voice was thin.
 
 The screeching faded into the distance.
 
@@ -190,19 +190,19 @@ She stared down, her lips tight.
 
 "I know," she said softly.
 
-I took a sip from my glass. "Now, this *really* isn't just so you can wear togs, is it?"
+I took a sip from my glass. "Just checking. This really isn't just so you can wear togs, is it?"
 
 "No, of course not." She finally looked at me—her eyes had reddened. "No, it's... I've actually been thinking about it, ever since I started the treatments. Off and on."
 
-“Right then,” I said. “We’re not going to pretend it’s about swimwear. This is about something else.” The knot was gone. I looked away for a moment. “When you picture it done, what do you actually feel? Relief? Or just less fear?”
+“Right then,” I said. “This is about something else.” The knot was gone. I looked away for a moment. “Tell me, when you picture it done, what do you actually feel? Relief? Or just less fear?”
 
 She looked away, biting her nail. The clock in the kitchenette ticked.
 
-"Relief?"
+"Relief?" Her eyes held the question.
 
 "You're not sure?"
 
-"No, it's not that. Just—" Her fingers stroked her temple. She frowned slightly. "I know this sounds weird, but am I allowed to feel, like, relief?"
+"No, it's not that. Just—" Her fingers stroked her temple. She frowned slightly. "I know this sounds weird, but am I allowed to feel... relief?"
 
 "What do you mean, 'allowed'? It's your body, Charlotte."
 
@@ -232,31 +232,13 @@ Her eyes sought mine.
 
 "True." Charlotte’s mouth widened without becoming a smile. "We have a lot to think about."
 
-*We*.
+We.
 
 That landed well.
 
 "I miss you," she said.
 
 "And I miss you," I replied. “More than’s sensible.”
-
-
-—
-
-**Beat 3 — Internal Calibration**
-
-
-
-**Beat 4 — Choice**
-
-
-
-**Beat 5 — Power Adjustment (TURN)**
-
-
-
-**Beat 6 — Exit Note**
-
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
