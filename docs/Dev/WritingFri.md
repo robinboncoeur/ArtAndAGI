@@ -1,195 +1,216 @@
-Mara didn’t call a meeting. She called me to the cutting table the way she called anyone: a hand gesture that assumed you’d come, and a tone that didn’t waste time making you feel chosen.
+[ Celeste ]
 
-“Bring the ledger.”
+I slammed the car door and stared at my phone for the seventh time that day.
 
-Lauren was already there, sleeves rolled up, pencil behind her ear like it had grown there. In front of her: printed emails, order confirmations, a delivery docket stamped in red. On top sat a single sheet covered in neat columns: the kind of handwriting that made maths look like it had manners. Charlie hovered at the edge of the table, like a technician waiting for his next specification.
+No messages.
 
-Sarah sat on a stool with her arms folded, expression guarded, as if she didn’t want to be caught caring.
+Even though it was a Sunday, I’d managed to convince myself Wardrobe needed me. I'd stayed there later than I needed to, tidying things that were already tidy. 
 
-Mara tapped the stack of papers with two fingers.
+I could feel my mouth thinning as I drove. The car engines and truck horns seemed louder this evening. Even the crossing beepers at the lights had more to say than I wanted to hear. 
 
-“Museum wants another run,” she said. “More sizes. More units.”
+My jaw tightened.
 
-Lauren slid the top sheet toward her.
+Don't obsess, Celeste.
 
-“And they want delivery dates,” Lauren added. “Not just ‘when it’s ready.’”
+I pulled in at a drive-through bottle-o. Harsh fluorescent lights were not going to stop me choosing "Cat Among The Pigeons". I checked the year and nodded.
 
-Mara’s eyes flicked over the page. She didn’t read like a person, more like a machine checking tolerances.
+The sun had set when I pulled into my little parking space, grateful the visitors to the next door neighbours hadn't pinched it. Jasmine from the vine on the fence sweetened a weekend-weary evening.
 
-“How many?”
+I checked my phone again.
 
-Lauren didn’t even glance down.
+Nothing.
 
-“Thirty-six,” she said. “This batch. With a follow-on option if the first run sells through.”
+My shoes gave a hollow clack-clack on the floorboards as I entered the kitchenette. I frowned at the slight tremble in my hand as I poured.
 
-Sarah let out a low whistle.
+I slowly selected a potato. "Brushed". I scrubbed the potato with a curly girl—one of those coiled steel scrubbers—wondering at the term 'brushed'. 
 
-“Thirty-six,” she repeated. “That’s not... boutique.”
+Brushed with what? There's still soil!
 
-“No,” Mara said. “That’s work.”
+Checked my phone again.
 
-She looked at me, and the room shifted... the moment when it stops being a room and starts being an organism.
+The microwave hummed as I sat down with my glass and tapped the screen. The phone warbled, then warbled again, bright and pointless. I hung up, my grip tightening on the phone. 
 
-“Open the ledger.”
+6:30 pm. Where is she?
 
-I did. It fell open to pages that had started to look less like notes and more like proof: headings, repeated fields, signatures. Charlie’s handwriting, increasingly steady. Mara’s marginal corrections. The blunt, unwavering language of process. Mara pointed to the most recent entries.
+I stared at my glass of wine, and had another sip. The silence in the room was insulting.
 
-“How many prototypes did we run last week?”
+The phone trilled. I jumped, then took a deep breath. Let it trill three more times before I tapped it.
 
-Charlie answered before I could.
+I tightened my cheeks into my best smile. The screen brightened, and there she was.
 
-“Eleven,” he answered, “across three body types. One full redo on the ‘well-nourished’ block. Two seam-finish changes. And... the underarm guard adjustment.”
+"Hi petal," I said.
 
-He said it cautiously but clearly. Facts. Sequence. Outcome. Mara nodded, then pointed at Lauren’s sheet.
+"Hi, Celeste," she said. After a pause, "I so miss you!"
 
-“And how many finished garments left the building?”
+I pulled my head back.
 
-Lauren’s pencil tapped the paper once. “Nine.”
+"I miss you too, Charli." I paused. Charlotte's head tilted. "So, it's Charlotte, now, is it?"
 
-Charlie blinked. “Only nine?”
+One side of her lips raised. "Yeah, Brittany didn't like 'Charli', said it was too blokey. Fine by me." She grinned. "Tell me if you hate it."
 
-Lauren turned her head slightly toward him. Her voice stayed warm, but it didn’t soften the facts.
+I snorted. 
 
-“Nine finished garments,” she said, “is nine more than most people manage without a system.”
+Those were my words.
 
-Mara watched him absorb that. She understood disappointment, didn’t soothe it. She used it.
 
-“Here’s the problem,” Mara said, and drew a rectangle on the paper with her pencil. A plain box. No drama. “Prototype time competes with production time.”
+I wagged my brows at her with an honest grin. "Touché." My shoulders dropped—I let out a breath I only just realised I'd been holding.
 
-Sarah shrugged. “So you hire someone.”
+"So, how is training going?"
 
-Mara’s gaze cut to her.
+"Yeah. I think they're getting it," she said. "Harri's got the hands—"
 
-“With what money?”
+"Harry?"
 
-Sarah opened her mouth, then shut it. She hated the way reality closed doors. 
+"She prefers it to 'Harriet'," Charlotte said. "Caroline's into design—she's got great ideas, too. Natalie is going to be their Sarah: I can just see it."
 
-Mara treated doors as hinges.
+"And Brittany?"
 
-Lauren slid another sheet forward. This one looked uglier: spreadsheets always do when they tell the truth.
+Charlotte bit her lip before replying. "Well, she's a bit of a 'jack-of-all-trades'. But I think she'll sort of end up as manager—"
 
-“Mara asked me to tally costs,” Lauren said. “Materials. Hardware. Labour. Waste. The things you forget to count when you’re still pretending you’re just making pretty things.”
+I swallowed.
 
-Mara’s mouth tightened.
+"In other words, my role." 
 
-“We’re profitable on small runs,” Lauren continued. “We’re... interesting on larger ones. But only if we stop bleeding time.”
+"Um, yeah. Sort of. I guess." 
 
-Charlie stared at the sheets as if they were written in a dialect he’d never learned. His mind tried to turn them into fabric. Mara pointed to him without looking.
+I snorted again. My lips had gone tight.
 
-“Read the bottom line.”
+Charlotte frowned. "What?"
 
-Charlie leaned in.
+"Nothing. Have all the costumes been distributed?"
 
-“It says...” He swallowed. “It says if we do thirty-six without changing anything, we’ll—” He stopped.
+"Yep. Every last one. And we've also had a couple of repairs. Something tells me Fiona doesn't think they're going to be all that busy, though. I think she's in for a bit of a surprise." She stopped, staring at me. "You know, it's nice up here, but—"
 
-“We’ll be exhausted,” Lauren finished for him, translating what she knew he couldn’t say.
+"But?"
 
-Sarah snorted. “Welcome to womanhood.”
+Her lips twitched.
 
-Mara’s eyes flicked to her—clean, flat.
+"Well, it's a bit party-town after work. Especially on Fridays and the weekend."
 
-“Colleague,” Sarah muttered, as if the correction cost her. Mara returned to Charlie.
+"So, like Melbourne."
 
-“So. What do we change?”
+"I guess." Her lips went sideways. "Not my thing. I mean, the pool party was, um, fun—"
 
-Charlie stared at the numbers until they stopped being numbers and started being time.
+My brows rose.
 
-“We could... reduce prototype cycles,” he said slowly, “and standardise more steps. Templates. Hardware packs. Cutting order.” His eyes lifted, cautious. “Scheduling.”
+"How so?"
 
-Mara nodded once.
+"Well, everyone was so nice. I even got me a new dress," she said. "I think you'll like it."
 
-“There,” she said. “That’s the shape of it.”
+"You went shopping for a dress?"
 
-Then she looked at me.
+"Well, actually, Brittany took me. She had decided something about what I was wearing." She shrugged. "But yeah, I like the dress. Paid a bit more for it, but then, I didn't get from the shops I usually go to."
 
-“Celeste. You can see it.”
+The knot had tightened again.
 
-It wasn’t a question: it was an assignment. Because, I could see it. I could feel my mind doing its favourite thing: taking chaos and converting it into something usable, repeatable. I loved the atelier for its craft, but what I loved more, what I almost didn’t dare admit, was the relief you got when a system snapped into place and the world started to behave.
+“What did Brittany have an issue with?”
 
-Lauren watched my face and gave a small, private smile, as if she was encouraging me to say it out loud.
+“Look, she’s from Perth. Her folks just bought her a brand-new EV," Charlotte said. "I’m allowed to be mildly suspicious of her standards.”
 
-“What do you see?”
+I cleared my throat.
 
-“We need operations,” I said. “Not vibes or heroics. Operations.”
+"Did you enjoy it?"
 
-Sarah blinked. “Operations.”
+"What, shopping?" 
 
-“Yes,” I said. “Inventory. Vendor schedules. Production planning. QA that doesn’t depend on Mara being in three places at once.”
+I nodded. She frowned. "It's a bit— new to me. There's more to it than I thought there would be."
 
-Mara held my gaze. She didn’t smile, but something in the pressure eased a fraction, as if she’d been carrying the whole weight alone and had just heard someone offer to pick up one end of it.
+“Mm.” I let the stem turn between my fingers. “And you think I’ll like the dress.”
 
-Lauren leaned on the table.
+One side of her mouth lifted. “Yeah. I do.”
 
-“And if we do that,” she said, warm, almost conversational, “we’re not just making garments. We’re building a business.”
+We held each other’s gaze through the screen. 
 
-A business. Charlie stared at the papers. His jaw set in a way I’d learned to recognise: resolve, searching for a role. Mara addressed the room.
+She let out her breath in a big sigh. "Two more weeks," she said finally. I pulled my mouth into a small, steady smile as I dipped my head.
 
-“Wardrobe is already a business,” she said. “The only question is whether we run it, or it runs us.”
+"I'm proud of you," I said. "Fiona is really impressed how quickly her department is getting up to speed."
 
-Silence settled. Lauren broke it the way she always did: by turning the moment into something you could act on.
+Charlotte found a smile, and kept it there. Her eyes had a question, though.
 
-“Okay,” she said. “Decisions. Do we accept the museum run?”
+"What is it?"
 
-Mara didn’t hesitate. “Yes.”
+She grimaced and let an impatient breath out through her nose. "Not sure how to—"
 
-Sarah huffed. “Of course.”
+I flipped my hand.
 
-Charlie looked up. “Can we... can we do it?”
+"Just say it, Charlotte."
 
-Mara’s gaze went to him, steady.
+She took in a deep breath.
 
-“We can,” she said. “If we stop pretending labour is infinite.” Then she turned to me, her eyebrows raised a tiny fraction. “You want to go back to school.”
+"Well, so—" She paused again. I stilled, waiting. "The pool party, right? The girls kept inviting me in." Another pause as she bit her lip. "Celeste, I couldn't—"
 
-The sentence landed with the peculiar precision of a pin going through fabric. It wasn’t a guess: it was something she’d observed and filed away as a constraint. Heat climbed into my face.
+My mouth twitched in a small smile.
 
-“Yes,” I said. “Uni. MBA. Or at least the pathway to it.”
+"How did you get out of it? No togs?"
 
-Sarah lifted a brow. “You? Business?”
+Her face reddened. A laugh escaped me. "You didn't!"
 
-“Yes.”
+"Yep. Invoked Martha. Hey, what else could I—"
 
-Mara didn’t let Sarah’s surprise take oxygen.
+"No, that was perfect! Good thinking."
 
-“I don’t want an outsider,” Mara said. “I want someone who understands this work and can make it survive growth.” She tapped the ledger. “You understand our standards. You understand our policies. And you’re already thinking in systems.” Then Mara’s tone went flat, the way it did when she refused to romanticise reality.
+She grimaced. "Have to admit, not my idea. But, here's the thing... I can't keep using that excuse, Celeste. And, to be honest, I don't want to, either." She looked down, her eyes serious. "I've been thinking about this a lot, lately." 
 
-“We don’t have the money to send you.”
+"Of what, exactly?"
 
-There it was. The real wall. Not fear. Not doubt. Tuition.
+Outside, a lapwing screeched. 
 
-“I can run circles around most people in a classroom,” I said quietly. “I can’t run circles around fees.”
+"Of, um, like... surgery?" Her voice was thin.
 
-In the corner of my eye, Charlie’s head snapped up. He didn’t speak: he didn’t have to. The old script reached for the table like a reflex: I can fix this. I can provide.
+The screeching faded into the distance.
 
-Lauren saw it too. Her warmth didn’t vanish, it turned into guardrails. She looked at Mara, not at Charlie.
+"Big step." 
 
-“Then we do what we do,” Lauren said. “We solve it like adults.”
+She stared down, her lips tight.
 
-Mara’s eyes narrowed, attentive. Lauren tapped the papers.
+"I know," she said softly.
 
-“We accept the museum run. We price it properly. We track time properly. We stop doing invisible labour.” She paused, glancing at me. “And we set up a fund. Transparent. Written. Agreed.”
+I took a sip from my glass. "Just checking. This really isn't just so you can wear togs, is it?"
 
-Sarah’s head cocked. “A fund.”
+"No, of course not." She finally looked at me—her eyes had reddened. "No, it's... I've actually been thinking about it, ever since I started the treatments. Off and on."
 
-Lauren nodded. “Education. Operations. Whatever you want to call it. This won't happen on hints and hope.”
+“Right then,” I said. “This is about something else.” The knot was gone. I looked away for a moment. “Tell me, when you picture it done, what do you actually feel? Relief? Or just less fear?”
 
-Mara held Lauren’s gaze for a long second.
+She looked away, biting her nail. The clock in the kitchenette ticked.
 
-“Write it,” she said finally, with a nod.
+"Relief?" Her eyes held the question.
 
-Lauren’s pencil moved. Charlie stared at the page, face blank. Mara glanced at him.
+"You're not sure?"
 
-“And nobody,” Mara said, “gets to mistake money for authority in this room.”
+"No, it's not that. Just—" Her fingers stroked her temple. She frowned slightly. "I know this sounds weird, but am I allowed to feel... relief?"
 
-Charlie swallowed. “No.”
+"What do you mean, 'allowed'? It's your body, Charlotte."
 
-Mara didn’t accept promises, she expected behaviour. She tapped the ledger.
+"Yeah but—"
 
-“We proceed.”
+"I'm not following."
 
-Lauren pushed a clean sheet toward me. “Start with what you want,” she said, warm again. “In numbers. Fees. Timeline. Units.”
+She gave her hand an impatient shake.
 
-I picked up the pen. This was what the atelier did when it wanted something real. It wrote it down. It made it measurable. 
+"I'm not saying it right, Celeste. It's just... don’t feel like this is only about me.”
 
-Outside, the Faire carried on... loud, theatrical, full of people telling stories about themselves.
+I gave a puzzled snort. "About who, then?"
 
-Inside, at the cutting table, we began building a story that would hold.
+"Well, you, for one," she replied. “It doesn’t feel like something I can decide without you.”
+
+"Oh." I leaned back with a nod, fingertips on my lips. "I see."
+
+Her eyes sought mine.
+
+“I know it’s mostly about me,” she said. “But it changes things for both of us, doesn’t it?”
+
+"If you're talking about the pitter-patter of little feet around the house—"
+
+"Well, yes and no." Her brow furrowed. "It's just that with surgery, there's risks."
+
+"Pregnancy has risks, too," I said.
+
+"True." Charlotte’s mouth widened without becoming a smile. "We have a lot to think about."
+
+We.
+
+That landed well.
+
+"I miss you," she said.
+
+"And I miss you," I replied. “More than’s sensible.”
