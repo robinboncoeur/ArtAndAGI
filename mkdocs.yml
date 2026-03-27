@@ -68,16 +68,17 @@ nav:
       - Robyn-Scene08: Charlotte/B2Scene08r.md
       - Emily-Scene09: Charlotte/B2Scene08e.md
       - Robyn-Scene09: Charlotte/B2Scene09r.md
+      - Emily-SceneTe: Charlotte/B2Scene09e.md
       - Emily-Scene10: Charlotte/B2Scene10e.md
       - Robyn-Scene10: Charlotte/B2Scene10r.md
-      - Emily-SceneTe: Charlotte/B2Scene09e.md
+      - Emily-SceneTr: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
 
   - Claudia:
       - Claudia/index.md
       - Canon Bible1: Claudia/CanonBible.md
       - NoteTemplate: Claudia/Notes26-00-00.md
-      - Notes-260321: Claudia/Notes26-03-21.md
+      - Notes-260321: Claudia/Notes26-03-21a.md
 
   - Emily:
       - Emily/index.md
@@ -98,6 +99,7 @@ nav:
       - ComfyUI Guidance: Dev/Comfyui.md
       - Domain Transfer: Dev/DomXfer.md
       - General Queries: Dev/General.md
+      - Writing Fridays: Dev/Writing.md
       - Image Prompts: Dev/Prompts.md
 
   - Blogs:
