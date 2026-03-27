@@ -229,6 +229,8 @@ Charli should not disclose private truths out of panic. If she discloses, it sho
 
 <img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+### Full Name: Celeste Shelley
+
 **Locked canon**
 
 ### Core role
