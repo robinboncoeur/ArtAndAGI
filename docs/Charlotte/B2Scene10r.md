@@ -50,7 +50,11 @@
 
 
 
+Hi Emily. Please use our last discussion : Scene 10 Feedback for context. I need to firm this up, because I'm clueless about young person conversation:
 
+I poured the scalding water over my teabag and watched the new girls file in. One of them, Lisa, scurried over.
+"Hi Charlotte," she said. "Didn't I see you at the pool party?"
+"You might have. I didn't go swimming, though." I smiled. "What a neat place for a pool, isn't it?"
 
 
 
@@ -67,17 +71,19 @@ Jeanette / Kitty / Peter
 
 [ *Charlotte* ]
 
-The new kettle gave a merry ding as the water in it bubbled. I poured the scalding water over my teabag and watched the new girls file in. One of them, Lisa, scurried over, and gave me a warm smile.
+The new kettle gave a merry ding as the water in it bubbled. I poured the scalding water over my teabag and watched the new girls file in. Lisa came over with that quick, bird-like energy of hers.
 
-"Hi Charlotte," she said. "Didn't I see you at the pool party?"
+“Morning, Charlotte. You were at Harri’s yesterday, weren’t you?”
 
-"You might have. I didn't go swimming, though." I smiled. "What a neat place for a pool, isn't it?" She beamed back. 
+“I was.” I smiled. “I sort of stayed out of the pool. Not my day for it.”
+
+Lisa grinned. “Probably the sensible option.”
 
 I lifted my chin at the stack of dresses on the repair table. "We might as well get stuck in, hey?"
 
-She nodded, carefully putting her bag in the cupboard, then sprinting over to where I was reading the tag.
+She nodded, carefully putting her bag in the cupboard, then scurried over to where I was reading the tag.
 
-"Seems we have a common weak spot." I pointed at a seam and glanced over at Harri, who grimaced as she held up the garment she was repairing. "Identical. I thought we'd sorted this issue back in our Wardrobe."
+"Seems we have found a common weak spot." I pointed at a seam and glanced over at Harri, who grimaced as she held up the garment she was repairing. "Identical. I thought we'd sorted this issue back in our Wardrobe."
 
 Lisa's eyes shone.
 
@@ -89,7 +95,7 @@ Brittany's face appeared over my shoulder.
 
 "That's one of the *well-nourished woman* models, isn't it?"
 
-"Oh. Yeah. Good point." I handed the dress to Lisa. "How would you fix this?"
+"Oh. Yeah. Good point. Couldn't have tested *that* model personally." I handed the dress to Lisa. "How would you fix this?"
 
 Her eyes grew wide as she bit her lip, staring at the seam. She slowly took the dress from me and looked at the thread, the inside of the garment and then, at me. She swallowed.
 
@@ -101,7 +107,7 @@ I nodded once. Harri held up the bodice she was working on.
 
 "Not the same. But similar issue." Her dress was the *return-to-work* model.
 
-The door swung open. Fiona sauntered in with a breezy "hello, everyone!"
+The door swung open and Fiona sauntered in with a breezy "hello, everyone!"
 
 "Is Sarah coming in today?" Fiona shook her head.
 
@@ -109,13 +115,17 @@ The door swung open. Fiona sauntered in with a breezy "hello, everyone!"
 
 My shoulders twitched inwards slightly.
 
-"I'll sort it, Fiona." Brittany's voice was cheery. The steam press hissed as Harri lifted the handle. "One repair done!"
+"I'll sort it, Fiona." Brittany's voice was cheery.
+
+The steam press hissed as Harri lifted the handle. "One repair done!"
 
 She was on her third repair before Lisa approached me with her dress.
 
 "I thought maybe you'd want to look at this, just to double-check I did it right?"
 
-The sewing was meticulous. I saw her shoulders drop slightly when I smiled. "Good work. Until you know how to work the steam press, I might let Harri do that for you."
+The sewing was meticulous. I saw her shoulders drop slightly when I smiled.
+
+"Good work. Until you know how to work the steam press, I might let Harri do that bit for you."
 
 I was on the phone to Mara when Lisa returned. She carefully took the remaining dress off the repair table, found the seam problem, and then waited. I glanced at her, brows raised. She smiled quickly but remained motionless. I turned back to the call.
 
@@ -137,31 +147,43 @@ I turned to find Lisa still sitting there, hands on her lap.
 
 She nodded and curled immediately over her work.
 
-At lunch, the girls had ordered take-away for sharing. I was forking some Pad Thai onto my plate when Lisa sidled up to me. "Oh, I love Pad Thai! My boyfriend will only ever eat fish and chips."
+At lunch, the girls clustered round the take-away containers and helped themselves. I was forking Pad Thai onto my plate when Lisa sidled up beside me.
 
-I smiled. My mind went to Celeste, who loved her jacket potatoes and rib fillet.
+“Oh, I love Pad Thai,” she said. “My boyfriend only ever wants fish and chips.”
 
-I heard Fiona growl at the coffee machine. It was a proper semi-professional Italian espresso model, built for durability and longevity.
+For some reason that made me think of Celeste, who would always go for jacket potatoes or rib fillet if she had the choice.
 
-"Does anyone know how to work this thing?"
+Behind me, Fiona growled at the new coffee machine — a semi-professional Italian espresso model, solid as a tank.
 
-I looked at the grinder: the little cup was empty.
+“Does anyone know how to work this thing?”
 
-"Have you ground your coffee yet?" Fiona's look sharpened. "Well, yeah," I continued, "sort of can't make coffee without it."
+I glanced at the grinder. The little catch-cup was empty.
 
-She huffed. "I was *told* this was a good machine to get—"
+“Have you ground the coffee?” I asked.
 
-"It is!" 
+Fiona’s look sharpened.
 
-While I got things ready, Fiona stood on one side of me, hands on hips, her frown tilted to one side. Lisa stood at the other.
+“Well, obviously not,” she said.
 
-"Do you have to check the grind every time?" she asked.
+“Right.” I set my plate down. “That’ll be the first problem, then.”
 
-I shook my head. "Once you've got it set, it'll usually be right most of the time, unless the humidity changes."
+While I got things ready, Fiona stood to one side with her hands on her hips, watching as though the machine had personally offended her. Lisa came round to the other side of me, her face in its usual frown of concentration while I showed her the steps.
 
-Fiona snorted. "We haven't got time to fiddle with coffee machines." It wasn't until she'd taken her second sip from her cappuccino that Fiona brightened a bit. "Say, this is rather nice."
+“Do you have to check the grind every time?” she asked.
 
-"Not hard either." I turned to Lisa, who'd made it. "Was it?"  
+I shook my head. “Once you’ve got it set, usually not. Unless the humidity changes.”
+
+Fiona snorted. “We haven’t got time to start a romance with a coffee machine.”
+
+It wasn’t until her second sip of cappuccino that she softened.
+
+“Well,” she said, looking into the cup, “that is rather nice.”
+
+“And not hard,” I said, turning to Lisa, who’d made it. “Was it?”
+
+Lisa smiled — proud, but relieved as well.
+
+She hadn’t needed much from me. Just someone to show her where to put her hands.
 
 It was a strange feeling. Without anybody saying so, things had started coming to me to be made workable.
 

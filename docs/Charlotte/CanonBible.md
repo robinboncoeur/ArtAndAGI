@@ -225,7 +225,7 @@ Charli should not disclose private truths out of panic. If she discloses, it sho
 
 
 
-## 4.2 Celeste
+## 4.2 Celeste Shelley
 
 <img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -287,7 +287,7 @@ Celeste represents “home” to Charli, not merely in romance but in emotional 
 
 
 
-## 4.3 Sarah
+## 4.3 Sarah St Michaels
 
 <img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -321,7 +321,7 @@ Sarah’s voice should remain dry, sharp, and consistent even if the wider narra
 
 
 
-## 4.4 Brittany
+## 4.4 Brittany Finlayson
 
 <img src="/assets/images/emily/260219as.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -382,7 +382,7 @@ Brittany earns trust **not by demanding truth, but by handling ambiguity with gr
 
 
 
-## 4.5 Fiona
+## 4.5 Fiona March
 
 <img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -394,7 +394,7 @@ At present, Fiona serves as evidence that Charli’s teaching mode is legitimate
 
 ---
 
-## 4.6 Lauren
+## 4.6 Lauren Rossignol
 **Locked canon**
 
 Lauren is part of the wider women-led network and has previously featured in emotionally significant scenes. She is associated with steadiness, survival, and practical recovery.
@@ -403,7 +403,7 @@ She belongs to the broader female competence network around Wardrobe.
 
 ---
 
-## 4.7 Mara
+## 4.7 Mara Tallbanks
 **Locked / broader canon**
 
 Mara is part of the women’s competence network and is linked to training, professionalism, and Charli’s status change. She is dry, standards-led, and non-sentimental.
