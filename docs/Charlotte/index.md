@@ -5,6 +5,9 @@
 **(...and Charlotte)**
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ☕🧠💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ — 
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻
+  — —
+
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
@@ -50,7 +53,7 @@ In [**Celeste's Girl**](CG-1Scenes.md) I leaned quite heavily on Emily. My origi
 
 I'm slowly putting together an audiobook of 'Celeste's Girl':
 
-Intro:
+### Intro:
 
 <audio controls="controls">
   <source src="http://audio.art.tightbytes.com/celestesgirl/Intro_CG.mp3" type="audio/wav">
@@ -59,7 +62,7 @@ Intro:
 
 ---
 
-Scene 1:
+### Scene 1:
 
 <audio controls="controls">
   <source src="http://audio.art.tightbytes.com/celestesgirl/Scene01-CelestesGirl.mp3" type="audio/wav">
@@ -67,13 +70,23 @@ Scene 1:
 </audio>
 
 ---
-Scene 2:
+### Scene 2:
 
 <audio controls="controls">
   <source src="http://audio.art.tightbytes.com/celestesgirl/Scene02-CelestesGirl.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+
+
+### Voices
+
+1. Celeste Shelley - Freya [ElevenLabs-VoiceID: u8ADrbquiJqufR9XMtb8]
+2. Charlotte Rossignol - 
+3. Sarah 
+4. Lauren
+5. Brittany
+6. Mara
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
