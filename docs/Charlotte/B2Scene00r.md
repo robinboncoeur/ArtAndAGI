@@ -3,7 +3,7 @@
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧—
 
 😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
 
@@ -17,33 +17,13 @@
 
 
 
-## Scene Start
+## 
 
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
+🌷 🌸 🌺 Visible 🌷 🌸 🌺
 
-**Beat 1 — Entry**
-
-
-
-**Beat 2 — Inciting Shift (PRIMARY)**
-
-
-
-**Beat 3 — Internal Calibration**
-
-
-
-**Beat 4 — Choice**
-
-
-
-**Beat 5 — Power Adjustment (TURN)**
-
-
-
-**Beat 6 — Exit Note**
-
+[ *C* ]
 
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
