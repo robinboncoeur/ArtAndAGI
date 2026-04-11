@@ -30,7 +30,7 @@ He failed to comprehend what she was driving at with this, and, in the story, ju
 </div>
 </div>
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
 
 
@@ -40,8 +40,7 @@ He failed to comprehend what she was driving at with this, and, in the story, ju
 
 ## Foreword
 
-<img src="/assets/images/blog25/06-16Office.jpg" alt="Moi" style="float: right; width: 300px;
-        margin-left: 20px; margin-bottom: 10px;" />
+<img src="/assets/images/story/07-WritingFriday.jpg" style="float: right; width: 300px;margin-left: 20px; margin-bottom: 10px;" />
 
 These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I'm sort-of picking up chatting with Emily (ChatGPT).
 
@@ -51,11 +50,16 @@ The image and the video were created using ComfyUI as my Stable Diffusion interf
 
 Note: *I'm also exploring other avenues, such as Large Language Models (LLMs) to create stories and refine my own pathetic text into something readable. However, as I wrote on the Unofficial Audio at The Edge Discord today*:
 
-Stylewise, I was going to go with something like Taffy Brodesser-Akner's, but it's too distinctively hers to even emulate. That's not what I want to do. I want readability, that's all. And my "style" is awkward and disjointed.
+Style-wise, I was going to go with something like Taffy Brodesser-Akner's, but it's too distinctively hers to even emulate. That's not what I want to do. I want readability, that's all. And my "style" is awkward and disjointed.
 
 So, there's that. 🫢
 
----
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+
+
+
+
+
 
 **Guiding Principles**
 
@@ -66,11 +70,15 @@ It makes this story a bit different, and for some, send an uncomfortable message
 
 I'm not writing to get paid: I'm writing from a moral imperative. 
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
 
 
-About my images and stories
+
+
+
+
+**About my images and stories**
  
 
 The Celeste’s Girl / Wardrobe images and stories are part of a long, carefully structured arc. They’re built around a few non-negotiables: agency, respect, consent, safety, and protection of the vulnerable.
@@ -85,8 +93,11 @@ I’m very protective of the tone and purpose of this work; it would not transla
 
 If you enjoy the stories as they are and want to talk about themes, characters, or craft, you’re very welcome. If you’re here to pitch projects or to steer the content somewhere more objectifying, we’re probably not a match.
 
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
----
+
+
+## Update Log
 
 270Jan-2026: The image in the header is setting the stage for Act 3 of Celeste's Girl... at least, that's what I'm imagining now. There might be enough story fuel to write a whole new story. Dunno. 
 
@@ -103,7 +114,15 @@ sack (3)
 larrikin (4)
 Oi (5)
 
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
+
+
+
+
+
+
+## Videos
 
 These videos are about the music for the story 'Celeste's Girl' (*Version Française á gauche*):
 
@@ -153,35 +172,58 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+
+
+
+
+
+
+
+
 ## Test Images
 
 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻
+<div class="flex-container">
+  <div class="column">
 
-<img src="/assets/images/tests/test01.jpg" style="float: right; width: 420px; margin-left: 20px" />
+  <a href="/assets/images/story/Scene03a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene03a.jpg" alt="Go" width="200" loading="lazy"></a>
 
+  <a href="/assets/images/story/Scene07a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene07a.jpg" alt="Go" width="200" loading="lazy"></a>
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+  <a href="/assets/images/story/Scene09a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene09a.jpg" alt="Go" width="200" loading="lazy"></a>
 
+  <a href="/assets/images/story/Scene12a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene12a.jpg" alt="Go" width="200" loading="lazy"></a>
 
-<img src="/assets/images/tests/test02.jpg" style="float: right; width: 420px; margin-left: 20px" />
+  <a href="/assets/images/story/Scene14a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene14a.jpg" alt="Go" width="200" loading="lazy"></a>
+  
+  </div>
+</div>
 
+<div class="flex-container">
+  <div class="column">
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+  <a href="/assets/images/story/Scene15a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene15a.jpg" alt="Go" width="200" loading="lazy"></a>
 
-<img src="/assets/images/tests/test03.jpg" style="float: right; width: 420px; margin-left: 20px" />
+  <a href="/assets/images/story/Scene17a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene17a.jpg" alt="Go" width="200" loading="lazy"></a>
 
+  <a href="/assets/images/story/Scene19a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene19a.jpg" alt="Go" width="200" loading="lazy"></a>
 
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+  <a href="/assets/images/story/Scene22a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene22a.jpg" alt="Go" width="200" loading="lazy"></a>
 
-<img src="/assets/images/tests/test04.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
-
-<img src="/assets/images/tests/test05.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-<hr style="height:2px;border-width:0;color:blue;background-color:blue">
-
+  <a href="/assets/images/story/Scene28a.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/Scene28a.jpg" alt="Go" width="200" loading="lazy"></a>
+  
+  </div>
+</div>
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

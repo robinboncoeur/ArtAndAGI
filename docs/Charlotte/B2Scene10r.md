@@ -433,11 +433,13 @@ That feeling did not go away when we locked the door to Wardrobe that night.
 
 
 
-##
+## Next Go
 
 <img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-[ Charlotte ]
+🪡 Made Workable 🪡
+
+[ *Charlotte* ]
 
 The new kettle gave a merry ding, water bubbling furiously. I poured it over my teabag and watched the new girls file in. Lisa came over with her usual quick, birdlike energy.
 
@@ -636,7 +638,7 @@ That feeling did not go away when we locked the door to Wardrobe that night.
 
 
 
-##
+## Tightened marketplace subsection
 
 <img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -717,7 +719,7 @@ They had simply begun behaving as though I might be.
 
 
 
-##
+## Intervention
 
 <img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
@@ -727,7 +729,7 @@ I’ll give you a clean, working **context summary for Scenes 10–14**—someth
 
 ---
 
-## 🌿 **Context Summary: Scenes 10–14 (Wardrobe QLD Arc)**
+### 🌿 **Context Summary: Scenes 10–14 (Wardrobe QLD Arc)**
 
 ### **Core Through-Line**
 
@@ -737,7 +739,7 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌸 **Scene 10 — “Made Workable” (or equivalent)**
+### 🌸 **Scene 10 — “Made Workable” (or equivalent)**
 
 **Function:** Establish competence, trust flow, and Wardrobe standards
 
@@ -763,7 +765,7 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌿 **Scene 11 — “Not Good Yes”**
+### 🌿 **Scene 11 — “Not Good Yes”**
 
 **Function:** Introduce pressure → misjudgment → initial failure
 
@@ -801,7 +803,7 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌸 **Scene 12 — Torquay (Celeste POV)**
+### 🌸 **Scene 12 — Torquay (Celeste POV)**
 
 **Function:** Diagnosis, reframing, and repositioning responsibility
 
@@ -835,7 +837,7 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌿 **Scene 13 — Escalation (QLD Fallout)**
+### 🌿 **Scene 13 — Escalation (QLD Fallout)**
 
 **Function:** Consequences spread, pressure intensifies
 
@@ -870,7 +872,7 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌸 **Scene 14 — Correction / Line Drawn**
+### 🌸 **Scene 14 — Correction / Line Drawn**
 
 **Function:** Charlotte asserts authority and restores standards
 
@@ -904,16 +906,16 @@ Charlotte moves from *competence* → *responsibility* → *authority*.
 
 ---
 
-## 🌷 **Thematic Spine Across All Scenes**
+### 🌷 **Thematic Spine Across All Scenes**
 
-### 1. Standards vs Convenience
+#### 1. Standards vs Convenience
 
 * Small compromises create disproportionate cost
 * Systems fail at their weakest assumptions
 
 ---
 
-### 2. Women as Infrastructure
+#### 2. Women as Infrastructure
 
 * Fiona → enforcement
 * Charlotte → adaptation and correction
@@ -924,7 +926,7 @@ No one rescues. Each holds a different layer.
 
 ---
 
-### 3. Apprenticeship (Lisa)
+#### 3. Apprenticeship (Lisa)
 
 * Scene 10: learns *how to do*
 * Scene 11: learns *how things go wrong*
@@ -932,7 +934,7 @@ No one rescues. Each holds a different layer.
 
 ---
 
-### 4. Charlotte’s Arc
+#### 4. Charlotte’s Arc
 
 * **Scene 10:** Competent
 * **Scene 11:** Complicit
@@ -942,7 +944,7 @@ No one rescues. Each holds a different layer.
 
 ---
 
-## 🌸 Final Note (your “violence” line)
+### 🌸 Final Note (your “violence” line)
 
 Mara would be absolutely right.
 
@@ -970,13 +972,204 @@ When you come back, we’ll shape that “Not Good Yes” moment so it feels com
 
 
 
-<!--
 
 
-##
+
+## Published
 
 <img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+🪡 Made Workable 🪡
+
+[ Charlotte ]
+
+The new kettle gave a merry ding, water bubbling furiously. I poured it over my teabag and watched the new girls file in. Lisa came over with her usual quick, birdlike energy.
+
+“Morning, Charlotte. You were at Harri’s yesterday, weren’t you?”
+
+“I was.” I smiled, a bit pinched. “I sort of stayed out of the pool. Not my day for it.”
+
+Lisa’s brows twitched. “Probably the sensible option.”
+
+I tipped my chin at the stack of dresses on the repair table. “We might as well get stuck in, hey?”
+
+She nodded, tucked her bag into the cupboard, and came over while I read the tag.
+
+“Seems we’ve found a common weak spot.” I pointed to a seam and glanced at Harri, who held up the garment she was repairing as if on cue. “Identical. I thought we’d sorted this back at our Wardrobe.”
+
+Lisa’s eyes shone. “It must be so cool to design your own costumes.”
+
+My cheeks twitched. “Design is fun, but that’s only the first bit. Then there’s the testing.” My mouth went sideways as I studied the seams. “I can’t work out why they’re failing just here. I remember testing this.”
+
+Brittany’s face appeared over my shoulder.
+
+“That’s one of the 'well-nourished woman' models, isn’t it?”
+
+“Oh.” I went still. “Yeah. Good point. I guess I couldn’t have personally tested that model.” I handed the dress to Lisa. “How would you fix this?”
+
+Her eyes widened. She bit her lip, stared at the seam, then took the dress from me, checking the thread and the inside of the garment before looking back up.
+
+“Well, it looks like it might need reinforcing here?”
+
+I nodded. Harri held up the bodice she was working on.
+
+“I’m seeing signs of strain here,” she said, pointing to wrinkled cloth.
+
+The 'well-nourished woman' model again. My jaw tightened.
+
+“Anyone else working on the same model?”
+
+Brittany raised her hand. “Not the same. Similar issue.”
+
+Her dress was the 'return-to-work' model.
+
+The door swung open and Fiona sauntered in with a breezy, “Hello, everyone.”
+
+“Is Sarah coming in today?”
+
+Fiona shook her head. “She’s a bit crook. Sounded awful on the phone.” Her gaze fell to the dresses on the table. “Why aren’t these on hangers?”
+
+My shoulders tucked in.
+
+“I’ll sort it, Fiona.” Brittany’s voice stayed cheery.
+
+The steam press hissed as Harri lifted the handle. “One repair done!”
+
+She was on her third before Lisa came up beside me, holding her dress at arm’s length, as if it might argue the point.
+
+“I thought maybe you’d want to look at this, just to double-check I did it right?”
+
+The sewing was meticulous. Her shoulders dropped when I smiled.
+
+“Good work. Until you know how to use the steam press, I might let Harri do that bit for you.”
+
+I was on the phone to Mara when Lisa came back. She took the remaining dress off the repair table, found the seam problem, and then waited. I glanced at her, brows raised. She gave me a quick smile, but stayed exactly where she was. I turned back to the call.
+
+“No, I don’t think testing was as rigorous as it should have been,” I told Mara. “The problems are all in the same spot. On the same model—”
+
+“Except for this one,” Brittany called out.
+
+Mara went silent on the other end. I could just see her lips.
+
+“Right, then. Noted,” she said at last. “Let me know if anything else needs dealing with.”
+
+I turned to find Lisa still perched there, hands on her lap.
+
+“I wasn’t sure if you’d want me to do it the same way,” she said, her voice small.
+
+Ah. That was it. Not the seam. Me.
+
+“Sorry. I was happy with your last repair. Please carry on.”
+
+She nodded and curled straight back over her work.
+
+At lunch, the girls clustered round the takeaway containers and helped themselves. I was forking Pad Thai onto my plate when Lisa sidled up beside me.
+
+“Oh, I love Pad Thai,” she said. “My boyfriend only ever wants fish and chips.”
+
+Behind me, Fiona growled at the new coffee machine—a semi-professional Italian espresso model, solid as a tank.
+
+“Does anyone know how to work this thing?”
+
+I glanced at the grinder. The little catch-cup was empty.
+
+“Have you ground the coffee?” I asked.
+
+Fiona’s look sharpened.
+
+“Well, obviously not,” she said.
+
+“Right.” I set my plate down. “That’ll be the first problem, then.”
+
+While I got things ready, Fiona stood to one side with her hands on her hips, watching as though the machine had personally offended her. Lisa came round to the other side of me, concentrating while I showed her the steps.
+
+“Do you have to check the grind every time?” she asked.
+
+I shook my head. “Once you’ve got it set, usually not. Unless the humidity changes.”
+
+Fiona snorted. “We haven’t got time to start a romance with a coffee machine.”
+
+It wasn’t until her second sip of cappuccino that she softened.
+
+“Well,” she said, looking into the cup, “this is rather nice.”
+
+“And not that hard to make,” I said, turning to Lisa, who’d made it. “Was it?”
+
+Lisa smiled—proud, but relieved.
+
+She hadn’t needed much. Just somewhere to put her hands.
+
+Without anyone saying so, things had started coming to me to be made workable.
+
+Brittany came into the tearoom with her clipboard.
+
+“Almost time for marketplace-actress dress adjustments.”
+
+A bang on the door announced their arrival. Wardrobe’s usual soft murmur gave way to outdoor voices and raucous laughter from the try-on booths. One of the heavier-set girls, her face clumsily smudged with makeup to resemble dirt, came straight up to me, lips thin and tight.
+
+“Do you have any idea how hard it is to get into these costumes?”
+
+At the far end of the workroom, Caroline raised her head. The rest of the room was already listening. Harri bent lower over her work. Brittany’s clipboard suddenly needed studying.
+
+I grimaced and nodded. “Yes, I do. I wore that dress for weeks while testing.”
+
+Her face hardened.
+
+“We’re in 2020, not 1820. Can’t we do zippers?”
+
+“A zipped bodice sits differently from a laced one.” I kept my face steady. “And how a costume ages depends on design. You don’t buy new costumes every season. These are meant to be worn over and over. The longer they’re worn, the more authentic they look.”
+
+She turned to Fiona instead.
+
+“I don’t know how much longer I want to put up with this.”
+
+“That’s a choice you’ll have to make for yourself,” Fiona said. “We have standards to maintain.”
+
+The loading-bay door banged open.
+
+Two men stepped in—and stopped.
+
+Fiona was already moving. Hands up. “No. Not through here.”
+
+A needle paused mid-air.
+
+“Brittany, we lock after delivery.” She turned without breaking stride. “Gentlemen—this way.”
+
+She shepherded them toward the front office. They went, casting quick looks across the room.
+
+Brittany’s eyes were shut tight, her mouth a thin line.
+
+“You might want locks that stay latched,” I said gently. “We had to do that ourselves down at our Wardrobe.”
+
+The needle went down again. I heard Lisa let out a breath.
+
+“Wow, really?”
+
+“We turned changing-room access into a procedure,” I said. “Privacy is safety, and safety is non-negotiable.”
+
+Only one more clothing item came through the door that afternoon: a torn pair of soldier’s pants, which Brittany immediately took over.
+
+“Make them look repaired?”
+
+“You’ll need this.” I handed her a coarser needle and thread. She set aside the finer pair in her hand, her mouth twisting slightly. “They’ll need a whip-stitch. That’s what was done to tears back then.”
+
+“You must have really studied this,” Lisa said.
+
+I shrugged. Celeste, Mara and I had worked out strategies for different repairs.
+
+“Some things you figure out as you go.” I rubbed the material between my fingers. “Tough. Durable. Not all that comfortable, but authentic. The clothes back then had to last. We decided this was how they had to be repaired.”
+
+The room seemed to settle on my shoulders.
+
+Lisa’s eyes never left me.
+
+I stilled. 
+
+No one had said I was responsible.
+
+They had simply begun behaving as though I might be.
+
+<!--
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 

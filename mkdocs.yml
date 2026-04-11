@@ -71,6 +71,10 @@ nav:
       - Emily-SceneTe: Charlotte/B2Scene09e.md
       - Emily-Scene10: Charlotte/B2Scene10e.md
       - Robyn-Scene10: Charlotte/B2Scene10r.md
+      - Emily-Scene11: Charlotte/B2Scene11e.md
+      - Robyn-Scene11: Charlotte/B2Scene11r.md
+      - Emily-Scene12: Charlotte/B2Scene12e.md
+      - Robyn-Scene12: Charlotte/B2Scene12r.md
       - Emily-SceneTr: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
 
@@ -82,12 +86,13 @@ nav:
 
   - Emily:
       - Emily/index.md
-      - Notes F 23rd: Emily/Notes26-02-23.md
-      - Notes F 28th: Emily/Notes26-02-28.md
-      - Notes M 03rd: Emily/Notes26-03-03.md
-      - Notes M 04th: Emily/Notes26-03-04.md
-      - Notes M 06th: Emily/Notes26-03-06.md
-      - Notes M 08th: Emily/Notes26-03-08.md
+      - Notes Feb 23: Emily/Notes26-02-23.md
+      - Notes Feb 28: Emily/Notes26-02-28.md
+      - Notes Mar 03: Emily/Notes26-03-03.md
+      - Notes Mar 04: Emily/Notes26-03-04.md
+      - Notes Mar 06: Emily/Notes26-03-06.md
+      - Notes Mar 08: Emily/Notes26-03-08.md
+      - Notes Apr 02: Emily/Notes26-04-02.md
       - NoteTemplate: Emily/Notes26-00-00.md
 
   - Dev:
@@ -99,7 +104,8 @@ nav:
       - ComfyUI Guidance: Dev/Comfyui.md
       - Domain Transfer: Dev/DomXfer.md
       - General Queries: Dev/General.md
-      - Writing Fridays: Dev/Writing.md
+      - Writing Fridays: Dev/WritingFri.md
+      - Just Writing: Dev/Writing.md
       - Image Prompts: Dev/Prompts.md
 
   - Blogs:

@@ -260,8 +260,6 @@ That landed well.
 
 [ *Celeste* ]
 
-[ Celeste ]
-
 I slammed the car door and stared at my phone for the seventh time that day.
 
 No messages.
@@ -272,7 +270,7 @@ I could feel my mouth thinning as I drove. The car engines and truck horns seeme
 
 My jaw tightened.
 
-Don't obsess, Celeste.
+*Don't obsess, Celeste.*
 
 I pulled in at a drive-through bottle-o. Harsh fluorescent lights were not going to stop me choosing "Cat Among The Pigeons". I checked the year and nodded.
 
@@ -292,7 +290,7 @@ Checked my phone again.
 
 The microwave hummed as I sat down with my glass and tapped the screen. The phone warbled, then warbled again, bright and pointless. I hung up, my grip tightening on the phone. 
 
-6:30 pm. Where is she?
+*6:30 pm. Where is she?*
 
 I stared at my glass of wine, and had another sip. The silence in the room was insulting.
 
