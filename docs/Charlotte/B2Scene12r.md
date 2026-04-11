@@ -22,11 +22,11 @@
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
 
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
+🌷 🌸 🌺 Polyester 🌷 🌸 🌺
 
 [ *Celeste* ]
 
-I opened the [armoire]. Autumn dictated trousers, but which blouse? I pulled a cream-coloured Rhea in silk off its hangar, then put it back: no cardigan to suit. 
+I opened the armoire. Autumn dictated trousers, but which blouse? I pulled a cream-coloured Rhea in silk off its hangar, then put it back: no cardigan to suit. 
 
 Ten minutes later, makeup done, hair managed, trousers zipped and blouse tucked I turned slowly in front of the mirror. 
 
@@ -36,17 +36,17 @@ Wrong shoes. My lips tightened. Kicked them off, and slipped into my usual black
 
 And thought of Charlotte.
 
-I could barely hear my phone chirping at me. I pulled it out of my purse.
+I could barely hear my phone chirping. I pulled it from my purse.
 
-"Hey Sarah, how are you?"
+“Sarah? All good?”
 
-"Good, thanks. I'm at the airport, was wondering if you wouldn't mind—" I cut her off.
+“I'm fine, thanks. I’m actually at the airport, and was wondering if you wouldn’t mind—”
 
-"Be there as quick as I can, Sarah."
+“Stay there,” I said. “I’ll be there as quick as I can.”
 
 I kicked of my black shoes, pulled off the trousers and pulled on a skirt.
 
-Mara must have called her back to Victoria. 
+*Mara must have called her back to Victoria*. 
 
 The phone buzzed in my hand.
 
@@ -56,29 +56,45 @@ Fiona.
 
 "Oh, hi, sorry... just talking to Charlotte. Look, we had a bit of an issue here."
 
-I was still on the phone as I climbed into the car. "I'm going to put you on speaker," I said with a small shiver, wishing I'd stuck with trousers.
+"Oh?"
+
+"Some of the costumes were... failing. And were cumbersome to get in and out of."
+
+"Right?" I climbed into the car. "I'm going to put you on speaker," I said with a small shiver, wishing I'd stuck with trousers.
 
 "So, Leo—he's from the Faire Management team—he was not pleased that the marketplace girls' dresses were holding up so poorly."
 
-The turn signal blinked and I turned onto the street. Oddly empty for a Friday. "Where did they fail?"
+The turn signal blinked and I turned onto the street. Oddly empty for a Friday. 
+
+“Where were the costumes failing?”
 
 A long pause.
 
-"Hello?"
+“Hello?”
 
-"No, I'm here," she said. "Look, it's probably not the fault of the design—"
+“No, I’m here,” she said. “At first—it looked like handling. They weren’t exactly gentle.”
 
-"Sorry, but you didn't answer my question."
+“Sorry, but you didn’t answer my question.”
 
-Another pause. Finally— "Alongside the zipper."
+“At first, it was the waist seam. Where the bodice meets the skirt.” A pause. I frowned. I distinctly remembered Charlotte testing this over and over. “It was mostly in the ‘well-nourished woman’ series,” she went on, and then another long pause.
 
-My engine whined a complaint as I sped up to get through the yellow light.
+“And then…”
 
-"What zipper?"
+“They started failing alongside the zipper.”
 
-"Um, well, Charlotte installed some zippers." I said nothing. The houses gave way to paddocks. I waited. "Well, we asked her to install some zippers to facilitate changing into the costumes."
+My engine whined as I sped up to catch the yellow light.
+
+“What zipper?”
+
+“Um, well, Charlotte installed some zippers.”
+
+I said nothing. The houses gave way to paddocks. I waited.
+
+“Well, we asked her to install them. To make changing easier.”
 
 I felt my neck tighten as I stared down the road.
+
+*Of course they did*.
 
 "How many costumes are affected?"
 
@@ -90,15 +106,17 @@ I sighed. Nodded.
 
 "Charlotte's working miracles. She's managed to correct most of the issues."
 
-A semi thundered past me on the motorway. I grimaced as I looked at my speedometer. 85.
+A semi thundered past me on the motorway. I grimaced as I looked at my speedometer. 85. I stepped on the accelerator.
 
 *Focus on your driving, Celeste.*
 
-Sarah waved at me as I pulled into the passenger pickup zone. The air was warm, a smell of spent jet fuel made it seem even warmer. I gave her a hug—her hair was all askew from the flight. She landed in her seat with a satisfied sigh.
+Sarah waved at me as I pulled into the passenger pickup zone. The air was warm, thick with the smell of spent jet fuel, making it feel warmer still. I gave her a hug—her hair was all askew from the flight. She landed in her seat with a satisfied sigh.
 
-"Oh Celeste, it's so good to be back!"
+"Oh Celeste, it's so good to be home!"
 
-"Good to have you back, Sarah." I hit the brake quickly as the muscle car behind us gave an annoyed tinny beep then roar past. "When did Mara ring you?"
+“Good to have you back.” 
+
+I braked—late—as a tinny beep cut through behind us. A muscle car roared past. “When did Mara ring you?”
 
 "She didn't. Lauren did."
 
@@ -108,15 +126,15 @@ I frowned.
 
 "Yeah, she's been having dramas with Roger. He's being a royal—"
 
-Another semi honked and thundered past, chains rattling. I waited.
+The blast of a horn cut her off. A semi thundered past, chains rattling. I stilled, eyes on the road. Waited for it to clear.
 
-"So, is Charlotte..."
+“So—” I said, once it had. “How is Charlotte?”
 
-"Oh, Celeste, she's coming into her own!" I looked at her with a puzzled frown.
+“Oh, Celeste, she’s coming into her own!”
 
-"What do you mean?"
+I glanced at her, puzzled. “What do you mean?”
 
-"She's got this, Celeste." She moved her seat back a fraction. I heard it click into place. "Look, my work up there was done, anyway, and Charlotte's been making really good decisions."
+“She’s got this, Celeste.” She shifted her seat back a fraction. I heard it click into place. “Look, my work up there was done, anyway, and Charlotte’s been making really good decisions.”
 
 "Really?"
 
@@ -126,9 +144,9 @@ Another semi honked and thundered past, chains rattling. I waited.
 
 "Zippers?" The frown morphed into a stare. "What zippers?"
 
-The stare solidified into thin lips and a focus on the road as I filled her in on my chat to Fiona. The car was silent for a while. We was just turning into the Wardrobe carpark when Sarah finally spoke.
+The stare settled into thin lips. She turned her focus back to the road as I filled her in on my chat with Fiona. The car was silent for a while. We were just turning into the Wardrobe carpark when Sarah finally spoke.
 
-"Do you need me to go back?"
+"Do you need me to go back?" she said at last.
 
 I shook my head. "Fiona reckons the problem's been fixed, but we might be hearing from Faire Management about this."
 
@@ -138,69 +156,31 @@ The car doors closed with a whomp. I felt my spine loosen as the reassuring scen
 
 "You heard, did you?"
 
-She nodded, curt, lips in a line.
+She nodded, curt, lips a thin line.
 
-"It's not like Charlotte to suggest zippers. That girl knows this design as well as well as we do."
+"It's not like Charlotte to suggest zippers," she said quietly. That girl knows this design as well as we do."
 
 The door opened and Lauren walked in stiffly, eyes red, followed by Sarah.
 
-"Why don't you two go home," I said to Sarah. She nodded. "Keep me posted, please."
+"Why don't you two go home. Keep me posted, please," I said to Sarah.
 
 Lauren looked around quickly. "You sure?"
 
-I put my hands around her shoulders and guided her to the door.
+I set my hands lightly on her shoulders and guided her to the door.
 
 "You have bigger fish to fry. Take whatever time you need. We'll be fine, here."
 
-The usual bustle of afternoon actresses broke the hush of calculation and design. Bree and Lily were singing as they put their hair up of the new cap designs we'd only just finished.
+The usual bustle of afternoon actresses broke the hush of calculation and design. Bree and Lily were singing as they pinned their hair up beneath the new caps we’d only just finished. Caps that were Charlotte's latest design.
 
-Charlotte's last design.
-
-I pressed my fingertips against my lips. Shook my head for the fourteenth time that day.
+I pressed my fingertips to my lips. Shook my head again.
 
 *Zippers? Makes no sense.*
 
-I recognised the soft warbling in the handbag cupboard as mine. As I flicked up the screen to put it into aeroplane mode, I noticed the name.
+I stepped into the tearoom and stared at the empty tin where teabags lived.
 
-Charlotte.
+And sighed.
 
-"Hello?"
-
-"Hi, uh, Celeste. Sorry to ring you at work. I— needed to, uh—"
-
-I waited. A long pause.
-
-"Are you okay, Charlotte?"
-
-I heard her sigh. "Um, not really. I guess I stuffed up."
-
-"Fiona rang me about the zippers."
-
-Another pause. Then, her voice—small, tired.
-
-"Yeah. So, they, I mean, the actresses were not happy about having to take so much time getting dressed."
-
-"And you thought zippers would help?"
-
-"No. I knew they wouldn't. I knew what they were asking was—"
-
-I could just imagine her pinched face.
-
-"Take in a breath." I heard a puff.
-
-"Celeste." I could hear the swallow, and her breath catch. "I wish you were here."
-
-The room swam before my eyes. I pinched them shut.
-
-"Tell me, Charlotte. Were you able to fix the dresses?"
-
-"I've got a few more to go. One of the women was a bit rough." The holding dock bell rang. Bree left the group to open the door. "I'm pretty sure they'll hold."
-
-"That's all you can do, Charlotte. You're doing well. They shouldn't have asked what they did. Carry on. Only a few more days to go."
-
-"Uh-huh."
-
-Mara was on the phone when I returned to the table. She glanced at me and grimaced, pointing at the phone.
+Mara was on the phone when I returned to my table. She glanced at me and grimaced, pointing at the phone.
 
 "The material you specified does not lend itself to modern contrivances such as zippers." Her voice was cold, her speech clipped. "We can certainly look at changing the material, but the original order emphasised authenticity." She nodded again, lips firm, eyes shut. "We will look into it, but I can't promise anything."
 
@@ -208,7 +188,7 @@ Bree waved me over to the loading dock door, her face a thundercloud. "You didn'
 
 "Absolutely not." The delivery person passed me the invoice. Under 'Authorised By' was an unfamiliar name. Leo Gartner.
 
-I head Lucy's voice over my shoulder.
+I heard Lucy's voice over my shoulder.
 
 "Who's Leo Gartner?"
 
@@ -220,23 +200,25 @@ Queensland.
 
 "Who ordered this?" Mara asked, appearing on the loading dock.
 
-"Likely that person you just got off the phone with. You wouldn't have been talking to some bloke named Leo—"
+"Likely the person you just got off the phone with. You wouldn't have been talking to some bloke named Leo—"
 
-"I was." She stared at the material as if it was something that had reached its use-by date.
+"I was." She stared at the material as if it had reached its use-by date.
 
 "He wants us to use this material, then?"
 
 "He mentioned something of the sort. The quote we'd sent for ball gowns were too dear because of the material, he said. He didn't tell me he'd already ordered something else, though."
 
-"Well, his name's on the invoice." I felt hot and cold at the same time. "He's trying to steamroll us, Mara."
+"Well, his name's on the invoice." Heat and cold chased each other through me. "He's trying to steamroll us, Mara."
 
 "Like he steamrolled Charlotte," she said.
 
-I felt my fingernails bite into my palms.
+My fingernails bit into my palms.
 
 "We're going to have to let her finish up there."
 
-Mara nodded once. "We've all had our learning curves." She pointed at the material. "We might send that on the Queensland, Celeste."
+Mara nodded once. "We've all had our learning curves." 
+
+She pointed at the material. "We might send that on the Queensland, Celeste."
 
 I could have hugged her.
 

@@ -542,7 +542,45 @@ That’s *publishable-level control* 🌿
 
 <img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+I recognised the soft warbling in the handbag cupboard as mine. As I flicked up the screen to put it into aeroplane mode, I noticed the name.
 
+Charlotte.
+
+"Hello?"
+
+"Hi, uh, Celeste. Sorry to ring you at work. I— needed to, uh—"
+
+I waited. A long pause.
+
+"Are you okay, Charlotte?"
+
+I heard her sigh. "Um, not really. I guess I stuffed up."
+
+"Fiona rang me about the zippers."
+
+Another pause. Then, her voice—small, tired.
+
+"Yeah. So, they, I mean, the actresses were not happy about having to take so much time getting dressed."
+
+"And you thought zippers would help?"
+
+"No. I knew they wouldn't. I knew what they were asking was—"
+
+I could just imagine her pinched face.
+
+"Take in a breath." I heard a puff.
+
+"Celeste." I could hear the swallow, and her breath catch. "I wish you were here."
+
+The room swam before my eyes. I pinched them shut.
+
+"Tell me, Charlotte. Were you able to fix the dresses?"
+
+"I've got a few more to go. One of the women was a bit rough."  "I'm pretty sure they'll hold."
+
+"That's all you can do, Charlotte. You're doing well. They shouldn't have asked what they did. Carry on. Only a few more days to go."
+
+"Uh-huh."
 
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
