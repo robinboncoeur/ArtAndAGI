@@ -132,6 +132,10 @@ nav:
   - Music:
       - music/index.md
 
+  - work:
+      - work/index.md
+      - Apr 13 Prompts: work/words02.md
+
 plugins:
   - search
   - tags
