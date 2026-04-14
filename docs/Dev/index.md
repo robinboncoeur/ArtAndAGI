@@ -26,6 +26,15 @@ docs/
     ...       # Other markdown pages, images and other files.
 ```
 
+---
+
+Download Zed from Here:
+
+```bash
+curl -f https://zed.dev/install.sh | sh
+```
+
+
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
