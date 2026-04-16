@@ -279,3 +279,28 @@ Private Sub TxnCodes(oSheet As Object)
 
 End Function
 '=============================================================
+
+
+
+
+MkDocs 2.0, the underlying framework of Material for MkDocs,
+ │  will introduce backward-incompatible changes, including:
+ │
+ │  × All plugins will stop working – the plugin system has been removed
+ │  × All theme overrides will break – the theming system has been rewritten
+ │  × No migration path exists – existing projects cannot be upgraded
+ │  × Closed contribution model – community members can't report bugs
+ │  × Currently unlicensed – unsuitable for production use
+ │
+ │  Our full analysis:
+ │
+ │  https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
+INFO    -  Building documentation...
+INFO    -  Cleaning site directory
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+             - Charlotte/B2Scene13e.md
+             - Charlotte/B2Scene13r.md
+INFO    -  Documentation built in 12.31 seconds
+INFO    -  [16:55:10] Watching paths for changes: 'docs', 'mkdocs.yml'
+INFO    -  [16:55:10] Serving on http://127.0.0.1:8000/
