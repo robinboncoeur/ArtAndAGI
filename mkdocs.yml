@@ -1,0 +1,159 @@
+site_name: Celeste's Girl
+site_url: https://art.tightbytes.com
+edit_uri: "http://127.0.0.1:8000/docs/"
+use_directory_urls: true
+theme:
+  name: material
+  logo: assets/images/logo.png
+  variant: classic
+
+  favicon: assets/images/favicon.png
+
+  palette:
+    # Light mode
+    - scheme: default
+      primary: pink
+      accent: red
+      toggle:
+        icon: material/weather-night # indigo
+        name: Switch to Dark Mode
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: white
+      toggle:
+        icon: material/weather-sunny # indigo
+        name: Switch to Light Mode
+
+  features:
+    # - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+extra_css:
+  - stylesheets/custom.css
+
+nav:
+  - Home: index.md
+
+  - Charlotte:
+      - Charlotte/index.md
+      - Celeste's Girl: Charlotte/CG-1Scenes.md
+      - Aa- Structure: Charlotte/Aa-Structure.md
+      - Ab-- Emotions: Charlotte/Ab-Emotions.md
+      - Canon Bible 1: Charlotte/CanonBible.md
+      - Emily-Scene01: Charlotte/B2Scene01e.md
+      - Robyn-Scene01: Charlotte/B2Scene01r.md
+      - Emily-Scene02: Charlotte/B2Scene02e.md
+      - Robyn-Scene02: Charlotte/B2Scene02r.md
+      - Emily-Scene03: Charlotte/B2Scene03e.md
+      - Robyn-Scene03: Charlotte/B2Scene03r.md
+      - Emily-Scene04: Charlotte/B2Scene04e.md
+      - Robyn-Scene04: Charlotte/B2Scene04r.md
+      - Emily-Scene05: Charlotte/B2Scene05e.md
+      - Robyn-Scene05: Charlotte/B2Scene05r.md
+      - Emily-Scene06: Charlotte/B2Scene06e.md
+      - Robyn-Scene06: Charlotte/B2Scene06r.md
+      - Emily-Scene07: Charlotte/B2Scene07e.md
+      - Robyn-Scene07: Charlotte/B2Scene07r.md
+      - Emily-Scene08: Charlotte/B2Scene08e.md
+      - Robyn-Scene08: Charlotte/B2Scene08r.md
+      - Emily-Scene09: Charlotte/B2Scene08e.md
+      - Robyn-Scene09: Charlotte/B2Scene09r.md
+      - Emily-SceneTe: Charlotte/B2Scene09e.md
+      - Emily-Scene10: Charlotte/B2Scene10e.md
+      - Robyn-Scene10: Charlotte/B2Scene10r.md
+      - Emily-Scene11: Charlotte/B2Scene11e.md
+      - Robyn-Scene11: Charlotte/B2Scene11r.md
+      - Emily-Scene12: Charlotte/B2Scene12e.md
+      - Robyn-Scene12: Charlotte/B2Scene12r.md
+      - Emily-SceneTr: Charlotte/B2Scene00e.md
+      - Robyn-SceneTr: Charlotte/B2Scene00r.md
+
+  - Claudia:
+      - Claudia/index.md
+      - Canon Bible1: Claudia/CanonBible.md
+      - NoteTemplate: Claudia/Notes26-00-00.md
+      - Notes-260321: Claudia/Notes26-03-21a.md
+
+  - Emily:
+      - Emily/index.md
+      - Notes Feb 23: Emily/Notes26-02-23.md
+      - Notes Feb 28: Emily/Notes26-02-28.md
+      - Notes Mar 03: Emily/Notes26-03-03.md
+      - Notes Mar 04: Emily/Notes26-03-04.md
+      - Notes Mar 06: Emily/Notes26-03-06.md
+      - Notes Mar 08: Emily/Notes26-03-08.md
+      - Notes Apr 02: Emily/Notes26-04-02.md
+      - NoteTemplate: Emily/Notes26-00-00.md
+
+  - Dev:
+      - Dev/index.md
+      - ArtiI Illustrious: Dev/ai-Illust.md
+      - AI Imaging Models: Dev/aiModels.md
+      - Banners and Stuff: Dev/Banners.md
+      - Careful Ideas Now: Dev/Careful.md
+      - ComfyUI Guidance: Dev/Comfyui.md
+      - Domain Transfer: Dev/DomXfer.md
+      - General Queries: Dev/General.md
+      - Writing Fridays: Dev/WritingFri.md
+      - Just Writing: Dev/Writing.md
+      - Image Prompts: Dev/Prompts.md
+
+  - Blogs:
+      - blogs/index.md
+      - Blog Sep25: blogs/Blog2509.md
+      - Blog Oct25: blogs/Blog2510.md
+      - Blog Nov25: blogs/Blog2511.md
+      - Blog Dec25: blogs/Blog2512.md
+      - Blog Jan26: blogs/Blog2601.md
+      - Blog Feb26: blogs/Blog2602.md
+
+  - Visual Art:
+      - visual/index.md
+      - 2nd Person: visual/Person2.md
+      - AI & Emily: visual/Emilyai.md
+      - BBox- SEGS: visual/BBoxSEGS.md
+      - ComfyUI 💋: visual/Comfyui.md
+      - FluxGym 👭: visual/FluxGym.md
+      - GIMP- Tips: visual/GimpTips.md
+      - QwenPrompt: visual/QwenPro.md
+      - Videos  💧: visual/Videos.md
+      - VScripts💛: visual/VScripts.md
+
+  - Music:
+      - music/index.md
+
+  - work:
+      - work/index.md
+      - Apr 13 Prompts: work/words02.md
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.blocks.caption
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
