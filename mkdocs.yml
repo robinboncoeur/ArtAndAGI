@@ -135,6 +135,7 @@ nav:
   - work:
       - work/index.md
       - Apr 13 Prompts: work/words02.md
+      - PayPal Body Sm: work/paypalbody.md
 
 plugins:
   - search
