@@ -24,49 +24,62 @@
 🌷 🌸 🌺 Visible 🌷 🌸 🌺
 
 [ *C* ]
-I shivered despite the cardigan I'd thrown over my shoulder. The gravel crunched under my shoes—the tiny stones seemed to pierce the thin soles as I stepped nervously through dew-damped leaves until I reached the bitumen footpath to the road. The sky was slow to grow less somber: a fogbank had settled on the hills surrounding the Faire. 
 
-Lisa's wide-eyed face hovered before my eyes, and my hands trembled.
+"Lisa and Brittany need to see a different girl than the one I see tonight," Celeste had said before she hung up.
 
-I swallowed. A kookaburra cleared its throat, as if wanting to chockle then thinking better of it. My shoulders snapped together at a rustle in the bushes. My jaw hurt from clenching. Celeste's voice from last night still felt light and yet so strong.
+"What do you mean?"
 
-"Who Lisa and Brittany see makes a difference too, you know," she'd said.
+“You don’t believe in tomorrow. It shows.”
 
-"Sees? Who?"
+The cool water splashed as much over the sink as on my face. Patting my face removed the water but left a puzzled frown.
 
-"I get you're not sure about tomorrow. But, there's things you can do to give you confidence!"
+*Maybe if I walked tall?*
 
-Getting up a half hour earlier to try Celeste's suggestions didn't seem like that much of a big deal—a bit of eyeliner, a touch of lipstick, insisting I give myself at least an hour. 
+I mindlessly flicked through videos on my phone. Typed in the word 'confidence' in the search bar, got influencers promising rock-solid confidence "if you try this simple trick!"
 
-The shower, slipping on leggings and smock and even doing my hair up took but a moment.
+Getting up a half hour earlier to try their suggestions didn't seem like that much of a big deal—a bit of eyeliner, a touch of lipstick. The second influencer said she usually gave herself at least an hour. 
+
+A hot shower and slipping on leggings and smock, and even doing my hair up took but a moment.
 
 Applying eyeliner— did not.
 
-For one thing, I had to *look* at my face in the mirror.
+First thing I had to deal with was: I had to actually *look* at my face.
 
-I had never spent time looking at my own face... it was something I had never been comfortable with. To have to stare at it now, inspect it, scrutinise my eyelids literally gave me the creeps. I was tempted to abandon, but not having a go wasn't an option, was it? 
+I never spent any time looking at my face. Ever. I'd glance at it, but really look? No. 
 
-Not really. 
+But on that morning, I not only had to look at it, but I had to inspect it, scrutinise it. It literally gave me the creeps. And the paint job was horrible. Too much. Too little. One side didn't match the other.
 
-Celeste will ask and then what? 
+I glared at my eyelids. 
 
-I tell her I chickened out of putting on eyeliner?
+*Just pretend it was someone else's face.* 
 
-I glared at my eyelids and pretended it was someone else's face. Forty-five minutes and half a box of tissues later— eyes done. 
+Forty-five minutes disappeared into smudges, wipes, and quiet swearing—until, finally, the result looked: okay. Not great. Okay. 
+
+Even when I finally got it right, it felt wrong. 
+
+How was this confidence-building? 
 
 Lippie was a matter of a minute.
 
 My lips bunched to one side as I gazed at the face of the girl looking back at me. Tried a smile—it looked apologetic.
 
-I blinked at the lights of an oncoming car, the morning mists seeping in through the cardigan to my skin. I fancied I could feel my eyelids. My shoulders rose slightly as the car silently slipped past, my nails biting into my palms. The words "things will never be as bad as you fear" stole into my thoughts, then slipped away, blushing and defeated. 
+I didn't trust the girl in the mirror was going to pull off 'confidence' as I locked the donga and stepped into the dawn dampness. I shivered despite the cardigan I'd thrown over my shoulder. The gravel crunched under my shoes—the tiny stones threatened to pierce the thin soles. I stepped nervously through dew-damped leaves. The sky seemed reluctant to let go of the night: a fog bank had settled on the hills surrounding the Faire. 
 
-I heard Lisa and Brittany before I saw them—their cheerful chatter brightened the dimly lit workroom.
+Lisa's wide-eyed trust made my hands tremble.
+
+I swallowed. A kookaburra cleared its throat, as if about to chuckle then thinking better of it. My shoulders snapped together at a rustle in the bushes. I blinked at the lights of an oncoming car, the morning mists seeping in through the cardigan to my skin. My eyelids felt borrowed. My shoulders rose slightly as the car silently slipped past, my nails biting into my palms.
+
+*Things will never be as bad as you fear.*
+
+It didn't stick.
+
+The tearoom felt almost cosy as I switched on the light. Through the hiss of the water filling the jug I heard Lisa and Brittany's cheerful chatter as they entered.
 
 "Hey, Charlotte!" 
 
 I tried to match the cheeriness in Brittany's voice with a smile, but it didn't quite reach my eyes.
 
-Lisa flicked on the espresso machine, which growled at her. SHe grinned at me.
+Lisa flicked on the espresso machine, which growled at her. As I filled the cistern at the back of the machine, she grinned at me.
 
 "Guess what?"
 
@@ -74,11 +87,11 @@ I lifted my eyebrows valiantly.
 
 "What's up?"
 
-With a flourish, she threw a pattern onto the tearoom table. Her eyes shone.
+With a flourish, she threw a large yellow folder onto the tearoom table. Her eyes shone.
 
-"Brittany and I *finally* came up with a design for a new caracao jacket." Her voice was breathless. She licked her lips. "Would you like to have a look at it?"
+"Brittany and I *finally* came up with a design for a new caracao jacket." Her voice was breathless. "Would you like to have a look?"
 
-The design was close to what had been done for the Faire back in Torquay, with some significant changes. [insert significant changes here] When I finally looked up, I noticed both girls were intently watching my face.
+The design was close to what we had done for the Faire back in Torquay, with some significant changes. [insert significant changes here] When I finally looked up, I noticed both girls were intently watching my face.
 
 "This is really good," I said slowly—perhaps, a bit too slowly.
 
@@ -96,19 +109,19 @@ My brows lowered slightly, and I rubbed my lower lip for a moment.
 
 "Does that matter?" Brittany asked. I glanced at her, and gave a tiny nod.
 
-"Well, it does, actually." I looked at my hands, and thought of Mara. As I tucked my folded hands under my chin, I inspected the pattern again. "It *looks* like it was designed for wool. To me. Because, *we* designed ours for wool." I looked up as Lisa's brilliant eyes. "Wool... that was the material, back in the day."
+"Yes, it does, actually." I looked at my hands, and thought of Mara. As I tucked my folded hands under my chin, I inspected the pattern again. "It *looks* like it was designed for wool. To me. Because, *we* designed for wool." I looked up as Lisa's brilliant eyes. "Wool... that was the material for this sort of garment, back in the day."
 
-Her smile seemed to falter a bit.
+Brittany's smile seemed to falter a bit.
 
-"But, isn't wool a bit dear?"
+"But isn't wool a bit dear?"
 
 I nodded, my fingers on my forehead as I looked at the carefully drawn lines.
 
-"So, why does the material matter?" she pressed.
+"So why does the material matter?" she pressed.
 
-I was silent for a moment. Discarded dippers seemed to glare at me from the cutting table where I'd dropped them.
+I was silent for a moment. Discarded zippers seemed to glower at me from the cutting table.
 
-"Um, it matters because..." My throat tightened. "It all has to fit together." Lisa and Brittany's expectant faces tightened their grip around my words.
+"Um, it matters because..." My throat tightened. "Design and material has to fit together." Lisa and Brittany watched me—waiting.
 
 *I have to say this right.*
 
@@ -118,13 +131,13 @@ Expectant gave way to surprise.
 
 "You *knew*?"
 
-I huffed, and swallowed.
+I blinked slowly with a huff, and swallowed.
 
-"Yes. Celeste and Mara had explained it all to me ages ago, back when I was testing the costumes." I tipped my head. "Because, I was wondering, too. I asked about the lacing." I could hear Celeste's clipped tone. "There's no shortcuts, Brittany. Clothing is made for a specific material. They didn't have the choices we have today. They had wool, linen or cotton. Design wasn't revolutionary—it was based on what had worked before."
+"Yes. I knew. Celeste and Mara had explained it all to me ages ago, back when I was testing the costumes." I tipped my head. "Because, I was wondering the same thing you are. I actually asked about the lacing." I could hear Celeste's clipped explanation. "Thing is, there's no compromise, Brittany. Design was based on what had worked before. End of story."
 
 Brittany's eyes narrowed.
 
-"So, we couldn't just *use*, cotton. I mean, it's cheap-as."
+"But, we couldn't just *use* cotton anyway? I mean, it's cheap-as."
 
 "Not if you care about behaviour."
 
@@ -132,9 +145,9 @@ Brittany's eyes narrowed.
 
 "Look, it's possible to *make* a garment out of any material. But when you wear it for a while, you'll get why one material works where another just doesn't."
 
-Brittany's skeptical frown felt oddly challenging. I ignored it.
+Brittany's sceptical frown felt oddly challenging.
 
-"Just like with the zippers, Brittany."
+"Just like with the zippers."
 
 "Yeah, but that's different."
 
@@ -146,7 +159,7 @@ I stilled. Finally, I leaned back in my chair. Gave her my best smile.
 
 "Make a test jacket. Make it out of cotton. Then, test it... for stretch, warmth, check seams, see if it fails and *where* it fails."
 
-"Wouldn't it be cheaper to just go ahead and make a whole bunch? Then you can buy material in a larger lot than just a bit, which would end up costing a lot less in the long run."
+"Cotton is cheaper if you buy it in bulk."
 
 "But what if it ends up being the wrong material?" Lisa cut in.
 
@@ -166,7 +179,7 @@ Lisa's eyes clouded over.
 
 My lips twitched. Lisa's words were an almond croissant, delicious and deadly.
 
-"You're so lovely, Lisa," I said. And sighed. "However." I channelled Celeste. "The point wasn't really the zipper."
+"You're so lovely, Lisa," I said. And sighed. "However, the point wasn't really the zipper."
 
 "It was them making you put them in?"
 
@@ -178,7 +191,11 @@ Brittany snorted.
 
 "They would have given you curry for refusing."
 
-"Which they're doing now because the idea failed, aren't they?" I pulled the dress with the parted seam off the hanger. "This, I *had* to fix. Our testing didn't pick up the weakness in that seam." I picked up the bundle of zippers as if they were slugs. The chunk they made as they landed in the bin sounded like an exclamation mark. "I wasn't here to solve the marketplace womens' dramas." I felt a weight roll off me as I turned towards them.
+"Which they're doing now because the idea failed, aren't they?"
+
+I pulled the dress with the parted seam off the hanger. "This I *had* to fix. Our testing didn't pick up the weakness in that seam."
+
+I picked up the bundle of zippers as if they were slugs. They hit the bin with a loud clunk.
 
 "I knew the solution was wrong. I should have said no. Because, I *could* say no." I leaned my chin on the back of my hands and studied their faces. "Sometimes, you have to say no."
 
@@ -186,15 +203,15 @@ The door blew open.
 
 "Morning, all!" Fiona glanced in our direction. "Charlotte, may I see you in my office for a minute, please?"
 
-Hot and cold chased each other through me as I followed her in. The door closed with a cold click.
+Hot and cold chased each other through me as I followed her. The door closed with a cold click.
 
 "Have a seat." She settled into her chair and gave me a wry smile. "Charlotte, I owe you an apology." My back loosened slightly. "I should not have asked you to install those zippers."
 
 I said nothing. I could think of nothing to say. Tried to return her smile, but it failed after a twitch. Her smile faltered. 
 
-"Had a chat to... Mara," she added quietly.
+"I had a chat to... Mara," she added quietly.
 
-My chin lifted. A sense of relief so sharp it ached swelled. My jaw clenched and I dipped my head once, slowly.
+My chin lifted, a sense of relief so sharp it ached. My jaw clenched and I dipped my head once, slowly.
 
 "We came up with a plan." She lifted her chin towards the door. "For Brittany and Lisa, I mean."
 
@@ -214,7 +231,7 @@ Her mouth curved.
 
 I left Fiona's office, my lips pressed tight to keep from smiling too broadly, I watched the look on Brittany and Lisa's faces go from worried eyebrows to wide grins.
 
-Celeste was right. The dresses will be right. Even my eyeliner seemed right.
+Celeste was right. The dresses will be right. Even my eyeliner finally felt right.
 
 "You're coming back with me, girls!"
 
