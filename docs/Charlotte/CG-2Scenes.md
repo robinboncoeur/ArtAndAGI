@@ -1351,7 +1351,7 @@ And I’m not letting him waste it.
 ## 6 Sewing as Physics ✨
 
 <a href="/assets/images/story/Scene06a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene06a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+  <img src="/assets/images/story/Scene06a.jpg" style="float: right; width: 60px; margin-left: 20px"></a>
 
 [ *Celeste* ]
 
