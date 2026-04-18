@@ -12679,7 +12679,7 @@ Not outside, obviously. Outside the clouds looked soft and cuddly and a bit orna
 
 But from my window seat they were a bright, searing white that stung my eyes. In here, the engine hummed and shuddered the floor under my feet, and the little plastic oval of the window vibrated against my forehead every time I leaned on it—which I did, approximately every thirty seconds, as if the view might have changed in that time.
 
-We were actually doing it. And I was actually doing this. Queensland. Maleny. The new Les-Mis Faire. A whole new Wardrobe, waiting for us like an unwritten pattern.
+We were actually doing it. And I was actually doing this. Queensland. Maleny. The new 'Les-Mis' Faire. A whole new Wardrobe, waiting for us like an unwritten pattern.
 
 It would have been easier if we’d simply been scooped up by a kind hand at Wardrobe and placed in our seats on the plane without all the rest of leaving—if I hadn’t had to walk down a ramp, away from Celeste.
 
@@ -12697,7 +12697,9 @@ She’d given a little broken laugh at that, and then the tears had started in h
 
 “Enormous is allowed,” she’d said. “Enormous I can work with. Enormous we can text about.”
 
-We’d had to move then—the line behind us had not, regrettably, been suspended by fate while we had our moment. Mum had hugged me hard enough to squeak my ribs and murmured, “Bring her back to me intact,” into Sarah’s ear with that dry, fierce look she’d developed lately. Mara had kissed my forehead and said, very softly, “Do not forget, my little nightingale, you know a lot more than you think you do,” which had made my eyes go even more traitorously wet.
+We’d had to move then—the line behind us had not, regrettably, been suspended by fate while we had our moment. Mum had hugged me hard enough to squeak my ribs and murmured, “Bring her back to me intact,” into Sarah’s ear with that dry, fierce look she’d developed lately. 
+
+Mara had kissed my forehead and said, very softly, “Do not forget, my little nightingale, you know a lot more than you think you do,” which had made my eyes go even more traitorously wet.
 
 And then it had been just Celeste and me, right up against the barrier where only one of us was allowed to pass.
 
@@ -12725,13 +12727,15 @@ The loading bay.
 
 It had been three months ago and also it had been yesterday. My body couldn’t quite decide.
 
-The memory was so vivid I could still feel the concrete under my thin-soled shoes, gritty and warm, and the weight of the bolt of cloth in my arms, and then the heat of that unwelcome hand, a hand that had no right to be there, sliding across my back as if I were an extension of the crate—something.Not someone, not a person who deserved to be asked.
+The memory was so vivid I could still feel the concrete under my thin-soled shoes, gritty and warm, and the weight of the bolt of cloth in my arms, and then the heat of that unwelcome hand, a hand that had no right to be there, sliding across my back as if I were an extension of the crate—something.
 
-Some— thing.
+Not some*one*, not a *person* who deserved to be asked.
+
+Some— *thing*.
 
 The instant terror, every nerve on high alert. The way my throat had locked around all the words I knew I should say, but I was too frozen with fright. The unfamiliar, stupefying shame—not just at how I’d let this man touch me, or at the way his fingers had pressed, but at my own body for turning me into statue and stupid, instead of fierce and clever like Celeste, or calm and deadly like Sarah.
 
-Sarah had been calm and deadly. Of course she had. She’d appeared as if my body had screeched an alarm, gently removed the bolt from my arms, placed herself between me and the rep, and told him, in that flat tone that made confident grins turn into weak apologies, that no-one touches staff, no-one brushes past staff, staff are not bracing surfaces, and if he wanted to accrue the privilege of proximity he could start by treating the women in the room as if they had spines and names.
+Sarah *had* been calm and deadly. Of course she had. She’d appeared as if my body had screeched an alarm, gently removed the bolt from my arms, placed herself between me and the rep, and told him, in that flat tone that made confident grins turn into weak apologies, that no-one touches staff, no-one brushes past staff, staff are not bracing surfaces, and if he wanted to accrue the privilege of proximity he could start by treating the women in the room as if they had spines and names.
 
 He’d apologised, of course. There was always some sort of apology once they were caught—an apology his face lied about, a face that said he was far more offended by being told off than he had ever been invested in the initial touch.
 
@@ -12743,7 +12747,13 @@ Which was why Queensland had loomed after that like a phrase in a language I did
 
 It had taken weeks before the courier with the clipboard arrived and I heard myself say, very calmly, “Could I get you to please step back a bit?” before adrenaline could get in the way.He’d stepped back.
 
-The world hadn’t cracked.No one had died of embarrassment.And I had stood there, heart pounding, and thought, oh.Oh, so it can be this, too.
+The world hadn’t cracked.
+
+No one had died of embarrassment.
+
+And I had stood there, heart pounding, and thought, oh.
+
+Oh, so it can be this, too.
 
 Now, on the plane, with the engine humming and the clouds solid as sea foam, I thought of that courier like a rehearsal. A tiny dress rehearsal in a small loading bay, for all the bigger stages that might be waiting.
 
@@ -12793,9 +12803,15 @@ We’d had The Conversation after that. About how petrified I had been of what m
 
 She’d been angry, yes. Furious, even. But not with me.
 
-With systems.With a world that would rather avert its gaze than have a teenager sit quietly in a room and say “I think I might not be who you thought I was” and be believed the first time.
+With systems.
 
-That conversation—those hours on the bed with the bottle between us like evidence—had been the first time I’d fully understood that Celeste didn’t just like me as a person; she saw me as a responsibility she had willingly taken on.Not to control. To shelter.To argue with, sometimes, fiercely, for my own sake.
+With a world that would rather avert its gaze than have a teenager sit quietly in a room and say “I think I might not be who you thought I was” and be believed the first time.
+
+That conversation—those hours on the bed with the bottle between us like evidence—had been the first time I’d fully understood that Celeste didn’t just like me as a person; she saw me as a responsibility she had willingly taken on.
+
+Not to control. To shelter.
+
+To argue with, sometimes, fiercely, for my own sake.
 
 And even more surprising, that she might even love me.
 
@@ -12835,13 +12851,19 @@ Not a mascot or a guest. Not the strange, half-boy, half-question-mark creature 
 
 One of the women.
 
-As I stared out at the flapping wing, it suddenly came back to me, the reason that boy in year ten had asked, “Are you scared of girls?” I hadn’t known what to answer then, so I’d hotly denied it. Now, watching the flight attendant walk slowly uphill to the front of the cabin, I realised what he thought was fear was never that.It had simply been… personhood.Girls weren’t objects to ogle; they were people, like me.
+As I stared out at the flapping wing, it suddenly came back to me, the reason that boy in year ten had asked, “Are you scared of girls?” I hadn’t known what to answer then, so I’d hotly denied it. Now, watching the flight attendant walk slowly uphill to the front of the cabin, I realised what he thought was fear was never that.
+
+It had simply been… personhood.
+
+Girls weren’t objects to ogle; they were people, like me.
 
 In Wardrobe, when Lucy had called me “she,” it had made my knees go a little funny, and I’d had to pretend to stretch so I could disguise the way my legs wanted to give out. I’d felt like the light shining inside me was so bright, people were going to be blinded by it.
 
 And later that night, Celeste had asked why I’d gone so quiet, and I’d blurted out, “I think I belong,” but I don’t think she’d known why I said that, at the time. And I’d been afraid to tell her what it felt like.
 
-Lucy identifying me to me was… belonging.Belonging.
+Lucy identifying me to *me* was… belonging.
+
+Belonging.
 
 High school had been the opposite of that.
 
@@ -12873,11 +12895,11 @@ It was so gloriously Sarah that I couldn’t help but smile.
 
 “Terrified,” I said honestly. “And also glad that I said yes. And… so glad that you’re here.”
 
-The passing flight attendant wordlessly pointed at my waist. I quickly fastened my seat belt.“Oh, and that Celeste didn’t put her foot down and keep me at home,” I added, “like a particularly anxious pot plant.” (1)
+The passing flight attendant wordlessly pointed at my waist. I quickly fastened my seat belt.“Oh, and that Celeste didn’t put her foot down and keep me at home,” I added, “like a particularly anxious pot plant.”
 
 “She couldn’t have, even if she’d wanted to,” Sarah said. “We’d have mutinied on your behalf.”
 
-The idea of Mara and Sarah staging a small domestic coup to liberate me from Celeste’s hypothetical overprotection was so lovely I wanted to frame it.
+The idea of Mara and Sarah staging a small domestic coup to liberate me from Celeste’s hypothetical over-protection was so lovely I wanted to frame it.
 
 “And anyway,” Sarah went on, softer, “you are not a pot plant. You’re… I don’t know. A very determined climbing rose. You’re going to put roots wherever we land, whether Queensland likes it or not.”
 
