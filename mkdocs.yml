@@ -46,7 +46,8 @@ nav:
 
   - Charlotte:
       - Charlotte/index.md
-      - Celeste's Girl: Charlotte/CG-1Scenes.md
+      - Celeste's Girl v1: Charlotte/CG-1Scenes.md
+      - Celeste's Girl v2: Charlotte/CG-2Scenes.md
       - Aa- Structure: Charlotte/Aa-Structure.md
       - Ab-- Emotions: Charlotte/Ab-Emotions.md
       - Canon Bible 1: Charlotte/CanonBible.md
@@ -77,6 +78,7 @@ nav:
       - Robyn-Scene12: Charlotte/B2Scene12r.md
       - Emily-Scene13: Charlotte/B2Scene13e.md
       - Robyn-Scene13: Charlotte/B2Scene13r.md
+      - Robyn-Scene14: Charlotte/B2Scene14r.md
       - Emily-SceneTr: Charlotte/B2Scene00e.md
       - Robyn-SceneTr: Charlotte/B2Scene00r.md
 
@@ -136,7 +138,8 @@ nav:
 
   - work:
       - work/index.md
-      - Apr 13 Prompts: work/words02.md
+      - Scratch Pad: work/words01.md
+      - Apr 13 Prmt: work/words02.md
 
 plugins:
   - search
