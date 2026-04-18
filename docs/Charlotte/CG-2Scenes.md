@@ -125,9 +125,9 @@ He hesitated.
 
 “Rossignol.” I stopped to taste it. “French for: Nightingale.”
 
-The look in his eyes had shifted to something akin to awe. 
+The look in his eyes had shifted to something akin to awe. It was time to move forward. 
 
-It was time to move forward. I tilted my head toward the door. 
+I tilted my head toward the door. 
 
 “We’re leaving.”
 
@@ -143,7 +143,7 @@ He nodded: quick, obedient. As he crossed the threshold he stopped, eyes flickin
 
 “I know.” I permitted myself the smallest grin. “It suits you, though. Tell me if you hate it.”
 
-He looked at me as if I’d handed him something he didn’t what to do with. Then he was gone, swallowed by the tide of students.
+He looked at me as if I’d handed him something he didn’t know what to do with. Then he was gone, swallowed by the tide of students.
 
 I stayed in the doorway a moment longer, staring at the place he’d vacated. He had looked at me as if I could explain what was real.
 
