@@ -2484,7 +2484,7 @@ It became a place that made new ones.
 
 
 
-<!--
+
 
 ## 11 Has Charlie Run It? ✨
 
@@ -2493,11 +2493,9 @@ It became a place that made new ones.
 
 [ *Celeste* ]
 
-✨ Has Charlie Run It? ✨
- [Celeste]
  It didn’t become a thing all at once.
 
-Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it stops fighting your hands.
+Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that it will soften even linen.
 
 The second prototype was a jacket. Different cut, different sleeve head, but the same intention: make it survive the day without turning it into armour. Mara hung it on the mannequin and stood back, chin lifted.
 
@@ -2516,27 +2514,32 @@ Charlie looked up from the bench where he’d been hand-stitching a reinforcemen
 “Same drill.”
 
 There was a pause—barely a pause, the smallest catch at the back of his throat—like a muscle remembering the first time it had been asked to do something it didn’t like. Charlie finally said, evenly,
- “Right. Where’s the log sheet?”
 
-That was the moment I realised the unease hadn’t vanished: it had been translated into structure. Into process. Mara’s eyebrows lifted, as if she approved of the question.
+“Right. Where’s the log sheet?”
+
+That was the moment I realised the unease hadn’t vanished: it had been translated into structure, into process. Mara’s brows rose.
 
 “You’re learning.”
 
-Charlie wordlessly took the sheet from the clipboard and moved toward the fitting curtain. He didn’t look at me but simply did what he always did now when the work demanded something unusual: he treated himself like a tool in the system. Mara snapped the curtain closed with one decisive tug.
+Charlie wordlessly took the sheet from the clipboard and moved toward the fitting curtain. He didn’t look at me but simply did what he always did now with a confronting task: he treated himself like a tool in the system.
+
+Mara snapped the curtain closed with a decisive tug.
 
 “Five minutes,” she called through it. Her tone wasn’t a demand, it was a deadline.
 
-From behind the curtain came the rustle of fabric. Mara turned to the worktable and reached for her pencil. She made marks on the pattern piece as if she could already see what would fail. 
- Lucy leaned toward me, voice low, a curious look in her eye.
+From behind the curtain came the rustle of fabric. Mara turned to the worktable and reached for her pencil. She made marks on the pattern piece as if she already suspected failure points.
+
+Lucy leaned toward me, voice low, a curious look in her eye.
 
 “So, he’s... okay with this now, is he? He doesn’t... mind?”
 
 I kept my voice neutral. 
- “Oh, I think he minds. He just doesn’t wallow.”
+
+“Oh, I think he minds. He just doesn’t wallow.”
 
 “Sure.”
- I looked at her sharply. Lucy’s eyes had narrowed slightly, like someone convinced there’s more to the story than is being shared.
- Behind the curtain, Charlie’s voice came, quiet but steady.
+
+I eyed her sharply. Lucy’s eyes had narrowed slightly. Behind the curtain, Charlie’s voice came, quiet but steady.
 
 “Arms up?”
 
@@ -2550,9 +2553,9 @@ Mara’s pencil stopped.
 
 “Say it again.”
 
-Charlie repeated it, slightly clearer, like someone who had learned Mara needed clean sentences.
+Charlie repeated it, slightly clearer. Mara needed clean sentences.
 
-Mara nodded once, almost to herself. Charlie stepped out a moment later, jacket on, cheeks faintly flushed with exertion. He came straight to the table and pointed at the underarm.
+Mara nodded, almost to herself. Charlie stepped out a moment later, jacket on, cheeks faintly flushed with exertion. He came straight to the table and pointed at the underarm.
 
 “Here,” he said. “Two millimetres more ease at the sleeve head. And you need the reinforcement tape to stop here.” He made a precise mark with chalk. “Otherwise it transfers force sideways.”
 
@@ -2564,36 +2567,39 @@ Charlie swallowed. “It’s just… what it does.”
 
 Mara snorted quietly.
 
-“That’s what I mean,” she replied. “Most people don’t know how to listen to fabric.”
+“That’s what I mean,” she replied. “Listen to fabric, it will tell you.”
 
-I wrote it down, because that was my role: turn the fixes into a record, so the atelier could grow without forgetting how it got better.
+I quickly wrote down Charlie's observation. It had become my role: turn the fixes into a record.
 
-The third time it happened, Mara didn’t even announce it. She simply held up a skirt: new cut, new waistband, a clever closure arrangement we’d borrowed from an extant garment plate. She looked around the room. Lucy, without the slightest pause, shook her head.
+With the third prototype, Mara made no announcement, but simply held it up: a skirt, new cut, new waistband, a clever closure arrangement we’d borrowed from an extant garment plate. 
 
-“Nope,” she said. “Has Charlie run it?”
+She looked around the room. Lucy, without the slightest pause, pointed her thumb at Charlie.
+
+“Has he run it?”
 
 Mara’s eyes narrowed. “No.”
 
-Lucy took a half-step back, hands raised in mock surrender.
+Lucy raised her hand in mock surrender.
 
-“Then I’m not finding out where it splits,” she said. “I like my dignity.”
+“I’m not finding out where it splits,” she said. “I like my dignity.”
 
-I heard chuckling, but there was no laughter at Charlie, but at the idea of being the first casualty. It was different. It was women refusing to be the test surface. Mara’s gaze slid to Charlie.
+I heard chuckling, but it wasn't directed at Charlie. This was different—women refusing to be a test surface. Mara’s gaze slid to him.
 
 “Charlie.”
 
 Charlie set his work down and stood.
 
-“Alright.”
+“Yes Mara.” Then, quietly, he added, “Could… we make sure the curtain rail is fixed. It catches.”
 
-Then, quietly, he added, “Just… make sure the curtain rail is fixed. It catches.”
+He didn’t apologise for asking.
 
 Mara’s eyes flicked to the curtain hardware as if it had personally offended her.
 
-“Fine,” she said. “Someone will fix it.”
+“Yes,” she said. “We'll get it fixed.”
 
- It was another small shift in him: not bravery in a classroom. Competence in a workplace. 
- By the fourth garment, it had become a protocol without anyone formally naming it. The staff were asking as if it was an essential part of the process.
+This was a new small shift in him—the expectation of safety and competence in the workplace. 
+
+By the fourth garment, no one had named it—but everyone was using it.
 
 “Has Charlie run it?”
 
@@ -2601,25 +2607,25 @@ Mara’s eyes flicked to the curtain hardware as if it had personally offended h
 
 “Can we get Charlie on it before we put it on shift?”
 
-They didn’t want to discover failure on the floor in front of tourists. They didn’t want to lose an afternoon to ripped seams and emergency pins. They didn’t want to carry the embarrassment of being the one whose garment broke. Charlie became the pre-test because Charlie was accurate.
+They didn’t want to discover failure on the floor in front of tourists. They didn’t want to lose an afternoon to ripped seams and emergency pins. They didn’t want to carry the embarrassment of being the one whose garment broke. The wearers depended on Charlie  because he was willing, and Mara relied on him, because he was accurate.
 
-Mara, predictably, hated anything that sounded like a request when it was really a system. One afternoon she finally snapped—not at Charlie, but at the room.
+Mara, predictably, hated requests because people didn't understand the system. One afternoon she finally snapped—not at Charlie, but at the room.
 
 “Listen,” she said, voice cutting through the hum of irons and shears. “Stop making this personal. This is about efficiency.”
 
 No one spoke. Everyone listened. Mara jabbed a finger at a bodice on the table.
 
-“Repairs don’t need theatre,” she said. “Prototypes do. Anything new. Anything with a new closure or new stress profile—Rossignol runs it first. Then staff wear. That’s the order.”
+“Repairs don’t need theatre,” she said. “Prototypes do. Anything new does. Anything with a new closure or new stress profile—Charlie runs it first. Only after he clears it staff can wear it. That’s the order.”
 
-She looked at Charlie as if daring him to misunderstand.
+She looked at Charlie, her lips thin.
 
-“Not because you’re special,” she added. “Because you’re honest. You don’t fake comfort. You don’t pretend something works when it doesn’t.”
+“You’re not special,” she added, “you’re honest. And you save time.”
 
 Charlie’s ears went faintly pink. He looked down. Not shy, just uncomfortable with being named.
 
-“I don’t… want anyone wasting time,” he said quietly.
+“I don’t… want anyone wasting—,” he said quietly.
 
-Mara’s mouth twitched, something like approval.
+Mara cut in.
 
 “Good,” she said. “Neither do I.”
 
@@ -2629,27 +2635,27 @@ Later, weeks into this new rhythm, I caught the moment it became truly normal. A
 
 Mara didn’t even look up from her pattern paper.
 
-“No.”
+“Not yet.”
 
 Lucy put her hands back in her pockets.
 
-“Then I’ll wait.”
-
-No fuss. No jokes. No eyebrow raises. Just... order.
+“I’ll wait.”
 
 Charlie, at the bench, lifted his head.
 
-“I can do it now.”
+“I can do it now, if you want me to.”
 
-“Good,” she said. “Ten minutes. Break it on purpose.”
+“Good,” Mara said. “Ten minutes. Break it on purpose.”
 
-Charlie stood, took the log sheet off the clipboard, and walked to the fitting area. As the curtain fell closed behind him, I felt a small, quiet satisfaction. 
+Charlie stood, took the log sheet off the clipboard, and walked to the fitting area. As the curtain fell closed behind him, I felt a small, quiet satisfaction at how things had changed.
 
-School had made him visible in the worst way: public, exposed, used as a lesson. Wardrobe had made him visible in the only way that mattered: as a person whose judgement the room trusted, because we had built a system where his precision had a place.
+School had made him visible in the worst way: public, exposed, used as a lesson as to how things can fail.
 
-And once a precision like that has a place, it doesn’t stop.
+Wardrobe had made him visible in the best possible way: as a person whose judgement the room trusted. 
 
-It becomes the rule.
+We had built a system where his precision had a place.
+
+And once a precision like that has a place, it becomes the rule.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -2660,7 +2666,7 @@ It becomes the rule.
 
 
 
-
+<!--
 
 ## 12 The Ledger 📒
 
