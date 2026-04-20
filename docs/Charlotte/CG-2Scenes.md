@@ -2666,7 +2666,7 @@ And once a precision like that has a place, it becomes the rule.
 
 
 
-<!--
+
 
 ## 12 The Ledger 📒
 
@@ -2675,11 +2675,11 @@ And once a precision like that has a place, it becomes the rule.
 
 [Celeste]
 
-Mara didn’t announce the new system. She simply put it on the table one morning as if it had always existed.
+Mara didn’t announce the new system. She simply put it on the table one morning.
 
 A ledger. 
 
-Thick. Hard cover. The kind you could drop and have it land with authority. It sat between the pincushion and the shears, beside the tin of chalk. On the first page, in Mara’s angular hand, were headings and lines, already ruled.
+Thick. Hard cover. The kind you could drop and have it land with authority. It sat between the pincushion and the shears, beside the tin of chalk. On the first page she'd already ruled headings in her angular hand.
 
 GARMENT:
 DATE ISSUED:
@@ -2691,39 +2691,38 @@ RE-TEST:
 SIGNED (MARA):
 SIGNED (CELESTE):
 
-I ran my finger down the columns and felt, absurdly, the relief of it. The whole room would be calmer now. Fewer frantic, vague sentences. Fewer people saying it just tore as though fabric did things out of spite. Mara watched my face without asking what I thought.
+I ran my finger down the columns and felt, absurdly, relieved. The whole room would be calmer now. Fewer claims the garment just tore, as though fabric did things out of spite.
+
+Mara watched my face.
 
 “What’s the rule?”
 
-She tilted her head toward the far curtain rail. It had been newly fixed, properly anchored now, no longer sagging like an apology.
+She tilted her head toward the far curtain rail. It had been recently fixed, no longer sagging like an apology.
 
 “Rule is,” Mara said, “guesses aren’t data.”
 
-She looked past me. Charlie silently appeared, as always, like he’d learned how to make his presence small without making himself invisible. A bundle of twill under one arm, a roll of paper under the other, his long hair hurriedly tied in a ponytail, still damp at the edges as if he’d left the house late for work. He saw the ledger and stopped.
+She looked past me. Charlie silently appeared, a bundle of twill under one arm, a roll of paper under the other, his long hair hurriedly tied in a ponytail, still damp at the edges. At the sight of the ledger he stopped.
 
 He understood what it meant. Mara slid it toward him with two fingers, like a forewoman pushing a job sheet across a bench.
 
 “Write,” she said, eyes on him directly.
 
-Lucy passed behind him, glanced at the headings and made a small sound of approval, like a woman watching chaos get pinned down. Charlie set his bundle down with careful hands. He didn’t touch the book at first, studying instead the headings, his eyes moving fast, absorbing structure like it was a language he was fluent in.
+Lucy passed behind him, glanced at the headings and made a small sound, like watching chaos get pinned down. Charlie set his bundle down with careful hands. He didn’t touch the book, but studied the headings, his eyes moving fast, absorbing structure like it was a first language.
 
-“This is for logging failures?”
+“This is only for logging failures?”
 
-“I want you to log the truth,” Mara said. “And I want your name on the page when you’re satisfied it’s repeatable.”
+“Log everything that happens. Not what you think—what it does,” Mara said. “And I want your name on it when you’re satisfied it’s repeatable.”
 
-His throat moved: a swallow, the faint tension he got when something was about to be formal. When he had been held to the work, and allowed to own it. He picked up the pen.
+His throat moved: a swallow, the faint tension he got when something was about to be formal. He picked up the pen.
 
 “Start with the stays,” Mara said. “The working set. The set you ‘delivered last time’.”
 
-I watched him write. His handwriting had steadied over the last week—neater now, more controlled. More importantly, though, it was precise: like stitching that might not be decorative, but would hold through more than one season.
+I watched him write. His handwriting, always tidy, was even neater now, a flowing connected cursive. More importantly, though, it was precise: like stitching that would hold.
 
-GARMENT: Working stays, linen canvas, whalebone substitute (reed/synthetic baleen), size test 2
-
-WEAR-TESTER: Charlie Rossignol
-
-MOVEMENT / STRESS: bending, reaching overhead, lifting tray, stair ascent / descent
-
-FAILURE POINTS: seam-stress at left side-back, binding roll at top edge, grommet pull at waist tie point
+GARMENT: Working stays, linen canvas, whalebone substitute (reed/synthetic baleen), size test 2  
+WEAR-TESTER: Charlie Rossignol  
+MOVEMENT / STRESS: bending, reaching overhead, lifting tray, stair ascent / descent  
+FAILURE POINTS: seam-stress at left side-back, binding roll at top edge, grommet pull at waist tie point  
 
 Mara leaned over his shoulder, close enough to read without making it personal.
 
@@ -2731,7 +2730,7 @@ Mara leaned over his shoulder, close enough to read without making it personal.
 
 Charlie paused with the pen just above the paper.
 
-Not how did it feel, in the way people said it when they wanted a story. Mara meant: where did the thing pinch, drag, creep. He answered like he was reading off a diagram.
+Mara wasn't asking for a story. She needed actions: where did it pinch, drag, creep. He answered like he was reading off a diagram.
 
 “Too much load goes to the left tie point,” he said. “That’s why the grommet starts to oval. If you redistribute tension by either moving the tie or adding a secondary anchor, then the binding won't try to roll because it won't be fighting the torque.”
 
@@ -2739,51 +2738,61 @@ Mara’s mouth did a small, satisfied curve that wasn’t a smile so much as a v
 
 “And?”
 
-“And the seam at side-back is... well, it’s under-designed for repeated bending,” Charlie added. He tapped the page lightly. “Not wrong for... standing. But if you want a working garment, you need the seam to expect work.”
+“And the seam at side-back is— well, it’s under-designed for repeated bending,” Charlie added. He tapped the page lightly. “Not wrong for standing. But if it has to do work, you need a seam that can deal with that.”
 
-He didn’t say I understand women’s bodies. He didn’t mansplain any of the conclusions blokes force into the air when the opposite gender was nearby. He just described load paths.
+He didn’t waste time mansplaining how clothing worked on women’s bodies, to women. He just described load paths.
 
 Mara straightened.
 
-“Celeste,” she said, without looking at me, “this is why we don’t trial on staff anymore.”
+“Celeste,” she said, without looking at me, “you've been listening?”
 
-“Yeah, I know,” I rejoined. My voice came out lighter than I intended, because it was almost funny now... how obvious all this was, in hindsight. “We’d been doing it backwards.”
+“Yes,” I rejoined. My voice came out lighter than I intended. It seemed oddly obvious, now. “We’d been doing it backwards.”
 
 She finally looked at me then, eyes sharp.
 
 “Actually, we weren’t doing anything. We were letting it happen.”
 
-That was Mara. She could turn a whole week of chaos into a single sentence and make you feel embarrassed you’d ever accepted it. Charlie kept writing, pen scratching.
+That was Mara. She could summarise a whole week of chaos in a single sentence and leave you wondering why you’d ever accept chaos. 
 
-FIX APPLIED: move tie point 12mm; add secondary anchor tape; reinforce side-back with felled seam + narrow twill tape; adjust binding cut on bias
+Charlie kept writing, pen scratching.
 
-He stopped again. His fingers tightened slightly around the pen, and I recognised the moment: the place where competence collided with the other thing, the thing he didn’t speak about. He didn’t want to be dramatic. That was his discipline. But the discipline had seams, too. Mara waited. She didn’t rush him. She didn’t soften. Finally, he said, very carefully,
+FIX APPLIED: 
+move tie point 12mm;   
+add secondary anchor tape;   
+reinforce side-back with felled seam + narrow twill tape;   
+adjust binding cut on bias
 
-“We’re still doing... the fitting behind the curtain, yeah?”
+He stopped again. His fingers tightened slightly around the pen, and I saw hesitation: where competence collided with something else, something he avoided speaking about. 
+
+Mara waited.
+
+Finally, he said, very carefully,
+
+“We’re still doing... the fitting behind the curtain?”
 
 Mara’s gaze didn’t flicker.
 
 “Nothing has changed.”
 
-“And the door stays locked?” he added, quickly, as if he regretted asking at all.
+“And the door stays locked?” he added, quickly.
 
-“Yes,” Mara said again. “And the log stays factual. No one discusses it like it’s entertainment.”
+“Yes,” Mara said again. “And the log stays factual. It has no entertainment value.”
 
 Charlie nodded quickly.
 
-He wrote RE-TEST and then stopped, as if the word itself asked for a calendar.
+He wrote RE-TEST and then stopped.
 
-I watched him, and I felt something in my chest shift into place. Something utilitarian, even scalable: the sense of seeing an interface, and realising it could scale. If we could keep him safe from being turned into a spectacle, if we could keep him inside the logic of the work, then the whole atelier could expand without losing its centre.
+I watched him, and I felt something in my chest shift into place. Something settled into place, something structural. Something that could be repeated.
 
-Lauren arrived not long after. Practical, carrying a box of notions and a roll of interfacing like she was delivering supplies to a site office. Her eyes landed on the ledger.
+We couldn’t let this turn into a spectacle. He needed to stay inside the logic of the work. Then, the whole atelier could expand without losing its centre.
+
+Lauren arrived not long after, carrying a box of notions and a roll of interfacing. Her eyes landed on the ledger.
 
 “Ah,” she said. “You’ve made it official.”
 
-Mara didn’t bother with pleasantries.
+“We’ve made it measurable.”
 
-“We’ve made it measurable,” she corrected.
-
-Lauren looked at Charlie, then at the curtain rail, then back to Mara, reading the room the way an adult reads a room: fast, with the parts that mattered.
+Lauren looked at Charlie, then at the curtain rail, then back to Mara, reading the room—fast, with the parts that mattered.
 
 “And he’s signing off?”
 
@@ -2791,13 +2800,13 @@ Lauren looked at Charlie, then at the curtain rail, then back to Mara, reading t
 
 Lauren put the box down, opened it, and slid a handful of reinforced grommets onto the table.
 
-“Use these,” she said to no one in particular. “If you’re doing working garments, stop pretending decorative hardware can take load.”
+“Use these,” she said. “If you’re doing working garments, stop pretending decorative hardware can take load.”
 
-Charlie stared at the grommets then glanced at her. Then, so imperceptibly I almost missed it, his shoulders loosened, because his mother had spoken the language of work. Mara watched the exchange like she was watching two subcontractors finally agree on a specification. 
+Charlie stared at the grommets for a moment, then glanced at her. And, imperceptibly, his shoulders loosened—his mother had spoken in his tongue, the language of work. Mara watched the exchange—like two tradies agreeing on how it should be built. 
 
 Charlie put his head down and wrote:
 
-SIGNED (CHARLIE)
+SIGNED (Charlie)
 
 Mara took the pen from him when he was done. She signed her name with a thick, decisive stroke. Then she pushed the ledger toward me.
 
@@ -2816,7 +2825,7 @@ And just like that, the atelier took one step away from being a clever little po
 
 
 
-
+<!--
 
 ## 13 Working Stays ✨
 
