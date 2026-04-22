@@ -3610,7 +3610,7 @@ And Charlie lifted his arms.
 
 
 
-<!--
+
 
 ## 16 First Rung ✨
 
@@ -3625,41 +3625,45 @@ Mara didn’t look up.
 
 And Charlie lifted his arms. Nothing dramatic happened. That was the point.
 
-The mock-up shifted, settled, revealed stubborn little facts along the side seam: a crease that wanted to become a habit, a boning channel that behaved until it didn’t. Mara watched like a machinist. Lauren watched like a woman who had lived inside garments that asked too much and gave too little back.
+The mock-up shifted, settled, revealed stubborn little facts along the side seam: a crease that wanted to become a habit, a boning channel that behaved until it didn’t. 
 
-Sarah watched like someone waiting to see whether the room would flinch.
+Mara watched like a machinist. 
 
-Charlie lowered his arms and looked to the ledger as if it might tell him what to do next. Mara spoke first.
+Lauren watched like a woman who had lived inside garments that asked too much and gave too little back.
+
+Sarah watched like someone deciding he hadn’t earned the room.
+
+Charlie lowered his arms and looked to the ledger. Mara spoke first.
 
 “Write it.”
 
-He did. His pen moved faster than his face could manage. Lauren leaned in just enough to read the headings, not him. She simply existed beside the work in a way that made it feel less lonely.
-
-When Charlie finished, Mara nodded.
+He did. His pen moved faster than his face could manage. Lauren leaned in just enough to read the headings. When Charlie finished, Mara nodded.
 
 “All right,” Mara said. “That’s the garment. Now the rung.”
 
-Charlie stilled. “The... rung?”
+Charlie stilled. “The— rung?”
 
-Mara set the mock-up aside and pinned a strip of tape to the floor in a straight line, like a boundary.
+Mara set the mock-up aside and pinned a strip of tape to the floor in a straight line.
 
 “This line,” she said, “is the edge of hiding. On this side, you can hover. On that side, you’re working while people see you.”
 
-Sarah gave a short laugh. “You’re joking.”
+Sarah gave a short laugh. “So now we’re doing cosplay.”
 
 “No,” Mara said. “It’s training.”
 
-Charlie stared at the tape as if it were a trap. Mara pointed to the cutting table.
+Charlie stared at the tape. Mara pointed to the cutting table.
 
-“Your job is to cross that line, do one real task while we watch, and come back. No explaining. No apologising. Just the task.”
+“Your job is to cross that line, do one real task while we watch, and come back. No explaining or apologising, just the task.”
 
 “And... that’s it?”
 
 “That’s it,” Mara said. “Small, repeatable. Until it’s boring.”
 
-Lauren’s voice came in warmer, without softening the standard. “Pick a task you already know,” she said. “Something clean, like a waistline mark or a grainline check. Anything your hands can do while your brain is noisy.”
+Lauren’s voice came in, warmer. 
 
-Charlie blinked at her. The warmth helped; it didn’t replace the difficulty.
+“Pick a task you already know,” she said. “Something clean, like a waistline mark or a grainline check. Anything your hands can do while your brain is noisy.”
+
+Charlie blinked at her.
 
 “The waistline mark,” he said quietly.
 
@@ -3667,9 +3671,9 @@ Charlie blinked at her. The warmth helped; it didn’t replace the difficulty.
 
 Sarah folded her arms. “If he trips, I’m laughing.”
 
-Lauren turned her head toward Sarah, still pleasant. “If you laugh, you’ll be sorting grommets for a week. Quietly.”
+Mara turned her head toward Sarah. “If you laugh, you’ll be sorting grommets for a week. Quietly.”
 
-Sarah shut her mouth. Mara didn’t react. She didn’t need to.
+Sarah purses her lips.
 
 “Three,” Mara said.
 
@@ -3677,59 +3681,87 @@ Charlie tightened his grip on the chalk.
 
 “Two.”
 
-His shoulders tried to rise.
+His torso tried to rise.
 
-“Drop them,” Mara said, flat.
+“Drop your shoulders,” Lauren said softly.
 
 “One.”
 
 Charlie stepped over the tape.
 
-The room didn’t change, except that Charlie was now on the side where he could be seen. He walked to the cutting table and did the job: found the notch, marked the waistline, set the chalk down properly. His hand shook slightly, then steadied.
+The room didn’t change, except that Charlie was now on the side where he could be seen. 
+
+He walked to the cutting table.
+
+Found the notch. 
+
+Marked the waistline.
+
+Set the chalk down. Properly. 
+
+His hand shook slightly, then steadied.
 
 Mara nodded. “Back.”
 
 Charlie blinked.
 
-“Back over the line,” Mara said. “Then forward again. You’ll do it until your body stops treating being watched like danger.”
+“Back over the line,” she said. “Then, do it again. You’ll do it until your body stops treating being watched like danger.”
 
-Charlie swallowed, then stepped back over the tape. Then forward again. By the third crossing, his breath slowed.
+Charlie swallowed. 
 
-By the fifth, his hands stopped shaking. Sarah was no longer watching him. She was watching the method. 
+He stepped back over the tape. 
+
+Then forward again. By the third crossing, his breath slowed.
+
+By the fifth, his hands stopped shaking. 
+
+Sarah was no longer watching him. She was staring at his shirt. 
+
+“You own anything that fits on purpose?” she said, not looking up.
+
+Lauren said nothing—just raised her eyebrows at Charlie.
 
 Mara wrote in the ledger:
 
-EXPOSURE TRAINING — rung completed: crossed line while observed; task performed; no retreat.
+EXPOSURE TRAINING — rung completed:   
+- crossed line while observed   
+- task performed; no retreat
 
 Lauren’s voice came in warm at his shoulder as he turned.
 
-“This is what aerobics feels like,” she said lightly. “First day you think everyone’s watching. Third day you realise everyone’s too busy trying not to die.”
+“This is what doing aerobics is like,” she said lightly. “The first day, you think everyone’s watching. By the third day, you realise everyone’s too busy trying not to die.”
 
-Charlie's lips twitched in something that might have been a laugh. Mara was already stripping the tape from the floor.
+Charlie's lips twitched in something slightly resembling a grin. 
 
-“Second rung tomorrow,” she said, as if she were announcing the next seam to sew. “Someone speaks to you while you work. You keep your hands.”
+Mara was already stripping the tape from the floor.
 
-Sarah scoffed, but there with less bite now.
+“Second rung tomorrow,” she said, as if announcing the next seam to sew. “Someone speaks to you while you work. You keep your hands.”
 
-“And if I speak to him?”
+Sarah's lips went to one side.
 
-Mara looked at her.
+“What if I speak to him.”
 
 “Then you’ll speak like a colleague,” Mara said. “Not like a spectator.”
 
-Sarah held Mara’s gaze, then nodded with a look of slight resignation. Charlie looked down at the ledger again, at the new heading. His pen moved. Under Mara’s line, he added, neat as a promise:
+Sarah held Mara’s gaze, then let it go. 
 
-NOTES: did not collapse. did not apologise. hands steadied after third crossing.
+Charlie looked down at the ledger again, at the new heading. His pen moved. Under Mara’s line, he added, neat as a promise:
 
-He underlined *did not apologise* once. Then he picked up his chalk.
+NOTES:  
+- did not collapse   
+- did not apologise   
+- hands steadied after third crossing
 
-“Again?” he asked, quietly.
+He underlined *did not apologise* once, then he picked up his chalk.
+
+“Again?”
 
 Lauren smiled. “Again.”
 
-Mara didn’t smile. But then, she never did. And, she didn’t need to.
+Mara didn’t smile: she never did. But then, she didn’t need to.
 
 She had built a ladder.
+
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3739,7 +3771,7 @@ She had built a ladder.
 
 
 
-
+<!--
 ## 17 Second Rung ✨
 
 <a href="/assets/images/story/Scene17a.jpg" target="_blank" rel="noopener">
