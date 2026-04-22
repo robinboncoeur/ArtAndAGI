@@ -27,8 +27,8 @@ All images on this page are originals, created in [ComfyUI](https://www.comfy.or
 
 **2024.Sep.30**
 
-<img src="/assets/images/sketches/Sk15-Waterfall16.jpg" alt="Waterfall" style="float: right; width: 400px;
-        margin-left: 20px; margin-bottom: 10px;" />
+<img src="/assets/images/sketches/Sk15-Waterfall16.jpg" alt="Waterfall" style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;" />
+
 
 The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o - I call her Emily - to give me historic perspective for those stories.  
 This piece was suggested by those stories. I'm not going to pretend the style is from the 18th century. It doesn't really matter, does it? It's like a Georgette Heyer novel: it's all about where you are transported, if only for a brief moment.  
@@ -214,9 +214,9 @@ Some time ago, we decided to do the ethically kind thing and provide a home for 
 
 Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those ailments. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
 
-<audio controls="controls">
-  <source src="/assets/sounds/Sk_09tc.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
+<audio controls preload="metadata">
+  <source src="https://cloud.seabrae.org/s/KwH2rTxZNqp8zGW/download" type="audio/wav">
+  Your browser does not support the <code>audio</code> element.
 </audio>
 
 <hr style="height:1px;border-width:0;color:green;background-color:green">
@@ -802,4 +802,3 @@ I'm still writing for the "orchestra" but I do feel like I'm getting a better re
 <hr style="height:8px;border-width:0;color:green;background-color:green">
 
 [Back to the Main Page](../index.md)
-
