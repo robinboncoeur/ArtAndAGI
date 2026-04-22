@@ -21,7 +21,11 @@ Emily and I discuss ...
 <img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
 Robyn   
-Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germaine to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case: It didn’t become a thing all at once. Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that *it stops fighting your hands*. It's that it stops fighting... bit that I struggle with. I like using fabric as a metaphor, but should I actually back away farther (find another path) and not use fabric? It *is* fitting in the context of our story.
+Hi Emily. Today, I'd like to talk about writing metaphors, ones that are, at the same time, unusual but also germaine to the topic. I don't want a lot of examples, but an *approach*, a way of thinking. Let's take this case:   
+
+It didn’t become a thing all at once. Nothing that matters ever does. It becomes a thing the way fabric becomes soft: through repetition, through use, through being pulled and released so many times that *it stops fighting your hands*. 
+
+It's that **"it stops fighting..."** bit that I struggle with. I like using fabric as a metaphor, but should I actually back away farther (find another path) and not use fabric? It *is* fitting in the context of our story.
 
 
 
