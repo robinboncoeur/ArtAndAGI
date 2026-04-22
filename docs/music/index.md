@@ -1,11 +1,5 @@
-# Music Index
+# Music
 
-## Links
-
-
----
-
-[Main Page](../index.md)
 
 <hr style="height:8px;border-width:0;color:pink;background-color:pink">
 
@@ -13,11 +7,11 @@
 
 ## On Music
 
-<a href="/assets/images/plotpics/P06-01Girls.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/plotpics/P06-01Girls.jpg" alt="" width="360" align="right"></a>
+<a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="140" align="right"></a>
 
 
-This is a piece I transcribed from hand-written manuscript. I have been asked not to share this on IMSLP by the Royal Academy of Music Library in London, but I will share it here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
+This is a piece I transcribed from hand-written manuscript. I have been asked to not share this on IMSLP by the Royal Academy of Music Library in London, but I will share it here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
 
 <audio controls="controls">
   <source src="/assets/music/AliceMarySmith-LallaRookh.mp3" type="audio/wav">
@@ -45,7 +39,7 @@ Left-right images
 
 /-->
 
----
+
 
 <!--
 
@@ -59,7 +53,6 @@ Video
 </div>
 /-->
 
----
 
 <!--
 
@@ -81,7 +74,7 @@ extra:
 
 /-->
  
----
+
 
 <!--
 
@@ -109,7 +102,7 @@ Pics Group
 
 /-->
 
----
+
 
 <!--
 
@@ -122,13 +115,13 @@ Insta Link
 <hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
-/-->
 
----
+
+
 
 a cute little shorts gallery 💅📱
 
-<!--
+
 
 <style>
   /* Row that holds all the videos */
@@ -183,8 +176,8 @@ a cute little shorts gallery 💅📱
     </iframe>
   </div>
 
-  <!-- Optional third, fourth, etc. – they’ll wrap automatically -->
-  <!--
+ Optional third, fourth, etc. – they’ll wrap automatically
+
   <div class="video-portrait">
     <iframe
       src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_3/iframe"
@@ -192,15 +185,14 @@ a cute little shorts gallery 💅📱
       allowfullscreen>
     </iframe>
   </div>
-  -->
 
 </div>
-
 
 /-->
 
 
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+
+<hr style="height:24px;border-width:0;color:pink;background-color:pink" />
 
 [Main Page](../index.md)
