@@ -30,27 +30,31 @@ All images on this page are originals, created in [ComfyUI](https://www.comfy.or
 <img src="/assets/images/sketches/Sk15-Waterfall16.jpg" alt="Waterfall" style="float: right; width: 400px; margin-left: 20px; margin-bottom: 10px;" />
 
 
-The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o - I call her Emily - to give me historic perspective for those stories.  
+The film "Portrait de la Jeune Fille en Feu" by Celine Sciamma is living rent-free in my head. All sorts of side stories have emerged: I'm actually even writing a screenplay (which, like most screenplays, will never be seen on a director's chair) and have even engaged ChatGPT4o—I call her Emily—to give me historic perspective for those stories.   
 This piece was suggested by those stories. I'm not going to pretend the style is from the 18th century. It doesn't really matter, does it? It's like a Georgette Heyer novel: it's all about where you are transported, if only for a brief moment.  
 I hope you enjoy.
 
 25.04.20: ETA... Just to make a point, I'm posting a link here to The Reaper Version, the point being, if your composition plays no faster than this piece, MuseSounds does okay. It's those pesky 1/8th notes and faster, and tuplets and stuff like that which doesn't quite come out right yet, in MuseSounds. I'm confident it will happen, of course, as well as articulation management and other cool stuff.  
-25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds for MuseSounds, which, I'm a bit aghast to say, make Reaper and all my high-cost libraries less and less relevant, especially considering what these libraries cost *even on special*. No, Musescore Studio still isn't a DAW, but - like AI - it is rapidly approaching that point.
+25.08.15:ETA... I've invested in the Spitfire Symphonic Strings and Woodwinds for MuseSounds, which, I'm a bit aghast to say, make Reaper and all my high-cost libraries less and less relevant, especially considering what these libraries cost *even on special*. No, Musescore Studio still isn't a DAW, but—like AI—it is rapidly approaching that point. **The playback below was produced in Reaper.**
 
 
-<!--
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch15.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
-/-->
-
-<audio controls="controls">
-  <source src="/assets/sounds/Sk_15EaCMS.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
 
 
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/07-WritingFriday.jpg" alt="Score preview" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Sketch 15</div>
+    <h3 class="music-title">Waterfall</h3>
+    <p class="music-desc">
+      <em>Inspired by—and themed for—Celeste's Girl</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/8Lr4x6TFagHg2KN/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 
 
@@ -80,15 +84,15 @@ Thanks for listening.
 ETA: I've reviewed this score. I found glaring issues (not all, clearly) which I've corrected. This is a long way from being what I had intended... oh well. The issues appear to 'surface' after exporting to MIDI and importing into a DAW using more sophisticated instrument libraries. It almost feels like my ear had been tricked to believing what I was hearing was 'correct'. I shudder to think what it would sound like, played by an actual ensemble.
 
 
-<audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/Sketch14.mp3" type="audio/wav">
+<audio controls preload="metadata">
+  <source src="https://cloud.seabrae.org/index.php/s/ic7Aa2ZkdioaZW5/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
-
+https://cloud.seabrae.org/index.php/s/ic7Aa2ZkdioaZW5/download
 
 
 
@@ -110,7 +114,7 @@ Update: I've managed to sort-of do what others have been able to accomplish—at
 
 BTW, needed to mention: that strange way of writing what amounts to a dotted half-note (3 beats) was to force Musescore to do the note-length sort-of crescendo/decrescendo. As it turned out, the effect wasn't used all that much, but I sort-of left the notation the way I did out of laziness, I suppose. In the case of actually getting this played by actual performers, I'd change it to something more conventional. 
 
-<audio controls="controls">
+<audio controls preload="metadata">
   <source src="http://tightbytes.com/music/Sketches/Sketch13.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>
@@ -138,7 +142,7 @@ True to form, the media was no longer interested. The public had "moved on". But
 This is not a happy piece. Nor is it completely done. It's one I've struggled with now for some time, and it's actually not done yet. But it's where thing are now. I pray I offend no caring souls with it and hope that I speak for the children.
 
 
-<audio controls="controls">
+<audio controls preload="metadata">
   <source src="https://cloud.seabrae.org/index.php/s/wqtnyFXnzM8kETb/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
@@ -176,7 +180,7 @@ http://musescore.com/user/29275325/scores/7603490
 
 /-->
 
-<audio controls="controls">
+<audio controls preload="metadata">
   <source src="https://cloud.seabrae.org/index.php/s/9qPZtPxNg64iYrN/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
@@ -196,7 +200,7 @@ http://musescore.com/user/29275325/scores/7603490
 
 [Just a bit of fun](https://musescore.com/user/29275325/scores/7247817) for the silly season. I was actually listening to a piece called "Ru Lai Cau Ho" sung by the inimitable Cam Ly - Viet music doesn't stick to twelve tones but sort-of quavers around a fair bit - and this thing grew out of that. No relationship at all... this sounds more like an ethnic dance of some sort.
 
-<audio controls="controls">
+<audio controls preload="metadata">
   <source src="http://tightbytes.com/music/Sketches/Sketch10.mp3" type="audio/wav">
   Your browser does not support the <code>audio</code> element. 
 </audio>

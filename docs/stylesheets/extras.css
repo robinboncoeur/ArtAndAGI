@@ -1,0 +1,30 @@
+.music-card--with-art {
+	display: grid;
+	grid-template-columns: 120px 1fr;
+	gap: 1rem;
+	align-items: center;
+}
+
+.music-art {
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	border-radius: 12px;
+	display: block;
+}
+
+.music-content {
+	min-width: 0;
+}
+
+@media (max-width: 640px) {
+	.music-card--with-art {
+		grid-template-columns: 1fr;
+	}
+
+	.music-art {
+		width: 100%;
+		height: auto;
+		max-height: 220px;
+	}
+}

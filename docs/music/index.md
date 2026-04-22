@@ -1,22 +1,33 @@
-# Music
+# On Music
 
 
-<hr style="height:8px;border-width:0;color:pink;background-color:pink">
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
 
 
 
-## On Music
+## A Transcription Effort
 
 <a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="140" align="right"></a>
+  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="300" align="right"></a>
 
 
 This is a piece I transcribed from hand-written manuscript. I have been asked to not share this on IMSLP by the Royal Academy of Music Library in London, but I will share it here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
 
-<audio controls="controls">
-  <source src="/assets/music/AliceMarySmith-LallaRookh.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/02music05.jpg" alt="Score preview" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Alice Mary Smith</div>
+    <h3 class="music-title">Lala Rookh</h3>
+    <p class="music-desc">
+      <em>Overture - 1865</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/FjsYqnys2YSwL8X/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 
 
@@ -193,6 +204,4 @@ a cute little shorts gallery 💅📱
 
 
 
-<hr style="height:24px;border-width:0;color:pink;background-color:pink" />
-
-[Main Page](../index.md)
+<hr style="height:16px;border-width:0;color:pink;background-color:pink" />
