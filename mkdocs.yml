@@ -136,6 +136,7 @@ nav:
 
   - Music:
       - music/index.md
+      - Sketches: music/Sketches.md
 
   - work:
       - work/index.md
