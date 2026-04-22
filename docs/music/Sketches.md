@@ -139,14 +139,14 @@ This is not a happy piece. Nor is it completely done. It's one I've struggled wi
 
 
 <audio controls="controls">
-  <source src="http://tightbytes.com/music/Sketches/WIPs/Sketch12cu.mp3" type="audio/wav">
+  <source src="https://cloud.seabrae.org/index.php/s/wqtnyFXnzM8kETb/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
    
 <hr style="height:1px;border-width:0;color:green;background-color:green">
 
 
-
+https://cloud.seabrae.org/index.php/s/wqtnyFXnzM8kETb/download
 
 
 
@@ -177,7 +177,7 @@ http://musescore.com/user/29275325/scores/7603490
 /-->
 
 <audio controls="controls">
-  <source src="/assets/sounds/Sk_11iMS.mp3" type="audio/wav">
+  <source src="https://cloud.seabrae.org/index.php/s/9qPZtPxNg64iYrN/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
