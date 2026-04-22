@@ -215,7 +215,7 @@ Some time ago, we decided to do the ethically kind thing and provide a home for 
 Bear in mind: they were "rescue hens". They came with co-morbidities, which manifested themselves after a while (measures 25-40) which ultimately ended up with four of them, at the time I wrote the piece, succumbing to those ailments. The others eventually followed, going the way of all flesh, ultimately (measures 41-48).
 
 <audio controls preload="metadata">
-  <source src="https://cloud.seabrae.org/s/KwH2rTxZNqp8zGW/download" type="audio/wav">
+  <source src="https://cloud.seabrae.org/index.php/s/KwH2rTxZNqp8zGW/download" type="audio/mpeg">
   Your browser does not support the <code>audio</code> element.
 </audio>
 
