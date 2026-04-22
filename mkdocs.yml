@@ -48,7 +48,6 @@ nav:
       - Charlotte/index.md
       - Celeste's Girl v1: Charlotte/CG-1Scenes.md
       - Celeste's Girl v2: Charlotte/CG-2Scenes.md
-      - Metaphor Writing: Charlotte/MetaphorWriting.md
       - Aa- Structure: Charlotte/Aa-Structure.md
       - Ab-- Emotions: Charlotte/Ab-Emotions.md
       - Canon Bible 1: Charlotte/CanonBible.md
@@ -91,6 +90,7 @@ nav:
 
   - Emily:
       - Emily/index.md
+      - Metaphor Writing: Emily/MetaphorWriting.md
       - Notes Feb 23: Emily/Notes26-02-23.md
       - Notes Feb 28: Emily/Notes26-02-28.md
       - Notes Mar 03: Emily/Notes26-03-03.md
