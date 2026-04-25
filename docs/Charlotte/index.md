@@ -17,8 +17,11 @@
 
 
 
-## Abouts
+## About...
 ### The Images
+
+<a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/09-Charlotte-InParis.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
 I own all images and videos on these pages. They were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
 
@@ -40,6 +43,14 @@ I write in Zed, a coding plain-text processor that supports markdown (MkDocs). T
 
 I 'collaborate' with an AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but the content (plot/ dialogues / story arc / ideologies) is purely mine.  
 In [**Celeste's Girl**](CG-1Scenes.md) I leaned quite heavily on Emily. My original story was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of writings on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](CG-1Scenes.md#introduction) should make it clear.
+
+---
+
+### The Prompt
+
+Cinematic medium close-up portrait of a young woman with soft, natural features and light brown hair loosely tied up, gazing thoughtfully off-camera to the left with a subtle, hopeful smile. She is dressed in period attire, wearing a dark, muted indigo or navy blue linen square-neck gown or bodice over a slightly ruffled, cream or off-white chemise with a square neckline. The lighting is soft, diffused daylight, suggesting an overcast or foggy morning, illuminating her face gently from the front-left, creating subtle highlights on her cheekbones and nose. She is positioned indoors, looking out from a weathered stone window or balcony opening, the dark window frame partially visible on the right. The background is a softly blurred (shallow depth of field) view of an old European city streetscape, featuring muted tones of grey, beige, and dark green from distant architectural details, including a prominent dome or spire partially visible through a pale atmospheric haze, suggesting a historical or period drama setting. The overall mood is serene, romantic, and slightly melancholic, rendered with high detail, photorealistic quality, and a color palette dominated by cool blues, greys, and soft, warm skin tones, reminiscent of film stills from the 19th century.
+
+[Prompt Generator](https://www.ryrob.com/image-to-prompt/?share=7VFcJ6ywFP8Crl)
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
