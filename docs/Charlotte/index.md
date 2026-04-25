@@ -27,22 +27,28 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 * **Character persistence**  
   Nodes used: LoRAs in Flux.1-Dev
+	(Note: have completely converted to LoRAs vs ReActor, as a properly done LoRA will support a face viewed from any angle. ReActor tends to distort features if not rendered front-facing.)
 
 * **Anatomical accuracy**  
   Models used: 
   
   1. Z-Image Turbo
   2. Flux1 Dev (SRPO; to a lesser extent, Kontext)
-  3. SeedV2 (not a model, used for scaling up)
+  3. Qwen Image Edit
+  4. SeedV2 (not a model, used for scaling up)
+  5. I'm trialling Flux2 Klein.
 
 ---
 
 ### The Scenes
 
-I write in Zed, a coding plain-text processor that supports markdown (MkDocs). The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare manages creating the static pages and serving the site. Large files, such as video or >25mg music files, are also served by CloudFlare.
+I write in Zed, a coding plain-text processor that supports markdown (MkDocs). The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare manages creating the static pages and serving the site. 
 
-I 'collaborate' with an AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but the content (plot/ dialogues / story arc / ideologies) is purely mine.  
-In [**Celeste's Girl**](CG-1Scenes.md) I leaned quite heavily on Emily. My original story was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of writings on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](CG-1Scenes.md#introduction) should make it clear.
+For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media.
+
+I 'collaborate' with a ChatGPT AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but **the content (plot/ dialogues / story arc / ideologies) is purely mine**.
+
+In the original [**Celeste's Girl**](CG-1Scenes.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story—the one before this one—was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](CG-1Scenes.md#introduction) should make it clear.
 
 ---
 
@@ -64,31 +70,166 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 I'm slowly putting together an audiobook of 'Celeste's Girl':
 
-### Intro:
+---
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Intro_CG.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/07-WritingFriday.jpg" alt="The author" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label"><h2>Introduction</h2></div>
+    <h5 class="music-title">by Charlotte Rossignol</h5>
+    <p class="music-desc">
+      <em>Why I wrote 'Celeste's Girl'</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/CTdFdHzMAjqSCrF/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 ---
 
-### Scene 1:
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene01a.jpg" alt="Celeste" class="music-art">
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Scene01-CelestesGirl.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+  <div class="music-content">
+    <div class="music-label">Scene One</div>
+    <h3 class="music-title">Are You Lost?</h3>
+    <p class="music-desc">
+      <em>Wrong place, head in the clouds lad</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/wFkTnQEDGtsPYMG/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
 ---
-### Scene 2:
 
-<audio controls="controls">
-  <source src="http://audio.art.tightbytes.com/celestesgirl/Scene02-CelestesGirl.mp3" type="audio/wav">
-  Your browser does not support the <code>audio</code> element. 
-</audio>
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene02a.jpg" alt="Celeste" class="music-art">
 
+  <div class="music-content">
+    <div class="music-label">Scene Two</div>
+    <h3 class="music-title">Group Task</h3>
+    <p class="music-desc">
+      <em>The held-back boy</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pAxjCoXKMSDRNGM/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
+---
+
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Three</div>
+    <h3 class="music-title">Wardrobe</h3>
+    <p class="music-desc">
+      <em>Who did this?</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/KwgtAraTMpGWztt/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene04a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Four</div>
+    <h3 class="music-title">First Day</h3>
+    <p class="music-desc">
+      <em>Don't apologise, just learn</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene05a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Five</div>
+    <h3 class="music-title">Second Day</h3>
+    <p class="music-desc">
+      <em>Don't apologise, just learn</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene06a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Six</div>
+    <h3 class="music-title">Sewing as Physics</h3>
+    <p class="music-desc">
+      <em>Don't apologise, just learn</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene07a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Seven</div>
+    <h3 class="music-title">Lauren</h3>
+    <p class="music-desc">
+      <em>Don't apologise, just learn</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene08a.jpg" alt="Lauren" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Eight</div>
+    <h3 class="music-title">Infrastructure</h3>
+    <p class="music-desc">
+      <em>Don't apologise, just learn</em>.
+    </p>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
 
 ### Voices
 
