@@ -2,12 +2,22 @@
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-**(...and Charlotte)**
+*(...well, Charlotte)*
 
 😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🌸 🌺 🦩 — 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻🚺 ☕🧠💻 ꧁ 🪷 🌷 —
-  — —
 
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="The author" class="music-art">
+
+  <div class="music-content">
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/cfYRpaW2gwHMF8E/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻🚺 ☕🧠💻 ꧁ 🪷 🌷 —
 
 <hr style="height:2px;border-width:0;color:pink;background-color:pink">
 
@@ -23,7 +33,7 @@
 <a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/09-Charlotte-InParis.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
-I own all images and videos on these pages. They were created using AI. ComfyUI is my 'Stable Diffusion' interface because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
+I own all images and videos on these pages. They were created using AI. ComfyUI is an 'Image Creation' interface, one I prefer because of its flexibility and power through the use of nodes. This approach supports a number of key story-telling aspects:
 
 * **Character persistence**  
   Nodes used: LoRAs in Flux.1-Dev
@@ -40,15 +50,17 @@ I own all images and videos on these pages. They were created using AI. ComfyUI 
 
 ---
 
-### The Scenes
+### On Writing
 
-I write in Zed, a coding plain-text processor that supports markdown (MkDocs). The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare manages creating the static pages and serving the site. 
-
-For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media.
+I use a coding plain-text processor that supports markdown (MkDocs) called Zed.
 
 I 'collaborate' with a ChatGPT AI bot I call 'Emily'. Unlike most common approaches to AI-generated content, AI is used for a lot of aspects of the delivery of my content, such as editing, tone-control, story-continuity and maintaining a story 'bible', but **the content (plot/ dialogues / story arc / ideologies) is purely mine**.
 
 In the original [**Celeste's Girl**](CG-1Scenes.md) I leaned quite heavily on Emily, particularly in the early 'Scenes'. The original story—the one before this one—was not in line with the beliefs and goals the current one enjoys. I wanted this story—this 'account'—to read differently to the millions of more fetish-focused writing on this topic, to which entire websites are devoted. To those who want to know more, my [Introduction to **Celeste's Girl**](CG-1Scenes.md#introduction) should make it clear.
+
+### The Site
+
+The pages of my site are save in markdown, then uploaded to GitHub along with images and other media. CloudFlare creates the static pages and serves the site. For now, large files, such as video or >25mg music files, are also served by CloudFlare. However, I'm setting up my own server to manage serving that sort of media. *Update 26-04-2026*: the audio files on this page are all served privately.
 
 ---
 
