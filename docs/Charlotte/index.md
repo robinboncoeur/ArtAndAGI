@@ -83,9 +83,6 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
   </div>
 </div>
 
-https://cloud.seabrae.org/index.php/raw/CTdFdHzMAjqSCrF
-https://cloud.seabrae.org/index.php/s/CTdFdHzMAjqSCrF
-
 ---
 
 <div class="music-card music-card--with-art">
