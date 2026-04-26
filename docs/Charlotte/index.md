@@ -68,25 +68,23 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 ## Audiobook
 
-I'm slowly putting together an audiobook of 'Celeste's Girl':
-
 ---
+
+### Introduction
 
 <div class="music-card music-card--with-art">
   <img src="/assets/images/story/07-WritingFriday.jpg" alt="The author" class="music-art">
 
   <div class="music-content">
-    <div class="music-label"><h2>Introduction</h2></div>
-    <h5 class="music-title">by Charlotte Rossignol</h5>
-    <p class="music-desc">
-      <em>Why I wrote 'Celeste's Girl'</em>.
-    </p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/CTdFdHzMAjqSCrF/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
+
+https://cloud.seabrae.org/index.php/raw/CTdFdHzMAjqSCrF
+https://cloud.seabrae.org/index.php/s/CTdFdHzMAjqSCrF
 
 ---
 
