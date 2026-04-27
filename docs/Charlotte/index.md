@@ -4,7 +4,7 @@
 
 *(...well, Charlotte)*
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🌸 🌺 🦩 — 
+😄🧵💛👭 😁 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🌸 🌺 🦩 — 
 
 <div class="music-card music-card--with-art">
   <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="The author" class="music-art">
