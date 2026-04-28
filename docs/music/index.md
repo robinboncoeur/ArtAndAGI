@@ -1,207 +1,200 @@
 # On Music
 
+<hr style="height:1px;border-width:0;color:pink;background-color:pink">
 
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-## A Transcription Effort
+## Current Playlist
 
 <a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="300" align="right"></a>
 
 
-This is a piece I transcribed from hand-written manuscript. I have been asked to not share this on IMSLP by the Royal Academy of Music Library in London, but I will share it here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
+These pieces live in my head when I write.
 
 <div class="music-card music-card--with-art">
-  <img src="/assets/images/story/02music05.jpg" alt="Score preview" class="music-art">
+	<a href="/assets/images/story/15-Northwind.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/15-Northwind.jpg" alt="Charlie" class="music-art">
+	</a>
 
+  <div class="music-content">
+    <div class="music-label">Beliczay</div>
+    <h3 class="music-title">Serenade for Strings</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/RfkPgKFpmQtYzfm/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/13-DongaCall.jpg" target="_blank" rel="noopener" class="music-art-link">
+   	<img src="/assets/images/story/13-DongaCall.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Elgar</div>
+    <h3 class="music-title">Minuet</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/4rsB88xd6Mt4qTn/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Finzi</div>
+    <h3 class="music-title">Love's Labour Lost</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/AGY859Lxyf5GDMo/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/12-NotProduct.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/12-NotProduct.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Elgar</div>
+    <h3 class="music-title">Mina</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/cym57osR3SGQPDK/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/16-FlightHome.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/16-FlightHome.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Elgar</div>
+    <h3 class="music-title">Serenade Mauresque</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/DePn88meDAbJknA/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/Scene35a.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/Scene35a.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Holst</div>
+    <h3 class="music-title">A Moorside Suite</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/GFzH4sN4S7T7wkn/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+  <a href="/assets/images/story/Scene56a.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/Scene56a.jpg" alt="Charlie" class="music-art">
+  </a>
+
+  <div class="music-content">
+    <div class="music-label">Elgar</div>
+    <h3 class="music-title">Carissima</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/nMbmnQqZNHBYqo4/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/10-Montville.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/10-Montville.jpg" alt="Charlie" class="music-art">
+  </a>
+
+  <div class="music-content">
+    <div class="music-label">Finzi</div>
+    <h3 class="music-title">Romance</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/g6HrMrRnfrC6mAT/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/Scene08a.jpg" target="_blank" rel="noopener" class="music-art-link">
+    <img src="/assets/images/story/Scene08a.jpg" alt="Charlie" class="music-art">
+	</a>
+
+  <div class="music-content">
+    <div class="music-label">Elgar</div>
+    <h3 class="music-title">Rosemary</h3>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/J3kqHcLESM4r9Fq/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<hr style="height:4px;border-width:0;color:pink;background-color:pink">
+
+
+
+
+
+<!--
+/-->
+
+
+
+
+
+## A Transcription Effort
+
+<a href="/assets/images/story/09-Charlotte-InParis.jpg" target="_blank" rel="noopener">
+  <img src="/assets/images/story/09-Charlotte-InParis.jpg" alt="" width="300" align="right"></a>
+
+This is a piece I transcribed from hand-written manuscript. I have been asked to not share my transcribed score on IMSLP by the Royal Academy of Music Library in London, but I will share Reaper recording here, hoping to promote Alice Mary Smith's incredibly beautiful composition.
+
+<div class="music-card music-card--with-art">
+	<a href="/assets/images/story/14-Alice.jpg" target="_blank" rel="noopener" class="music-art-link">
+	   <img src="/assets/images/story/14-Alice.jpg" alt="Charlie" class="music-art">
+	</a>
+  
   <div class="music-content">
     <div class="music-label">Alice Mary Smith</div>
     <h3 class="music-title">Lala Rookh</h3>
-    <p class="music-desc">
-      <em>Overture - 1865</em>.
-    </p>
     <audio controls preload="metadata" class="music-player">
       <source src="https://cloud.seabrae.org/index.php/s/FjsYqnys2YSwL8X/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
-
-
-
-
-
-
-
-<!--
-
-**01.Nov.2025**   
-Left-right images
-
-<a href="/assets/images/blog25/06-1nnn.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-1nnn.jpg" alt="Victorian Train-front" width="360" align="left"></a>
-
-<a href="/assets/images/blog25/06-2nnn.jpg" target="_blank" rel="noopener">
-<img src="/assets/images/blog25/06-2nnn.jpg" alt="Victorian Train-back" width="360" align="right"></a>
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-/-->
-
-
-
-<!--
-
-Video
-
-<div style="position:relative;padding-top:56.25%">
-  <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/8cd2f116617fd567782e073f7fb11311/iframe"
-          allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-          allowfullscreen
-          style="border:none;position:absolute;inset:0;width:75%;height:75%"></iframe>
-</div>
-/-->
-
-
-<!--
-
-Links 😕 🤭
-
-... [bit of work](../other/Garden25.md#garden-bed-liner) ...
-
-... [our Discussion](../visual/Person2.md) ...
-
-
-for yaml
-
-extra:
-  social:
-    - icon: fontawesome/brands/bluesky
-      link: https://bluesky.com/_____sveil
-    - icon: fontawesome/brands/github
-      link: https://www.tightbytes.com/index.html
-
-/-->
- 
-
-
-<!--
-
-Pics Group
-
-<style>
-  .flex-container {display: flex; gap: 20px;}
-  .column {width: 100%;}
-</style>
-
-<div class="flex-container">
-  <div class="column">
-
-    <a href="/assets/images/emily/46-1Serene.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-1Serene.jpg" alt="Serene" width="280"></a>
-
-    <a href="/assets/images/emily/46-2Cross.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-2Cross.jpg" alt="Cross" width="280"></a>
-
-    <a href="/assets/images/emily/46-3Happy.jpg" target="_blank" rel="noopener">
-    <img src="/assets/images/emily/46-3Happy.jpg" alt="Happy" width="280"></a>
-
-  </div>
-</div>
-
-/-->
-
-
-
-<!--
-
-Insta Link
-
-*Questions? Comments? Want the workflow? Leave me a note on* 
-<a href="https://www.instagram.com/skchn0rthw1nd" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/misc/Instagram_icon.png" alt="Instagram_icon" width="30" loading="lazy"></a>
-
-<hr style="height:4px;border-width:0;color:pink;background-color:pink">
-
-
-
-
-
-
-a cute little shorts gallery 💅📱
-
-
-
-<style>
-  /* Row that holds all the videos */
-  .video-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;      /* centre the row nicely */
-  }
-
-  /* Each vertical video */
-  .video-portrait {
-    position: relative;
-    aspect-ratio: 9 / 16;         /* vertical, like TikTok/Reels/Shorts */
-    width: min(45vw, 320px);      /* two(ish) per row on desktop */
-    max-width: 100%;
-  }
-
-  .video-portrait iframe {
-    border: none;
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-  }
-
-  /* On small screens, stack them nicely */
-  @media (max-width: 700px) {
-    .video-portrait {
-      width: 100%;
-      max-width: 360px;
-    }
-  }
-</style>
-
-
-<div class="video-row">
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_1/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_2/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
- Optional third, fourth, etc. – they’ll wrap automatically
-
-  <div class="video-portrait">
-    <iframe
-      src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/VIDEO_ID_3/iframe"
-      allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-
-</div>
-
-/-->
-
-
 
 
 <hr style="height:16px;border-width:0;color:pink;background-color:pink" />

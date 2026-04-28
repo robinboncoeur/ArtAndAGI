@@ -5,11 +5,26 @@
 	align-items: center;
 }
 
-.music-art {
+.music-art-link {
+	display: block;
 	width: 120px;
 	height: 120px;
-	object-fit: cover;
 	border-radius: 12px;
+	overflow: hidden;
+	transition:
+		transform 0.15s ease,
+		opacity 0.15s ease;
+}
+
+.music-art-link:hover {
+	transform: scale(1.02);
+	opacity: 0.9;
+}
+
+.music-art {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
 	display: block;
 }
 
@@ -20,6 +35,12 @@
 @media (max-width: 640px) {
 	.music-card--with-art {
 		grid-template-columns: 1fr;
+	}
+
+	.music-art-link {
+		width: 100%;
+		height: auto;
+		max-height: 220px;
 	}
 
 	.music-art {
