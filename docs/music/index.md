@@ -5,7 +5,7 @@
 ## Current Playlist
 
 <a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="300" align="right"></a>
+  <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="380" align="right"></a>
 
 
 These pieces live in my head when I write.
@@ -25,7 +25,7 @@ These pieces live in my head when I write.
   </div>
 </div>
 
----
+
 
 <div class="music-card music-card--with-art">
 	<a href="/assets/images/story/13-DongaCall.jpg" target="_blank" rel="noopener" class="music-art-link">
