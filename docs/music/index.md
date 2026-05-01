@@ -2,7 +2,7 @@
 
 <hr style="height:1px;border-width:0;color:pink;background-color:pink">
 
-## Current Playlist
+## Current—Playlist
 
 <a href="/assets/images/story/07-WritingFriday.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/07-WritingFriday.jpg" alt="" width="380" align="right"></a>
