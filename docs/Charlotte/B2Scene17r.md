@@ -1,108 +1,24 @@
-# The Deep End—Sx
-## — Emily —
+# The Deep End—Scene 17
+
+## — Robyn —
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ —
+✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻  🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
+
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+
+👰🏻‍♀️🎀🫶🏻💌💓 👱🏻‍♀️
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
     
 
-
-
-
-
-
-
-## Close 3rd Person
-### Roger
+## Published
+### 04-May-2026
 
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
 
-rrrrr   
-Great first draft, Emily.
-
-A few things to consider: you'll recall that in as recently as scene 16, Roger had already been there. Remember the kerfuffle that Celeste called Mara and Sarah to help sort?
-
-So, he knows where Wardrobe is. And who Mara is. And what sort of challenge he's going to be facing. Fine: he's ready… he has the right to see his son.
-
-So, that will need fixing.
-
-The conversation on the phone with Lauren is perfect. Nothing to review there: all ideal.
-
-He may make a phone call to Graham: followup on how Charlie's getting on. Graham is curt (read: 'rude') to him. "Not here. Fired him: he was useless. Check with Wardrobe." Click.
-
-That's going to change the complexion of his thinking in the car somewhat: he'll come loaded for bear.
-
----
-
-eeeee   
-
-Ah — yes. Excellent catch, Robyn. That changes the whole tactical posture.
-
-Roger is not arriving blind.
-
-He has already been to Wardrobe. He already knows:
-
-* Wardrobe exists.
-* Mara is the gatekeeper.
-* Sarah is a problem.
-* Celeste has access to people who can contain him.
-* He cannot simply bluster through the place without resistance.
-* The women there are not easily rattled.
-
-So his mindset in the car is no longer *discovery*. It’s **re-entry with grievance**.
-
-And Graham’s call is very useful because it sharpens the insult.
-
-> “Not here. Fired him. Useless. Check with Wardrobe.”
-
-That does several things at once:
-
-1. It confirms Charlie is no longer in Maintenance.
-2. It wounds Roger’s paternal pride, even if that pride is shallow.
-3. It lets Graham dismiss Charlie in a way Roger privately half-believes but resents hearing from another man.
-4. It points him back to Wardrobe, a place he already distrusts.
-5. It lets Roger arrive primed to correct, reclaim, and confront.
-
-Yes: **loaded for bear** is exactly right.
-
-The internal logic becomes:
-
-> Lauren is obstructing me.
-> Graham says Charlie was useless.
-> Wardrobe has taken him in.
-> Those women are the problem.
-> I know the terrain now.
-> I won’t be handled this time.
-
-That is much more dangerous than a man wandering in with an outdated map.
-
-He still has the wrong map — but now he thinks he has corrected it.
-
-## The revised spine
-
-The scene should now move like this:
-
-1. Lauren phone call: unchanged.
-2. Roger calls Graham, expecting facts.
-3. Graham is rude, dismissive, and gives him Wardrobe.
-4. Roger reacts badly to “useless” — not because he deeply knows Charlie, but because another man has judged what Roger considers his.
-5. In the car, Roger frames Wardrobe as interference.
-6. He remembers the earlier Wardrobe confrontation and prepares himself.
-7. He arrives expecting Mara.
-8. He sees Charlotte first.
-9. He assumes she is staff.
-10. He asks for Charlie / asserts fatherhood.
-11. She says: “Dad.”
-
-That preserves the ending while making Roger’s approach consistent with Scene 16.
-
-### Revised draft
-
-Here’s a revised version, keeping the phone call material and reshaping the middle around Graham and Roger’s prior knowledge of Wardrobe.
-
----
+꧁ "Dad." ꧁
 
 Lauren had refused him.
 
@@ -152,7 +68,7 @@ Graham answered on the fifth ring.
 
 Roger kept his voice controlled. 
 
-“G'day. I’m Charlie's dad: just thought I'd check in on him. See how he's travelling.”
+“G'day, mate. I’m Charlie's dad: just thought I'd check in on him. See how he's travelling.”
 
 A short silence. Not confusion, but irritation.
 
@@ -160,7 +76,7 @@ A short silence. Not confusion, but irritation.
 
 “I thought he was assigned to Maintenance.”
 
-“He *was*.”
+“He was.”
 
 Roger waited.
 
@@ -180,28 +96,30 @@ For the second time, the line went dead.
 
 Roger lowered the phone. For a moment, he did not move.
 
-*Useless.*
+Useless.
 
 He had thought it himself often enough. Not in so many words, not exactly. But the gist of it had definitely been there: Charlie drifting, Charlie off with the pixies, fancying himself a composer or some such nonsense, sitting in his room reading old books instead of outside playing ball with the neighbourhood kids… all those odd sensitivities Lauren kept mistaking for depth.
 
 Still. A man did not say that about another man’s son and hang up.
 
-*Wardrobe.*
+Wardrobe.
 
 Of course. Made sense: his mum worked there. Oh, and he knew the woman who ran the place. Mara. Hard mouth, dry voice, the sort who mistook a table full of fabric for a command post. Sarah had been there as well, sharp as wire. And this other lass they called Celeste—cool, composed, entirely too certain that she had the right to involve herself.
 
-They had *handled* him.
+They had handled him.
 
 That was the word, once he stripped away the irritation.
 
-*Handled.*
+Handled.
 
 He would not be handled twice.
 
 The drive gave him time to set the matter in order.
 
 Primary objective: see Charlie.  
+
 Secondary objective: establish condition.  
+
 Tertiary objective: identify who had taken authority and on what basis.
 
 He disliked condition as soon as it appeared, but kept it. Condition mattered. Boys drifted when no one held the line. Charlie had drifted for years, half-present, half-formed, always somewhere else in his head. Lauren had protected all of it, then wondered why he had no spine.
@@ -236,11 +154,11 @@ This was not fuss.
 
 The place had a solid structure to it, almost like a military base. The fault board was uncompromising. Columns. Tags. Names. Times. Red, yellow, green. Tools laid out at the end of the table, not scattered. A bin marked SHARPS. Another marked REPAIRS — APPROVED. Someone had redrawn the chalk line across part of the floor.
 
-**DO NOT CROSS WITHOUT CLEARANCE.**
+DO NOT CROSS WITHOUT CLEARANCE.
 
 He glanced at it.
 
-He had read it before. A workroom, then. Whether they understood the word or not.
+He had read it before. A workroom, then. Whether those women understood the word or not.
 
 He stepped inside.
 
@@ -250,15 +168,15 @@ No one flustered either.
 
 That was worse.
 
-Mara was at the cutting table, head bent over a pattern piece, pins at her wrist. She did not look up immediately. That was deliberate. He knew deliberate when he saw it.
+Mara was at the cutting table, head bent over a pattern piece, pins at her wrist. 
+
+She did not look up immediately. That was deliberate. He knew deliberate when he saw it.
 
 Near the reception side of the room, a young woman stood at the ledger.
 
 Small. Pale. Hair tied back from her face. Practical clothes. Sleeves rolled. Chalk dust on one wrist and a pencil tucked behind her ear. One hand rested on the open ledger, fingers flat against the page, as if she had been keeping something in place before he arrived.
 
-She looked up.
-
-Her gaze sharpened ever so slightly.
+She looked up. Her gaze sharpened ever so slightly.
 
 Staff, then.
 
@@ -266,17 +184,15 @@ Staff, then.
 
 The young woman did not move.
 
-“She’s occupied,” she said.
+“She’s occupied,” she said. 
 
-Her voice was low. Too low, perhaps, or perhaps the room had gone quieter.
+Her voice was quiet. Too quiet, perhaps, or perhaps the room had gone quieter.
 
-Roger turned his head slightly. Mara had looked up now. Sarah was not visible. That was a relief, though not one he trusted.
+Roger turned his head slightly. Mara had looked up now.
 
-“I’m here for Charlie.”
+“I’m here to see Charlie.”
 
-The girl’s fingers shifted once on the ledger.
-
-Behind her, the machine stopped sewing.
+The girl’s fingers shifted once on the ledger. Behind her, the machine stopped sewing.
 
 Roger kept his eyes on Mara. “I was told he’s with Wardrobe.”
 
@@ -304,9 +220,9 @@ That caught him off-guard.
 
 A father arrived, and no one made way. 
 
-Mara looked not at him, but at the young woman beside the ledger. The girl lowered her eyes for half a second. 
+Mara looked not at him, but at the young woman beside the ledger. The girl lowered her eyes for half a second. When she lifted them again, Roger finally saw her. 
 
-When she lifted them again, Roger finally saw her. Properly.
+Properly.  
 
 The room thinned.
 
@@ -318,312 +234,125 @@ She spoke.
 
 “Dad.”
 
----
-
-
-
-
-
-
-
-
-### Why this version is stronger
-
-The Graham call gives Roger a masculine insult to react against, which complicates him. He may dismiss Charlie privately, but he doesn’t permit Graham to do it. That’s very human, and very ugly in the right way.
-
-Also, because Roger has been handled by Wardrobe before, his arrival has more intent. He is not naive. He is armoured. Which makes the final failure worse, because he has prepared for the wrong battle.
-
-He is ready for Mara.
-
-He is ready for Sarah.
-
-He is ready for obstruction.
-
-He is not ready for Charlotte.
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
+## 
 
+<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
+🌷 🌸 🌺 Visible 🌷 🌸 🌺
 
+[ *C* ]
 
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
 
 <!--
 
 ##
 
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-##
-
 <img src="/assets/images/emily/260219ad.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ae.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219af.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ag.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ah.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ai.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219aj.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ap.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ar.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219aa.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219at.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219au.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219av.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219aw.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
-
-
-
-
-
-
-
-
 ##
 
 <img src="/assets/images/emily/260219ax.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 
 <img src="/assets/images/emily/260219ay.jpg" style="float: right; width: 420px; margin-left: 20px" />
 
-
 <hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
 
 ##
 

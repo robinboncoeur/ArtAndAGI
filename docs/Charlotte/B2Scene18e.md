@@ -1,12 +1,10 @@
-# The Deep End—Sx
-## — Robyn —
+# The Deep End—Scene 18
+
+## — Emily —
 
 <img src="/assets/images/story/HerLove01.jpg" style="margin-right: 2px"/>
 
-✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧— — … …
-
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
-
+😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 — — … …
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
     
@@ -17,32 +15,9 @@
 
 
 
-## 
+##
 
 <img src="/assets/images/emily/260219ab.jpg" style="float: right; width: 540px; margin-left: 20px" />
-
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
-
-[ *C* ]
-
-
-<hr style="height:4px;border-width:0;color:blue;background-color:blue">
-
-
-
-
-
-
-
-
-## 
-
-<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
-
-
-🌷 🌸 🌺 Visible 🌷 🌸 🌺
-
-[ *C* ]
 
 
 
@@ -54,6 +29,21 @@
 
 
 <!--
+
+##
+
+<img src="/assets/images/emily/260219ac.jpg" style="float: right; width: 420px; margin-left: 20px" />
+
+
+
+<hr style="height:4px;border-width:0;color:blue;background-color:blue">
+
+
+
+
+
+
+
 
 ##
 
