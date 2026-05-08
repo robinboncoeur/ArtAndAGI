@@ -5,7 +5,7 @@
 
 ✈️ 🕊️ 🌫️ 🌿 🌷 🪜 ☕ 🧠 💻 ꧁ 🪷 🌷 🌸 🌺 🦩 ꧂ 🧺 🔐 💼 💻 💎 🩱 🥻✂ 🩸 💧😊 — — … …
 
-😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺  — —
+😄 🧵 💛 👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒  🚺 😲 — —
 
 
 <hr style="height:2px;border-width:0;color:blue;background-color:blue">
@@ -242,7 +242,6 @@ It wasn't wrong, either.
 
 🌷 🌸 🌺 Being Right 🌷 🌸 🌺
  
-
 [ Celeste ]
 
 When I opened my eyes, I was alone. I could hear the floor in the kitchenette creak slightly and the click of the kettle. I yawned, stretched, glanced at my watch: it was almost eight o'clock. 
@@ -379,13 +378,11 @@ My jaw tightened.
 
 "Sorry. That came out wrong."
 
-"So you don't  actually see me as a girl then, Celeste?"
+"So you *don't* actually see me as a girl, then, Celeste?"
 
 I stilled.
 
 "You know the answer to that—of course I do!" I said firmly. "And yes, I would hate having that... bit." I pushed my fist against my mouth—a thought had occurred to me.
-
-
 
 "So, if you hated that bit, would that mean you wanted..."
 
