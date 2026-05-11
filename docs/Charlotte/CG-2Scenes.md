@@ -2832,214 +2832,200 @@ And just like that, the atelier took one step away from being a clever little po
 <a href="/assets/images/story/Scene13a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene13a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
-[Celeste]
+[ *Celeste* ]
 
- didn’t bring the stays out with ceremony.
+Mara laid the stays on the cutting table the way a surgical nurse lays out her instruments: deliberately spaced, ordered for use, no frills or extras. Canvas folded into a clean rectangle. Linen tape pressed flat. A small bundle of reed boning tied with string. A tin of grommets that looked comically insignificant for the amount of authority they were about to carry.
 
-Mara laid the materials for the stays on the cutting table the way an operating theatre nurse lays out instruments for surgery: deliberately spaced, nothing decorative, all function. Canvas folded into a clean rectangle. Linen tape pressed flat. A small bundle of reed boning tied with string. A tin of grommets that looked comically minor for the amount of control they were about to exert.
+Charlie arrived a minute late, apologising with his whole body: small shoulders, a quick glance, a quietness that tried to make itself smaller.
 
-Charlie arrived a minute late and tried to apologise with his body: small shoulders, a quick glance, a quietness that wanted to pay for the inconvenience in advance. Mara didn’t accept payment in the form of shrinking.
+“Don’t do that,” Mara said, without looking up.
 
-“Don’t do that,” she said, without looking up.
+Charlie froze. “Do... what?”
 
-Charlie froze. “Do... what.”
+“Arrive like you’re already wrong.” She lifted the canvas and shook it. The sound was flat. “You’re here. That’s the point. Now, pay attention.”
 
-“Arrive like you’re already wrong.” She lifted the canvas and shook it. The sound was as flat as her voice. “You’re here. That’s the point. Now, pay attention. We're building stays today.”
-
-He stepped closer. I watched his gaze take inventory, reading surfaces, anticipating what mattered. Mara nodded toward the ledger, still on the table, heavy with a quiet insistence.
+He stepped closer, careful not to crowd. Mara nodded toward the ledger, still on the table, heavy with a quiet authority.
 
 “Open it.”
 
-Charlie did so, flipping to a clean page gently, respectfully. His pen hovered, waiting for permission.
+Charlie turned to a clean page carefully, as if the paper might bruise. His pen hovered, waiting for permission.
 
-“Title. First prototype.”
+“Title.”
 
-He wrote: STAYS — ATTEMPT 1. Underneath, he added the date without being asked. Mara approved it by continuing.
+He wrote: 
 
-“We're not designing costume stays,” she said, tapping the canvas with two fingers. “They’re working stays. People keep confusing the two. Costume stays hold a silhouette for a photograph. Working stays hold a person for a day.”
+STAYS — ATTEMPT 1   
+DATE:
 
-Charlie’s face was calm as his hand moved, quickly, and words appeared: pretty enough to read, neat enough to understand. Mara laid out the pattern pieces: clean, even simple shapes. It was difficult to imagine them curved, tightened, forced to behave over bones and breath and movement.
+“These aren’t costume stays,” she said, tapping the canvas with two fingers. “They’re working stays. People keep confusing the two. Costume stays hold a silhouette for a photograph. Working stays hold a person for a day.”
 
-“Your first attempt will fail,” Mara said. She said it the way she might say it will rain on Thursday. Factual.
+Charlie’s hand moved quickly and words appeared in a graceful cursive, the sort of writing that looked decorative until you realised how easy it was to read. He looked calm. Mara laid out the pattern pieces: clean shapes that looked simple until you imagined them curved, tightened, forced to behave over bones and breath and movement.
 
-Charlie blinked. “Is that— expected?”
+“Your first attempt will fail.” 
 
-Mara’s eyes flicked to him. “If someone tells you their first stays were perfect, they’re either lying or the stays were made for picture-taking, not movement.”
+Mara said it the way she might say it will rain on Thursday. Factual.
 
-For a moment I saw his body sink—that urge to shrink so nobody would notice he failed.
+Charlie blinked. “Is that... normal?”
 
-Mara caught it too.
+Mara’s eyes flicked to him. 
 
-“Charlie.” She said his name like a hand on a shoulder—firm pressure. Mara didn't do comfort. “The garment fails. You document it. We fix it. That’s the process.”
+“If someone tells you their first stays were perfect, they’re either lying or the wearer never moved in them.”
 
-He stared at nothing for a moment before finally nodding—a small, stiff motion. But it was a yes. Mara slid the chalk toward him.
+For a moment I saw that old instinct—the urge to vanish.
 
-“Mark your seam allowances. Don’t be stingy. The first mock-up needs room to stretch.”
+“Charlie.” She said his name like a hand on a shoulder. “The garment fails. You document it. We fix it. That’s the work.”
+
+He nodded, a small, stiff motion. But it was a yes. Mara slid the chalk toward him.
+
+“Mark your seam allowances. Don’t be stingy. The first mock-up gets room to tell the truth.”
 
 Charlie’s fingers closed around the chalk, and he began.
 
-The workshop was quiet. Sounds were soft—scissors snipping, chalk whispering, the soft drag of canvas against the grain of the table. Outside, somewhere beyond the walls, the Faire was waking: faint voices, the clink of something metal being unloaded, a distant laugh that didn’t belong to anyone in our room.
+The workshop had the kind of quiet that made work possible: scissors snipping, chalk whispering, the soft drag of canvas against the grain of the table.
 
-In here, it was trade. Mara moved around him, watching without hovering. Every now and then she corrected a hand position with two taps of her knuckles against the table. Once, she shook her head.
+Outside, somewhere beyond the walls, the Faire was waking: faint voices, the clink of something metal being unloaded, a distant laugh that didn’t belong to anyone in our room.
 
-“Stop. Your stitch length is too eager.”
+In Wardrobe, it was work. Mara moved around him, watching without hovering. Every now and then she corrected a hand position with two taps of her knuckles against the table. 
+
+Once, she stopped him entirely.
+
+“No. Your stitch length is too eager.”
 
 Charlie looked up, confused.
 
-“You’re trying to impress the seam,” Mara said. “The seam doesn’t care what you think. It cares whether it holds.”
+“You’re trying to impress the seam,” Mara said. “The seam doesn’t care about your feelings. It cares whether it holds.”
 
-His ears coloured. He slowed down, shortened his stitch. When the pieces were cut and aligned, Mara gathered the mock-up, folded it and pushed it toward him.
+It was Mara in a nutshell: brutally useful. 
 
-“Now, we trial it,” she said. “Over the t-shirt.”
+His ears coloured. He adjusted, shortened his stitch. When the pieces were cut and aligned, Mara gathered the mock-up, folded it once, and pushed it toward him.
 
-Charlie’s eyes narrowed as they flicked to the laces in his hands.
+“On,” she said. “Over the T-shirt.”
 
-“It’s— back lacing,” he said carefully.
+Charlie’s eyes grew as they flicked to the laces in his hands.
+
+“It’s... back lacing,” he said carefully.
 
 Mara’s expression didn’t change. “Yes.”
 
 He swallowed. “I can’t—”
 
-“I wasn't asking you to,” Mara said, reaching for the laces. “Stand here.”
+“I know,” Mara said, already reaching for the lace. “Stand here.”
 
-She indicated the marked mat beside the table—the one used for checking balance and fall, where garments were judged the way tools are judged. No screen. Just the place where fabric told the truth.
+She indicated the marked mat beside the table—the one used for checking balance and fall, where garments were judged the way tools are judged. No screen, just the place where fabric told the truth.
 
-I sat with elbows on my table, my mouth resting against folded hands and watched his face.
-
-Eyes wide, Charlie stepped gingerly onto the mat. He held his shoulders high—too high.
+Charlie stepped onto it, shoulders too high, trying not to occupy space.
 
 “Drop your shoulders,” Mara said. “And breathe like a person.”
 
-He slowly obeyed, a twitch at a time.
+He obeyed, a fraction at a time.
 
 Mara held the mock-up open and guided it around his torso with the same practical decisiveness she used on a dress form. Her hands didn’t linger; they placed. She checked the centre-front line, smoothed the canvas once to stop it shifting, then took up the laces behind him.
 
-His eyes flickered to me—that 'deer in the headlights' look.
+“Policy,” Mara said quietly, anchoring the moment.
 
-“Policy,” Mara said quietly—keeping it real.
+Charlie’s jaw tightened. “Door—”
 
-Charlie’s jaw tightened and he swallowed hard. “Door—?”
-
-“No.” Mara's tone was curt. Charlie flinched. Her tone stayed level. “This is a workroom, not a stage.”
+“No,” Mara cut in, and Charlie flinched. “No door theatre. No curtain theatre. This is a workroom, not a confessional.”
 
 She glanced at me. 
 
-*Pay attention. Standards first.* 
+*Pay attention. Standards first*. 
 
-Then, to Charlie: “Here’s the policy. You’ll use it like any other tool.” 
+“Here’s the policy. You’ll use it like any other tool.” She nodded toward the ledger.
 
-She nodded toward the ledger.
-
-At the top of the page, in her handwriting, sat the rule in plain language:
+At the top of the page, Mara had written the rule in plain language:
 
 POLICY: 
-Fittings for prototype testing are scheduled   
-privacy maintained; no unscheduled access   
-documentation is factual; no commentary  
+- prototype fittings are scheduled;   
+- privacy maintained; no unscheduled access;   
+- documentation is factual; no commentary.  
 
-Mara returned to the lacing. “We’re doing a job,” she said. “Not storytelling.”
+Mara returned to the lacing. 
 
-Charlie’s throat moved. He nodded stiffly, eyes fixed on the ledger.
+“We’re doing a job,” she said. “We’re not doing a story.”
 
-Mara began to lace—not cinching or performing authority but taking up slack in small, even increments, the way you tension rigging: feel, adjust, feel again.
+Charlie’s throat moved. He nodded, his eyes fixed on the ledger.
 
-The canvas settled.
+Mara began to lace—not yanking, not cinching, not performing authority. She took up slack in small, even increments, the way you tension rigging: feel, adjust, feel again. The canvas settled. 
 
-The stays found him. 
+The stays found him.
 
-The shape resolved. 
+“Tell me before it hurts,” she said. “Discomfort is data. Pain is failure.”
 
-I stopped pretending I hadn’t seen it before.
+“Yes.”
 
-Something in the line of him steadied—held, as if the garment had decided what to do with him and he hadn’t yet caught up.
+“Don’t give me yes,” Mara said. “Give me locations.”
 
-I stopped pretending I hadn’t seen it before. Behind my hands, my mouth fell open.
+Charlie let out a breath.
 
-“Tell me before it hurts,” Mara said. “Discomfort is data. Pain is failure.”
-
-“Yes,” he managed, his eyes fickering to me and away.
-
-“Don’t give me yes,” Mara said automatically. “Give me locations.”
-
-Charlie let out a breath that sounded like relief disguised as compliance. Mara made one last pass, then stopped.
+Mara made one last pass, then stopped.
 
 “Good enough for a first truth,” she said. She stepped back. “Now move.”
 
-Charlie lifted his arms. The top edge shifted—flattened cleanly in front, but fighting at the side-back. I watched the pull gather like storm clouds.
+Charlie lifted his arms. 
+
+The top edge shifted—flattened cleanly in front, but fighting at the side-back. I watched the pull gather like storm clouds.
 
 “Again,” Mara said. “Higher.”
 
-Charlie raised his arms fully. The left side-back seam took the load and complained at once—a diagonal crease forming from the waist toward the ridge of the shoulder line. Not pretty—wrong.
+Charlie raised his arms fully. The left side-back seam took the load and complained at once—a diagonal crease forming from the waist toward the ridge of the shoulder line, not pretty, not dramatic, just wrong.
 
-Mara’s gaze narrowed.
+Mara’s gaze sharpened.
 
 “Reach forward. Like you’re taking something from a shelf.”
 
 Charlie did, and the left waist tie point became an anchor for everything the garment didn’t know how to carry. The canvas creased into a hard line. The lacing tugged. The top edge tried to roll. 
 
-Mara didn’t touch him. 
-
-She didn’t need to. She watched the physics.
-
-I’d thought control looked like intervention—hands, corrections, presence.
-
-It didn’t.
-
-It looked like this. Set the conditions. Watch what breaks. Only then decide what matters.
+Mara watched the physics.
 
 “Where.”
 
 “Left waist tie,” he said, voice firm. “It’s taking too much. It feels like everything’s hanging off it.”
 
-“Right,” Mara said immediately, as if accuracy itself was the safety mechanism. “Now, bend, like you’re lifting a tray.”
+“Right,” Mara said immediately. “Now, bend, like you’re lifting a tray.”
 
-Charlie bent carefully. The top edge rolled—subtle, insidious. The kind of failure a costume could hide at first and then betray you on day one. I saw Charlie’s expression flicker—disappointment.
+Charlie bent carefully. The top edge rolled—subtle, insidious. The kind of failure a costume could hide for ten minutes and then betray you on day one. I saw Charlie’s expression flicker.
 
 Mara saw it too.
 
 “Write,” she said. “Before your feelings invent a different story.”
 
-Charlie moved to the ledger, pen still in his hand. It trembled slightly, then steadied as the page gave him rails. He wrote:
+Charlie moved to the ledger, pen still in his hand. It trembled once, then steadied as the page gave him rails.
 
-MOVEMENT / STRESS: overhead reach; forward reach; bend/lift simulation
+He wrote:
 
-FAILURE POINTS:    
+MOVEMENT / STRESS:  
+- overhead reach;   
+- forward reach; 
+- bend/lift simulation
+
+FAILURE POINTS:   
 - left waist tie load concentration;   
 - top edge roll;   
 - diagonal crease from left waist toward side-back;   
 - seam stress side-back left
 
-Mara watched him write.
+Mara watched him write, then leaned in.
 
-“Now,” she said, leaning in. “Tell me what you think it means.”
+“Now,” she said. “Tell me what you think it means.”
 
-Charlie opened his mouth, then shut it. He stared at his notes as if they might supply the answer if he stared hard enough.
+Charlie opened his mouth, then shut it. He stared at his notes.
 
-“I think the tie point is wrong,” he said finally. “Or not, um, supported enough. It’s acting like a single-point anchor.”
+“I think the tie point is wrong,” he said finally. “Or not, um, supported enough. It’s acting like an anchor for everything.”
 
 Mara nodded. “Load path. Good. And the roll?”
 
 Charlie frowned. “The top edge is fighting torque. The tension is uneven, so the edge curls to accommodate the pull.”
 
-Mara’s eyes flicked to me, eyes slightly softened.
-
-*This is why we focus on physics.*
-
-Then back to Charlie.
+Mara’s eyes flicked to me.
 
 “And the side-back seam?”
 
-Charlie tapped the paper. 
-
-“It’s under-built. Working stays need a seam that expects repeated bending. Reinforcement, or a different finish. The fabric is telling us it wants more structure.”
+Charlie tapped the paper. “It’s underbuilt. If it’s going to be working stays, that seam needs to expect repeated bend. Reinforcement, or a different finish. The fabric is telling us where it wants more structure.”
 
 Mara straightened. “Good.”
 
-Charlie looked up, uncertain, as if waiting for judgement.
-
-There was none.
-
-Mara stepped behind him again and began to unlace, quick and methodical, as if removing a tool from a test rig.
+Charlie looked up, uncertain. Mara stepped behind him again and began to unlace, quick and methodical, as if removing a tool from a test rig.
 
 “Attempt one has served its purpose,” she said. “Now we do attempt two.”
 
@@ -3053,21 +3039,21 @@ Mara shrugged. “Twelve millimetres to start. It’s not magic. It’s iteratio
 
 Charlie wrote:
 
-FIX APPLIED (PROPOSED):   
-- move tie point 12mm;   
-- add secondary anchor tape;   
-- reinforce side-back seam;   
+FIX APPLIED (PROPOSED):  
+- move tie point 12mm;    
+- add secondary anchor tape;    
+- reinforce side-back seam;    
 - adjust top edge binding cut
 
-Mara watched him write the word 'proposed'.
+Mara watched him write the word “proposed.”
 
 “Good,” she said. “That word keeps you honest.”
 
 Charlie’s gaze drifted back to the top of the page—to the policy line, to the rule.
 
-I watched something in his posture ease: trust, the kind that comes from knowing the room will behave predictably.
+I watched something in his posture ease: trust—the kind that comes from knowing the room will behave predictably.
 
-Mara clapped her hands once.
+Mara clapped her hands.
 
 “Right,” she said. “Attempt two starts now.”
 
@@ -3075,15 +3061,15 @@ Charlie picked up the chalk.
 
 “Attempt two,” he said quietly.
 
-Mara’s eyes flicked up. I saw a kind of satisfaction that didn’t need praise.
+Mara’s eyes flicked up, and in them was a kind of satisfaction that didn’t need praise.
 
 “Now,” she said, “you’re making stays. Real ones.”
 
-And then, as if it were the most ordinary thing in the world—as if the world had always been designed for women and we were merely returning it to its proper logic—Mara added, already sorting tape and canvas into a new pile:
+And then, Mara added, already sorting tape and canvas into a new pile:
 
 “Later, we’ll give it a front closure. I’m not building dependence into a work garment.”
 
-Charlie’s pen paused. He underlined 'front closure', neatly, and got back to work.
+Charlie’s pen paused. Finally, he underlined front closure once, neatly, and got back to work.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3095,20 +3081,16 @@ Charlie’s pen paused. He underlined 'front closure', neatly, and got back to w
 
 
 
-## 14 The Block ✨
+## 14 Working Stays 2 ✨
 
 <a href="/assets/images/story/Scene14a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene14a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
 [ *Celeste* ]
 
-✨ Working Stays - Attempt Two ✨
+The failed mock-up lay on the table again, flattened like a moth under glass. Chalk marks were still faint on the canvas where the garment had confessed under movement: diagonal strain lines, a crease that had formed with embarrassing consistency, the small oval ghost of where a grommet had started to surrender. 
 
-[ Celeste ]
-
-The failed mock-up lay on the table again, flattened like a moth under glass. Chalk marks still faint on the canvas where the garment had confessed under movement: diagonal strain lines, a crease that had formed with embarrassing consistency, the small oval ghost of where a grommet had started to surrender. 
-
-Charlie hovered at the edge of the table, hands clean, eyes busy. He had the look of someone wanting a solvable problem, the kind with a correct answer.
+Charlie hovered at the edge of the table, his eyes busy. He had the look of someone wanting a solvable problem with a correct answer.
 
 Mara didn’t give him that.
 
@@ -3116,9 +3098,9 @@ Mara didn’t give him that.
 
 Charlie opened the book. 
 
-Stopped.
+Stopped. Blinked.
 
-He blinked. “But it’s... me.”
+“But it’s... me.”
 
 Mara’s eyes lifted, sharp as pins.
 
@@ -3130,33 +3112,35 @@ Charlie blushed.
 
 “Right then,” Mara replied. “We were never going to design stays as though anyone’s proportions were the default. With stays, there are no defaults.”
 
-I tried to focus on the rails, but moved more slowly.
+I was meant to be working on the rails, but my attention kept sliding back to Mara and Charlie.
 
-“This attempt did something useful,” she said. “It told us where the load went. We’ll fix that.” She pushed the strip of twill tape toward Charlie. “Secondary anchor here. Tie point moves. Reinforce the side-back seam.” Charlie nodded. Mara held up a hand. 
+“Our last attempt did something useful,” she said. “It told us where the load went. We’ll fix that.” She pushed the strip of twill tape toward Charlie. “Secondary anchor here. Tie point moves. Reinforce the side-back seam.” Charlie nodded. Mara held up a hand. 
 
-“But.“ She pressed her lips together. “Attempt Two is not only about this garment, but about a method.”
+“But.“ She pressed her lips together. “Attempt Two is not only about this garment. It's about a method.”
 
 “A method.”
 
 “A working block.”
 
-He frowned slightly. He was trying to translate her words into geometry.
+He frowned slightly, trying to translate her words into geometry.
 
 Mara turned her attention to me.
 
 “Celeste. Bring me the measurements sheet.”
 
-I reached into the folder I kept for everything—notes, references, scraps of paper that might become useful later—and pulled out the page we’d started last week. The columns of numbers and blank lines looked innocuous until you realised it was the skeleton of a system. Mara took it, scanned it, and made a dissatisfied sound.
+I reached into the folder I kept for everything—notes, references, scraps of paper that might become useful later—and pulled out the page we’d started last week. The columns, numbers, and blank lines formed the skeleton of a system. Mara took the page and scanned it. She made a dissatisfied sound.
 
 “This is a list,” she said. “Not a tool.”
 
 I felt myself bristle.
 
-Then I caught it—too fast, too personal.
+Then I caught myself.
+
+*Don't make it personal.*
 
 She wasn’t insulting me. She was protecting the work.
 
-“What does a tool look like?”
+“What does a tool look like?” I asked.
 
 Mara set the sheet down and drew a clean rectangle in the margin with her pencil.
 
@@ -3166,17 +3150,19 @@ Then she drew two arcs: one above the waist, one below.
 
 “Rib spring.” She tapped the top arc. 
 
-“And, hip spring.” She tapped the bottom arc. “Those two numbers tell you what you’re really building. The rest is art.”
+“And, hip spring.” She tapped the bottom arc. “Those two numbers tell you what you’re really building. The rest is refinement.”
 
 Charlie's eyes locked on the sketch.
 
-“So— it’s not just circumference,” he said slowly. “It’s *distribution*.”
+“So—it’s not just circumference,” he said slowly. “It’s *distribution*.”
 
 Mara’s mouth tightened with approval.
 
 “Yes. Distribution. And distribution changes with each body.” She slid the pencil toward him. “Now you draw it.”
 
-Charlie hesitated for a fraction of a second—an old habit, old fear. Then, with a slight drop of the shoulders he picked up the pencil and drew his own rectangle beside hers. 
+Charlie hesitated for a fraction of a second. Then, with a slight drop of the shoulders, he picked up the pencil.
+
+He drew his own rectangle beside hers. 
 
 He drew the waist line. 
 
@@ -3186,7 +3172,7 @@ He measured a distance above it with the pencil tip.
 
 Mara watched his hand silently. Charlie added small marks down the centre back.
 
-“Back length. And where the shoulder blades— push.”
+“Back length. And where the shoulder blades—push.”
 
 Mara nodded. 
 
@@ -3210,11 +3196,11 @@ She ticked them off, each one a label rather than a story.
 
 “*Nymph*,” she said, looking at Charlie directly. “Fairly slender, narrow ribs, only a little flesh to absorb pressure.” She held his gaze. ”*Your* closest category.”
 
-I saw the tiny shift behind Charlie’s eyes. Mara made 'nymph' technical, not personal.
+I saw the tiny shift behind Charlie’s eyes. Mara made the word *nymph* technical, not personal.
 
 His nod was tiny—just enough to register.
 
-“*Well-nourished young woman*,” Mara continued, “with generous spring and softness. The kind that makes lazy patterns lie and makes cheap stays cruel. And then, the *returning-to-work mother*,” she added, “whose torso has done real labour. Different distribution. Different tolerances. Different needs.”
+“*Well-nourished young woman*,” Mara continued, “with generous spring and softness. The kind that makes lazy patterns lie and makes cheap stays do cruel things. And then, the *returning-to-work mother*,” she added, “whose torso has done real labour. Different distribution. Different tolerances. Different needs.”
 
 Charlie’s pencil hovered. “So, we... draft three blocks?”
 
@@ -3228,11 +3214,15 @@ Charlie’s hand moved. Words appeared.
 
 ATTEMPT 2 — BODY TYPE: NYMPH (BASELINE)
 
-I glanced at the word 'NYMPH'. And at Charlie. His eyes flicked to me for an instant. After a quick frown and a swallow, he tucked himself into the ledger.
+I glanced at the word 'NYMPH' and at Charlie. 
 
-Mara slid the mock-up back toward him. “Now do the practical fix,” she said. “Tie point moves twelve millimetres. Secondary anchor tape. Reinforce seam. Bias the binding correctly.”
+His eyes flicked to me. He frowned, swallowed, and tucked himself into the ledger.
 
-Charlie nodded. He began unpicking the grommet area with a careful grip on the *lame*. Mara watched for a moment, then turned to me.
+Mara slid the mock-up back toward him. 
+
+“Now do the practical fix,” she said. “Tie point moves twelve millimetres. Secondary anchor tape. Reinforce seam. Bias the binding correctly.”
+
+Charlie unpicked the grommet area with a careful grip on the seam ripper. Mara watched for a moment, then turned to me.
 
 “Celeste,” she said. “You like research.”
 
@@ -3246,13 +3236,13 @@ My spine straightened.
 
 Mara pointed to Charlie’s sketch. “And you,” she said to him, “are going to make that block into a template we can mark and reuse. Hole positions. Seam allowances. Boning channels. All of it. Clean. Repeatable.”
 
-Charlie looked up, startled. “Me?”
+Charlie looked startled. “Me?”
 
-Mara’s stare didn’t waver. “Yes, you. You have the mind for it: you understand the geometry, the physics. You want a correct fit? Earn it. We’ll make your design useful.”
+Mara’s stare didn’t waver. “Yes, you. You have the mind for it: you understand the geometry, the physics. You want a correct fit? Earn it. We’ll make your eye useful.”
 
 Charlie swallowed. 
 
-“Yes Mara.”
+“Yes, Mara.”
 
 Mara tapped the ledger page lightly.
 
@@ -3262,15 +3252,15 @@ Charlie’s eyes flicked to the movement list pinned near the fitting nook: reac
 
 “Fit standing is a lie,” she said. “Fit moving is the truth.”
 
-Through the open window, laughter and the smell of sausages and diesel fumes invaded quiet sounds of chalk scraping and scissors snipping and the soft clean smells of cloth dust. 
+Through the open window, laughter came in with diesel fumes and the smell of sausages, pressing against the quieter world of chalk, scissors, and clean cloth dust.
 
-Finally, at her trusty Pfaff machine, Mara held up Attempt Two and nodded at Charlie.
+At last, from her ancient Pfaff, Mara held up Attempt Two and nodded at Charlie.
 
-It happened, in that moment. He'd gone from a youth being tolerated in a women’s workspace to a technician being entrusted with a system. He took the Attempt Two mock-up, examined it, and handed it to Mara.
+It happened, in that moment. He no longer looked like a youth being tolerated in a women’s workspace. He was a technician being entrusted with a system. He took the Attempt Two mock-up, examined it, and handed it to Mara.
 
-She matter-of-factly laced him into it.
+She laced him into it.
 
-Charlie lifted his arms.
+He lifted his arms.
 
 Reached forward.
 
@@ -3300,7 +3290,7 @@ NEW FAILURE:
 
 He looked up. “Is that because I’m... too slim there?”
 
-Mara’s gaze was cool, but not unkind.
+Mara’s gaze was cool.
 
 “You’re a baseline,” she said. “And baselines are useful *precisely* because they are not everyone.”
 
@@ -3310,9 +3300,9 @@ Her voice lowered into something like a vow.
 
 Charlie stared at the page for a long second.
 
-“Yes Mara.”
+“Yes.”
 
-It was more than just compliance: it was commitment.
+It was commitment.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3332,28 +3322,30 @@ It was more than just compliance: it was commitment.
 
 [ *Celeste* ]
 
-Somewhere in the third month, Charlie stopped reading as provisional.
+Somewhere in the third month, Charlie began to look less provisional.
 
-He moved through the atelier as if the place had given him rails to run on: cut, stitch, test, record and repeat. The rhythm took the tremor out of him, not because the work became easy, but because it became *legible*. He could be useful without having to invent a personality around it. Mara didn’t praise him but rewarded him with continuity.
+He moved through the atelier as if the place had given him rails to run on: cut, stitch, test, record, repeat. The rhythm took the tremor out of him. His work had become legible. He could be useful without inventing a personality around it.
 
 The three blocks lived on the wall now—traced paper over brown card, corners clipped, waistlines marked with blunt authority. Each had its own small forest of notes in Mara’s hand:
 
 - *MOVE TIE POINT 12mm*   
 - *ADD SECONDARY ANCHOR*  
 - *WATCH TOP EDGE TORQUE*  
-- *UNDERARM GUARD?* 
+- *UNDERARM GUARD?*   
  
-The templates were beginning to look like important tools. On the corkboard beside them, I’d pinned my research the way Mara expected, as evidence.
+The templates looked like the important tools they were. On the corkboard beside them, I’d pinned my research the way Mara expected, as evidence.
 
 *WORKING STAYS: WHAT THEY COMPROMISE*, I’d written at the top.
 
-Under it, three museum-clean photos of garments that weren’t. Underarm guards that admitted armpits exist. Straps that told the truth about lifting. Edges reinforced intentionally. Mara had read the board at one stage, silently, then added:
+Under it, three museum photographs: garments that didn’t compromise. Underarm guards that admitted armpits exist. Straps that told the truth about lifting. Edges reinforced intentionally. Mara had read the board at one stage, silently, then added:
 
 **ABRASION IS REAL.**
 **LIFT IS REAL.**
 **WEAR IS REAL.**
 
-Charlie had stared at those words for a long time. Now he was at the fitting mat again, standing where the floor tape made the designs measurable while Mara tightened the lacing with the quiet patience of someone tensioning a rig. As always, he wore the mock-up over a T-shirt.
+Charlie had stared at those words for a long time. 
+
+Then, he was at the fitting mat again, standing where the floor tape made the designs measurable while Mara tightened the lacing with the quiet patience of someone tensioning a rig. As always, he wore the mock-up over a T-shirt.
 
 “Arms up.”
 
@@ -3363,7 +3355,7 @@ He lifted. The top edge behaved: not perfectly, but honestly—shifting, then se
 
 He reached. 
 
-The diagonal crease appeared, but softer now, less of an accusation. The load had been guided into a better route. Charlie glanced at the crease and then, Mara’s face, and his jaw loosened a fraction. Mara stopped and stepped back.
+The diagonal crease appeared, but softer now, less of an accusation. The load had been guided into a better route. Charlie glanced at the crease and then, Mara’s face. She stopped and stepped back.
 
 “Ledger.”
 
@@ -3373,13 +3365,13 @@ The door opened as he wrote.
 
 Lauren.
 
-She came with a tote bag slung over her shoulder, keys in her hand and with a calm face, one assured that problems could be solved by structure. She took in the room in a glance—the templates, the ledger, the corkboard with my pinned references—and she smiled, less with her lips than her eyes.
+She came in calmly with a tote bag slung over her shoulder and keys in her hand. She took in the room with a smile—the templates, the ledger, the corkboard with my pinned references.
 
 “Mara.”
 
 “Lauren,” Mara replied, as if she’d been expecting her. Lauren set the tote on the table and unzipped it. Out came a roll of twill tape, a packet of grommets, and a small envelope that looked unimportant if you didn't understand that much of Wardrobe’s authority lived in small parts.
 
-Lauren slipped off her coat, revealing a leotard top that went well with her high-waisted jeans.
+Lauren slipped off her coat, revealing a beige leotard top that went well with her high-waisted jeans.
 
 “I brought the hardware,” Lauren said. Then, without softening her voice: “And I assume this is the part where you tell me what you need from me.”
 
@@ -3387,9 +3379,11 @@ Mara’s gaze held hers.
 
 “It is.”
 
-Charlie had gone very still. The discussion the day before had been about testing the *Returning To Work Woman* model. 
+Charlie had gone very still.
 
-And then, as if on cue, his mum appeared.
+Yesterday, the discussion had been theoretical.
+
+Now his mum stood in the room.
 
 “We’re building a block,” Mara continued, with a quick glance at Charlie. “Returning-to-work. Real labour. Real distribution. Different tolerances.”
 
@@ -3397,31 +3391,27 @@ Lauren nodded.
 
 “You've already tested other body types?”
 
-“Yes. So, far, we've done 'Nymph'. Charlie has been closest in build to that body type."
+“Yes. So, far, we've done *nymph*. Charlie has been closest in build to that body type."
 
-Lauren's eyes narrowed.
+“Charlie?“ She frowned, puzzled.
 
-“Charlie?“ She frowned, staring at him.
+“Yes. Charlie understands physics. He identified the stress points—found the truth.“ Mara pursed her lips. “I don't need a moving mannequin: I need someone who can read a garment and tell me how to answer its questions.”
 
-“Yes. Charlie understands physics. He quickly identified stress points and—far more importantly—found the truth.“ Mara pursed her lips. “I don't need a moving mannequin: I need someone who can read a garment and tell me how to answer its questions.”
+Lauren gave Charlie a quick smile, then turned to Mara.
 
-Lauren nodded. She sent Charlie a quick smile of maternal pride then turned to Mara.
+"So, that is what you want: truth. And solutions?"
 
-"So, that is what you want: the whole truth. With solutions?"
+"Time will tell if our solutions hold," Mara replied. "But yes, truth first." Her gaze was direct. "So far, Charlie has been the one to make sense of our discoveries." She paused. "You taught Charlie, correct?"
 
-"Time will tell if the solutions hold," Mara replied. "But yes, truth first. You taught Charlie, correct?"
+Lauren's breath caught. She looked once at Charlie before she answered.
 
-Lauren's eyes widened briefly and her breath caught.
+"Well—"
 
-Finally, she nodded. "I suppose I did."
+"If you didn't, someone did. Charlie's skills are not those of one unfamiliar with how women's clothing behaves."
 
-Mara's look was direct. "I don't *suppose* you did. You *did*! Full-stop."
+Lauren tipped her head. "I suppose I did."
 
-Lauren rubbed her eyebrow.
-
-"Yes. That's true. I did. Charlie understands fabric—"
-
-"Thanks to you," Mara cut in. "His skill is crucial here. I'm certain your own skills will become so."
+"I thought so," Mara cut in. “Then your skills belong in the system as well.”
 
 Lauren's mouth twitched. She looked around the room.
 
@@ -3433,13 +3423,13 @@ Mara answered like a policy.
 
 Lauren’s face didn’t change, but something in her shoulders loosened—relieved.
 
-“Good,” she said. “You protect.“
+“Good,” she said. “You’ve built protection into the work.”
 
-“I do. I'm here to give women a safe place to build their future."
+“I have. Wardrobe gives women a safe place to build their future."
 
 Lauren's lips moved slightly sideways. "And I’m here to build something that doesn’t punish women.”
 
-Charlie finally looked up properly. He regarded his mum as if he’d never heard her make that strong a statement, before. 
+Charlie finally looked up properly. 
 
 Mara gave a curt nod and lifted her chin toward the ledger.
 
@@ -3449,9 +3439,9 @@ Charlie’s pen hovered as his throat moved. He wrote more slowly.
 
 "You know the drill," Mara continued then, handing him the stays. "Two testers are better than one. Slow lacing. Increments."
 
-His frame curled as his wide eyes flicked back and forth between Mara and his mum. 
+His frame curled. His eyes moved from Mara to his mum and back again.
 
-He wasn't about to only direct a grown woman, but his mum. Mara didn’t even glance at him.
+He wasn’t only being asked to direct a grown woman. He was being asked to direct his mum. Mara didn’t even glance at him.
 
 “Carry on.”
 
@@ -3465,77 +3455,107 @@ Charlie wrote:
 
 **ATTEMPT 2 — BODY TYPE: RETURNING-TO-WORK (BASELINE)**
 
+Mara had chosen Sarah for the third line before Sarah knew she had been chosen.
+
+The Well-Nourished Young Woman block needed a tester with breadth, lift, movement, and no romantic ideas about discomfort. Sarah had all four. She had also been in and out of Wardrobe often enough, back when she was acting, for Mara to know she could sew a straight seam, read a mark, and keep a fitting moving.
+
+The tongue was the problem.
+
+Mara, apparently, had decided it was not a fatal one.
+
 That was when Sarah arrived.
 
-She came in with the particular energy of someone who never asks whether she’s welcome. Her accent carried the UK cleanly—sharp edges, no apology. She took one look at Lauren at the table, then at Charlie, then at Mara, and her mouth made a shape that wasn’t quite a smile.
+She came in with the particular energy of someone who never asked whether she was welcome. Her accent carried the UK cleanly—sharp edges, no apology.
 
-"They've cut me free at the pub finally, thank goodness," she said breezily. She looked about her with a grin. "I just know I'm going to love it here!" She noticed Lauren and Charlie at the design table. “Oh,” she said. “We’re doing this today, are we?”
+“They finally cut me loose from the pub,” she said. “Miracles do happen.”
 
-"We're testing stays. I suggest you observe." Mara eyed her sharply. "You'll be testing the 'Well-Nourished-Woman' line. You need to understand what testing entails."
+Her eyes moved from Lauren to Charlie to the open ledger.
+
+“Oh,” she said. “We’re doing this today, are we?”
+
+“We’re testing stays,” Mara said. “You’ll observe.”
+
+Sarah’s mouth made a shape that was not quite a smile.
+
+“Will I?”
+
+“You’ll be testing the Well-Nourished Young Woman line. You need to understand what testing entails before you put one on.”
 
 Sarah’s eyes flicked to the policy line at the top of the open ledger page.
 
 “Sounds simple enough to me,” she said, casual as a pin.
 
-Charlie’s shoulders rose. Mara’s voice cut in.
+Charlie’s shoulders rose.
+
+Mara’s voice cut in.
 
 “Don’t.”
 
-Charlie stared unseeing at Lauren's waist. Sarah lifted a brow.
+Sarah lifted a brow.
 
-"Hey, just saying. Putting on a dress, taking it off, check for stress points. How hard can that be. Even a lad can manage that," she said, waving dismissively at Charlie, then looked at the ledger. "Don't see much point to policies and procedures, honestly."
+“I’m only saying. Put it on, move about, take it off, check for stress. How hard can it be?”
 
-Mara said nothing, but placed the side of her finger against her lips. 
+Charlie stared down at the ledger as if the words had moved.
 
-Sarah failed to see the precipice she was waltzing towards.
+Sarah glanced at him, then back at Mara.
 
-“I’m not being unkind. I’m being realistic. If that—" she paused, for maximum effect, "*boy* wants to work in a women’s world, he needs to be able to face women’s challenges. Front-facing. No special cover.”
+“I’m not being unkind. I’m being realistic. This is a women’s workroom. If he wants to stand in it, he has to stand in it properly. No screens. No special hush. No everyone pretending the obvious isn’t obvious.”
 
-Lauren’s icy gaze landed on Sarah with a calm so controlled it was almost polite.
+Lauren looked at Sarah with a calm so cold it passed for courtesy.
 
-“And who made you spokesperson for ‘women’s challenges’?” Lauren asked.
+“And who made you the door?”
 
 Sarah snorted. “Oh, come off it. Women manage. Women cope. We don’t need—”
 
 Mara set the reed boning down with a soft, decisive click.
 
-“You’re confusing coping with virtue.” Mara's voice was drier than usual.
+“You’re confusing coping with virtue.”
 
-Sarah opened her mouth. But Mara wasn’t done.
+Sarah opened her mouth.
+
+Mara did not give her room.
 
 “And you’re confusing governance with weakness.”
 
-Sarah’s expression sharpened. “Governance.”
+Sarah’s expression sharpened.
 
-Mara nodded toward the ledger and then—with a small tilt of her head—toward my corkboard.
+“Governance.”
 
-“See that board?” she said. “That’s not comfort. That’s evidence.”
+Mara nodded toward the ledger and then, with a small tilt of her head, toward my corkboard.
 
-Sarah glanced, and her mouth tightened as she took in the blunt pragmatism of garments built for bodies that moved.
+“See that board? That isn’t comfort. It’s evidence.”
 
-“Underarm guards,” Mara said. “Because abrasion exists. Straps because people lift. Reinforced edges because things wear out. Women solved problems by making rules and building tools. They didn’t ‘cope’ for sport.”
+Sarah glanced across. Her mouth tightened as she took in the blunt pragmatism of garments built for bodies that moved.
 
-"We build clothing that protects women's bodies." She stared at Sarah frostily. "And build workplaces that protect everyone in them. Everyone."
+“Underarm guards,” Mara said. “Because abrasion exists. Straps because people lift. Reinforced edges because things wear out. Women solved problems by making rules and building tools. They didn’t cope for sport.”
 
-Sarah’s jaw worked. Her eyes flicked back to Charlie—different, properly this time, as a worker in the room, not a test case for her opinions. 
+Sarah said nothing.
 
-Her lips tightened.
+“The garment protects the body,” Mara said. “The policy protects the room.”
 
-“So what,” she said, voice flatter, “we wrap him in cotton wool forever?”
+Sarah’s jaw worked. Her eyes flicked back to Charlie—different this time, properly, as a worker in the room rather than a test case for her opinions.
 
-“No,” Mara said. “We train competence like we train anything else: by repetition and by setting standards.”
+“So what,” she said, flatter now. “We wrap him in cotton wool forever?”
 
-"But, that's testing clothing," Sarah replied. "What does that have to do with him."
+“No,” Mara said. “We train competence.”
 
-"Policies are there to protect the whole environment, the staff, the clothing, everything. We won't allow abuse, here." 
+“That’s garment testing.”
 
-Sarah’s chin lifted. “But, that’s what I’m saying. Policy will protect him here, but not out there." She jerked her thumb towards the window. "He's going to have go out there at some stage. He can’t crumble the first time someone looks at him funny.”
+“It’s room testing,” Mara said.
 
-Mara’s gaze held hers for a long beat, and then she nodded—grudgingly.
+Sarah’s chin lifted. “Policy protects him here. It won’t protect him out there.” She jerked her thumb toward the window. “Sooner or later he’ll leave this room wearing some of this work. Someone will look. Someone will say something. He can’t fold the first time it happens.”
 
-“Fine,” Mara said. “But we don’t train resilience by ambush.”
+Mara’s gaze held hers for a long beat.
 
-The room went very still—not tense, just attentive. Mara turned to Charlie.
+“That,” she said, “is the first useful thing you’ve said.”
+
+Sarah’s mouth shut.
+
+“But we don’t train resilience by ambush.”
+
+The room went very still—not tense, just attentive.
+
+Mara turned to Charlie.
 
 “Come here.”
 
@@ -3543,43 +3563,71 @@ He started, then obeyed, stepping to the table. Mara put her hand on the ledger.
 
 “You understand this truth,” she said. “The garment fails. You write it. We fix it.”
 
-Charlie nodded. Mara’s voice didn’t soften. It simply shifted into reality.
+Charlie nodded.
 
-“Here’s the other truth. Our work *will* leave this room, some of it, on *you*. People will notice. Some will be normal. Some won’t.”
+Mara’s voice didn’t soften. It simply shifted into reality.
 
-Charlie’s fingers tightened around his pen. Lauren stayed quiet, a quiet that said: 
+“Here’s the other truth. Our work will leave this room. Some of it, on you. People will notice. Some will be normal. Some won’t.”
 
-*You have it in you to stand in this.*
+Charlie’s fingers tightened around his pen.
 
-Mara went on. “You don’t choose what other people are. You choose what you do when they are that way.”
+Lauren stayed quiet, a quiet that said: You have it in you to stand in this.
 
-Charlie swallowed. “What… do I do?”
+Mara went on.
+
+“You don’t choose what other people are. You choose what you do when they are that way.”
+
+Charlie swallowed.
+
+“What do I do?”
 
 Mara looked at him as if the question was the beginning of adulthood.
 
-“You keep working,” she said. “You stay in the work. You don’t perform. You don’t bargain. And you never disappear.”
+“You keep working,” she said. “You stay in the work. You don’t perform, bargain, apologise, or disappear.”
 
-Sarah let out a short breath. “That last one’s could be a hard one.” Charlie blinked. Sarah shrugged, unapologetic. “I’m not trying to be nasty. Just useful.”
+Sarah let out a short breath.
 
-Lauren’s mouth twitched—the smallest sign of amusement—and then she looked at Charlie.
+“That last one’s the trick.”
 
-“You don’t have to be fearless,” Lauren said. “Your head-space needs to stay in this room.”
+Charlie blinked.
 
-Charlie stared at the ledger, at his handwriting: evidence that he’d done something awkward—repeatedly—and survived.
+Sarah shrugged, unapologetic.
+
+“I’m not trying to be nasty. Just useful.”
+
+Lauren’s mouth twitched, the smallest sign of amusement, and then she looked at Charlie.
+
+“You don’t have to be fearless,” Lauren said. “You only have to keep your mind on the work.”
+
+Charlie stared at the ledger, at his handwriting: evidence that he had done something awkward—repeatedly—and survived.
 
 “I can do that.”
 
-“Good,” said Mara. She tapped the movement list pinned near the fitting mat. “We do it in rungs,” she said. “A ladder.”
+“Good,” Mara said.
 
-Charlie frowned. “A ladder.”
+She tapped the movement list pinned near the fitting mat.
 
-Mara’s eyes were steady. 
+“We do it in rungs,” she said. “A ladder.”
 
-“First rung: you can be seen working. Second: you can be spoken to while working without losing your hands. Third: you can answer a stupid comment without trying to become a different person.”
+Charlie frowned.
 
-Sarah exhaled. “Fourth rung: you tell them to get stuffed.” Mara’s eyes flicked to her. Sarah bit her lip. “Politely, if you must.”
+“A ladder.”
 
-Mara didn’t smile, but something in her face loosened—the slightest concession that Sarah had landed in the right register at last. She reached for the mock-up again.
+“First rung,” Mara said. “You can be seen working. Second: you can be spoken to while working without losing your hands. Third: someone says something stupid and you stay yourself.”
+
+Sarah exhaled.
+
+“Fourth rung: you tell them to get stuffed.”
+
+Mara’s eyes moved to her.
+
+Sarah bit her lip.
+
+“Professionally, then.”
+
+Mara didn’t smile, but something in her face loosened—the slightest concession that Sarah had landed in the right register at last.
+
+She reached for the mock-up again.
 
 “All right,” she said. “Back to the proof.”
 
@@ -3587,7 +3635,7 @@ They didn’t make it an event.
 
 Lauren stood where she was told and watched the garment, not the boy.
 
-Charlie laced while Mara watched the lines in the cloth as if they were a map. 
+Charlie laced while Mara watched the lines in the cloth as if they were a map.
 
 Sarah watched the room, failing to find anything to critique.
 
@@ -3597,7 +3645,11 @@ Mara didn’t look up.
 
 “First rung.”
 
-And Charlie lifted his arms.
+Charlie looked once at the movement list, then at his mum.
+
+“Arms up,” he said.
+
+And Lauren lifted her arms.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3619,49 +3671,55 @@ And Charlie lifted his arms.
 
 [ *Celeste* ]
 
-Mara didn’t look up.
+“Arms up.”
 
-“First rung.”
+Lauren lifted her arms.
 
-And Charlie lifted his arms. Nothing dramatic happened. That was the point.
+Nothing dramatic happened. The mock-up shifted, settled, and revealed stubborn little facts along the side seam: a crease that wanted to become a habit, a boning channel that behaved until it didn’t.
 
-The mock-up shifted, settled, revealed stubborn little facts along the side seam: a crease that wanted to become a habit, a boning channel that behaved until it didn’t. 
-
-Mara watched like a machinist. 
+Mara watched like a machinist.
 
 Lauren watched like a woman who had lived inside garments that asked too much and gave too little back.
 
-Sarah watched like someone deciding he hadn’t earned the room.
+Sarah watched like someone deciding Charlie still hadn’t earned the room.
 
-Charlie lowered his arms and looked to the ledger. Mara spoke first.
+Charlie looked to the ledger.
+
+Mara spoke first.
 
 “Write it.”
 
-He did. His pen moved faster than his face could manage. Lauren leaned in just enough to read the headings. When Charlie finished, Mara nodded.
+He did. His pen moved faster than usual. Lauren leaned in just enough to read the headings.
 
-“All right,” Mara said. “That’s the garment. Now the rung.”
+“All right,” Mara said, as she undid the lacings. “That’s the garment. Now the rung.”
 
-Charlie stilled. “The— rung?”
+Charlie stilled.
+
+“The—rung?”
 
 Mara set the mock-up aside and pinned a strip of tape to the floor in a straight line.
 
-“This line,” she said, “is the edge of hiding. On this side, you can hover. On that side, you’re working while people see you.”
+“This line marks the edge of hiding,” she said. “This side is hovering. That side is working.”
 
-Sarah gave a short laugh. “So now we’re doing cosplay.”
+Sarah gave a short laugh.
 
-“No,” Mara said. “It’s training.”
+“So now we’re doing cosplay.”
 
-Charlie stared at the tape. Mara pointed to the cutting table.
+“No,” Mara said. “Training.”
 
-“Your job is to cross that line, do one real task while we watch, and come back. No explaining or apologising, just the task.”
+Charlie stared at the tape.
 
-“And... that’s it?”
+Mara pointed to the cutting table.
 
-“That’s it,” Mara said. “Small, repeatable. Until it’s boring.”
+“Your job is to cross that line, do one real task while we watch, and come back. No explaining. No apologising. Just the task.”
 
-Lauren’s voice came in, warmer. 
+“And that’s it?”
 
-“Pick a task you already know,” she said. “Something clean, like a waistline mark or a grainline check. Anything your hands can do while your brain is noisy.”
+“That’s it,” Mara said. “Small. Repeatable. Until it’s boring.”
+
+Lauren’s voice came in warmer.
+
+“Pick a task you already know,” she said. “Something clean, like a waistline mark or a grain-line check. Anything your hands can do while your head is noisy.”
 
 Charlie blinked at her.
 
@@ -3669,11 +3727,15 @@ Charlie blinked at her.
 
 “Good,” Mara replied. “On my count.”
 
-Sarah folded her arms. “If he trips, I’m laughing.”
+Sarah folded her arms.
 
-Mara turned her head toward Sarah. “If you laugh, you’ll be sorting grommets for a week. Quietly.”
+“If he trips, I’m laughing.”
 
-Sarah quickly pressed her lips together.
+Mara turned her head toward Sarah.
+
+“If you laugh, you’ll be sorting grommets for a week. Quietly.”
+
+Sarah pressed her lips together.
 
 “Three,” Mara said.
 
@@ -3689,78 +3751,98 @@ His torso tried to rise.
 
 Charlie stepped over the tape.
 
-The room didn’t change, except that Charlie was now on the side where he could be seen. 
+On the visible side, he walked to the cutting table.
 
-He walked to the cutting table.
-
-Found the notch. 
+Found the notch.
 
 Marked the waistline.
 
-Set the chalk down. Properly. 
+Set the chalk down.
 
-His hand shook slightly, then steadied.
+His hand shook, then steadied.
 
-Mara nodded. “Back.”
+Mara nodded.
+
+“Back.”
 
 Charlie blinked.
 
-“Back over the line,” she said. “Then, do it again. You’ll do it until your body stops treating being watched like danger.”
+“Back over the line,” she said. “Then do it again. You’ll do it until your body stops treating being watched like danger.”
 
-Charlie swallowed. 
+Charlie swallowed.
 
-He stepped back over the tape. 
+He stepped back over the tape.
 
-Then forward again. By the third crossing, his breath slowed.
+Then forward again.
 
-By the fifth, his hands stopped shaking. 
+By the third crossing, his breath slowed.
 
-Sarah was no longer watching him. She was staring at his shirt. 
+By the fifth, his hands had stopped shaking.
 
-“You own anything that fits on purpose?” she said, not looking up.
+Sarah was no longer watching his hands. She was watching his shirt.
 
-Lauren said nothing—just raised her eyebrows at Charlie.
+“You own anything that fits on purpose?” she said.
+
+Charlie looked down as if she had named a fault in the cloth rather than in him.
+
+Lauren’s face changed by half a degree, then didn’t.
+
+Mara said nothing.
+
+Sarah shrugged. “If you’re going to work in here, don’t dress like laundry waiting to happen.”
+
+Lauren said nothing. She only raised her eyebrows at him.
+
+Charlie’s mouth opened, then shut.
+
+The argument had already moved into the car ride home.
 
 Mara wrote in the ledger:
 
-EXPOSURE TRAINING — rung completed:   
-- crossed line while observed   
-- task performed; no retreat
+EXPOSURE TRAINING — RUNG COMPLETED
+
+crossed line while observed
+task performed
+no retreat
 
 Lauren’s voice came in warm at his shoulder as he turned.
 
-“This is what doing aerobics is like,” she said lightly. “The first day, you think everyone’s watching. By the third day, you realise everyone’s too busy trying not to die.”
+“This is what aerobics is like,” she said lightly. “The first day, you think everyone’s watching. By the third day, you realise everyone’s too busy trying not to die.”
 
-Charlie's lips twitched in something slightly resembling a grin. 
+Charlie’s lips twitched in something almost like a grin.
 
 Mara was already stripping the tape from the floor.
 
 “Second rung tomorrow,” she said, as if announcing the next seam to sew. “Someone speaks to you while you work. You keep your hands.”
 
-Sarah's lips went to one side.
+Sarah’s lips went to one side.
 
-“What if I speak to him.”
+“And if I speak to him?”
 
 “Then you’ll speak like a colleague,” Mara said. “Not like a spectator.”
 
-Sarah held Mara’s gaze, then let it go. 
+Sarah held Mara’s gaze, then let it go.
 
 Charlie looked down at the ledger again, at the new heading. His pen moved. Under Mara’s line, he added, neat as a promise:
 
-NOTES:  
-- did not collapse   
-- did not apologise   
+NOTES:
+- no apology
+- no retreat
 - hands steadied after third crossing
 
-He underlined *did not apologise* once, then he picked up his chalk.
+He underlined *no apology* once.
+
+Then he picked up his chalk.
 
 “Again?”
 
-Lauren smiled. “Again.”
+Lauren smiled.
 
-Mara didn’t smile: she never did. But then, she didn’t need to.
+“Again.”
 
-She had built a ladder.
+Mara didn’t smile.
+
+The next rung was already waiting.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3784,9 +3866,9 @@ Mara treated the second rung like a seam finish.
 
 Charlie’s eyes flicked to the ledger. His body curled a fraction. Mara tapped the table.
 
-“No shoulders.”
+“Shoulders.”
 
-He dropped them, like a boy caught.
+He dropped them quickly.
 
 Yesterday’s mock-up lay folded at the end of the cutting table. Today’s work was smaller and meaner in its simplicity: chalk lines, notch marks, grainline checks. Things you could do perfectly until a voice reminded you that you were being watched.
 
@@ -3854,13 +3936,13 @@ Charlie’s chalk moved.
 
 “I’ll know,” he said calmly. “Because it won’t match the block.”
 
-Sarah's lips parted—she was staring at his hair. Mara cut it clean.
+Sarah's lips parted—she was staring at his shirt. Mara cut it clean.
 
 “Colleague.”
 
 Sarah exhaled through her nose.
 
-“Right.” She was still staring at his hair.
+“Right.” She was still staring at his shirt.
 
 Lauren’s shoulders rose. She closed her eyes, pressing her lips thin.
 
@@ -3870,13 +3952,13 @@ Charlie made the last waistline mark and set the chalk down carefully, like a ch
 
 Charlie swallowed, and reached for the chalk again. Sarah circled to the other side of the table.
 
-“Does it bother you,” she asked, and the edge nearly returned, “that all this is... seen?”
+“Does it bother you,” she asked, the edge nearly returning, “that people can see you doing this?”
 
 His chalk faltered for a beat. Then Lauren's instruction came back like it was written on the pattern.
 
 *Back to the line.*
 
-“It used to,” he said. “Now it’s... data.”
+“It used to,” he said. “Now I’m trying to make it data.”
 
 Sarah’s brow lifted. “Data.”
 
@@ -3932,13 +4014,13 @@ Lauren slid a label across the table toward me. It read in tidy print:
 
 *STAYS BLOCK — RETURNING-TO-WORK*
 
-“We need a proper storage system,” Lauren said, conversational, warm. “You can’t build a business on paper scraps and hope.”
+“We need a proper storage system,” Lauren said, warm. “You can’t build a business on paper scraps and good intentions.”
 
 Mara made a small sound with the tiniest dip of her head.
 
 “A business,” Charlie repeated. 
 
-I watched him for a moment, and then took in the templates, the ledger, the labels. A new shape was forming: structure, continuity.
+I watched him for a moment, and then took in the templates, the ledger, the labels. A new shape was forming: structure, continuity. Lines were being drawn now, and not just with chalk on fabric.
 
 Mara tapped the table again.
 
@@ -3950,7 +4032,7 @@ Mara’s voice stayed flat.
 
 “Someone says something stupid,” she replied. “You keep your hands.”
 
-Sarah's smile lacked warmth.
+Sarah’s mouth smiled. The rest of her didn’t.
 
 “Oh,” she said. “I can help with that.”
 
@@ -3965,8 +4047,6 @@ Sarah’s smile faltered.
 Charlie picked up his chalk.
 
 Work was what you did next.
-
-Lines were being drawn now, and not just with chalk on fabric.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -3985,17 +4065,15 @@ Lines were being drawn now, and not just with chalk on fabric.
 
 [ *Celeste* ]
 
-Mara introduceded the 'third rung' in her customary way: as a design with purpose, not as chaos to be endured.
+Mara introduced the third rung the way she introduced everything: as a design with a purpose.
 
-The atelier had a professional edge now, if you ignored the wall of blocks and the ledger that had become a second spine. Labels had started appearing on everything: rolls of tape, drawers of grommets, the brown-card templates clipped and hung like tools instead of mysteries.
+The atelier had a professional edge now, not despite the wall of blocks and the ledger that had become a second spine, but because of them. Labels had started appearing on everything: rolls of tape, drawers of grommets, the brown-card templates clipped and hung like tools instead of mysteries.
 
 Lauren had brought a box of index tabs and had started turning Mara’s inflexible ecosystem into something you could scale. Mara left the tabs where they were and kept working, which was Mara’s version of endorsement.
 
-Charlie stood at the cutting table. I frowned, not in disapproval but in recalibration. 
+Charlie stood at the cutting table. I frowned, recalibrating. His hair was brushed and secured in a neat ponytail, higher than before: deliberate, not incidental, and out of the way of testing. 
 
-His hair was brushed and secured in a neat ponytail, set higher than before—deliberate, not incidental—out of the way of testing. I saw the obvious influence of a maternal hand.
-
-Before him, the stays pattern was pinned and smoothed. He stood chalk in hand, shoulders down, almost calm.
+In front of him, the stays pattern was pinned and smoothed. He stood chalk in hand, shoulders down, almost calm.
 
 Mara tapped the table.
 
@@ -4013,15 +4091,13 @@ Lauren reminded him gently:
 
 Charlie’s mouth tightened. He nodded once and returned to the line. 
 
-Mara didn’t look at Sarah. She didn’t need to. 
-
 Sarah, leaning on the shelving, made a pleased little sound, as if this rung had been made for her. 
 
 “Colleague,” Lauren said lightly.
 
 Sarah’s lips twitched. “Colleague,” she echoed, as if it tasted strange.
 
-The chalk moved. The waistline mark appeared. The grainline followed. Charlie’s hand was steady enough now that the work looked like work—not like bravery. 
+The chalk moved. The waistline mark appeared. The grain-line followed. Charlie’s hand was steady.
 
 Mara watched for drift.
 
@@ -4029,19 +4105,21 @@ Lauren watched his shoulders.
 
 I watched the room.
 
-And then chaos arrived: unbidden, like it always does. A male voice from the doorway.
+And then chaos arrived—a male voice from the doorway.
 
-“Well,” it said, with the casual confidence of someone who’d never had to earn a place in a room full of women. “This is... special.”
+“Well,” it said, with the casual confidence of someone who’d never had to earn a place in a room. “This is... *special*.”
 
-Graham stood just inside the threshold with a clipboard under his arm, an invoice tucked into it like a badge. He didn’t need to come in any further: the comment was already inside. His eyes moved toward Charlie, then toward the stays pattern. His mouth did that lazy thing: narrating the world, expecting women to be audience.
+Graham stood just inside the threshold with a clipboard under his arm, an invoice tucked into it like a badge. He didn’t need to come in any further: the comment was already inside. His eyes moved toward Charlie, then toward the stays pattern. His mouth did that lazy thing: narrating the world, expecting women to be the audience.
 
 “Really didn’t think you’d ever need to hire blokes for the ladies’ kit,” he said, as if the garment didn’t deserve a name.
 
 Charlie’s chalk stopped for half a heartbeat. The room tightened: focused. 
 
-Mara didn’t move. She didn’t rise to it. She didn’t give him consequence yet. She did something sharper.
+Mara didn’t move. She didn’t rise to it—she did something sharper.
 
-She glanced at Charlie. The message in her eyes was clear.
+She glanced at Charlie. 
+
+The message in her eyes was clear.
 
 *Keep your hands.*
 
@@ -4049,19 +4127,21 @@ Lauren spoke first. Lauren’s warmth was not softness; it was steering.
 
 “Hi, Graham,” she said, pleasant as sunshine. “You’re standing on the wrong side of the door for commentary.”
 
-Graham blinked, surprised to find an adult voice already on him.
+Graham blinked, surprised to find an adult already in his way.
 
 “It was a joke,” he protested, as if that provided social immunity.
 
-Sarah made a small sound—half laugh, half snort—then caught herself. Her eyes flicked toward Mara. 
+Sarah made a small sound—half laugh, half snort. Her eyes flicked toward Mara. 
 
-Mara didn’t even look up.
+Mara didn’t look up.
 
 *Colleague.*
 
 Charlie’s chalk resumed. He drew as if the room depended on that line. 
 
-Graham tried again. Of course he did.
+Graham tried again. 
+
+Of course he did.
 
 “You lot are serious about letting him in here, aren’t you?” He spoke to Charlie. "What are you drawing, there?"
 
@@ -4069,29 +4149,31 @@ Charlie’s hand kept moving. His voice was quiet and factual, like a note in th
 
 “Prototype testing,” he said. “Scheduled work.”
 
-He didn’t look up or invite a reply, but focused on the chalk. Lauren’s mouth twitched, a whisper of approval.
+He didn’t look up but focused on the chalk. Lauren’s mouth twitched, a whisper of approval.
 
 Mara finally lifted her eyes to Graham. Her tone didn’t rise.
 
 “Invoice goes on the hook,” she said. “If you have any questions about orders, you ask me.” A pause... clean, deliberate. “Opinions aren’t part of invoices.”
 
-Graham’s face tightened. He looked for the crack in the room: the place where a man could push and be indulged.
+Graham’s face tightened. 
+
+He looked for an indulgent crack in the room.
 
 There wasn’t one. Even Sarah seemed focused on the chalk.
 
-He cleared his throat, suddenly very aware of the boundary he’d crossed.
+He cleared his throat, suddenly aware of the boundary he’d crossed.
 
 “Right,” he said, clipped now. “The higher-ups called again.”
 
-Mara’s attention sharpened, because the word 'higher-ups' was a dollar figure disguised as a name.
+Mara’s attention sharpened. The word 'higher-ups' was a dollar figure disguised as a name.
 
 “What did they say?”
 
 Graham glanced at the clipboard.
 
-“They doing more hires, so they need more costumes. They want another run. More sizes.“ He paused, as if the next words were a difficult commitment. “They’re—happy. Impressed.”
+“They’re hiring more people, so they need more costumes. They want another run. More sizes.“ He paused, as if making a difficult admission. “They’re—happy. Impressed.”
 
-Sarah’s brows lifted. Lauren’s expression didn’t change, but her eyes said she was already calculating logistics. Mara nodded, as if she’d expected it.
+Sarah’s brows lifted. Lauren’s eyes said she was already calculating logistics. Mara nodded, as if she’d expected it.
 
 “Good,” she said. “Leave the details. Go.”
 
@@ -4099,7 +4181,7 @@ Graham hesitated. His gaze flicked once more toward Charlie and the stays patter
 
 “Thanks, Graham,” she said. “We’ll take it from here.”
 
-Dismissal with manners—that was Lauren’s style. Same authority. 
+Dismissal with manners. That was Lauren’s style. Same authority. 
 
 Graham left. 
 
@@ -4109,13 +4191,17 @@ The room returned to its rhythm, as if the visit had been wind blowing through a
 
 Charlie finished the line he’d been drawing. 
 
-He set the chalk down. Properly. Quietly, calmly. 
+He set the chalk down. 
+
+Quietly, calmly.
+
+Properly.
 
 Only then did he look up. His eyes were too bright, unsettled.
 
-Sarah's head twitched.
+Sarah's head tilted.
 
-“Not bad,” she said. “You didn’t even flinch.”
+“Not bad,” she said. “Barely flinched.”
 
 Charlie’s gaze flicked to her.
 
@@ -4125,9 +4211,9 @@ Sarah rolled her eyes.
 
 “Not bad,” she repeated, different now. “You kept your hands.”
 
-Lauren stepped closer to him, her voice quiet enough that it didn’t turn into applause.
+Lauren stepped closer to him.
 
-“That’s the rung,” she said. “Staying on task.”
+“That’s the rung,” she said quietly. “Staying on task.”
 
 Charlie swallowed. “I felt... stupid.”
 
@@ -4145,17 +4231,17 @@ Charlie looked down at the pattern. Lauren leaned on the table’s edge.
 
 “What?”
 
-“You weren't expected to explain yourself,” Lauren replied. “You didn’t have to persuade him. You didn’t have to win. You named the work and kept doing it.”
+“You weren't expected to explain yourself,” Lauren replied. “You didn’t have to persuade him. You named the work and kept working.”
 
 Sarah made a small sound of reluctant agreement.
 
-“That’s how you bore them,” she added, “because bored men are safe. Well, safer.”
+“That’s how you bore them,” she added, “because bored men are safe. Well. Safer.”
 
 Mara’s eyes flicked to her, the faintest hint of approval.
 
 “Accurate,” Mara said.
 
-I went to the ledger, because the ledger was now where the room put truth.
+We went to the ledger.
 
 Mara wrote, fast and sharp:
 
@@ -4177,7 +4263,7 @@ NOTES:
 
 He underlined *kept working*. Mara slid the pattern piece back toward him.
 
-“Again,” she said, as if nothing else mattered. “The Faire wants more sizes.”
+“The Faire wants more sizes.”
 
 *More sizes.*
 
@@ -4207,9 +4293,224 @@ Competence could become a habit. Habits held when people didn’t.
 
 [ *Celeste* ]
 
+📒 The Numbers 📝
 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+ [ *Celeste* ]
+
+Mara called me to the cutting table the way she called anyone: a hand gesture that assumed you’d come, and a tone that didn’t waste time making you feel chosen.
+
+“Bring the ledger.”
+
+Lauren was already there, sleeves rolled up, pencil behind her ear like it had grown there. In front of her: printed emails, order confirmations, a delivery docket stamped in red. On top sat a single sheet covered in neat columns: the kind of handwriting that made maths look like it had manners. Charlie hovered at the edge of the table.
+
+Sarah sat on a stool with her arms folded, expression guarded, as if she didn’t want to be caught caring.
+
+Mara tapped the stack of papers with two fingers.
+
+“The Faire wants another run,” she said. “More sizes. More units.”
+
+Lauren slid the top sheet toward her.
+
+“And they want delivery dates,” Lauren added. “Not just ‘when it’s ready.’”
+
+Mara’s eyes flicked over the page, as if she was checking tolerances.
+
+“How many?”
+
+Lauren didn’t even glance down.
+
+“Thirty-six,” she said. “This batch. With a follow-on option if the first run sells through.”
+
+Sarah let out a low whistle.
+
+“Thirty-six,” she repeated. “That’s not... boutique.”
+
+“No,” Mara said. “That’s work.”
+
+She looked at me, and the room shifted into a structure.
+
+“Open the ledger.”
+
+I did. The pages looked like proof it could work: headings, repeated fields, signatures. Charlie’s handwriting, increasingly steady. Mara’s marginal corrections. The blunt, unwavering language of process. Mara pointed to the most recent entries.
+
+“How many prototypes did we run last week?”
+
+Charlie answered before I could.
+
+“Eleven,” he answered, “across three body types. One full redo on the ‘well-nourished’ block. Two seam-finish changes. And... the underarm guard adjustment.”
+
+His voice sounded cautious but clear. Facts. Sequence. Outcome. Mara nodded, then pointed at Lauren’s sheet.
+
+“And how many finished garments left the building?”
+
+Lauren’s pencil tapped the paper once. “Nine.”
+
+Charlie blinked. “Only nine?”
+
+Lauren turned her head slightly toward him.
+
+“Nine *finished* garments,” she said, “that's nine more than most people manage without a system.”
+
+“Here’s the problem,” Mara said, and drew a plain box on the paper with her pencil. “Prototype time competes with production time.”
+
+Sarah shrugged. “So you hire someone.”
+
+Mara’s gaze cut to her.
+
+“With what money?”
+
+Sarah opened her mouth, then shut it.
+
+Lauren slid another sheet forward. This one looked uglier.
+
+“Mara asked me to tally costs,” Lauren said. “This spreadsheet lists everything. Materials. Hardware. Labour. Waste. The things you forget to count when you’re still pretending you’re just making pretty things.”
+
+Mara’s mouth tightened.
+
+“We’re profitable on small runs,” Lauren continued. “We’re... interesting on larger ones. But only if we stop bleeding time.”
+
+Charlie stared at the sheets as if they were written in hieroglyphics. Mara pointed at it.
+
+“Read the bottom line,” she told him.
+
+Charlie leaned in.
+
+“It says...” He swallowed. “It says if we do thirty-six without changing anything, we’ll—”
+
+“We’ll be exhausted,” Lauren finished for him.
+
+Sarah snorted. “Welcome to womanhood.”
+
+Mara’s eyes flicked to her.
+
+“Colleague,” Sarah muttered. Mara returned to Charlie.
+
+“So. What do we change?”
+
+“We could... reduce prototype cycles,” Charlie said slowly, “and standardise more steps. Templates. Hardware packs. Cutting order.” His eyes lifted, cautious. “Scheduling.”
+
+Mara nodded.
+
+“That’s the shape of it.”
+
+She looked at me.
+
+“Celeste. You can see it.”
+
+It was an assignment because I *could* see it. I could feel my mind doing its favourite thing: taking chaos and converting it into something usable, repeatable. I loved the atelier for its craft, but what I loved more—what I almost didn’t dare admit—was the relief of a system snapping into place, the world becoming something you could manage.
+
+Lauren watched my face and gave a small, private smile.
+
+“What do you see?”
+
+“We need operations,” I said. “Not vibes or heroics. Operations.”
+
+Sarah blinked. “Operations.”
+
+“Yes,” I said. “Inventory. Vendor schedules. Production planning. Quality Assurance that doesn’t depend on Mara being in three places at once.”
+
+Mara held my gaze. Something in the pressure eased a fraction, as if she’d been carrying the whole weight alone.
+
+Lauren leaned on the table.
+
+“And if we do that,” she said, warm, almost conversational, “we’re not just making garments. We’re building a business.”
+
+A business. 
+
+Charlie stared at the papers. 
+
+Mara addressed the room.
+
+“Wardrobe is already a business,” she said. “The only question is whether we run it, or it runs us.”
+
+Silence settled. Then Lauren turned the moment into something you could act on.
+
+“Okay,” she said. “Decisions. Do we accept the Faire run?”
+
+Mara didn’t hesitate. “Yes.”
+
+Sarah huffed. “Of course.”
+
+Charlie looked up. “Can we... can we do it?”
+
+Mara’s gaze went to him, steady.
+
+“We can,” she said. “If we stop pretending labour is infinite.”
+
+Charlie moved the ledger into Lauren’s reach and stepped back. Not retreating. Making room. There was a difference, and for once he seemed to know it.
+
+She turned to me, her eyebrows raised a tiny fraction. “You’re going back to school.”
+
+The sentence landed with the peculiar precision of a pin going through fabric. Mara didn’t guess. This was an observation she’d put together on her own, without me saying anything to her directly.
+
+Heat climbed into my face.
+
+“I am,” I said. “Uni. MBA. Or at least the pathway to it.”
+
+Sarah lifted a brow. “You? Business?”
+
+“Yes.”
+
+Mara didn’t let Sarah’s surprise take oxygen.
+
+“Wardrobe needs a manager who understands the environment. It won’t do well under an outsider,” Mara said. “It needs someone who understands how to make it survive growth.” She tapped the ledger. “You understand our standards. You understand our policies. And you’re already thinking in systems.”
+
+Then Mara’s tone went flat.
+
+“One problem: we don’t have the money to send you.”
+
+There it was. Tuition.
+
+“I can run circles around most people in a classroom,” I said quietly. “I can’t run circles around fees.”
+
+In the corner of my eye, Charlie’s head snapped up.
+
+He didn’t speak. He didn’t have to.
+
+The old script had already reached for him.
+
+*I can fix this. I can provide.*
+
+Lauren saw it too. Her warmth became guardrails. She directed her gaze at Mara.
+
+“Then we do it the Wardrobe way,” Lauren said. “We solve it like adults.”
+
+Mara’s eyes narrowed, attentive. Lauren tapped the papers.
+
+“We accept the Faire run. We price it properly. We track time properly. We stop doing invisible labour.” She glanced at me. “And we set up a fund. Transparent. Written. Agreed.”
+
+Sarah’s head cocked. “A fund.”
+
+Lauren nodded. “Education. Operations. Whatever we call it. This won’t happen on hints and hope.”
+
+Mara held Lauren’s gaze for a long second.
+
+“Write it,” she said finally.
+
+Lauren’s pencil moved. Charlie stared at the page, face blank.
+
+Mara glanced at him.
+
+“Nobody,” Mara said, “gets to mistake money for authority in this room.”
+
+Charlie swallowed. “No.”
+
+Mara tapped the ledger.
+
+“We proceed.”
+
+Lauren pushed a clean sheet toward me. 
+
+“Provide all the details you can about Uni,” she said, warm again. “We need numbers. Fees. Timeline. Units.”
+
+I picked up the pen. 
+
+Outside, the Faire carried on... loud, theatrical.
+
+Inside, at the cutting table, we began building a story that would hold.
+
+<hr style="height:2px; border-width:0; color:yellow; background-color:yellow" />
 
 
 
@@ -4218,7 +4519,7 @@ Competence could become a habit. Habits held when people didn’t.
 
 
 
-<!--
+
 
 ## 20 House Policy ✨ 
 
@@ -4227,13 +4528,11 @@ Competence could become a habit. Habits held when people didn’t.
 
 [ *Celeste* ]
 
- [Celeste]
-
-Mara didn’t romanticise the museum run. She laid it out the way she laid out everything: the facts would either be carried properly, or they would break someone.
+Mara laid out the Faire run the way she laid out everything: if you didn’t carry the weight properly, someone got hurt.
 
 “Thirty-six units,” she said, and tapped the order sheet. “That means we stop behaving like a clever pocket of talent and start behaving like a shop.”
 
-Lauren had brought a roll of butcher’s paper and a marker. She unrolled it on the cutting table with quiet competence, like she was flattening a problem until it couldn’t hide. Columns appeared. Headings. Boxes. A place for reality to sit.
+Lauren had brought a roll of butcher’s paper and a marker. She unrolled it on the cutting table like she was flattening a problem. Columns appeared. Headings. Boxes. A place for reality to sit.
 
 CUT
 SEW
@@ -4243,21 +4542,23 @@ QC
 PACK
 PICKUP / DELIVERY
 
-Charlie watched the grid form, standing close enough to see, far enough not to intrude, chalk dust on his fingers... the mild, contained intensity of someone who had discovered that order could make him fearless without requiring him to be loud.
+Charlie watched the grid form, standing close enough to see, far enough not to intrude, chalk dust on his fingers.
 
-Sarah leaned on the shelving, arms folded, expression set to fine, impress me.
+Sarah leaned on the shelving, arms folded, expression set to: 
+
+*fine, impress me.*
 
 Mara’s finger moved down the list.
 
-“Hardware packs get made first,” she said. “Grommets counted. Tape cut. Boning sorted by stiffness.” She nodded at Lauren. “Label it.”
+“Hardware packs get made first,” she said. “Grommets counted. Tape cut. Boning sorted by stiffness.” She nodded at Lauren. “Labelled.”
 
 Lauren’s marker squeaked as she wrote.
 
-“Hardware packs,” she said, warm voice, sharp mind. “Like meal prep. You do it properly, and you stop bleeding time every time you need a grommet.”
+“Hardware packs,” she said in her warm voice. “Like meal prep. You do it properly, and you stop bleeding time every time you need a grommet.”
 
-Mara didn’t smile, but her shoulders loosened the tiniest fraction. Approval, in her language.
+Mara didn’t smile, but her shoulders loosened the tiniest bit.
 
-“QC checklist,” Mara continued. “Nothing leaves the building without it.”
+“Quality Control checklist,” Mara continued. “Nothing leaves the building without it.”
 
 Sarah rolled her eyes. “We’re doing paperwork now.”
 
@@ -4273,25 +4574,27 @@ Lauren’s tone stayed conversational. Steel lived underneath it.
 
 “That’s the bit nobody counts,” Lauren said. “And it’s the bit that kills you.”
 
-She looked around the table. Not accusing, not sentimental: adult.
+She looked around the table.
 
 “This is not about anyone volunteering extra hours,” she added. “I want to know how many hours we’re already losing to friction.”
 
-Charlie blinked. “Friction.”
+Charlie frowned. “Friction.”
 
 Lauren nodded. “Commute time. Waiting on deliveries. Re-doing things because the right tape wasn’t where it should be. Starting late because someone’s brain is fried.”
 
-Sarah shook her head, eyes narrowed. “Really?”
+Sarah shook her head. “Really?”
 
 Lauren turned to her, unflinching.
 
 “You can scoff,” she said. “Or you can tell me how many minutes it takes you to find grommets when they’ve migrated.”
 
-Sarah opened her mouth, then shut it again. Too many.
+Sarah opened her mouth, then shut it again. 
 
-Lauren looked at Charlie.
+*Too many.*
 
-“How long does it take you to get here?”
+Lauren turned to Charlie.
+
+“How long from home to here, Charlie?”
 
 He hesitated.
 
@@ -4303,9 +4606,9 @@ Charlie nodded.
 
 Lauren scribbled.
 
-“An hour and a half a day,” she said to the ledger, then turned to him. “Seven and a half hours a week, Charlie. That’s a whole workday per week, spent travelling to work.”
+“I’m not here every day. Charlie is. And that’s an hour and a half a day.” She wrote the number slowly, then turned to him. “Seven and a half hours a week, Charlie. That’s a whole workday spent travelling.”
 
-“That’s not his fault,” Mara said. “That’s geography.”
+Mara said. “That’s geography.”
 
 Lauren nodded. “Sure. And we can’t argue with geography.” She tapped the grid. “We can choose what we do about it.”
 
@@ -4321,17 +4624,19 @@ Mara’s eyes stayed on mine. I didn’t have to apologise for the edge. Mara sp
 
 “So, we remove friction,” Mara said, flat.
 
-Charlie’s eyes flicked between us, trying to follow the move. His jaw set, a reflex searching for a role. If friction is the enemy, he was there to fight it. If this is a problem, he could solve it. Lauren saw it too. Her face went thoughtful: she laid guardrails down like tape lines on a floor.
+Charlie’s eyes flicked between us, trying to follow the move, a reflex searching for a role. If friction is the enemy, he was there to fight it. If this is a problem, he could solve it. 
 
-“Logistics,” she said, warm and firm. “Not a love story. Logistics.”
+Lauren saw it too. Her face went thoughtful: she laid guardrails down like tape lines on a floor.
+
+“We're going to solve this with logistics,” she said, warm and firm. “Not a one-person solution. Logistics.”
 
 Mara nodded. “Exactly.”
 
-I looked at Charlie.
+Lauren and Mara turned to me. I nodded at them, and looked at Charlie.
 
-“I have a spare room,” I said. “Nearer to here. Quieter. Move in, and your commute drops to ten minutes. We split costs.”
+“I live a five-minute walk from here,” I said, “and I have a spare room. Move in, and your commute drops to five minutes. We split costs.”
 
-Charlie stared at me as if he’d misheard.
+Charlie stared at me. For a second he looked as if the floor had moved and everyone else had known it was going to.
 
 Sarah stifled a gasp. “What?”
 
@@ -4339,13 +4644,13 @@ Lauren’s marker squeaked as she added a new box.
 
 HOUSING / ROUTINE:
 
-Mara didn’t look at Sarah. “Colleague,” she said, automatic as breath.
+Mara didn’t look at Sarah. “Colleague,” she said, automatic as breath. “Tenant, if he signs.”
 
 Sarah shut her mouth.
 
-Charlie’s throat moved. “You mean... live with you?”
+Charlie’s head tilted, as if not trusting his ears. “You mean... live with you?”
 
-“I mean... rent a room,” I said, calm on purpose. Not cold, precise. “Separate rooms. Separate lives. Shared logistics.”
+“I mean... *rent a room*,” I said, calm on purpose. Not cold, precise. “Separate rooms. Separate lives. Shared logistics.”
 
 Lauren nodded, warm. “Rent. Terms. And with a house policy.”
 
@@ -4355,49 +4660,39 @@ Charlie flinched, as though he’d been accused of something he’d never have h
 
 “Oh, I wouldn’t—” he began.
 
-“I know,” I said, and I meant it. “But we’re not building a system that relies on people being good. We’re building one that stays clear even when things go pear-shaped.”
+“I know,” I said, and I meant it. “But we’re not building a system that relies on people being good. We’re building one with clear boundaries.”
 
-His eyes flicked between me and Mara: confused. Lauren stepped in with warmth that didn’t compromise the standard.
+His eyes flicked between me and Mara.
 
-“It’s not personal,” she said. “It’s grown-up. It's a positive approach: you won’t have to guess.”
+“It’s not personal,” Lauren said. “It’s grown-up. It's a positive, well-defined approach.”
 
 Charlie swallowed.
 
 “What are the terms?” he asked quietly.
 
-That word—terms—was the rung I hadn’t realised we were climbing today. Mara looked satisfied, the way she looked satisfied when a stitch finally behaved.
+Mara looked satisfied, the way she looked satisfied when a stitch finally behaved. Lauren pulled a fresh sheet from her stack, as if she’d been waiting for this exact moment.
 
-Lauren pulled a fresh sheet from her stack, as if she’d been waiting for this exact moment.
-
-“Okay,” she said, cheerful in the way competent people get when they finally see a solvable problem. “We write it.”
+“Right then,” she said, cheerful. “We write it.”
 
 She drew headings quickly.
 
-RENT:
-
-BILLS:
-
-QUIET HOURS:
-
-STUDY HOURS (SACRED):
-
-CHORES:
-
-GUESTS:
-
-PRIVACY:
-
-CONFLICT RULE:
-
-EXIT CLAUSE:
+RENT:   
+BILLS:   
+QUIET HOURS:   
+STUDY HOURS (SACRED):   
+CHORES:   
+GUESTS:   
+PRIVACY:   
+CONFLICT RULE:   
+EXIT CLAUSE:   
 
 Sarah let out a low whistle. “Bloody hell.”
 
 Mara glanced at her. “That’s what adulthood looks like.”
 
-Sarah’s mouth twitched. “It looks... like something from a law office.”
+Sarah’s mouth twitched. “It looks like something from a law office.”
 
-“It acts like freedom.” Lauren spoke firmly, still warm. She stapled the page to a clipboard. “We apply the same principle as we have here: if it isn’t written, it isn’t real.”
+“It acts like freedom.” Lauren spoke firmly, still warm. She fastened the page to a clipboard. “We apply the same principle as we have here: if it isn’t written, it isn’t real.”
 
 Charlie stood very still, reading down the list.
 
@@ -4417,7 +4712,7 @@ Lauren looked up at me.
 
 I picked up the pen and didn’t hesitate.
 
-Rent amount. Bills split. Quiet hours. No hovering. No improvising “help”. Guests by agreement. Study hours written like a boundary you could build a life against. Charlie watched my hand writing the terms as if I was drawing a map. When I finished, I slid the page toward him.
+Rent amount. Bills split. Quiet hours. No hovering. No improvised “help”. Guests by agreement. Study hours written like a boundary you could build a life against. Charlie watched my hand writing the terms as if I was drawing a map. When I finished, I slid the page toward him.
 
 “Read it,” I said. “If you agree, you sign. If you don’t, we're done, here.”
 
@@ -4439,21 +4734,21 @@ Sarah stared at the paper, then at me. Her expression rearranged itself in real 
 
 I met her gaze.
 
-“I do. Look, I’m doing it because I’m not letting my ambition be eaten by chaos,” I replied, “and because he’s useful.” Charlie’s ears coloured, but looked oddly relieved. 
+“I do. Look, I’m doing it because I’m not letting my ambition be eaten by chaos,” I said, “and because he’s useful.” Charlie’s ears coloured. Oddly, he looked relieved. 
 
 Lauren laughed softly, understanding in her eyes. 
 
 Mara didn’t laugh. She turned back to the butcher’s paper and tapped the production grid.
 
-“Right,” she said. “Now that we’ve removed one friction point, we accept the museum run.”
+“Right,” she said. “Now that we’ve removed a key friction point, we accept the Faire run.”
 
 Charlie picked up his chalk again.
+
+These were the terms.
 
 He was useful.
 
 This was work.
-
-And these were the terms.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
@@ -4463,27 +4758,28 @@ And these were the terms.
 
 
 
-## 21 Rails ✨
+
+## 21 Terms ✨
 
 [ *Celeste* ]
 
-He didn’t arrive with a suitcase, but with a box of labels.
+Charlie arrived with a box of labels instead of a suitcase.
 
-It was the most Charlie thing he could have done: turn shifting into a logistics problem, solve it quietly, and look faintly relieved that the solution didn’t require him to be charming as well.
+It was the most Charlie thing he could have done: turn shifting into a logistics problem and solving it quietly.
 
-When their car pulled up, it didn’t feel dramatic or ceremonial. Just a boot full of taped cardboard and the steady competence of a woman who had moved through harder transitions than this, and who didn’t need a man’s permission to do it.
+The car held a boot full of taped cardboard and none of the chaos. Lauren’s hand in the execution was unmistakable: the steady competence of a woman who had moved through harder transitions than this and no longer mistook permission for help.
 
-Lauren stepped out, looked at my front door, and nodded as if approving its existence.
+Lauren stepped out and beamed at me.
 
-“Right,” she said. “Where do you want things?”
+“Right Celeste,” she said. “Where do you want things?”
 
-That—where do you want things—was the entire tone of the day. Not is this okay? Not are you sure? Just: you’re the decider; give me the parameters.
+That—where do you want things—was the entire tone of the day. It was very much:
 
-Charlie stood behind her holding a smaller box marked BEDDING in tidy block letters. He looked… contained, like someone who’d been given a rule set and was keen to follow it perfectly. Lauren clocked him the way a mother does when she’s trying not to show she’s clocking. She didn’t fuss. She didn’t hover. She simply moved him from “boy” to “task” and let the dignity of that do the caring.
+*You’re the decider; give us the parameters.*
 
-Mara hadn’t come. She didn’t need to. Mara’s presence was already in the paper on my kitchen bench: the signed terms sheet, clipped to a board like a work order.
+Charlie stood behind her holding a smaller box marked BEDDING in tidy block letters. He looked… contained, like someone who’d been given a rule set and was keen to follow it perfectly. Lauren clocked him the way a mother does when she’s trying not to show she’s clocking.
 
-Lauren saw it and smiled: warm, brief, adult. Not cute. Not aw. More like: good. She writes things down. Charlie’s eyes flicked to it too. He didn’t flinch at the rules; he settled into them, as if they were a handrail.
+Mara’s presence was in the paper on my kitchen bench: the signed terms sheet, clipped to a board like a work order. Lauren saw it and smiled.
 
 I pointed down the hall.
 
@@ -4491,23 +4787,31 @@ I pointed down the hall.
 
 Charlie nodded and headed for his room.
 
-Lauren raised her brows at me, amused. “You know, he’s in his element when you're direct like that.”
+Lauren raised her brows at me, an amused look in her eyes. “You know, he’s in his element when you're direct like that.”
 
 “So I’ve noticed.”
 
-We started moving boxes. It was muscle and tape and the scrape of cardboard across tiles. It had me feeling, faintly, the contentment of a system working the same way in more than one place. Charlie carried his boxes quietly, carefully, as if he thought walls could bruise. He didn’t hover or comment: he just moved his things in and kept out of the way.
+We started moving boxes. It was muscle and tape and the scrape of cardboard across tiles. It had me feeling, faintly, the contentment of a system working the same way somewhere new.
 
-It was almost unnerving.
+Charlie carried his boxes quietly, carefully—moved his few things in and kept out of the way. It was almost unnerving.
 
 Lauren, always practical: “Kitchen’s where, love?”
 
-I gestured. “There. Pantry’s the tall cupboard. I’ve cleared space in the fridge.”
+I gestured. “Kitchenette. Pantry’s the tall cupboard. I’ve cleared space in the fridge.”
 
-Lauren nodded and began unloading groceries: tea, bread, milk, fruit: the kind of motherly provisioning that isn’t sentimental so much as structural. A woman who’d learned, the hard way, that you don’t wait for someone else to make a home functional.
+Lauren began unloading groceries: tea, bread, milk, fruit: the kind of provisioning a woman does who’d learned, the hard way, that you don’t wait for someone else to make a home functional.
 
-Charlie went back and forth until his room looked vaguely inhabitable. Then he paused in the hallway, as if waiting for his next instruction.
+Charlie went back and forth until his room looked vaguely inhabitable. I hadn’t expected posters or gaming gear or some ridiculous black tower humming under the desk, but the absence still caught me. Even his computer was a little MacBook Air, silver and thin and easy to put away. The spare room didn't tout a lot of furniture: a small two-drawer dresser and a tiny hanging closet, but his few clothing items—very tidily arranged—seemed lost in even that minimal space.
 
-And this was where it began.
+Lauren glanced ruefully at the half-empty drawer.
+
+"He hates to go shopping for clothing," she said. "He's left a few things at home he never wears: some nice dress shirts I got him, decent slacks, proper shoes." She snorted. "He says walking in those shoes makes him feel like Frankenstein's monster."
+
+She gave a hopeless shrug, then turned to the doorway.
+
+Charlie had paused in the hallway, as if waiting for his next instruction.
+
+It was in the kitchenette where things got interesting.
 
 It wasn’t a grand gesture.
 
@@ -4519,35 +4823,35 @@ Tick. Tick. Tick.
 
 Automatic. Unconscious, the way some people straighten a picture frame when they pass.
 
-I watched him out of the corner of my eye… and felt my guard relax and tighten at the same time. I’d seen the script people sometimes ran: I do nice things, therefore you owe me softness. I wasn’t building a life with a debt trap in it: not in my house. Not with Lauren watching. Not with Charlie still learning what “good” looks like when it isn’t a performance.
+I watched him out of the corner of my eye—and felt my guard relax and tighten at the same time. I’d seen the script people sometimes ran: I do nice things, therefore you owe me—something. Softness. Caring. A relationship.
+
+I wasn’t building a life with a debt trap in it: not in my house. Not with Lauren watching. Not with Charlie still learning what “good” looks like when it isn’t a performance.
 
 Charlie finished wiping, then froze. He must have felt my attention. He glanced at me quickly and then looked away.
 
-“Sorry,” he said softly. “I… I can stop.”
+“Sorry,” he said softly. “I—I can stop.”
 
 Lauren’s head tilted toward me slightly, her eyebrows saying:
 
-This is just him.
+*This is just him.*
 
 I deliberately kept my voice calm.
 
 “You don’t have to stop,” I said. “Just don’t make it a claim.”
 
-Charlie blinked, puzzled. “A… claim.”
+Charlie blinked, puzzled. “A—claim.”
 
 Lauren stepped in, warm.
 
-“Celeste means,” Lauren said, “do it because it’s what you do. Not because you’re buying anything.”
+“Celeste means,” Lauren said, “do it because it’s what you *normally* do. It doesn't entitle you to anything.”
 
 Charlie’s face coloured. He nodded quickly.
 
-“I’m not buying anything, mum,” he murmured. “It’s just… it’s easier if it’s clean.”
+“I wouldn't, mum,” he murmured. “It’s just—it’s easier if it’s clean.”
 
-Lauren made a small sound—half pride, half relief—and swallowed it before it could become sentiment. That was the first time I felt my suspicion loosen into something less rigid.
+Lauren made a small sound—mostly pride. I felt my suspicion loosen into something less rigid.
 
-Not trust, yet. Too early for that.
-
-Just… assessment. Verification. Adding it up. I watched his hands, not his face. His hands weren’t performing. They were simply doing what they did when they weren’t told to do anything else. I pointed to the terms sheet on the bench.
+Not trust, yet. Assessment. Verification. Adding it up. I watched his hands, not his face. His hands weren’t performing. They were simply doing what they did when they weren’t told to do anything else. I pointed to the terms sheet on the bench.
 
 “Right. Then we add it,” I declared.
 
@@ -4555,11 +4859,14 @@ Charlie frowned. “Add what?”
 
 “We add a line about chores,” I replied. “So it’s explicit.”
 
-Lauren smiled at him. “She’s consistent, isn’t she?”
+Lauren smiled at him. “Celeste’s consistent, isn’t she?”
 
-I took the pen and wrote under CHORES:
-
-Charlie:kitchen reset after meals;bins if full;laundry only by agreement;no ‘helpful’ rearranging.
+I took the pen and wrote under CHORES:  
+Charlie:   
+kitchen reset after meals;  
+bins if full;  
+laundry only by agreement;  
+no ‘helpful’ rearranging.
 
 Charlie leaned in, reading as if it were a recipe.
 
@@ -4567,25 +4874,25 @@ Charlie leaned in, reading as if it were a recipe.
 
 “It means: if you want to change something, you ask.”
 
-“Okay,” he said, nodding, a simple, unemotional agreement with a rule.
+“Sure,” he said, nodding, a simple, unemotional agreement with a rule.
 
 Lauren watched him with quiet pride.
 
 “He’s like this at home,” she said gently. “Tidies up without noticing he’s tidying. If I leave a dirty pan out, I’ll turn around and it’s washed.”
 
-Charlie’s ears went yellow. “Mum.”
+Charlie’s ears went pink. “Mum.”
 
-Lauren smiled at him with a slight shrug. “It’s not an insult, darling. It’s competence.”
+Lauren smiled at him. “It’s not a dig. You’re competent.”
 
-Charlie looked down. “It’s just… I like things to work.”
+Charlie looked down. “It’s just—I like things to work.”
 
-Something in my caution shifted. Because “provider” energy needs an audience. This didn’t: this was just… functional. Private, almost shy. I leaned back against the bench and let my tone warm slightly. Not indulgent, just human.
+Something in my caution eased further. The usual male version of helpfulness always seemed to glance sideways, checking whether it had been noticed. Charlie didn’t. This was just functional. Private, almost shy. I leaned back against the bench and let my tone warm slightly. Not indulgent, just human.
 
-“Fine,” I said. “You can do the kitchen resets… on one condition.”
+“Fine,” I said. “You can do the kitchen resets—on one condition.”
 
 Charlie looked up, attentive.
 
-“If I’m studying,” I said, “you find something else to do, somewhere else to be. It’s not the right time to be ‘useful’. You need to let me work.”
+“If I’m studying,” I said, “you find something else to do, somewhere else to be. You need to let me work.”
 
 Charlie nodded. Lauren’s smile turned amused.
 
@@ -4598,11 +4905,12 @@ Charlie glanced at her, then back to me.
 I held his gaze.
 
 
+
 <img src="/assets/images/story/Scene21a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
 
 
-“Then ask,” I said. “I don’t bite.”
+“Then ask. I prefer questions to surprises.”
 
 “Okay.”
 
@@ -4610,7 +4918,7 @@ Lauren lifted her cup.
 
 “To boring competence,” she said lightly.
 
-I didn’t smile, but something in me eased, because I could begin to feel something: something that could get dangerous if I let it dress itself up as virtue.
+I began to feel something that could get dangerous if I let it dress itself up as virtue.
 
 It was relief: the quiet, addictive relief of having a supportive person in your space, one without an agenda. I could grow accustomed to that, if I wasn’t careful.
 
@@ -4622,6 +4930,7 @@ Charlie’s gaze flicked, briefly, to the signed sheet on the bench. Then he rea
 
 It was to be reliable.
 
+
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
 
@@ -4630,13 +4939,15 @@ It was to be reliable.
 
 
 
-## 22 Clean Help ✨
+
+
+## 22 Rails ✨
 
 [ *Celeste* ]
 
 That first night, I didn’t sleep properly.
 
-Not because Charlie was in the house. Not because I was afraid of anything. My brain just kept trying to process the new variable—new pattern, new friction, new risk—and it ran simulations the way it always did when I’d read too much research and not enough fiction.
+Not because Charlie was in the house or because I was afraid of anything. My brain just kept trying to process the new variable—new pattern, new friction, new risk—and it ran simulations the way it always did when I’d read too much research and not enough fiction.
 
 In the morning, I woke up irritable with myself.
 
@@ -4646,11 +4957,14 @@ CELESTE — STUDY (SACRED) 8:00–11:00
 
 Lauren had written it, I suspected. The handwriting had her quiet friendliness in it, the sort that made rules feel like care instead of control. Beneath it, in smaller, neater script:
 
-IF STUDY: NO TALK. TEA OK. EMERGENCY ONLY.
+IF STUDY:  
+NO TALK.  
+TEA OK.  
+EMERGENCY ONLY.
 
 Charlie’s.
 
-I stared at the line for a beat longer than necessary. It was sensible. It was also deeply relieving. When I stepped into the kitchen, Charlie was already there, moving carefully, like he was trying not to wake the air. A mug in his hand. A tea bag on a saucer, waiting. The sink empty. The dishcloth hung straight. Nothing rearranged. Nothing “improved”.
+I stared at the line for a beat longer than necessary. It was sensible. It was also deeply relieving. When I stepped into the kitchen, Charlie was already there, moving carefully, like he was trying not to wake the air. He had a mug in his hand with a teabag in it, waiting. The kettle was boiled, the sink was empty and the dishcloth hung straight. Nothing rearranged.
 
 He looked up, caught my eyes, then looked away again as if eye contact counted as noise. He stood very still, as if unsure whether he was permitted to remain while I was in the room. I pointed at the whiteboard.
 
@@ -4660,11 +4974,13 @@ Charlie glanced at it. “You said it mattered.”
 
 “It does.”
 
-He held the mug out without stepping closer. He didn’t cross any invisible line: he just offered. I took it. There was no sweetness in it that felt like a trap. No I did this for you energy. Just tea. A tool. A small lubrication of the morning.
+He made the tea and set the mug on the table. That's all it was. Just tea. A tool. A small lubrication of the morning.
 
 “Thank you.”
 
-His shoulders loosened almost imperceptibly, not because my thanks granted permission, but because it confirmed a fact: he hadn’t done the wrong thing. I took my mug and went back to my room.
+His shoulders loosened almost imperceptibly, not because my thanks granted permission, but because it confirmed the fact he needed confirmed: he hadn’t done the wrong thing. 
+
+I took the mug and went back to my room.
 
 For three hours, the house behaved. No music. No hallway pacing. No sudden questions that were really bids for attention. Once, a kettle clicked. Once, a cupboard closed softly. That was all.
 
@@ -4674,9 +4990,17 @@ When I emerged, eyes gritty from screens and concentration, the house smelled li
 
 “Hi,” I replied, and leaned against the bench.
 
+
+
+
+<img src="/assets/images/story/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+
+
+
 He waited. He’d learned the cadence of me: I spoke when I chose to. I didn’t need someone filling air space on my behalf. A plate sat on the counter with toast and fruit. Not prettified. Just there. Useful.
 
-“I didn’t know if you eat after you study,” Charlie said quietly, still not looking at me. “So I… made it. But if you don’t want—”
+“I didn’t know if you eat after you study,” Charlie said quietly, still not looking at me. “But if you don’t want—”
 
 I lifted a hand.
 
@@ -4687,10 +5011,6 @@ I lifted a hand.
 “This is fine.”
 
 His shoulders dropped a fraction. Relief. I sat and began to eat. The quiet felt earned, not imposed. After a minute, I said the thing that had been circling since yesterday.
-
-
-<img src="/assets/images/story/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
-
 
 “You really do a lot.”
 
@@ -4706,29 +5026,29 @@ He looked up properly then. His eyes had that flinch of a person who expects und
 
 “Okay,” he said cautiously.
 
-I took a bite of toast. Thought.
+I took a thoughtful bite of toast.
 
 “Is it because you think you have to?” I asked. “Or because you like it?”
 
 He blinked, genuinely puzzled by the question.
 
-“I… like things clean,” he said. “It makes it easier to think.”
+“I—like things clean,” he said. “It makes it easier to think.”
 
-“Yeah, you said that. So, it's not something you feel you need to do, it's just… life.”
+“Yeah, you said that. So, it's not something you feel you need to do, it's just—life.”
 
 “It’s not,” he said quickly, then stopped himself. Short answers. “Yeah.”
 
-I watched him a moment longer and felt my caution ease: not into softness or indulgence… into something quieter: a trust you build when behaviour keeps matching what your instincts predict.
+I watched him a moment longer and felt my caution ease into something quiet: a trust you build when behaviour keeps matching what your instincts predict.
 
-“No, that's good.”
+“No. That's good.”
 
 His fingers tightened around his pen, as if he’d been graded. Then I asked another question, one that I’d been circling, one I’d avoided because it felt like it might crack something open.
 
-“When you’re at Wardrobe,” I said, “when you’re working, do you feel… different?”
+“When you’re at Wardrobe,” I said, “when you’re working, do you feel—different?”
 
 Charlie froze. Not dramatically. Subtly. Like a muscle trying not to twitch.
 
-“Different?” He paused. “I don’t know.” I waited. He looked down at his notebook as if it might rescue him. “I feel… quieter,” he said finally. “Like, I’m not… always in trouble.”
+“Different?” He paused. “I don’t know.” I waited. He looked down at his notebook as if it might rescue him. “I feel—quieter,” he said finally. “Like, I’m not—always in trouble.”
 
 “Well, you’re not in trouble here,” I said. “And you’re not in trouble there.”
 
@@ -4738,11 +5058,11 @@ His mouth tightened. He didn’t argue, but his face told me he couldn’t accep
 
 He shook his head quickly.
 
-“I can just… do the work,” he said. “And I don’t have to… worry about stuff.”
+“I can just—do the work,” he said. “And I don’t have to worry about stuff.”
 
 I nodded slowly, letting him keep his defences without letting them become walls.
 
-“That’s… interesting.”
+“That’s—interesting.”
 
 He blinked. Gave me a sidelong glance. “Interesting.”
 
@@ -4762,7 +5082,7 @@ He let out a breath that sounded like relief disguised as agreement. I leaned fo
 
 His eyes flicked away.
 
-“I think… I guess I always sort of did it,” he said. Then, very quietly: “Mum just… didn’t stop me.”
+“I think—I guess I always sort of did it,” he said. Then, very quietly: “Mum just—didn’t stop me.”
 
 That landed harder than I expected. I sat back and let the information settle, the way you let a pattern piece stop shifting before you cut. Then I fixed him with a direct look.
 
@@ -4770,7 +5090,7 @@ That landed harder than I expected. I sat back and let the information settle, t
 
 Charlie stared at the table for a moment. Finally, he nodded.
 
-I watched him, and something in my mind rearranged itself: not because he’d done anything dramatic, but because he hadn’t. He wasn’t trying to impress me. He wasn’t trying to win me. He wasn’t turning my house into a stage. He was just being himself: a person with a powerful instinct toward order and care. An instinct that, in a lot of boys, gets mocked out of them before it’s old enough to become a skill.
+I watched him, and something in my mind rearranged itself. He wasn’t trying to impress me or win me. He wasn’t turning my house into a stage. He was just being himself: a person with a powerful instinct toward order and care. An instinct boys often lose because someone mocks it before it has time to become a skill.
 
 He couldn’t name it. He just lived it, quietly, and hoped nobody would try to take it from him. I set my mug down. I made the decision the only way I knew how: plainly.
 
@@ -4778,7 +5098,7 @@ He couldn’t name it. He just lived it, quietly, and hoped nobody would try to 
 
 He waited.
 
-“Your help will stay as we wrote it,” I said, “and… no earning. No trading. No silent scorekeeping. If I think you’re starting to do things to buy attention, gratitude, permission, whatever… I will tell you. Straight-away. I know you wouldn’t mean to,” I added. “But intent doesn’t run a house. Terms do.”
+“Your help will stay as we wrote it,” I said, “and—no earning. If I think you’re doing things to buy attention, gratitude, whatever—I will tell you immediately. I know you wouldn’t mean to,” I added. “But intent doesn’t run a house. Terms do.”
 
 “Okay,” he said, and this time it sounded less like compliance and more like understanding. I stood, picked up my mug, and paused at the doorway to my room.
 
@@ -4788,13 +5108,15 @@ He waited.
 
 “The whiteboard,” I said. “If it says STUDY, you don’t talk unless the house is on fire.”
 
-His face coloured: pleased. Then, because I understood the engine under him, I added: “Make a second sign,” I said. “For when I’m done. So you don’t have to guess.”
+His face coloured: pleased. Then, because I understood the engine under him, I added: 
+
+“Make a second sign,” I said. “For when I’m done. So you don’t have to guess.”
 
 His eyes widened slightly. Guessing was his old habit. Guessing was the thing that made him anxious.
 
 “A second sign?”
 
-“Yes,” I said. “Write whatever you like. As long as it’s factual.”
+“Yes,” I said. “Write whatever you like. I'll tell you if it sounds right.”
 
 He looked down at his notebook, then up at me.
 
@@ -4804,11 +5126,12 @@ He looked down at his notebook, then up at me.
 
 Charlie picked up his pen again.
 
-For the first time since he’d moved in, the house didn’t feel like a risk.
+His presence no longer felt like a risk.
 
-It felt like a system we could both live inside—without anyone losing themselves.
+It felt like a system we could both live inside.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+
 
 
 
@@ -4822,13 +5145,17 @@ It felt like a system we could both live inside—without anyone losing themselv
 
 The first week was friction finding new places to hide. Charlie had moved in on a Tuesday. By Friday, it was obvious the house was either going to become a second worksite—clean, repeatable, calm—or it was going to dissolve into the kind of domestic mush that eats ambition by the tablespoon.
 
-I wasn’t sentimental about it. I was annoyed.
+It annoyed me.
 
-Annoyed that something as stupid as a dish left on a bench could pull my attention away from a paragraph that mattered. Annoyed that my brain, when it got tired, started inventing stories about other people’s motives. Annoyed, mostly, that I couldn’t afford to waste time being vague.So I did what I always did when something mattered: I made it measurable.
+Annoyed, that something as stupid as a dish left on a bench could pull my attention away from a paragraph that mattered. Annoyed that my brain, when it got tired, started inventing stories about other people’s motives. Annoyed, mostly, that I couldn’t afford to waste time being vague.
 
-The terms sheet lived on the kitchen bench, clipped to a board like a work order: not because anyone needed reminding, but because in my house, the rules didn’t live in someone’s mood. They lived on paper. The whiteboard became the real hinge. Two cards sat propped against the marker tray.
+So I did what I always did when something mattered: I made it measurable.
 
-Cardboard, black marker, painfully literal: IN SESSION.
+The terms sheet lived on the kitchen bench, clipped to a board like a work order: because in my house, the rules didn’t live in someone’s mood—they lived on paper. The whiteboard was the hinge. Two cards sat propped against the marker tray.
+
+Cardboard, black marker, painfully literal: 
+
+IN SESSION.
 
 AVAILABLE.
 
@@ -4836,35 +5163,40 @@ Charlie had made them.
 
 “You didn’t have to,” I said one morning, reaching for my mug.
 
-“I know,” he replied. “It’s just… easier.”
+“I know,” he replied. “It’s just—easier.”
 
 I realised something that week: Charlie’s support instinct wasn’t emotional; it was mechanical. He reset rooms the way some people reset their posture. Not for applause or closeness: for equilibrium.
 
-I could live with that. I could even grow accustomed to it, if I wasn’t careful.
+I could live with that, even grow accustomed to it.
 
 A text came in while I was still standing at the counter.
 
 Lauren.
 
-How’s the house?Is he behaving?
+*How’s the house?*   
+*Is he behaving?*
 
 I snorted.
 
-Charlie glanced up. “What?”
+Charlie glanced up. “What.”
 
 “Your mother thinks you’re a puppy.”
 
-His ears coloured. “She… she worries.”
+His ears coloured. “She—she worries.”
 
-“She’s a mum… she’s allowed,” I said with a smile. Lauren wasn’t meddling: just reminding us guardrails existed.
+“She’s a mum—she’s allowed,” I said with a smile. Lauren was just reminding us guardrails existed.
 
 I typed back:
 
-House is fine. He’s quiet. We’re not improvising.
+*House is fine.*   
+*He’s quiet.*   
+*We’re not improvising.*
 
 A second message arrived almost immediately:
 
-Good. Keep it boring. Boring is safe.
+*Good.*  
+*Keep it boring.*  
+*Boring is safe.*  
 
 I showed Charlie the message.
 
@@ -4888,15 +5220,15 @@ Charlie sat at the kitchen table with a notebook open, drawing boxes. Not sketch
 
 He hesitated, then pushed it toward me.
 
-“It’s… a checklist.”
+“It’s—a checklist.”
 
 “A checklist for what?”
 
-“For the museum run.”
+“For the next big Faire run.”
 
-My chest tightened with recognition. The work followed him home the way it followed me. That was the strength of it… and of him. He tapped the page.
+My chest tightened with recognition. The work followed him home the way it followed me. That was the strength of it—and of him. He tapped the page.
 
-“Hardware packs,” he said. “Cut order. QC points. Delivery labels. Like mum said. To stop bleeding time.”
+“Hardware packs,” he said. “Cut order. Quality Control points. Delivery labels. Like mum said. To stop bleeding time.”
 
 I studied his boxes and felt a grudging admiration. It was practical.
 
@@ -4906,19 +5238,19 @@ Charlie blinked. “It is?”
 
 “Yes,” I replied. “It’s clean.”
 
-His seemed visibly relieved that someone was naming his work as work and didn’t turn it into a story about him.
+He seemed visibly relieved.
 
 A knock came at the front door.
 
-It was Lauren, with a tote on her shoulder, cheeks flushed from the heat, looking like she’d fought traffic and won. The kind of woman who’d learned, with Roger, that you don’t wait for a man to stabilise a household: you build your own scaffolding and keep going. She saw the notebook immediately.
+It was Lauren, with a tote on her shoulder, cheeks flushed from the heat, looking like she’d fought traffic and won. The kind of woman who’d learned that you don’t wait for a man to stabilise a household: you build your own scaffolding and keep going. She saw the notebook immediately.
 
 “Ah,” she said, and smiled: proud in a quiet way. “Look at that.”
 
-Charlie went yellow.
+Charlie went pink.
 
-Lauren set her tote down and began unloading it: a roll of tape, a packet of labels, a small box of grommets. It was like she couldn’t enter a room without bringing its next solution.
+Lauren set her tote down and began unloading it: a roll of tape, a packet of labels, a small box of grommets.
 
-“Mara rang,” Lauren said, and her tone shifted. “Museum’s confirmed pick-up windows. They want reliability. Not ‘sometime Friday’. Proper time slots.”
+“Mara rang,” Lauren said, and her tone shifted. “The Faire’s confirmed pick-up windows. They want reliability. Not *sometime Friday.* Proper time slots.”
 
 Charlie’s pencil hovered over his checklist.
 
@@ -4926,13 +5258,13 @@ Charlie’s pencil hovered over his checklist.
 
 Lauren’s smile turned sharp.
 
-“Yes,” she said. “If we stop making it up as we go.”
+“Yes,” she said, “if we stop making it up as we go.”
 
 Mara’s voice came through Lauren even when Mara wasn’t here. I felt an irritation rise: not at the pressure, at the stupidity of the world requiring women to be twice as organised to be taken half as seriously.
 
 Lauren looked at me.
 
-“You’ve got Uni paperwork to do,” she said. “Applications, fees, the whole circus.”
+“You’ve still got Uni paperwork to do,” she said. “Applications, fees, all that.”
 
 “Yes,” I replied, already feeling tired.
 
@@ -4946,7 +5278,7 @@ Lauren’s eyes flicked to him: warm, but not soft.
 
 “I mean,” she said, “that if Celeste is doing this, she does it properly. And if you want to be useful, you be useful in ways that don’t steal time from Celeste.”
 
-Charlie nodded, as if he’d been handed a specification.
+Charlie nodded as if accepting a work order.
 
 “Yes, mum.”
 
@@ -4958,9 +5290,12 @@ I watched them for a moment: the mother who did adulthood like a craft, and the 
 
 A message from Mara.
 
-Tomorrow. 7:30. Museum call. Bring the numbers.
+*Tomorrow.*   
+*7:30.*   
+*Faire Admin call.*   
+*Bring the numbers.*
 
-I stared at the words and felt the future click into place. As a workload. As a shop. As a life that would either be governed… or would take whatever it wanted. I put the phone down and picked up a pen. If Mara wanted numbers, she’d get numbers. And if my study hours were going to survive the museum run, then the house would stay boring. Not because I was controlling: because I was serious. Charlie looked up from the checklist.
+I stared at the words and felt the future click into place. As a workload. As a shop. As a life that would either be governed, or would take whatever it wanted. I put the phone down and picked up a pen. If Mara wanted numbers, she’d get numbers. And if my study hours were going to survive this big Faire run, then the house would stay boring. Not because I was controlling: because I was serious. Charlie looked up from the checklist.
 
 “Do you want me to stop,” he asked, careful, “when you’re writing?”
 
@@ -4968,10 +5303,16 @@ I met his eyes.
 
 “No,” I said. “Just no extra chatter.”
 
-For the first time, I understood the real shape of what was happening. It had been clear from the outset that Charlie wasn’t moving into my life as a romantic gesture. What wasn't clear at first, but became increasingly apparent was that he was moving into it like a support structure. My focus was to make sure the beam didn’t start thinking it was the roof. I tapped the whiteboard.
+For the first time, I understood the real shape of what was happening. 
+
+It had been clear from the outset that Charlie wasn’t moving into my life as a romantic gesture. What wasn't clear at first, but became increasingly apparent was that he was moving into it like a support structure. My focus was to make sure the beam didn’t start thinking it was the roof. 
+
+I tapped the whiteboard.
+
 
 
 <img src="/assets/images/story/Scene23a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
 
 
 “Available,” I added. “For ten minutes.”
@@ -4982,14 +5323,20 @@ Charlie’s mouth twitched: he almost allowed himself a smile.
 
 “My stars,” she said affectionately. “You two are a couple of weirdos.”
 
-I didn’t deny it. I set the timer on my phone, sat at the table, and watched them continue to draw boxes. Work, at least, was something we all understood.And boredom—sweet, structured boredom—was how we were going to survive.
+I didn’t deny it. 
+
+I set the timer on my phone, sat at the table, and watched them continue to draw boxes. 
+
+Work, at least, was something we all understood.
+
+And boredom—sweet, structured boredom—was how we were going to survive.
 
 <hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
 
 
 
 
-/-->
+
 
 <!--
 

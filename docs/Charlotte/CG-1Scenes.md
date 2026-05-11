@@ -3778,7 +3778,10 @@ Competence could become a habit, and habits would hold you up when people couldn
 
 <img src="/assets/images/story/Scene19a.jpg" style="float: right; width: 440px; margin-left: 20px" />
 
-[ *Celeste* ]
+✨ The Numbers ✨
+
+
+ [Celeste]
 
 Mara didn’t call a meeting. She called me to the cutting table the way she called anyone: a hand gesture that assumed you’d come, and a tone that didn’t waste time making you feel chosen.
 
@@ -3844,9 +3847,7 @@ Mara’s gaze cut to her.
 
 “With what money?”
 
-Sarah opened her mouth, then shut it. 
-
-Mara treated doors as hinges.
+Sarah opened her mouth, then shut it.
 
 Lauren slid another sheet forward. This one looked uglier: spreadsheets always do when they tell the truth.
 
@@ -3876,6 +3877,7 @@ Mara’s eyes flicked to her—clean, flat.
 
 Charlie stared at the numbers until they stopped being numbers and started being time.
 
+Scene19a
 “We could... reduce prototype cycles,” he said slowly, “and standardise more steps. Templates. Hardware packs. Cutting order.” His eyes lifted, cautious. “Scheduling.”
 
 Mara nodded once.
