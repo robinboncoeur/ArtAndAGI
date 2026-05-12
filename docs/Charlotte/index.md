@@ -82,6 +82,8 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
 
 ---
 
+Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
+
 ### Introduction
 
 <div class="music-card music-card--with-art">
@@ -107,7 +109,7 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
       <em>Wrong place, head in the clouds lad</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/wFkTnQEDGtsPYMG/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/YiCNakaLLPjgges/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -125,7 +127,7 @@ Cinematic medium close-up portrait of a young woman with soft, natural features 
       <em>The held-back boy</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pAxjCoXKMSDRNGM/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/SLyHnCYEridfNRk/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
