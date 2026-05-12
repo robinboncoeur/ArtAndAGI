@@ -1297,3 +1297,443 @@ Fiona’s regard helps establish that Charli is becoming credible and valued in 
 - emotional vocabulary bank for each POV
 
 _End of working draft._
+
+
+
+
+
+## ElevenLabs Character Cards
+### Discussion
+
+Yes — this is exactly where the project quietly becomes **audio drama production**, not just “generate some narration.” Ben-Hur with corsets and better women. 😄
+
+I think your instinct is right, but I’d keep it disciplined. You don’t need a full cast decided immediately. You need a **core voice bible**.
+
+## Minimum viable cast
+
+For now, I’d lock these first:
+
+```text
+Celeste — Freya
+Charlotte — Daisy, perhaps
+Sarah
+Lauren
+Mara
+```
+
+Those are the structural voices. They carry authority, intimacy, judgement, correction, tenderness, and narrative weight.
+
+Everyone else can wait unless they have major spoken passages.
+
+## My suggested priority order
+
+### 1. Celeste
+
+Absolutely first. Celeste is the spine of the audio version. If Freya is working, protect her fiercely.
+
+Her voice needs to be:
+
+```text
+dry
+intelligent
+young but not childish
+observant
+slightly controlled
+capable of warmth without becoming sentimental
+```
+
+The danger with Celeste is making her too theatrical. She should sound like she knows more than she says.
+
+### 2. Charlotte / Charli
+
+Charlotte needs contrast, but not caricature. Daisy may work if she gives you softness without turning Charlotte into a waif.
+
+Charlotte’s voice should have:
+
+```text
+uncertainty early
+careful diction
+increasing composure
+a slightly inward quality
+later, quiet confidence
+```
+
+She should not sound “weak.” She should sound like someone who has spent years making herself smaller, and is now learning how to occupy the air.
+
+### 3. Sarah
+
+Sarah needs to be distinct. Strong accent, dry blade, emotional restraint. If she sounds too warm too early, she loses her function.
+
+Her voice needs:
+
+```text
+acerbic wit
+UK edge
+competence
+impatience
+buried loyalty
+```
+
+Sarah is the one who can say something almost cruel and somehow be doing repair work with it.
+
+### 4. Lauren
+
+Lauren should feel adult, grounded, maternal, but not syrupy. She is not “soft mum voice.” She has moral authority.
+
+She needs:
+
+```text
+warmth
+fatigue
+practicality
+guilt under control
+a woman who has had to keep going
+```
+
+Lauren’s danger is sounding generic. She needs a little worn-in truth.
+
+### 5. Mara
+
+Mara must be unmistakable. She is Wardrobe given vocal form.
+
+She should sound:
+
+```text
+measured
+dry
+standards-driven
+unflustered
+not warm by default
+quietly formidable
+```
+
+Mara should not need volume to dominate a room.
+
+## Secondary cast
+
+I’d decide these next, but only after the core five are stable:
+
+```text
+Lucy
+Brittany
+Lisa
+Graham
+Roger
+```
+
+### Lucy
+
+Lucy needs presence and intelligence, but probably not as severe as Sarah or Mara. She can have liveliness, ideological clarity, warmth.
+
+### Brittany
+
+Brittany should feel steadier than Lisa. Resilient. Less dazzled. More grounded.
+
+### Lisa
+
+Lisa can be brighter, younger, slightly more fragile, perhaps a little too eager around Charlotte.
+
+### Graham
+
+Graham does not need to be beautifully cast unless he speaks often. He needs to sound like institutional male authority under pressure. Not villainous. Just accustomed to being answered.
+
+### Roger
+
+Roger matters more emotionally than Graham. If Roger has only a few scenes, his voice still has to land. He should sound like history walking into the room.
+
+Not cartoonishly awful. More dangerous if he sounds ordinary.
+
+## The important production rule
+
+Don’t choose a voice because it sounds good for one line.
+
+Choose it because it can survive:
+
+```text
+calm narration
+argument
+tenderness
+short dialogue tags
+names
+emotional restraint
+British/Australian vowels
+repeated regeneration without drifting
+```
+
+That last one is huge. A voice that sounds lovely once but cannot say “Charlie” correctly three times is a traitor in a silk scarf.
+
+## Make a voice bible
+
+I would create a small document like this:
+
+```text
+Character: Celeste
+Voice: Freya
+Model:
+Settings:
+Stability:
+Similarity:
+Style:
+Speaker Boost:
+Pronunciation notes:
+  Charlie = Chahlie
+  Mara = Mahra
+Performance notes:
+  dry, restrained, never breathy, warmth appears rarely and matters
+Test lines:
+  “Chahlie,” I said lightly.
+  “No. That’s not what we agreed.”
+  “I knew I was right. That didn’t make me innocent.”
+```
+
+Do that for each major character. The **test lines** are crucial. Every voice must pass its own little audition.
+
+## My strong recommendation
+
+For now, don’t cast everyone. Cast by **production need**:
+
+```text
+Tier 1: Celeste, Charlotte, Sarah, Lauren, Mara
+Tier 2: Lucy, Brittany, Lisa
+Tier 3: Graham, Roger, other men
+```
+
+The women need nuance and consistency. The men can be cast later unless they carry a major emotional scene.
+
+And honestly, that fits the story beautifully: the world is held together by women’s voices. The male voices enter as pressures, interruptions, history, or institutional noise. They matter, but they do not organise the room. 🌺
+
+
+
+
+
+
+
+
+
+## Further Notes
+
+Robyn   
+Confirmed: Charlotte's voice is Daisy. I selected her because one could say she sounds a bit like a boy whose voice hasn't broken yet, which—fortunately for Charlotte—never did happen. Daisy might sound a bit too confident, perhaps, however.
+The "Australian" voices on ElevenLabs... aren't. Not Aussie at all. Because most of my lovely readers are likely from the US, they simply cannot distinguish between Aussie, Kiwi, South African or POME. It took my the better part of a year before I could "pick the Kiwi".
+So, better for them my characters have a Aussie-adjacent accent vs Valley Girl USA.
+
+
+[Emily]   
+Confirmed: **Charlotte = Daisy**. That makes excellent sense. 🌺
+
+And your reasoning is strong: Daisy gives Charlotte that slightly high, unbroken quality without making her sound like an affected “female impersonation” voice. For Charlotte, that’s important. She shouldn’t sound like someone performing femininity. She should sound like someone whose voice never quite went where the world expected it to go — and who has quietly lived with that fact.
+
+The “too confident” issue may actually be manageable through **text and direction**, rather than changing the voice. Charlotte’s confidence should evolve anyway, so Daisy being a little too composed could become an asset later. Early Charlotte can be softened by the writing:
+
+```text
+shorter replies
+more hesitation
+fewer declarative sentences
+more “I think”
+more self-correction
+lighter punctuation
+less rhetorical flourish
+```
+
+For example:
+
+```text
+“I can do that,” Charlotte said.
+```
+
+is confident.
+
+But:
+
+```text
+“I think I can do that,” Charlotte said.
+```
+
+or
+
+```text
+“I can try,” Charlotte said.
+```
+
+gives Daisy less room to sound assured.
+
+For TTS, even tiny wording shifts matter.
+
+## On the accent question
+
+I agree with you completely. For your likely audience, **Aussie-adjacent / educated Commonwealth** is far better than “technically labelled Australian but somehow wandered in from California.”
+
+Most US listeners will hear broad categories:
+
+```text
+American
+British-ish
+Australian-ish
+Irish/Scottish-ish
+Other
+```
+
+They generally will not reliably separate:
+
+```text
+Australian
+New Zealand
+South African
+educated English
+mild trans-Tasman
+```
+
+And honestly, that works in your favour. What matters is that the voices feel **not American**, because American vowels would break the social texture of Wardrobe immediately.
+
+“Valley Girl Celeste” is not a tolerable continuity error. That’s a hostile takeover. 😄
+
+## I’d define the project accent target as:
+
+```text
+Educated Commonwealth, lightly Australian-adjacent
+```
+
+Not broad Aussie. Not caricature. Not Crocodile Dundee. More:
+
+```text
+clear vowels
+soft authority
+non-rhotic tendency where possible
+measured delivery
+no American R-dragging
+no upward Valley Girl glide
+```
+
+That gives you a consistent sound-world without fighting ElevenLabs too hard.
+
+## Current voice bible
+
+So far:
+
+```text
+Celeste — Freya
+Charlotte — Daisy
+```
+
+I’d write Charlotte’s note as:
+
+```text
+Charlotte / Charli
+Voice: Daisy
+Quality: high, clear, unbroken, soft but not weak
+Early performance: tentative, inward, careful
+Later performance: steadier, warmer, quietly self-possessed
+Pronunciation:
+  Charlie = Chahlie when needed
+  Charlotte = Shahlotte / Shah-lotte if required
+Avoid:
+  excessive confidence early
+  perky modern-girl brightness
+  American R colouring
+```
+
+And Celeste:
+
+```text
+Celeste
+Voice: Freya
+Quality: dry, intelligent, controlled, young but precise
+Performance: observant, mildly dangerous, warmth used sparingly
+Pronunciation:
+  Charlie = Chahlie
+Avoid:
+  Valley Girl
+  theatrical emotionality
+  breathy intimacy unless specifically needed
+```
+
+The next voice I’d cast is **Sarah**. She is the one most likely to collapse if the accent is wrong. Sarah needs edge, timing, and a voice that can make a correction sound like both an insult and a favour. She may be the hardest one after Celeste.
+
+
+
+---
+
+
+[Robyn]   
+I love this:
+Not broad Aussie. Not caricature. Not Crocodile Dundee.
+Or my brother-in-law. Look, I've lived in Oz now for 26 years, but DANG that boy's ocker! Wish he came with subtitles, sometimes.
+
+There's a fair assortment of British accents. She's a dry one, so I already have a couple of candidates that should work.
+Lauren? English with a French background? Well, no, Rossignol is Roger (I knew a 'Roger' back in Orleans—he was a plumber, contractored to my uncle, nice bloke, though). Still, why not? Mara sees something French in Lauren, so who knows.
+
+
+[Emily]   
+Ha! “Wish he came with subtitles” is brutally perfect. 😄 And yes — that is exactly the danger with “Australian” voices in TTS. They tend to swing between **not Australian at all** and **pub-verandah ocker caricature**, with very little in the elegant middle where your story actually lives.
+
+For Sarah, a dry British voice is probably ideal. She doesn’t need to sound regionally precise so much as socially and emotionally precise. I’d avoid anything too lush, posh, or theatrical. Sarah should sound like she can turn a room with half a sentence and not bother raising her voice.
+
+For her voice bible:
+
+```text
+Sarah
+Accent target: dry British / Commonwealth edge
+Quality: sharp, observant, unsentimental
+Delivery: quick when amused, flat when annoyed, almost gentle only when it matters
+Avoid:
+  posh melodrama
+  cosy auntie warmth
+  broad comic accent
+  sounding older than she is
+Test lines:
+  “That shirt is doing you no favours.”
+  “Don’t look at me like that. I’m right.”
+  “You’re allowed to care what you look like, you know.”
+```
+
+Lauren is more interesting. I don’t think she needs to be French-accented. In fact, I’d be cautious there. A French accent could make her too “flavoured” when Lauren’s emotional function is grounded motherhood, guilt, steadiness, and belated seeing. But a **French background somewhere in the family texture**? Lovely. That could explain why Mara senses something in her without turning Lauren into a walking accent note.
+
+Rossignol belonging to Roger is useful, actually. It means Lauren’s connection to Frenchness could be by marriage, family history, or simply through names and cultural residue rather than speech. Mara “seeing something French in Lauren” could be less about accent and more about carriage, restraint, manners, or even a specific way Lauren handles fabric, food, music, household order, or apology.
+
+Something like:
+
+```text
+Lauren
+Accent target: educated Australian/Commonwealth, possibly faint English colouring
+Quality: warm, tired, practical, morally centred
+Delivery: maternal but not soft; guilt held under discipline
+Avoid:
+  syrupy mum voice
+  broad Aussie
+  French accent unless deliberately textual
+  excessive polish
+```
+
+And if you do want the faint French thread, I’d make it **subtextual**, not vocal:
+
+```text
+Mara heard it before I did: not an accent, exactly. A way Lauren held a pause, as if language had once been expected to behave itself around her.
+```
+
+Or a little plainer:
+
+```text
+Mara seemed to find something French in Lauren. Not in her voice. In her restraint, perhaps. In the way she made apology sound like a duty rather than a collapse.
+```
+
+That’s much more elegant than giving Lauren an audible French accent out of nowhere.
+
+For Lauren’s actual ElevenLabs choice, I’d look for a voice that sounds:
+
+```text
+late 30s to 40s
+educated but not posh
+warm but not indulgent
+capable of firmness
+not American
+```
+
+She must be able to say:
+
+```text
+“Charlie.”
+```
+
+and make it mean four things at once: love, worry, warning, and recognition.
+
+That’s Lauren. Not French exactly. But perhaps with enough Rossignol in the family weather that Mara notices the air shift. 🌺
