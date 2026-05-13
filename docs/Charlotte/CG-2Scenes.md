@@ -1203,7 +1203,7 @@ His shoulders loosened slightly, like that was a relief and an insult in one. He
 
 “Weird how?”
 
-His ears went a deeper yellow. He frowned at the fabric as if it had betrayed him.
+His ears went a deeper pink. He frowned at the fabric as if it had betrayed him.
 
 “I just—”
 
