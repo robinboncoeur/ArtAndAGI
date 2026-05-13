@@ -47,11 +47,24 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 
 
-## 1 Are You Lost? ✨ 
+## 1 Are You Lost?
 
 <a href="/assets/images/story/Scene01a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
+---
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene One</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/YiCNakaLLPjgges/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
 
 [ *Celeste* ]
 
@@ -163,10 +176,24 @@ I don’t always leave it alone.
 
 
 
-## 2 Group Task ✨
+## 2 Group Task
 
 <a href="/assets/images/story/Scene02a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene02a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+---
+
+<div class="music-card music-card--with-art">
+  <div class="music-content">
+    <div class="music-label">Scene Two</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/SLyHnCYEridfNRk/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
 
 [ *Celeste* ]
 
