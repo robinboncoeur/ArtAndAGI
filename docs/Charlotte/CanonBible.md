@@ -1737,3 +1737,13 @@ She must be able to say:
 and make it mean four things at once: love, worry, warning, and recognition.
 
 That’s Lauren. Not French exactly. But perhaps with enough Rossignol in the family weather that Mara notices the air shift. 🌺
+
+
+
+
+
+
+
+## Work Text for Audio
+
+Celestes Girl. Scene five, second day.
