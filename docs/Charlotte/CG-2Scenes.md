@@ -187,7 +187,7 @@ I don’t always leave it alone.
   <div class="music-content">
     <div class="music-label">Scene Two</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/SLyHnCYEridfNRk/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/rNE8nr37HnWRGAo/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -395,6 +395,22 @@ I could feel him watching me walk away.
 
 <a href="/assets/images/story/Scene03a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+---
+
+<div class="music-card music-card--with-art">
+  <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
+
+  <div class="music-content">
+    <div class="music-label">Scene Three</div>
+    <audio controls preload="metadata" class="music-player">
+      <source src="https://cloud.seabrae.org/index.php/s/ZNMCDnnaa3MfAbo/download" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+---
 
 [ *Celeste* ]
 
