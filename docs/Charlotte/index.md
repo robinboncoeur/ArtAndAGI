@@ -109,7 +109,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
       <em>Wrong place, head in the clouds lad</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/YiCNakaLLPjgges/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/f6zWDZpFj88Eo6n/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -127,7 +127,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
       <em>The held-back boy</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/SLyHnCYEridfNRk/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/rNE8nr37HnWRGAo/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -145,7 +145,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
       <em>Who did this?</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/KwgtAraTMpGWztt/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/ZNMCDnnaa3MfAbo/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -163,7 +163,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
       <em>Don't apologise, just learn</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/sXQWkWf96AfDk7m/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
@@ -188,6 +188,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
 </div>
 
 ---
+
 <div class="music-card music-card--with-art">
   <img src="/assets/images/story/Scene06a.jpg" alt="Charlie" class="music-art">
 
@@ -198,7 +199,7 @@ Celeste's Voice on ElevenLabs: Freya (u8ADrbquiJqufR9XMtb8)
       <em>Don't apologise, just learn</em>.
     </p>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/pxxTgGxotjsJP6q/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/wFoa4gMQqwNEd3c/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
