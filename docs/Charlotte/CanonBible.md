@@ -1746,4 +1746,12 @@ That’s Lauren. Not French exactly. But perhaps with enough Rossignol in the fa
 
 ## Work Text for Audio
 
-Celestes Girl. Scene five, second day.
+Celests Girl. Scene six.
+—
+Answers.
+
+
+
+"Rossinyol.”
+—
+I stopped to taste it. “French for: Nightingale.”
