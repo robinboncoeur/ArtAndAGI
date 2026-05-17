@@ -1,34 +1,46 @@
-# My Art Pages
+# Art and Writing
 
 
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
-
-<div class="flex-container" markdown>
-<div class="column">
-
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
+{% artR "07-WritingFriday.jpg", "Celeste writing", 460 %}
 
 
-</div>
-<div class="column column--right" markdown>
-Celeste explains to Charlie (she calls him 'Sharl', like, short for 'Charlemagne?') about genetics and human development at the embryonic stages, as she understands it. Her explanation is over-simplified - chromosomes matter - but it serves the purpose. Charlie is besotted with her and unquestioningly accepts any wisdom she may share with him.
-  
-This bit did leave him a bit perturbed, of course.
-  
-He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
 
-**Side Note:**  
-*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](Charlotte/CG-1Scenes.md)*.
-</div>
-</div>
+## Women Were Never the Footnote
+
+<img src="/assets/images/story/07-WritingFriday.jpg" style="float: right; width: 460px; margin-left: 20px; margin-bottom: 10px;" />
+
+This site begins with a simple refusal:
+
+*women are* **not** *the supporting cast of human history*.
+
+For centuries, patriarchy trained societies to treat men as default and women as exception — useful, ornamental, obedient, domestic, secondary. That mindset did not merely limit women. It cancelled genius, labour, ambition, authority, anger, wit, desire, and whole lives before they were allowed to become visible.
+
+These pages explore that cancellation through history, fiction, image-making, and research. The first worlds considered here are eighteenth-century France—the polished, unequal world before the Revolution—and early nineteenth-century France, where the promises of liberty had already begun to curdle into new forms of control.
+
+I am interested in what those worlds did to women: what they permitted, what they punished, what they made invisible, and what women preserved anyway.
+
+I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/CG-2Scenes.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
+
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+
+
+
+
+
+## The Technology
+
+The visual work here was created using ComfyUI, a node-based Stable Diffusion interface that gives me the flexibility to build, test, revise, and refine images as part of the storytelling process. The text is accompanied by audio files, which include short clips of the sort of music that provided the emotional atmosphere when I wrote. The music was created by transcribing notes from score PDFs into MuseScore, then rendering and refining the result in Reaper. Where possible, I use public-domain or otherwise permissible source material and avoid using commercial recordings.
+
+I use Large Language Models as part of my creative workflow, not as a substitute for imagination, but as a demanding collaborator: useful for research, structure, revision, and turning rough language into clean, enjoyable prose.
+
+This is a working space.
+
+*A place to learn more about women’s lives.*  
+*A place to test ideas.*  
+*A place to make images and stories.*  
+
+*A place to put women back where they always belonged:* **at the centre**.
+
 
 <hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
@@ -37,63 +49,29 @@ He failed to comprehend what she was driving at with this, and, in the story, ju
 
 
 
+## Guiding Principles
 
-## Foreword
+This story is still in progress, somewhere around the middle of its second act. It is not a finished monument. It is a working structure.
 
-<img src="/assets/images/story/07-WritingFriday.jpg" style="float: right; width: 300px;margin-left: 20px; margin-bottom: 10px;" />
+Its purpose is clear: agency, respect, consent, safety, and the protection of the vulnerable.
 
-These pages explore the cancelling of a full one-half of humans through a cruel, unjust mindset called the 'patriarchy'. In them I share a story based on that theme, with information I'm sort-of picking up chatting with Emily (ChatGPT).
+Wardrobe is built on standards. No one gets to dominate, coerce, objectify, or exercise privilege there without being seen. Harm may occur; stories need friction. But harm is not treated as spectacle, romance, or entertainment. When boundaries are crossed, there are consequences.
 
-Hope to learn more about life **for women** in the 1880s (19th Century), the Victorian Period.
+Because standards mean very little unless they are enforced.
 
-The image and the video were created using ComfyUI as my Stable Diffusion interface because of its flexibility and power through the use of nodes.
+That may make the story uncomfortable for some readers. It does not flatter entitlement. It does not reward coercion. It does not present vulnerability as something to consume.
 
-Note: *I'm also exploring other avenues, such as Large Language Models (LLMs) to create stories and refine my own pathetic text into something readable. However, as I wrote on the Unofficial Audio at The Edge Discord today*:
+This is not a story about permission to look.
 
-Style-wise, I was going to go with something like Taffy Brodesser-Akner's, but it's too distinctively hers to even emulate. That's not what I want to do. I want readability, that's all. And my "style" is awkward and disjointed.
+It is a story about who has power, who has safety, who is believed, and who is finally allowed to stand at the centre of her own life.
 
-So, there's that. 🫢
+I am not writing it to chase a market. I am writing it because the subject matters. 
 
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
-
-
-
-
-
-
-**Guiding Principles**
-
-This story is at about middle of Act Two of my 'story arc'. As in: far from done. And it's a story with a purpose: agency, respect, consent, safety. Protect the vulnerable. No one gets to dominate, or coerce, or exercise privilege at Wardrobe. There's no spectacle to ogle, no objectification of persons permitted. 
-Does it happen? yes. But there are  consequences because: standards. Policy. 
-
-It makes this story a bit different, and for some, send an uncomfortable message. I doubt it would translate into like a comics format well. 
-
-I'm not writing to get paid: I'm writing from a moral imperative. 
-
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
 
-
-
-
-**About my images and stories**
- 
-
-The Celeste’s Girl / Wardrobe images and stories are part of a long, carefully structured arc. They’re built around a few non-negotiables: agency, respect, consent, safety, and protection of the vulnerable.
-
-No one at Wardrobe is there to be ogled or objectified. Desire exists, but domination, coercion, and privilege do not get a free pass. When harm happens, there are consequences, because there are standards.
-
-I’m not writing to get paid or to feed a fetish market; I’m writing from a moral imperative. That means:
-
-I’m not looking for collaborators, co-writers, or “let’s make this a comic” proposals.
-
-I’m very protective of the tone and purpose of this work; it would not translate to a visual format without compromising those values.
-
-If you enjoy the stories as they are and want to talk about themes, characters, or craft, you’re very welcome. If you’re here to pitch projects or to steer the content somewhere more objectifying, we’re probably not a match.
-
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
 
 
 
@@ -114,7 +92,7 @@ sack (3)
 larrikin (4)
 Oi (5)
 
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
 
 
 
@@ -225,5 +203,47 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
   
   </div>
 </div>
+
+<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+
+
+
+
+
+
+## Celeste Explains
+
+<style>
+  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
+  .column {flex: 1 1 0; min-width: 0;}
+  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
+</style>
+
+<div class="flex-container" markdown>
+<div class="column">
+
+<div style="position:relative;padding-top:100%">
+    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
+    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
+    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
+</div>
+
+
+</div>
+<div class="column column--right" markdown>
+Celeste explains to Charlie (she calls him 'Sharl', like, short for 'Charlemagne?') about genetics and human development at the embryonic stages, as she understands it. Her explanation is over-simplified - chromosomes matter - but it serves the purpose. Charlie is besotted with her and unquestioningly accepts any wisdom she may share with him.
+  
+This bit did leave him a bit perturbed, of course.
+  
+He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
+
+**Side Note:**  
+*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](Charlotte/CG-1Scenes.md)*.
+</div>
+</div>
+
+<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+
+
 
 <hr style="height:24px;border-width:0;color:pink;background-color:pink">

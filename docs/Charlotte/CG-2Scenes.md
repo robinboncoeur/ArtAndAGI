@@ -49,8 +49,12 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 ## 1 Are You Lost?
 
+[![Charlotte in Wardrobe][S01a]{ .artR width="460" }][S01a]
+
+<!--
 <a href="/assets/images/story/Scene01a.jpg" target="_blank" rel="noopener">
   <img src="/assets/images/story/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+/-->
 
 ---
 
@@ -13546,3 +13550,6 @@ I reached across the narrow gap and curled my fingers around Sarah’s where the
 As the plane dipped further and the world rose up to meet us, I pressed my forehead one more time against the humming window and let myself believe, properly, that I was exactly where I was meant to be: flying north with a woman I trusted at my side, another one waiting for me in a small, messy flat far below the clouds, and the next chapter of my life laid out somewhere between the coast and the hills, ready to be stitched. ✨
 
 <hr style="height:24px;border-width:0;color:yellow;background-color:yellow">
+
+
+[S01a]: /assets/images/story/Scene01a.jpg
