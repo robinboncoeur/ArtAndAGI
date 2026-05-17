@@ -20,8 +20,11 @@
 
 [Robyn]   
 Hi Emily. It's 1:09 in the wee hours and I can't sleep. Coughing (a tickle, mainly, not all that productive) and a runny nose. Can't seem to shake this thing!
-Anything, thinking about where yo go with "The Deep End". We've got Celeste coming to terms with the strength of her influence—being right was not innocent; it wasn't wrong, either—and Charlotte showing some assertiveness. I'm sort-of thinking: we might let them sort themselves out, and—from Brittany's perspective—get Lauren to realise she *does* have a brave, loyal daughter who took some risk upon herself to make clear to Roger that he hadn't lost anything, because he never really had what he thought he lost.
+
+Anything, thinking about where to go with "The Deep End". We've got Celeste coming to terms with the strength of her influence—being right was not innocent; it wasn't wrong, either—and Charlotte showing some assertiveness. I'm sort-of thinking: we might let them sort themselves out, and—from Brittany's perspective—get Lauren to realise she *does* have a brave, loyal daughter who took some risk upon herself to make clear to Roger that he hadn't lost anything, because he never really had what he thought he lost.
+
 There's a number of ways they could explore this. Remember, Sarah was always slightly TERF about Charlotte. Charlotte did prove herself in Queensland, but in a way Sarah didn't even realise. And now, she has a new respect for Charlotte: facing Roger the way she did ended Lauren and Sarah's ennuis with him.
+
 Perhaps you can think of other ways Brittany could contribute? Allusion to Pool Party? When her dog died, how comforting Charlotte was? Brittany was the one to finally *name* Charlotte, remember.
 
 
