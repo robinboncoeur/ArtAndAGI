@@ -1,13 +1,22 @@
 # Art and Writing
 
+[![Celeste and Charli][Br35c]{ .artC width="1100" }][Br35c]
 
-{% artR "07-WritingFriday.jpg", "Celeste writing", 460 %}
+<hr class="section-break strong" />
+
+
+
 
 
 
 ## Women Were Never the Footnote
 
-<img src="/assets/images/story/07-WritingFriday.jpg" style="float: right; width: 460px; margin-left: 20px; margin-bottom: 10px;" />
+
+[![Robyn asking Emily writing tips][St00a]{ .artR width="460" }][St00a]
+
+[St00a]: assets/images/story/00Writer.jpg
+
+
 
 This site begins with a simple refusal:
 
@@ -21,7 +30,7 @@ I am interested in what those worlds did to women: what they permitted, what the
 
 I have developed a story around these themes: one in which women do not wait politely at the margins, and one in which old assumptions are not simply questioned, but overturned. It is called [*Celeste's Girl*](Charlotte/CG-2Scenes.md). The story takes place in present-day Victoria, south of Melbourne, at a fictitious historical faire, in the Wardrobe department.
 
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+<hr class="section-break soft" />
 
 
 
@@ -42,7 +51,7 @@ This is a working space.
 *A place to put women back where they always belonged:* **at the centre**.
 
 
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+<hr class="section-break strong" />
 
 
 
@@ -67,7 +76,7 @@ It is a story about who has power, who has safety, who is believed, and who is f
 
 I am not writing it to chase a market. I am writing it because the subject matters. 
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -92,7 +101,7 @@ sack (3)
 larrikin (4)
 Oi (5)
 
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+<hr class="section-break strong" />
 
 
 
@@ -150,7 +159,9 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
   Your browser does not support the <code>audio</code> element. 
 </audio>
 
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
+👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻
+
+<hr class="section-break strong" />
 
 
 
@@ -161,89 +172,40 @@ The film "Portrait de la Jeune Fille En Feu" lit the fuse that inspired the Cele
 
 ## Test Images
 
-👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻
-<div class="flex-container">
-  <div class="column">
+[![Scene03][S03a]{ .artC width="200" }][S03a]
+[![Scene07][S07a]{ .artC width="200" }][S07a]
+[![Scene09][S09a]{ .artC width="200" }][S09a]
+[![Scene12][S12a]{ .artC width="200" }][S12a]
+[![Scene14][S14a]{ .artC width="200" }][S14a]
 
-  <a href="/assets/images/story/Scene03a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene03a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene07a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene07a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene09a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene09a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene12a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene12a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene14a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene14a.jpg" alt="Go" width="200" loading="lazy"></a>
-  
-  </div>
-</div>
-
-<div class="flex-container">
-  <div class="column">
-
-  <a href="/assets/images/story/Scene15a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene15a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene17a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene17a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene19a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene19a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene22a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene22a.jpg" alt="Go" width="200" loading="lazy"></a>
-
-  <a href="/assets/images/story/Scene28a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene28a.jpg" alt="Go" width="200" loading="lazy"></a>
-  
-  </div>
-</div>
-
-<hr style="height:8px; border-width:0; color:blue; background-color:blue" />
+[![Scene15][S15a]{ .artC width="200" }][S15a]
+[![Scene17][S17a]{ .artC width="200" }][S17a]
+[![Scene19][S19a]{ .artC width="200" }][S19a]
+[![Scene22][S22a]{ .artC width="200" }][S22a]
+[![Scene28][S28a]{ .artC width="200" }][S28a]
 
 
 
 
+<hr class="section-break soft" />
 
 
-## Celeste Explains
+<!--  Image references  -->
 
-<style>
-  .flex-container {display: flex; gap: 20px; align-items: flex-start;}
-  .column {flex: 1 1 0; min-width: 0;}
-  .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
-</style>
+[Br35c]: assets/images/story/Bnr35c.jpg
 
-<div class="flex-container" markdown>
-<div class="column">
+[St00a]: assets/images/story/00Writer.jpg
 
-<div style="position:relative;padding-top:100%">
-    <iframe src="https://customer-ze4n45l8rqsb9yse.cloudflarestream.com/420e07a7d02c25184d2faf7e6ff0b53c/iframe"
-    allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture"
-    style="border:none;position:absolute;inset:0;width:100%;height:100%"></iframe>
-</div>
+[S03a]: assets/images/story/Scene03a.jpg
+[S07a]: assets/images/story/Scene07a.jpg
+[S09a]: assets/images/story/Scene09a.jpg
+[S12a]: assets/images/story/Scene12a.jpg
+[S14a]: assets/images/story/Scene14a.jpg
 
+[S15a]: assets/images/story/Scene15a.jpg
+[S17a]: assets/images/story/Scene17a.jpg
+[S19a]: assets/images/story/Scene19a.jpg
+[S22a]: assets/images/story/Scene22a.jpg
+[S28a]: assets/images/story/Scene28a.jpg
 
-</div>
-<div class="column column--right" markdown>
-Celeste explains to Charlie (she calls him 'Sharl', like, short for 'Charlemagne?') about genetics and human development at the embryonic stages, as she understands it. Her explanation is over-simplified - chromosomes matter - but it serves the purpose. Charlie is besotted with her and unquestioningly accepts any wisdom she may share with him.
-  
-This bit did leave him a bit perturbed, of course.
-  
-He failed to comprehend what she was driving at with this, and, in the story, just the mere notion overwhelmed him.
-
-**Side Note:**  
-*This discussion ensued during his inital days at the Faire (in a former version). The 'Celeste's Girl' story is currently seeing the light of day on [DeviantArt](https://www.deviantart.com/celestesgrl/gallery/99567967/the-story). What is published there will actually be revised again. The start of the story on this site is [here](Charlotte/CG-1Scenes.md)*.
-</div>
-</div>
-
-<hr style="height:4px; border-width:0; color:pink; background-color:pink" />
-
-
-
-<hr style="height:24px;border-width:0;color:pink;background-color:pink">
+<hr class="section-break strong" />

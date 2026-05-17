@@ -1,6 +1,12 @@
 # Celeste's Girl 2.0
 
-<img src="/assets/images/story/PageHead.jpg" style="width: 1100px" />
+
+[![Wardrobe][Br01a]{ .artC width="1100" }][Br01a]
+
+
+
+
+<hr class="section-break strong" />
 
 
 
@@ -10,7 +16,8 @@
   .column--right {border-left: 1px solid var(--md-default-fg-color--lightest); padding-left: 20px; }
 </style>
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -22,13 +29,10 @@ This is an edited version of the original [**Celeste's Girl**](CG-1Scenes.md) st
 
 These 'scenes' were exercises in "Sensory Writing", i.e., the reader's meant to feel what the character is experiencing. Good writers do this naturally. And I'm not a writer, so this was a new skill. I hope that as each addition 'scene' comes online, the story becomes the thing, and not just a series of exercises. 
 
----
-
-😄🧵💛👭 💞 🖤 🍓 🌶 🚪 🔑 🛋 🫧 🌩 🌧 🧵 🪡 👗 👚 👜 👠 🩰 💄 💋 🎻 📒 ✂ 🩸 💧 🚺 ⚧ ♀ ⚜
-
----
 
 ## Introduction
+
+[![Charlotte][St00a]{ .artL width="360" }][St00a]
 
 I wrote **Celeste's Girl** because I'm tired of two lies: that womanhood is a costume, and that trans-women are a threat rather than an ally. I know, intimately, what male privilege feels like from the inside—and what it means to step away from it. No one abandons that invisible armour for "skirts and perfume." They do it for survival, for coherence, for the simple, radical relief of finally being able to recognise themselves in the mirror and in their own life.
 
@@ -42,33 +46,28 @@ What does it cost her? What does it cost them? What does everyone gain that none
 
 **Celeste's Girl** is my love letter to women's work, to chosen family, and to the fierce, unglamorous kind of solidarity that stands in front of loading bays and board tables and says: "No. Not here. Not to her." It's also a quiet insistence that trans women are not an enemy camp, but some of the keenest, most motivated allies women will ever have in dismantling the structures that harm us all.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
 
 ## 1 Are You Lost?
 
-[![Charlotte in Wardrobe][S01a]{ .artR width="460" }][S01a]
 
-<!--
-<a href="/assets/images/story/Scene01a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene01a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
-/-->
+[![Charlotte][S01a]{ .artR width="400" }][S01a]
 
----
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
     <div class="music-label">Scene One</div>
     <audio controls preload="metadata" class="music-player">
-      <source src="https://cloud.seabrae.org/index.php/s/YiCNakaLLPjgges/download" type="audio/mpeg">
+      <source src="https://cloud.seabrae.org/index.php/s/f6zWDZpFj88Eo6n/download" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
   </div>
 </div>
 
----
 
 [ *Celeste* ]
 
@@ -170,7 +169,8 @@ I’m very good at inspiring it.
 
 I don’t always leave it alone.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -182,10 +182,9 @@ I don’t always leave it alone.
 
 ## 2 Group Task
 
-<a href="/assets/images/story/Scene02a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene02a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
----
+[![Charlotte][S02a]{ .artR width="440" }][S02a]
+
 
 <div class="music-card music-card--with-art">
   <div class="music-content">
@@ -196,8 +195,6 @@ I don’t always leave it alone.
     </audio>
   </div>
 </div>
-
----
 
 [ *Celeste* ]
 
@@ -385,7 +382,8 @@ His breath caught—then, he nodded once, careful, like he didn’t trust his ow
 
 I could feel him watching me walk away.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -397,10 +395,9 @@ I could feel him watching me walk away.
 
 ## 3 Wardrobe 🧵
 
-<a href="/assets/images/story/Scene03a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene03a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
 
----
+[![Charlie][S03a]{ .artR width="460" }][S03a]
+
 
 <div class="music-card music-card--with-art">
   <img src="/assets/images/story/Scene03a.jpg" alt="Charlie" class="music-art">
@@ -413,8 +410,6 @@ I could feel him watching me walk away.
     </audio>
   </div>
 </div>
-
----
 
 [ *Celeste* ]
 
@@ -836,7 +831,8 @@ Not a lifeline. A lane. A place he could earn.
 
 And, if he chose it, keep.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -847,8 +843,9 @@ And, if he chose it, keep.
 
 ## 4 First Day 🧵
 
-<a href="/assets/images/story/Scene04a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene04a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S04a]{ .artR width="460" }][S04a]
+
 
 [ *Celeste* ]
 
@@ -1128,7 +1125,8 @@ His shoulders seemed to drop, the tiniest bit.
 
 He was coming back tomorrow.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -1140,8 +1138,9 @@ He was coming back tomorrow.
 
 ## 5 Second Day 🪡
 
-<a href="/assets/images/story/Scene05a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene05a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S05a]{ .artR width="460" }][S05a]
+
 
 [*Celeste*]
 
@@ -1385,7 +1384,8 @@ He’s going to have to learn that being chosen is not a miracle. It’s a respo
 
 And I’m not letting him waste it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -1396,8 +1396,9 @@ And I’m not letting him waste it.
 
 ## 6 Answers ✨
 
-<a href="/assets/images/story/Scene06a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene06a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S06a]{ .artR width="460" }][S06a]
+
 
 [ *Celeste* ]
 
@@ -1575,7 +1576,8 @@ There would be time for that later.
 
 For now—this was enough.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -1589,8 +1591,8 @@ For now—this was enough.
 
 ## 7 Lauren ✨
 
-<a href="/assets/images/story/Scene07a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene07a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S07a]{ .artR width="460" }][S07a]
 
 
 [ *Celeste* ]
@@ -1809,7 +1811,8 @@ Mara glanced at me with a piercing look.
 
 "That's right. Remember that."
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -1820,8 +1823,8 @@ Mara glanced at me with a piercing look.
 
 ## 8 Infrastructure ✨
 
-<a href="/assets/images/story/Scene08a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene08a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S08a]{ .artR width="460" }][S08a]
 
 
 [ *Celeste* ]
@@ -1982,7 +1985,8 @@ He held the work.
 
 They held everything else.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -1996,8 +2000,9 @@ They held everything else.
 
 ## 9 Noise or Signal ✨
 
-<a href="/assets/images/story/Scene09a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene09a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S09a]{ .artR width="460" }][S09a]
+
 
 [ *Celeste* ]
 
@@ -2227,7 +2232,8 @@ In the quiet that followed, Charlie returned to the mannequin and began marking 
 He did so in a room where noise would stay outside—because inside, we had signal.
 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -2243,8 +2249,9 @@ He did so in a room where noise would stay outside—because inside, we had sign
 
 ## 10 Not My First Choice 👗
 
-<a href="/assets/images/story/Scene10a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene10a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S10a]{ .artR width="460" }][S10a]
+
 
 👗
 [Celeste]
@@ -2519,7 +2526,8 @@ And in that moment, with chalk on fabric and a plan on paper, Wardrobe stopped b
 
 It became a place that made new ones.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -2535,8 +2543,9 @@ It became a place that made new ones.
 
 ## 11 Has Charlie Run It? ✨
 
-<a href="/assets/images/story/Scene11a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene11a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S11a]{ .artR width="460" }][S11a]
+
 
 [ *Celeste* ]
 
@@ -2704,7 +2713,8 @@ We had built a system where his precision had a place.
 
 And once a precision like that has a place, it becomes the rule.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -2717,8 +2727,9 @@ And once a precision like that has a place, it becomes the rule.
 
 ## 12 The Ledger 📒
 
-<a href="/assets/images/story/Scene12a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene12a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S12a]{ .artR width="460" }][S12a]
+
 
 [Celeste]
 
@@ -2863,7 +2874,8 @@ I signed, and the ink looked oddly serious on the page, as if the act itself had
 
 And just like that, the atelier took one step away from being a clever little pocket of women doing miracles in private, and one step toward being a system that could withstand daylight and strangers.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -2876,8 +2888,9 @@ And just like that, the atelier took one step away from being a clever little po
 
 ## 13 Working Stays ✨
 
-<a href="/assets/images/story/Scene13a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene13a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S13a]{ .artR width="460" }][S13a]
+
 
 [ *Celeste* ]
 
@@ -3118,7 +3131,8 @@ And then, Mara added, already sorting tape and canvas into a new pile:
 
 Charlie’s pen paused. Finally, he underlined front closure once, neatly, and got back to work.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -3130,8 +3144,9 @@ Charlie’s pen paused. Finally, he underlined front closure once, neatly, and g
 
 ## 14 Working Stays 2 ✨
 
-<a href="/assets/images/story/Scene14a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene14a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S14a]{ .artR width="460" }][S14a]
+
 
 [ *Celeste* ]
 
@@ -3351,7 +3366,8 @@ Charlie stared at the page for a long second.
 
 It was commitment.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -3364,8 +3380,9 @@ It was commitment.
 
 ## 15 The Ladder ✨
 
-<a href="/assets/images/story/Scene15a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene15a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S15a]{ .artR width="460" }][S15a]
+
 
 [ *Celeste* ]
 
@@ -3698,7 +3715,8 @@ Charlie looked once at the movement list, then at his mum.
 
 And Lauren lifted her arms.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -3713,8 +3731,9 @@ And Lauren lifted her arms.
 
 ## 16 First Rung ✨
 
-<a href="/assets/images/story/Scene16a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene16a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S16a]{ .artR width="460" }][S16a]
+
 
 [ *Celeste* ]
 
@@ -3891,7 +3910,8 @@ Mara didn’t smile.
 
 The next rung was already waiting.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -3902,8 +3922,9 @@ The next rung was already waiting.
 
 ## 17 Second Rung ✨
 
-<a href="/assets/images/story/Scene17a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene17a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S17a]{ .artR width="460" }][S17a]
+
 
 [ *Celeste* ]
 
@@ -4095,7 +4116,8 @@ Charlie picked up his chalk.
 
 Work was what you did next.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -4107,8 +4129,9 @@ Work was what you did next.
 
 ## 18 Third Rung ✨
 
-<a href="/assets/images/story/Scene18a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene18a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S18a]{ .artR width="460" }][S18a]
+
 
 [ *Celeste* ]
 
@@ -4322,7 +4345,7 @@ Charlie picked up his chalk.
 
 Competence could become a habit. Habits held when people didn’t.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
 
 
 
@@ -4333,17 +4356,14 @@ Competence could become a habit. Habits held when people didn’t.
 
 
 
-## 19 The Numbers ✨
 
-<a href="/assets/images/story/Scene19a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene19a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+## 19 The Numbers  📝
+
+
+[![Charlie][S19a]{ .artR width="460" }][S19a]
+
 
 [ *Celeste* ]
-
-📒 The Numbers 📝
-
-
- [ *Celeste* ]
 
 Mara called me to the cutting table the way she called anyone: a hand gesture that assumed you’d come, and a tone that didn’t waste time making you feel chosen.
 
@@ -4570,8 +4590,9 @@ Inside, at the cutting table, we began building a story that would hold.
 
 ## 20 House Policy ✨ 
 
-<a href="/assets/images/story/Scene20a.jpg" target="_blank" rel="noopener">
-  <img src="/assets/images/story/Scene20a.jpg" style="float: right; width: 460px; margin-left: 20px"></a>
+
+[![Charlie][S20a]{ .artR width="460" }][S20a]
+
 
 [ *Celeste* ]
 
@@ -4797,7 +4818,8 @@ He was useful.
 
 This was work.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -4809,6 +4831,10 @@ This was work.
 ## 21 Terms ✨
 
 [ *Celeste* ]
+
+
+[![Charlie][S21b]{ .artR width="460" }][S21b]
+
 
 Charlie arrived with a box of labels instead of a suitcase.
 
@@ -4953,7 +4979,8 @@ I held his gaze.
 
 
 
-<img src="/assets/images/story/Scene21a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+
+[![Charlie][S21a]{ .artR width="460" }][S21a]
 
 
 
@@ -4978,7 +5005,8 @@ Charlie’s gaze flicked, briefly, to the signed sheet on the bench. Then he rea
 It was to be reliable.
 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -4989,6 +5017,10 @@ It was to be reliable.
 
 
 ## 22 Rails ✨
+
+
+[![Charlie][S22a]{ .artR width="460" }][S22a]
+
 
 [ *Celeste* ]
 
@@ -5040,7 +5072,7 @@ When I emerged, eyes gritty from screens and concentration, the house smelled li
 
 
 
-<img src="/assets/images/story/Scene22a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Charlie][S22a]{ .artR width="460" }][S22a]
 
 
 
@@ -5177,7 +5209,8 @@ His presence no longer felt like a risk.
 
 It felt like a system we could both live inside.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -5187,6 +5220,10 @@ It felt like a system we could both live inside.
 
 
 ## 23 Settling ✨
+
+
+[![Charlie][S23a]{ .artR width="460" }][S23a]
+
 
 [ *Celeste* ]
 
@@ -5358,7 +5395,7 @@ I tapped the whiteboard.
 
 
 
-<img src="/assets/images/story/Scene23a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Charlie][S23a]{ .artR width="460" }][S23a]
 
 
 
@@ -5378,13 +5415,44 @@ Work, at least, was something we all understood.
 
 And boredom—sweet, structured boredom—was how we were going to survive.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
 
 
 
 
 
 
+<!--  Image references  -->
+
+[Br01a]: ../assets/images/story/Bnr01a.jpg
+
+[St00a]: ../assets/images/story/00Writer.jpg
+
+[S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
 <!--
 
 ## 24 The Operating Surface ✨
@@ -5617,7 +5685,8 @@ And the operating surface — ledger, invoices, swatches, calculator, laptop —
 
 More like a plan.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -5817,7 +5886,8 @@ By structure.
 
 By “we”.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -6057,7 +6127,8 @@ Sarah’s mouth curved. The apple crunched.
 
 And the pencil kept moving.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -6368,7 +6439,8 @@ And that was Wardrobe, wasn’t it? Just women doing the quiet, effective thing.
 
 Turning “she” from a word into a place.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -6627,7 +6699,8 @@ And Charli—Charli laughed too. Not small this time: a real laugh. A first, for
 
 It was as if the word she had stopped being a risk and started being a home.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -6772,7 +6845,8 @@ And Charli had tied her happiness to it in a way that made her both luminous… 
 
 It would be her.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -7148,7 +7222,8 @@ So we’d have to give her something real in its place. Something supervised. So
 
 And we’d have to do it gently enough that she stayed whole.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -7367,7 +7442,8 @@ She didn’t need me distant to prove we were being safe.
 
 She needed me close to feel that safety, herself.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -7702,7 +7778,8 @@ I signalled left.
 
 Charli nodded, and for the first time in days, the nod didn’t look like surrender.It looked like choice.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -7929,7 +8006,8 @@ Charli’s eyes shone again. She didn’t wipe them. She just watched me, as if 
 
 I held her hand like a vow I intended to keep.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -8247,7 +8325,8 @@ I let my own breath out slowly, careful and steady. In the soft domestic hush, I
 
 The kind that could make a girl feel—maybe for the first time—that she didn’t have to be brave alone.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -8674,7 +8753,8 @@ The hardest part wasn’t wanting her.
 
 The hardest part was making wanting her safe.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9042,7 +9122,8 @@ Outside, the heat raged on.
 
 Inside, we sat in the shade and let the world be wrong without letting it touch her.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9178,7 +9259,8 @@ I bent over and kissed her—slow, sealing—and thought, with steel wrapped in 
 
 I will not be late again.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9324,7 +9406,8 @@ I smiled.
 
 Done meant done.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9487,7 +9570,8 @@ It was a kind of warmth. A kind of beauty. A kind of yes.
 
 And that yes was woman-shaped.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9714,7 +9798,8 @@ I stepped out.
 
 And for the first time that day I felt the faintest hint of peace: not because everything was resolved, but because I knew women who would not let me face it alone.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -9945,7 +10030,8 @@ Not the cold silence of a man being absent.
 
 The calm quiet of a woman being present.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -10243,7 +10329,8 @@ I nodded.The fear in my body didn’t vanish.
 
 But it no longer had the whole house to itself.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -10445,7 +10532,8 @@ Ordinary.Heavy with meaning.I stood there a moment with the metal warming in my 
 
 And I closed my fingers around it. 🔑✨
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 /-->
@@ -10644,7 +10732,8 @@ Roger could sell the house. He could keep every possession he had ever collected
 
 But he no longer possessed me.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -10905,7 +10994,8 @@ But her smile lingered with a kind of satisfaction, as if she already knew she h
 
 And I realised, as the light turned green and I drove us home, that my future included Sarah.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -11051,7 +11141,8 @@ Just to feel it.
 
 Then I followed Sarah into the kitchen, heart quiet for the first time all day, and let the door swing gently closed behind me.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -11246,7 +11337,8 @@ And I stayed there, feeling the warmth of her.
 
 There’s always tomorrow.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -11483,7 +11575,8 @@ The last clear thought I remember was simple and absolute:
 
 None of this was temporary anymore.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -11820,7 +11913,8 @@ Tomorrow, I would put her in the Swift and let her ask them as I drove her home 
 
 For tonight, it was enough that she was here, Charli was warm beside me, and nobody was pretending change was impossible.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -12019,7 +12113,8 @@ I turned the key again and pulled away, heading towards Uni—and towards a life
 
 We weren’t waiting anymore.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -12219,7 +12314,8 @@ Outside, somewhere between here and Queensland, a man was rehearsing a scene in 
 
 Inside, we were getting on with the work.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -12550,7 +12646,8 @@ Resilience isn’t the speed at which you stop hurting. It’s the certainty tha
 
 We were, slowly and clumsily, getting there. Together.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -12736,7 +12833,8 @@ I tapped the Thai takeaway number I had on speed-dial.
 
 One decision at a time.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -13021,7 +13119,8 @@ For now, it was just the two of us in our too-small bed, clutching damp cotton a
 
 
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -13261,7 +13360,8 @@ She nodded against me, the movement small and sure.
 
 For the first time since Queensland had become a solid thing on the calendar, I believed it.
 
-<hr style="height:2px;border-width:0;color:yellow;background-color:yellow">
+<hr class="section-break soft" />
+
 
 
 
@@ -13552,4 +13652,4 @@ As the plane dipped further and the world rose up to meet us, I pressed my foreh
 <hr style="height:24px;border-width:0;color:yellow;background-color:yellow">
 
 
-[S01a]: /assets/images/story/Scene01a.jpg
+[S01a]: ../assets/images/story/Scene01a.jpg
