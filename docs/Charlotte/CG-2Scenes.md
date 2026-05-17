@@ -5422,42 +5422,15 @@ And boredom—sweet, structured boredom—was how we were going to survive.
 
 
 
-<!--  Image references  -->
 
-[Br01a]: ../assets/images/story/Bnr01a.jpg
-
-[St00a]: ../assets/images/story/00Writer.jpg
-
-[S01a]: ../assets/images/story/Scene01a.jpg
-[S02a]: ../assets/images/story/Scene02a.jpg
-[S03a]: ../assets/images/story/Scene03a.jpg
-[S04a]: ../assets/images/story/Scene04a.jpg
-[S05a]: ../assets/images/story/Scene05a.jpg
-[S06a]: ../assets/images/story/Scene06a.jpg
-[S07a]: ../assets/images/story/Scene07a.jpg
-[S08a]: ../assets/images/story/Scene08a.jpg
-[S09a]: ../assets/images/story/Scene09a.jpg
-[S10a]: ../assets/images/story/Scene10a.jpg
-[S11a]: ../assets/images/story/Scene11a.jpg
-[S12a]: ../assets/images/story/Scene12a.jpg
-[S13a]: ../assets/images/story/Scene13a.jpg
-[S14a]: ../assets/images/story/Scene14a.jpg
-[S15a]: ../assets/images/story/Scene15a.jpg
-[S16a]: ../assets/images/story/Scene16a.jpg
-[S17a]: ../assets/images/story/Scene17a.jpg
-[S18a]: ../assets/images/story/Scene18a.jpg
-[S19a]: ../assets/images/story/Scene19a.jpg
-[S20a]: ../assets/images/story/Scene20a.jpg
-[S21a]: ../assets/images/story/Scene21a.jpg
-[S22a]: ../assets/images/story/Scene22a.jpg
-[S23a]: ../assets/images/story/Scene23a.jpg
-[S24a]: ../assets/images/story/Scene24a.jpg
-[S25a]: ../assets/images/story/Scene25a.jpg
-<!--
 
 ## 24 The Operating Surface ✨
 
 [ *Celeste* ]
+
+
+[![Charlie][S24a]{ .artR width="460" }][S24a]
+
 
 I cleared the table the way you clear a bench before you do something you can’t afford to botch. Not ceremoniously. Not dramatically. Just… quietly, completely. Mug rings wiped away. Crumbs vanished into my palm. The loose thread someone had left like a dead spider got flicked into the bin. I laid everything out with that flat, clinical care you see in a good salon when the colourist lines up foils. You’re not playing at precision: you’re committing to it.
 
@@ -5520,7 +5493,7 @@ His eyes moved down the page. Movement. Stress. Failure points. Fix applied. Re-
 He let out a faint breath that might have been a laugh if he’d trusted himself to make it.
 
 
-<img src="/assets/images/story/Scene24a.jpg" style="float: right; width: 440px; margin-left: 20px" />
+[![Charlie][S24a]{ .artR width="460" }][S24a]
 
 
 I pointed at the laptop.
@@ -5575,11 +5548,11 @@ Wife.
 
 He’s my wife.
 
-There was instant dissonance. The term was so gendered it didn’t fit at all. I tried to replace it with something more socially acceptable, less stigmatising — something that carried the same shape.
+The dissonance hit at once. The word was so gendered it jarred. I tried to swap it for something safer, something less loaded, something that carried the same shape.
 
 Nothing else fit.
 
-Wife, not in clothes, not in pronouns… but in function. Labour that doesn’t get a spotlight and doesn’t ask for one. Support: the kind that keeps the whole place standing while most people only notice the roof.
+Wife, not in clothes, not in name, not yet in the way anyone else would mean it—but in function. Labour that doesn’t get a spotlight and doesn’t ask for one. Support: the kind that keeps the whole place standing while most people only notice the roof.
 
 The part that made my stomach go so tight it ached wasn’t the thought itself.
 
@@ -5693,7 +5666,40 @@ More like a plan.
 
 
 
+<!--  Image references  -->
+[![Charlie][S23a]{ .artR width="460" }][S23a]
 
+[Br01a]: ../assets/images/story/Bnr01a.jpg
+
+[St00a]: ../assets/images/story/00Writer.jpg
+
+[S01a]: ../assets/images/story/Scene01a.jpg
+[S02a]: ../assets/images/story/Scene02a.jpg
+[S03a]: ../assets/images/story/Scene03a.jpg
+[S04a]: ../assets/images/story/Scene04a.jpg
+[S05a]: ../assets/images/story/Scene05a.jpg
+[S06a]: ../assets/images/story/Scene06a.jpg
+[S07a]: ../assets/images/story/Scene07a.jpg
+[S08a]: ../assets/images/story/Scene08a.jpg
+[S09a]: ../assets/images/story/Scene09a.jpg
+[S10a]: ../assets/images/story/Scene10a.jpg
+[S11a]: ../assets/images/story/Scene11a.jpg
+[S12a]: ../assets/images/story/Scene12a.jpg
+[S13a]: ../assets/images/story/Scene13a.jpg
+[S14a]: ../assets/images/story/Scene14a.jpg
+[S15a]: ../assets/images/story/Scene15a.jpg
+[S16a]: ../assets/images/story/Scene16a.jpg
+[S17a]: ../assets/images/story/Scene17a.jpg
+[S18a]: ../assets/images/story/Scene18a.jpg
+[S19a]: ../assets/images/story/Scene19a.jpg
+[S20a]: ../assets/images/story/Scene20a.jpg
+[S21a]: ../assets/images/story/Scene21a.jpg
+[S22a]: ../assets/images/story/Scene22a.jpg
+[S23a]: ../assets/images/story/Scene23a.jpg
+[S24a]: ../assets/images/story/Scene24a.jpg
+[S25a]: ../assets/images/story/Scene25a.jpg
+
+<!--
 ## 25 Definitions ✨
 
 [ *Celeste* ]
